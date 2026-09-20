@@ -1,0 +1,1358 @@
+{
+  "id": "COL-MYL-AGENT-LINKS",
+  "publisherId": "PUB-MYL",
+  "title": "Agent开发面试题（附链接版",
+  "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/zizeehc2qzhfy4xw",
+  "sourceKind": "curated_question_set",
+  "access": "public",
+  "capturedAt": "2026-09-14",
+  "lastCheckedAt": "2026-09-14",
+  "verification": "linked_sources",
+  "sourceClaim": "题单按主题整理，每道题附有对应的语雀页面或正文锚点。",
+  "items": [
+    {
+      "id": "COL-MYL-AGENT-LINKS-001",
+      "position": 1,
+      "originalTitle": "什么是 AI Agent？它与传统 LLM 应用（如 ChatBot ／ Chain）相比的核心区别是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/759675819ce78d5a851af0dcf3b6bea8",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-002",
+      "position": 2,
+      "originalTitle": "一个完整的 Agent 系统通常包含哪些核心模块（如 Planning、Memory、Tool Use 等）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/e788cdb7701eca8a28cbcf5008583fc1",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-003",
+      "position": 3,
+      "originalTitle": "Agent 的整体执行流程（Agent Loop）是怎样的？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/ea8eef84c61204175d90a92fb7c58831",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-004",
+      "position": 4,
+      "originalTitle": "Agent 如何实现推理（Reasoning）、决策（Decision）和自主执行（Action）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/cfc0ac77a151c30c448881a2aed3cb91",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-005",
+      "position": 5,
+      "originalTitle": "单 Agent 与 Multi-Agent 架构的区别、优缺点及适用场景是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/7768559ca8b0d90e9d39148d4b172e33",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-006",
+      "position": 6,
+      "originalTitle": "在复杂任务中，如何设计多 Agent 协作架构？常见协作模式有哪些？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/a61f8e16bc46d1a622e9190aac270f75",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-007",
+      "position": 7,
+      "originalTitle": "Agent 中 Workflow 和 Agent 的区别是什么？分别适用于什么场景？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/5b9565d52b6af9de2bf6b2d6d39be7e8",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-008",
+      "position": 8,
+      "originalTitle": "如何设计一个支持可扩展工具调用的 Agent 架构？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/471d28fcf4655f65649f447543b11e3a",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-009",
+      "position": 9,
+      "originalTitle": "Agent 系统中状态管理如何设计？如何避免状态混乱或状态爆炸？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/27523f5745df1e2982f3924b5fe49aac",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-010",
+      "position": 10,
+      "originalTitle": "Agent 架构如何支持高并发、多租户和多用户隔离？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/c73bc096369835a63ef18a212dc7f5d2",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-011",
+      "position": 11,
+      "originalTitle": "Prompt Engineering 的核心方法有哪些（如 Few-shot、CoT 等）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/9899d2e362940c9996444af06bfa5f12",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-012",
+      "position": 12,
+      "originalTitle": "如何设计高质量 Prompt？如何评估 Prompt 优化是否有效？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/c9125964052e97d08efbf677d1debdf2",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-013",
+      "position": 13,
+      "originalTitle": "Prompt 模板系统如何设计与管理（版本控制、复用等）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/b1f665b5d722c5294bee13ad9de2fe09",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-014",
+      "position": 14,
+      "originalTitle": "上下文工程（Context Engineering）如何设计？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/7ae56703159001fd0e0956e9be113054",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-015",
+      "position": 15,
+      "originalTitle": "如何构建多轮对话的上下文结构？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/10a91537ee5706a8a7106cfa1d8efb75",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-016",
+      "position": 16,
+      "originalTitle": "如何避免上下文过长导致模型性能下降？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/e2d768787aa58b9b97114d0286602fc4",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-017",
+      "position": 17,
+      "originalTitle": "当上下文窗口不足时，如何选择保留哪些信息？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/886c401f45c1b38bac9a5e9b604cff10",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-018",
+      "position": 18,
+      "originalTitle": "如何解决“Lost in the Middle”问题？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/baa875d4cfcbaffa408f7b421feb18ec",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-019",
+      "position": 19,
+      "originalTitle": "如何设计结构化上下文（如 JSON ／ slot）以提升稳定性？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/90cc2b946248189838b0dbe4afd38a78",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-020",
+      "position": 20,
+      "originalTitle": "System Prompt 和 User Prompt 的职责边界如何划分？混用会带来什么问题？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/532b29358e50d3e4ecedb6a3bf8c34c2",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-021",
+      "position": 21,
+      "originalTitle": "如何设计多角色对话（System ／ User ／ Assistant ／ Tool）的消息结构？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/d2df92ca1a08b6c34510de3e150f8016",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-022",
+      "position": 22,
+      "originalTitle": "如何在 Prompt 中注入结构化数据（表格、JSON、代码）而不破坏模型理解？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/13c2ef78422413e6467c2422e314fb78",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-023",
+      "position": 23,
+      "originalTitle": "如何设计 Prompt 的版本管理和 A／B 测试体系？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/bde16cff9313eda96e0c2e2932936e9b",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-024",
+      "position": 24,
+      "originalTitle": "动态 Prompt 拼接（根据运行时状态组装 Prompt）的设计模式有哪些？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/b8f5d4afe5f81fb8d72f6fd7ede2b33a",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-025",
+      "position": 25,
+      "originalTitle": "Prompt Caching（如 Anthropic ／ OpenAI 提供的 Prompt Cache）的原理和使用场景是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/b538914392d41e7711ed5abe79f524c8",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-026",
+      "position": 26,
+      "originalTitle": "Agent 的记忆机制有哪些类型（短期、长期、工作记忆）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/f2894d9d112a1de842362a49241d0615",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-027",
+      "position": 27,
+      "originalTitle": "短期记忆和长期记忆的设计与本质区别是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/ea7666dbd002db81508dc80f0ea7d80f",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-028",
+      "position": 28,
+      "originalTitle": "如何实现长期记忆的存储与检索（如基于向量数据库）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/9066ef7bb6954a5d41c4b149564fb11d",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-029",
+      "position": 29,
+      "originalTitle": "记忆的更新、压缩与淘汰策略如何设计？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/1f43914ed3fcd71f2e8c16732aa696fb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-030",
+      "position": 30,
+      "originalTitle": "长期记忆是否必须淘汰？是否可以通过检索代替删除？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/cf3d8c7cbda547009664580ee7ad8877",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-031",
+      "position": 31,
+      "originalTitle": "如何将短期记忆转化为长期记忆？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/0b936aa93c55b9a1083ae50b3c2759a7",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-032",
+      "position": 32,
+      "originalTitle": "如何避免记忆占用上下文窗口导致性能下降？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/730ae0b4f138b7f3bf1ea09a453e0c37",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-033",
+      "position": 33,
+      "originalTitle": "多用户、多 session 场景下，记忆如何隔离与绑定？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/b2588f0cbf17569e65d6ee09a18e1427",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-034",
+      "position": 34,
+      "originalTitle": "RAG 的核心概念及完整流程是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/111fca6171161b4dda4d9adb8a8d0bd7",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-035",
+      "position": 35,
+      "originalTitle": "RAG 系统的主要组成模块有哪些？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/770d36e7f275cf1507cec8389b8cf32f",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-036",
+      "position": 36,
+      "originalTitle": "文档分块（chunking）的策略有哪些？如何选择 chunk size？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/e2186df14326d537b3cbb5730858a431",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-037",
+      "position": 37,
+      "originalTitle": "向量检索的原理是什么？embedding 的作用是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/0d3c55ac7a4be51b462f447833d23cdd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-038",
+      "position": 38,
+      "originalTitle": "为什么需要向量数据库？与传统数据库有何区别？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/459a015a4a66c69683ad5f2898ebe608",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-039",
+      "position": 39,
+      "originalTitle": "混合检索（BM25 + 向量）如何设计与融合？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/10664fea8e8740e34f5fa39f8ebd250f",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-040",
+      "position": 40,
+      "originalTitle": "为什么需要 rerank？常见 rerank 方法有哪些？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/3add5018aa1850f65f349f1c1d1733bd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-041",
+      "position": 41,
+      "originalTitle": "RAG 的评测指标有哪些（如准确率、召回率等）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/d7fee767fade735f357cecd6fc7e2606",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-042",
+      "position": 42,
+      "originalTitle": "如何构建高质量 RAG 评测数据集？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/14adce84a7aa3e6193b55f99809134e5",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-043",
+      "position": 43,
+      "originalTitle": "如何优化 RAG 的召回效果与生成质量？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/232114312bccdce6079df51d6cf77f3f",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-044",
+      "position": 44,
+      "originalTitle": "如何处理 RAG 中上下文过长或不相关信息干扰问题？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/d89e99283445fbd6fbabfa4539f82a02",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-045",
+      "position": 45,
+      "originalTitle": "RAG 与直接将文档输入模型相比的优势是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/c2f1948a59db0ee01a72a4ce4bfc696c",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-046",
+      "position": 46,
+      "originalTitle": "RAG 与微调（Fine-tuning）适用场景如何选择？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/2b3fab96759f496deb4680cb6f80ad76",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-047",
+      "position": 47,
+      "originalTitle": "知识图谱（Knowledge Graph）与向量检索的适用场景如何区分？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/9181385c9e325d9bdb704edf3dbbe182",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-048",
+      "position": 48,
+      "originalTitle": "GraphRAG 的核心思路是什么？与传统 RAG 相比解决了什么问题？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/47f81fb3de6f966d1fc3357cbd20657e",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-049",
+      "position": 49,
+      "originalTitle": "如何将结构化数据库（SQL）和非结构化文档结合进行混合检索？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/7cdcf14529d78b92925bf74387c67b36",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-050",
+      "position": 50,
+      "originalTitle": "Text-to-SQL 在 Agent 中如何应用？存在哪些风险和限制？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/d1cd2eb2e85b167878b4afc700455858",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-051",
+      "position": 51,
+      "originalTitle": "如何处理知识库中的冲突信息（同一问题有多个矛盾来源）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/e98c71737d47fbc937ec51b9bf7cdf61",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-052",
+      "position": 52,
+      "originalTitle": "什么是 Function Calling？其底层机制和执行流程是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/78077d60b602d3458f77f08ff84b5855",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-053",
+      "position": 53,
+      "originalTitle": "Agent 如何决定是否调用工具以及调用哪个工具？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/8a2b36537dcd5715cc53ae250dcaab74",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-054",
+      "position": 54,
+      "originalTitle": "Tool 调用的完整执行链路是怎样的？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/c4c3f7671a7ea8bab3d9d60ec266b73c",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-055",
+      "position": 55,
+      "originalTitle": "Tool 的输入输出接口如何设计？如何标准化？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/10726af08136cc393806602ecad408c4",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-056",
+      "position": 56,
+      "originalTitle": "如何处理 Tool 调用失败或返回异常？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/f610ab9e42038bf91834c4a7ff1cda04",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-057",
+      "position": 57,
+      "originalTitle": "MCP（Model Context Protocol）是什么？解决了什么问题？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/d53aa4146403ffca569ef8eb1c107da8",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-058",
+      "position": 58,
+      "originalTitle": "MCP 与 Function Calling、Skill 的区别是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/44e9fab16e8bcb278c3266ed767b6e55",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-059",
+      "position": 59,
+      "originalTitle": "Skill 的本质是什么？它的核心价值是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/b67c8a975552864b7f0350b41123c661",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-060",
+      "position": 60,
+      "originalTitle": "如何设计可插拔的工具系统？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/2f637995a7471f563197fb0121621699",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-061",
+      "position": 61,
+      "originalTitle": "如何限制 Agent 调用敏感工具（权限控制）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/38fad935d944fd2b32eb02d01bfa20d3",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-062",
+      "position": 62,
+      "originalTitle": "Agent 的任务规划（Planning）有哪些实现方式（如 ReAct、Plan-and-Execute）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/0aa13930fc31b8356e9341031c923c87",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-063",
+      "position": 63,
+      "originalTitle": "如何拆分复杂任务？任务粒度如何确定？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/57f227f67febf307f9330f813c1bb8e5",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-064",
+      "position": 64,
+      "originalTitle": "多工具调用时如何决定调用顺序？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/7ea3daf49ab9de8bb8868a88213e9ca9",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-065",
+      "position": 65,
+      "originalTitle": "Agent 如何避免执行死循环（Loop）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/7f181bbadd5b40573e16e5e9b3cefed9",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-066",
+      "position": 66,
+      "originalTitle": "如何实现自我反思（Self-Reflection ／ Self-Correction）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/e8fc6137ddcf2de4b36f9139d71db91a",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-067",
+      "position": 67,
+      "originalTitle": "如何设计长任务（跨天执行）的 Agent？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/967dfd441997e673bbbcc27d6e3282a0",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-068",
+      "position": 68,
+      "originalTitle": "如何避免多 Agent 之间无限循环或通信冗余？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/6045aa3e5c0d73356a6df7081f990b23",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-069",
+      "position": 69,
+      "originalTitle": "为什么需要 Multi-Agent 系统？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/1b82b4d0f75d29c24102036cc5d3213a",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-070",
+      "position": 70,
+      "originalTitle": "多 Agent 之间如何通信（协议、数据结构）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/a52bf27d4f1ca3de31c6648b0d07b788",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-071",
+      "position": 71,
+      "originalTitle": "多 Agent 如何进行任务分发与调度？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/4473cacc473cd4465ccdd5f55458866d",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-072",
+      "position": 72,
+      "originalTitle": "多 Agent 并发执行时如何处理冲突与一致性问题？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/e3c083b9a918855c34e2ac6dc6a6f7ca",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-073",
+      "position": 73,
+      "originalTitle": "主 Agent 与子 Agent 的职责如何划分？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/310b9522bb87dee2f2d7de6c408f3791",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-074",
+      "position": 74,
+      "originalTitle": "子 Agent 与 Skill 的区别是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/8a88e5c12b1509b88e44e34673ddf1fd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-075",
+      "position": 75,
+      "originalTitle": "多 Agent 系统如何做上下文隔离？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/976ad4b4a674edd5e2840688ab11477d",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-076",
+      "position": 76,
+      "originalTitle": "如何设计一个生产级 AI Agent 系统架构？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/ac1e71403e230b7e67cf95620967ebf2",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-077",
+      "position": 77,
+      "originalTitle": "Agent 系统如何实现高可用、容错与降级？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/a23ce50534b7b46a74b039c670357a4f",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-078",
+      "position": 78,
+      "originalTitle": "如何设计限流（令牌桶、滑动窗口等）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/8b7d466855825d0551470927bdf1354b",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-079",
+      "position": 79,
+      "originalTitle": "如何实现分布式环境下的并发控制与一致性？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/0ed3b862213219d842abbfcc52a705d0",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-080",
+      "position": 80,
+      "originalTitle": "如何设计缓存策略（Redis 等）以提升性能？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/1a3178450652b44bb1dda9b2b355226d",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-081",
+      "position": 81,
+      "originalTitle": "Agent 系统中如何做持久化（对话、状态、结果）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/4512afd45e8cffba5308d1d27ac4e9b7",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-082",
+      "position": 82,
+      "originalTitle": "如何设计流式输出（Streaming ／ SSE）机制？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/9d81b5e0548d6d1ff2d679b5ded07f42",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-083",
+      "position": 83,
+      "originalTitle": "如何处理客户端断连后的恢复？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/6f60ece47faa40c8db60738e26184f94",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-084",
+      "position": 84,
+      "originalTitle": "Agent 系统如何做日志、监控与链路追踪？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/b966256c7f59141518875f32cbdfdfe5",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-085",
+      "position": 85,
+      "originalTitle": "Agent 系统面临哪些安全风险（Prompt Injection、越权调用等）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/f9c0f4209a23ca2c1cfdb895a4d80008",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-086",
+      "position": 86,
+      "originalTitle": "如何防御 Prompt 注入攻击？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/78a6946bba8f3118e3ede6445f223f35",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-087",
+      "position": 87,
+      "originalTitle": "如何设计工具调用的权限控制机制？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/d8d3893337fddac61031a31842ca4988",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-088",
+      "position": 88,
+      "originalTitle": "如何防止数据泄露（如访问数据库）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/439c3c7c501dcb35b7dfe8b1f4923af9",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-089",
+      "position": 89,
+      "originalTitle": "如何设计沙箱环境限制 Agent 行为？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/f4487cb5c05efc0949540f14abdd03be",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-090",
+      "position": 90,
+      "originalTitle": "LLM 的输入本质是什么？模型如何处理上下文？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/93623bc539f2c6b5ad61043a8a7a602e",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-091",
+      "position": 91,
+      "originalTitle": "Transformer 中 Attention 的核心原理是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/8b85f05b71a16acd891f7f226c7ec1f9",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-092",
+      "position": 92,
+      "originalTitle": "为什么 Attention 能建模长距离依赖？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/566f45150ea2e68d0102eb307b6a5745",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-093",
+      "position": 93,
+      "originalTitle": "如何优化长上下文推理性能？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/fe74b34be35f51691c920aff8e619652",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-094",
+      "position": 94,
+      "originalTitle": "大模型幻觉产生的原因是什么？如何降低？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/fcbe60e613aa7acc901cc33ff639a279",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-095",
+      "position": 95,
+      "originalTitle": "如何提升模型生成质量？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/8d84acd051e723b5070d91121f14bb7c",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-096",
+      "position": 96,
+      "originalTitle": "如何选择不同模型（成本 vs 效果）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/fae0998f2346a369f4df16b6aaa29ad2",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-097",
+      "position": 97,
+      "originalTitle": "什么情况下应该用小模型（如 GPT-4o-mini）代替大模型？如何设计路由策略？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/d8b13cfcfbcaf0477bc6e093814d3054",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-098",
+      "position": 98,
+      "originalTitle": "如何设计模型级联（Cascade）：先用弱模型快速判断，再用强模型处理复杂任务？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/83fa3027c8129d89d097b8c125bb803e",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-099",
+      "position": 99,
+      "originalTitle": "Batch API 和实时 API 的选型策略是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/07349222786e889d03a42dfe8b24b22a",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-100",
+      "position": 100,
+      "originalTitle": "如何在多个模型供应商之间做容灾切换（Fallback Provider）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/9731d630041714cdd3b203655c6632dd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-101",
+      "position": 101,
+      "originalTitle": "如何评估 Agent 系统的整体效果？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/417e5a359a3c18e024e9737f028cdefe",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-102",
+      "position": 102,
+      "originalTitle": "Agent 评测指标有哪些？如何定义“高质量回答”？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/caad0d2f6dcbbf698c50fad7f2c9bd98",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-103",
+      "position": 103,
+      "originalTitle": "如何设计自动化评测（Eval）体系？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/ea82887a3962dad2eb26e436f8cef761",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-104",
+      "position": 104,
+      "originalTitle": "如何验证优化是否有效？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/1e8ff6838b87cf272c258c9000a4c598",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-105",
+      "position": 105,
+      "originalTitle": "如何构建线上反馈闭环（用户反馈 → 模型优化）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/36030a7423590e81d0434110b8679907",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-106",
+      "position": 106,
+      "originalTitle": "Agent 的训练数据如何构建？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/48b822fd53f6ba6a8df2e6786ea7bda8",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-107",
+      "position": 107,
+      "originalTitle": "Tool Calling 的训练数据应包含哪些类型？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/73e1c1e031ee88da0566fb1521666485",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-108",
+      "position": 108,
+      "originalTitle": "LoRA 与全参数微调的区别是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/46fb91d9ce61f279da0df5a0cde50f6f",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-109",
+      "position": 109,
+      "originalTitle": "DPO ／ PPO ／ GRPO 的区别是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/15111c1ed126a5a8b0ca02d8a1fdf085",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-110",
+      "position": 110,
+      "originalTitle": "如何利用真实数据进行模型优化？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/f4590cdd52cc4910d896b76dbe44e559",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-111",
+      "position": 111,
+      "originalTitle": "如何避免微调导致能力退化？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/164325b293ae96f4e8043bf5d3fa8bb2",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-112",
+      "position": 112,
+      "originalTitle": "Agent 系统延迟高的原因有哪些？如何优化？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/15d525d0c73fb7a06d11694e057afd1b",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-113",
+      "position": 113,
+      "originalTitle": "RAG 系统的性能优化方法有哪些？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/88cf46530ad54e7d490d46ec6e7cd517",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-114",
+      "position": 114,
+      "originalTitle": "如何减少无关上下文对模型的干扰？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/398b42d176a34cfc288bceee2e065781",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-115",
+      "position": 115,
+      "originalTitle": "如何利用缓存与并行提升性能？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/f98c74800a93e532db76eca1f5e09fe7",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-116",
+      "position": 116,
+      "originalTitle": "如何控制 token 消耗成本？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/37c461d074dbf3bbe33ed3fa7ff962f7",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-117",
+      "position": 117,
+      "originalTitle": "设计一个能自主完成代码审查的 Agent 系统，接入公司的 GitHub 仓库，PR 提交后自动触发，团队规模 50 人，日均 PR 量约 80 个。",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/prqk4obgglfse9fd#GbdEs",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-118",
+      "position": 118,
+      "originalTitle": "Orchestrator 把任务分发给四个 Specialist 时，每个 Specialist 拿到的上下文应该是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/prqk4obgglfse9fd#cSCfb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-119",
+      "position": 119,
+      "originalTitle": "上线两周后，安全 Agent 的误报率高达 40%，工程师开始忽略它的输出。怎么处理？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/prqk4obgglfse9fd#BYT8K",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-120",
+      "position": 120,
+      "originalTitle": "CTO 要求把每个 PR 的 review 成本控制在 0.05 以内，但架构 Agent 单次调用就要 0.08。怎么办？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/prqk4obgglfse9fd#PoaPb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-121",
+      "position": 121,
+      "originalTitle": "如何设计一个智能客服 Agent 系统？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/001e94b0933029722ef5f981a0206e7f",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-122",
+      "position": 122,
+      "originalTitle": "如何设计一个代码生成 ／ AI Coding Agent？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/cdd0cf6e246114b36a88fc10162422a6",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-123",
+      "position": 123,
+      "originalTitle": "如何设计一个运维排障 Agent（AIOps）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/2355609dfa7c5093c8938816b8d986e2",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-124",
+      "position": 124,
+      "originalTitle": "如何设计一个推荐或电商 Agent？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/2ad7aea7912264e3abc3e50f66dc5825",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-125",
+      "position": 125,
+      "originalTitle": "Agent 在真实生产环境中的主要挑战是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/2b54cd55521fc203d7d754623c72a18c",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-126",
+      "position": 126,
+      "originalTitle": "如何保证 Agent 输出稳定且可控？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/bee781e089006cc69752271766ea9f07",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-127",
+      "position": 127,
+      "originalTitle": "当前 Agent 技术发展的主要瓶颈是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/c840a6e6a0885f6ca7fa164d686bb5e6",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-128",
+      "position": 128,
+      "originalTitle": "Agent 与传统软件工程范式的关系如何变化？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/cb7d5e9a4d75d6420b2c70317da851d5",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-129",
+      "position": 129,
+      "originalTitle": "如何让 Agent 具备持续学习与经验沉淀能力？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/f9c4aa4b6fa943d7b915ff34bcfdff31",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-130",
+      "position": 130,
+      "originalTitle": "AI Coding 对软件工程的影响是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/b2d5df6e834d34325e116232536e9754",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-131",
+      "position": 131,
+      "originalTitle": "如何判断一个 Agent 是否“真正有用”？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/1320c6467830f947699d9d952e5b51b6",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-132",
+      "position": 132,
+      "originalTitle": "如何强制 LLM 输出结构化 JSON？常见方法（JSON Mode、Grammar Sampling、Schema 约束）的原理和区别是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/b4ba6dbc6257c50e19988051e677c737",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-133",
+      "position": 133,
+      "originalTitle": "输出格式校验失败时的 Fallback 机制如何设计？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/136f0b8c323ed04ae8f91168f39d2ec2",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-134",
+      "position": 134,
+      "originalTitle": "如何处理 LLM 输出截断（max_tokens 不足）导致 JSON 不完整的问题？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/fd2f5b30f987effd9ff7e4651581e1bf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-135",
+      "position": 135,
+      "originalTitle": "如何设计 Agent 输出的置信度评估机制？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/6c5880d12f10be9cd96e2629a79063ce",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-136",
+      "position": 136,
+      "originalTitle": "流式输出（Streaming）场景下如何做结构化解析？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/249a700bc4d80b2fc6e6970f4e729bd9",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-137",
+      "position": 137,
+      "originalTitle": "如何为 Agentic Loop 设计结构化 Trace（记录每步 Thought ／ Action ／ Observation）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/098d777c7e701dc52ce22214b5ec0090",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-138",
+      "position": 138,
+      "originalTitle": "如何定位“Agent 为什么做了错误的工具选择”？调试思路是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/a034c3fadcd7b9e0062c1b783d549cbf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-139",
+      "position": 139,
+      "originalTitle": "如何设计 Agent 的 Replay 机制（回放历史执行路径）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/97c69376d054504546e3209271b4a291",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-140",
+      "position": 140,
+      "originalTitle": "如何在不中断生产流量的情况下对 Agent 做 Shadow Testing？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/c8b81d21f61ab749129b2478e61fd3a8",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-141",
+      "position": 141,
+      "originalTitle": "Agent 的 Cost Tracking（Token 消耗 + API 调用费用）如何在任务粒度上实现？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/84ef022c8838e9f0cc2a5ba68a9222b1",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-142",
+      "position": 142,
+      "originalTitle": "什么情况下 Agent 应该主动暂停并请求人工确认？判断标准如何设计？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/b96a23e794780149a5bbf0274e19e02d",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-143",
+      "position": 143,
+      "originalTitle": "Human-in-the-loop 的中断与恢复机制如何实现（状态持久化 + 任务队列）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/871a2c548f42cc6b7e1d412899fc1b2e",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-144",
+      "position": 144,
+      "originalTitle": "如何设计人工确认节点（Approval Gate）而不影响整体任务的异步执行？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/83781e9591a887e324c8677cb9e123ad",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-145",
+      "position": 145,
+      "originalTitle": "人工反馈如何被 Agent 吸收并影响后续执行（短期修正 vs 长期学习）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/f7c61329aafe78d7515b3ecfe88458e6",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-146",
+      "position": 146,
+      "originalTitle": "如何衡量引入 Human-in-the-loop 后对系统吞吐量和延迟的影响？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/706c1a04fbe0454b8803c64d72a20476",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-147",
+      "position": 147,
+      "originalTitle": "Agent 执行写操作时，如何保证幂等性？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/7500b663df2a897b5dcfac53b389ea01",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-148",
+      "position": 148,
+      "originalTitle": "什么是 Compensating Transaction？在 Agent 回滚场景中如何应用？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/d8310fe241f1356eba82c423fe78c7a4",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-149",
+      "position": 149,
+      "originalTitle": "如何区分可重试操作和不可重试操作，并在工具设计时显式声明？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/efce79d00a8c1f6bb04a302dede4b354",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-150",
+      "position": 150,
+      "originalTitle": "长链路任务的 Checkpoint 机制如何设计？故障恢复从哪个粒度重启？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/3d3bfad5aeef0514f7e3eb34c0f74aab",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-151",
+      "position": 151,
+      "originalTitle": "如何防止 Agent 在重试时对外部系统造成重复副作用（如重复下单）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/a95f5068bdebaa96e261803a94a51b6a",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-152",
+      "position": 152,
+      "originalTitle": "如何处理任务失败、重试和补偿机制？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/d1629ee43a0843961b3836b50adea1c0",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-153",
+      "position": 153,
+      "originalTitle": "Agent-to-Agent 通信协议（如 Google 的 A2A Protocol）解决了什么问题？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/2f2d7e0c3caafd7469290e8f5f24b5c3",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-154",
+      "position": 154,
+      "originalTitle": "MCP（Model Context Protocol）的 Server ／ Client 架构是什么？如何自己实现一个 MCP Server？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/51ec7ba030d759689be5da2eab70e522",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-155",
+      "position": 155,
+      "originalTitle": "OpenAI 的 Assistants API 与自建 Agent 框架相比，适用场景如何选择？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/b43623927a86a8b6c1ada45aa58a66d6",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-156",
+      "position": 156,
+      "originalTitle": "Agent 的标准化接口（如统一的 Tool Schema 规范）对跨系统集成有什么价值？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/7c7b499721e05ae24fa5918e7e8320f7",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-157",
+      "position": 157,
+      "originalTitle": "当前主流 Agent 框架（LangGraph、AutoGen、CrewAI、Dify）的核心设计理念和适用场景分别是什么？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/2b53fd93ec0705ec12cecbe51626eb85",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-158",
+      "position": 158,
+      "originalTitle": "如何设计 Agent 的行为边界（Guardrail）？有哪些实现层次（规则 ／ 模型 ／ 人工）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/9c773111093b5e3dfc2e69edef307eef",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-159",
+      "position": 159,
+      "originalTitle": "Agent 输出涉及法律、医疗、金融等高风险领域时，如何设计免责和降级机制？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/5381bf3c71262088125b6d77ac2179d5",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-160",
+      "position": 160,
+      "originalTitle": "如何记录 Agent 的决策链路以满足合规审计要求（可解释性）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/712aafe5c36945449b44c1f623e2dcdb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-161",
+      "position": 161,
+      "originalTitle": "如何防止 Agent 被用于生成有害内容或被恶意用户滥用？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/7c664b6c3abc4bfd3980764dbb28ae61",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-162",
+      "position": 162,
+      "originalTitle": "数据隐私保护（如用户对话数据不出境、PII 脱敏）在 Agent 系统中如何落地？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/413247bff8811b8760f74ff5a1ea6260",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-163",
+      "position": 163,
+      "originalTitle": "Braintrust / LangSmith / Weave / PromptFoo 这类 eval 平台解决了什么核心问题？选型时如何权衡？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/yh4u9cmuhgvevl2c",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-164",
+      "position": 164,
+      "originalTitle": "如何设计 LLM-as-Judge 评测？Judge Prompt 如何防止位置偏差（position bias）和自我偏好（self-preference）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/avbgh1s77zg91z2g",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-165",
+      "position": 165,
+      "originalTitle": "Eval dataset 的构建策略有哪些？如何从生产流量中自动挖掘高价值测试用例？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/dd46pvkeg7m0z97f",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-166",
+      "position": 166,
+      "originalTitle": "如何为 Agent 的多步执行设计 trajectory-level eval（不只评估最终输出，而是评估整条执行路径）？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/mwaxbbqh8t58lfpx",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-167",
+      "position": 167,
+      "originalTitle": "如何设计 regression test suite，确保每次 Prompt 修改或模型升级不引入退化？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/cxpvwzw95ck4d8yc",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-MYL-AGENT-LINKS-168",
+      "position": 168,
+      "originalTitle": "Benchmark 过拟合问题（Benchmark contamination / Goodhart's Law）在 Agent eval 中如何规避？",
+      "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/hps5g9qbedxhypk1",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    }
+  ]
+}
