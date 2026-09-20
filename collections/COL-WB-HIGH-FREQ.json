@@ -1,0 +1,750 @@
+{
+  "id": "COL-WB-HIGH-FREQ",
+  "publisherId": "PUB-WB",
+  "title": "八股集锦（高频问题）",
+  "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#PMYjdlz92oR1K3xhSfdchWkmn9b",
+  "sourceKind": "curated_question_set",
+  "access": "public",
+  "capturedAt": "2026-09-14",
+  "lastCheckedAt": "2026-09-14",
+  "verification": "publisher_claim",
+  "sourceClaim": "整理者称，题目来自自己的面试经历和读者反馈。",
+  "items": [
+    {
+      "id": "COL-WB-HIGH-FREQ-001",
+      "position": 1,
+      "originalTitle": "大模型主要基于什么架构？有哪些部分组成",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#QvRido0ywo9TtSxeC7NcqBgNnrg",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-002",
+      "position": 2,
+      "originalTitle": "为什么大模型大多是decoder-only的架构？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#QIOPdqiDnozaIKxYIbecThjInEd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-003",
+      "position": 3,
+      "originalTitle": "大模型是如何训练/获取知识的？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#SqZFdPo2xoQI2kx0WnKcITOCnPb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-004",
+      "position": 4,
+      "originalTitle": "什么是Transformer",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#Ez9CdRlFwoQDPNxQUw4cCxBInuf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-005",
+      "position": 5,
+      "originalTitle": "Transformer的优缺点是什么？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#ME40dU12Oohq3OxHcQAcB7hAn5e",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-006",
+      "position": 6,
+      "originalTitle": "什么是Transformer的编码器和解码器？分别有什么用",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#CrYAdJoz0oyRA5xrY2ncV8GPnJb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-007",
+      "position": 7,
+      "originalTitle": "Decoder-only模型在训练阶段和推理阶段的输入格式有什么不同？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#Mdv6db8eGonj5ex0W61cl2ZHnJd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-008",
+      "position": 8,
+      "originalTitle": "Transformer的Decoder阶段的多头自注意力和Encoder的多头自注意力有什么区别？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#HGOFdh4FdoxcS8x8EsZcTdPtnvg",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-009",
+      "position": 9,
+      "originalTitle": "为什么要Decoder自注意力要进行Mask？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#NMr6dhqjaon3dTxJA9ZcVp8nn3b",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-010",
+      "position": 10,
+      "originalTitle": "Transformer掩码注意力机制具体是怎么做的？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#GkL3do2ujoJ3qMxnBK1cIQn3nvf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-011",
+      "position": 11,
+      "originalTitle": "Transformer的并行化体现在哪些地方？Decoder端可以做并行化吗？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#Mxrvdcihso2rWxxjiGGcrv9gnPS",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-012",
+      "position": 12,
+      "originalTitle": "Transformer中Attention的本质是什么？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#WabldU4pYoq8ngxqtd2c66ZRnog",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-013",
+      "position": 13,
+      "originalTitle": "自注意力的计算方式和复杂度？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#CrXdd7opco95AixqAppc4OkfnwX",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-014",
+      "position": 14,
+      "originalTitle": "为什么自注意力计算要除$$\\sqrt{d_k} $$",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#QVWbdjylooC3F0x78AQcleWUnVc",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-015",
+      "position": 15,
+      "originalTitle": "介绍一下Transformer QKV的计算？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#C7s5dnvhJoE7cbx6KlMcQaFZnVb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-016",
+      "position": 16,
+      "originalTitle": "(追问)为什么要分成QKV，怎么计算的？同一个token向量是一样的吗？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#Km7jdOhiiomAdaxFwkHcHmIZnTh",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-017",
+      "position": 17,
+      "originalTitle": "自注意力中多头的好处?",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#DT9PdxIcxofoaax4SLJcYnCvn1c",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-018",
+      "position": 18,
+      "originalTitle": "为什么在进行多头注意力的时候需要对每个head进行降维",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#CdYkd8QqVoZwHMxGl7scHCV3nBg",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-019",
+      "position": 19,
+      "originalTitle": "交叉注意力你如何理解，与自注意力有什么区别。",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#MUXrdvt9Jo4IRMxWce1ci35CnL4",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-020",
+      "position": 20,
+      "originalTitle": "什么是MoE模型？与Dense模型有什么区别？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#VhQndGPbjo15LAxT9fgcS0u1njc",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-021",
+      "position": 21,
+      "originalTitle": "MoE模型有什么优势和劣势？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#BFSadgHuLoRXYexeTBvcDm13nTe",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-022",
+      "position": 22,
+      "originalTitle": "为什么大模型都开始转向MoE？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#FykKdUoJFoYO76xGgD5c8nVinaf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-023",
+      "position": 23,
+      "originalTitle": "什么是大模型的幻觉？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#WdHGdVj77oey5LxtcDkchCVRnZe",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-024",
+      "position": 24,
+      "originalTitle": "为什么大模型会产生幻觉？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#LBuXdiHVQox81bxuZXHcpuAYnAb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-025",
+      "position": 25,
+      "originalTitle": "如何解决大模型的幻觉问题？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#DaFrdvn8coQCa9xqo8tcuvy2nkd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-026",
+      "position": 26,
+      "originalTitle": "什么是Prompt Engineering？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#TyJkdRATOo7U5FxDkQBcBr3tnQ6",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-027",
+      "position": 27,
+      "originalTitle": "提示词可以分几个部分，分别起什么作用？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#IfwBdKWyFocyVexXkRPcjHTjneg",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-028",
+      "position": 28,
+      "originalTitle": "如何优化大模型的提示词？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#DrROdSh4NoQCpLxpkNjcPBWjngb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-029",
+      "position": 29,
+      "originalTitle": "如何评价一个提示词的好坏？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#LDC6d6tI9olhCRxMUdVcT8Ghnhb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-030",
+      "position": 30,
+      "originalTitle": "提示词如何进行压缩",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#MpfmduQzDomnQxx1bVZciMGUnag",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-031",
+      "position": 31,
+      "originalTitle": "大模型常见的解码方式",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#F0ItdGgz5oBZCpxya52cGQUSngf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-032",
+      "position": 32,
+      "originalTitle": "Top p、Top k、Temperature(大模型解码参数)",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#TTtUdaJsQoSVx1xDiVecz988nee",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-033",
+      "position": 33,
+      "originalTitle": "什么是投机解码，与自回归有什么区别？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#G7tpd0nFjoLaYRxO9UtcizMNnmg",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-034",
+      "position": 34,
+      "originalTitle": "大模型解码推理的两个阶段是什么？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#TOtedag9Fog8eZxJE3TccPannJ4",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-035",
+      "position": 35,
+      "originalTitle": "(追问)为什么要做Prefill",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#K7PLdSOJvoGgqXxdAQkcayPxnYR",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-036",
+      "position": 36,
+      "originalTitle": "KV Cache的动机和原理",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#WAAhdfzlIoeYZdxEowfcvHLCnUB",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-037",
+      "position": 37,
+      "originalTitle": "KV Cache的优缺点",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#DjbsdClEXoWMjfxJ5cDctukCn7d",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-038",
+      "position": 38,
+      "originalTitle": "为什么有K和V Cache，没有Q Cache",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#ApA5dCLwAo2eBTxCVpGcTNNjnae",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-039",
+      "position": 39,
+      "originalTitle": "为什么KV cache显存利用率很低",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#Vj2lddDxtolcBWxRYbHcfYG4nXf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-040",
+      "position": 40,
+      "originalTitle": "如何优化KV Cache，有什么方式",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#KmC1dFd7io8Evgx5eZJcTZnenYg",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-041",
+      "position": 41,
+      "originalTitle": "LLM的复读机现象是什么，如何解决？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#DMVbdAAlIo9PrPxdmoDcLU7WnGh",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-042",
+      "position": 42,
+      "originalTitle": "DeepSeek模型系列演变",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#PFJbdxhswojmTBx9kCmcRr7WnCe",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-043",
+      "position": 43,
+      "originalTitle": "DeepSeek如何实现MoE机制",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#NNHmd8ue6oL3t2xWBn4cshGWnNc",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-044",
+      "position": 44,
+      "originalTitle": "DeepSeek中的MLA原理是什么",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#SuvSdF9LEoy1CexPigfcNPAGnfb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-045",
+      "position": 45,
+      "originalTitle": "DeepSeek中的MTP如何实现",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#CxBTdtd3ho8gS6xM6Q9czmFtnaf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-046",
+      "position": 46,
+      "originalTitle": "DeepSeek热门版本训练的关键步骤",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#SW2MdfcNfoS9GxxomSFcOfu6nwb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-047",
+      "position": 47,
+      "originalTitle": "DeepSeekV3训练关键步骤",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#JwcLdBw3VorUcWxWrIrcgSVpnjT",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-048",
+      "position": 48,
+      "originalTitle": "Deepseek R1 训练关键步骤",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#NkS7dmuItouN21x3JjYcuAjInpf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-049",
+      "position": 49,
+      "originalTitle": "Deepseek的百万Token窗口和RAG各有什么优劣？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#TnL6dWgFFo6OezxC5H8cxqD4nDf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-050",
+      "position": 50,
+      "originalTitle": "用过OpenClaw吗",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#WLgDd2HILo2KZgxALv3cyTjHnAf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-051",
+      "position": 51,
+      "originalTitle": "OpenClaw相比其他智能体框架的区别在哪里",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#MeX6dZrFIo4BCGxnv08crELPnqf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-052",
+      "position": 52,
+      "originalTitle": "OpenClaw的记忆系统是如何设计的？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#BhVYdPnzlo3ZzqxqsezcTcNVn3g",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-053",
+      "position": 53,
+      "originalTitle": "OpenClaw还有什么问题没解决/局限性在哪里",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#KWHQd0l5XofkrwxaqOOc8Wyfn4c",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-054",
+      "position": 54,
+      "originalTitle": "RAG的基本流程",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#Vd94dPs3doILT3x5ALuckIk7n2c",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-055",
+      "position": 55,
+      "originalTitle": "RAG有什么用/解决了什么问题？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#LfSDdVWJ0oewgrxuaFhcAujGn9b",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-056",
+      "position": 56,
+      "originalTitle": "RAG有哪些痛点问题/能够做哪些优化？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#X6WTdtWIzoDrmPxJ3w6cjpy9n56",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-057",
+      "position": 57,
+      "originalTitle": "RAG与一般的微调方案相比有什么优势？/在微调和RAG之间为什么优选RAG",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#REzldI33ho2zIAxJzuXcaFbcnyQ",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-058",
+      "position": 58,
+      "originalTitle": "知道Query重构吗，有哪些重构的方法？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#BPKBdelNcopA6txLxHtcrWbrnBf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-059",
+      "position": 59,
+      "originalTitle": "文档解析的作用是什么，解析不好会造成什么影响？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#G41mdOZAJokh2VxwuR3c2Dl9nqd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-060",
+      "position": 60,
+      "originalTitle": "不同格式的文档如何进行文档解析",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#ViGNdLXJYoXB1mxWZzDc07aonJf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-061",
+      "position": 61,
+      "originalTitle": "多级文档怎么保证在检索阶段保留层级信息？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#E7rldpQ3JoM1FCxO3Oncmjy1nog",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-062",
+      "position": 62,
+      "originalTitle": "如何评价解析效果？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#GFaZd5IjXoH9pWxfCHgcEnMOnzb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-063",
+      "position": 63,
+      "originalTitle": "为什么要Chunking？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#HJFbdPfQwoD77WxLuQlcJl1ln3d",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-064",
+      "position": 64,
+      "originalTitle": "Chunking越大和越小各自存在什么问题？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#SnWzdVTZ1owIODxlS69cfZ0XnNg",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-065",
+      "position": 65,
+      "originalTitle": "常见的Chunking方案",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#NSY7ddghZoXSLfxYWQncxQHKnng",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-066",
+      "position": 66,
+      "originalTitle": "如何设计一个好的Chunking方案",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#A2Ando4ZpownKbxsLjGcLBRynLC",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-067",
+      "position": 67,
+      "originalTitle": "如何根据chunk建立索引定位原文位置？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#DeSgdWxw7oQAcYxmsbpcKHk5nie",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-068",
+      "position": 68,
+      "originalTitle": "如何将一个完整的段落和语义单元拆分到不同的chunks中？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#UtwbdNoNjoAW6OxiIYfcDu1Bn6b",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-069",
+      "position": 69,
+      "originalTitle": "如何验证Chunking的质量",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#Fvo8deozgotzipxFynycVUpxnKd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-070",
+      "position": 70,
+      "originalTitle": "RAG如何做索引？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#RvfwdAuXAo4bItxnRm9cRCVAnrh",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-071",
+      "position": 71,
+      "originalTitle": "常见的向量索引算法有哪些",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#CrSrddpj3obsNIxeLrZcCpx9nbe",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-072",
+      "position": 72,
+      "originalTitle": "在大规模文档嵌入建立索引的时候，存在很多相似性文档如何处理。",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#W9oMddRi3oG1LnxLlCRcTWo3n1f",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-073",
+      "position": 73,
+      "originalTitle": "RAG如何做检索(BM25,Embedding,混合检索)",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#QHdwdvFN1oT84HxdHeGc2yEmn7d",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-074",
+      "position": 74,
+      "originalTitle": "多路召回RRF合并融合原理是什么",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#S6wud5nyPoCqENxOhamcudponQg",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-075",
+      "position": 75,
+      "originalTitle": "关键词检索和向量检索的比例在不同场景下如何确定",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#KuhFd2OYMos3QpxgIPucjCQ9nWh",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-076",
+      "position": 76,
+      "originalTitle": "不同检索方式各有什么问题",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#I59td4jmUonyubxRS5ZcLEZInRd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-077",
+      "position": 77,
+      "originalTitle": "RAG文档很多如何保持检索的性能",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#VvghdsvAroYcZ3x4USocmPxZnWb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-078",
+      "position": 78,
+      "originalTitle": "RAG召回数量(Top k)过大过小分别有什么影响",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#DL5Kd6bAzozagfxV6SecasWWnuc",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-079",
+      "position": 79,
+      "originalTitle": "如何根据业务场景选择合适的Top k",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#OLGndxarVoaQ1ExzztvcviYxnxd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-080",
+      "position": 80,
+      "originalTitle": "什么是向量化(Embedding)，有什么作用？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#XDlKdKpA3obbe5xiNWScYPSLngg",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-081",
+      "position": 81,
+      "originalTitle": "你了解哪些Embedding模型",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#DJxMdIzYsoL2i0xFN8ncBJAunhd",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-082",
+      "position": 82,
+      "originalTitle": "Embedding模型在下游任务中存在什么缺陷",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#GKibdmXmjoRHwoxAV9ycHW9Nnib",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-083",
+      "position": 83,
+      "originalTitle": "重排序阶段的作用是什么/精排和粗排的区别是什么？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#To3ZdDpt2oN1HnxqRdFcuFyNnsb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-084",
+      "position": 84,
+      "originalTitle": "Rerank模型和Embedding模型有什么区别",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#B2YEdRsddoJ6MTx81xkcrGRNnCe",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-085",
+      "position": 85,
+      "originalTitle": "为什么要做Rerank/Rerank模型的作用",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#Hz7BdZhVropzWjxfiftczY9Fntb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-086",
+      "position": 86,
+      "originalTitle": "为什么不只做Rerank，而是对粗粒度的结果做精排？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#EXqidnIS6oRPsAxgDOYcTuuYnNh",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-087",
+      "position": 87,
+      "originalTitle": "两阶段粗排序+精排序有什么优缺点？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#K92XdZLVyoETl9xIeRjc0bR2nLb",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-088",
+      "position": 88,
+      "originalTitle": "GraphRAG解决了RAG的什么问题？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#Xeu3dt5IOo8cnUxpRyAch4GLnce",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-089",
+      "position": 89,
+      "originalTitle": "GraphRAG知识图谱的建立过程",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#BX3tdpQFboTzDmxsrfacZEHGnzf",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-090",
+      "position": 90,
+      "originalTitle": "GraphRAG常见的检索样式有哪些？",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#U2sBdZw6FozACpxx6y2cSfQQn5e",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-091",
+      "position": 91,
+      "originalTitle": "GraphRAG相比传统的RAG有什么劣势",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#YxjvdlzRToQ6TUxNkKMc9XGrnkh",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    },
+    {
+      "id": "COL-WB-HIGH-FREQ-092",
+      "position": 92,
+      "originalTitle": "还有哪些GraphRAG算法，分别解决原始GraphRAG的什么问题",
+      "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#Cj7vdSuMYoxIJKxFEZWcLtb0nFw",
+      "reviewStatus": "confirmed",
+      "reviewNote": ""
+    }
+  ]
+}
