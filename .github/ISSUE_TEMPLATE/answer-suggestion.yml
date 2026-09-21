@@ -1,0 +1,48 @@
+name: 答案建议
+description: 为现有题目提出答案补充、改进或复核建议
+title: "[答案建议] "
+body:
+  - type: input
+    id: question_id
+    attributes:
+      label: 题号
+      description: 请输入现有题号，例如 Q-0001。
+    validations:
+      required: true
+
+  - type: dropdown
+    id: suggestion_type
+    attributes:
+      label: 建议类型
+      options:
+        - 补充尚未完成的答案
+        - 修正技术错误或过时内容
+        - 增加方案取舍或工程实践
+        - 增加常见追问
+        - 申请独立复核
+    validations:
+      required: true
+
+  - type: textarea
+    id: key_points
+    attributes:
+      label: 建议要点
+      description: 请先写核心结论，再说明原理、适用条件、取舍或追问。
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: 参考资料
+      description: 时效性强、存在争议或涉及具体数字时，请提供权威来源。
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: 提交确认
+      options:
+        - label: 建议内容由我独立整理，未整段复制文章、课程、题库答案或未经审阅的模型输出。
+          required: true
+        - label: 我没有虚构个人经历、公司实践、频次或项目指标。
+          required: true
