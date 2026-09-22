@@ -8,6 +8,7 @@
 - 508 篇面经记录
 - 7,895 条来自面经的实际提问
 - 7 份公开题集
+- 3 位公开题集发布者
 - 3 道参考答案已经写完并达到当前发布标准
 
 ## 推荐起点
@@ -45,6 +46,7 @@
 | [`collections/`](collections/) | 其他公开题集收录的题目 |
 | [`categories.json`](categories.json) | 知识方向与专题 |
 | [`aliases.json`](aliases.json) | 旧题号与现在所用题号的对应表 |
+| [`publishers.json`](publishers.json) | 公开题集发布者和来源主页 |
 | [`schema/`](schema/) | 字段和引用约定 |
 
 ## 编号说明
