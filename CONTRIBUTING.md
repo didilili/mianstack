@@ -15,7 +15,7 @@
 
 小修正可以直接提交 Pull Request。新增一批题目、调整现有分类、改变数据结构或导入大量来源材料前，请先创建 Issue，说明准备增加什么、内容来自哪里，以及打算怎么整理。
 
-可以使用仓库提供的 Issue 表单提交[内容纠错](https://github.com/didilili/mianstack/issues/new?template=content-correction.yml)、[答案建议](https://github.com/didilili/mianstack/issues/new?template=answer-suggestion.yml)或[权利反馈](https://github.com/didilili/mianstack/issues/new?template=rights-request.yml)。
+可以使用仓库提供的 Issue 表单提交[内容纠错](https://github.com/didilili/mianstack/issues/new?template=content-correction.yml)、[答案建议](https://github.com/didilili/mianstack/issues/new?template=answer-suggestion.yml)、[批量内容或结构调整](https://github.com/didilili/mianstack/issues/new?template=structure-proposal.yml)或[权利反馈](https://github.com/didilili/mianstack/issues/new?template=rights-request.yml)。
 
 ## 第一次贡献建议
 

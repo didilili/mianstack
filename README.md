@@ -127,6 +127,7 @@
 欢迎一起补充答案、核对技术事实、修正题目、提供公开面经线索或改进分类。
 
 - [阅读贡献指南](CONTRIBUTING.md)
+- [查看维护与发布说明](MAINTAINING.md)
 - [提交内容纠错](https://github.com/didilili/mianstack/issues/new?template=content-correction.yml)
 - [提出答案建议](https://github.com/didilili/mianstack/issues/new?template=answer-suggestion.yml)
 - [反馈署名、来源或移除请求](https://github.com/didilili/mianstack/issues/new?template=rights-request.yml)
@@ -144,7 +145,8 @@ mianstack/
 ├── indexes/         # GitHub 内可直接阅读的分类索引
 ├── schema/          # 字段和引用约定
 ├── categories.json  # 知识方向与专题
-└── aliases.json     # 旧题号指向现在使用的题号
+├── aliases.json     # 旧题号指向现在使用的题号
+├── publishers.json  # 公开题集发布者
 ```
 
 </details>

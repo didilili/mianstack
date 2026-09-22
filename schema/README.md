@@ -1,6 +1,6 @@
 # 内容结构
 
-返回：[项目介绍](../README.md) · [内容索引](../INDEX.md) · [贡献指南](../CONTRIBUTING.md)
+返回：[项目介绍](../README.md) · [内容索引](../INDEX.md) · [贡献指南](../CONTRIBUTING.md) · [维护说明](../MAINTAINING.md)
 
 公开内容和索引都在当前仓库中维护。JSON 文件使用 UTF-8；Markdown 文件以一段 JSON frontmatter 开头，换行统一为 LF。运行以下命令可以验证当前全部数据：
 
