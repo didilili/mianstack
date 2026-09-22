@@ -145,7 +145,7 @@ mianstack/
 ├── indexes/         # GitHub 内可直接阅读的分类索引
 ├── schema/          # 字段和引用约定
 ├── categories.json  # 知识方向与专题
-├── aliases.json     # 旧题号指向现在使用的题号
+├── aliases.json     # 已合并稳定题号指向现用题号
 ├── publishers.json  # 公开题集发布者
 ```
 
