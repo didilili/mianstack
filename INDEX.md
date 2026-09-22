@@ -5,8 +5,8 @@
 ## 当前内容
 
 - 3,741 道整理后的面试题
-- 508 篇面经记录
-- 7,895 条来自面经的实际提问
+- 555 篇面经记录
+- 8,038 条来自面经的实际提问
 - 7 份公开题集
 - 3 位公开题集发布者
 - 3 道参考答案已经写完并达到当前发布标准
@@ -45,14 +45,15 @@
 | [`interviews/`](interviews/) | 面经来源信息与可公开展示的来源材料 |
 | [`collections/`](collections/) | 其他公开题集收录的题目 |
 | [`categories.json`](categories.json) | 知识方向与专题 |
-| [`aliases.json`](aliases.json) | 旧题号与现在所用题号的对应表 |
+| [`aliases.json`](aliases.json) | 已合并稳定题号的一对一指向 |
 | [`publishers.json`](publishers.json) | 公开题集发布者和来源主页 |
 | [`schema/`](schema/) | 字段和引用约定 |
 
 ## 编号说明
 
 - `Q-*`：整理后的面试题。
-- `MJ-NC-*`：面经来源记录。
+- `MJ-NC-*`：牛客面经来源记录。
+- `MJ-XHS-*`：小红书面经来源记录。
 - `COL-*`：公开题集记录。
 
 继续阅读：[项目介绍](README.md) · [维护说明](MAINTAINING.md) · [贡献指南](CONTRIBUTING.md) · [内容许可](CONTENT_LICENSE.md)
