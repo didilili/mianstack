@@ -55,4 +55,4 @@
 - `MJ-NC-*`：面经来源记录。
 - `COL-*`：公开题集记录。
 
-继续阅读：[项目介绍](README.md) · [贡献指南](CONTRIBUTING.md) · [内容许可](CONTENT_LICENSE.md)
+继续阅读：[项目介绍](README.md) · [维护说明](MAINTAINING.md) · [贡献指南](CONTRIBUTING.md) · [内容许可](CONTENT_LICENSE.md)
