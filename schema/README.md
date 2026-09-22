@@ -6,7 +6,7 @@
 
 ## 全局规则
 
-- ID 和文件名必须一致：题目为 `Q-0001.md`，面经为 `MJ-NC-YYYY-NNNN.md`，题集为 `COL-*.json`。
+- ID 和文件名必须一致：题目为 `Q-0001.md`，牛客面经为 `MJ-NC-YYYY-NNNN.md`，小红书面经为 `MJ-XHS-YYYY-NNNN.md`，题集为 `COL-*.json`。
 - 已使用的题号、面经编号和题集编号不得重排或复用。合并题目时保留别名，删除策略需先通过 Issue 确认。
 - 所有 ID 在各自命名空间中唯一；引用必须指向现有记录。
 - 生成文件只包括 `INDEX.md` 和 `indexes/*.md`，不要手工修改。
@@ -50,7 +50,7 @@ frontmatter 保存来源身份和检索元数据，正文保存允许公开展�
 
 | 字段 | 固定中文名称 | 类型 | 约束 |
 | --- | --- | --- | --- |
-| `id` | 归档编号 | string | 与文件名一致，格式 `MJ-NC-YYYY-NNNN` |
+| `id` | 归档编号 | string | 与文件名一致；当前使用 `MJ-NC-YYYY-NNNN` 或 `MJ-XHS-YYYY-NNNN` |
 | `title` | 整理标题 | string | 归档使用的结构化标题；Web 可根据结构化字段生成读者标题 |
 | `originalTitle` | 原帖标题 | string | 可为空 |
 | `company` | 所属公司 | string | 来源中的公司或组织名称 |
