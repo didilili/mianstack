@@ -143,7 +143,7 @@ mianstack/
 ├── interviews/      # 面经来源信息与可公开展示的来源材料
 ├── collections/     # 其他公开题集收录的题目
 ├── indexes/         # GitHub 内可直接阅读的分类索引
-├── schema/          # 字段和引用约定
+├── schema/          # 唯一机器规则与字段语义说明
 ├── categories.json  # 知识方向与专题
 ├── aliases.json     # 已合并稳定题号指向现用题号
 ├── publishers.json  # 公开题集发布者
