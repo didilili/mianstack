@@ -433,10 +433,6 @@
         "level",
         "priority",
         "focus",
-        "note",
-        "aliases",
-        "formatTags",
-        "contextTags",
         "answerStatus",
         "updatedAt"
       ],
@@ -471,12 +467,13 @@
           "title": "考查重点"
         },
         "note": {
-          "type": "string",
+          "$ref": "#/$defs/nonEmptyString",
           "title": "整理备注"
         },
         "aliases": {
           "type": "array",
           "title": "相关关键词",
+          "minItems": 1,
           "uniqueItems": true,
           "items": {
             "$ref": "#/$defs/nonEmptyString"
@@ -485,6 +482,7 @@
         "formatTags": {
           "type": "array",
           "title": "问法形式标签",
+          "minItems": 1,
           "uniqueItems": true,
           "items": {
             "$ref": "#/$defs/formatTag"
@@ -493,6 +491,7 @@
         "contextTags": {
           "type": "array",
           "title": "场景标签",
+          "minItems": 1,
           "uniqueItems": true,
           "items": {
             "$ref": "#/$defs/contextTag"
