@@ -5,6 +5,7 @@
 ## 单一事实来源
 
 - `questions/`、`interviews/`、`collections/` 和根目录 JSON 是公开内容的事实来源。
+- `schema/content.schema.json` 是字段结构、固定值、固定中文显示和供 Web 使用的分组元数据的唯一规则来源。
 - `INDEX.md` 与 `indexes/*.md` 是生成结果，不能手工维护。
 
 ## ID、合并与删除
