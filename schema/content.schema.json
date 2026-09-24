@@ -1,0 +1,1017 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mianstack.com/schema/content.schema.json",
+  "title": "面栈内容结构",
+  "description": "题目、面经、分类、题号别名、发布者与公开题集的机器可读结构规则。",
+  "$defs": {
+    "nonEmptyString": {
+      "type": "string",
+      "minLength": 1
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "publishedAt": {
+      "anyOf": [
+        {
+          "const": ""
+        },
+        {
+          "type": "string",
+          "format": "mianstack-published-at"
+        }
+      ]
+    },
+    "httpUrl": {
+      "type": "string",
+      "format": "mianstack-http-url"
+    },
+    "questionId": {
+      "type": "string",
+      "pattern": "^Q-[0-9]{4,}$"
+    },
+    "interviewId": {
+      "type": "string",
+      "pattern": "^MJ-(NC|XHS)-[0-9]{4}-[0-9]{4,}$"
+    },
+    "publisherId": {
+      "type": "string",
+      "pattern": "^PUB-[A-Z0-9]+(-[A-Z0-9]+)*$"
+    },
+    "collectionId": {
+      "type": "string",
+      "pattern": "^COL-[A-Z0-9]+(-[A-Z0-9]+)*$"
+    },
+    "categoryId": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9]*(_[a-z0-9]+)*$"
+    },
+    "questionType": {
+      "title": "问题类型",
+      "type": "string",
+      "enum": [
+        "概念解释",
+        "原理机制",
+        "比较选型",
+        "方案设计",
+        "系统设计",
+        "项目深挖",
+        "经历介绍",
+        "代码题",
+        "故障排查",
+        "开放讨论",
+        "行为面",
+        "效果评估",
+        "操作实践",
+        "技术决策",
+        "反问"
+      ],
+      "x-groups": {
+        "reverse": [
+          "反问"
+        ],
+        "nonTechnical": [
+          "经历介绍",
+          "行为面",
+          "开放讨论",
+          "反问"
+        ]
+      }
+    },
+    "questionLevel": {
+      "title": "技术难度",
+      "type": "string",
+      "enum": [
+        "基础",
+        "进阶",
+        "深入"
+      ]
+    },
+    "questionPriority": {
+      "title": "准备优先级",
+      "type": "string",
+      "enum": [
+        "优先准备",
+        "按岗位选读",
+        "进阶补充",
+        "面试前按需选择"
+      ],
+      "x-groups": {
+        "mustReview": [
+          "优先准备"
+        ]
+      }
+    },
+    "answerStatus": {
+      "title": "答案状态",
+      "type": "string",
+      "enum": [
+        "pending",
+        "outline",
+        "draft",
+        "ready",
+        "reviewed"
+      ],
+      "x-enumLabels": {
+        "pending": "暂无答案",
+        "outline": "答案提纲",
+        "draft": "答案草稿",
+        "ready": "已有答案",
+        "reviewed": "已校对"
+      },
+      "x-groups": {
+        "answered": [
+          "ready",
+          "reviewed"
+        ],
+        "inProgress": [
+          "outline",
+          "draft"
+        ],
+        "pending": [
+          "pending"
+        ]
+      }
+    },
+    "formatTag": {
+      "title": "问法形式标签",
+      "type": "string",
+      "enum": [
+        "现场编码",
+        "工具使用",
+        "现场实操",
+        "代码审查"
+      ]
+    },
+    "contextTag": {
+      "title": "场景标签",
+      "type": "string",
+      "enum": [
+        "项目语境"
+      ]
+    },
+    "roleFamily": {
+      "title": "岗位方向",
+      "type": "string",
+      "enum": [
+        "AI 应用与智能体开发",
+        "AI 基础设施",
+        "AI 研发（职能未细分）",
+        "算法研发",
+        "后端开发",
+        "全栈开发",
+        "软件开发",
+        "前端开发",
+        "测试与质量",
+        "数据开发",
+        "数据分析与科学",
+        "客户端开发",
+        "平台开发",
+        "产品",
+        "解决方案与交付"
+      ]
+    },
+    "interviewContentType": {
+      "title": "内容类型",
+      "type": "string",
+      "enum": [
+        "面经",
+        "笔试记录",
+        "面经合集",
+        "求职记录",
+        "方法分享",
+        "实习体验",
+        "求助帖",
+        "其他记录"
+      ]
+    },
+    "interviewSourceStatus": {
+      "title": "来源状态",
+      "type": "string",
+      "enum": [
+        "完整可用",
+        "部分可用",
+        "不可用"
+      ]
+    },
+    "interviewStatusReason": {
+      "title": "状态原因",
+      "type": "string",
+      "enum": [
+        "",
+        "原文不足",
+        "原帖已删除",
+        "仅作者可见",
+        "跨帖题单重复",
+        "历史全文重复",
+        "重复归档",
+        "真实性待核"
+      ]
+    },
+    "interviewCurationStatus": {
+      "title": "整理状态",
+      "type": "string",
+      "enum": [
+        "未整理",
+        "初步整理",
+        "部分整理",
+        "已完成"
+      ]
+    },
+    "jobNature": {
+      "title": "岗位类型",
+      "type": "string",
+      "enum": [
+        "实习",
+        "全职"
+      ]
+    },
+    "recruitment": {
+      "title": "招聘类型",
+      "type": "string",
+      "enum": [
+        "校招",
+        "社招"
+      ]
+    },
+    "batch": {
+      "title": "招聘批次",
+      "type": "string",
+      "enum": [
+        "春招",
+        "秋招",
+        "暑期",
+        "寒假",
+        "提前批",
+        "正式批",
+        "第一批",
+        "第四批",
+        "暑期实习",
+        "日常实习",
+        "转正实习",
+        "留用实习"
+      ]
+    },
+    "round": {
+      "title": "面试阶段",
+      "type": "string",
+      "enum": [
+        "一面",
+        "二面",
+        "三面",
+        "四面",
+        "终面",
+        "电话面",
+        "面委会"
+      ]
+    },
+    "interviewStage": {
+      "title": "面试环节",
+      "type": "string",
+      "enum": [
+        "技术面",
+        "笔试",
+        "HR 面",
+        "主管面",
+        "AI 面试",
+        "AI Coding 前置作业",
+        "AI Coding 作业",
+        "测评",
+        "综合测评",
+        "CEO 面",
+        "CTO 面",
+        "创始人面",
+        "电话面",
+        "HR 电话面",
+        "HRBP 面",
+        "Leader 面",
+        "混合面",
+        "机试",
+        "技术终面",
+        "技术主管面",
+        "交叉面",
+        "视频面",
+        "线上测试",
+        "线下面试",
+        "业务场景专项面",
+        "业务面",
+        "专业面",
+        "总监面",
+        "HR/业务负责人面"
+      ]
+    },
+    "roleMethod": {
+      "title": "岗位判定方式",
+      "type": "string",
+      "enum": [
+        "原文明示",
+        "职责支持",
+        "面试内容推测",
+        "标题与索引推断",
+        "职责推断",
+        "资料不足"
+      ],
+      "x-groups": {
+        "inferred": [
+          "面试内容推测",
+          "标题与索引推断",
+          "职责推断"
+        ],
+        "notInferred": [
+          "原文明示",
+          "职责支持",
+          "资料不足"
+        ]
+      }
+    },
+    "roleConfidence": {
+      "title": "岗位置信度",
+      "type": "string",
+      "enum": [
+        "高",
+        "中",
+        "低",
+        "不可判定"
+      ]
+    },
+    "publisherType": {
+      "title": "整理者类型",
+      "type": "string",
+      "enum": [
+        "individual",
+        "individual_brand",
+        "community",
+        "training_org",
+        "media",
+        "company"
+      ],
+      "x-enumLabels": {
+        "individual": "个人整理",
+        "individual_brand": "个人整理",
+        "community": "社区整理",
+        "training_org": "机构整理",
+        "media": "媒体整理",
+        "company": "企业整理"
+      }
+    },
+    "collectionKind": {
+      "title": "题集类型",
+      "type": "string",
+      "enum": [
+        "curated_question_set",
+        "course_question_set",
+        "project_question_set",
+        "interview_compilation"
+      ],
+      "x-enumLabels": {
+        "curated_question_set": "整理题集",
+        "course_question_set": "课程题集",
+        "project_question_set": "项目题集",
+        "interview_compilation": "面经汇编"
+      }
+    },
+    "collectionAccess": {
+      "title": "访问方式",
+      "type": "string",
+      "enum": [
+        "public",
+        "partial",
+        "paid"
+      ],
+      "x-enumLabels": {
+        "public": "公开内容",
+        "partial": "部分公开",
+        "paid": "付费来源"
+      }
+    },
+    "collectionVerification": {
+      "title": "核验方式",
+      "type": "string",
+      "enum": [
+        "publisher_claim",
+        "linked_sources",
+        "verified_source"
+      ],
+      "x-enumLabels": {
+        "publisher_claim": "发布者声明",
+        "linked_sources": "已关联来源",
+        "verified_source": "已核验来源"
+      }
+    },
+    "collectionReviewStatus": {
+      "title": "审核状态",
+      "type": "string",
+      "enum": [
+        "confirmed",
+        "new_candidate",
+        "needs_review",
+        "excluded"
+      ],
+      "x-enumLabels": {
+        "confirmed": "已确认",
+        "new_candidate": "新题候选",
+        "needs_review": "待审核",
+        "excluded": "已排除"
+      },
+      "x-groups": {
+        "published": [
+          "confirmed"
+        ]
+      }
+    },
+    "question": {
+      "title": "题目",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "title",
+        "category",
+        "topic",
+        "type",
+        "level",
+        "priority",
+        "focus",
+        "note",
+        "aliases",
+        "formatTags",
+        "contextTags",
+        "answerStatus",
+        "updatedAt"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/questionId",
+          "title": "题目编号"
+        },
+        "title": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "标准题目"
+        },
+        "category": {
+          "$ref": "#/$defs/categoryId",
+          "title": "知识分类"
+        },
+        "topic": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "知识专题"
+        },
+        "type": {
+          "$ref": "#/$defs/questionType"
+        },
+        "level": {
+          "$ref": "#/$defs/questionLevel"
+        },
+        "priority": {
+          "$ref": "#/$defs/questionPriority"
+        },
+        "focus": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "考查重点"
+        },
+        "note": {
+          "type": "string",
+          "title": "整理备注"
+        },
+        "aliases": {
+          "type": "array",
+          "title": "相关关键词",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/nonEmptyString"
+          }
+        },
+        "formatTags": {
+          "type": "array",
+          "title": "问法形式标签",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/formatTag"
+          }
+        },
+        "contextTags": {
+          "type": "array",
+          "title": "场景标签",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/contextTag"
+          }
+        },
+        "answerStatus": {
+          "$ref": "#/$defs/answerStatus"
+        },
+        "updatedAt": {
+          "$ref": "#/$defs/date",
+          "title": "更新时间"
+        }
+      }
+    },
+    "interviewContext": {
+      "title": "公司与岗位记录",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "company",
+        "business",
+        "department",
+        "roleFamily",
+        "role",
+        "roleMethod",
+        "roleInferred",
+        "roleConfidence",
+        "technicalDirections",
+        "jobNature",
+        "recruitment",
+        "batches",
+        "rounds",
+        "stages",
+        "base"
+      ],
+      "properties": {
+        "company": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "所属公司"
+        },
+        "business": {
+          "type": "string",
+          "title": "业务方向"
+        },
+        "department": {
+          "type": "string",
+          "title": "部门"
+        },
+        "roleFamily": {
+          "title": "岗位方向",
+          "anyOf": [
+            {
+              "const": ""
+            },
+            {
+              "$ref": "#/$defs/roleFamily"
+            }
+          ]
+        },
+        "role": {
+          "type": "string",
+          "title": "岗位"
+        },
+        "roleMethod": {
+          "$ref": "#/$defs/roleMethod"
+        },
+        "roleInferred": {
+          "type": "boolean",
+          "title": "岗位是否推断"
+        },
+        "roleConfidence": {
+          "title": "岗位置信度",
+          "anyOf": [
+            {
+              "const": ""
+            },
+            {
+              "$ref": "#/$defs/roleConfidence"
+            }
+          ]
+        },
+        "technicalDirections": {
+          "type": "array",
+          "title": "技术方向",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/nonEmptyString"
+          }
+        },
+        "jobNature": {
+          "title": "岗位类型",
+          "anyOf": [
+            {
+              "const": ""
+            },
+            {
+              "$ref": "#/$defs/jobNature"
+            }
+          ]
+        },
+        "recruitment": {
+          "title": "招聘类型",
+          "anyOf": [
+            {
+              "const": ""
+            },
+            {
+              "$ref": "#/$defs/recruitment"
+            }
+          ]
+        },
+        "batches": {
+          "type": "array",
+          "title": "招聘批次",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/batch"
+          }
+        },
+        "rounds": {
+          "type": "array",
+          "title": "面试阶段",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/round"
+          }
+        },
+        "stages": {
+          "type": "array",
+          "title": "面试环节",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/interviewStage"
+          }
+        },
+        "base": {
+          "type": "string",
+          "title": "工作地点"
+        }
+      }
+    },
+    "interview": {
+      "title": "面经",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "title",
+        "originalTitle",
+        "company",
+        "business",
+        "role",
+        "roleFamilies",
+        "contexts",
+        "jobNature",
+        "recruitment",
+        "batches",
+        "rounds",
+        "base",
+        "publishedAt",
+        "publicationRegion",
+        "author",
+        "url",
+        "contentType",
+        "result",
+        "sourceStatus",
+        "statusReason",
+        "curationStatus",
+        "curationNote",
+        "updatedAt"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/interviewId",
+          "title": "归档编号"
+        },
+        "title": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "整理标题"
+        },
+        "originalTitle": {
+          "type": "string",
+          "title": "原帖标题"
+        },
+        "company": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "所属公司"
+        },
+        "business": {
+          "type": "string",
+          "title": "业务方向"
+        },
+        "role": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "岗位"
+        },
+        "roleFamilies": {
+          "type": "array",
+          "title": "岗位方向",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/roleFamily"
+          }
+        },
+        "contexts": {
+          "type": "array",
+          "title": "公司与岗位记录",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/interviewContext"
+          }
+        },
+        "jobNature": {
+          "title": "岗位类型",
+          "anyOf": [
+            {
+              "const": ""
+            },
+            {
+              "$ref": "#/$defs/jobNature"
+            }
+          ]
+        },
+        "recruitment": {
+          "title": "招聘类型",
+          "anyOf": [
+            {
+              "const": ""
+            },
+            {
+              "$ref": "#/$defs/recruitment"
+            }
+          ]
+        },
+        "batches": {
+          "type": "array",
+          "title": "招聘批次",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/batch"
+          }
+        },
+        "rounds": {
+          "type": "array",
+          "title": "面试阶段",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/round"
+          }
+        },
+        "base": {
+          "type": "string",
+          "title": "工作地点"
+        },
+        "publishedAt": {
+          "$ref": "#/$defs/publishedAt",
+          "title": "发布时间"
+        },
+        "publicationRegion": {
+          "type": "string",
+          "title": "发布地"
+        },
+        "author": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "作者"
+        },
+        "url": {
+          "$ref": "#/$defs/httpUrl",
+          "title": "原帖链接"
+        },
+        "contentType": {
+          "$ref": "#/$defs/interviewContentType"
+        },
+        "result": {
+          "type": "string",
+          "title": "面试结果"
+        },
+        "sourceStatus": {
+          "$ref": "#/$defs/interviewSourceStatus"
+        },
+        "statusReason": {
+          "$ref": "#/$defs/interviewStatusReason"
+        },
+        "curationStatus": {
+          "$ref": "#/$defs/interviewCurationStatus"
+        },
+        "curationNote": {
+          "type": "string",
+          "title": "整理说明"
+        },
+        "updatedAt": {
+          "$ref": "#/$defs/date",
+          "title": "更新时间"
+        }
+      }
+    },
+    "category": {
+      "title": "知识分类",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "title",
+        "description",
+        "topics"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/categoryId",
+          "title": "分类编号"
+        },
+        "title": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "分类名称"
+        },
+        "description": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "分类说明"
+        },
+        "topics": {
+          "type": "array",
+          "title": "知识专题",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/nonEmptyString"
+          }
+        }
+      }
+    },
+    "alias": {
+      "title": "题号别名",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "from",
+        "to",
+        "reason"
+      ],
+      "properties": {
+        "from": {
+          "$ref": "#/$defs/questionId",
+          "title": "停用题目编号"
+        },
+        "to": {
+          "$ref": "#/$defs/questionId",
+          "title": "现用题目编号"
+        },
+        "reason": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "合并原因"
+        }
+      }
+    },
+    "publisher": {
+      "title": "整理者",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "type",
+        "homepage",
+        "updatedAt"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/publisherId",
+          "title": "整理者编号"
+        },
+        "name": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "整理者名称"
+        },
+        "type": {
+          "$ref": "#/$defs/publisherType"
+        },
+        "homepage": {
+          "$ref": "#/$defs/httpUrl",
+          "title": "作者主页"
+        },
+        "homepageLabel": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "主页链接文案"
+        },
+        "updatedAt": {
+          "$ref": "#/$defs/date",
+          "title": "更新时间"
+        }
+      }
+    },
+    "collectionItem": {
+      "title": "题集条目",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "position",
+        "originalTitle",
+        "sourceUrl",
+        "reviewStatus",
+        "reviewNote"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "题集条目编号"
+        },
+        "position": {
+          "type": "integer",
+          "minimum": 1,
+          "title": "原始位置"
+        },
+        "originalTitle": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "原题标题"
+        },
+        "sourceUrl": {
+          "$ref": "#/$defs/httpUrl",
+          "title": "原题地址"
+        },
+        "reviewStatus": {
+          "$ref": "#/$defs/collectionReviewStatus"
+        },
+        "reviewNote": {
+          "type": "string",
+          "title": "审核说明"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "reviewStatus": {
+                "const": "confirmed"
+              }
+            },
+            "required": [
+              "reviewStatus"
+            ]
+          },
+          "then": {
+            "properties": {
+              "matches": {
+                "type": "array",
+                "minItems": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "collection": {
+      "title": "面试题集",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "publisherId",
+        "title",
+        "sourceUrl",
+        "sourceKind",
+        "access",
+        "capturedAt",
+        "lastCheckedAt",
+        "verification",
+        "sourceClaim",
+        "items"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/collectionId",
+          "title": "题集编号"
+        },
+        "publisherId": {
+          "$ref": "#/$defs/publisherId",
+          "title": "整理者编号"
+        },
+        "title": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "题集名称"
+        },
+        "sourceUrl": {
+          "$ref": "#/$defs/httpUrl",
+          "title": "原题集链接"
+        },
+        "sourceKind": {
+          "$ref": "#/$defs/collectionKind"
+        },
+        "access": {
+          "$ref": "#/$defs/collectionAccess"
+        },
+        "declaredItemCount": {
+          "type": "integer",
+          "minimum": 0,
+          "title": "来源声明题数"
+        },
+        "capturedAt": {
+          "$ref": "#/$defs/date",
+          "title": "收录日期"
+        },
+        "lastCheckedAt": {
+          "$ref": "#/$defs/date",
+          "title": "最近核验日期"
+        },
+        "verification": {
+          "$ref": "#/$defs/collectionVerification"
+        },
+        "sourceClaim": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "来源声明"
+        },
+        "items": {
+          "type": "array",
+          "title": "题集条目",
+          "items": {
+            "$ref": "#/$defs/collectionItem"
+          }
+        }
+      }
+    }
+  }
+}
