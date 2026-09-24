@@ -9,7 +9,7 @@
 - [MJ-XHS-2026-0510 面试高频问题系列-AI coding（一）](../interviews/MJ-XHS-2026-0510.md) — 面试经验分享 · 2026-06-22
 - [MJ-XHS-2026-0511 面试高频问题系列-AI coding（二）](../interviews/MJ-XHS-2026-0511.md) — 面试经验分享 · 2026-06-25
 - [MJ-XHS-2026-0512 Agent面试如何准备项目](../interviews/MJ-XHS-2026-0512.md) — 面试经验分享 · 实习 · 2026-07-02
-- [MJ-XHS-2026-0518 春招记录| 字节Agent面试都在问什么](../interviews/MJ-XHS-2026-0518.md) — 面试经验分享 · 校园招聘
+- [MJ-XHS-2026-0518 春招记录| 字节Agent面试都在问什么](../interviews/MJ-XHS-2026-0518.md) — 面试经验分享
 - [MJ-XHS-2026-0523 在职转AI第2周面试复盘](../interviews/MJ-XHS-2026-0523.md) — AI 应用 / Agent 开发 · 2026-03-15
 - [MJ-XHS-2026-0524 在职转AI第 3 周面试复盘](../interviews/MJ-XHS-2026-0524.md) — AI 应用 / Agent 开发 · 2026-04-07
 - [MJ-XHS-2026-0525 热乎的Agent岗二面面经🔥](../interviews/MJ-XHS-2026-0525.md) — AI 应用 / Agent 开发 · 2026-03-18
@@ -19,13 +19,13 @@
 ## 快手（4）
 
 - [MJ-XHS-2026-0519 快手 AI Agent研发实习 日常实习 一面](../interviews/MJ-XHS-2026-0519.md) — AI 应用 / Agent 开发 · 实习 · 2026-04-08
-- [MJ-XHS-2026-0544 快手Agent研发一面面经](../interviews/MJ-XHS-2026-0544.md) — AI 应用 / Agent 开发 · 校园招聘
+- [MJ-XHS-2026-0544 快手Agent研发一面面经](../interviews/MJ-XHS-2026-0544.md) — AI 应用 / Agent 开发 · 校招
 - [MJ-XHS-2026-0548 快手AI后端日常实习一面](../interviews/MJ-XHS-2026-0548.md) — 后端开发 · 实习 · 2026-04-09
 - [MJ-XHS-2026-0551 快手AI后端日常实习二面](../interviews/MJ-XHS-2026-0551.md) — 后端开发 · 实习 · 2026-04-21
 
 ## 高德（3）
 
-- [MJ-XHS-2026-0530 高德 5月 agent 社招 面经](../interviews/MJ-XHS-2026-0530.md) — AI 应用 / Agent 开发 · 社会招聘 · 2026-06-07
+- [MJ-XHS-2026-0530 高德 5月 agent 社招 面经](../interviews/MJ-XHS-2026-0530.md) — AI 应用 / Agent 开发 · 社招 · 2026-06-07
 - [MJ-XHS-2026-0550 高德Agent后端开发日常实习一面](../interviews/MJ-XHS-2026-0550.md) — AI 后端 / Agent 开发 · 实习 · 2026-05-14
 - [MJ-XHS-2026-0553 高德AI后端日常实习二面](../interviews/MJ-XHS-2026-0553.md) — 后端开发 · 实习 · 2026-05-19
 
@@ -54,7 +54,7 @@
 
 ## 淘天（2）
 
-- [MJ-XHS-2026-0517 淘天大模型Agent校招面经](../interviews/MJ-XHS-2026-0517.md) — 大模型算法工程师 · 校园招聘 · 2026-03-27
+- [MJ-XHS-2026-0517 淘天大模型Agent校招面经](../interviews/MJ-XHS-2026-0517.md) — 大模型算法工程师 · 校招 · 2026-03-27
 - [MJ-XHS-2026-0538 淘天-AI Agent优化-二面凉经](../interviews/MJ-XHS-2026-0538.md) — AI 应用 / Agent 开发 · 实习 · 2026-04-10
 
 ## 阿里巴巴（1）
@@ -75,7 +75,7 @@
 
 ## 深信服（1）
 
-- [MJ-XHS-2026-0529 深信服 社招 agent 全过程 agent 5月 开发](../interviews/MJ-XHS-2026-0529.md) — AI 应用 / Agent 开发 · 社会招聘 · 2026-05-27
+- [MJ-XHS-2026-0529 深信服 社招 agent 全过程 agent 5月 开发](../interviews/MJ-XHS-2026-0529.md) — AI 应用 / Agent 开发 · 社招 · 2026-05-27
 
 ## 腾讯（1）
 
@@ -83,7 +83,7 @@
 
 ## 腾讯 WXG（1）
 
-- [MJ-XHS-2026-0527 5.7 wxg社招面委会面经 agent方向](../interviews/MJ-XHS-2026-0527.md) — AI 应用 / Agent 开发 · 社会招聘 · 2026-05-07
+- [MJ-XHS-2026-0527 5.7 wxg社招面委会面经 agent方向](../interviews/MJ-XHS-2026-0527.md) — AI 应用 / Agent 开发 · 社招 · 2026-05-07
 
 ## 腾讯混元（1）
 
@@ -99,7 +99,7 @@
 
 ## 同程旅行（1）
 
-- [MJ-XHS-2026-0543 同程旅行暑期大模型算法一面面经](../interviews/MJ-XHS-2026-0543.md) — 大模型算法工程师 · 实习 · 2026-05-29
+- [MJ-XHS-2026-0543 同程旅行暑期大模型算法一面面经](../interviews/MJ-XHS-2026-0543.md) — 大模型算法工程师 · 实习 · 校招 · 2026-05-29
 
 ## 网易云音乐（1）
 
