@@ -85,16 +85,18 @@
 
 ## 8 个方向，从模型到工程
 
-| 方向 | 题目数 | 主要内容 |
-| --- | ---: | --- |
-| [模型基础与推理](indexes/llm.md) | 179 | Transformer、推理、解码、多模态与模型能力边界 |
-| [RAG 与知识系统](indexes/rag.md) | 291 | 文档处理、检索、重排、知识更新、GraphRAG 与 Text-to-SQL |
-| [Agent 原理与系统](indexes/agent.md) | 693 | Agent Loop、规划、记忆、工具调用、工作流与多 Agent |
-| [AI 应用工程与治理](indexes/ai-engineering.md) | 567 | Prompt、评测、安全、可观测性、性能、成本与交付 |
-| [模型训练与对齐](indexes/training.md) | 270 | 预训练、微调、偏好对齐、强化学习与分布式训练 |
-| [软件工程基础](indexes/software.md) | 1,264 | 语言、框架、网络、存储、并发、分布式系统与工程实践 |
-| [算法与编程题](indexes/coding.md) | 173 | 数据结构、算法、SQL、工程编码与逻辑推理 |
-| [项目与综合面试](indexes/career.md) | 304 | 项目表达、个人贡献、协作、行为面与候选人反问 |
+各方向的精确题目数由索引自动生成，以下只说明内容边界：
+
+| 方向 | 主要内容 |
+| --- | --- |
+| [模型基础与推理](indexes/llm.md) | Transformer、推理、解码、多模态与模型能力边界 |
+| [RAG 与知识系统](indexes/rag.md) | 文档处理、检索、重排、知识更新、GraphRAG 与 Text-to-SQL |
+| [Agent 原理与系统](indexes/agent.md) | Agent Loop、规划、记忆、工具调用、工作流与多 Agent |
+| [AI 应用工程与治理](indexes/ai-engineering.md) | Prompt、评测、安全、可观测性、性能、成本与交付 |
+| [模型训练与对齐](indexes/training.md) | 预训练、微调、偏好对齐、强化学习与分布式训练 |
+| [软件工程基础](indexes/software.md) | 语言、框架、网络、存储、并发、分布式系统与工程实践 |
+| [算法与编程题](indexes/coding.md) | 数据结构、算法、SQL、工程编码与逻辑推理 |
+| [项目与综合面试](indexes/career.md) | 项目表达、个人贡献、协作、行为面与候选人反问 |
 
 ## 把知识变成面试时说得清的答案
 

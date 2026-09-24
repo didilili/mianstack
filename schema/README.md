@@ -26,10 +26,10 @@
 | `level` | 技术难度 | enum | 取值见 schema 的 `questionLevel` |
 | `priority` | 准备优先级 | enum | 取值见 schema 的 `questionPriority` |
 | `focus` | 考查重点 | string | 说明这道题主要考查的边界 |
-| `note` | 整理备注 | string | 可为空；保存维护说明，不作为参考答案 |
-| `aliases` | 相关关键词 | string[] | 可为空；用于保留别名和搜索词 |
-| `formatTags` | 问法形式标签 | string[] | 可为空 |
-| `contextTags` | 场景标签 | string[] | 可为空 |
+| `note` | 整理备注 | string | 可选；有维护说明时填写，不作为参考答案 |
+| `aliases` | 相关关键词 | string[] | 可选；有别名或搜索词时填写 |
+| `formatTags` | 问法形式标签 | string[] | 可选；有标签时填写 |
+| `contextTags` | 场景标签 | string[] | 可选；有标签时填写 |
 | `answerStatus` | 答案状态 | enum | 取值和显示见 schema 的 `answerStatus` |
 | `updatedAt` | 更新时间 | date | `YYYY-MM-DD` |
 
