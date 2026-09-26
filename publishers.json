@@ -21,5 +21,14 @@
     "homepage": "https://www.yuque.com/camellia-6ti1v",
     "homepageLabel": "查看语雀主页",
     "updatedAt": "2026-09-14"
+  },
+  {
+    "id": "PUB-DIDILILI",
+    "name": "didilili",
+    "type": "individual",
+    "homepage": "https://github.com/didilili/ai-agents-from-zero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49889928?v=4",
+    "homepageLabel": "查看原项目",
+    "updatedAt": "2026-09-24"
   }
 ]
