@@ -6,6 +6,18 @@
 
 共 179 道题，分为 8 个专题。
 
+## 页内导航
+
+- [Transformer 与注意力](#topic-1)
+- [模型架构与表示](#topic-2)
+- [Tokenizer 与位置编码](#topic-3)
+- [推理与解码](#topic-4)
+- [推理优化与模型压缩](#topic-5)
+- [多模态与生成模型](#topic-6)
+- [机器学习与推荐系统](#topic-7)
+- [模型选型与能力边界](#topic-8)
+
+<a id="topic-1"></a>
 ## Transformer 与注意力
 
 - [Q-0036 Transformer 中的 Attention 如何计算？](../questions/Q-0036.md)
@@ -30,6 +42,7 @@
 - [Q-3704 交叉注意力与自注意力有什么区别？](../questions/Q-3704.md)
 - [Q-3754 为什么 Attention 能建模长距离依赖？](../questions/Q-3754.md)
 
+<a id="topic-2"></a>
 ## 模型架构与表示
 
 - [Q-0208 Chat Template、System Prompt 和训练形成的行为先验有什么关系？](../questions/Q-0208.md)
@@ -67,6 +80,7 @@
 - [Q-3715 DeepSeek 的 MTP 机制如何实现？](../questions/Q-3715.md)
 - [Q-3753 LLM 的输入本质是什么？模型如何处理上下文？](../questions/Q-3753.md)
 
+<a id="topic-3"></a>
 ## Tokenizer 与位置编码
 
 - [Q-0287 Token 与字符有什么区别？](../questions/Q-0287.md)
@@ -75,6 +89,7 @@
 - [Q-3650 RoPE 是什么，解决什么问题？](../questions/Q-3650.md)
 - [Q-3685 Tokenizer 的原理是什么，如何影响大模型训练与推理？](../questions/Q-3685.md)
 
+<a id="topic-4"></a>
 ## 推理与解码
 
 - [Q-2279 为什么 Temperature 为 0 时模型输出仍可能有差异？](../questions/Q-2279.md)
@@ -85,6 +100,7 @@
 - [Q-3711 大模型推理解码中的 Prefill 和 Decode 阶段分别做什么？](../questions/Q-3711.md)
 - [Q-3712 大模型推理为什么需要 Prefill 阶段？](../questions/Q-3712.md)
 
+<a id="topic-5"></a>
 ## 推理优化与模型压缩
 
 - [Q-0274 Decoder-only 的 KV Cache 为什么缓存 K、V 而通常不缓存 Q？](../questions/Q-0274.md)
@@ -111,6 +127,7 @@
 - [Q-3649 如何降低多头注意力的计算开销？](../questions/Q-3649.md)
 - [Q-3713 KV Cache 为什么容易造成显存利用率低？](../questions/Q-3713.md)
 
+<a id="topic-6"></a>
 ## 多模态与生成模型
 
 - [Q-0522 轨迹模型采用什么动作空间？](../questions/Q-0522.md)
@@ -138,6 +155,7 @@
 - [Q-3624 多模态模型如何对齐图像与文本 Embedding，除 ViT 外有哪些网络选择？](../questions/Q-3624.md)
 - [Q-3668 多模态模型中的“推理捷径”是什么，如何识别？](../questions/Q-3668.md)
 
+<a id="topic-7"></a>
 ## 机器学习与推荐系统
 
 - [Q-0252 推荐系统冷启动有哪些处理思路？](../questions/Q-0252.md)
@@ -178,6 +196,7 @@
 - [Q-3626 项目方法与推荐算法有什么关系？](../questions/Q-3626.md)
 - [Q-3627 项目基座与 OneRec 有什么关系？](../questions/Q-3627.md)
 
+<a id="topic-8"></a>
 ## 模型选型与能力边界
 
 - [Q-0323 项目使用了哪个具体模型与版本？](../questions/Q-0323.md)

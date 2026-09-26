@@ -4,8 +4,24 @@
 
 运行循环、规划、上下文、记忆、工具协议、工作流与多 Agent。
 
-共 693 道题，分为 12 个专题。
+共 698 道题，分为 12 个专题。
 
+## 页内导航
+
+- [Agent 基础与运行循环](#topic-1)
+- [Agent 应用架构与场景设计](#topic-2)
+- [规划、推理与任务执行](#topic-3)
+- [上下文工程](#topic-4)
+- [记忆系统](#topic-5)
+- [工具调用与 Function Calling](#topic-6)
+- [MCP、A2A 与工具协议](#topic-7)
+- [Skills 能力系统](#topic-8)
+- [工作流、状态与执行恢复](#topic-9)
+- [多 Agent 编排与协作](#topic-10)
+- [Agent 框架与 Harness](#topic-11)
+- [GUI、Computer Use 与多模态 Agent](#topic-12)
+
+<a id="topic-1"></a>
 ## Agent 基础与运行循环
 
 - [Q-0058 Agent 是什么，由哪些核心能力和组件组成？](../questions/Q-0058.md)
@@ -55,6 +71,7 @@
 - [Q-3497 从底层能力看什么是 AI Agent，Coze 是否属于 Agent？](../questions/Q-3497.md)
 - [Q-3733 Agent 如何实现推理（Reasoning）、决策（Decision）和自主执行（Action）？](../questions/Q-3733.md)
 
+<a id="topic-2"></a>
 ## Agent 应用架构与场景设计
 
 - [Q-0087 协作办公方向的 Agent 还有哪些能力可以提升？](../questions/Q-0087.md)
@@ -168,6 +185,7 @@
 - [Q-3770 Agent 在真实生产环境中的主要挑战是什么？](../questions/Q-3770.md)
 - [Q-3771 当前 Agent 技术发展的主要瓶颈是什么？](../questions/Q-3771.md)
 
+<a id="topic-3"></a>
 ## 规划、推理与任务执行
 
 - [Q-0135 如何把业务能力拆成 Agent 可执行的领域动作？](../questions/Q-0135.md)
@@ -239,6 +257,7 @@
 - [Q-3691 复杂任务如何拆分为可执行子任务，怎样评估拆分质量？](../questions/Q-3691.md)
 - [Q-3698 如何让 LLM 形成可执行、可校验的任务规划？](../questions/Q-3698.md)
 
+<a id="topic-4"></a>
 ## 上下文工程
 
 - [Q-0051 多轮对话变长时，如何控制上下文长度并选择压缩策略？](../questions/Q-0051.md)
@@ -291,6 +310,7 @@
 - [Q-3677 不同 AI 编程工具之间如何共享规则、上下文和长期记忆？](../questions/Q-3677.md)
 - [Q-3763 如何减少无关上下文对模型的干扰？](../questions/Q-3763.md)
 
+<a id="topic-5"></a>
 ## 记忆系统
 
 - [Q-0060 Agent 的记忆应该如何管理？](../questions/Q-0060.md)
@@ -343,6 +363,7 @@
 - [Q-3740 短期记忆和长期记忆的设计与本质区别是什么？](../questions/Q-3740.md)
 - [Q-3741 长期记忆是否必须淘汰？是否可以通过检索代替删除？](../questions/Q-3741.md)
 
+<a id="topic-6"></a>
 ## 工具调用与 Function Calling
 
 - [Q-0050 如何保证模型提供正确参数并可靠地调用工具？](../questions/Q-0050.md) · **已有答案**
@@ -401,6 +422,7 @@
 - [Q-3351 如何编写工具 description 以提高调用准确率，请举淘天场景示例。](../questions/Q-3351.md)
 - [Q-3452 Agent 的兜底策略如何实现？](../questions/Q-3452.md)
 
+<a id="topic-7"></a>
 ## MCP、A2A 与工具协议
 
 - [Q-0016 MCP 中 SSE 与 Streamable HTTP 有什么区别？](../questions/Q-0016.md)
@@ -444,7 +466,9 @@
 - [Q-3783 OpenAI 的 Assistants API 与自建 Agent 框架相比，适用场景如何选择？](../questions/Q-3783.md)
 - [Q-3784 Agent 的标准化接口（如统一的 Tool Schema 规范）对跨系统集成有什么价值？](../questions/Q-3784.md)
 - [Q-3785 当前主流 Agent 框架（LangGraph、AutoGen、CrewAI、Dify）的核心设计理念和适用场景分别是什么？](../questions/Q-3785.md)
+- [Q-3795 常见 MCP 工具有哪些，如何按场景选择？](../questions/Q-3795.md)
 
+<a id="topic-8"></a>
 ## Skills 能力系统
 
 - [Q-0354 Skill 热插拔的完整流程是什么？](../questions/Q-0354.md)
@@ -497,6 +521,7 @@
 - [Q-3611 Skill 能否放入 Agent 沙箱运行？](../questions/Q-3611.md)
 - [Q-3612 Skill 位于沙箱中时，如何与 Agent 通信并跨文件系统渐进披露？](../questions/Q-3612.md)
 
+<a id="topic-9"></a>
 ## 工作流、状态与执行恢复
 
 - [Q-0019 对话 Agent 的会话表和消息表应该如何设计？](../questions/Q-0019.md)
@@ -548,6 +573,7 @@
 - [Q-3781 什么是 Compensating Transaction？在 Agent 回滚场景中如何应用？](../questions/Q-3781.md)
 - [Q-3782 如何区分可重试操作和不可重试操作，并在工具设计时显式声明？](../questions/Q-3782.md)
 
+<a id="topic-10"></a>
 ## 多 Agent 编排与协作
 
 - [Q-0022 你的项目采用单 Agent 还是多 Agent，分别承担什么职责？](../questions/Q-0022.md)
@@ -630,6 +656,7 @@
 - [Q-3749 子 Agent 与 Skill 的区别是什么？](../questions/Q-3749.md)
 - [Q-3765 Orchestrator 把任务分发给四个 Specialist 时，每个 Specialist 拿到的上下文应该是什么？](../questions/Q-3765.md)
 
+<a id="topic-11"></a>
 ## Agent 框架与 Harness
 
 - [Q-0048 如何理解 Agent 中 Harness 的作用？](../questions/Q-0048.md)
@@ -715,7 +742,11 @@
 - [Q-3696 LangChain 中的 Chain 是什么，如何组织调用流程？](../questions/Q-3696.md)
 - [Q-3718 OpenClaw 与其他 Agent 框架有什么区别？](../questions/Q-3718.md)
 - [Q-3720 OpenClaw 目前有哪些局限？](../questions/Q-3720.md)
+- [Q-3794 LCEL 的价值是什么，为什么不只是链式语法糖？](../questions/Q-3794.md)
+- [Q-3796 用 Python 调用 Dify 或 Coze 工作流时，应关注哪些工程细节？](../questions/Q-3796.md)
+- [Q-3797 如何设计供 Agent 使用的 Python 代码解释器？](../questions/Q-3797.md)
 
+<a id="topic-12"></a>
 ## GUI、Computer Use 与多模态 Agent
 
 - [Q-0182 如何设计家庭安防 Agent，融合异步视频、声音和传感器，支持分级响应与自然语言规则？](../questions/Q-0182.md)
@@ -734,3 +765,4 @@
 - [Q-3195 画出视频剪辑 Agent 的完整架构，说明模块职责与交互。](../questions/Q-3195.md)
 - [Q-3284 自动将主题报告推送到 B 站和小红书。](../questions/Q-3284.md)
 - [Q-3603 如何用 Agent 根据图片定位对应代码？](../questions/Q-3603.md)
+- [Q-3798 真实或模拟环境 Agent 与纯软件工具型 Agent 有什么区别？](../questions/Q-3798.md)

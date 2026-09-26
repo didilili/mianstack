@@ -6,6 +6,20 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 
 共 567 道题，分为 10 个专题。
 
+## 页内导航
+
+- [Prompt 与结构化输出](#topic-1)
+- [AI 应用架构与接口](#topic-2)
+- [评测体系与实验设计](#topic-3)
+- [生成质量与幻觉治理](#topic-4)
+- [安全、权限与人工介入](#topic-5)
+- [可观测性、稳定性与故障诊断](#topic-6)
+- [性能、时延与成本](#topic-7)
+- [模型服务、部署与交付](#topic-8)
+- [AI Coding 与研发流程](#topic-9)
+- [产品场景、业务价值与交付边界](#topic-10)
+
+<a id="topic-1"></a>
 ## Prompt 与结构化输出
 
 - [Q-0045 简历评分结果如何结构化输出？](../questions/Q-0045.md)
@@ -44,6 +58,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3774 如何设计 Agent 输出的置信度评估机制？](../questions/Q-3774.md)
 - [Q-3775 流式输出（Streaming）场景下如何做结构化解析？](../questions/Q-3775.md)
 
+<a id="topic-2"></a>
 ## AI 应用架构与接口
 
 - [Q-2518 模型的流式输出如何实现？](../questions/Q-2518.md)
@@ -52,6 +67,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3525 为什么使用 SSE 处理 AI 流式响应？](../questions/Q-3525.md)
 - [Q-3589 为什么采用流式传输模型回答？](../questions/Q-3589.md)
 
+<a id="topic-3"></a>
 ## 评测体系与实验设计
 
 - [Q-0046 简历评分应该从哪些维度进行？](../questions/Q-0046.md)
@@ -182,6 +198,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3792 如何设计 regression test suite，确保每次 Prompt 修改或模型升级不引入退化？](../questions/Q-3792.md)
 - [Q-3793 Benchmark 过拟合问题（Benchmark contamination / Goodhart's Law）在 Agent eval 中如何规避？](../questions/Q-3793.md)
 
+<a id="topic-4"></a>
 ## 生成质量与幻觉治理
 
 - [Q-0023 生成教学内容时，如何识别语义问题和超纲内容？](../questions/Q-0023.md)
@@ -212,6 +229,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3708 大模型为什么会产生幻觉？](../questions/Q-3708.md)
 - [Q-3755 如何提升模型生成质量？](../questions/Q-3755.md)
 
+<a id="topic-5"></a>
 ## 安全、权限与人工介入
 
 - [Q-0055 哪些任务适合交给 Agent 自动完成，怎样设置人工介入边界？](../questions/Q-0055.md)
@@ -278,6 +296,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3788 如何记录 Agent 的决策链路以满足合规审计要求（可解释性）？](../questions/Q-3788.md)
 - [Q-3789 如何防止 Agent 被用于生成有害内容或被恶意用户滥用？](../questions/Q-3789.md)
 
+<a id="topic-6"></a>
 ## 可观测性、稳定性与故障诊断
 
 - [Q-0049 Agent 长任务耗时显著变长时，如何定位原因并优化？](../questions/Q-0049.md)
@@ -352,6 +371,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3776 如何定位“Agent 为什么做了错误的工具选择”？调试思路是什么？](../questions/Q-3776.md)
 - [Q-3777 如何在不中断生产流量的情况下对 Agent 做 Shadow Testing？](../questions/Q-3777.md)
 
+<a id="topic-7"></a>
 ## 性能、时延与成本
 
 - [Q-0054 Agent 上线后延迟或吞吐不达标时，如何优化执行效率？](../questions/Q-0054.md)
@@ -400,6 +420,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3767 CTO 要求把每个 PR 的 review 成本控制在 0.05 以内，但架构 Agent 单次调用就要 0.08。怎么办？](../questions/Q-3767.md)
 - [Q-3778 Agent 的 Cost Tracking（Token 消耗 + API 调用费用）如何在任务粒度上实现？](../questions/Q-3778.md)
 
+<a id="topic-8"></a>
 ## 模型服务、部署与交付
 
 - [Q-0079 GUI Agent 或 Browser Use 在项目中如何部署？](../questions/Q-0079.md)
@@ -447,6 +468,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3757 Batch API 和实时 API 的选型策略是什么？](../questions/Q-3757.md)
 - [Q-3758 如何在多个模型供应商之间做容灾切换（Fallback Provider）？](../questions/Q-3758.md)
 
+<a id="topic-9"></a>
 ## AI Coding 与研发流程
 
 - [Q-0102 平时用过哪些 Coding Agent，如何介绍其中熟悉的工具？](../questions/Q-0102.md)
@@ -580,6 +602,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3587 AI Coding 如何组织提示词，人工在哪些环节介入审核？](../questions/Q-3587.md)
 - [Q-3773 AI Coding 对软件工程的影响是什么？](../questions/Q-3773.md)
 
+<a id="topic-10"></a>
 ## 产品场景、业务价值与交付边界
 
 - [Q-0053 Agent 解决了什么业务问题，如何证明实际提效？](../questions/Q-0053.md)
