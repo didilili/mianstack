@@ -6,6 +6,23 @@
 
 共 291 道题，分为 13 个专题。
 
+## 页内导航
+
+- [RAG 架构与生成链路](#topic-1)
+- [文档解析与清洗](#topic-2)
+- [文档切分与元数据](#topic-3)
+- [Embedding 与向量表示](#topic-4)
+- [向量数据库与索引](#topic-5)
+- [查询理解与改写](#topic-6)
+- [召回策略与检索](#topic-7)
+- [混合检索与重排序](#topic-8)
+- [RAG 评测与故障排查](#topic-9)
+- [知识更新、版本与权限](#topic-10)
+- [多模态文档处理](#topic-11)
+- [知识图谱与 GraphRAG](#topic-12)
+- [结构化知识与 Text-to-SQL](#topic-13)
+
+<a id="topic-1"></a>
 ## RAG 架构与生成链路
 
 - [Q-0047 RAG 从知识入库到在线问答的完整流程是什么？](../questions/Q-0047.md) · **已有答案**
@@ -43,6 +60,7 @@
 - [Q-3693 Self-RAG、CRAG、Agentic RAG 等增强范式有什么区别？](../questions/Q-3693.md)
 - [Q-3742 RAG 系统的主要组成模块有哪些？](../questions/Q-3742.md)
 
+<a id="topic-2"></a>
 ## 文档解析与清洗
 
 - [Q-0025 RAG 数据清洗为何使用 SimHash 与汉明距离，阈值如何选择？](../questions/Q-0025.md)
@@ -69,6 +87,7 @@
 - [Q-3723 不同格式的文档应如何解析？](../questions/Q-3723.md)
 - [Q-3728 大规模文档建索引时，如何处理大量相似或重复文档？](../questions/Q-3728.md)
 
+<a id="topic-3"></a>
 ## 文档切分与元数据
 
 - [Q-0026 动态重叠窗口切片相比固定长度切片解决了什么问题？](../questions/Q-0026.md)
@@ -89,6 +108,7 @@
 - [Q-3724 多级文档如何在检索阶段保留层级信息？](../questions/Q-3724.md)
 - [Q-3726 如何为 Chunk 建立可回溯原文位置的索引？](../questions/Q-3726.md)
 
+<a id="topic-4"></a>
 ## Embedding 与向量表示
 
 - [Q-0370 如何为检索场景选择和使用 Embedding 模型？](../questions/Q-0370.md)
@@ -108,6 +128,7 @@
 - [Q-3644 原文所称 Qwen-4B Embedding 如何实现，是否属于 BERT 架构？](../questions/Q-3644.md)
 - [Q-3729 Embedding 模型用于下游任务时有哪些局限？](../questions/Q-3729.md)
 
+<a id="topic-5"></a>
 ## 向量数据库与索引
 
 - [Q-0074 Qdrant 有哪些特点，为什么在项目中选择它？](../questions/Q-0074.md)
@@ -137,6 +158,7 @@
 - [Q-3727 常见的向量索引算法有哪些，如何选择？](../questions/Q-3727.md)
 - [Q-3743 为什么需要向量数据库？与传统数据库有何区别？](../questions/Q-3743.md)
 
+<a id="topic-6"></a>
 ## 查询理解与改写
 
 - [Q-0487 为什么采用两层意图识别，对 RAG 准确率有多大影响？](../questions/Q-0487.md)
@@ -151,6 +173,7 @@
 - [Q-2171 除了压缩，还会对长 Query 做哪些处理？](../questions/Q-2171.md)
 - [Q-3721 Query 重构有哪些常见方法，各适合什么场景？](../questions/Q-3721.md)
 
+<a id="topic-7"></a>
 ## 召回策略与检索
 
 - [Q-0173 向量相似度如何计算？](../questions/Q-0173.md)
@@ -192,6 +215,7 @@
 - [Q-3628 召回检索部分是否由你自行实现？](../questions/Q-3628.md)
 - [Q-3692 RAG 检索优化有哪些常见策略，如何组合？](../questions/Q-3692.md)
 
+<a id="topic-8"></a>
 ## 混合检索与重排序
 
 - [Q-0251 向量检索、BM25、重排在混合 RAG 中如何配合？](../questions/Q-0251.md)
@@ -219,6 +243,7 @@
 - [Q-3645 原文所称 Qwen-34B Rerank 如何实现？](../questions/Q-3645.md)
 - [Q-3730 粗排加精排的两阶段排序有哪些优缺点？](../questions/Q-3730.md)
 
+<a id="topic-9"></a>
 ## RAG 评测与故障排查
 
 - [Q-0289 如何处理 Lost in the Middle 问题？](../questions/Q-0289.md)
@@ -263,6 +288,7 @@
 - [Q-3725 如何评价文档解析效果？](../questions/Q-3725.md)
 - [Q-3744 如何处理 RAG 中上下文过长或不相关信息干扰问题？](../questions/Q-3744.md)
 
+<a id="topic-10"></a>
 ## 知识更新、版本与权限
 
 - [Q-0540 RAG 如何动态且不停服地更新知识库？](../questions/Q-0540.md)
@@ -282,6 +308,7 @@
 - [Q-3403 文档局部更新时，如何通过增量索引避免全量重新向量化？](../questions/Q-3403.md)
 - [Q-3747 如何处理知识库中的冲突信息（同一问题有多个矛盾来源）？](../questions/Q-3747.md)
 
+<a id="topic-11"></a>
 ## 多模态文档处理
 
 - [Q-0076 RAG 中的图片等非文本内容应该如何处理？](../questions/Q-0076.md)
@@ -300,6 +327,7 @@
 - [Q-3106 视频剪辑为什么不采用全量 ASR？](../questions/Q-3106.md)
 - [Q-3107 语音驱动剪辑中，长音频分段识别如何避免时序错乱和断句错误？](../questions/Q-3107.md)
 
+<a id="topic-12"></a>
 ## 知识图谱与 GraphRAG
 
 - [Q-0493 GraphRAG 是什么？](../questions/Q-0493.md)
@@ -327,6 +355,7 @@
 - [Q-3731 GraphRAG 有哪些常见检索方式？](../questions/Q-3731.md)
 - [Q-3732 GraphRAG 有哪些改进算法，它们分别解决什么问题？](../questions/Q-3732.md)
 
+<a id="topic-13"></a>
 ## 结构化知识与 Text-to-SQL
 
 - [Q-1920 介绍项目的召回、重排和 SQL 生成链路。](../questions/Q-1920.md)
