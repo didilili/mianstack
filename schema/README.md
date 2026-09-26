@@ -96,7 +96,7 @@ frontmatter 保存来源身份和检索元数据，正文保存允许公开展�
 
 frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 
-正文、图片、评论和直接引用仍受原作者权利约束；没有再发布依据时只保留链接、必要的有限引用和自己的整理说明。详见[内容许可说明](../CONTENT_LICENSE.md)。
+可公开展示完整原帖时，来源正文使用统一章节：`## 原帖正文` 为必需章节；只有确有内容时才增加 `## 图片` 和 `## 有价值评论`。为兼容已经公开的原帖定位链接，可以在正文前保留一个 `<a id="…"></a>` 锚点。不要把采集页码、编辑摘要、迁移说明或空占位章节写入内容文件。
 
 ## 知识分类 `categories.json`
 
@@ -129,6 +129,7 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 | `name` | 整理者名称 | string | Web 展示名称 |
 | `type` | 整理者类型 | enum | 取值和显示见 schema 的 `publisherType` |
 | `homepage` | 作者主页 | URL | 必须是 HTTP(S) 地址 |
+| `avatarUrl` | 头像地址 | URL | 可选；使用整理者公开提供的头像 |
 | `homepageLabel` | 主页链接文案 | string | 可选；如“查看来源文档” |
 | `updatedAt` | 更新时间 | date | `YYYY-MM-DD` |
 
@@ -160,4 +161,4 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 | `originalTitle` | 原题标题 | string | 保留来源中的题目标题 |
 | `sourceUrl` | 原题链接 | URL | 必须是 HTTP(S) 地址 |
 | `reviewStatus` | 原题审核状态 | enum | 取值见 schema 的 `collectionReviewStatus` |
-| `reviewNote` | 审核说明 | string | 可为空 |
+| `reviewNote` | 审核说明 | string | 可选；只在需要解释人工审核结论时填写 |

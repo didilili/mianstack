@@ -872,6 +872,10 @@
           "$ref": "#/$defs/httpUrl",
           "title": "作者主页"
         },
+        "avatarUrl": {
+          "$ref": "#/$defs/httpUrl",
+          "title": "头像地址"
+        },
         "homepageLabel": {
           "$ref": "#/$defs/nonEmptyString",
           "title": "主页链接文案"
@@ -891,8 +895,7 @@
         "position",
         "originalTitle",
         "sourceUrl",
-        "reviewStatus",
-        "reviewNote"
+        "reviewStatus"
       ],
       "properties": {
         "id": {
