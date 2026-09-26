@@ -140,15 +140,17 @@
 <summary><strong>查看仓库结构</strong></summary>
 
 ```text
-mianstack/
+mianstack-corpus/
 ├── questions/       # 面试题、主要考点与参考答案
 ├── interviews/      # 面经来源信息与可公开展示的来源材料
 ├── collections/     # 其他公开题集收录的题目
-├── indexes/         # GitHub 内可直接阅读的分类索引
+├── indexes/         # 自动生成的 GitHub 阅读索引
 ├── schema/          # 唯一机器规则与字段语义说明
+├── examples/        # 题目、面经和关系文件示例
+├── LICENSES/        # 仓库与第三方内容许可入口
 ├── categories.json  # 知识方向与专题
 ├── aliases.json     # 已合并稳定题号指向现用题号
-├── publishers.json  # 公开题集发布者
+└── publishers.json  # 公开题集发布者
 ```
 
 </details>
@@ -156,8 +158,6 @@ mianstack/
 ## 许可证
 
 MianStack 采用 [MIT License](LICENSE)，面栈创作和整理的题目、答案、文档与代码均按 MIT License 开放。
-
-仓库中注明原作者或原始来源的面经、图片、评论、直接引用和第三方题集不属于面栈原创，仍由原作者决定如何使用。说明见[许可说明](CONTENT_LICENSE.md)。
 
 ---
 
