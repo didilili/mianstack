@@ -1,0 +1,638 @@
+{
+  "id": "COL-DIDILILI-AI-89",
+  "publisherId": "PUB-DIDILILI",
+  "title": "AI 智能体与大模型应用开发面试题库",
+  "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md",
+  "sourceKind": "course_question_set",
+  "access": "public",
+  "declaredItemCount": 89,
+  "capturedAt": "2026-09-24",
+  "lastCheckedAt": "2026-09-24",
+  "verification": "verified_source",
+  "sourceClaim": "由 didilili 在 ai-agents-from-zero 项目中整理的课程配套 89 题；本站逐题核对公开源文件并映射到现用标准题，不复制来源答案正文。",
+  "items": [
+    {
+      "id": "COL-DIDILILI-AI-89-001",
+      "position": 1,
+      "originalTitle": "RAG 和微调（SFT）的核心区别是什么？能不能一起用？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-002",
+      "position": 2,
+      "originalTitle": "什么是 AI Agent？它和传统 AI 应用的区别是什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-003",
+      "position": 3,
+      "originalTitle": "什么时候该用 Prompt、RAG、微调、Workflow、Agent？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L70",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-004",
+      "position": 4,
+      "originalTitle": "Token 和上下文窗口是什么？它们在工程上意味着什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-005",
+      "position": 5,
+      "originalTitle": "大模型应用上线前你最关心哪些工程指标？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-006",
+      "position": 6,
+      "originalTitle": "System Message 和 User Message 应该怎么分工？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L157",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-007",
+      "position": 7,
+      "originalTitle": "结构化输出有哪些常见做法？各自的优缺点是什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L171",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-008",
+      "position": 8,
+      "originalTitle": "Prompt Injection 是什么？为什么 RAG / Agent 场景更要小心？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L202",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-009",
+      "position": 9,
+      "originalTitle": "Prompt Engineering 中，如何系统优化提示词并把准确率做上去？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-010",
+      "position": 10,
+      "originalTitle": "Prompt 工程的边界是什么？为什么不能把一切问题都交给 Prompt？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L258",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-011",
+      "position": 11,
+      "originalTitle": "如何做 Prompt 版本管理与回归？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L272",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-012",
+      "position": 12,
+      "originalTitle": "请描述一个完整的 RAG 流水线。",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L308",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-013",
+      "position": 13,
+      "originalTitle": "文本切块应该怎么设计？有哪些常见坑？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L328",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-014",
+      "position": 14,
+      "originalTitle": "RAG 效果不好时，你会怎么排查？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-015",
+      "position": 15,
+      "originalTitle": "混合检索、重排序和查询改写分别解决什么问题？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-016",
+      "position": 16,
+      "originalTitle": "RAG 应该如何接入 Agent 执行链路？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-017",
+      "position": 17,
+      "originalTitle": "为什么企业项目里的 RAG 必须重视权限、版本和引用？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L409",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-018",
+      "position": 18,
+      "originalTitle": "什么是 Lost in the Middle？它对 RAG 设计有什么启示？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-019",
+      "position": 19,
+      "originalTitle": "有了超长上下文模型，还需要 RAG 吗？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L444",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-020",
+      "position": 20,
+      "originalTitle": "复杂文档 RAG 或多模态 RAG 应该怎么做？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-021",
+      "position": 21,
+      "originalTitle": "什么是 Agentic RAG？它和“一次检索后直接生成”有什么区别？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L490",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-022",
+      "position": 22,
+      "originalTitle": "什么是向量数据库？它和传统数据库有什么区别？为什么不能只用 MySQL？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-023",
+      "position": 23,
+      "originalTitle": "Embedding 是什么？它在应用开发里最核心的价值是什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-024",
+      "position": 24,
+      "originalTitle": "如何选择一个合适的 Embedding 模型？评估它好坏看什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L556",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-025",
+      "position": 25,
+      "originalTitle": "近似检索和精确检索怎么权衡？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-026",
+      "position": 26,
+      "originalTitle": "在什么场景下，知识图谱或图数据库比纯向量检索更有价值？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L595",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-027",
+      "position": 27,
+      "originalTitle": "GraphRAG 适合什么场景？和传统向量 RAG 怎么选？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L607",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-028",
+      "position": 28,
+      "originalTitle": "ReAct 模式是什么？它解决了什么问题？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L635",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-029",
+      "position": 29,
+      "originalTitle": "Tool、Function Calling、Agent 三者是什么关系？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L656",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-030",
+      "position": 30,
+      "originalTitle": "一个 Agent 应该如何设计？它通常由哪些核心组件构成？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L676",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-031",
+      "position": 31,
+      "originalTitle": "Function Calling 的基本原理是什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L708",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-032",
+      "position": 32,
+      "originalTitle": "设计 Tool 时最值得重视的工程原则是什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-033",
+      "position": 33,
+      "originalTitle": "如果让你实现一个“查天气、查新闻”的 AI 助手，你会怎么设计？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L752",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-034",
+      "position": 34,
+      "originalTitle": "什么是“工具幻觉”？工程上怎么缓解？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L775",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-035",
+      "position": 35,
+      "originalTitle": "Function Calling 和“让模型输出 JSON 再自己解析”有什么区别？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L798",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-036",
+      "position": 36,
+      "originalTitle": "当工具很多时，如何控制上下文长度和调用稳定性？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L824",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-037",
+      "position": 37,
+      "originalTitle": "LangGraph 相比普通 Workflow 或链式调用，最大的价值是什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L855",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-038",
+      "position": 38,
+      "originalTitle": "在 LangGraph 里，State、Node、Edge 分别代表什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L875",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-039",
+      "position": 39,
+      "originalTitle": "LangChain 在今天的价值是什么？为什么不是直接手写 SDK 就够了？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L889",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-040",
+      "position": 40,
+      "originalTitle": "如何使用 LangChain 开发一个 Agent？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L901",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-041",
+      "position": 41,
+      "originalTitle": "LCEL 的价值是什么？为什么说它不只是语法糖？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L923",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-042",
+      "position": 42,
+      "originalTitle": "LangGraph 的进阶特性里，你觉得最有工程价值的是哪些？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L935",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-043",
+      "position": 43,
+      "originalTitle": "Checkpoint、HITL、Time-Travel 在面试里怎么讲得更工程化？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L966",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-044",
+      "position": 44,
+      "originalTitle": "上下文窗口、短期记忆、长期记忆分别是什么关系？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L996",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-045",
+      "position": 45,
+      "originalTitle": "如何为 Agent 设计短期记忆和长期记忆系统？技术上通常怎么落地？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1017",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-046",
+      "position": 46,
+      "originalTitle": "什么是 MCP？它解决的核心问题是什么？它和 Tool、RAG、Agent 有什么区别？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1054",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-047",
+      "position": 47,
+      "originalTitle": "MCP 和 Function Calling 的关系是什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1083",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-048",
+      "position": 48,
+      "originalTitle": "MCP 是如何做到跨平台兼容的？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1097",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-049",
+      "position": 49,
+      "originalTitle": "MCP 技术协议的主体内容是什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-050",
+      "position": 50,
+      "originalTitle": "MCP 服务器开发流程是什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-051",
+      "position": 51,
+      "originalTitle": "Agent 应该如何接入 MCP 工具？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-052",
+      "position": 52,
+      "originalTitle": "MCP 的流式 HTTP 传输核心优势是什么？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1176",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-053",
+      "position": 53,
+      "originalTitle": "MCP 调用如何保证并发？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1194",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-054",
+      "position": 54,
+      "originalTitle": "A2A 和 MCP 的区别是什么？什么时候需要多智能体？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1213",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-055",
+      "position": 55,
+      "originalTitle": "有哪些热门的 MCP 工具？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-056",
+      "position": 56,
+      "originalTitle": "Coze / Dify 这类平台和 LangChain / LangGraph 的关系怎么理解？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-057",
+      "position": 57,
+      "originalTitle": "各类 Agent 开发框架应该如何选取？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-058",
+      "position": 58,
+      "originalTitle": "什么时候工作流比 Agent 更合适？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-059",
+      "position": 59,
+      "originalTitle": "用 Python 调用 Dify / Coze 工作流时，最值得关注哪些工程细节？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-060",
+      "position": 60,
+      "originalTitle": "开源 RAG 平台比如 RAGFlow，应该如何选型？和 Dify 或自研链路怎么比较？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1357",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-061",
+      "position": 61,
+      "originalTitle": "你会如何评估一个 RAG 或 Agent 系统的效果？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1373",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-062",
+      "position": 62,
+      "originalTitle": "什么是“幻觉”？应用层应该怎么缓解？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-063",
+      "position": 63,
+      "originalTitle": "多用户场景下，如何为 Agent 做安全沙箱隔离？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1432",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-064",
+      "position": 64,
+      "originalTitle": "Agent 部署和运维有哪些指标？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1450",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-065",
+      "position": 65,
+      "originalTitle": "RAG 系统在实际部署中可能面临哪些挑战？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1468",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-066",
+      "position": 66,
+      "originalTitle": "如何确保 Agent 的行为安全、可控且符合人类意图？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1496",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-067",
+      "position": 67,
+      "originalTitle": "Agent 链路耗时很长时，如何定位性能瓶颈？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1525",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-068",
+      "position": 68,
+      "originalTitle": "意图识别 / 任务路由应该怎么做？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-069",
+      "position": 69,
+      "originalTitle": "你会怎么做大模型应用的可观测性？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1575",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-070",
+      "position": 70,
+      "originalTitle": "控制大模型应用成本，你会优先从哪些层面下手？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1587",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-071",
+      "position": 71,
+      "originalTitle": "模型路由应该怎么做？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1610",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-072",
+      "position": 72,
+      "originalTitle": "内网环境下怎么设计 Agent / RAG 系统？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1640",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-073",
+      "position": 73,
+      "originalTitle": "如果让你设计一个企业知识库问答系统，你会怎么做？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1676",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-074",
+      "position": 74,
+      "originalTitle": "如果让你设计一个 NL2SQL Agent，你会重点控制哪些风险？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1696",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-075",
+      "position": 75,
+      "originalTitle": "如果让你设计一个客服智能体，你会优先考虑哪些能力？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1712",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-076",
+      "position": 76,
+      "originalTitle": "如何设计 Agent 的完成判断与终止条件，避免过早结束？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-077",
+      "position": 77,
+      "originalTitle": "Code Agent 怎么设计？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1757",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-078",
+      "position": 78,
+      "originalTitle": "如果让你设计一个 Deep Research 系统，它和普通 RAG 有什么不同？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1788",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-079",
+      "position": 79,
+      "originalTitle": "如何设计一个 Deep Research 系统？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1806",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-080",
+      "position": 80,
+      "originalTitle": "如何设计 Python 代码解释器？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1830",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-081",
+      "position": 81,
+      "originalTitle": "如何设计类 Manus 通用智能体？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1855",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-082",
+      "position": 82,
+      "originalTitle": "如何开发浏览器自动化 Agent？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1873",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-083",
+      "position": 83,
+      "originalTitle": "当 Agent 需要在真实或模拟环境中执行任务时，它和纯软件工具型 Agent 有什么本质区别？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1891",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-084",
+      "position": 84,
+      "originalTitle": "面试官让你介绍一个做过的 RAG / Agent 项目，你应该怎么讲？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1907",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-085",
+      "position": 85,
+      "originalTitle": "如果面试官问“你们为什么不用某个更热门的框架或模型”，怎么回答更稳？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1939",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-086",
+      "position": 86,
+      "originalTitle": "如果线上效果波动很大，你怎么向面试官展示你的排障能力？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1970",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-087",
+      "position": 87,
+      "originalTitle": "你常用哪些 AI 开发工具？各自适合什么场景？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L1993",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-088",
+      "position": 88,
+      "originalTitle": "Cursor、Claude Code、Copilot 这类 AI 编码工具的差异该怎么理解？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L2016",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DIDILILI-AI-89-089",
+      "position": 89,
+      "originalTitle": "如果让你总结“AI 应用工程师”和“算法研究岗”的差异，你会怎么说？",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md#L2034",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}
