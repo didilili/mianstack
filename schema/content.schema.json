@@ -152,24 +152,48 @@
       ]
     },
     "roleFamily": {
-      "title": "岗位方向",
+      "title": "岗位职能",
       "type": "string",
       "enum": [
-        "AI 应用与智能体开发",
-        "AI 基础设施",
-        "AI 研发（职能未细分）",
-        "算法研发",
+        "AI 应用与智能体工程",
+        "AI 系统与基础设施",
+        "算法与模型研发",
         "后端开发",
-        "全栈开发",
-        "软件开发",
         "前端开发",
-        "测试与质量",
-        "数据开发",
-        "数据分析与科学",
+        "全栈开发",
         "客户端开发",
-        "平台开发",
+        "通用软件开发",
+        "嵌入式与系统软件",
+        "平台与基础设施开发",
+        "运维与研发效能",
+        "安全工程",
+        "测试与质量",
+        "数据工程",
+        "数据分析与科学",
+        "硬件与芯片",
         "产品",
+        "运营",
         "解决方案与交付"
+      ]
+    },
+    "roleDirection": {
+      "title": "标准化技术方向",
+      "type": "string",
+      "enum": [
+        "AI 应用与 Agent",
+        "大模型与生成式 AI",
+        "AI Coding 与研发工具",
+        "AI 评测与治理",
+        "训练推理与 AI 系统",
+        "搜索推荐与广告",
+        "视觉与多模态",
+        "NLP 与语音",
+        "数据与知识工程",
+        "云平台与分布式系统",
+        "安全风控与隐私",
+        "自动驾驶与机器人",
+        "游戏图形与音视频",
+        "金融科技"
       ]
     },
     "interviewContentType": {
@@ -519,6 +543,7 @@
         "roleMethod",
         "roleInferred",
         "roleConfidence",
+        "roleDirections",
         "technicalDirections",
         "jobNature",
         "recruitment",
@@ -541,7 +566,7 @@
           "title": "部门"
         },
         "roleFamily": {
-          "title": "岗位方向",
+          "title": "岗位职能",
           "anyOf": [
             {
               "const": ""
@@ -573,9 +598,17 @@
             }
           ]
         },
+        "roleDirections": {
+          "type": "array",
+          "title": "标准化技术方向",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/roleDirection"
+          }
+        },
         "technicalDirections": {
           "type": "array",
-          "title": "技术方向",
+          "title": "来源技术标签",
           "uniqueItems": true,
           "items": {
             "$ref": "#/$defs/nonEmptyString"
@@ -641,16 +674,7 @@
         "id",
         "title",
         "originalTitle",
-        "company",
-        "business",
-        "role",
-        "roleFamilies",
         "contexts",
-        "jobNature",
-        "recruitment",
-        "batches",
-        "rounds",
-        "base",
         "publishedAt",
         "publicationRegion",
         "author",
@@ -676,26 +700,6 @@
           "type": "string",
           "title": "原帖标题"
         },
-        "company": {
-          "$ref": "#/$defs/nonEmptyString",
-          "title": "所属公司"
-        },
-        "business": {
-          "type": "string",
-          "title": "业务方向"
-        },
-        "role": {
-          "$ref": "#/$defs/nonEmptyString",
-          "title": "岗位"
-        },
-        "roleFamilies": {
-          "type": "array",
-          "title": "岗位方向",
-          "uniqueItems": true,
-          "items": {
-            "$ref": "#/$defs/roleFamily"
-          }
-        },
         "contexts": {
           "type": "array",
           "title": "公司与岗位记录",
@@ -703,48 +707,6 @@
           "items": {
             "$ref": "#/$defs/interviewContext"
           }
-        },
-        "jobNature": {
-          "title": "岗位类型",
-          "anyOf": [
-            {
-              "const": ""
-            },
-            {
-              "$ref": "#/$defs/jobNature"
-            }
-          ]
-        },
-        "recruitment": {
-          "title": "招聘类型",
-          "anyOf": [
-            {
-              "const": ""
-            },
-            {
-              "$ref": "#/$defs/recruitment"
-            }
-          ]
-        },
-        "batches": {
-          "type": "array",
-          "title": "招聘批次",
-          "uniqueItems": true,
-          "items": {
-            "$ref": "#/$defs/batch"
-          }
-        },
-        "rounds": {
-          "type": "array",
-          "title": "面试阶段",
-          "uniqueItems": true,
-          "items": {
-            "$ref": "#/$defs/round"
-          }
-        },
-        "base": {
-          "type": "string",
-          "title": "工作地点"
         },
         "publishedAt": {
           "$ref": "#/$defs/publishedAt",
