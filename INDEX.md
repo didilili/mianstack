@@ -56,7 +56,7 @@
 | 路径 | 内容 |
 | --- | --- |
 | [`questions/`](questions/) | 面试题、主要考点和参考答案 |
-| [`interviews/`](interviews/) | 面经来源信息与可公开展示的来源材料 |
+| [`interviews/`](interviews/) | 面经来源信息与已收录的来源材料 |
 | [`collections/`](collections/) | 其他公开题集收录的题目 |
 | [`categories.json`](categories.json) | 知识方向与专题 |
 | [`aliases.json`](aliases.json) | 已合并稳定题号的一对一指向 |

@@ -142,7 +142,7 @@
 ```text
 mianstack-corpus/
 ├── questions/       # 面试题、主要考点与参考答案
-├── interviews/      # 面经来源信息与可公开展示的来源材料
+├── interviews/      # 面经来源信息与已收录的来源材料
 ├── collections/     # 其他公开题集收录的题目
 ├── indexes/         # 自动生成的 GitHub 阅读索引
 ├── schema/          # 唯一机器规则与字段语义说明
