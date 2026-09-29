@@ -14,7 +14,7 @@
 <a id="current-content"></a>
 ## 当前内容
 
-- 3,747 道整理后的面试题
+- 4,239 道整理后的面试题
 - 47 篇面经记录
 - 8 份公开题集
 - 4 位公开题集发布者
@@ -33,14 +33,14 @@
 
 | 方向 | 题目数 | 专题数 | 入口 |
 | --- | ---: | ---: | --- |
-| 模型基础与推理 | 179 | 8 | [查看题目](indexes/llm.md) |
-| RAG 与知识系统 | 291 | 13 | [查看题目](indexes/rag.md) |
-| Agent 原理与系统 | 698 | 12 | [查看题目](indexes/agent.md) |
-| AI 应用工程与治理 | 567 | 10 | [查看题目](indexes/ai-engineering.md) |
-| 模型训练与对齐 | 270 | 9 | [查看题目](indexes/training.md) |
-| 软件工程基础 | 1264 | 20 | [查看题目](indexes/software.md) |
-| 算法与编程题 | 173 | 9 | [查看题目](indexes/coding.md) |
-| 项目与综合面试 | 305 | 9 | [查看题目](indexes/career.md) |
+| 模型基础与推理 | 192 | 8 | [查看题目](indexes/llm.md) |
+| RAG 与知识系统 | 326 | 13 | [查看题目](indexes/rag.md) |
+| Agent 原理与系统 | 777 | 12 | [查看题目](indexes/agent.md) |
+| AI 应用工程与治理 | 647 | 10 | [查看题目](indexes/ai-engineering.md) |
+| 模型训练与对齐 | 280 | 9 | [查看题目](indexes/training.md) |
+| 软件工程基础 | 1466 | 20 | [查看题目](indexes/software.md) |
+| 算法与编程题 | 198 | 9 | [查看题目](indexes/coding.md) |
+| 项目与综合面试 | 353 | 9 | [查看题目](indexes/career.md) |
 
 <a id="source-indexes"></a>
 ## 按来源浏览

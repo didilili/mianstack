@@ -4,7 +4,7 @@
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。
 
-共 179 道题，分为 8 个专题。
+共 192 道题，分为 8 个专题。
 
 ## 页内导航
 
@@ -41,6 +41,7 @@
 - [Q-3703 多头注意力为什么要降低每个 Head 的维度？](../questions/Q-3703.md)
 - [Q-3704 交叉注意力与自注意力有什么区别？](../questions/Q-3704.md)
 - [Q-3754 为什么 Attention 能建模长距离依赖？](../questions/Q-3754.md)
+- [Q-4241 Transformer 从接收用户输入到生成输出会经历哪些主要步骤？](../questions/Q-4241.md)
 
 <a id="topic-2"></a>
 ## 模型架构与表示
@@ -79,6 +80,7 @@
 - [Q-3714 DeepSeek 模型系列的架构与训练路线如何演进？](../questions/Q-3714.md)
 - [Q-3715 DeepSeek 的 MTP 机制如何实现？](../questions/Q-3715.md)
 - [Q-3753 LLM 的输入本质是什么？模型如何处理上下文？](../questions/Q-3753.md)
+- [Q-4162 MLA 相比 MHA 有什么优势和代价？](../questions/Q-4162.md)
 
 <a id="topic-3"></a>
 ## Tokenizer 与位置编码
@@ -99,6 +101,7 @@
 - [Q-3700 Decoder-only 模型在训练和推理阶段的输入形式有什么不同？](../questions/Q-3700.md)
 - [Q-3711 大模型推理解码中的 Prefill 和 Decode 阶段分别做什么？](../questions/Q-3711.md)
 - [Q-3712 大模型推理为什么需要 Prefill 阶段？](../questions/Q-3712.md)
+- [Q-3863 模型推理的 reasoning effort 高低控制什么，是否会改变最大输出 Token？](../questions/Q-3863.md)
 
 <a id="topic-5"></a>
 ## 推理优化与模型压缩
@@ -126,6 +129,11 @@
 - [Q-3618 vLLM 的 PagedAttention 如何工作？](../questions/Q-3618.md)
 - [Q-3649 如何降低多头注意力的计算开销？](../questions/Q-3649.md)
 - [Q-3713 KV Cache 为什么容易造成显存利用率低？](../questions/Q-3713.md)
+- [Q-4108 如何提高大模型 Prefix/KV Cache 的命中率？](../questions/Q-4108.md)
+- [Q-4163 MLA 做权重吸收时可能遇到哪些问题，如何处理？](../questions/Q-4163.md)
+- [Q-4164 KV Cache 如何离线预计算，并对低频缓存进行卸载和加载？](../questions/Q-4164.md)
+- [Q-4165 KV Cache 还有哪些常见优化技巧？](../questions/Q-4165.md)
+- [Q-4168 模型量化如何实施，为什么选择 GPTQ、QAT 或 W8A16？](../questions/Q-4168.md)
 
 <a id="topic-6"></a>
 ## 多模态与生成模型
@@ -195,6 +203,8 @@
 - [Q-3595 项目算法有哪些优缺点，适合什么场景？](../questions/Q-3595.md)
 - [Q-3626 项目方法与推荐算法有什么关系？](../questions/Q-3626.md)
 - [Q-3627 项目基座与 OneRec 有什么关系？](../questions/Q-3627.md)
+- [Q-4015 如何设计电商搜索排序模型，应该使用哪些特征？](../questions/Q-4015.md)
+- [Q-4016 给定 Query 和商品特征，如何搭建提升 NDCG@10 的搜索排序训练与评测链路？](../questions/Q-4016.md)
 
 <a id="topic-8"></a>
 ## 模型选型与能力边界
@@ -227,3 +237,6 @@
 - [Q-3318 根据实际使用，如何比较并排序各模型的编程能力？](../questions/Q-3318.md)
 - [Q-3481 电商客服场景中为什么小模型可能比大模型效果更好？](../questions/Q-3481.md)
 - [Q-3621 了解哪些中文开源与闭源模型？](../questions/Q-3621.md)
+- [Q-3864 DeepSeek Flash 0731 版本相较此前有哪些提升，如何确认实际使用版本？](../questions/Q-3864.md)
+- [Q-3904 中文 Agent 场景下，如何综合成本与准确率选择模型？](../questions/Q-3904.md)
+- [Q-4151 项目为什么选择阿里系大模型，如何完成模型选型？](../questions/Q-4151.md)
