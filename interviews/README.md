@@ -1,8 +1,3 @@
 # 面经目录
 
-本目录保存面经的来源信息、岗位语境和已收录的来源材料。每个文件使用稳定的 `MJ-NC-*` 或 `MJ-XHS-*` 编号。
-
-- 作者、原始链接、发布时间、岗位语境和正文以当前文件为事实来源。
-- 原帖正文能够完整核验时，正文统一使用 `## 原帖正文`，有实际内容时再增加 `## 有价值评论`。不保存原帖图片文件、远程图片链接或 `## 图片` 章节；图片含有独立面试信息时，只把人工核对后的文字转写进 `## 原帖正文` 并在 `curationNote` 说明。不要写采集位置、迁移说明或空占位章节。
-- 只整理来源当前可核验的内容；受限或不完整页面保留来源状态，不推测或补齐被遮挡部分。
-- 字段结构见 [`schema/README.md`](../schema/README.md)，最小写法见 [`examples/interview.example.md`](../examples/interview.example.md)。
+浏览：[真实面经索引](../indexes/interviews.md) · 维护：[字段说明](../schema/README.md) · [文件示例](../examples/interview.example.md)
