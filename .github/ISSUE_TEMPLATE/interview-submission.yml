@@ -1,17 +1,26 @@
 name: 新增面经
-description: 提供公开面经链接，或补充整理后的面经内容
+description: 分享自己的面试经历，或提供牛客、小红书等公开面经链接
 title: "[新增面经] "
 body:
-  - type: input
-    id: source_url
-    attributes:
-      label: 面经原始链接
-      description: 提供公开原帖链接即可提交，其他信息可以后续补充。
-    validations:
-      required: true
-
   - type: textarea
     id: details
     attributes:
-      label: 补充信息或整理后的内容（可选）
-      description: 可以补充原帖中明确的公司、岗位、面试轮次和问题，也可以留空。
+      label: 面经内容或原帖链接
+      description: 可以参考下面的格式填写面试经历，也可以直接粘贴牛客、小红书等公开原帖链接。不清楚的信息可以留空。
+      placeholder: |
+        公司名称：
+        业务方向：
+        招聘类型：社招 / 校招 等
+        岗位类型：实习 / 全职 等
+        岗位名称：
+        面试轮次：一面 / 二面 / 终面 等
+        面试结果：
+        面试问题：
+        1.
+        2.
+        3.
+        4.
+
+        或直接粘贴面经原帖链接（牛客、小红书等）：
+    validations:
+      required: true

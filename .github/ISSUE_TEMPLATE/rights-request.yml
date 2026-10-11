@@ -4,7 +4,7 @@ title: "[权利反馈] "
 body:
   - type: markdown
     attributes:
-      value: 请不要在公开 Issue 中提交身份证件、电话号码、住址或其他敏感证明。维护者如需进一步核对，会通过合适方式联系。
+      value: 提供内容链接和具体请求即可。
 
   - type: input
     id: location
@@ -39,11 +39,3 @@ body:
       description: 请说明希望如何处理以及必要的背景信息。
     validations:
       required: true
-
-  - type: checkboxes
-    id: confirmation
-    attributes:
-      label: 提交确认
-      options:
-        - label: 我确认本 Issue 不包含不适合公开展示的身份或联系信息。
-          required: true

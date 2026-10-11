@@ -100,9 +100,9 @@
 欢迎一起完善面栈：
 
 - **[完善现有题目](https://github.com/didilili/mianstack/issues/new?template=question-improvement.yml)**：纠正题目、分类和答案中的错误，补充或改进参考答案。
-- **[新增面经](https://github.com/didilili/mianstack/issues/new?template=interview-submission.yml)**：分享公开面经的链接，或提交整理好的面经内容。
+- **[新增面经](https://github.com/didilili/mianstack/issues/new?template=interview-submission.yml)**：分享自己的面试经历，或提供牛客、小红书等公开面经链接。
 
-可以直接提交 Pull Request，也可以在 Issue 里提建议或分享面经。具体方式见[贡献指南](CONTRIBUTING.md)。
+通过 Issue 提建议或分享面经即可，维护者会核对、整理并检查网站展示。具体方式见[贡献指南](CONTRIBUTING.md)。
 
 <details>
 <summary><strong>仓库里有哪些文件</strong></summary>
@@ -122,7 +122,7 @@ mianstack/
 
 题号固定，不会重新排序或重复使用。面经和公开题集分别统计；题目的出现次数来自已收录的面经，不代表实际面试中的出题概率。
 
-[字段说明](schema/README.md) · [维护与发布](MAINTAINING.md)
+维护和使用这些文件，见[字段说明](schema/README.md)与[维护说明](MAINTAINING.md)。
 
 </details>
 
