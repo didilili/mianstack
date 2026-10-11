@@ -4,163 +4,132 @@
 
 ### 面试之前，先来面栈
 
-**你的 AI 面试宝藏库**
+**你的 AI Agents 面试宝藏库**
 
 真面经、真问题、成体系，帮你把零散知识变成面试时说得清的答案。
 
 <p>
-  <a href="INDEX.md"><img alt="3,700+ 道面试题" src="https://img.shields.io/badge/面试题-3%2C700%2B-FF6000?style=flat-square"></a>
-  <a href="indexes/interviews.md"><img alt="500+ 篇真实面经" src="https://img.shields.io/badge/真实面经-500%2B-FF6000?style=flat-square"></a>
+  <a href="INDEX.md"><img alt="4,000+ 道面试题" src="https://img.shields.io/badge/面试题-4%2C000%2B-FF6000?style=flat-square"></a>
+  <a href="indexes/interviews.md"><img alt="600+ 篇真实面经" src="https://img.shields.io/badge/真实面经-600%2B-FF6000?style=flat-square"></a>
   <a href="https://mianstack.com/company/"><img alt="150+ 家公司" src="https://img.shields.io/badge/公司-150%2B-FF6000?style=flat-square"></a>
-  <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-2D333B?style=flat-square"></a>
+  <a href="#知识目录"><img alt="8 个知识方向" src="https://img.shields.io/badge/知识方向-8-2D333B?style=flat-square"></a>
 </p>
 
-**[开始复习](https://mianstack.com/must-review/)** · [浏览真实面经](https://mianstack.com/interview/) · [查看全部题目](https://mianstack.com/question/) · [参与贡献](CONTRIBUTING.md)
+**[开始复习](https://mianstack.com/must-review/)** · [按公司找面经](https://mianstack.com/company/) · [浏览题库](INDEX.md) · [参与贡献](#参与贡献)
 
 </div>
 
-[![面栈在线题库首页预览](assets/readme/mianstack-home.png)](https://mianstack.com/)
-
-## 为 AI 时代的技术面试而整理
+[![面栈：看真实面经、读面试题和参考答案、按知识方向复习](assets/readme/mianstack-overview-v2.png)](https://mianstack.com/)
 
 面栈是一个面向求职者的开源面试题库和答案库，重点覆盖 **AI Agent、LLM 应用、RAG、模型训练与 AI 工程**，同时保留这些岗位经常考查的软件工程、算法和项目问题。
 
-你可以在这里：
+你可以在 [mianstack.com](https://mianstack.com/) 找题、筛选面经、记下复习情况，也可以直接在 GitHub 阅读题目和补充答案。具体有多少题、多少篇面经，见[题库总索引](INDEX.md)。
 
-- 从真实面经出发，看看不同公司和岗位到底怎么问；
-- 按知识方向系统复习，把零散题目串成完整知识体系；
-- 阅读经过整理的参考答案，练习把答案讲清楚；
-- 回到原始出处，核对题目的岗位、轮次和提问语境。
+## 从这里开始
 
-当前仓库收录：
+- **面试快到了**：[先看「面前必看」](https://mianstack.com/must-review/)，把答不好的题标出来，集中练习。
+- **准备某家公司**：[按公司找面经](https://mianstack.com/company/)，选你要投的岗位，看看一面、二面都问过什么。
+- **想补技术知识**：打开[知识目录](#知识目录)，按 Agent、RAG、模型训练等方向找题，复习自己不熟悉的部分。
+- **继续上次复习**：[打开「我的复习」](https://mianstack.com/study/)，接着上次看，或者回看标为「待复习」的题。
 
-| 整理后的面试题 | 真实面经 | 面经中的实际提问 | 知识方向 |
-| -------------: | -------: | ---------------: | -------: |
-|         3,700+ |     500+ |           7,800+ |        8 |
+## 怎么用面栈准备面试
 
-精确数量由[题库总索引](INDEX.md)根据仓库内容生成。
+### 按公司和岗位找面经
 
-## 真面经、真问题、成体系
+公司页面把已收录的面经和题目放在一起，你可以按岗位、招聘类型和面试轮次筛选。看到某个问题，点开对应面经，就能查看当时还问了什么。
 
-### 每道题，都能看到从哪里来
+例如，介绍 RAG 项目时，面试官除了问流程，还可能继续问：为什么不用向量检索？文档切得太细有什么问题？怎么检查检索效果？[看看这篇面经里的实际提问](https://mianstack.com/interview/mj-nc-2026-0559/?view=questions)。
 
-题目来自真实面经和公开题集。公司、岗位、面试轮次和原始链接会保留下来，让你知道一道题为什么值得准备，又是在什么语境下出现的。
+### 同一个问题，不用反复翻面经
 
-### 同一个知识点，不用重复背十遍
+不同面经可能在问同一个问题，只是说法不一样。面栈把这些问法放在同一道题下，方便你一起看常见问法和参考答案。
 
-同一个知识点，面试官可能换着方式提问。面栈会把意思相同的问题合并成一道更适合复习的题，同时保留面经里的具体问法和追问方式。
+想了解某次面试的前后提问，点回对应面经即可。你既能按知识点复习，也能看到不同公司具体怎么问。
 
-### 不只告诉你考什么，也帮你想清楚怎么答
+### 先自己回答，再对照答案
 
-参考答案先回答结论，再解释关键原理、方案取舍、常见追问，以及如何结合项目经历继续回答。没有写完或尚未校对的内容会明确标出，不会拿草稿充当成品。
+参考答案先回答问题，再解释原因、做法和常见追问。涉及不同方案时，会说明各自的优缺点和适用条件。
 
-### 从 Agent 到工程基础，一起准备
+你可以先试着讲一遍，再对照答案看看漏了什么。最后用自己的项目举例，练习回答为什么这样设计、遇到问题怎么解决。
 
-题库以 AI Agent 与大模型应用岗位为核心，也覆盖模型基础、RAG、训练、软件工程、算法题、项目追问和行为面试。
+### 记下不会的题，下次接着复习
 
-## 按你的目标开始
+在网站里，你可以收藏题目、面经和公司，把题目标为「待复习」或「已掌握」。下次打开「我的复习」，就能找到这些记录，也能接着上次读的位置继续看。
 
-| 你的目标                   | 推荐入口                                                                              |
-| -------------------------- | ------------------------------------------------------------------------------------- |
-| 面试临近，先过核心题       | [面前必看](indexes/priority.md)                                                       |
-| 准备 Agent 开发岗位        | [Agent 原理与系统](indexes/agent.md) · [AI 应用工程与治理](indexes/ai-engineering.md) |
-| 准备 RAG 或知识库岗位      | [RAG 与知识系统](indexes/rag.md)                                                      |
-| 准备大模型算法或训练岗位   | [模型基础与推理](indexes/llm.md) · [模型训练与对齐](indexes/training.md)              |
-| 想看不同公司实际怎么问     | [真实面经](indexes/interviews.md)                                                     |
-| 想搜索、筛选并记录复习进度 | [mianstack.com](https://mianstack.com/)                                               |
+复习记录保存在当前浏览器。
 
-## 看一道题，怎么从面经走到答案
+## 以 Workflow 和 Agent 的区别为例
 
-以 [Workflow 和 Agent 有什么区别？](questions/Q-0140.md) 为例：
+下面两篇面经都问到了这个问题：
 
-> **核心回答：**两者最主要的区别，是谁来决定下一步执行什么。Workflow 的步骤和分支由代码预先定义；Agent 则根据目标和执行反馈，动态选择下一步动作。
+- [恒生电子 · AI 开发工程师](interviews/MJ-NC-2026-0586.md)：“Agent 和 Workflow 的区别，分别适合什么场景？”
+- [阿里巴巴 · AI 应用研发工程师](interviews/MJ-NC-2026-0579.md)：“Workflow和自治Agent的区别是什么？什么场景更适合Workflow”
 
-这道题在 10 篇面经中出现过，面试官的实际问法包括：
+在面栈里，这两种问法放在 **[Workflow 和 Agent 有什么区别？](questions/Q-0140.md)** 这道题下面。
 
-- “9.Agent和workflow的区别”
-- “Agent 和 工作流（Workflow）的本质区别是什么？什么场景该用Agent，什么场景该用工作流？”
-- “固定的‘感知-推理-校验’流程和动态多 Agent 最大区别是什么。”
+> **回答要点**：最大的区别是下一步由谁决定。Workflow 的步骤和分支先由代码规定；Agent 根据任务目标和执行结果，决定下一步怎么做。
 
-面栈会把这些问法整理到同一道题下，保留原始出处，并为题目整理参考答案和常见追问。你不用重复复习，也不会丢掉真实面试里的表达差异。
+参考答案还解释了两者各适合什么情况，以及怎样一起使用。在网站上，这道题下面还列着相关面经和其他题目，可以继续查看。
 
-## 8 个方向，从模型到工程
+**[在网站看这道题](https://mianstack.com/question/q-0140/)** · [在 GitHub 看答案](questions/Q-0140.md)
 
-各方向的精确题目数由索引自动生成，以下只说明内容边界：
-
-| 方向                                           | 主要内容                                                |
-| ---------------------------------------------- | ------------------------------------------------------- |
-| [模型基础与推理](indexes/llm.md)               | Transformer、推理、解码、多模态与模型能力边界           |
-| [RAG 与知识系统](indexes/rag.md)               | 文档处理、检索、重排、知识更新、GraphRAG 与 Text-to-SQL |
-| [Agent 原理与系统](indexes/agent.md)           | Agent Loop、规划、记忆、工具调用、工作流与多 Agent      |
-| [AI 应用工程与治理](indexes/ai-engineering.md) | Prompt、评测、安全、可观测性、性能、成本与交付          |
-| [模型训练与对齐](indexes/training.md)          | 预训练、微调、偏好对齐、强化学习与分布式训练            |
-| [软件工程基础](indexes/software.md)            | 语言、框架、网络、存储、并发、分布式系统与工程实践      |
-| [算法与编程题](indexes/coding.md)              | 数据结构、算法、SQL、工程编码与逻辑推理                 |
-| [项目与综合面试](indexes/career.md)            | 项目表达、个人贡献、协作、行为面与候选人反问            |
-
-## 把知识变成面试时说得清的答案
-
-面栈已经建立答案库，目前先从“面前必看”和跨岗位常见问题开始完善。只有写完并达到公开阅读标准的内容才会标为“已有答案”。
-
-你可以先查看：
+也可以看看：
 
 - [RAG 从知识入库到在线问答的完整流程是什么？](questions/Q-0047.md)
 - [如何保证模型提供正确参数并可靠地调用工具？](questions/Q-0050.md)
-- [Workflow 和 Agent 有什么区别？](questions/Q-0140.md)
 
-## 内容是怎么整理的
+## 知识目录
 
-```text
-真实面经 / 公开题集
-        ↓
-保留实际提问与出处
-        ↓
-合并意思相同的问题
-        ↓
-整理题目、答案与常见追问
-        ↓
-持续校对和更新
-```
+除了 AI 技术，面试还会问数据库、算法和你做过的项目。下面把这些内容分开整理，方便你按需要复习。
 
-公开题集用于补充覆盖范围，真实面经出现次数单独统计。题目、面经和题集都有固定编号，已经使用的编号不会重新排序或重复使用。
+| 方向                                           | 重点内容                                                                |
+| ---------------------------------------------- | ----------------------------------------------------------------------- |
+| [模型基础与推理](indexes/llm.md)               | Transformer、Attention、解码、KV Cache、多模态与模型选型                |
+| [RAG 与知识系统](indexes/rag.md)               | 文档切分、混合检索、重排、知识更新、GraphRAG、Text-to-SQL 与评测        |
+| [Agent 原理与系统](indexes/agent.md)           | Agent Loop、规划、上下文、记忆、工具调用、MCP、Skills、工作流与多 Agent |
+| [AI 应用工程与治理](indexes/ai-engineering.md) | Prompt、评测、问题排查、日志与监控、安全、成本、性能与 AI 辅助编程      |
+| [模型训练与对齐](indexes/training.md)          | 预训练、SFT、LoRA、偏好对齐、强化学习与分布式训练                       |
+| [软件工程基础](indexes/software.md)            | 语言与框架、网络、数据库、缓存、并发与分布式系统                        |
+| [算法与编程题](indexes/coding.md)              | 数据结构、经典算法、SQL、手写代码与逻辑推理                             |
+| [项目与综合面试](indexes/career.md)            | 项目介绍、你负责了什么、为什么这样设计、实习经历、团队协作与反问面试官  |
 
-## 一起把面栈补得更好
+其他入口：[全部题目](INDEX.md) · [真实面经](indexes/interviews.md) · [公开题集](indexes/collections.md) · [简历、自我介绍与面试准备](https://mianstack.com/prepare/)
 
-欢迎一起补充答案、核对技术事实、修正题目、提供公开面经线索或改进分类。
+## 参与贡献
 
-- [阅读贡献指南](CONTRIBUTING.md)
-- [查看维护与发布说明](MAINTAINING.md)
-- [提交内容纠错](https://github.com/didilili/mianstack/issues/new?template=content-correction.yml)
-- [提出答案建议](https://github.com/didilili/mianstack/issues/new?template=answer-suggestion.yml)
-- [反馈署名、来源或移除请求](https://github.com/didilili/mianstack/issues/new?template=rights-request.yml)
+欢迎一起完善面栈：
 
-小的错字、链接和答案修正可以直接提交 Pull Request；新增大批内容、调整分类或改变字段前，请先创建 Issue 说明范围。
+- **[完善现有题目](https://github.com/didilili/mianstack/issues/new?template=question-improvement.yml)**：纠正题目、分类和答案中的错误，补充或改进参考答案。
+- **[新增面经](https://github.com/didilili/mianstack/issues/new?template=interview-submission.yml)**：分享公开面经的链接，或提交整理好的面经内容。
+
+可以直接提交 Pull Request，也可以在 Issue 里提建议或分享面经。具体方式见[贡献指南](CONTRIBUTING.md)。
 
 <details>
-<summary><strong>查看仓库结构</strong></summary>
+<summary><strong>仓库里有哪些文件</strong></summary>
 
 ```text
-mianstack-corpus/
-├── questions/       # 面试题、主要考点与参考答案
-├── interviews/      # 面经来源信息与已收录的来源材料
-├── collections/     # 其他公开题集收录的题目
-├── indexes/         # 自动生成的 GitHub 阅读索引
-├── schema/          # 唯一机器规则与字段语义说明
-├── examples/        # 题目、面经和关系文件示例
-├── LICENSES/        # 仓库与第三方内容许可入口
+mianstack/
+├── questions/       # 面试题、考点与参考答案
+├── interviews/      # 面经出处、公司岗位与原帖内容
+├── collections/     # 公开题集里的题目与出处
+├── indexes/         # 自动生成的题库目录
+├── schema/          # 字段与引用规则
+├── examples/        # 题目、面经与关系文件示例
 ├── categories.json  # 知识方向与专题
-├── aliases.json     # 已合并稳定题号指向现用题号
+├── aliases.json     # 旧题号对应的新题号
 └── publishers.json  # 公开题集发布者
 ```
+
+题号固定，不会重新排序或重复使用。面经和公开题集分别统计；题目的出现次数来自已收录的面经，不代表实际面试中的出题概率。
+
+[字段说明](schema/README.md) · [维护与发布](MAINTAINING.md)
 
 </details>
 
 ## 许可证
 
-MianStack 采用 [MIT License](LICENSE)，面栈创作和整理的题目、答案、文档与代码均按 MIT License 开放。
+面栈自己编写和整理的题目、参考答案、文档与代码采用 [MIT License](LICENSE)。
 
 ---
 
-**面试之前，先来面栈。**
-
-如果这个项目帮你少走了一些弯路，欢迎点一个 Star；如果你熟悉某个问题，也欢迎把答案补进来，让下一位求职者准备得更从容。
+如果面栈对你的备考有帮助，欢迎 **Star 收藏**，也欢迎分享给正在准备面试的朋友。

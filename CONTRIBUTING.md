@@ -6,22 +6,18 @@
 
 ## 可以贡献什么
 
-- 修正错字、失效链接、分类错误或事实错误
-- 补充或改进一道题的参考答案
-- 补全题目的主要考点、其他常见问法、难度或适用岗位
-- 提交有公开来源的真实面经线索
-- 核对一道题是否确实出现在相应的面经或题集中
-- 改进字段说明、维护文档和索引脚本
+- **完善现有题目**：修正题干、分类、来源或技术错误，补充和改进参考答案。
+- **新增面经**：提供公开面经链接，或提交整理后的面经内容。
 
-小修正可以直接提交 Pull Request。新增一批题目、调整现有分类、改变数据结构或导入大量来源材料前，请先创建 Issue，说明准备增加什么、内容来自哪里，以及打算怎么整理。
+可以直接提交 Pull Request，也可以通过[题目优化](https://github.com/didilili/mianstack/issues/new?template=question-improvement.yml)或[新增面经](https://github.com/didilili/mianstack/issues/new?template=interview-submission.yml)表单参与。新增面经只需提供原始链接，其他信息可以后续补充。
 
-可以使用仓库提供的 Issue 表单提交[内容纠错](https://github.com/didilili/mianstack/issues/new?template=content-correction.yml)、[答案建议](https://github.com/didilili/mianstack/issues/new?template=answer-suggestion.yml)、[批量内容或结构调整](https://github.com/didilili/mianstack/issues/new?template=structure-proposal.yml)或[署名与移除反馈](https://github.com/didilili/mianstack/issues/new?template=rights-request.yml)。
+新增一批题目、调整现有分类、改变数据结构或导入大量来源材料前，请先通过[结构调整表单](https://github.com/didilili/mianstack/issues/new?template=structure-proposal.yml)说明范围、来源和整理方式。
 
 ## 第一次贡献建议
 
 1. 从 [题库总索引](INDEX.md) 找到一道你熟悉的题。
 2. 检查题干是否清楚、答案是否准确、题目出处是否对应。
-3. 完成一组边界清楚的修改。
+3. 修改题目或参考答案。
 4. 更新并检查索引后提交 Pull Request。
 
 请尽量让一次 Pull Request 只解决一类问题，方便审阅和回退。
@@ -42,13 +38,14 @@
 - 面经按来源使用 `MJ-NC-YYYY-NNNN`（牛客）或 `MJ-XHS-YYYY-NNNN`（小红书）；已有编号不因标题或分类变化而改变。
 - 公开题集使用 `COL-*` 编号。
 - 如果几种问法考查的是同一件事，可以整理到同一道标准题目下。
+- 如果场景或条件变了，需要回答的内容也不同，就单独保留一道题，再注明相关题目或进一步的提问。
 
 字段和引用约束见 [schema/README.md](schema/README.md)。
 
 ## 提交流程
 
 1. Fork 并克隆本仓库。
-2. 创建一个边界清楚的分支。
+2. 为这次修改创建一个分支。
 3. 修改内容并完成必要检查。
 4. 提交 Pull Request，说明改了什么、为什么改，以及内容来源。
 
