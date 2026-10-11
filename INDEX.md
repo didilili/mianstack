@@ -62,7 +62,6 @@
 | [`aliases.json`](aliases.json) | 已合并稳定题号的一对一指向 |
 | [`publishers.json`](publishers.json) | 公开题集发布者和来源主页 |
 | [`examples/`](examples/) | 题目、面经和关系文件的最小示例 |
-| `LICENSES/` | 仓库与第三方内容许可入口 |
 | [`schema/`](schema/) | 字段和引用约定 |
 
 <a id="id-conventions"></a>
@@ -73,4 +72,4 @@
 - `MJ-XHS-*`：小红书面经来源记录。
 - `COL-*`：公开题集记录。
 
-继续阅读：[项目介绍](README.md) · [贡献指南](CONTRIBUTING.md)
+继续阅读：[项目介绍](README.md) · [贡献指南](CONTRIBUTING.md) · [字段说明](schema/README.md) · [维护说明](MAINTAINING.md)
