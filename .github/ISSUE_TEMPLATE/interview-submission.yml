@@ -1,0 +1,17 @@
+name: 新增面经
+description: 提供公开面经链接，或补充整理后的面经内容
+title: "[新增面经] "
+body:
+  - type: input
+    id: source_url
+    attributes:
+      label: 面经原始链接
+      description: 提供公开原帖链接即可提交，其他信息可以后续补充。
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 补充信息或整理后的内容（可选）
+      description: 可以补充原帖中明确的公司、岗位、面试轮次和问题，也可以留空。
