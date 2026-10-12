@@ -8,19 +8,12 @@
       {
         "company": "示例公司",
         "business": "Agent 平台",
-        "department": "",
         "roleFamily": "AI 应用与智能体工程",
         "role": "AI 应用开发工程师",
         "roleMethod": "原文明示",
-        "roleInferred": false,
-        "roleConfidence": "",
         "roleDirections": ["AI 应用与 Agent"],
         "technicalDirections": ["Agent"],
-        "jobNature": "",
-        "recruitment": "",
-        "batches": [],
         "rounds": ["一面"],
-        "stages": [],
         "base": "北京"
       }
     ],
@@ -29,9 +22,7 @@
   "author": "示例作者",
   "url": "https://example.com/interviews/demo",
   "contentType": "面经",
-  "result": "",
   "sourceStatus": "完整可用",
-  "statusReason": "",
   "curationStatus": "已完成",
   "curationNote": "示例文件，不代表真实面试记录。",
   "updatedAt": "2026-09-24"

@@ -13,99 +13,75 @@
   "items": [
     {
       "id": "COL-XL-LANGCHAIN-001",
-      "position": 1,
       "originalTitle": "你了解过哪些 AI Agent 开发框架？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/agent_frameworks.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-002",
-      "position": 2,
       "originalTitle": "请你谈谈对 LangChain 中核心概念「Chain」的理解，以及它的核心作用与设计理念。",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/chain.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-003",
-      "position": 3,
       "originalTitle": "LangChain 的底层架构与实现原理是什么？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/langchain_architecture.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-004",
-      "position": 4,
       "originalTitle": "使用 LangChain 构建 Agent 的核心步骤是什么？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/build_agent.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-005",
-      "position": 5,
       "originalTitle": "在 LangChain 中，如何为 Agent 注册工具？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/tool_registration.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-006",
-      "position": 6,
       "originalTitle": "LangChain 如何实现短期记忆和长期记忆？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/memory.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-007",
-      "position": 7,
       "originalTitle": "LangChain 和 LlamaIndex 有什么区别？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/langchain_vs_llamaindex.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-008",
-      "position": 8,
       "originalTitle": "请你谈谈 LangChain4j 这类 Java 生态的 LangChain 衍生框架，主要帮开发者解决了哪些核心问题？它的核心适用场景是什么？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/langchain4j.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-009",
-      "position": 9,
       "originalTitle": "请你详细说说 LangChain 和 LangGraph 的核心区别是什么？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/langchain_vs_langgraph.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-010",
-      "position": 10,
       "originalTitle": "LangGraph 相比于 LangChain 有哪些核心优势？更适配哪些 Agent 场景？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/langgraph_advantages.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-011",
-      "position": 11,
       "originalTitle": "LangChain 大版本升级有哪些核心变化？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/version_evolution.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-LANGCHAIN-012",
-      "position": 12,
       "originalTitle": "Deep Research 的实现逻辑和适用场景是什么？",
       "sourceUrl": "https://xiaolinnote.com/ai/langchain/deep_research.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     }
   ]
 }

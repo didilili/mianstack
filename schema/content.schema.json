@@ -13,15 +13,9 @@
       "format": "date"
     },
     "publishedAt": {
-      "anyOf": [
-        {
-          "const": ""
-        },
-        {
-          "type": "string",
-          "format": "mianstack-published-at"
-        }
-      ]
+      "type": "string",
+      "minLength": 1,
+      "format": "mianstack-published-at"
     },
     "httpUrl": {
       "type": "string",
@@ -536,21 +530,8 @@
       "additionalProperties": false,
       "required": [
         "company",
-        "business",
-        "department",
-        "roleFamily",
         "role",
-        "roleMethod",
-        "roleInferred",
-        "roleConfidence",
-        "roleDirections",
-        "technicalDirections",
-        "jobNature",
-        "recruitment",
-        "batches",
-        "rounds",
-        "stages",
-        "base"
+        "roleMethod"
       ],
       "properties": {
         "company": {
@@ -558,23 +539,16 @@
           "title": "所属公司"
         },
         "business": {
-          "type": "string",
+          "$ref": "#/$defs/nonEmptyString",
           "title": "业务方向"
         },
         "department": {
-          "type": "string",
+          "$ref": "#/$defs/nonEmptyString",
           "title": "部门"
         },
         "roleFamily": {
-          "title": "岗位职能",
-          "anyOf": [
-            {
-              "const": ""
-            },
-            {
-              "$ref": "#/$defs/roleFamily"
-            }
-          ]
+          "$ref": "#/$defs/roleFamily",
+          "title": "岗位职能"
         },
         "role": {
           "type": "string",
@@ -583,20 +557,9 @@
         "roleMethod": {
           "$ref": "#/$defs/roleMethod"
         },
-        "roleInferred": {
-          "type": "boolean",
-          "title": "岗位是否推断"
-        },
         "roleConfidence": {
-          "title": "岗位置信度",
-          "anyOf": [
-            {
-              "const": ""
-            },
-            {
-              "$ref": "#/$defs/roleConfidence"
-            }
-          ]
+          "$ref": "#/$defs/roleConfidence",
+          "title": "岗位置信度"
         },
         "roleDirections": {
           "type": "array",
@@ -604,7 +567,8 @@
           "uniqueItems": true,
           "items": {
             "$ref": "#/$defs/roleDirection"
-          }
+          },
+          "minItems": 1
         },
         "technicalDirections": {
           "type": "array",
@@ -612,29 +576,16 @@
           "uniqueItems": true,
           "items": {
             "$ref": "#/$defs/nonEmptyString"
-          }
+          },
+          "minItems": 1
         },
         "jobNature": {
-          "title": "岗位类型",
-          "anyOf": [
-            {
-              "const": ""
-            },
-            {
-              "$ref": "#/$defs/jobNature"
-            }
-          ]
+          "$ref": "#/$defs/jobNature",
+          "title": "岗位类型"
         },
         "recruitment": {
-          "title": "招聘类型",
-          "anyOf": [
-            {
-              "const": ""
-            },
-            {
-              "$ref": "#/$defs/recruitment"
-            }
-          ]
+          "$ref": "#/$defs/recruitment",
+          "title": "招聘类型"
         },
         "batches": {
           "type": "array",
@@ -642,7 +593,8 @@
           "uniqueItems": true,
           "items": {
             "$ref": "#/$defs/batch"
-          }
+          },
+          "minItems": 1
         },
         "rounds": {
           "type": "array",
@@ -650,7 +602,8 @@
           "uniqueItems": true,
           "items": {
             "$ref": "#/$defs/round"
-          }
+          },
+          "minItems": 1
         },
         "stages": {
           "type": "array",
@@ -658,10 +611,11 @@
           "uniqueItems": true,
           "items": {
             "$ref": "#/$defs/interviewStage"
-          }
+          },
+          "minItems": 1
         },
         "base": {
-          "type": "string",
+          "$ref": "#/$defs/nonEmptyString",
           "title": "工作地点"
         }
       }
@@ -675,14 +629,10 @@
         "title",
         "originalTitle",
         "contexts",
-        "publishedAt",
-        "publicationRegion",
         "author",
         "url",
         "contentType",
-        "result",
         "sourceStatus",
-        "statusReason",
         "curationStatus",
         "curationNote",
         "updatedAt"
@@ -713,7 +663,7 @@
           "title": "发布时间"
         },
         "publicationRegion": {
-          "type": "string",
+          "$ref": "#/$defs/nonEmptyString",
           "title": "发布地"
         },
         "author": {
@@ -728,14 +678,16 @@
           "$ref": "#/$defs/interviewContentType"
         },
         "result": {
-          "type": "string",
+          "$ref": "#/$defs/nonEmptyString",
           "title": "面试结果"
         },
         "sourceStatus": {
           "$ref": "#/$defs/interviewSourceStatus"
         },
         "statusReason": {
-          "$ref": "#/$defs/interviewStatusReason"
+          "$ref": "#/$defs/interviewStatusReason",
+          "minLength": 1,
+          "type": "string"
         },
         "curationStatus": {
           "$ref": "#/$defs/interviewCurationStatus"
@@ -838,10 +790,6 @@
           "$ref": "#/$defs/httpUrl",
           "title": "头像地址"
         },
-        "homepageLabel": {
-          "$ref": "#/$defs/nonEmptyString",
-          "title": "主页链接文案"
-        },
         "updatedAt": {
           "$ref": "#/$defs/date",
           "title": "更新时间"
@@ -854,7 +802,6 @@
       "additionalProperties": false,
       "required": [
         "id",
-        "position",
         "originalTitle",
         "sourceUrl",
         "reviewStatus"
@@ -863,11 +810,6 @@
         "id": {
           "$ref": "#/$defs/nonEmptyString",
           "title": "题集条目编号"
-        },
-        "position": {
-          "type": "integer",
-          "minimum": 1,
-          "title": "原始位置"
         },
         "originalTitle": {
           "$ref": "#/$defs/nonEmptyString",

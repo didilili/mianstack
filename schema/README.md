@@ -45,14 +45,14 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 | `title`             | 整理标题       | string   | 归档使用的结构化标题；Web 可根据结构化字段生成读者标题                                       |
 | `originalTitle`     | 原帖标题       | string   | 可为空                                                                                       |
 | `contexts`          | 公司与岗位记录 | object[] | 每项使用下表字段                                                                             |
-| `publishedAt`       | 发布时间       | datetime | 可为空；日期可带时分秒                                                                       |
-| `publicationRegion` | 发布地         | string   | 可为空；只表示内容发布地区                                                                   |
+| `publishedAt`       | 发布时间       | datetime | 可选；日期可带时分秒                                                                         |
+| `publicationRegion` | 发布地         | string   | 可选；只表示内容发布地区                                                                     |
 | `author`            | 作者           | string   | 来源署名                                                                                     |
 | `url`               | 原帖链接       | URL      | 必须是 HTTP(S) 地址                                                                          |
 | `contentType`       | 内容类型       | enum     | 取值见 schema 的 `interviewContentType`                                                      |
-| `result`            | 面试结果       | string   | 可为空                                                                                       |
+| `result`            | 面试结果       | string   | 可选；有内容时填写                                                                           |
 | `sourceStatus`      | 来源状态       | enum     | 取值见 schema 的 `interviewSourceStatus`；只描述来源材料的可用性                             |
-| `statusReason`      | 状态原因       | enum     | 可为空；记录不可用、重复或待核实的明确原因                                                   |
+| `statusReason`      | 状态原因       | enum     | 可选；记录不可用、重复或待核实的明确原因                                                     |
 | `curationStatus`    | 整理状态       | enum     | 取值见 schema 的 `interviewCurationStatus`；只描述人工整理进度                               |
 | `curationNote`      | 整理说明       | string   | 可为空；记录整理依据、缺口和边界                                                             |
 | `updatedAt`         | 更新时间       | date     | `YYYY-MM-DD`                                                                                 |
@@ -75,30 +75,29 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 
 `contexts[]` 的字段：
 
-| 字段                  | 固定中文名称   | 类型     | 约束                                                          |
-| --------------------- | -------------- | -------- | ------------------------------------------------------------- |
-| `company`             | 所属公司       | string   | 当前记录对应的公司或组织                                      |
-| `business`            | 业务方向       | string   | 可为空                                                        |
-| `department`          | 部门           | string   | 可为空                                                        |
-| `roleFamily`          | 岗位职能       | string   | 可为空；主职能单值，取值见 schema 的 `roleFamily`             |
-| `role`                | 岗位           | string   | 可为空                                                        |
-| `roleMethod`          | 岗位判定方式   | enum     | 取值见 schema 的 `roleMethod`                                 |
-| `roleInferred`        | 岗位是否推断   | boolean  | 推测得出的岗位使用 `true`；来源明示或职责直接支持使用 `false` |
-| `roleConfidence`      | 岗位置信度     | enum     | 可为空；取值见 schema 的 `roleConfidence`                     |
-| `roleDirections`      | 标准化技术方向 | string[] | 可为空；受控多值，取值见 schema 的 `roleDirection`            |
-| `technicalDirections` | 来源技术标签   | string[] | 可为空；保留来源中的技术词，不作为受控枚举                    |
-| `jobNature`           | 岗位类型       | enum     | 可为空；取值见 schema 的 `jobNature`                          |
-| `recruitment`         | 招聘类型       | enum     | 可为空；取值见 schema 的 `recruitment`                        |
-| `batches`             | 招聘批次       | enum[]   | 可为空；取值见 schema 的 `batch`                              |
-| `rounds`              | 面试阶段       | enum[]   | 可为空；取值见 schema 的 `round`                              |
-| `stages`              | 面试环节       | enum[]   | 可为空；取值见 schema 的 `interviewStage`                     |
-| `base`                | 工作地点       | string   | 可为空                                                        |
-
-`roleMethod` 与 `roleInferred` 必须表达同一证据结论：`原文明示`、`职责支持` 和 `资料不足` 使用 `false`；`面试内容推测`、`标题与索引推断` 和 `职责推断` 使用 `true`，并填写高、中或低置信度。`职责支持` 表示来源正文直接说明了岗位职责，足以规范化岗位名称；`职责推断` 表示仅能根据职责线索推测岗位。`资料不足` 的置信度固定为 `不可判定`。
+| 字段                  | 固定中文名称   | 类型     | 约束                                             |
+| --------------------- | -------------- | -------- | ------------------------------------------------ |
+| `company`             | 所属公司       | string   | 当前记录对应的公司或组织                         |
+| `business`            | 业务方向       | string   | 可选；有内容时填写                               |
+| `department`          | 部门           | string   | 可选；有内容时填写                               |
+| `roleFamily`          | 岗位职能       | string   | 可选；主职能单值，取值见 schema 的 `roleFamily`  |
+| `role`                | 岗位           | string   | 可为空                                           |
+| `roleMethod`          | 岗位判定方式   | enum     | 取值见 schema 的 `roleMethod`                    |
+| `roleConfidence`      | 岗位置信度     | enum     | 可选；取值见 schema 的 `roleConfidence`          |
+| `roleDirections`      | 标准化技术方向 | string[] | 可选；受控多值，取值见 schema 的 `roleDirection` |
+| `technicalDirections` | 来源技术标签   | string[] | 可选；保留来源中的技术词，不作为受控枚举         |
+| `jobNature`           | 岗位类型       | enum     | 可选；取值见 schema 的 `jobNature`               |
+| `recruitment`         | 招聘类型       | enum     | 可选；取值见 schema 的 `recruitment`             |
+| `batches`             | 招聘批次       | enum[]   | 可选；取值见 schema 的 `batch`                   |
+| `rounds`              | 面试阶段       | enum[]   | 可选；取值见 schema 的 `round`                   |
+| `stages`              | 面试环节       | enum[]   | 可选；取值见 schema 的 `interviewStage`          |
+| `base`                | 工作地点       | string   | 可选；有内容时填写                               |
 
 frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 
 原帖正文能够完整核验时，来源正文使用统一章节：`## 原帖正文` 为必需章节；只有确有内容时才增加 `## 有价值评论`。原帖图片文件、远程图片链接和 `## 图片` 章节不进入 corpus；图片含有正文之外的有效面试信息时，只把人工核对后的文字转写进 `## 原帖正文`，并在 `curationNote` 标明转写来源和原图不入库。为兼容已经公开的原帖定位链接，可以在正文前保留一个 `<a id="…"></a>` 锚点。不要把采集页码、编辑摘要、迁移说明或空占位章节写入内容文件。
+
+来源正文应保留署名和原始链接；来源要求与反馈方式见[贡献指南](../CONTRIBUTING.md#sources-and-attribution)，许可范围见[贡献许可](../CONTRIBUTING.md#contribution-license)。
 
 ## 知识分类 `categories.json`
 
@@ -125,15 +124,14 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 
 ### 整理者 `publishers.json`
 
-| 字段            | 固定中文名称 | 类型   | 约束                                   |
-| --------------- | ------------ | ------ | -------------------------------------- |
-| `id`            | 整理者编号   | string | 格式 `PUB-*`                           |
-| `name`          | 整理者名称   | string | Web 展示名称                           |
-| `type`          | 整理者类型   | enum   | 取值和显示见 schema 的 `publisherType` |
-| `homepage`      | 作者主页     | URL    | 必须是 HTTP(S) 地址                    |
-| `avatarUrl`     | 头像地址     | URL    | 可选；使用整理者公开提供的头像         |
-| `homepageLabel` | 主页链接文案 | string | 可选；如“查看来源文档”                 |
-| `updatedAt`     | 更新时间     | date   | `YYYY-MM-DD`                           |
+| 字段        | 固定中文名称 | 类型   | 约束                                   |
+| ----------- | ------------ | ------ | -------------------------------------- |
+| `id`        | 整理者编号   | string | 格式 `PUB-*`                           |
+| `name`      | 整理者名称   | string | Web 展示名称                           |
+| `type`      | 整理者类型   | enum   | 取值和显示见 schema 的 `publisherType` |
+| `homepage`  | 作者主页     | URL    | 必须是 HTTP(S) 地址                    |
+| `avatarUrl` | 头像地址     | URL    | 可选；使用整理者公开提供的头像         |
+| `updatedAt` | 更新时间     | date   | `YYYY-MM-DD`                           |
 
 `type` 的取值和固定中文显示统一定义在 schema 的 `publisherType` 中。
 
@@ -152,14 +150,13 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 | `lastCheckedAt`     | 最近复核日期   | date     | `YYYY-MM-DD`                              |
 | `verification`      | 来源核验方式   | enum     | 取值见 schema 的 `collectionVerification` |
 | `sourceClaim`       | 来源声明       | string   | 记录发布者声明及本站核验边界              |
-| `items`             | 题集条目       | object[] | 按 `position` 连续排列                    |
+| `items`             | 题集条目       | object[] | 按原题顺序保存                            |
 
 `items[]` 的字段：
 
 | 字段            | 固定中文名称 | 类型     | 约束                                      |
 | --------------- | ------------ | -------- | ----------------------------------------- |
 | `id`            | 题集条目编号 | string   | 格式为题集编号加三位序号                  |
-| `position`      | 原题序号     | integer  | 从 1 开始连续排列                         |
 | `originalTitle` | 原题标题     | string   | 保留来源中的题目标题                      |
 | `sourceUrl`     | 原题链接     | URL      | 必须是 HTTP(S) 地址                       |
 | `reviewStatus`  | 原题审核状态 | enum     | 取值见 schema 的 `collectionReviewStatus` |

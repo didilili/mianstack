@@ -13,195 +13,147 @@
   "items": [
     {
       "id": "COL-XL-AGENT-001",
-      "position": 1,
       "originalTitle": "什么是 Agent？与大模型有什么本质不同？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/1_whatisagent.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-002",
-      "position": 2,
       "originalTitle": "Agent 的基本架构由哪些核心组件构成？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/2_components.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-003",
-      "position": 3,
       "originalTitle": "Workflow，Agent，Tools 这三个的概念和区别介绍一下？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/3_workflow_tools.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-004",
-      "position": 4,
       "originalTitle": "了解哪些其他的 Agent 设计范式？Agent 和 Workflow 的区别是什么？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/4_patterns.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-005",
-      "position": 5,
       "originalTitle": "Agent 推理模式有哪些？ReAct 是啥？具体是怎么实现的？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/5_react.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-006",
-      "position": 6,
       "originalTitle": "ReAct、Plan-and-Execute、Reflection 三种范式有什么核心区别？实际项目中该如何选型？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/6_three_patterns.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-007",
-      "position": 7,
       "originalTitle": "复杂任务怎么做的任务拆分？为什么要拆分？效果如何提升？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/7_tasksplit.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-008",
-      "position": 8,
       "originalTitle": "请你介绍一下 AI Agent 的记忆机制，并说明在实际开发中应该如何设计记忆模块？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/8_memory.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-009",
-      "position": 9,
       "originalTitle": "Agent 的长短期记忆系统怎么做的？记忆是怎么存的？粒度是多少？怎么用的？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/9_memory_storage.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-010",
-      "position": 10,
       "originalTitle": "什么是 Multi-Agent？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/10_multiagent.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-011",
-      "position": 11,
       "originalTitle": "说说 Single-Agent 和 Multi-Agent 的设计方案？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/11_single_multi.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-012",
-      "position": 12,
       "originalTitle": "Agent 记忆压缩通常有哪些方法？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/12_memcompress.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-013",
-      "position": 13,
       "originalTitle": "在工程实践中，为什么有时候选择「手搓」Agent，而不是直接用成熟框架？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/13_handcode.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-014",
-      "position": 14,
       "originalTitle": "如何赋予 LLM 规划能力？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/14_planning.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-015",
-      "position": 15,
       "originalTitle": "讲讲 Agent 的反思机制？为什么要用反思？具体怎么实现？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/15_reflection.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-016",
-      "position": 16,
       "originalTitle": "如何设计多 Agent 的协作与动态切换机制？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/16_collab.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-017",
-      "position": 17,
       "originalTitle": "Agent 的上下文工程怎么设计？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/17_context_engineering.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-018",
-      "position": 18,
       "originalTitle": "Agent 的多轮对话状态如何管理？如何防止跑偏并支持中断恢复？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/18_session_state.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-019",
-      "position": 19,
       "originalTitle": "如何评估一个 Agent 的效果？评测集和指标怎么设计？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/19_evaluation.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-020",
-      "position": 20,
       "originalTitle": "Agent 为什么会出现路径震荡、重复调用和死循环？怎么检测和治理？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/20_loop_stability.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-021",
-      "position": 21,
       "originalTitle": "线上 Agent 延迟明显升高时，如何通过 Trace 定位和优化？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/21_agent_latency_trace.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-022",
-      "position": 22,
       "originalTitle": "Multi-Agent 系统如何处理子 Agent 超时、失联和并发修改冲突？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/22_multi_agent_resilience.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-023",
-      "position": 23,
       "originalTitle": "Agent 的「任务幻觉」是什么？如何避免没有执行工具却声称任务已经完成？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/23_task_hallucination.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     },
     {
       "id": "COL-XL-AGENT-024",
-      "position": 24,
       "originalTitle": "大模型或 Agent 连接数据库时，如何防止越权、敏感数据泄漏和查询幻觉？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/24_database_security.html",
-      "reviewStatus": "confirmed",
-      "reviewNote": ""
+      "reviewStatus": "confirmed"
     }
   ]
 }
