@@ -53,7 +53,7 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 | `result`            | 面试结果       | string   | 可选；有内容时填写                                                                           |
 | `sourceStatus`      | 来源状态       | enum     | 取值见 schema 的 `interviewSourceStatus`；只描述来源材料的可用性                             |
 | `statusReason`      | 状态原因       | enum     | 可选；记录不可用、重复或待核实的明确原因                                                     |
-| `curationStatus`    | 整理状态       | enum     | 取值见 schema 的 `interviewCurationStatus`；只描述人工整理进度                               |
+| `curationStatus`    | 整理状态       | enum     | 取值见 schema 的 `interviewCurationStatus`；只描述内容整理进度                               |
 | `curationNote`      | 整理说明       | string   | 可为空；记录整理依据、缺口和边界                                                             |
 | `updatedAt`         | 更新时间       | date     | `YYYY-MM-DD`                                                                                 |
 
@@ -71,7 +71,7 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 
 面经状态和内容类型的固定值分别见 schema 的 `interviewContentType`、`interviewSourceStatus`、`interviewStatusReason` 和 `interviewCurationStatus`。
 
-`sourceStatus` 和 `curationStatus` 是两个独立维度。例如来源可以是“完整可用”，但人工整理仍处于“部分整理”；来源重复、原文不足或真实性待核等结论放入 `statusReason`，不要再混入两个状态字段。
+`sourceStatus` 和 `curationStatus` 是两个独立维度。例如来源可以是“完整可用”，但内容整理仍处于“部分整理”；来源重复、原文不足或真实性待核等结论放入 `statusReason`，不要再混入两个状态字段。
 
 `contexts[]` 的字段：
 
@@ -95,7 +95,7 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 
 frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 
-原帖正文能够完整核验时，来源正文使用统一章节：`## 原帖正文` 为必需章节；只有确有内容时才增加 `## 有价值评论`。原帖图片文件、远程图片链接和 `## 图片` 章节不进入 corpus；图片含有正文之外的有效面试信息时，只把人工核对后的文字转写进 `## 原帖正文`，并在 `curationNote` 标明转写来源和原图不入库。为兼容已经公开的原帖定位链接，可以在正文前保留一个 `<a id="…"></a>` 锚点。不要把采集页码、编辑摘要、迁移说明或空占位章节写入内容文件。
+原帖正文能够完整核验时，来源正文使用统一章节：`## 原帖正文` 为必需章节；只有确有内容时才增加 `## 有价值评论`。原帖图片文件、远程图片链接和 `## 图片` 章节不进入 corpus；图片含有正文之外的有效面试信息时，只把对照原图核验后的文字保存进 `## 原帖正文`，并在 `curationNote` 标明文字来源和原图不入库。为兼容已经公开的原帖定位链接，可以在正文前保留一个 `<a id="…"></a>` 锚点。不要把采集页码、编辑摘要、迁移说明或空占位章节写入内容文件。
 
 来源正文应保留署名和原始链接；来源要求与反馈方式见[贡献指南](../CONTRIBUTING.md#sources-and-attribution)，许可范围见[贡献许可](../CONTRIBUTING.md#contribution-license)。
 
