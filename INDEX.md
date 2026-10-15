@@ -14,9 +14,9 @@
 <a id="current-content"></a>
 ## 当前内容
 
-- 4,248 道整理后的面试题
-- 617 篇面经记录
-- 9,661 条来自面经的实际提问
+- 4,286 道整理后的面试题
+- 621 篇面经记录
+- 9,745 条来自面经的实际提问
 - 8 份公开题集
 - 4 位公开题集发布者
 - 3 道参考答案已经写完并达到当前发布标准
@@ -36,12 +36,12 @@
 | --- | ---: | ---: | --- |
 | 模型基础与推理 | 193 | 8 | [查看题目](indexes/llm.md) |
 | RAG 与知识系统 | 326 | 13 | [查看题目](indexes/rag.md) |
-| Agent 原理与系统 | 780 | 12 | [查看题目](indexes/agent.md) |
+| Agent 原理与系统 | 781 | 12 | [查看题目](indexes/agent.md) |
 | AI 应用工程与治理 | 647 | 10 | [查看题目](indexes/ai-engineering.md) |
 | 模型训练与对齐 | 281 | 9 | [查看题目](indexes/training.md) |
-| 软件工程基础 | 1467 | 20 | [查看题目](indexes/software.md) |
+| 软件工程基础 | 1502 | 20 | [查看题目](indexes/software.md) |
 | 算法与编程题 | 201 | 9 | [查看题目](indexes/coding.md) |
-| 项目与综合面试 | 353 | 9 | [查看题目](indexes/career.md) |
+| 项目与综合面试 | 355 | 9 | [查看题目](indexes/career.md) |
 
 <a id="source-indexes"></a>
 ## 按来源浏览

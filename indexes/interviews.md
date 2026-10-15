@@ -2,7 +2,7 @@
 
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/interview/)
 
-共 617 篇，按公司分组。面经中的原文、作者回答和评论属于来源内容，不等同于面栈参考答案。
+共 621 篇，按公司分组。面经中的原文、作者回答和评论属于来源内容，不等同于面栈参考答案。
 
 ## 页内导航
 
@@ -64,134 +64,136 @@
 - [知识科技](#company-53)
 - [智元创新](#company-54)
 - [转转](#company-55)
-- [阿里巴巴（淘天）](#company-56)
-- [阿里国际](#company-57)
-- [阿里控股](#company-58)
-- [爱回收](#company-59)
-- [佰聆数据](#company-60)
-- [币安](#company-61)
-- [不鸣科技](#company-62)
-- [禅游科技](#company-63)
-- [超参数](#company-64)
-- [车300](#company-65)
-- [重庆远见](#company-66)
-- [袋鼠云](#company-67)
-- [点点互动](#company-68)
-- [鼎捷数智](#company-69)
-- [东方财富](#company-70)
-- [哆咔互娱](#company-71)
-- [法大大](#company-72)
-- [饭团外卖](#company-73)
-- [飞轮数据](#company-74)
-- [分叉智能科技](#company-75)
-- [格物致信](#company-76)
-- [构序智能](#company-77)
-- [广电数科](#company-78)
-- [广东元海](#company-79)
-- [硅心科技](#company-80)
-- [国金证券](#company-81)
-- [哈啰](#company-82)
-- [海底捞](#company-83)
-- [杭州可见信号科技](#company-84)
-- [浩鲸科技](#company-85)
-- [和顺慧康](#company-86)
-- [黑白调](#company-87)
-- [花小小新疆炒米粉](#company-88)
-- [华测](#company-89)
-- [华橙](#company-90)
-- [华勤](#company-91)
-- [汇顶科技](#company-92)
-- [货拉拉](#company-93)
-- [吉利](#company-94)
-- [极兔](#company-95)
-- [极兔速递](#company-96)
-- [阶跃星辰](#company-97)
-- [金蝶](#company-98)
-- [金山办公](#company-99)
-- [金山软件](#company-100)
-- [靖安科技](#company-101)
-- [九方智投](#company-102)
-- [九号公司](#company-103)
-- [九坤创新](#company-104)
-- [科沃斯](#company-105)
-- [岚图](#company-106)
-- [蓝标传媒](#company-107)
-- [雷鸣比特](#company-108)
-- [理想](#company-109)
-- [联影](#company-110)
-- [猎豹移动](#company-111)
-- [灵犀互娱](#company-112)
-- [刘文祥麻辣烫](#company-113)
-- [美图](#company-114)
-- [名创优品](#company-115)
-- [沐瞳科技](#company-116)
-- [沐曦](#company-117)
-- [南芯](#company-118)
-- [平安健康保险](#company-119)
-- [浦发银行](#company-120)
-- [浦银金科](#company-121)
-- [千寻智能](#company-122)
-- [轻舟智航](#company-123)
-- [荣耀](#company-124)
-- [润嵘金属网有限公司](#company-125)
-- [上海景行智合安全技术](#company-126)
-- [上海九云数智](#company-127)
-- [上海联蔚数科](#company-128)
-- [上海摩和文化](#company-129)
-- [深势科技](#company-130)
-- [深圳璇溟科技有限公司](#company-131)
-- [盛大旗下未具名子公司](#company-132)
-- [水滴](#company-133)
-- [四维图新](#company-134)
-- [腾讯 WXG](#company-135)
-- [腾讯混元](#company-136)
-- [腾讯元宝](#company-137)
-- [同程旅行](#company-138)
-- [万仞](#company-139)
-- [万兴科技](#company-140)
-- [网新软件](#company-141)
-- [网易云音乐](#company-142)
-- [微博](#company-143)
-- [微步在线](#company-144)
-- [维他奶](#company-145)
-- [小红书、百度](#company-146)
-- [小米](#company-147)
-- [雪梨教育](#company-148)
-- [亚信安全](#company-149)
-- [阳光电源](#company-150)
-- [药明康德](#company-151)
-- [英迈软件](#company-152)
-- [用友、太平洋网络](#company-153)
-- [有赞](#company-154)
-- [元气森林](#company-155)
-- [元戎启行](#company-156)
-- [远志](#company-157)
-- [长亭科技](#company-158)
-- [招联](#company-159)
-- [招银](#company-160)
-- [招银科技](#company-161)
-- [挚文集团](#company-162)
-- [智谱](#company-163)
-- [智元机器人](#company-164)
-- [中科创达](#company-165)
-- [中兴通讯](#company-166)
-- [字节跳动、腾讯、蚂蚁集团](#company-167)
-- [自变量](#company-168)
-- [CVTE](#company-169)
-- [Fanvil](#company-170)
-- [KuCoin](#company-171)
-- [MemTensor](#company-172)
-- [Moka](#company-173)
-- [Momenta](#company-174)
-- [sentime](#company-175)
-- [Shopee](#company-176)
-- [Snapmaker](#company-177)
-- [Soul](#company-178)
-- [TCL科技](#company-179)
-- [Teamily AI](#company-180)
-- [TP-Link（普联）](#company-181)
-- [tuitti视界之外](#company-182)
-- [VITURE](#company-183)
+- [Shopee](#company-56)
+- [阿里巴巴（淘天）](#company-57)
+- [阿里国际](#company-58)
+- [阿里控股](#company-59)
+- [爱回收](#company-60)
+- [佰聆数据](#company-61)
+- [币安](#company-62)
+- [不鸣科技](#company-63)
+- [禅游科技](#company-64)
+- [超参数](#company-65)
+- [车300](#company-66)
+- [重庆远见](#company-67)
+- [袋鼠云](#company-68)
+- [点点互动](#company-69)
+- [鼎捷数智](#company-70)
+- [东方财富](#company-71)
+- [哆咔互娱](#company-72)
+- [法大大](#company-73)
+- [饭团外卖](#company-74)
+- [飞轮数据](#company-75)
+- [分叉智能科技](#company-76)
+- [格物致信](#company-77)
+- [构序智能](#company-78)
+- [广电数科](#company-79)
+- [广东元海](#company-80)
+- [硅心科技](#company-81)
+- [国金证券](#company-82)
+- [哈啰](#company-83)
+- [海底捞](#company-84)
+- [杭州可见信号科技](#company-85)
+- [浩鲸科技](#company-86)
+- [和顺慧康](#company-87)
+- [黑白调](#company-88)
+- [花小小新疆炒米粉](#company-89)
+- [华测](#company-90)
+- [华橙](#company-91)
+- [华勤](#company-92)
+- [汇顶科技](#company-93)
+- [货拉拉](#company-94)
+- [吉利](#company-95)
+- [极兔](#company-96)
+- [极兔速递](#company-97)
+- [阶跃星辰](#company-98)
+- [金蝶](#company-99)
+- [金山办公](#company-100)
+- [金山软件](#company-101)
+- [靖安科技](#company-102)
+- [九方智投](#company-103)
+- [九号公司](#company-104)
+- [九坤创新](#company-105)
+- [科沃斯](#company-106)
+- [岚图](#company-107)
+- [蓝标传媒](#company-108)
+- [雷鸣比特](#company-109)
+- [理想](#company-110)
+- [联影](#company-111)
+- [猎豹移动](#company-112)
+- [灵犀互娱](#company-113)
+- [刘文祥麻辣烫](#company-114)
+- [绿盟科技](#company-115)
+- [美图](#company-116)
+- [名创优品](#company-117)
+- [沐瞳科技](#company-118)
+- [沐曦](#company-119)
+- [南芯](#company-120)
+- [平安健康保险](#company-121)
+- [浦发银行](#company-122)
+- [浦银金科](#company-123)
+- [千寻智能](#company-124)
+- [轻舟智航](#company-125)
+- [荣耀](#company-126)
+- [润嵘金属网有限公司](#company-127)
+- [上海景行智合安全技术](#company-128)
+- [上海九云数智](#company-129)
+- [上海联蔚数科](#company-130)
+- [上海摩和文化](#company-131)
+- [深势科技](#company-132)
+- [深圳璇溟科技有限公司](#company-133)
+- [盛大旗下未具名子公司](#company-134)
+- [水滴](#company-135)
+- [四维图新](#company-136)
+- [腾讯 WXG](#company-137)
+- [腾讯混元](#company-138)
+- [腾讯元宝](#company-139)
+- [同程旅行](#company-140)
+- [万仞](#company-141)
+- [万兴科技](#company-142)
+- [网新软件](#company-143)
+- [网易云音乐](#company-144)
+- [微博](#company-145)
+- [微步在线](#company-146)
+- [维他奶](#company-147)
+- [小红书、百度](#company-148)
+- [小米](#company-149)
+- [雪梨教育](#company-150)
+- [亚信安全](#company-151)
+- [阳光电源](#company-152)
+- [药明康德](#company-153)
+- [英迈软件](#company-154)
+- [用友、太平洋网络](#company-155)
+- [有赞](#company-156)
+- [元气森林](#company-157)
+- [元戎启行](#company-158)
+- [远志](#company-159)
+- [长亭科技](#company-160)
+- [招联](#company-161)
+- [招银](#company-162)
+- [招银科技](#company-163)
+- [挚文集团](#company-164)
+- [智谱](#company-165)
+- [智元机器人](#company-166)
+- [中科创达](#company-167)
+- [中兴通讯](#company-168)
+- [字节跳动、腾讯、蚂蚁集团](#company-169)
+- [自变量](#company-170)
+- [Coremail](#company-171)
+- [CVTE](#company-172)
+- [Fanvil](#company-173)
+- [KuCoin](#company-174)
+- [MemTensor](#company-175)
+- [Moka](#company-176)
+- [Momenta](#company-177)
+- [sentime](#company-178)
+- [Snapmaker](#company-179)
+- [Soul](#company-180)
+- [TCL科技](#company-181)
+- [Teamily AI](#company-182)
+- [TP-Link（普联）](#company-183)
+- [tuitti视界之外](#company-184)
+- [VITURE](#company-185)
 
 </details>
 
@@ -489,7 +491,7 @@
 - [MJ-XHS-2026-0513 腾讯agent一面凉凉凉经](../interviews/MJ-XHS-2026-0513.md) — AI 应用 / Agent 开发 · 2026-03-25
 
 <a id="company-7"></a>
-## 蚂蚁集团（14）
+## 蚂蚁集团（15）
 
 - [MJ-NC-2026-0052 蚂蚁集团｜Agent 应用开发工程师（内容推测）｜暑期实习｜一面](../interviews/MJ-NC-2026-0052.md) — Agent 应用开发工程师 · 实习 · 2026-04-16
 - [MJ-NC-2026-0053 蚂蚁集团｜Agent 开发工程师（金融）｜暑期](../interviews/MJ-NC-2026-0053.md) — Agent 开发工程师（金融） · 2026-04-10
@@ -505,6 +507,7 @@
 - [MJ-NC-2026-0601 蚂蚁集团｜后端开发｜面经合集 04](../interviews/MJ-NC-2026-0601.md) — 后端开发工程师（AI/Agent 相关） · 2026-09-23
 - [MJ-NC-2026-0603 蚂蚁集团｜大模型算法｜面经合集 03](../interviews/MJ-NC-2026-0603.md) — 大模型算法工程师 · 2026-09-23
 - [MJ-NC-2026-0605 蚂蚁集团｜大模型算法/应用｜面经合集 02](../interviews/MJ-NC-2026-0605.md) — 大模型应用与智能体工程师 · 2026-09-23
+- [MJ-NC-2026-0620 蚂蚁集团｜后端开发｜面经合集 03](../interviews/MJ-NC-2026-0620.md) — 后端开发 · 2026-09-23
 
 <a id="company-8"></a>
 ## 去哪儿（12）
@@ -905,641 +908,652 @@
 - [MJ-XHS-2026-0552 转转后端AI开发一面面经](../interviews/MJ-XHS-2026-0552.md) — 后端开发 · 实习 · 2026-05-11
 
 <a id="company-56"></a>
+## Shopee（2）
+
+- [MJ-NC-2026-0588 Shopee（虾皮）｜数据开发工程师（AI 与智能问数方向）｜秋招](../interviews/MJ-NC-2026-0588.md) — 数据开发工程师（AI 与智能问数方向） · 2026-09-23
+- [MJ-NC-2026-0618 Shopee｜测试开发｜一面](../interviews/MJ-NC-2026-0618.md) — 测试开发 · 实习 · 2026-09-23
+
+<a id="company-57"></a>
 ## 阿里巴巴（淘天）（1）
 
 - [MJ-NC-2026-0616 淘天｜AI 应用开发工程师｜校招 · 秋招｜一面](../interviews/MJ-NC-2026-0616.md) — AI 应用开发工程师 · 校招 · 2026-09-16
 
-<a id="company-57"></a>
+<a id="company-58"></a>
 ## 阿里国际（1）
 
 - [MJ-XHS-2026-0535 阿里国际ai应用开发面经](../interviews/MJ-XHS-2026-0535.md) — AI 应用 / Agent 开发 · 2026-05-07
 
-<a id="company-58"></a>
+<a id="company-59"></a>
 ## 阿里控股（1）
 
 - [MJ-XHS-2026-0539 阿里控股一面凉经（已挂）](../interviews/MJ-XHS-2026-0539.md) — 大模型算法工程师 · 实习 · 2026-04-08
 
-<a id="company-59"></a>
+<a id="company-60"></a>
 ## 爱回收（1）
 
 - [MJ-NC-2026-0034 爱回收｜测试开发工程师｜二面](../interviews/MJ-NC-2026-0034.md) — 测试开发工程师 · 2026-07-10
 
-<a id="company-60"></a>
+<a id="company-61"></a>
 ## 佰聆数据（1）
 
 - [MJ-NC-2026-0025 佰聆数据｜AI 应用开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0025.md) — AI 应用开发工程师 · 实习 · 2026-07-15
 
-<a id="company-61"></a>
+<a id="company-62"></a>
 ## 币安（1）
 
 - [MJ-NC-2026-0462 币安｜数据科学家｜实习](../interviews/MJ-NC-2026-0462.md) — 数据科学家 · 实习 · 2026-05-12
 
-<a id="company-62"></a>
+<a id="company-63"></a>
 ## 不鸣科技（1）
 
 - [MJ-NC-2026-0389 不鸣科技｜AI 应用开发工程师（AI Native）｜一面、二面](../interviews/MJ-NC-2026-0389.md) — AI 应用开发工程师（AI Native） · 2026-07-01
 
-<a id="company-63"></a>
+<a id="company-64"></a>
 ## 禅游科技（1）
 
 - [MJ-NC-2026-0018 禅游科技｜全栈开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0018.md) — 全栈开发工程师 · 实习 · 2026-07-16
 
-<a id="company-64"></a>
+<a id="company-65"></a>
 ## 超参数（1）
 
 - [MJ-NC-2026-0318 超参数｜Agent 开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0318.md) — Agent 开发工程师 · 社招 · 2026-08-09
 
-<a id="company-65"></a>
+<a id="company-66"></a>
 ## 车300（1）
 
 - [MJ-NC-2026-0177 车300｜Java 开发工程师｜实习](../interviews/MJ-NC-2026-0177.md) — Java 开发工程师 · 实习 · 2026-09-03
 
-<a id="company-66"></a>
+<a id="company-67"></a>
 ## 重庆远见（1）
 
 - [MJ-NC-2026-0459 重庆远见（智慧政务服务）｜Java 开发工程师｜暑期实习｜公司待核](../interviews/MJ-NC-2026-0459.md) — Java 开发工程师 · 实习 · 2026-05-13
 
-<a id="company-67"></a>
+<a id="company-68"></a>
 ## 袋鼠云（1）
 
 - [MJ-NC-2026-0366 袋鼠云（数据中台）｜前端开发工程师｜实习](../interviews/MJ-NC-2026-0366.md) — 前端开发工程师 · 实习 · 2026-08-23
 
-<a id="company-68"></a>
+<a id="company-69"></a>
 ## 点点互动（1）
 
 - [MJ-NC-2026-0354 点点互动｜Agent 开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0354.md) — Agent 开发工程师 · 2026-08-04
 
-<a id="company-69"></a>
+<a id="company-70"></a>
 ## 鼎捷数智（1）
 
 - [MJ-NC-2026-0314 鼎捷数智｜Agent 开发工程师｜实习](../interviews/MJ-NC-2026-0314.md) — Agent 开发工程师 · 实习 · 2026-08-13
 
-<a id="company-70"></a>
+<a id="company-71"></a>
 ## 东方财富（1）
 
 - [MJ-NC-2026-0614 东方财富｜AI 应用开发工程师｜校招 · 秋招｜一面](../interviews/MJ-NC-2026-0614.md) — AI 应用开发工程师 · 校招 · 2026-09-24
 
-<a id="company-71"></a>
+<a id="company-72"></a>
 ## 哆咔互娱（1）
 
 - [MJ-NC-2026-0440 哆咔互娱｜Agent 开发工程师｜实习｜一面、二面](../interviews/MJ-NC-2026-0440.md) — Agent 开发工程师 · 实习 · 2026-05-20
 
-<a id="company-72"></a>
+<a id="company-73"></a>
 ## 法大大（1）
 
 - [MJ-NC-2026-0429 法大大｜Java 开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0429.md) — Java 开发工程师 · 实习 · 2026-05-30
 
-<a id="company-73"></a>
+<a id="company-74"></a>
 ## 饭团外卖（1）
 
 - [MJ-NC-2026-0359 饭团外卖｜前端开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0359.md) — 前端开发工程师 · 2026-08-14
 
-<a id="company-74"></a>
+<a id="company-75"></a>
 ## 飞轮数据（1）
 
 - [MJ-NC-2026-0194 飞轮数据｜Go 后端开发工程师｜二面](../interviews/MJ-NC-2026-0194.md) — Go 后端开发工程师 · 2026-09-02
 
-<a id="company-75"></a>
+<a id="company-76"></a>
 ## 分叉智能科技（1）
 
 - [MJ-NC-2026-0438 分叉智能科技（影刀）｜AI 解决方案架构师｜校招｜二面](../interviews/MJ-NC-2026-0438.md) — AI 解决方案架构师 · 校招 · 2026-05-21
 
-<a id="company-76"></a>
+<a id="company-77"></a>
 ## 格物致信（1）
 
 - [MJ-NC-2026-0131 格物致信｜Agent 应用开发工程师（内容推测）｜一面](../interviews/MJ-NC-2026-0131.md) — Agent 应用开发工程师 · 2026-09-07
 
-<a id="company-77"></a>
+<a id="company-78"></a>
 ## 构序智能（1）
 
 - [MJ-NC-2026-0198 构序智能（aixcut）｜前端开发工程师｜实习｜创始人面](../interviews/MJ-NC-2026-0198.md) — 前端开发工程师 · 实习 · 2026-09-02
 
-<a id="company-78"></a>
+<a id="company-79"></a>
 ## 广电数科（1）
 
 - [MJ-NC-2026-0217 广电数科｜Java 开发工程师｜实习](../interviews/MJ-NC-2026-0217.md) — Java 开发工程师 · 实习 · 2026-09-08
 
-<a id="company-79"></a>
+<a id="company-80"></a>
 ## 广东元海（1）
 
 - [MJ-NC-2026-0119 广东元海｜Java 后端开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0119.md) — Java 后端开发工程师 · 实习 · 2026-09-08
 
-<a id="company-80"></a>
+<a id="company-81"></a>
 ## 硅心科技（1）
 
 - [MJ-NC-2026-0024 硅心科技｜智能软件工程师｜实习](../interviews/MJ-NC-2026-0024.md) — 智能软件工程师 · 实习 · 2026-07-15
 
-<a id="company-81"></a>
+<a id="company-82"></a>
 ## 国金证券（1）
 
 - [MJ-NC-2026-0027 国金证券（证券公司中后台系统）｜Java 开发工程师｜实习｜HR/业务负责人面、技术面](../interviews/MJ-NC-2026-0027.md) — Java 开发工程师 · 实习 · 2026-07-14
 
-<a id="company-82"></a>
+<a id="company-83"></a>
 ## 哈啰（1）
 
 - [MJ-NC-2026-0098 哈啰｜大模型算法工程师（Agent）｜校招｜一面](../interviews/MJ-NC-2026-0098.md) — 大模型算法工程师（Agent） · 校招 · 2026-02-06
 
-<a id="company-83"></a>
+<a id="company-84"></a>
 ## 海底捞（1）
 
 - [MJ-NC-2026-0417 海底捞｜大模型算法工程师（内容推测）](../interviews/MJ-NC-2026-0417.md) — 大模型算法工程师 · 2026-05-26
 
-<a id="company-84"></a>
+<a id="company-85"></a>
 ## 杭州可见信号科技（1）
 
 - [MJ-NC-2026-0452 杭州可见信号科技｜Agent 应用开发工程师（内容推测）｜实习](../interviews/MJ-NC-2026-0452.md) — Agent 应用开发工程师 · 实习 · 2026-05-17
 
-<a id="company-85"></a>
+<a id="company-86"></a>
 ## 浩鲸科技（1）
 
 - [MJ-NC-2026-0252 浩鲸科技｜Java 开发工程师｜日常实习｜一面](../interviews/MJ-NC-2026-0252.md) — Java 开发工程师 · 实习
 
-<a id="company-86"></a>
+<a id="company-87"></a>
 ## 和顺慧康（1）
 
 - [MJ-NC-2026-0413 和顺慧康（智慧化健康养老产品与服务）｜AI 应用开发工程师｜暑期实习](../interviews/MJ-NC-2026-0413.md) — AI 应用开发工程师 · 实习 · 2026-05-27
 
-<a id="company-87"></a>
+<a id="company-88"></a>
 ## 黑白调（1）
 
 - [MJ-NC-2026-0227 黑白调（傲风电竞椅）｜Agent 应用开发工程师（需求与交付方向，内容推测）｜秋招｜HR 面](../interviews/MJ-NC-2026-0227.md) — Agent 应用开发工程师（需求与交付方向） · 2026-09-06
 
-<a id="company-88"></a>
+<a id="company-89"></a>
 ## 花小小新疆炒米粉（1）
 
 - [MJ-NC-2026-0416 花小小新疆炒米粉（餐饮 AI 应用）｜AI 全栈开发工程师｜社招](../interviews/MJ-NC-2026-0416.md) — AI 全栈开发工程师 · 社招 · 2026-05-26
 
-<a id="company-89"></a>
+<a id="company-90"></a>
 ## 华测（1）
 
 - [MJ-NC-2026-0593 华测｜Java 开发工程师（Agent 相关，内容推测）｜一面](../interviews/MJ-NC-2026-0593.md) — Java 开发工程师（Agent 相关） · 2026-09-23
 
-<a id="company-90"></a>
+<a id="company-91"></a>
 ## 华橙（1）
 
 - [MJ-NC-2026-0598 华橙｜Agent 评测工程师｜二面](../interviews/MJ-NC-2026-0598.md) — Agent 评测工程师 · 2026-09-24
 
-<a id="company-91"></a>
+<a id="company-92"></a>
 ## 华勤（1）
 
 - [MJ-NC-2026-0115 华勤｜大模型算法工程师｜秋招｜技术面](../interviews/MJ-NC-2026-0115.md) — 大模型算法工程师 · 2026-09-08
 
-<a id="company-92"></a>
+<a id="company-93"></a>
 ## 汇顶科技（1）
 
 - [MJ-NC-2026-0369 汇顶科技｜软件开发工程师（IT 系统）｜秋招｜一面](../interviews/MJ-NC-2026-0369.md) — 软件开发工程师（IT 系统） · 2026-08-31
 
-<a id="company-93"></a>
+<a id="company-94"></a>
 ## 货拉拉（1）
 
 - [MJ-NC-2026-0210 货拉拉｜Agent 应用开发工程师（内容推测）｜秋招｜一面](../interviews/MJ-NC-2026-0210.md) — Agent 应用开发工程师 · 2026-09-03
 
-<a id="company-94"></a>
+<a id="company-95"></a>
 ## 吉利（1）
 
 - [MJ-NC-2026-0128 吉利（车载软件研发效能平台）｜大数据开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0128.md) — 大数据开发工程师 · 2026-09-07
 
-<a id="company-95"></a>
+<a id="company-96"></a>
 ## 极兔（1）
 
 - [MJ-NC-2026-0066 极兔｜Agent 算法工程师（内容推测）｜实习](../interviews/MJ-NC-2026-0066.md) — Agent 算法工程师 · 实习 · 2026-07-08
 
-<a id="company-96"></a>
+<a id="company-97"></a>
 ## 极兔速递（1）
 
 - [MJ-NC-2026-0565 极兔速递｜后端开发工程师｜一面](../interviews/MJ-NC-2026-0565.md) — 后端开发工程师 · 2026-09-24
 
-<a id="company-97"></a>
+<a id="company-98"></a>
 ## 阶跃星辰（1）
 
 - [MJ-NC-2026-0206 阶跃星辰｜大模型基础设施工程师（数据管道）｜秋招 · 实习｜一面、二面](../interviews/MJ-NC-2026-0206.md) — 大模型基础设施工程师（数据管道） · 实习 · 2026-09-01
 
-<a id="company-98"></a>
+<a id="company-99"></a>
 ## 金蝶（1）
 
 - [MJ-NC-2026-0610 金蝶｜Agent 开发工程师｜校招｜一面](../interviews/MJ-NC-2026-0610.md) — Agent 开发工程师 · 校招 · 2026-09-21
 
-<a id="company-99"></a>
+<a id="company-100"></a>
 ## 金山办公（1）
 
 - [MJ-NC-2026-0153 金山办公｜数据分析师｜日常实习｜一面](../interviews/MJ-NC-2026-0153.md) — 数据分析师 · 实习 · 2026-09-04
 
-<a id="company-100"></a>
+<a id="company-101"></a>
 ## 金山软件（1）
 
 - [MJ-NC-2026-0154 金山软件｜AI 全栈开发工程师｜一面](../interviews/MJ-NC-2026-0154.md) — AI 全栈开发工程师 · 2026-09-04
 
-<a id="company-101"></a>
+<a id="company-102"></a>
 ## 靖安科技（1）
 
 - [MJ-NC-2026-0590 靖安科技｜后端工程师（RAG/Agent 项目，内容推测）｜秋招｜一面](../interviews/MJ-NC-2026-0590.md) — 后端工程师（RAG/Agent 项目） · 2026-09-23
 
-<a id="company-102"></a>
+<a id="company-103"></a>
 ## 九方智投（1）
 
 - [MJ-NC-2026-0558 九方智投｜Agent 开发工程师｜一面](../interviews/MJ-NC-2026-0558.md) — Agent 开发工程师 · 2026-09-24
 
-<a id="company-103"></a>
+<a id="company-104"></a>
 ## 九号公司（1）
 
 - [MJ-NC-2026-0352 九号公司｜Agent 开发工程师｜秋招 · 实习｜一面](../interviews/MJ-NC-2026-0352.md) — Agent 开发工程师 · 实习 · 2026-08-27
 
-<a id="company-104"></a>
+<a id="company-105"></a>
 ## 九坤创新（1）
 
 - [MJ-NC-2026-0074 九坤创新｜Agent 应用开发工程师（内容推测）｜寒假 · 实习｜求职记录](../interviews/MJ-NC-2026-0074.md) — Agent 应用开发工程师 · 实习 · 2026-01-23
 
-<a id="company-105"></a>
+<a id="company-106"></a>
 ## 科沃斯（1）
 
 - [MJ-NC-2026-0594 科沃斯｜助理开发工程实习生（AI 助手项目，内容推测）｜实习](../interviews/MJ-NC-2026-0594.md) — 助理开发工程实习生（AI 助手项目） · 实习 · 2026-09-23
 
-<a id="company-106"></a>
+<a id="company-107"></a>
 ## 岚图（1）
 
 - [MJ-NC-2026-0118 岚图｜数据分析师｜秋招｜技术面、HR面](../interviews/MJ-NC-2026-0118.md) — 数据分析师 · 2026-09-08
 
-<a id="company-107"></a>
+<a id="company-108"></a>
 ## 蓝标传媒（1）
 
 - [MJ-NC-2026-0099 蓝标传媒｜AI 产品经理](../interviews/MJ-NC-2026-0099.md) — AI 产品经理 · 2024-07-25
 
-<a id="company-108"></a>
+<a id="company-109"></a>
 ## 雷鸣比特（1）
 
 - [MJ-NC-2026-0396 雷鸣比特｜前端开发工程师｜实习｜电话面、视频面、CTO 面](../interviews/MJ-NC-2026-0396.md) — 前端开发工程师 · 实习 · 2026-06-24
 
-<a id="company-109"></a>
+<a id="company-110"></a>
 ## 理想（1）
 
 - [MJ-NC-2026-0076 理想｜AI 解决方案岗（职能类）｜一面、二面](../interviews/MJ-NC-2026-0076.md) — AI 解决方案岗（职能类） · 2026-07-07
 
-<a id="company-110"></a>
+<a id="company-111"></a>
 ## 联影（1）
 
 - [MJ-NC-2026-0038 联影｜Agent 开发工程师｜一面](../interviews/MJ-NC-2026-0038.md) — Agent 开发工程师 · 2026-07-08
 
-<a id="company-111"></a>
+<a id="company-112"></a>
 ## 猎豹移动（1）
 
 - [MJ-NC-2026-0460 猎豹移动｜全栈开发工程师（Agent）](../interviews/MJ-NC-2026-0460.md) — 全栈开发工程师（Agent） · 2026-05-13
 
-<a id="company-112"></a>
+<a id="company-113"></a>
 ## 灵犀互娱（1）
 
 - [MJ-NC-2026-0575 灵犀互娱｜AI 应用开发工程师｜校招 · 秋招](../interviews/MJ-NC-2026-0575.md) — AI 应用开发工程师 · 校招 · 2026-09-24
 
-<a id="company-113"></a>
+<a id="company-114"></a>
 ## 刘文祥麻辣烫（1）
 
 - [MJ-NC-2026-0381 刘文祥麻辣烫｜Agent 开发工程师｜提前批｜一面｜真实性待核](../interviews/MJ-NC-2026-0381.md) — Agent 开发工程师 · 2026-07-16
 
-<a id="company-114"></a>
+<a id="company-115"></a>
+## 绿盟科技（1）
+
+- [MJ-NC-2026-0621 绿盟科技｜Agent 开发｜秋招一面](../interviews/MJ-NC-2026-0621.md) — Agent 开发 · 2026-09-21
+
+<a id="company-116"></a>
 ## 美图（1）
 
 - [MJ-NC-2026-0433 美图｜大模型算法工程师｜一面、二面、三面、四面｜公司待核](../interviews/MJ-NC-2026-0433.md) — 大模型算法工程师 · 2026-05-24
 
-<a id="company-115"></a>
+<a id="company-117"></a>
 ## 名创优品（1）
 
 - [MJ-NC-2026-0334 名创优品｜Agent 开发工程师｜秋招 · 实习｜一面](../interviews/MJ-NC-2026-0334.md) — Agent 开发工程师 · 实习 · 2026-08-26
 
-<a id="company-116"></a>
+<a id="company-118"></a>
 ## 沐瞳科技（1）
 
 - [MJ-NC-2026-0213 沐瞳科技｜数据仓库开发工程师（AI）｜校招 · 秋招｜一面](../interviews/MJ-NC-2026-0213.md) — 数据仓库开发工程师（AI） · 校招 · 2026-09-03
 
-<a id="company-117"></a>
+<a id="company-119"></a>
 ## 沐曦（1）
 
 - [MJ-NC-2026-0191 沐曦｜AI 工程师（推理与算子优化）｜秋招｜一面、二面](../interviews/MJ-NC-2026-0191.md) — AI 工程师（推理与算子优化） · 2026-09-02
 
-<a id="company-118"></a>
+<a id="company-120"></a>
 ## 南芯（1）
 
 - [MJ-NC-2026-0475 南芯｜大模型算法工程师｜实习｜一面｜公司待核](../interviews/MJ-NC-2026-0475.md) — 大模型算法工程师 · 实习 · 2026-05-07
 
-<a id="company-119"></a>
+<a id="company-121"></a>
 ## 平安健康保险（1）
 
 - [MJ-NC-2026-0363 平安健康保险（金融保险）｜AI 应用开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0363.md) — AI 应用开发工程师 · 2026-08-26
 
-<a id="company-120"></a>
+<a id="company-122"></a>
 ## 浦发银行（1）
 
 - [MJ-NC-2026-0350 浦发银行｜AI 应用开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0350.md) — AI 应用开发工程师 · 社招 · 2026-08-07
 
-<a id="company-121"></a>
+<a id="company-123"></a>
 ## 浦银金科（1）
 
 - [MJ-NC-2026-0370 浦银金科｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0370.md) — 全栈开发工程师 · 社招 · 2026-08-12
 
-<a id="company-122"></a>
+<a id="company-124"></a>
 ## 千寻智能（1）
 
 - [MJ-NC-2026-0353 千寻智能｜平台开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0353.md) — 平台开发工程师 · 社招 · 2026-08-08
 
-<a id="company-123"></a>
+<a id="company-125"></a>
 ## 轻舟智航（1）
 
 - [MJ-NC-2026-0330 轻舟智航（自动驾驶 AI 排障工具链）｜Agent 开发工程师（自动驾驶工具链）｜实习｜一面、二面](../interviews/MJ-NC-2026-0330.md) — Agent 开发工程师（自动驾驶工具链） · 实习 · 2025-12-25
 
-<a id="company-124"></a>
+<a id="company-126"></a>
 ## 荣耀（1）
 
 - [MJ-NC-2026-0093 荣耀｜大模型算法工程师｜实习](../interviews/MJ-NC-2026-0093.md) — 大模型算法工程师 · 实习 · 2026-03-28
 
-<a id="company-125"></a>
+<a id="company-127"></a>
 ## 润嵘金属网有限公司（1）
 
 - [MJ-NC-2026-0163 润嵘金属网有限公司（跨境电商）｜AI 开发工程师｜一面](../interviews/MJ-NC-2026-0163.md) — AI 开发工程师 · 2026-09-04
 
-<a id="company-126"></a>
+<a id="company-128"></a>
 ## 上海景行智合安全技术（1）
 
 - [MJ-NC-2026-0409 上海景行智合安全技术｜Java 开发工程师｜实习｜一面、二面](../interviews/MJ-NC-2026-0409.md) — Java 开发工程师 · 实习 · 2026-06-08
 
-<a id="company-127"></a>
+<a id="company-129"></a>
 ## 上海九云数智（1）
 
 - [MJ-NC-2026-0135 上海九云数智｜大模型应用开发工程师（RAG 方向，内容推测）](../interviews/MJ-NC-2026-0135.md) — 大模型应用开发工程师（RAG 方向） · 2026-09-07
 
-<a id="company-128"></a>
+<a id="company-130"></a>
 ## 上海联蔚数科（1）
 
 - [MJ-NC-2026-0613 上海联蔚数科｜AI 工程实习生（Agent 方向）｜实习](../interviews/MJ-NC-2026-0613.md) — AI 工程实习生（Agent 方向） · 实习 · 2026-09-21
 
-<a id="company-129"></a>
+<a id="company-131"></a>
 ## 上海摩和文化（1）
 
 - [MJ-NC-2026-0160 上海摩和文化｜前端开发工程师（AI 业务方向，内容推测）｜一面](../interviews/MJ-NC-2026-0160.md) — 前端开发工程师（AI 业务方向） · 2026-09-04
 
-<a id="company-130"></a>
+<a id="company-132"></a>
 ## 深势科技（1）
 
 - [MJ-NC-2026-0393 深势科技｜后端开发工程师（AI / Agent 方向，内容推测）｜二面](../interviews/MJ-NC-2026-0393.md) — 后端开发工程师（AI / Agent 方向） · 2026-06-26
 
-<a id="company-131"></a>
+<a id="company-133"></a>
 ## 深圳璇溟科技有限公司（1）
 
 - [MJ-NC-2026-0267 深圳璇溟科技有限公司｜Agent 开发工程师｜实习](../interviews/MJ-NC-2026-0267.md) — Agent 开发工程师 · 实习 · 2026-08-23
 
-<a id="company-132"></a>
+<a id="company-134"></a>
 ## 盛大旗下未具名子公司（1）
 
 - [MJ-NC-2026-0410 盛大旗下未具名子公司（deep research）｜全栈开发工程师（Agent）｜一面、二面、三面｜公司待核](../interviews/MJ-NC-2026-0410.md) — 全栈开发工程师（Agent） · 2026-06-08
 
-<a id="company-133"></a>
+<a id="company-135"></a>
 ## 水滴（1）
 
 - [MJ-NC-2026-0216 水滴｜质量保障工程师（AI）｜校招 · 秋招｜一面](../interviews/MJ-NC-2026-0216.md) — 质量保障工程师（AI） · 校招 · 2026-09-08
 
-<a id="company-134"></a>
+<a id="company-136"></a>
 ## 四维图新（1）
 
 - [MJ-NC-2026-0087 四维图新｜后端开发工程师（AI / Agent 方向，内容推测）](../interviews/MJ-NC-2026-0087.md) — 后端开发工程师（AI / Agent 方向） · 2026-03-06
 
-<a id="company-135"></a>
+<a id="company-137"></a>
 ## 腾讯 WXG（1）
 
 - [MJ-XHS-2026-0527 5.7 wxg社招面委会面经 agent方向](../interviews/MJ-XHS-2026-0527.md) — AI 应用 / Agent 开发 · 社招 · 2026-05-07
 
-<a id="company-136"></a>
+<a id="company-138"></a>
 ## 腾讯混元（1）
 
 - [MJ-XHS-2026-0522 腾讯混元后台开发一面](../interviews/MJ-XHS-2026-0522.md) — 大模型算法工程师 · 实习 · 2026-03-31
 
-<a id="company-137"></a>
+<a id="company-139"></a>
 ## 腾讯元宝（1）
 
 - [MJ-XHS-2026-0531 腾讯 元宝 社招 agent架构全流程面经](../interviews/MJ-XHS-2026-0531.md) — AI 应用 / Agent 开发 · 实习 · 2026-07-03
 
-<a id="company-138"></a>
+<a id="company-140"></a>
 ## 同程旅行（1）
 
 - [MJ-XHS-2026-0543 同程旅行暑期大模型算法一面面经](../interviews/MJ-XHS-2026-0543.md) — 大模型算法工程师 · 实习 · 校招 · 2026-05-29
 
-<a id="company-139"></a>
+<a id="company-141"></a>
 ## 万仞（1）
 
 - [MJ-NC-2026-0231 万仞｜全栈开发工程师｜实习｜二面](../interviews/MJ-NC-2026-0231.md) — 全栈开发工程师 · 实习 · 2026-09-05
 
-<a id="company-140"></a>
+<a id="company-142"></a>
 ## 万兴科技（1）
 
 - [MJ-NC-2026-0184 万兴科技｜Android 客户端开发工程师（AI 方向，内容推测）｜实习｜一面](../interviews/MJ-NC-2026-0184.md) — Android 客户端开发工程师（AI 方向） · 实习 · 2026-09-03
 
-<a id="company-141"></a>
+<a id="company-143"></a>
 ## 网新软件（1）
 
 - [MJ-NC-2026-0081 网新软件｜后端开发工程师（内容推测）｜一面、二面](../interviews/MJ-NC-2026-0081.md) — 后端开发工程师 · 2026-04-14
 
-<a id="company-142"></a>
+<a id="company-144"></a>
 ## 网易云音乐（1）
 
 - [MJ-XHS-2026-0555 网易云音乐后端实习一面面经](../interviews/MJ-XHS-2026-0555.md) — 后端开发 · 实习 · 2026-07-15
 
-<a id="company-143"></a>
+<a id="company-145"></a>
 ## 微博（1）
 
 - [MJ-NC-2026-0337 微博（微博 AI 搜索）｜Agent 应用开发工程师（内容推测）｜社招｜一面](../interviews/MJ-NC-2026-0337.md) — Agent 应用开发工程师 · 社招 · 2026-08-13
 
-<a id="company-144"></a>
+<a id="company-146"></a>
 ## 微步在线（1）
 
 - [MJ-NC-2026-0168 微步在线（网络安全）｜Java 开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0168.md) — Java 开发工程师 · 2026-09-03
 
-<a id="company-145"></a>
+<a id="company-147"></a>
 ## 维他奶（1）
 
 - [MJ-NC-2026-0132 维他奶｜Java 开发工程师](../interviews/MJ-NC-2026-0132.md) — Java 开发工程师 · 2026-09-07
 
-<a id="company-146"></a>
+<a id="company-148"></a>
 ## 小红书、百度（1）
 
 - [MJ-NC-2026-0305 小红书、百度｜多岗位／方向（含内容推测）｜面经合集](../interviews/MJ-NC-2026-0305.md) — Agent 开发工程师、Agent 应用开发工程师 · 实习 · 2026-08-24
 
-<a id="company-147"></a>
+<a id="company-149"></a>
 ## 小米（1）
 
 - [MJ-NC-2026-0042 小米｜视觉多模态算法工程师（Agent）](../interviews/MJ-NC-2026-0042.md) — 视觉多模态算法工程师（Agent） · 2026-03-29
 
-<a id="company-148"></a>
+<a id="company-150"></a>
 ## 雪梨教育（1）
 
 - [MJ-NC-2026-0156 雪梨教育｜AI 产品经理](../interviews/MJ-NC-2026-0156.md) — AI 产品经理 · 2026-09-04
 
-<a id="company-149"></a>
+<a id="company-151"></a>
 ## 亚信安全（1）
 
 - [MJ-NC-2026-0251 亚信安全｜Agent 开发工程师（AI Native 工具）｜秋招｜一面](../interviews/MJ-NC-2026-0251.md) — Agent 开发工程师（AI Native 工具） · 2026-09-01
 
-<a id="company-150"></a>
+<a id="company-152"></a>
 ## 阳光电源（1）
 
 - [MJ-NC-2026-0036 阳光电源｜Agent 平台开发工程师（内容推测）｜社招｜一面](../interviews/MJ-NC-2026-0036.md) — Agent 平台开发工程师 · 社招 · 2026-07-08
 
-<a id="company-151"></a>
+<a id="company-153"></a>
 ## 药明康德（1）
 
 - [MJ-NC-2026-0597 药明康德｜AI 数据工程师｜二面](../interviews/MJ-NC-2026-0597.md) — AI 数据工程师 · 2026-09-23
 
-<a id="company-152"></a>
+<a id="company-154"></a>
 ## 英迈软件（1）
 
 - [MJ-NC-2026-0279 英迈软件｜后端开发工程师（内容推测）](../interviews/MJ-NC-2026-0279.md) — 后端开发工程师 · 2026-09-01
 
-<a id="company-153"></a>
+<a id="company-155"></a>
 ## 用友、太平洋网络（1）
 
 - [MJ-NC-2026-0456 用友、太平洋网络｜多岗位／方向（含内容推测）｜面经合集](../interviews/MJ-NC-2026-0456.md) — 软件开发工程师（客户化开发）、后端开发工程师 · 实习 · 2026-05-15
 
-<a id="company-154"></a>
+<a id="company-156"></a>
 ## 有赞（1）
 
 - [MJ-NC-2026-0432 有赞（CRM 系统与连接器）｜后端开发工程师（AI / Agent 方向，内容推测）](../interviews/MJ-NC-2026-0432.md) — 后端开发工程师（AI / Agent 方向） · 2026-05-25
 
-<a id="company-155"></a>
+<a id="company-157"></a>
 ## 元气森林（1）
 
 - [MJ-XHS-2026-0542 元气森林-AI效率先锋电话面面经](../interviews/MJ-XHS-2026-0542.md) — AI 应用 / Agent 开发 · 实习 · 2026-04-29
 
-<a id="company-156"></a>
+<a id="company-158"></a>
 ## 元戎启行（1）
 
 - [MJ-NC-2026-0224 元戎启行｜后端开发工程师｜秋招｜三面](../interviews/MJ-NC-2026-0224.md) — 后端开发工程师 · 2026-09-07
 
-<a id="company-157"></a>
+<a id="company-159"></a>
 ## 远志（1）
 
 - [MJ-NC-2026-0368 远志（云平台商业化）｜全栈开发工程师｜社招｜一面｜公司待核](../interviews/MJ-NC-2026-0368.md) — 全栈开发工程师 · 社招 · 2026-08-05
 
-<a id="company-158"></a>
+<a id="company-160"></a>
 ## 长亭科技（1）
 
 - [MJ-NC-2026-0437 长亭科技｜AI 应用开发工程师｜求助帖](../interviews/MJ-NC-2026-0437.md) — AI 应用开发工程师 · 2026-05-21
 
-<a id="company-159"></a>
+<a id="company-161"></a>
 ## 招联（1）
 
 - [MJ-NC-2026-0377 招联｜AI 应用开发工程师｜一面](../interviews/MJ-NC-2026-0377.md) — AI 应用开发工程师 · 2025-10-21
 
-<a id="company-160"></a>
+<a id="company-162"></a>
 ## 招银（1）
 
 - [MJ-NC-2026-0317 招银｜后端开发工程师（AI / Agent 方向，内容推测）｜二面｜公司待核](../interviews/MJ-NC-2026-0317.md) — 后端开发工程师（AI / Agent 方向） · 2026-07-09
 
-<a id="company-161"></a>
+<a id="company-163"></a>
 ## 招银科技（1）
 
 - [MJ-NC-2026-0085 招银科技｜后端开发工程师（AI / Agent 方向，内容推测）｜社招](../interviews/MJ-NC-2026-0085.md) — 后端开发工程师（AI / Agent 方向） · 社招 · 2026-07-02
 
-<a id="company-162"></a>
+<a id="company-164"></a>
 ## 挚文集团（1）
 
 - [MJ-NC-2026-0373 挚文集团｜前端开发工程师｜秋招｜笔试｜笔试记录](../interviews/MJ-NC-2026-0373.md) — 前端开发工程师 · 2026-08-25
 
-<a id="company-163"></a>
+<a id="company-165"></a>
 ## 智谱（1）
 
 - [MJ-NC-2026-0094 智谱（面向国央企的 Agent 应用）｜大模型算法工程师（内容推测）｜一面、二面](../interviews/MJ-NC-2026-0094.md) — 大模型算法工程师 · 2024-04-10
 
-<a id="company-164"></a>
+<a id="company-166"></a>
 ## 智元机器人（1）
 
 - [MJ-NC-2026-0180 智元机器人｜前端开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0180.md) — 前端开发工程师 · 实习 · 2026-09-03
 
-<a id="company-165"></a>
+<a id="company-167"></a>
 ## 中科创达（1）
 
 - [MJ-NC-2026-0143 中科创达｜后端开发工程师（AI / RAG 方向，内容推测）](../interviews/MJ-NC-2026-0143.md) — 后端开发工程师（AI / RAG 方向） · 2026-09-05
 
-<a id="company-166"></a>
+<a id="company-168"></a>
 ## 中兴通讯（1）
 
 - [MJ-NC-2026-0591 中兴通讯｜AI 算法工程师｜校招 · 秋招｜一面](../interviews/MJ-NC-2026-0591.md) — AI 算法工程师 · 校招 · 2026-09-23
 
-<a id="company-167"></a>
+<a id="company-169"></a>
 ## 字节跳动、腾讯、蚂蚁集团（1）
 
 - [MJ-NC-2026-0071 字节跳动、腾讯、蚂蚁集团｜多岗位／方向（含内容推测）｜面经合集](../interviews/MJ-NC-2026-0071.md) — 后端开发工程师（Agent）、后端开发工程师（云架构）、大模型算法工程师 · 实习 · 2026-07-07
 
-<a id="company-168"></a>
+<a id="company-170"></a>
 ## 自变量（1）
 
 - [MJ-NC-2026-0312 自变量｜Agent 平台开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0312.md) — Agent 平台开发工程师 · 社招 · 2026-08-05
 
-<a id="company-169"></a>
+<a id="company-171"></a>
+## Coremail（1）
+
+- [MJ-NC-2026-0619 Coremail｜校招面试](../interviews/MJ-NC-2026-0619.md) — 岗位无法判断 · 校招 · 2026-09-22
+
+<a id="company-172"></a>
 ## CVTE（1）
 
 - [MJ-NC-2026-0424 CVTE（智能车载）｜嵌入式软件工程师（智能车载方向，内容推测）｜暑期实习｜机试](../interviews/MJ-NC-2026-0424.md) — 嵌入式软件工程师（智能车载方向） · 实习 · 2026-06-01
 
-<a id="company-170"></a>
+<a id="company-173"></a>
 ## Fanvil（1）
 
 - [MJ-NC-2026-0207 Fanvil｜测试开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0207.md) — 测试开发工程师 · 社招 · 2026-09-04
 
-<a id="company-171"></a>
+<a id="company-174"></a>
 ## KuCoin（1）
 
 - [MJ-NC-2026-0051 KuCoin｜平台产品经理](../interviews/MJ-NC-2026-0051.md) — 平台产品经理 · 2026-07-08
 
-<a id="company-172"></a>
+<a id="company-175"></a>
 ## MemTensor（1）
 
 - [MJ-NC-2026-0223 MemTensor｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0223.md) — 全栈开发工程师 · 社招 · 2026-09-08
 
-<a id="company-173"></a>
+<a id="company-176"></a>
 ## Moka（1）
 
 - [MJ-NC-2026-0469 Moka｜后端开发工程师（AI）｜实习](../interviews/MJ-NC-2026-0469.md) — 后端开发工程师（AI） · 实习 · 2026-05-08
 
-<a id="company-174"></a>
+<a id="company-177"></a>
 ## Momenta（1）
 
 - [MJ-NC-2026-0254 Momenta｜Agent 应用开发工程师（内容推测）｜秋招｜一面](../interviews/MJ-NC-2026-0254.md) — Agent 应用开发工程师 · 2026-09-01
 
-<a id="company-175"></a>
+<a id="company-178"></a>
 ## sentime（1）
 
 - [MJ-NC-2026-0222 sentime（桌面机器人）｜Agent 应用开发工程师（内容推测）｜社招｜一面｜公司待核](../interviews/MJ-NC-2026-0222.md) — Agent 应用开发工程师 · 社招 · 2026-09-08
 
-<a id="company-176"></a>
-## Shopee（1）
-
-- [MJ-NC-2026-0588 Shopee（虾皮）｜数据开发工程师（AI 与智能问数方向）｜秋招](../interviews/MJ-NC-2026-0588.md) — 数据开发工程师（AI 与智能问数方向） · 2026-09-23
-
-<a id="company-177"></a>
+<a id="company-179"></a>
 ## Snapmaker（1）
 
 - [MJ-NC-2026-0335 Snapmaker｜Web 全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0335.md) — Web 全栈开发工程师 · 社招 · 2026-08-05
 
-<a id="company-178"></a>
+<a id="company-180"></a>
 ## Soul（1）
 
 - [MJ-NC-2026-0365 Soul｜前端开发工程师（AI Agent 方向，内容推测）｜实习](../interviews/MJ-NC-2026-0365.md) — 前端开发工程师（AI Agent 方向） · 实习 · 2026-03-04
 
-<a id="company-179"></a>
+<a id="company-181"></a>
 ## TCL科技（1）
 
 - [MJ-NC-2026-0080 TCL科技｜Java 开发工程师｜实习](../interviews/MJ-NC-2026-0080.md) — Java 开发工程师 · 实习 · 2026-04-24
 
-<a id="company-180"></a>
+<a id="company-182"></a>
 ## Teamily AI（1）
 
 - [MJ-NC-2026-0291 Teamily AI（多Agent协作平台）｜测试开发工程师（Agent 评测）｜实习](../interviews/MJ-NC-2026-0291.md) — 测试开发工程师（Agent 评测） · 实习 · 2026-08-27
 
-<a id="company-181"></a>
+<a id="company-183"></a>
 ## TP-Link（普联）（1）
 
 - [MJ-NC-2026-0461 TP-Link（普联）｜前端开发工程师（跨端）｜实习｜一面、终面](../interviews/MJ-NC-2026-0461.md) — 前端开发工程师（跨端） · 实习 · 2026-05-12
 
-<a id="company-182"></a>
+<a id="company-184"></a>
 ## tuitti视界之外（1）
 
 - [MJ-NC-2026-0151 tuitti视界之外（多人多 Agent 跨设备协同平台）｜Agent 平台开发工程师（内容推测）｜实习｜一面](../interviews/MJ-NC-2026-0151.md) — Agent 平台开发工程师 · 实习
 
-<a id="company-183"></a>
+<a id="company-185"></a>
 ## VITURE（1）
 
 - [MJ-NC-2026-0170 VITURE｜Agent 平台开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0170.md) — Agent 平台开发工程师 · 社招 · 2026-09-03
