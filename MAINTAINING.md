@@ -1,18 +1,18 @@
 # 维护说明
 
-本文面向需要更新数据、索引或发布链路的维护者。一般内容贡献请先阅读[贡献指南](CONTRIBUTING.md)，字段约束见[内容结构](schema/README.md)。
+本文面向维护内容、数据结构与索引的协作者。一般内容贡献请先阅读[贡献指南](CONTRIBUTING.md)，字段约束见[内容结构](schema/README.md)。
 
 ## 单一事实来源
 
 - `questions/`、`interviews/`、`collections/` 和根目录的当前数据 JSON 是公开内容的事实来源。
-- `schema/content.schema.json` 是字段结构、固定值、固定中文显示和供 Web 使用的分组元数据的唯一规则来源。
+- `schema/content.schema.json` 是字段结构、固定值、固定中文显示和分组元数据的唯一规则来源。
 - `INDEX.md` 与 `indexes/*.md` 是生成结果，不能手工维护。
 
 数据目录中只保留符合命名规则的内容文件和一份 `README.md`。
 
 ## 处理内容投稿
 
-题目建议和面经投稿通过 Issue 收集。维护者负责核对内容与来源、整理文件、更新题目关联和索引，并检查网站展示。
+题目建议和面经投稿通过 Issue 收集。维护者负责核对内容与来源、整理文件、更新题目关联和索引。
 
 新增一批题目、调整分类、改变数据结构或导入大量来源材料前，请先通过[结构调整表单](https://github.com/didilili/mianstack/issues/new?template=structure-proposal.yml)说明范围、来源和整理方式。
 
