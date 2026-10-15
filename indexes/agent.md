@@ -4,7 +4,7 @@
 
 运行循环、规划、上下文、记忆、工具协议、工作流与多 Agent。
 
-共 777 道题，分为 12 个专题。
+共 780 道题，分为 12 个专题。
 
 ## 页内导航
 
@@ -29,7 +29,7 @@
 - [Q-0115 Agent 长程任务提前停止时，如何定位和处理？](../questions/Q-0115.md)
 - [Q-0368 自建 Agent 的底层逻辑是什么，用户可以定制哪些内容？](../questions/Q-0368.md)
 - [Q-0419 你认为 Agent 最重要的组成部分有哪些？](../questions/Q-0419.md)
-- [Q-0525 线上运行的轨迹模型如何判断任务已经完成？](../questions/Q-0525.md)
+- [Q-0525 Agent 如何判断任务已经完成？](../questions/Q-0525.md)
 - [Q-0597 Agent 与 LLM 有什么区别？](../questions/Q-0597.md)
 - [Q-0657 只供内部员工使用的 AI 平台是否需要复杂多 Agent 架构？](../questions/Q-0657.md)
 - [Q-0662 你对 RAG 与 Multi-Agent 的认识和迭代过程是什么？](../questions/Q-0662.md)
@@ -200,6 +200,7 @@
 - [Q-4101 你看好 Agent 未来在哪些具体场景和应用方向落地？](../questions/Q-4101.md)
 - [Q-4188 Agent 解决什么问题，为什么选择 Agent 而不是直接调用大模型？](../questions/Q-4188.md)
 - [Q-4254 Skill、Agent、RAG 与 MCP 在完整调用链中如何分工？](../questions/Q-4254.md)
+- [Q-4296 多数据源、多 API 的 Agent 系统如何保证整体效果？](../questions/Q-4296.md)
 
 <a id="topic-3"></a>
 ## 规划、推理与任务执行
@@ -334,6 +335,7 @@
 - [Q-4255 Agent 执行任务时，Skill、MCP 工具和模型能力应按什么顺序加载？](../questions/Q-4255.md)
 - [Q-4271 历史消息膨胀并导致错召回或漏召回时，Context 如何分层与压缩？](../questions/Q-4271.md)
 - [Q-4272 从大上下文模型切换到小上下文模型时，历史 Context 如何迁移或压缩？](../questions/Q-4272.md)
+- [Q-4295 QClaw 与 OpenClaw 的底层上下文管理各有什么特点？](../questions/Q-4295.md)
 
 <a id="topic-5"></a>
 ## 记忆系统
@@ -823,6 +825,7 @@
 - [Q-4112 是否阅读过 Spring AI 官方开发文档，重点了解哪些模块？](../questions/Q-4112.md)
 - [Q-4201 OpenManus 的整体技术架构如何分层，各层职责是什么？](../questions/Q-4201.md)
 - [Q-4231 将 LangGraph 项目迁移到其他 Agent 架构时，需要评估哪些问题？](../questions/Q-4231.md)
+- [Q-4294 LangGraph 是否已经过时，如何判断它的适用性？](../questions/Q-4294.md)
 
 <a id="topic-12"></a>
 ## GUI、Computer Use 与多模态 Agent
