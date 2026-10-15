@@ -4,7 +4,7 @@
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。
 
-共 193 道题，分为 8 个专题。
+共 199 道题，分为 8 个专题。
 
 ## 页内导航
 
@@ -43,6 +43,7 @@
 - [Q-3754 为什么 Attention 能建模长距离依赖？](../questions/Q-3754.md)
 - [Q-4241 Transformer 从接收用户输入到生成输出会经历哪些主要步骤？](../questions/Q-4241.md)
 - [Q-4297 常见 Attention 变体有哪些，Linear Attention 的基本思路是什么？](../questions/Q-4297.md)
+- [Q-4419 Attention 与 Self-Attention 有什么关系和区别？](../questions/Q-4419.md)
 
 <a id="topic-2"></a>
 ## 模型架构与表示
@@ -82,6 +83,7 @@
 - [Q-3715 DeepSeek 的 MTP 机制如何实现？](../questions/Q-3715.md)
 - [Q-3753 LLM 的输入本质是什么？模型如何处理上下文？](../questions/Q-3753.md)
 - [Q-4162 MLA 相比 MHA 有什么优势和代价？](../questions/Q-4162.md)
+- [Q-4368 传统残差连接有什么局限，有哪些改进方向？](../questions/Q-4368.md)
 
 <a id="topic-3"></a>
 ## Tokenizer 与位置编码
@@ -135,6 +137,8 @@
 - [Q-4164 KV Cache 如何离线预计算，并对低频缓存进行卸载和加载？](../questions/Q-4164.md)
 - [Q-4165 KV Cache 还有哪些常见优化技巧？](../questions/Q-4165.md)
 - [Q-4168 模型量化如何实施，为什么选择 GPTQ、QAT 或 W8A16？](../questions/Q-4168.md)
+- [Q-4345 长上下文推理中如何缓解 KV Cache 的内存碎片问题？](../questions/Q-4345.md)
+- [Q-4375 介绍实习中推理框架优化的背景、方案与收益。](../questions/Q-4375.md)
 
 <a id="topic-6"></a>
 ## 多模态与生成模型
@@ -241,3 +245,5 @@
 - [Q-3864 DeepSeek Flash 0731 版本相较此前有哪些提升，如何确认实际使用版本？](../questions/Q-3864.md)
 - [Q-3904 中文 Agent 场景下，如何综合成本与准确率选择模型？](../questions/Q-3904.md)
 - [Q-4151 项目为什么选择阿里系大模型，如何完成模型选型？](../questions/Q-4151.md)
+- [Q-4369 模型参数量中的 B 是什么，如何根据业务选择参数规模？](../questions/Q-4369.md)
+- [Q-4370 对话型模型与推理型模型有什么区别，各适用于哪些场景？](../questions/Q-4370.md)
