@@ -10,8 +10,8 @@
 
 <p>
   <a href="INDEX.md"><img alt="4,000+ 道面试题" src="https://img.shields.io/badge/面试题-4%2C000%2B-FF6000?style=flat-square"></a>
-  <a href="indexes/interviews.md"><img alt="600+ 篇来源档案" src="https://img.shields.io/badge/来源档案-600%2B-FF6000?style=flat-square"></a>
-  <a href="INDEX.md#current-content"><img alt="10,000+ 条提问记录" src="https://img.shields.io/badge/提问记录-10%2C000%2B-FF6000?style=flat-square"></a>
+  <a href="indexes/interviews.md"><img alt="600+ 篇真实面经" src="https://img.shields.io/badge/真实面经-600%2B-FF6000?style=flat-square"></a>
+  <a href="INDEX.md#current-content"><img alt="10,000+ 次真实提问" src="https://img.shields.io/badge/真实提问-10%2C000%2B-FF6000?style=flat-square"></a>
   <a href="https://mianstack.com/company/"><img alt="150+ 家公司" src="https://img.shields.io/badge/公司-150%2B-FF6000?style=flat-square"></a>
   <a href="#knowledge-directions"><img alt="8 个知识方向" src="https://img.shields.io/badge/知识方向-8-2D333B?style=flat-square"></a>
 </p>
@@ -126,6 +126,8 @@ mianstack/
 ├── aliases.json     # 旧题号对应的新题号
 └── publishers.json  # 公开题集发布者
 ```
+
+题号固定，不会重新排序或重复使用。公开题集单独整理，也能按知识点一起复习。最新收录数量见[当前内容](INDEX.md#current-content)。
 
 使用这些数据开发检索、复习工具或阅读网站，见[数据使用说明](USAGE.md)。字段与维护方式见[字段说明](schema/README.md)、[维护说明](MAINTAINING.md)和[变更记录](CHANGELOG.md)。
 

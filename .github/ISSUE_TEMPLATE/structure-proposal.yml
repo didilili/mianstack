@@ -32,15 +32,11 @@ body:
   - type: textarea
     id: migration
     attributes:
-      label: 兼容与迁移方案
-      description: 说明现有编号、引用和索引如何衔接，以及对网站展示的影响。
-    validations:
-      required: true
+      label: 兼容与迁移思路（可选）
+      description: 如果涉及现有内容，可以说明编号、引用、索引和网站展示怎样衔接；暂时不确定也可以一起讨论。
 
   - type: textarea
     id: verification
     attributes:
-      label: 验证方式
-      description: 说明如何检查内容、索引和受影响的网站页面。
-    validations:
-      required: true
+      label: 验证思路（可选）
+      description: 如果已有想法，可以说明准备怎样检查结果。

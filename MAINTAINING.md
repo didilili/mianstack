@@ -16,7 +16,7 @@
 
 题目建议和面经投稿通过 Issue 收集。维护者负责核对内容与来源、整理文件、更新题目关联和索引。
 
-新增一批题目、调整分类、改变数据结构或导入大量来源材料前，请先通过[结构调整表单](https://github.com/didilili/mianstack/issues/new?template=structure-proposal.yml)说明范围、来源和整理方式。
+大批量导入、分类调整或数据结构变更，可以通过[结构调整表单](https://github.com/didilili/mianstack/issues/new?template=structure-proposal.yml)先交流思路，方便一起确定整理方式。
 
 熟悉项目的协作者仍可通过 Pull Request 修改仓库文件。请说明修改了什么、为什么改、内容来源和检查结果；尽量让一次修改只解决一类问题。
 
@@ -25,6 +25,7 @@
 - 题目使用 `Q-*` 编号，面经使用 `MJ-NC-*` 或 `MJ-XHS-*`，公开题集使用 `COL-*`；具体格式见[内容结构](schema/README.md)。
 - 已使用的 ID 不重排、不复用。
 - 合并题目时，将旧 ID 写入 `aliases.json` 并解释原因；同时更新所有引用。
+- 删除题目、面经或题集时，同步处理已有引用，并在变更说明中写清原因；影响范围较大时，可以先通过 Issue 交流。
 - 发现计数或引用不一致时，核对并修复对应源文件。
 
 ## 新增面经和题目
