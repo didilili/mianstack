@@ -20,7 +20,7 @@
 <a id="topic-1"></a>
 ## Transformer 与注意力
 
-- [Q-0036 Transformer 中的 Attention 如何计算？](../questions/Q-0036.md)
+- [Q-0036 Transformer 中的 Attention 如何计算？](../questions/Q-0036.md) · **已有答案**
 - [Q-0268 Self-Attention 为何利于并行训练，与 RNN 相比有哪些局限？](../questions/Q-0268.md)
 - [Q-0572 Self-Attention 为什么需要 Scaling？](../questions/Q-0572.md)
 - [Q-0575 手写 Multi-Head Attention。](../questions/Q-0575.md)
