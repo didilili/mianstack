@@ -46,6 +46,7 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 | `originalTitle`     | 原帖标题       | string   | 可为空                                                                                       |
 | `contexts`          | 公司与岗位记录 | object[] | 每项使用下表字段                                                                             |
 | `publishedAt`       | 发布时间       | datetime | 可选；日期可带时分秒                                                                         |
+| `lastCheckedAt`     | 最近回源日期   | date     | 可选；实际核对来源的日期，`YYYY-MM-DD`；没有核验记录时省略                                   |
 | `publicationRegion` | 发布地         | string   | 可选；只表示内容发布地区                                                                     |
 | `author`            | 作者           | string   | 来源署名                                                                                     |
 | `url`               | 原帖链接       | URL      | 必须是 HTTP(S) 地址                                                                          |
@@ -96,6 +97,8 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 
 原帖正文能够完整核验时，来源正文使用统一章节：`## 原帖正文` 为必需章节；只有确有内容时才增加 `## 有价值评论`。原帖图片文件、远程图片链接和 `## 图片` 章节不进入 corpus；图片含有正文之外的有效面试信息时，只把对照原图核验后的文字保存进 `## 原帖正文`，并在 `curationNote` 标明文字来源和原图不入库。为兼容已经公开的原帖定位链接，可以在正文前保留一个 `<a id="…"></a>` 锚点。不要把采集页码、编辑摘要、迁移说明或空占位章节写入内容文件。
+
+上述章节检查同时适用于牛客和小红书。“完整可用”与“部分可用”的来源必须保留非空的原帖正文；空引用行不算正文。确实没有取得原文时使用“不可用”，在 `statusReason` 与 `curationNote` 说明原因和已核对范围，不用占位文字冒充原文。所有要求非空的字符串至少包含一个非空白字符。
 
 来源正文应保留署名和原始链接；来源要求与反馈方式见[贡献指南](../CONTRIBUTING.md#sources-and-attribution)，许可范围见[贡献许可](../CONTRIBUTING.md#contribution-license)。
 
