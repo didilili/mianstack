@@ -6,7 +6,8 @@
   "$defs": {
     "nonEmptyString": {
       "type": "string",
-      "minLength": 1
+      "minLength": 1,
+      "pattern": "\\S"
     },
     "date": {
       "type": "string",
@@ -661,6 +662,10 @@
         "publishedAt": {
           "$ref": "#/$defs/publishedAt",
           "title": "发布时间"
+        },
+        "lastCheckedAt": {
+          "$ref": "#/$defs/date",
+          "title": "最近回源日期"
         },
         "publicationRegion": {
           "$ref": "#/$defs/nonEmptyString",
