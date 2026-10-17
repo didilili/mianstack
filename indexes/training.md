@@ -111,7 +111,7 @@
 <a id="topic-3"></a>
 ## 参数高效微调
 
-- [Q-0168 LoRA 的原理、常见超参数与注入模块是什么？](../questions/Q-0168.md)
+- [Q-0168 LoRA 的原理、常见超参数与注入模块是什么？](../questions/Q-0168.md) · **已有答案**
 - [Q-0539 LoRA 效果不好时如何定位和改进？](../questions/Q-0539.md)
 - [Q-0541 LoRA 有哪些缺点和改进方向？](../questions/Q-0541.md)
 - [Q-0574 Transformer 中有哪些 LoRA 变体？](../questions/Q-0574.md)
