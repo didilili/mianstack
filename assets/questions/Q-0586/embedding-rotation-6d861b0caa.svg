@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="1120" viewBox="0 0 390 1120" role="img" aria-labelledby="title desc">
+<title id="title">坐标变了，几何关系仍可不变</title><desc id="desc">在同一二维坐标系内，把a=(0.8,0.6)与b=(1,0)同时逆时针旋转90度，得到a-prime=(-0.6,0.8)与b-prime=(0,1)。两组内积均0.8，范数均1，夹角相同。坐标方向、比例准确。此为数学教学示例，不是真实Embedding降维实测，也不为单个维度规定固定语义。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="context-stroke"/></marker></defs>
+<style>text{font-family:PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif;fill:#172536} .small{font-size:16px} .muted{fill:#526171} .bold{font-weight:650}</style>
+<rect width="390" height="100%" fill="#fff"/>
+<text x="20" y="38" font-size="23" font-weight="700">坐标变了，关系仍可不变</text>
+<text x="20" y="72" font-size="17" style="fill:#526171">同一坐标系内，两个向量一起旋转</text>
+<text x="20" y="98" font-size="17" style="fill:#526171">逆时针 90°：R(x, y) = (−y, x)</text>
+<rect x="16" y="124" width="358" height="326" rx="12" fill="#f7f9fc" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="29" y="157" font-size="20" font-weight="650">旋转前：a · b = 0.8</text>
+<line x1="105" y1="203" x2="105" y2="411" stroke="#e7edf4" stroke-width="1"/>
+<line x1="91" y1="397" x2="299" y2="397" stroke="#e7edf4" stroke-width="1"/>
+<line x1="285" y1="203" x2="285" y2="411" stroke="#e7edf4" stroke-width="1"/>
+<line x1="91" y1="217" x2="299" y2="217" stroke="#e7edf4" stroke-width="1"/>
+<line x1="84" y1="307" x2="308" y2="307" stroke="#8b98a9" stroke-width="1.4" marker-end="url(#arrow)"/>
+<line x1="195" y1="417" x2="195" y2="196" stroke="#8b98a9" stroke-width="1.4" marker-end="url(#arrow)"/>
+<text x="314" y="312" font-size="16" style="fill:#526171">x</text>
+<text x="204" y="193" font-size="16" style="fill:#526171">y</text>
+<line x1="105" y1="303" x2="105" y2="311" stroke="#8b98a9" stroke-width="1.1"/>
+<text x="105" y="329" font-size="15" style="fill:#526171" text-anchor="middle">-1</text>
+<line x1="191" y1="397" x2="199" y2="397" stroke="#8b98a9" stroke-width="1.1"/>
+<text x="183" y="402" font-size="15" style="fill:#526171" text-anchor="end">-1</text>
+<line x1="285" y1="303" x2="285" y2="311" stroke="#8b98a9" stroke-width="1.1"/>
+<text x="285" y="329" font-size="15" style="fill:#526171" text-anchor="middle">1</text>
+<line x1="191" y1="217" x2="199" y2="217" stroke="#8b98a9" stroke-width="1.1"/>
+<text x="183" y="222" font-size="15" style="fill:#526171" text-anchor="end">1</text>
+<text x="182" y="330" font-size="15" style="fill:#526171" text-anchor="end">0</text>
+<line x1="195" y1="307" x2="267.0" y2="253.0" stroke="#c95013" stroke-width="3" marker-end="url(#arrow)" id="original-a"/>
+<line x1="195" y1="307" x2="285" y2="307" stroke="#205bc6" stroke-width="3" marker-end="url(#arrow)" id="original-b"/>
+<text x="218" y="242" font-size="17" style="fill:#c95013" font-weight="650">a=(0.8,0.6)</text>
+<text x="251" y="356" font-size="17" style="fill:#205bc6" font-weight="650">b=(1,0)</text>
+<line x1="195" y1="455" x2="195" y2="487" stroke="#205bc6" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="229" y="477" font-size="17" style="fill:#205bc6">同转 90°</text>
+<rect x="16" y="506" width="358" height="326" rx="12" fill="#f7f9fc" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="29" y="539" font-size="20" font-weight="650">旋转后：a′ · b′ = 0.8</text>
+<line x1="105" y1="585" x2="105" y2="793" stroke="#e7edf4" stroke-width="1"/>
+<line x1="91" y1="779" x2="299" y2="779" stroke="#e7edf4" stroke-width="1"/>
+<line x1="285" y1="585" x2="285" y2="793" stroke="#e7edf4" stroke-width="1"/>
+<line x1="91" y1="599" x2="299" y2="599" stroke="#e7edf4" stroke-width="1"/>
+<line x1="84" y1="689" x2="308" y2="689" stroke="#8b98a9" stroke-width="1.4" marker-end="url(#arrow)"/>
+<line x1="195" y1="799" x2="195" y2="578" stroke="#8b98a9" stroke-width="1.4" marker-end="url(#arrow)"/>
+<text x="314" y="694" font-size="16" style="fill:#526171">x</text>
+<text x="204" y="575" font-size="16" style="fill:#526171">y</text>
+<line x1="105" y1="685" x2="105" y2="693" stroke="#8b98a9" stroke-width="1.1"/>
+<text x="105" y="711" font-size="15" style="fill:#526171" text-anchor="middle">-1</text>
+<line x1="191" y1="779" x2="199" y2="779" stroke="#8b98a9" stroke-width="1.1"/>
+<text x="183" y="784" font-size="15" style="fill:#526171" text-anchor="end">-1</text>
+<line x1="285" y1="685" x2="285" y2="693" stroke="#8b98a9" stroke-width="1.1"/>
+<text x="285" y="711" font-size="15" style="fill:#526171" text-anchor="middle">1</text>
+<line x1="191" y1="599" x2="199" y2="599" stroke="#8b98a9" stroke-width="1.1"/>
+<text x="183" y="604" font-size="15" style="fill:#526171" text-anchor="end">1</text>
+<text x="182" y="712" font-size="15" style="fill:#526171" text-anchor="end">0</text>
+<line x1="195" y1="689" x2="141.0" y2="617.0" stroke="#c95013" stroke-width="3" marker-end="url(#arrow)" id="rotated-a"/>
+<line x1="195" y1="689" x2="195" y2="599" stroke="#205bc6" stroke-width="3" marker-end="url(#arrow)" id="rotated-b"/>
+<text x="36" y="599" font-size="17" style="fill:#c95013" font-weight="650">a′=(−0.6,0.8)</text>
+<text x="208" y="597" font-size="17" style="fill:#205bc6" font-weight="650">b′=(0,1)</text>
+<rect x="16" y="862" width="358" height="151" rx="12" fill="#eef9f3" stroke="#a9d2bd" stroke-width="1.4"/>
+<text x="29" y="896" font-size="20" style="fill:#12694c" font-weight="650">内积不变：两次都是 0.8</text>
+<text x="29" y="931" font-size="17">旋转前：0.8×1 + 0.6×0 = 0.8</text>
+<text x="29" y="963" font-size="17">旋转后：(−0.6)×0 + 0.8×1 = 0.8</text>
+<text x="20" y="1051" font-size="16" style="fill:#526171">坐标改变，范数、夹角与内积保留。</text>
+<text x="20" y="1077" font-size="16" style="fill:#526171">单个坐标轴没有天然固定的语义标签。</text>
+<text x="20" y="1103" font-size="16" style="fill:#526171">二维数学示例；不是文本向量的实测图。</text>
+</svg>
