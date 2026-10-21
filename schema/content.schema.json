@@ -374,6 +374,20 @@
         "company": "企业整理"
       }
     },
+    "collectionAttributionRole": {
+      "title": "来源署名角色",
+      "type": "string",
+      "enum": [
+        "author",
+        "question_source",
+        "compiler_responder"
+      ],
+      "x-enumLabels": {
+        "author": "原文作者",
+        "question_source": "题目来源",
+        "compiler_responder": "整理与回答"
+      }
+    },
     "collectionKind": {
       "title": "题集类型",
       "type": "string",
@@ -675,6 +689,10 @@
           "$ref": "#/$defs/nonEmptyString",
           "title": "作者"
         },
+        "authorUrl": {
+          "$ref": "#/$defs/httpUrl",
+          "title": "作者主页"
+        },
         "url": {
           "$ref": "#/$defs/httpUrl",
           "title": "原帖链接"
@@ -772,7 +790,6 @@
         "id",
         "name",
         "type",
-        "homepage",
         "updatedAt"
       ],
       "properties": {
@@ -784,12 +801,40 @@
           "$ref": "#/$defs/nonEmptyString",
           "title": "整理者名称"
         },
+        "handle": {
+          "type": "string",
+          "title": "作者英文标识",
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+        },
+        "nickname": {
+          "$ref": "#/$defs/nonEmptyString",
+          "title": "昵称"
+        },
         "type": {
           "$ref": "#/$defs/publisherType"
         },
         "homepage": {
           "$ref": "#/$defs/httpUrl",
-          "title": "作者主页"
+          "title": "其他网站或社交主页",
+          "not": {
+            "type": "string",
+            "pattern": "^[Hh][Tt][Tt][Pp][Ss]?://(?:[^/?#@]*@)?(?:[Ww][Ww][Ww]\\.)?[Gg][Ii][Tt][Hh][Uu][Bb]\\.[Cc][Oo][Mm]\\.?(?:[:/?#]|$)"
+          }
+        },
+        "githubHomepage": {
+          "type": "string",
+          "title": "GitHub 作者或组织主页",
+          "pattern": "^https://github\\.com/[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?/$"
+        },
+        "githubRepositories": {
+          "type": "array",
+          "title": "GitHub 题集仓库主页",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^https://github\\.com/[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?/(?!\\.{1,2}$)[A-Za-z0-9_.-]+$"
+          }
         },
         "avatarUrl": {
           "$ref": "#/$defs/httpUrl",
@@ -829,7 +874,7 @@
         },
         "reviewNote": {
           "type": "string",
-          "title": "审核说明"
+          "title": "题目补充说明"
         }
       },
       "allOf": [
@@ -888,6 +933,51 @@
         "sourceUrl": {
           "$ref": "#/$defs/httpUrl",
           "title": "原题集链接"
+        },
+        "coverage": {
+          "type": "array",
+          "title": "覆盖方向",
+          "description": "题集内容涉及的知识分类，可同时覆盖多个方向。",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/categoryId"
+          }
+        },
+        "sourceAttribution": {
+          "type": "object",
+          "title": "来源署名",
+          "additionalProperties": false,
+          "required": [
+            "name"
+          ],
+          "properties": {
+            "name": {
+              "$ref": "#/$defs/nonEmptyString",
+              "title": "署名"
+            },
+            "url": {
+              "$ref": "#/$defs/httpUrl",
+              "title": "署名链接"
+            },
+            "role": {
+              "$ref": "#/$defs/collectionAttributionRole"
+            },
+            "scope": {
+              "$ref": "#/$defs/nonEmptyString",
+              "title": "署名适用范围"
+            },
+            "itemIds": {
+              "type": "array",
+              "title": "署名对应条目",
+              "description": "仅列出署名适用的本题集条目；省略时适用于全题集。",
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "$ref": "#/$defs/nonEmptyString"
+              }
+            }
+          }
         },
         "sourceKind": {
           "$ref": "#/$defs/collectionKind"

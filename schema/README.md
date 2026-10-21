@@ -49,13 +49,14 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 | `lastCheckedAt`     | 最近回源日期   | date     | 可选；实际核对来源的日期，`YYYY-MM-DD`；没有核验记录时省略                                   |
 | `publicationRegion` | 发布地         | string   | 可选；只表示内容发布地区                                                                     |
 | `author`            | 作者           | string   | 来源署名                                                                                     |
+| `authorUrl`         | 作者主页       | URL      | 可选；原帖作者在来源平台的账号主页，用于区分同名作者                                         |
 | `url`               | 原帖链接       | URL      | 必须是 HTTP(S) 地址                                                                          |
 | `contentType`       | 内容类型       | enum     | 取值见 schema 的 `interviewContentType`                                                      |
 | `result`            | 面试结果       | string   | 可选；有内容时填写                                                                           |
 | `sourceStatus`      | 来源状态       | enum     | 取值见 schema 的 `interviewSourceStatus`；只描述来源材料的可用性                             |
 | `statusReason`      | 状态原因       | enum     | 可选；记录不可用、重复或待核实的明确原因                                                     |
 | `curationStatus`    | 整理状态       | enum     | 取值见 schema 的 `interviewCurationStatus`；只描述内容整理进度                               |
-| `curationNote`      | 整理说明       | string   | 可为空；记录整理依据、缺口和边界                                                             |
+| `curationNote`      | 整理说明       | string   | 可为空；补充影响理解的来源差异、内容缺失或冲突                                               |
 | `updatedAt`         | 更新时间       | date     | `YYYY-MM-DD`                                                                                 |
 
 | ---------------- | -------- | --------------------------------------------------------------- |
@@ -96,9 +97,9 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 
 frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 
-原帖正文能够完整核验时，来源正文使用统一章节：`## 原帖正文` 为必需章节；只有确有内容时才增加 `## 有价值评论`。原帖图片文件、远程图片链接和 `## 图片` 章节不进入 corpus；图片含有正文之外的有效面试信息时，只把对照原图核验后的文字保存进 `## 原帖正文`，并在 `curationNote` 标明文字来源和原图不入库。为兼容已经公开的原帖定位链接，可以在正文前保留一个 `<a id="…"></a>` 锚点。不要把采集页码、编辑摘要、迁移说明或空占位章节写入内容文件。
+原帖正文能够完整核验时，来源正文使用统一章节：`## 原帖正文` 为必需章节；只有确有内容时才增加 `## 有价值评论`。原帖图片文件、远程图片链接和 `## 图片` 章节不进入 corpus；图片含有正文之外的有效面试信息时，只把对照原图核验后的文字保存进 `## 原帖正文`，需要区分出处时在引用外简短标明。为兼容已经公开的原帖定位链接，可以在正文前保留一个 `<a id="…"></a>` 锚点。不要把采集页码、编辑摘要、迁移说明或空占位章节写入内容文件。
 
-上述章节检查同时适用于牛客和小红书。“完整可用”与“部分可用”的来源必须保留非空的原帖正文；空引用行不算正文。确实没有取得原文时使用“不可用”，在 `statusReason` 与 `curationNote` 说明原因和已核对范围，不用占位文字冒充原文。所有要求非空的字符串至少包含一个非空白字符。
+上述章节检查同时适用于牛客和小红书。“完整可用”与“部分可用”的来源必须保留非空的原帖正文；空引用行不算正文。确实没有取得原文时使用“不可用”，在 `statusReason` 记录原因；`curationNote` 可补充必要的材料缺口，没有额外说明时留空，不用占位文字冒充原文。所有要求非空的字符串至少包含一个非空白字符。
 
 来源正文应保留署名和原始链接；来源要求与反馈方式见[贡献指南](../CONTRIBUTING.md#sources-and-attribution)，许可范围见[贡献许可](../CONTRIBUTING.md#contribution-license)。
 
@@ -127,14 +128,18 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 
 ### 整理者 `publishers.json`
 
-| 字段        | 固定中文名称 | 类型   | 约束                                   |
-| ----------- | ------------ | ------ | -------------------------------------- |
-| `id`        | 整理者编号   | string | 格式 `PUB-*`                           |
-| `name`      | 整理者名称   | string | Web 展示名称                           |
-| `type`      | 整理者类型   | enum   | 取值和显示见 schema 的 `publisherType` |
-| `homepage`  | 作者主页     | URL    | 必须是 HTTP(S) 地址                    |
-| `avatarUrl` | 头像地址     | URL    | 可选；使用整理者公开提供的头像         |
-| `updatedAt` | 更新时间     | date   | `YYYY-MM-DD`                           |
+| 字段                 | 固定中文名称          | 类型   | 约束                                                                        |
+| -------------------- | --------------------- | ------ | --------------------------------------------------------------------------- |
+| `id`                 | 整理者编号            | string | 格式 `PUB-*`                                                                |
+| `name`               | 整理者名称            | string | Web 展示名称                                                                |
+| `handle`             | 作者英文标识          | string | 可选；单路径段格式见 schema，跨作者不区分大小写唯一，URL 保留原大小写       |
+| `nickname`           | 昵称                  | string | 可选；整理者公开使用的非空昵称                                              |
+| `type`               | 整理者类型            | enum   | 取值和显示见 schema 的 `publisherType`                                      |
+| `githubHomepage`     | GitHub 作者或组织主页 | URL    | 可选；规范 HTTPS GitHub 主页，格式约束见 schema                             |
+| `githubRepositories` | GitHub 题集仓库主页   | URL[]  | 可选；非空、去重的规范 GitHub 仓库主页，格式约束见 schema；无已知仓库时省略 |
+| `homepage`           | 其他网站或社交主页    | URL    | 可选；HTTP(S) 地址，GitHub 主页使用 `githubHomepage`                        |
+| `avatarUrl`          | 头像地址              | URL    | 可选；使用整理者公开提供的头像                                              |
+| `updatedAt`          | 更新时间              | date   | `YYYY-MM-DD`                                                                |
 
 `type` 的取值和固定中文显示统一定义在 schema 的 `publisherType` 中。
 
@@ -146,6 +151,7 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 | `publisherId`       | 整理者编号     | string   | 必须指向 `publishers.json` 中的现有整理者 |
 | `title`             | 题集名称       | string   | Web 展示标题                              |
 | `sourceUrl`         | 原题集链接     | URL      | 必须是 HTTP(S) 地址                       |
+| `sourceAttribution` | 来源署名       | object   | 可选；署名、角色、适用范围及其链接        |
 | `sourceKind`        | 题集类型       | enum     | 取值见 schema 的 `collectionKind`         |
 | `access`            | 访问范围       | enum     | 取值和显示见 schema 的 `collectionAccess` |
 | `declaredItemCount` | 原页面标注题数 | integer  | 可选的非负整数；可与当前收录数不同        |
@@ -153,14 +159,17 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 | `lastCheckedAt`     | 最近复核日期   | date     | `YYYY-MM-DD`                              |
 | `verification`      | 来源核验方式   | enum     | 取值见 schema 的 `collectionVerification` |
 | `sourceClaim`       | 来源声明       | string   | 记录发布者声明及本站核验边界              |
+| `coverage`          | 覆盖方向       | string[] | 可选；非空、无重复，引用现有知识分类 ID   |
 | `items`             | 题集条目       | object[] | 按原题顺序保存                            |
+
+`sourceAttribution.name` 必填且非空，只保存人名或品牌名；`url` 为可选 HTTP(S) 链接。可选的 `role` 取值和中文名称统一定义在 schema 的 `collectionAttributionRole` 中，区分原文作者、题目来源、整理与回答。可选的 `scope` 为非空的读者范围说明；`itemIds` 如提供，必须是非空、无重复且仅引用本题集条目的数组，省略时适用于全题集。只有 `name` 或 `name`、`url` 的旧署名对象继续有效。来源署名与题集的收录整理者区分。
 
 `items[]` 的字段：
 
-| 字段            | 固定中文名称 | 类型     | 约束                                      |
-| --------------- | ------------ | -------- | ----------------------------------------- |
-| `id`            | 题集条目编号 | string   | 格式为题集编号加三位序号                  |
-| `originalTitle` | 原题标题     | string   | 保留来源中的题目标题                      |
-| `sourceUrl`     | 原题链接     | URL      | 必须是 HTTP(S) 地址                       |
-| `reviewStatus`  | 原题审核状态 | enum     | 取值见 schema 的 `collectionReviewStatus` |
-| `reviewNote`    | 审核说明     | string   | 可选；只在需要解释人工审核结论时填写      |
+| 字段            | 固定中文名称 | 类型     | 约束                                            |
+| --------------- | ------------ | -------- | ----------------------------------------------- |
+| `id`            | 题集条目编号 | string   | 格式为题集编号加三位序号                        |
+| `originalTitle` | 原题标题     | string   | 保留来源中的题目标题                            |
+| `sourceUrl`     | 原题链接     | URL      | 必须是 HTTP(S) 地址                             |
+| `reviewStatus`  | 原题审核状态 | enum     | 取值见 schema 的 `collectionReviewStatus`       |
+| `reviewNote`    | 题目补充说明 | string   | 可选；说明题意缺口、适用范围或技术注意事项      |
