@@ -2,30 +2,132 @@
   {
     "id": "PUB-XL",
     "name": "小林 Coding",
+    "handle": "xiaolincoder",
     "type": "individual_brand",
     "homepage": "https://www.xiaolincoding.com/",
-    "updatedAt": "2026-09-13"
+    "githubHomepage": "https://github.com/xiaolincoder/",
+    "githubRepositories": ["https://github.com/xiaolincoder/CS-Base"],
+    "updatedAt": "2026-10-20"
   },
   {
     "id": "PUB-WB",
     "name": "小熊饼干_",
+    "handle": "daydayjuanjuan",
     "type": "individual",
-    "homepage": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#PMYjdlz92oR1K3xhSfdchWkmn9b",
-    "updatedAt": "2026-09-14"
+    "homepage": "https://www.xiaohongshu.com/user/profile/64b2a9800000000025035d64",
+    "updatedAt": "2026-10-20"
   },
   {
     "id": "PUB-MYL",
     "name": "摸鱼酱mio",
+    "nickname": "mio",
     "type": "individual_brand",
-    "homepage": "https://www.yuque.com/camellia-6ti1v",
-    "updatedAt": "2026-09-14"
+    "homepage": "https://www.xiaohongshu.com/user/profile/69d7ce3e000000003402eb7b",
+    "updatedAt": "2026-10-20"
   },
   {
     "id": "PUB-DIDILILI",
     "name": "didilili",
+    "handle": "didilili",
     "type": "individual",
-    "homepage": "https://github.com/didilili/ai-agents-from-zero",
+    "githubHomepage": "https://github.com/didilili/",
+    "githubRepositories": ["https://github.com/didilili/ai-agents-from-zero"],
     "avatarUrl": "https://avatars.githubusercontent.com/u/49889928?v=4",
-    "updatedAt": "2026-09-24"
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "PUB-JAVAGUIDE",
+    "name": "Guide",
+    "handle": "Snailclimb",
+    "type": "individual_brand",
+    "githubHomepage": "https://github.com/Snailclimb/",
+    "githubRepositories": ["https://github.com/Snailclimb/JavaGuide"],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29880145?v=4",
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "PUB-AGENTGUIDE",
+    "name": "阿东玩 AI",
+    "handle": "Adong",
+    "type": "individual_brand",
+    "githubHomepage": "https://github.com/adongwanai/",
+    "githubRepositories": ["https://github.com/adongwanai/AgentGuide"],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54011546?v=4",
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "PUB-DATAWHALE",
+    "name": "Datawhale",
+    "handle": "datawhalechina",
+    "type": "community",
+    "githubHomepage": "https://github.com/datawhalechina/",
+    "githubRepositories": [
+      "https://github.com/datawhalechina/daily-interview",
+      "https://github.com/datawhalechina/hello-agents"
+    ],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46047812?v=4",
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "PUB-ONEFLY",
+    "name": "Onefly",
+    "handle": "ranxi2001",
+    "type": "individual",
+    "githubHomepage": "https://github.com/ranxi2001/",
+    "githubRepositories": ["https://github.com/ranxi2001/zero2Agent"],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77790009?v=4",
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "PUB-AMIT-SHEKHAR",
+    "name": "AMIT SHEKHAR",
+    "handle": "amitshekhariitbhu",
+    "type": "individual",
+    "githubHomepage": "https://github.com/amitshekhariitbhu/",
+    "githubRepositories": [
+      "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions"
+    ],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9877145?v=4",
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "PUB-BBRUCEYUAN",
+    "name": "Chaofa Yuan",
+    "handle": "bbruceyuan",
+    "type": "individual_brand",
+    "githubHomepage": "https://github.com/bbruceyuan/",
+    "githubRepositories": ["https://github.com/bbruceyuan/AI-Interview-Code"],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16234167?v=4",
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "PUB-WDNDEV",
+    "name": "Firefly",
+    "handle": "wdndev",
+    "type": "individual",
+    "githubHomepage": "https://github.com/wdndev/",
+    "githubRepositories": ["https://github.com/wdndev/llm_interview_note"],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83126264?v=4",
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "PUB-WETHINKIN",
+    "name": "Rocky Ding",
+    "handle": "WeThinkIn",
+    "type": "individual_brand",
+    "githubHomepage": "https://github.com/WeThinkIn/",
+    "githubRepositories": ["https://github.com/WeThinkIn/AIGC-Interview-Book"],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48612300?v=4",
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "PUB-AIMLINTERVIEWS",
+    "name": "Alireza Dirafzoon",
+    "handle": "alirezadir",
+    "type": "individual_brand",
+    "githubHomepage": "https://github.com/alirezadir/",
+    "githubRepositories": ["https://github.com/alirezadir/AIMLInterviews"],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5262877?v=4",
+    "updatedAt": "2026-10-20"
   }
 ]
