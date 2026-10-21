@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="990" viewBox="0 0 390 990" role="img" aria-labelledby="title desc">
+<title id="title">同一省略号图标需要界面语境</title><desc id="desc">两幅非真实项目的界面示意：订单行与会话行使用完全相同的省略号，页面标题、对象和邻近文本不同，展开后的动作也不同。只看局部图标不能唯一确定语义。</desc>
+<style>text{font-family:"PingFang SC","Microsoft YaHei",Arial,sans-serif}</style>
+<rect width="390" height="990" fill="#f5f7fb"/>
+<defs><g id="more"><rect width="38" height="38" rx="9" fill="#eef2f7" stroke="#c6d0dd"/><text x="19" y="26" text-anchor="middle" font-size="27" font-weight="700" fill="#26364c">…</text></g></defs>
+<text x="20" y="39" font-size="26" fill="#26364c" font-weight="700">同一个省略号</text>
+<text x="20" y="73" font-size="26" fill="#26364c" font-weight="700">语义要看界面语境</text>
+<text x="20" y="102" font-size="15" fill="#596b82" font-weight="400">界面示意 · 非真实项目 UI</text>
+<rect x="20" y="124" width="350" height="304" rx="12" fill="#fff" stroke="#dce3ed"/>
+<text x="36" y="151" font-size="14" fill="#315cc5" font-weight="600">界面示意 A</text>
+<text x="36" y="183" font-size="22" fill="#26364c" font-weight="700">订单管理</text>
+<rect x="34" y="202" width="322" height="79" rx="8" fill="#f7f9fc" stroke="#e1e7ef"/>
+<text x="48" y="231" font-size="18" fill="#26364c" font-weight="600">订单 A104</text>
+<text x="48" y="259" font-size="15" fill="#596b82" font-weight="400">待发货 · 收货人 林女士</text>
+<use href="#more" x="306" y="218"/>
+<text x="36" y="306" font-size="14" fill="#596b82" font-weight="400">展开后的动作（示意）</text>
+<rect x="178" y="289" width="166" height="86" rx="8" fill="#eef4ff" stroke="#bdcef5"/>
+<text x="194" y="321" font-size="18" fill="#26364c" font-weight="400">查看订单</text>
+<text x="194" y="356" font-size="18" fill="#26364c" font-weight="400">联系买家</text>
+<text x="36" y="406" font-size="16" fill="#315cc5" font-weight="400">语境：订单号、发货状态</text>
+<rect x="20" y="448" width="350" height="304" rx="12" fill="#fff" stroke="#dce3ed"/>
+<text x="36" y="475" font-size="14" fill="#315cc5" font-weight="600">界面示意 B</text>
+<text x="36" y="507" font-size="22" fill="#26364c" font-weight="700">会话列表</text>
+<rect x="34" y="526" width="322" height="79" rx="8" fill="#f7f9fc" stroke="#e1e7ef"/>
+<text x="48" y="555" font-size="18" fill="#26364c" font-weight="600">林女士</text>
+<text x="48" y="583" font-size="15" fill="#596b82" font-weight="400">关于订单 A104 的咨询</text>
+<use href="#more" x="306" y="542"/>
+<text x="36" y="630" font-size="14" fill="#596b82" font-weight="400">展开后的动作（示意）</text>
+<rect x="178" y="613" width="166" height="86" rx="8" fill="#eef4ff" stroke="#bdcef5"/>
+<text x="194" y="645" font-size="18" fill="#26364c" font-weight="400">置顶会话</text>
+<text x="194" y="680" font-size="18" fill="#26364c" font-weight="400">标记未读</text>
+<text x="36" y="730" font-size="16" fill="#315cc5" font-weight="400">语境：联系人、聊天摘要</text>
+<rect x="20" y="774" width="350" height="174" rx="12" fill="#edf2f9" stroke="#d0dbea"/>
+<text x="36" y="807" font-size="20" fill="#26364c" font-weight="700">只看局部裁剪</text>
+<use href="#more" x="104" y="827"/>
+<use href="#more" x="248" y="827"/>
+<text x="123" y="888" font-size="15" fill="#596b82" font-weight="400" text-anchor="middle">订单行</text>
+<text x="267" y="888" font-size="15" fill="#596b82" font-weight="400" text-anchor="middle">会话行</text>
+<text x="36" y="922" font-size="17" fill="#26364c" font-weight="600">图标相同，不能唯一判定动作</text>
+<text x="20" y="976" font-size="16" fill="#596b82" font-weight="400">对象、标题、邻近文本共同消解歧义</text>
+</svg>

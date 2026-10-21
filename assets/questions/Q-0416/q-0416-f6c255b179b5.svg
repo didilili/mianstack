@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="610" viewBox="0 0 380 610" role="img" aria-labelledby="title desc">
+  <title id="title">MCP 的 Host、Client 与 Server 关系</title>
+  <desc id="desc">MCP Client 位于 Host 应用内部，向外部 MCP Server 发现能力并发送调用，接收结果或错误。Server 再访问天气 API、数据库或文件。图中展示单条连接；同一 Host 可以通过多个 Client 连接多个 Server。</desc>
+  <defs>
+    <marker id="request" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#bb4a16"/></marker>
+    <marker id="response" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#346783"/></marker>
+    <marker id="access" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+  </defs>
+  <rect width="380" height="610" fill="#fff"/>
+  <g fill="#252525" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16">
+    <text x="190" y="28" text-anchor="middle" font-size="18" font-weight="600">MCP：一条 Client—Server 连接</text>
+    <rect x="16" y="48" width="348" height="174" rx="12" fill="#fff8f0" stroke="#d89a74" stroke-width="1.5"/>
+    <text x="36" y="77" font-size="17" font-weight="600">Host · 聊天应用 / IDE</text>
+    <text x="36" y="103">管理工具范围与执行策略</text>
+    <rect x="44" y="126" width="292" height="68" rx="8" fill="#fff" stroke="#bb4a16" stroke-width="1.5"/>
+    <text x="190" y="153" text-anchor="middle" font-size="17" font-weight="600">MCP Client</text>
+    <text x="190" y="179" text-anchor="middle">Host 内部的通信组件</text>
+    <path d="M100 194 V320" fill="none" stroke="#bb4a16" stroke-width="2" marker-end="url(#request)"/>
+    <path d="M280 322 V197" fill="none" stroke="#346783" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#response)"/>
+    <rect x="39" y="244" width="122" height="30" rx="4" fill="#fff"/>
+    <rect x="219" y="244" width="122" height="30" rx="4" fill="#fff"/>
+    <text x="100" y="265" text-anchor="middle" fill="#9c3911">发现与调用</text>
+    <text x="280" y="265" text-anchor="middle" fill="#28566e">结果或错误</text>
+    <text x="190" y="304" text-anchor="middle">JSON-RPC 消息</text>
+    <rect x="44" y="322" width="292" height="86" rx="8" fill="#f1f7fa" stroke="#7396aa" stroke-width="1.5"/>
+    <text x="190" y="352" text-anchor="middle" font-size="17" font-weight="600">MCP Server</text>
+    <text x="190" y="380" text-anchor="middle">暴露工具、资源和提示模板</text>
+    <path d="M190 408 V468" fill="none" stroke="#555" stroke-width="2" marker-end="url(#access)"/>
+    <rect x="124" y="423" width="132" height="28" fill="#fff"/>
+    <text x="190" y="443" text-anchor="middle">访问业务能力</text>
+    <rect x="44" y="470" width="292" height="66" rx="8" fill="#f7f7f7" stroke="#aaa" stroke-width="1.5"/>
+    <text x="190" y="496" text-anchor="middle" font-size="17" font-weight="600">天气 API / 数据库 / 文件</text>
+    <text x="190" y="521" text-anchor="middle">本地或远端服务</text>
+    <text x="24" y="572">同一 Host 可以通过多个 Client</text>
+    <text x="24" y="597">连接多个 Server。</text>
+  </g>
+</svg>
