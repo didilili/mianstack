@@ -1,5 +1,6 @@
 {
   "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS",
+  "readingUrl": "https://mianstack.com/collection/col-zero2agent-engineering-pitfalls",
   "publisherId": "PUB-ONEFLY",
   "title": "zero2Agent · 工程化踩坑：死循环、状态丢失与成本控制",
   "coverage": [

@@ -930,6 +930,11 @@
           "$ref": "#/$defs/nonEmptyString",
           "title": "题集名称"
         },
+        "readingUrl": {
+          "$ref": "#/$defs/httpUrl",
+          "title": "面栈阅读链接",
+          "description": "按题集 ID 自动生成的本站阅读地址，不带尾斜杠；原题集出处仍由 sourceUrl 保存。"
+        },
         "sourceUrl": {
           "$ref": "#/$defs/httpUrl",
           "title": "原题集链接"

@@ -1,5 +1,6 @@
 {
   "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA",
+  "readingUrl": "https://mianstack.com/collection/col-agentguide-ext-pdf-inference-qa",
   "publisherId": "PUB-AGENTGUIDE",
   "sourceKind": "curated_question_set",
   "title": "AgentGuide · LLM推理系统问答",
