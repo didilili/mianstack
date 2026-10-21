@@ -44,7 +44,7 @@
 - [Q-1474 Python int 表示超长整数时会溢出吗？](../questions/Q-1474.md)
 - [Q-1516 用过哪些 Python 库，Pandas 输入是什么？](../questions/Q-1516.md)
 - [Q-1536 列表推导式是什么？](../questions/Q-1536.md)
-- [Q-1549 装饰器如何工作，常用哪些？](../questions/Q-1549.md)
+- [Q-1549 装饰器如何工作，常用哪些？](../questions/Q-1549.md) · **已有答案**
 - [Q-1637 生成器和上下文管理器分别适合什么场景？](../questions/Q-1637.md)
 - [Q-1638 生成器 yield 后如何获取 return 值？](../questions/Q-1638.md)
 - [Q-1639 asyncio 适合哪些场景？](../questions/Q-1639.md)
@@ -115,40 +115,40 @@
 <a id="topic-2"></a>
 ## Java、Spring 与 JVM
 
-- [Q-0068 Spring Bean 的生命周期是什么？](../questions/Q-0068.md)
-- [Q-0070 Java 如何查找和加载类，如何加载来自网络的字节码？](../questions/Q-0070.md)
+- [Q-0068 Spring Bean 的生命周期是什么？](../questions/Q-0068.md) · **已有答案**
+- [Q-0070 Java 如何查找和加载类，如何加载来自网络的字节码？](../questions/Q-0070.md) · **已有答案**
 - [Q-0200 Java int 与 long 的取值范围是什么，为什么如此设计？](../questions/Q-0200.md)
 - [Q-0337 AOP 动态代理如何实现，哪些情况会失效？](../questions/Q-0337.md)
-- [Q-0338 事务注解在哪些情况下失效？](../questions/Q-0338.md)
-- [Q-0339 垃圾回收算法有哪些，如何实现？](../questions/Q-0339.md)
-- [Q-0340 如何打破双亲委派机制？](../questions/Q-0340.md)
+- [Q-0338 事务注解在哪些情况下失效？](../questions/Q-0338.md) · **已有答案**
+- [Q-0339 垃圾回收算法有哪些，如何实现？](../questions/Q-0339.md) · **已有答案**
+- [Q-0340 如何打破双亲委派机制？](../questions/Q-0340.md) · **已有答案**
 - [Q-0390 Spring Boot 如何控制类的加载顺序？](../questions/Q-0390.md)
 - [Q-0393 Spring Boot 如何加载 Nacos 配置并实现热更新？](../questions/Q-0393.md)
-- [Q-0403 接口与抽象类有什么区别，真实业务中如何选择？](../questions/Q-0403.md)
+- [Q-0403 接口与抽象类有什么区别，真实业务中如何选择？](../questions/Q-0403.md) · **已有答案**
 - [Q-0446 如何初始化 Spring Boot 项目、选择框架并设计数据库结构？](../questions/Q-0446.md)
 - [Q-0453 如何定位并解决 Maven 依赖冲突？](../questions/Q-0453.md)
 - [Q-0454 ArrayList 与 LinkedList 的基础机制。](../questions/Q-0454.md)
 - [Q-0455 Spring 自动装配机制。](../questions/Q-0455.md)
-- [Q-0456 JVM 基础机制。](../questions/Q-0456.md)
-- [Q-0550 HashMap 如何扩容？](../questions/Q-0550.md)
+- [Q-0456 JVM 基础机制。](../questions/Q-0456.md) · **已有答案**
+- [Q-0550 HashMap 如何扩容？](../questions/Q-0550.md) · **已有答案**
 - [Q-0556 JVM 中堆和栈有什么区别？](../questions/Q-0556.md)
 - [Q-0648 MyBatis 的基本机制是什么？](../questions/Q-0648.md)
-- [Q-0659 HashMap 与 ConcurrentHashMap 有什么区别？](../questions/Q-0659.md)
-- [Q-0660 Spring AOP 的实现原理是什么？](../questions/Q-0660.md)
+- [Q-0659 HashMap 与 ConcurrentHashMap 有什么区别？](../questions/Q-0659.md) · **已有答案**
+- [Q-0660 Spring AOP 的实现原理是什么？](../questions/Q-0660.md) · **已有答案**
 - [Q-0686 如何分析堆转储 Dump 文件排查线上问题？](../questions/Q-0686.md)
 - [Q-0687 JVM 如何进行调优？](../questions/Q-0687.md)
 - [Q-0799 HashMap 何时扩容，何时把链表转换为红黑树？](../questions/Q-0799.md)
-- [Q-0800 HashMap 在并发环境下可能出现哪些问题？](../questions/Q-0800.md)
-- [Q-0803 volatile 能保证什么？](../questions/Q-0803.md)
+- [Q-0800 HashMap 在并发环境下可能出现哪些问题？](../questions/Q-0800.md) · **已有答案**
+- [Q-0803 volatile 能保证什么？](../questions/Q-0803.md) · **已有答案**
 - [Q-0804 Java 内存模型中的 happens-before 是什么？](../questions/Q-0804.md)
-- [Q-0874 HashMap 在 JDK 1.8 相比 1.7 有哪些优化，为什么改变插入方式？](../questions/Q-0874.md)
-- [Q-0899 JVM 的内存结构如何划分？](../questions/Q-0899.md)
+- [Q-0874 HashMap 在 JDK 1.8 相比 1.7 有哪些优化，为什么改变插入方式？](../questions/Q-0874.md) · **已有答案**
+- [Q-0899 JVM 的内存结构如何划分？](../questions/Q-0899.md) · **已有答案**
 - [Q-0914 什么情况下会出现 StackOverflowError？](../questions/Q-0914.md)
-- [Q-0988 HashMap 的 put 完整流程和扩容条件是什么？](../questions/Q-0988.md)
+- [Q-0988 HashMap 的 put 完整流程和扩容条件是什么？](../questions/Q-0988.md) · **已有答案**
 - [Q-0998 Spring Data JPA 如何做一对一和多对多映射？](../questions/Q-0998.md)
 - [Q-1004 Spring Boot 的启动过程是什么？](../questions/Q-1004.md)
 - [Q-1005 Spring 的事务注解如何实现？](../questions/Q-1005.md)
-- [Q-1006 哪些情况会导致事务注解失效？](../questions/Q-1006.md)
+- [Q-1006 哪些情况会导致事务注解失效？](../questions/Q-1006.md) · **已有答案**
 - [Q-1011 线程池保活时间有什么作用？](../questions/Q-1011.md)
 - [Q-1012 线程池常见任务队列有哪些？](../questions/Q-1012.md)
 - [Q-1036 排查线上 JVM 高 CPU 和内存泄漏使用哪些工具命令？](../questions/Q-1036.md)
@@ -157,7 +157,7 @@
 - [Q-1057 如何理解面试中所说的 JVM 内存模型？](../questions/Q-1057.md)
 - [Q-1076 Java 有哪些语言特性？](../questions/Q-1076.md)
 - [Q-1077 Java 接口能否包含静态方法、静态变量或默认实现？](../questions/Q-1077.md)
-- [Q-1078 Java 中如何实现线程安全？](../questions/Q-1078.md)
+- [Q-1078 Java 中如何实现线程安全？](../questions/Q-1078.md) · **已有答案**
 - [Q-1139 项目使用哪个 Spring 版本，有哪些新特性？](../questions/Q-1139.md)
 - [Q-1146 项目使用哪个 Java 版本，该版本 JVM 如何进行垃圾回收？](../questions/Q-1146.md)
 - [Q-1162 Spring 和 Spring Boot 掌握到什么程度，是否尝试实现轻量框架？](../questions/Q-1162.md)
@@ -169,18 +169,18 @@
 - [Q-1261 Java 21 及新 JDK 相比 JDK 8 有哪些变化？](../questions/Q-1261.md)
 - [Q-1311 ArrayList 的底层结构、初始化与扩容机制是什么？](../questions/Q-1311.md)
 - [Q-1312 HashMap 为什么树化，冲突后查询复杂度如何？](../questions/Q-1312.md)
-- [Q-1313 HashMap 头尾插和并发环链问题如何理解？](../questions/Q-1313.md)
+- [Q-1313 HashMap 头尾插和并发环链问题如何理解？](../questions/Q-1313.md) · **已有答案**
 - [Q-1314 ConcurrentHashMap 1.7 与 1.8 有何区别？](../questions/Q-1314.md)
 - [Q-1335 ArrayList 与 HashSet 有何区别，查找复杂度如何？](../questions/Q-1335.md)
 - [Q-1336 HashSet 底层及 JDK 1.7 与 1.8 差异是什么？](../questions/Q-1336.md)
 - [Q-1382 volatile int 的多线程 i++ 是否安全，如何解决，CAS 是否可用？](../questions/Q-1382.md)
-- [Q-1383 线程池有哪些拒绝策略？](../questions/Q-1383.md)
+- [Q-1383 线程池有哪些拒绝策略？](../questions/Q-1383.md) · **已有答案**
 - [Q-1395 GC 为何分代，不分代有什么后果？](../questions/Q-1395.md)
 - [Q-1460 Java 有协程吗，虚拟线程是什么？](../questions/Q-1460.md)
 - [Q-1621 Spring Boot 通常采用几层架构，Spring 核心技术是什么？](../questions/Q-1621.md)
 - [Q-1629 OOM 和频繁 GC 如何处理？](../questions/Q-1629.md)
 - [Q-1904 介绍 Java 的集合体系。](../questions/Q-1904.md)
-- [Q-2361 JVM 垃圾回收过程和核心机制是什么？](../questions/Q-2361.md)
+- [Q-2361 JVM 垃圾回收过程和核心机制是什么？](../questions/Q-2361.md) · **已有答案**
 - [Q-2428 BeanFactory 与 ApplicationContext 有什么区别？](../questions/Q-2428.md)
 - [Q-2429 ApplicationContext 与 BeanFactory 的接口继承关系是什么，还继承哪些接口？](../questions/Q-2429.md)
 - [Q-2443 JVM 类加载完整过程与双亲委派核心逻辑是什么？](../questions/Q-2443.md)
@@ -253,7 +253,7 @@
 ## C/C++、Go 与编译
 
 - [Q-0460 C 语言临时变量存储在哪个区域？](../questions/Q-0460.md)
-- [Q-0462 C 语言编译的完整流程是什么？](../questions/Q-0462.md)
+- [Q-0462 C 语言编译的完整流程是什么？](../questions/Q-0462.md) · **已有答案**
 - [Q-0463 从编译单元生成目标文件的具体过程是什么？](../questions/Q-0463.md)
 - [Q-0560 多态有哪些实际应用场景？](../questions/Q-0560.md)
 - [Q-0740 Rust 与其他语言有什么不同，使用特点是什么？](../questions/Q-0740.md)
@@ -271,9 +271,9 @@
 - [Q-1571 三色标记的完整过程是什么？](../questions/Q-1571.md)
 - [Q-1572 两个协程交替打印 1 到 100。](../questions/Q-1572.md)
 - [Q-1657 了解 Go 原生 net 库吗？](../questions/Q-1657.md)
-- [Q-1770 Go Context 有什么作用，如何实现多级传递？](../questions/Q-1770.md)
+- [Q-1770 Go Context 有什么作用，如何实现多级传递？](../questions/Q-1770.md) · **已有答案**
 - [Q-2332 Go 定时器如何实现？](../questions/Q-2332.md)
-- [Q-2458 Go 的 GMP 调度模型与协程如何工作？](../questions/Q-2458.md)
+- [Q-2458 Go 的 GMP 调度模型与协程如何工作？](../questions/Q-2458.md) · **已有答案**
 - [Q-2461 是否使用过 C++ 原子计数？](../questions/Q-2461.md)
 - [Q-2476 Go GC 和内存管理如何工作？](../questions/Q-2476.md)
 - [Q-2477 Go map 与 C++ map 有什么区别？](../questions/Q-2477.md)
@@ -358,7 +358,7 @@
 - [Q-0005 前端接口缓存和重复请求合并有哪些方案？](../questions/Q-0005.md)
 - [Q-0006 localStorage 与 IndexedDB 有什么区别，各适合哪些业务场景？](../questions/Q-0006.md)
 - [Q-0147 为什么说 Zustand 比较轻量？](../questions/Q-0147.md)
-- [Q-0389 全栈开发中如何解决跨域问题？](../questions/Q-0389.md)
+- [Q-0389 全栈开发中如何解决跨域问题？](../questions/Q-0389.md) · **已有答案**
 - [Q-0527 如何设计类似 LangFlow 的工作流画布，选择什么技术栈，难点在哪？](../questions/Q-0527.md)
 - [Q-0528 RAG 前端如何优化长文档展示和引用来源跳转？](../questions/Q-0528.md)
 - [Q-0531 Vue 中拖动轴的动态显隐如何设置？](../questions/Q-0531.md)
@@ -374,7 +374,7 @@
 - [Q-1142 路由守卫是什么，有哪些功能？](../questions/Q-1142.md)
 - [Q-1149 Vue 解决了什么问题，相比 HTML、JSP 有何差异？](../questions/Q-1149.md)
 - [Q-1150 如何理解组件化与状态管理？](../questions/Q-1150.md)
-- [Q-1152 事件循环如何工作？](../questions/Q-1152.md)
+- [Q-1152 事件循环如何工作？](../questions/Q-1152.md) · **已有答案**
 - [Q-1207 Flex 布局如何工作？](../questions/Q-1207.md)
 - [Q-1208 项目使用什么工具打包？](../questions/Q-1208.md)
 - [Q-1343 如何从发现前端性能问题到完成优化？](../questions/Q-1343.md)
@@ -507,16 +507,16 @@
 <a id="topic-6"></a>
 ## 操作系统与 Linux
 
-- [Q-0037 进程和线程有什么区别？](../questions/Q-0037.md)
-- [Q-0038 进程之间如何通信？](../questions/Q-0038.md)
-- [Q-0190 线程共享进程中的哪些资源，线程之间如何共享？](../questions/Q-0190.md)
-- [Q-0191 虚拟内存是什么，如何分配？](../questions/Q-0191.md)
-- [Q-0249 服务器 CPU 持续接近 100% 时如何排查？](../questions/Q-0249.md)
+- [Q-0037 进程和线程有什么区别？](../questions/Q-0037.md) · **已有答案**
+- [Q-0038 进程之间如何通信？](../questions/Q-0038.md) · **已有答案**
+- [Q-0190 线程共享进程中的哪些资源，线程之间如何共享？](../questions/Q-0190.md) · **已有答案**
+- [Q-0191 虚拟内存是什么，如何分配？](../questions/Q-0191.md) · **已有答案**
+- [Q-0249 服务器 CPU 持续接近 100% 时如何排查？](../questions/Q-0249.md) · **已有答案**
 - [Q-0582 什么是僵尸进程？](../questions/Q-0582.md)
 - [Q-0979 父子进程共享资源时，写入如何处理？](../questions/Q-0979.md)
 - [Q-1068 操作系统有哪些功能？](../questions/Q-1068.md)
 - [Q-1069 用户态和内核态分别是什么？](../questions/Q-1069.md)
-- [Q-1070 什么是死锁，如何避免，发生后如何解除或恢复？](../questions/Q-1070.md)
+- [Q-1070 什么是死锁，如何避免，发生后如何解除或恢复？](../questions/Q-1070.md) · **已有答案**
 - [Q-1101 是否使用过 Linux，熟悉哪些发行版和常用命令？](../questions/Q-1101.md)
 - [Q-1102 Vim 中 :wq、:q!、:q 有何区别，文件修改后如何退出？](../questions/Q-1102.md)
 - [Q-1103 su 与 sudo 在权限方面有什么区别？](../questions/Q-1103.md)
@@ -529,7 +529,7 @@
 - [Q-1250 线程上下文切换有哪些成本，如何观察切换频繁？](../questions/Q-1250.md)
 - [Q-1251 单核 CPU 能否并发运行多个线程？](../questions/Q-1251.md)
 - [Q-1252 什么是 CPU 亲和性？](../questions/Q-1252.md)
-- [Q-1334 堆和栈有什么区别？](../questions/Q-1334.md)
+- [Q-1334 堆和栈有什么区别？](../questions/Q-1334.md) · **已有答案**
 - [Q-1374 如何支持 10GB 文件上传、断点续传和分片校验？](../questions/Q-1374.md)
 - [Q-1510 冷热分离如何做？](../questions/Q-1510.md)
 - [Q-1511 10GB 文件一次占满内存会怎样？](../questions/Q-1511.md)
@@ -593,31 +593,31 @@
 ## 并发与异步编程
 
 - [Q-0071 Python 多线程和 Java 多线程的核心区别是什么？](../questions/Q-0071.md)
-- [Q-0072 GIL 为什么存在？](../questions/Q-0072.md)
+- [Q-0072 GIL 为什么存在？](../questions/Q-0072.md) · **已有答案**
 - [Q-0119 FastAPI 中 await 大模型调用时，CPU、协程和线程如何运行？](../questions/Q-0119.md)
 - [Q-0236 高并发平台中的布隆过滤器、缓存、令牌桶和缓存预热分别解决什么问题？](../questions/Q-0236.md)
-- [Q-0291 线程池如何运行，核心参数有什么作用、如何配置？](../questions/Q-0291.md)
-- [Q-0292 进程、线程和协程有什么区别？](../questions/Q-0292.md)
+- [Q-0291 线程池如何运行，核心参数有什么作用、如何配置？](../questions/Q-0291.md) · **已有答案**
+- [Q-0292 进程、线程和协程有什么区别？](../questions/Q-0292.md) · **已有答案**
 - [Q-0345 单线程多协程能否有效利用多核 CPU？](../questions/Q-0345.md)
-- [Q-0408 线程间有哪些通信方式？](../questions/Q-0408.md)
+- [Q-0408 线程间有哪些通信方式？](../questions/Q-0408.md) · **已有答案**
 - [Q-0426 服务器框架如何实现跨线程投放任务？](../questions/Q-0426.md)
 - [Q-0428 项目哪些位置存在竞态条件，如何处理？](../questions/Q-0428.md)
 - [Q-0447 异步下单线程池在 JMeter 压测中崩溃时如何定位，改用 RabbitMQ 有何优势？](../questions/Q-0447.md)
-- [Q-0480 ThreadLocal 如何使用？](../questions/Q-0480.md)
-- [Q-0549 AQS 的核心原理是什么，如何管理同步状态、CAS 与锁重入？](../questions/Q-0549.md)
+- [Q-0480 ThreadLocal 如何使用？](../questions/Q-0480.md) · **已有答案**
+- [Q-0549 AQS 的核心原理是什么，如何管理同步状态、CAS 与锁重入？](../questions/Q-0549.md) · **已有答案**
 - [Q-0669 方法加 synchronized 能否解决秒杀，除了阻塞还有什么问题？](../questions/Q-0669.md)
-- [Q-0688 并发编程需要注意哪些问题？](../questions/Q-0688.md)
+- [Q-0688 并发编程需要注意哪些问题？](../questions/Q-0688.md) · **已有答案**
 - [Q-0700 请求结束后 ThreadLocal 会自动清理吗，应该如何处理？](../questions/Q-0700.md)
 - [Q-0743 任务队列如何调度并避免冲突？](../questions/Q-0743.md)
 - [Q-0770 互斥锁的底层实现原理是什么？](../questions/Q-0770.md)
 - [Q-0790 如何控制线程池，避免长视频处理耗尽机器资源？](../questions/Q-0790.md)
-- [Q-0801 JDK 8 ConcurrentHashMap 如何保证线程安全？](../questions/Q-0801.md)
+- [Q-0801 JDK 8 ConcurrentHashMap 如何保证线程安全？](../questions/Q-0801.md) · **已有答案**
 - [Q-0802 ConcurrentHashMap 单次操作安全，为什么业务操作仍可能并发出错？](../questions/Q-0802.md)
-- [Q-0805 synchronized 与 ReentrantLock 有什么区别？](../questions/Q-0805.md)
-- [Q-0806 读写锁适合什么场景，一定比互斥锁快吗？](../questions/Q-0806.md)
-- [Q-0815 CAS 的原理是什么？](../questions/Q-0815.md)
-- [Q-0816 synchronized 的原理是什么？](../questions/Q-0816.md)
-- [Q-1038 CAS 的 ABA 问题如何解决？](../questions/Q-1038.md)
+- [Q-0805 synchronized 与 ReentrantLock 有什么区别？](../questions/Q-0805.md) · **已有答案**
+- [Q-0806 读写锁适合什么场景，一定比互斥锁快吗？](../questions/Q-0806.md) · **已有答案**
+- [Q-0815 CAS 的原理是什么？](../questions/Q-0815.md) · **已有答案**
+- [Q-0816 synchronized 的原理是什么？](../questions/Q-0816.md) · **已有答案**
+- [Q-1038 CAS 的 ABA 问题如何解决？](../questions/Q-1038.md) · **已有答案**
 - [Q-1151 async/await 的本质是什么？](../questions/Q-1151.md)
 - [Q-1182 什么是惊群效应，如何解决？](../questions/Q-1182.md)
 - [Q-1198 任务编排组件如何实现，如何用事件机制解耦？](../questions/Q-1198.md)
@@ -643,7 +643,7 @@
 - [Q-1931 如何保证任务处理与数据库状态更新的原子性和一致性？](../questions/Q-1931.md)
 - [Q-1932 如何避免同一任务在调度与执行中被重复处理？](../questions/Q-1932.md)
 - [Q-1933 乐观锁和任务 Token 分别解决什么问题？](../questions/Q-1933.md)
-- [Q-1934 任务自动重试机制如何实现，哪些情况会触发？](../questions/Q-1934.md)
+- [Q-1934 任务自动重试机制如何实现，哪些情况会触发？](../questions/Q-1934.md) · **已有答案**
 - [Q-1935 实例宕机后，如何识别并恢复未完成任务？](../questions/Q-1935.md)
 - [Q-1936 异步任务的过期时间或租约时间如何设置？](../questions/Q-1936.md)
 - [Q-1937 文档并发更新时，用哪个字段控制版本？](../questions/Q-1937.md)
@@ -653,15 +653,15 @@
 - [Q-1957 如何验证线程池参数合理，并用 JMeter 做压力测试？](../questions/Q-1957.md)
 - [Q-1958 线程池线程数为何不是越多越好，过多线程会产生哪些性能问题？](../questions/Q-1958.md)
 - [Q-2006 双栈队列如何实现多线程安全？](../questions/Q-2006.md)
-- [Q-2010 分布式锁如何工作？](../questions/Q-2010.md)
+- [Q-2010 分布式锁如何工作？](../questions/Q-2010.md) · **已有答案**
 - [Q-2179 3 万协程和 3 万线程在同一颗 8 核 16 线程 CPU 上运行，调度有何区别？](../questions/Q-2179.md)
-- [Q-2242 举例说明 MySQL 乐观锁和悲观锁的使用场景。](../questions/Q-2242.md)
+- [Q-2242 举例说明 MySQL 乐观锁和悲观锁的使用场景。](../questions/Q-2242.md) · **已有答案**
 - [Q-2288 并发与异步编程有何区别，分别适用什么场景？](../questions/Q-2288.md)
-- [Q-2289 异步任务如何实现，常见方案有哪些？](../questions/Q-2289.md)
+- [Q-2289 异步任务如何实现，常见方案有哪些？](../questions/Q-2289.md) · **已有答案**
 - [Q-2301 实现令牌桶限流。](../questions/Q-2301.md)
 - [Q-2362 Java 为什么需要线程池？](../questions/Q-2362.md)
 - [Q-2379 多线程交替打印 A1B2C3，并保证任意线程退出后其余线程不永久阻塞。](../questions/Q-2379.md)
-- [Q-2427 ThreadLocal 是否线程安全，使用时有哪些内存泄漏等风险？](../questions/Q-2427.md)
+- [Q-2427 ThreadLocal 是否线程安全，使用时有哪些内存泄漏等风险？](../questions/Q-2427.md) · **已有答案**
 - [Q-2430 业务尚未完成而锁将过期时，如何续期？](../questions/Q-2430.md)
 - [Q-2441 实现 submit(key, task)：同 key 串行、不同 key 并行，保证提交与执行队列线程安全，暂不限制总并发数。](../questions/Q-2441.md)
 - [Q-2503 如何控制协程并发量？](../questions/Q-2503.md)
@@ -751,29 +751,29 @@
 <a id="topic-8"></a>
 ## 网络与浏览器
 
-- [Q-0007 浏览器的 HTTP 缓存如何工作？](../questions/Q-0007.md)
-- [Q-0155 从输入 URL 到页面展示，经历了哪些过程？](../questions/Q-0155.md)
+- [Q-0007 浏览器的 HTTP 缓存如何工作？](../questions/Q-0007.md) · **已有答案**
+- [Q-0155 从输入 URL 到页面展示，经历了哪些过程？](../questions/Q-0155.md) · **已有答案**
 - [Q-0201 32 位有符号整数如何用二进制表示正负？](../questions/Q-0201.md)
-- [Q-0226 TCP 与 UDP 有什么区别，如何根据场景选择？](../questions/Q-0226.md)
+- [Q-0226 TCP 与 UDP 有什么区别，如何根据场景选择？](../questions/Q-0226.md) · **已有答案**
 - [Q-0227 TCP 连接关闭过程。](../questions/Q-0227.md)
-- [Q-0228 TLS 协议机制。](../questions/Q-0228.md)
-- [Q-0344 TCP 滑动窗口如何工作，双方如何交换和动态调整窗口大小？](../questions/Q-0344.md)
+- [Q-0228 TLS 协议机制。](../questions/Q-0228.md) · **已有答案**
+- [Q-0344 TCP 滑动窗口如何工作，双方如何交换和动态调整窗口大小？](../questions/Q-0344.md) · **已有答案**
 - [Q-0459 TCP 三次握手如何进行，为什么不能只进行两次？](../questions/Q-0459.md)
-- [Q-0649 OSI 七层网络模型各层负责什么？](../questions/Q-0649.md)
-- [Q-0968 常见 HTTP 状态码分别表示什么？](../questions/Q-0968.md)
+- [Q-0649 OSI 七层网络模型各层负责什么？](../questions/Q-0649.md) · **已有答案**
+- [Q-0968 常见 HTTP 状态码分别表示什么？](../questions/Q-0968.md) · **已有答案**
 - [Q-0970 断点续传的完整过程是什么？](../questions/Q-0970.md)
 - [Q-0989 HTTP/3 的 QUIC 相对 TCP 有什么核心优势？](../questions/Q-0989.md)
 - [Q-1013 介绍 HTTP 协议。](../questions/Q-1013.md)
-- [Q-1042 Netty 的线程模型和 HTTP 交互中的线程流转过程是什么？](../questions/Q-1042.md)
+- [Q-1042 Netty 的线程模型和 HTTP 交互中的线程流转过程是什么？](../questions/Q-1042.md) · **已有答案**
 - [Q-1043 Netty Reactor 模型中 boss 与 worker 线程组分别负责什么？](../questions/Q-1043.md)
 - [Q-1071 TCP/IP 四层模型分别做什么，各有哪些协议？](../questions/Q-1071.md)
 - [Q-1072 HTTP 有哪些请求方法，GET 与 POST 有何差别，参数放在哪里？](../questions/Q-1072.md)
 - [Q-1104 ping 能否检测端口，如何判断服务器 80 端口上的服务可用，端口开放和监听有什么关系？](../questions/Q-1104.md)
-- [Q-1120 TCP 粘包的原因和处理方式是什么？](../questions/Q-1120.md)
+- [Q-1120 TCP 粘包的原因和处理方式是什么？](../questions/Q-1120.md) · **已有答案**
 - [Q-1128 是否使用过 CDN 服务？](../questions/Q-1128.md)
 - [Q-1138 RPC 框架是什么，如何使用？](../questions/Q-1138.md)
 - [Q-1157 HTTP 与 WebSocket 有何区别和联系？](../questions/Q-1157.md)
-- [Q-1158 TCP 三次握手与四次挥手如何进行，为什么要四次挥手？](../questions/Q-1158.md)
+- [Q-1158 TCP 三次握手与四次挥手如何进行，为什么要四次挥手？](../questions/Q-1158.md) · **已有答案**
 - [Q-1209 项目如何实现和封装 Socket 实时通信？](../questions/Q-1209.md)
 - [Q-1253 I/O 多路复用有哪些函数，如何工作？](../questions/Q-1253.md)
 - [Q-1254 路由器如何选择路径并转发流量？](../questions/Q-1254.md)
@@ -793,7 +793,7 @@
 - [Q-1834 文件分片、并发下载和多点传输如何工作？](../questions/Q-1834.md)
 - [Q-1835 Go 如何管理多个协程分片下载同一个文件？](../questions/Q-1835.md)
 - [Q-1836 分片下载使用一个还是多个 HTTP 连接，如何限制连接数？](../questions/Q-1836.md)
-- [Q-2139 TCP 如何保证可靠传输，发生丢包时如何处理？](../questions/Q-2139.md)
+- [Q-2139 TCP 如何保证可靠传输，发生丢包时如何处理？](../questions/Q-2139.md) · **已有答案**
 - [Q-2158 访问下游 TCP 服务连接超时时，如何完整排查？](../questions/Q-2158.md)
 - [Q-2434 是否做过 NIO 开发，Reactor 模式如何工作？](../questions/Q-2434.md)
 - [Q-2455 RPC 使用什么请求协议？](../questions/Q-2455.md)
@@ -803,7 +803,7 @@
 - [Q-2839 长连接与短连接有何区别，各适合哪些场景？](../questions/Q-2839.md)
 - [Q-2840 项目中的双层路由表如何实现？](../questions/Q-2840.md)
 - [Q-2859 epoll 的 ET 与 LT 模式有何区别？](../questions/Q-2859.md)
-- [Q-2973 HTTP 与 HTTPS 有什么区别？](../questions/Q-2973.md)
+- [Q-2973 HTTP 与 HTTPS 有什么区别？](../questions/Q-2973.md) · **已有答案**
 - [Q-3144 gRPC 为什么效率高？](../questions/Q-3144.md)
 - [Q-3145 gRPC 场景为什么使用 Protobuf，JSON 能否替代？](../questions/Q-3145.md)
 - [Q-3146 项目为什么选择 gRPC？](../questions/Q-3146.md)
@@ -856,42 +856,42 @@
 
 - [Q-0027 执行数据库 UPDATE 时会影响哪些日志？](../questions/Q-0027.md)
 - [Q-0041 用 SQL 找出有不及格成绩的学生。](../questions/Q-0041.md)
-- [Q-0065 MVCC 如何工作？](../questions/Q-0065.md)
-- [Q-0193 B 树和 B+ 树有什么区别？](../questions/Q-0193.md)
+- [Q-0065 MVCC 如何工作？](../questions/Q-0065.md) · **已有答案**
+- [Q-0193 B 树和 B+ 树有什么区别？](../questions/Q-0193.md) · **已有答案**
 - [Q-0194 MySQL B+ 树索引高度受哪些因素影响？](../questions/Q-0194.md)
 - [Q-0195 InnoDB B+ 树节点与页如何对应，默认页大小及叶子和非叶子存储内容是什么？](../questions/Q-0195.md)
-- [Q-0229 数据库事务隔离级别。](../questions/Q-0229.md)
-- [Q-0230 数据库锁与死锁。](../questions/Q-0230.md)
-- [Q-0239 长期聊天记录深分页为什么慢，按月分页如何改善？](../questions/Q-0239.md)
+- [Q-0229 数据库事务隔离级别。](../questions/Q-0229.md) · **已有答案**
+- [Q-0230 数据库锁与死锁。](../questions/Q-0230.md) · **已有答案**
+- [Q-0239 长期聊天记录深分页为什么慢，按月分页如何改善？](../questions/Q-0239.md) · **已有答案**
 - [Q-0240 聊天记录查询使用分表和 Caffeine 缓存分别带来多少优化？](../questions/Q-0240.md)
-- [Q-0244 索引下推与覆盖索引是什么？](../questions/Q-0244.md)
+- [Q-0244 索引下推与覆盖索引是什么？](../questions/Q-0244.md) · **已有答案**
 - [Q-0245 联合索引 ABC 遇到 A=1、B>10、C=5 时如何生效，为什么范围条件会影响索引？](../questions/Q-0245.md)
-- [Q-0246 哪些场景会导致索引失效？](../questions/Q-0246.md)
+- [Q-0246 哪些场景会导致索引失效？](../questions/Q-0246.md) · **已有答案**
 - [Q-0247 为什么优先为区分度高的字段建索引？](../questions/Q-0247.md)
-- [Q-0248 如何用 EXPLAIN 定位慢 SQL，type、rows、Extra 如何解读？](../questions/Q-0248.md)
+- [Q-0248 如何用 EXPLAIN 定位慢 SQL，type、rows、Extra 如何解读？](../questions/Q-0248.md) · **已有答案**
 - [Q-0250 如何发现、定位并优化慢 SQL？](../questions/Q-0250.md) · **已有答案**
 - [Q-0449 循环执行批量日期查询 SQL 过慢时如何优化？](../questions/Q-0449.md)
-- [Q-0458 联表、分页、聚合函数与索引的基础用法。](../questions/Q-0458.md)
+- [Q-0458 联表、分页、聚合函数与索引的基础用法。](../questions/Q-0458.md) · **已有答案**
 - [Q-0466 事务中发送消息有哪些问题，事务与消息队列各有什么特性？](../questions/Q-0466.md)
 - [Q-0478 如何进行 MySQL 底层性能调优？](../questions/Q-0478.md)
 - [Q-0534 Java 向数据库插入数据时如何保证幂等？](../questions/Q-0534.md)
-- [Q-0551 B+ 树适合什么场景，还有哪些索引实现方案？](../questions/Q-0551.md)
+- [Q-0551 B+ 树适合什么场景，还有哪些索引实现方案？](../questions/Q-0551.md) · **已有答案**
 - [Q-0621 MySQL 主键为什么通常推荐自增？](../questions/Q-0621.md)
-- [Q-0643 MySQL 事务如何工作，ACID 特性如何保证？](../questions/Q-0643.md)
-- [Q-0647 事务的 ACID 特性是什么？](../questions/Q-0647.md)
+- [Q-0643 MySQL 事务如何工作，ACID 特性如何保证？](../questions/Q-0643.md) · **已有答案**
+- [Q-0647 事务的 ACID 特性是什么？](../questions/Q-0647.md) · **已有答案**
 - [Q-0697 绕过 Redis 直接更新数据库库存时，如何防止超卖？](../questions/Q-0697.md)
 - [Q-0773 用 SQL 找出至少连续出现三次的数字。](../questions/Q-0773.md)
-- [Q-0813 聚簇索引与非聚簇索引有什么区别？](../questions/Q-0813.md)
+- [Q-0813 聚簇索引与非聚簇索引有什么区别？](../questions/Q-0813.md) · **已有答案**
 - [Q-0814 MyBatis 的 #{} 与 ${} 有什么区别？](../questions/Q-0814.md)
-- [Q-0834 订单按买家分片时，如何支持卖家近三或六个月多条件账单查询？](../questions/Q-0834.md)
+- [Q-0834 订单按买家分片时，如何支持卖家近三或六个月多条件账单查询？](../questions/Q-0834.md) · **已有答案**
 - [Q-0835 深分页使用游标后如何支持任意页跳转？](../questions/Q-0835.md)
-- [Q-0915 数据量很大时，如何解决深分页问题？](../questions/Q-0915.md)
+- [Q-0915 数据量很大时，如何解决深分页问题？](../questions/Q-0915.md) · **已有答案**
 - [Q-0934 库存系统出现数据库死锁时如何解决？](../questions/Q-0934.md)
 - [Q-0955 项目的 MySQL 存储哪些数据？](../questions/Q-0955.md)
 - [Q-0980 Read Committed 下两次读取间数据更新后，为什么第二次能看到更新？](../questions/Q-0980.md)
-- [Q-1026 是否按业务领域做过库表建模？](../questions/Q-1026.md)
+- [Q-1026 是否按业务领域做过库表建模？](../questions/Q-1026.md) · **已有答案**
 - [Q-1084 SQLite 在项目中承担什么职责？](../questions/Q-1084.md)
-- [Q-1143 MySQL 有哪些索引，项目如何设计索引？](../questions/Q-1143.md)
+- [Q-1143 MySQL 有哪些索引，项目如何设计索引？](../questions/Q-1143.md) · **已有答案**
 - [Q-1144 SQL 有哪些窗口和排名函数，如何使用？](../questions/Q-1144.md)
 - [Q-1145 LEFT JOIN、RIGHT JOIN 和 INNER JOIN 有何区别？](../questions/Q-1145.md)
 - [Q-1147 介绍 MySQL。](../questions/Q-1147.md)
@@ -904,10 +904,10 @@
 - [Q-1274 订单按用户查询并按创建时间排序，如何建索引？](../questions/Q-1274.md)
 - [Q-1292 MySQL 主从同步和读写分离如何工作？](../questions/Q-1292.md)
 - [Q-1315 SQL 从连接器开始的执行流程是什么？](../questions/Q-1315.md)
-- [Q-1316 联合索引 (A,B,C) 对 C,B,A 条件是否生效，最左前缀如何理解？](../questions/Q-1316.md)
+- [Q-1316 联合索引 (A,B,C) 对 C,B,A 条件是否生效，最左前缀如何理解？](../questions/Q-1316.md) · **已有答案**
 - [Q-1317 覆盖索引和回表是什么？](../questions/Q-1317.md)
-- [Q-1318 InnoDB 与 MyISAM 有何区别？](../questions/Q-1318.md)
-- [Q-1319 redo log、undo log 与 binlog 各有什么作用，如何协同完成事务？](../questions/Q-1319.md)
+- [Q-1318 InnoDB 与 MyISAM 有何区别？](../questions/Q-1318.md) · **已有答案**
+- [Q-1319 redo log、undo log 与 binlog 各有什么作用，如何协同完成事务？](../questions/Q-1319.md) · **已有答案**
 - [Q-1337 MySQL 模糊查询如何写？](../questions/Q-1337.md)
 - [Q-1373 B+ 树索引能存多少行，如何估算容量？](../questions/Q-1373.md)
 - [Q-1499 InnoDB 有哪些行锁，如何加排他锁？](../questions/Q-1499.md)
@@ -922,7 +922,7 @@
 - [Q-1662 大规模数据库如何无感切换，存量和增量数据怎样迁移？](../questions/Q-1662.md)
 - [Q-1687 除了 MVCC 还有什么机制避免幻读？](../questions/Q-1687.md)
 - [Q-1771 是否使用过 GORM，如何理解它，遇到过哪些问题？](../questions/Q-1771.md)
-- [Q-2003 你了解哪些数据库索引？](../questions/Q-2003.md)
+- [Q-2003 你了解哪些数据库索引？](../questions/Q-2003.md) · **已有答案**
 - [Q-2211 设计点赞功能时，需要哪些数据表和字段？](../questions/Q-2211.md)
 - [Q-2215 点赞关系表如何选择分表字段，为什么按直播 ID 分表？](../questions/Q-2215.md)
 - [Q-2216 按 live_id 分表后，如何查询某个用户点赞过的直播？](../questions/Q-2216.md)
@@ -934,12 +934,12 @@
 - [Q-2543 如何评估单表性能并决定分库分表？](../questions/Q-2543.md)
 - [Q-2544 TDSQL 与 MySQL 有什么区别？](../questions/Q-2544.md)
 - [Q-2644 数据库学习到了什么程度？](../questions/Q-2644.md)
-- [Q-2653 InnoDB 的 B+ 树、聚簇与非聚簇索引、回表如何工作？](../questions/Q-2653.md)
+- [Q-2653 InnoDB 的 B+ 树、聚簇与非聚簇索引、回表如何工作？](../questions/Q-2653.md) · **已有答案**
 - [Q-2709 给定表结构、索引和 SQL，如何分析查询性能？](../questions/Q-2709.md)
 - [Q-2732 事务边界通常放在哪一层，为什么这样划分？](../questions/Q-2732.md)
-- [Q-2752 InnoDB 为什么使用 B+ 树索引？](../questions/Q-2752.md)
+- [Q-2752 InnoDB 为什么使用 B+ 树索引？](../questions/Q-2752.md) · **已有答案**
 - [Q-2753 聚簇索引和回表如何工作，怎样减少回表？](../questions/Q-2753.md)
-- [Q-2811 索引有什么优缺点，项目中为何创建这些索引？](../questions/Q-2811.md)
+- [Q-2811 索引有什么优缺点，项目中为何创建这些索引？](../questions/Q-2811.md) · **已有答案**
 - [Q-2850 项目中如何管理事务并回滚？](../questions/Q-2850.md)
 - [Q-2921 MySQL 默认隔离级别是什么，如何实现？](../questions/Q-2921.md)
 - [Q-2922 WHERE A = CONCAT(s1, s2) 是否使用索引？](../questions/Q-2922.md)
@@ -950,7 +950,7 @@
 - [Q-3071 项目设计了哪些表，各自作用及分层思路是什么？](../questions/Q-3071.md)
 - [Q-3205 项目的数据库表和索引如何设计？](../questions/Q-3205.md)
 - [Q-3230 MySQL 索引有哪些优化方法和适用场景？](../questions/Q-3230.md)
-- [Q-3244 有哪些 SQL 优化方法？](../questions/Q-3244.md)
+- [Q-3244 有哪些 SQL 优化方法？](../questions/Q-3244.md) · **已有答案**
 - [Q-3245 有哪些数据库优化方法？](../questions/Q-3245.md)
 - [Q-3272 数据库锁机制主要解决哪些问题？](../questions/Q-3272.md)
 - [Q-3355 介绍 MySQL 的架构。](../questions/Q-3355.md)
@@ -1015,33 +1015,33 @@
 <a id="topic-10"></a>
 ## Redis 与缓存
 
-- [Q-0028 Redis 的内存淘汰策略有哪些，什么时候触发？](../questions/Q-0028.md)
-- [Q-0029 Redis 如何删除过期数据？](../questions/Q-0029.md)
+- [Q-0028 Redis 的内存淘汰策略有哪些，什么时候触发？](../questions/Q-0028.md) · **已有答案**
+- [Q-0029 Redis 如何删除过期数据？](../questions/Q-0029.md) · **已有答案**
 - [Q-0044 使用 Redis 时有哪些容易踩的坑，如何排查？](../questions/Q-0044.md)
-- [Q-0196 Redis 的基础数据结构有哪些，各自用于什么场景？](../questions/Q-0196.md)
+- [Q-0196 Redis 的基础数据结构有哪些，各自用于什么场景？](../questions/Q-0196.md) · **已有答案**
 - [Q-0197 ZSet 的底层结构是什么？](../questions/Q-0197.md)
 - [Q-0199 ZSet 如何同时支持常数时间查分数和快速查询排名？](../questions/Q-0199.md)
 - [Q-0243 Redis 缓存丢失后如何兜底和修复数据？](../questions/Q-0243.md)
-- [Q-0307 为什么使用 Redis，而不是直接使用 MySQL？](../questions/Q-0307.md)
-- [Q-0308 如何保证 Redis 和 MySQL 的数据一致性？](../questions/Q-0308.md)
+- [Q-0307 为什么使用 Redis，而不是直接使用 MySQL？](../questions/Q-0307.md) · **已有答案**
+- [Q-0308 如何保证 Redis 和 MySQL 的数据一致性？](../questions/Q-0308.md) · **已有答案**
 - [Q-0309 旁路缓存模式为什么先更新 MySQL 再删除 Redis 缓存？](../questions/Q-0309.md)
-- [Q-0342 缓存穿透、击穿和雪崩分别是什么，如何治理？](../questions/Q-0342.md)
-- [Q-0599 Redis 为什么快？](../questions/Q-0599.md)
-- [Q-0612 什么是缓存穿透，如何解决？](../questions/Q-0612.md)
-- [Q-0623 Redis 脚本在集群模式下有哪些一致性问题，如何处理？](../questions/Q-0623.md)
-- [Q-0685 Redis 持久化方式有哪些，各有何优劣？](../questions/Q-0685.md)
-- [Q-0689 设计一个支持百万 QPS 的分布式缓存系统。](../questions/Q-0689.md)
+- [Q-0342 缓存穿透、击穿和雪崩分别是什么，如何治理？](../questions/Q-0342.md) · **已有答案**
+- [Q-0599 Redis 为什么快？](../questions/Q-0599.md) · **已有答案**
+- [Q-0612 什么是缓存穿透，如何解决？](../questions/Q-0612.md) · **已有答案**
+- [Q-0623 Redis 脚本在集群模式下有哪些一致性问题，如何处理？](../questions/Q-0623.md) · **已有答案**
+- [Q-0685 Redis 持久化方式有哪些，各有何优劣？](../questions/Q-0685.md) · **已有答案**
+- [Q-0689 设计一个支持百万 QPS 的分布式缓存系统。](../questions/Q-0689.md) · **已有答案**
 - [Q-0698 Cache Aside 的完整流程是什么，未命中时由谁回填？](../questions/Q-0698.md)
 - [Q-0699 更新数据库后为何删除缓存，而不直接更新缓存？](../questions/Q-0699.md)
-- [Q-0856 项目的 Redis 缓存用于哪些业务，如何实现？](../questions/Q-0856.md)
-- [Q-0952 Redis 用作缓存有哪些优势？](../questions/Q-0952.md)
-- [Q-0953 Redis 宕机或缓存失效会有什么影响？](../questions/Q-0953.md)
+- [Q-0856 项目的 Redis 缓存用于哪些业务，如何实现？](../questions/Q-0856.md) · **已有答案**
+- [Q-0952 Redis 用作缓存有哪些优势？](../questions/Q-0952.md) · **已有答案**
+- [Q-0953 Redis 宕机或缓存失效会有什么影响？](../questions/Q-0953.md) · **已有答案**
 - [Q-1040 BGSAVE fork 后主进程继续写入，如何保持 RDB 的时点快照？](../questions/Q-1040.md)
 - [Q-1041 同一 key 连续执行大量 INCR 时，Redis 如何避免 AOF 文件过大？](../questions/Q-1041.md)
 - [Q-1189 秒杀抢购用户全部写入 Redis Set，用户量大且商家活动很多时如何扩展和优化？](../questions/Q-1189.md)
 - [Q-1320 Redis 与 MySQL 查询性能量级如何比较？](../questions/Q-1320.md)
 - [Q-1321 Redis 宕机压垮 MySQL 时如何限流熔断降级？](../questions/Q-1321.md)
-- [Q-1338 Redis 常见数据结构有哪些，Set 与 ZSet 有何区别？](../questions/Q-1338.md)
+- [Q-1338 Redis 常见数据结构有哪些，Set 与 ZSet 有何区别？](../questions/Q-1338.md) · **已有答案**
 - [Q-1339 微博热搜榜如何存储更新？](../questions/Q-1339.md)
 - [Q-1340 逻辑过期不设置 TTL 的 key 长期保留有什么问题？](../questions/Q-1340.md)
 - [Q-1452 Lua 脚本提供什么能力，失败后已修改数据会回滚吗？](../questions/Q-1452.md)
@@ -1064,11 +1064,11 @@
 - [Q-1950 项目中的 Redis Key 如何设计和组装？](../questions/Q-1950.md)
 - [Q-2009 缓存更新策略有哪些？](../questions/Q-2009.md)
 - [Q-2084 用 Redis 作消息队列时，如何处理宕机导致的消息丢失？](../questions/Q-2084.md)
-- [Q-2085 Redis 如何处理单点故障与主从故障转移？](../questions/Q-2085.md)
+- [Q-2085 Redis 如何处理单点故障与主从故障转移？](../questions/Q-2085.md) · **已有答案**
 - [Q-2086 主节点宕机、从节点升主时，原缓存数据如何迁移？](../questions/Q-2086.md)
 - [Q-2283 是否用过分布式缓存，实际如何设计和应用？](../questions/Q-2283.md)
 - [Q-2293 Redis 有序集合如何使用？](../questions/Q-2293.md)
-- [Q-2433 Redis 是单线程还是多线程，集群模式是否相同？](../questions/Q-2433.md)
+- [Q-2433 Redis 是单线程还是多线程，集群模式是否相同？](../questions/Q-2433.md) · **已有答案**
 - [Q-2497 如何处理 Redis 热 Key？](../questions/Q-2497.md)
 - [Q-2642 Redis NX 是什么缩写？](../questions/Q-2642.md)
 - [Q-2748 Redis SDS 如何设计，其二进制编码和优势是什么？](../questions/Q-2748.md)
@@ -1093,7 +1093,7 @@
 - [Q-3389 视频进度 Hash 中嵌套 Map 的数据何时删除？](../questions/Q-3389.md)
 - [Q-3390 Redis 是否支持给 Hash 内部的键值或字段设置过期时间？](../questions/Q-3390.md)
 - [Q-3391 如何重新设计视频进度的 Hash 结构与有效期？](../questions/Q-3391.md)
-- [Q-3429 数据更新时应先更新数据库还是先更新 Redis？](../questions/Q-3429.md)
+- [Q-3429 数据更新时应先更新数据库还是先更新 Redis？](../questions/Q-3429.md) · **已有答案**
 - [Q-3558 Redis 能否作为持久存储，而不仅用作缓存？](../questions/Q-3558.md)
 - [Q-3572 Redis 如何保证 Lua 脚本执行的原子性？](../questions/Q-3572.md)
 - [Q-3573 缓存逻辑过期与物理过期有什么区别，各解决什么问题？](../questions/Q-3573.md)
@@ -1125,30 +1125,30 @@
 <a id="topic-11"></a>
 ## 消息队列与实时通信
 
-- [Q-0066 如何介绍 Kafka 的基本机制？](../questions/Q-0066.md)
+- [Q-0066 如何介绍 Kafka 的基本机制？](../questions/Q-0066.md) · **已有答案**
 - [Q-0067 Kafka 使用用户 ID 作为分区键有什么缺点？](../questions/Q-0067.md)
-- [Q-0336 项目中消息队列有哪些作用，QPS 情况如何？](../questions/Q-0336.md)
-- [Q-0452 WebSocket 地理位置推送长期运行有哪些隐患，如何处理断线与重连？](../questions/Q-0452.md)
-- [Q-0481 RPC 与 HTTP 分别有什么用途和区别？](../questions/Q-0481.md)
+- [Q-0336 项目中消息队列有哪些作用，QPS 情况如何？](../questions/Q-0336.md) · **已有答案**
+- [Q-0452 WebSocket 地理位置推送长期运行有哪些隐患，如何处理断线与重连？](../questions/Q-0452.md) · **已有答案**
+- [Q-0481 RPC 与 HTTP 分别有什么用途和区别？](../questions/Q-0481.md) · **已有答案**
 - [Q-0538 SSE 有哪些局限性？](../questions/Q-0538.md)
-- [Q-0557 Kafka 如何保证消息不丢失？](../questions/Q-0557.md)
-- [Q-0661 消息中间件出现消息堆积时如何排查处理？](../questions/Q-0661.md)
+- [Q-0557 Kafka 如何保证消息不丢失？](../questions/Q-0557.md) · **已有答案**
+- [Q-0661 消息中间件出现消息堆积时如何排查处理？](../questions/Q-0661.md) · **已有答案**
 - [Q-0684 Kafka 为什么快，如何保证消息有序？](../questions/Q-0684.md)
 - [Q-0695 Lua 预扣成功而 Kafka 订单消息发送失败时如何处理？](../questions/Q-0695.md)
-- [Q-0832 如何保证并发和分布式消息消费的业务幂等？](../questions/Q-0832.md)
+- [Q-0832 如何保证并发和分布式消息消费的业务幂等？](../questions/Q-0832.md) · **已有答案**
 - [Q-0833 生产 1 万 QPS、短信平台仅承受 100 QPS 时，如何结合 MQ 恒速消费并避免频繁回投？](../questions/Q-0833.md)
 - [Q-0843 Webhook 大量回调堆积时如何处理？](../questions/Q-0843.md)
 - [Q-0844 Webhook 如何提供安全、幂等和兜底保障？](../questions/Q-0844.md)
-- [Q-0855 SSE、WebSocket、普通 HTTP 与长短轮询有什么区别？](../questions/Q-0855.md)
+- [Q-0855 SSE、WebSocket、普通 HTTP 与长短轮询有什么区别？](../questions/Q-0855.md) · **已有答案**
 - [Q-0895 点播链路和直播链路如何工作？](../questions/Q-0895.md)
 - [Q-0945 项目中 SSE 推送什么数据，采用什么格式？](../questions/Q-0945.md)
 - [Q-0946 SSE 如何处理断连并进行心跳保活？](../questions/Q-0946.md)
-- [Q-0947 客户端断网重连后如何断点续传，避免任务从头执行？](../questions/Q-0947.md)
+- [Q-0947 客户端断网重连后如何断点续传，避免任务从头执行？](../questions/Q-0947.md) · **已有答案**
 - [Q-0990 设计每秒写入 10 万条、单条 2KB、保存 30 天的高并发延迟消息组件。](../questions/Q-0990.md)
 - [Q-1046 在延迟等级固定的 RocketMQ 版本中如何实现任意时长的延迟投递？](../questions/Q-1046.md)
 - [Q-1047 原生消息可靠性方案在什么场景失效，为什么需要入库兜底或手动提交 offset？](../questions/Q-1047.md)
 - [Q-1048 通过哪些指标或异常确认消息确实丢失，而非凭预判添加兜底？](../questions/Q-1048.md)
-- [Q-1126 流式对话前后端分别如何实现？](../questions/Q-1126.md)
+- [Q-1126 流式对话前后端分别如何实现？](../questions/Q-1126.md) · **已有答案**
 - [Q-1266 消息用于金额计算或扣减时，如何防止重复消费？](../questions/Q-1266.md)
 - [Q-1322 第三方不稳定时如何用 MQ 暂存重试并避免流量放大？](../questions/Q-1322.md)
 - [Q-1324 数据库与 MQ 如何保持一致？](../questions/Q-1324.md)
@@ -1179,7 +1179,7 @@
 - [Q-2058 MQ 消费失败如何设计自动重试和指数退避？](../questions/Q-2058.md)
 - [Q-2059 消费端宕机时如何确认消费结果并避免消息丢失？](../questions/Q-2059.md)
 - [Q-2060 用 Redis 做消费幂等时如何设置 Key 过期时间，处理未完就过期会怎样？](../questions/Q-2060.md)
-- [Q-2282 消息队列如何保证消息不丢失，生产端和消费端各做哪些保障？](../questions/Q-2282.md)
+- [Q-2282 消息队列如何保证消息不丢失，生产端和消费端各做哪些保障？](../questions/Q-2282.md) · **已有答案**
 - [Q-2319 是否使用过分布式消息队列？](../questions/Q-2319.md)
 - [Q-2335 网页中的一次点击如何发送到服务器并获得响应？](../questions/Q-2335.md)
 - [Q-2339 SSE 如何工作？](../questions/Q-2339.md)
@@ -1238,13 +1238,13 @@
 - [Q-0670 秒杀部署到一万台机器后，如何控制并发正确性？](../questions/Q-0670.md)
 - [Q-0671 Redis 分布式锁的 Key 如何设计？](../questions/Q-0671.md)
 - [Q-0767 Canal 与 Kafka 如何结合，解决什么问题？](../questions/Q-0767.md)
-- [Q-0794 Redisson Watchdog 为什么需要续租，何时续租？](../questions/Q-0794.md)
+- [Q-0794 Redisson Watchdog 为什么需要续租，何时续租？](../questions/Q-0794.md) · **已有答案**
 - [Q-0817 OpenFeign 如何使用，底层如何发送网络请求？](../questions/Q-0817.md)
 - [Q-0836 为卖家账单建立镜像表时，如何保证买家表和卖家表双写一致？](../questions/Q-0836.md)
 - [Q-0842 消息落库成功但第三方发送失败时如何保证最终一致性？](../questions/Q-0842.md)
-- [Q-0875 Redis 分布式锁的原理是什么？](../questions/Q-0875.md)
-- [Q-0876 锁租期一分钟但任务未完成时，会发生什么？](../questions/Q-0876.md)
-- [Q-0877 Watchdog 持续续租但任务一直卡住时，其他任务如何获得锁？](../questions/Q-0877.md)
+- [Q-0875 Redis 分布式锁的原理是什么？](../questions/Q-0875.md) · **已有答案**
+- [Q-0876 锁租期一分钟但任务未完成时，会发生什么？](../questions/Q-0876.md) · **已有答案**
+- [Q-0877 Watchdog 持续续租但任务一直卡住时，其他任务如何获得锁？](../questions/Q-0877.md) · **已有答案**
 - [Q-1590 Canal 如何保证一致性，能否保证实时一致？](../questions/Q-1590.md)
 - [Q-1642 合同 PDF 如何存取，文件存储系统怎样设计？](../questions/Q-1642.md)
 - [Q-1643 高可用分布式文件存储如何设计读写、确认和备份，保证极端场景不丢失？](../questions/Q-1643.md)
@@ -1302,7 +1302,7 @@
 - [Q-4334 分布式系统中的 Exactly Once 能否实现，其边界是什么？](../questions/Q-4334.md)
 - [Q-4351 微服务如何实现服务发现、负载均衡及实例注册保活？](../questions/Q-4351.md)
 - [Q-4384 使用 AI 编程工具实现一个断路器。](../questions/Q-4384.md)
-- [Q-4406 常见限流算法有哪些，各自原理是什么？](../questions/Q-4406.md)
+- [Q-4406 常见限流算法有哪些，各自原理是什么？](../questions/Q-4406.md) · **已有答案**
 - [Q-4407 分布式限流如何实现？](../questions/Q-4407.md)
 - [Q-4881 什么是 P2P 点对点通信，它与中心化通信模式有何区别？](../questions/Q-4881.md)
 - [Q-5149 租约失效后为什么还需要 Fencing Token，如何防止旧 Worker 写回？](../questions/Q-5149.md)
@@ -1313,25 +1313,25 @@
 <a id="topic-13"></a>
 ## 数据工程与数据处理
 
-- [Q-0063 数据平台的数据如何流动、处理并被下游消费？](../questions/Q-0063.md)
-- [Q-0131 系统每天处理多少数据，这个量级意味着什么？](../questions/Q-0131.md)
+- [Q-0063 数据平台的数据如何流动、处理并被下游消费？](../questions/Q-0063.md) · **已有答案**
+- [Q-0131 系统每天处理多少数据，这个量级意味着什么？](../questions/Q-0131.md) · **已有答案**
 - [Q-0184 采集公司内部论坛文档时，为什么选择爬虫而不申请正式接口？](../questions/Q-0184.md)
 - [Q-0412 文件存储与数据库存储有哪些常见方式？](../questions/Q-0412.md)
 - [Q-0413 文件存储的瓶颈是什么？](../questions/Q-0413.md)
 - [Q-0751 给定 40 亿个不重复且无序的 unsigned int，如何快速判断一个数是否存在？](../questions/Q-0751.md)
-- [Q-0809 项目分析数据来自哪里，采用什么采集方式？](../questions/Q-0809.md)
+- [Q-0809 项目分析数据来自哪里，采用什么采集方式？](../questions/Q-0809.md) · **已有答案**
 - [Q-0845 如何解析并入库 20 万行 Excel 数据？](../questions/Q-0845.md)
 - [Q-0900 MySQL 与 Redis 有什么区别？](../questions/Q-0900.md)
-- [Q-0907 项目处理的数据来自哪里，具体是什么内容？](../questions/Q-0907.md)
+- [Q-0907 项目处理的数据来自哪里，具体是什么内容？](../questions/Q-0907.md) · **已有答案**
 - [Q-0918 上游数据如何清洗转换，为什么会有空值或重复数据？](../questions/Q-0918.md)
 - [Q-0919 数据任务按什么频率调度？](../questions/Q-0919.md)
 - [Q-0920 数据去重具体如何实现？](../questions/Q-0920.md)
 - [Q-0921 结合业务场景说明数据聚合逻辑。](../questions/Q-0921.md)
 - [Q-0922 开发中遇到哪些数据异常，如何发现？](../questions/Q-0922.md)
-- [Q-0923 数据任务使用什么技术底座，耗时与性能如何优化？](../questions/Q-0923.md)
-- [Q-0924 Iceberg 表如何工作，与传统数仓有何区别？](../questions/Q-0924.md)
-- [Q-0927 Spark Shuffle、宽依赖和窄依赖是什么？](../questions/Q-0927.md)
-- [Q-0928 UDF 有什么作用？](../questions/Q-0928.md)
+- [Q-0923 数据任务使用什么技术底座，耗时与性能如何优化？](../questions/Q-0923.md) · **已有答案**
+- [Q-0924 Iceberg 表如何工作，与传统数仓有何区别？](../questions/Q-0924.md) · **已有答案**
+- [Q-0927 Spark Shuffle、宽依赖和窄依赖是什么？](../questions/Q-0927.md) · **已有答案**
+- [Q-0928 UDF 有什么作用？](../questions/Q-0928.md) · **已有答案**
 - [Q-0929 Spark Driver 和 Executor 分别负责什么？](../questions/Q-0929.md)
 - [Q-0930 上游 100 个文件对应 100 个 task，下游计算很重时怎样扩到 1000 个 task？](../questions/Q-0930.md)
 - [Q-0931 流处理中的 watermark 是什么？](../questions/Q-0931.md)
@@ -1445,12 +1445,12 @@
 - [Q-0297 项目为什么采用 Token 而不采用 Session？](../questions/Q-0297.md)
 - [Q-0299 系统设计了哪些用户角色？](../questions/Q-0299.md)
 - [Q-0335 卡核销如何获取参数，如何防止攻击者将 A 订单篡改为 B 订单？](../questions/Q-0335.md)
-- [Q-0391 项目如何实现用户鉴权与接口访问权限控制？](../questions/Q-0391.md)
+- [Q-0391 项目如何实现用户鉴权与接口访问权限控制？](../questions/Q-0391.md) · **已有答案**
 - [Q-0451 如何用 Nginx 限流并为恶意扫描 IP 建立动态黑名单？](../questions/Q-0451.md)
 - [Q-0744 扫码登录中的 OAuth 流程是什么，如何保障数据安全？](../questions/Q-0744.md)
 - [Q-0941 Agent 的认证 TOKEN 如何获得，有什么作用？](../questions/Q-0941.md)
 - [Q-0942 认证 TOKEN 和权限如何关联，数据库如何设计？](../questions/Q-0942.md)
-- [Q-0997 使用 JWT 时为什么还需要 Redis 白名单？](../questions/Q-0997.md)
+- [Q-0997 使用 JWT 时为什么还需要 Redis 白名单？](../questions/Q-0997.md) · **已有答案**
 - [Q-0999 用户多窗口或多平台登录时，一个窗口退出如何同步退出其他窗口？](../questions/Q-0999.md)
 - [Q-1007 如何限制 OSS 图片的外部访问？](../questions/Q-1007.md)
 - [Q-1131 Spring Security 如何实现 RBAC？](../questions/Q-1131.md)
@@ -1520,7 +1520,7 @@
 <a id="topic-15"></a>
 ## 测试工程与质量保障
 
-- [Q-0149 接口自动化测试如何实现，采用哪些工具？](../questions/Q-0149.md)
+- [Q-0149 接口自动化测试如何实现，采用哪些工具？](../questions/Q-0149.md) · **已有答案**
 - [Q-0151 旧系统没有接口文档和自动化时，如何建立自动化回归测试？](../questions/Q-0151.md)
 - [Q-0156 如何为扫码支付中输入六位密码后自动提交的流程设计测试用例？](../questions/Q-0156.md)
 - [Q-0295 项目如何使用 Pytest，测试与用例规模有多大？](../questions/Q-0295.md)
@@ -1532,7 +1532,7 @@
 - [Q-0303 项目的 Playwright 用例执行耗时是多少？](../questions/Q-0303.md)
 - [Q-0304 Allure 测试报告包含哪些内容？](../questions/Q-0304.md)
 - [Q-0457 Java 测试注解。](../questions/Q-0457.md)
-- [Q-0677 如何生成单元测试并保证覆盖完整？](../questions/Q-0677.md)
+- [Q-0677 如何生成单元测试并保证覆盖完整？](../questions/Q-0677.md) · **已有答案**
 - [Q-1030 测试 case 如何生成，生成后是否需要人工检查？](../questions/Q-1030.md)
 - [Q-1055 如何从团队端到端测试扩展出项目的多层测试框架？](../questions/Q-1055.md)
 - [Q-1093 项目声称核心测试覆盖率 90%，具体口径是什么，实际能否达到？](../questions/Q-1093.md)
@@ -1596,7 +1596,7 @@
 - [Q-1107 依赖注入和依赖倒置分别是什么？](../questions/Q-1107.md)
 - [Q-1108 依赖注入与传统单例管理实例有何区别，在什么需求变化下更合适？](../questions/Q-1108.md)
 - [Q-1109 A 依赖 B 时如何通过依赖注入接入，使 B 实现变化无需修改 A？](../questions/Q-1109.md)
-- [Q-1129 有哪些常见设计模式，优缺点、适用场景和项目使用情况如何？](../questions/Q-1129.md)
+- [Q-1129 有哪些常见设计模式，优缺点、适用场景和项目使用情况如何？](../questions/Q-1129.md) · **已有答案**
 - [Q-1130 MVC 与 DDD 分别是什么？](../questions/Q-1130.md)
 - [Q-1163 设计模式最重要的是什么，能否用一条设计原则概括？](../questions/Q-1163.md)
 - [Q-1328 如何按 Bean 生命周期分类设计模式？](../questions/Q-1328.md)
@@ -1620,8 +1620,8 @@
 
 - [Q-0392 Nacos 注册中心如何使用？](../questions/Q-0392.md)
 - [Q-0427 与自研服务器框架相比，gRPC 等成熟方案有哪些差异？](../questions/Q-0427.md)
-- [Q-0436 如何使用 Git、GitHub 或码云进行版本管理？](../questions/Q-0436.md)
-- [Q-0559 Go 与 Java 有哪些区别？](../questions/Q-0559.md)
+- [Q-0436 如何使用 Git、GitHub 或码云进行版本管理？](../questions/Q-0436.md) · **已有答案**
+- [Q-0559 Go 与 Java 有哪些区别？](../questions/Q-0559.md) · **已有答案**
 - [Q-0754 重构引入了哪些问题？](../questions/Q-0754.md)
 - [Q-1014 平时是否经常使用 Git？](../questions/Q-1014.md)
 - [Q-1067 项目为什么不用现成开源库？](../questions/Q-1067.md)
@@ -1629,7 +1629,7 @@
 - [Q-1136 Knife4j 与 Swagger 有何区别，为何使用？](../questions/Q-1136.md)
 - [Q-1137 Apache POI 在哪些场景使用，与 EasyExcel 有何区别？](../questions/Q-1137.md)
 - [Q-1159 git revert 和 git reset 有何区别？](../questions/Q-1159.md)
-- [Q-1160 多人开发出现 Git 冲突时如何处理？](../questions/Q-1160.md)
+- [Q-1160 多人开发出现 Git 冲突时如何处理？](../questions/Q-1160.md) · **已有答案**
 - [Q-1476 PHP 接口迁 Java 如何实施和验证？](../questions/Q-1476.md)
 - [Q-1655 如何看待 Python 与 TypeScript 的开发差异？](../questions/Q-1655.md)
 - [Q-1697 服务运行中突然卡顿时如何排查？](../questions/Q-1697.md)
@@ -1639,11 +1639,11 @@
 - [Q-1878 了解或使用过哪些 Redis、Kafka、ES 等传统研发技术？](../questions/Q-1878.md)
 - [Q-1903 项目为什么使用 Lua 脚本？](../questions/Q-1903.md)
 - [Q-1979 是否把所有业务代码放在同一仓库，再用目录区分业务？](../questions/Q-1979.md)
-- [Q-2026 项目为什么选择这些技术，是为了学习还是有其他考量？](../questions/Q-2026.md)
+- [Q-2026 项目为什么选择这些技术，是为了学习还是有其他考量？](../questions/Q-2026.md) · **已有答案**
 - [Q-2127 使用过哪些中间件？](../questions/Q-2127.md)
 - [Q-2258 重构前业务接入和维护具体有哪些困难？](../questions/Q-2258.md)
 - [Q-2272 接到新需求时，除补充测试用例还要做哪些准备？](../questions/Q-2272.md)
-- [Q-2287 Java 与 Python 各有什么开发优势，你更熟悉哪种？](../questions/Q-2287.md)
+- [Q-2287 Java 与 Python 各有什么开发优势，你更熟悉哪种？](../questions/Q-2287.md) · **已有答案**
 - [Q-2321 项目为何选用 tRPC？](../questions/Q-2321.md)
 - [Q-2435 如何让自建配置中心优先级高于环境变量、application.yml、Spring Cloud 和命令行配置？](../questions/Q-2435.md)
 - [Q-2436 通过 @Value 注入的配置运行时变化，应用如何感知并刷新内存？](../questions/Q-2436.md)
@@ -1675,7 +1675,7 @@
 
 - [Q-0108 是否用过 Kubernetes，了解哪些部署相关能力？](../questions/Q-0108.md)
 - [Q-0109 cgroup 在资源管理中起什么作用？](../questions/Q-0109.md)
-- [Q-0111 如何理解 CI/CD，它怎样用于项目交付？](../questions/Q-0111.md)
+- [Q-0111 如何理解 CI/CD，它怎样用于项目交付？](../questions/Q-0111.md) · **已有答案**
 - [Q-0120 Windows 环境下 Docker 如何实现资源隔离？](../questions/Q-0120.md)
 - [Q-0305 CI 流水线中为什么使用 Docker？](../questions/Q-0305.md)
 - [Q-0394 使用过哪些 Linux 系统，如何从本地连接服务器？](../questions/Q-0394.md)
@@ -1734,7 +1734,7 @@
 - [Q-0404 项目的启动性能优化具体如何实施？](../questions/Q-0404.md)
 - [Q-0467 设计压测方案时需要观察哪些指标？](../questions/Q-0467.md)
 - [Q-0479 系统冷启动时如何注入流量？](../questions/Q-0479.md)
-- [Q-1584 项目 QPS 有多高，如何压测和规划节点容量？](../questions/Q-1584.md)
+- [Q-1584 项目 QPS 有多高，如何压测和规划节点容量？](../questions/Q-1584.md) · **已有答案**
 - [Q-1762 K6 是做什么的？](../questions/Q-1762.md)
 - [Q-1763 项目压测采用单接口还是完整链路，具体如何执行？](../questions/Q-1763.md)
 - [Q-1764 压测最终在哪个环境运行？](../questions/Q-1764.md)
@@ -1774,12 +1774,12 @@
 <a id="topic-20"></a>
 ## 系统架构与业务设计
 
-- [Q-0134 为什么进行服务重构，流量如何切换？](../questions/Q-0134.md)
+- [Q-0134 为什么进行服务重构，流量如何切换？](../questions/Q-0134.md) · **已有答案**
 - [Q-0136 项目中的负载均衡如何实现？](../questions/Q-0136.md)
 - [Q-0192 DNS 只解析出一个 IP 时如何映射后端集群，Nginx 如何部署？](../questions/Q-0192.md)
-- [Q-0237 如何用 Redis 处理重复请求，并划分 Redis 与 MySQL 的数据存储职责？](../questions/Q-0237.md)
+- [Q-0237 如何用 Redis 处理重复请求，并划分 Redis 与 MySQL 的数据存储职责？](../questions/Q-0237.md) · **已有答案**
 - [Q-0241 聊天记录查询超时时，如何通过监控和链路追踪定位 Redis 锁冲突？](../questions/Q-0241.md)
-- [Q-0306 基于 Redis 的限流算法有哪些？](../questions/Q-0306.md)
+- [Q-0306 基于 Redis 的限流算法有哪些？](../questions/Q-0306.md) · **已有答案**
 - [Q-0334 批量导入的测试数据和结果如何验证，卡密如何加密？](../questions/Q-0334.md)
 - [Q-0396 如何把单体老项目改造成微服务？](../questions/Q-0396.md)
 - [Q-0442 限流的并发速率和单位时间阈值如何确定？](../questions/Q-0442.md)
@@ -1788,16 +1788,16 @@
 - [Q-0622 秒杀流量超过单机 Redis 能力时怎么办？](../questions/Q-0622.md)
 - [Q-0693 优惠券秒杀为什么使用 Redis Lua 校验并预扣库存？](../questions/Q-0693.md)
 - [Q-0694 Lua 脚本回退是什么意思，何时需要回退？](../questions/Q-0694.md)
-- [Q-0696 仅凭 Lua 和消息队列能否保证不超卖和一人一单？](../questions/Q-0696.md)
+- [Q-0696 仅凭 Lua 和消息队列能否保证不超卖和一人一单？](../questions/Q-0696.md) · **已有答案**
 - [Q-0761 如何理解中台化？](../questions/Q-0761.md)
 - [Q-0765 如何设计通知平台并保证接口幂等？](../questions/Q-0765.md)
 - [Q-0840 TikTok 账号私信和评论如何托管？](../questions/Q-0840.md)
-- [Q-0937 系统如何探活并保障高可用？](../questions/Q-0937.md)
+- [Q-0937 系统如何探活并保障高可用？](../questions/Q-0937.md) · **已有答案**
 - [Q-0950 系统采用什么限流规则和维度？](../questions/Q-0950.md)
 - [Q-0951 如何用 Redis Lua 脚本实现限流？](../questions/Q-0951.md)
 - [Q-0954 长耗时回测和下单为何采用异步任务加 SSE，而非同步 HTTP？](../questions/Q-0954.md)
-- [Q-1000 支付的完整交易链路如何实现？](../questions/Q-1000.md)
-- [Q-1001 业务幂等性如何验证和实现？](../questions/Q-1001.md)
+- [Q-1000 支付的完整交易链路如何实现？](../questions/Q-1000.md) · **已有答案**
+- [Q-1001 业务幂等性如何验证和实现？](../questions/Q-1001.md) · **已有答案**
 - [Q-1002 库存扣减如何实现？](../questions/Q-1002.md)
 - [Q-1018 短链接生成发生哈希冲突时如何处理，还有哪些方案？](../questions/Q-1018.md)
 - [Q-1025 你认为困难的后端逻辑是什么，如何理解并发的难点？](../questions/Q-1025.md)
@@ -1807,8 +1807,8 @@
 - [Q-1135 帖子回复消息如何通知用户？](../questions/Q-1135.md)
 - [Q-1161 RESTful API 应如何设计？](../questions/Q-1161.md)
 - [Q-1183 项目做了哪些内存优化？](../questions/Q-1183.md)
-- [Q-1184 订单场景如何同时保障幂等与数据一致性？](../questions/Q-1184.md)
-- [Q-1188 秒杀如何防止库存超卖？](../questions/Q-1188.md)
+- [Q-1184 订单场景如何同时保障幂等与数据一致性？](../questions/Q-1184.md) · **已有答案**
+- [Q-1188 秒杀如何防止库存超卖？](../questions/Q-1188.md) · **已有答案**
 - [Q-1202 库存主动更新后推送消息失败时如何保证同步？](../questions/Q-1202.md)
 - [Q-1222 请求流量突然增加十倍时如何应对？](../questions/Q-1222.md)
 - [Q-1276 线上接口由毫秒级变慢或超时时，如何排查？](../questions/Q-1276.md)
@@ -1818,7 +1818,7 @@
 - [Q-1381 船舶点位聚合如何优化，数万或百万点时如何扩展？](../questions/Q-1381.md)
 - [Q-1389 设计 B 站实时弹幕，如何选择数据结构和存储？](../questions/Q-1389.md)
 - [Q-1407 同步改异步有什么价值，如何处理恢复重试和用户等待？](../questions/Q-1407.md)
-- [Q-1419 项目里的慢接口如何优化？](../questions/Q-1419.md)
+- [Q-1419 项目里的慢接口如何优化？](../questions/Q-1419.md) · **已有答案**
 - [Q-1458 支持重复搜索的平台如何设计，是否需要 ES，如何优化？](../questions/Q-1458.md)
 - [Q-1462 嵌入式与后端有何区别，用 C++ 重写 Java IM 难在哪里？](../questions/Q-1462.md)
 - [Q-1478 一个订单支付两次如何处理幂等？](../questions/Q-1478.md)
