@@ -21,11 +21,11 @@
 ## Transformer 与注意力
 
 - [Q-0036 Transformer 中的 Attention 如何计算？](../questions/Q-0036.md) · **已有答案**
-- [Q-0268 Self-Attention 为何利于并行训练，与 RNN 相比有哪些局限？](../questions/Q-0268.md)
-- [Q-0572 Self-Attention 为什么需要 Scaling？](../questions/Q-0572.md)
-- [Q-0575 手写 Multi-Head Attention。](../questions/Q-0575.md)
-- [Q-0625 Transformer 的整体原理是什么？](../questions/Q-0625.md)
-- [Q-0666 Transformer 有哪些优劣势，与其他架构相比如何？](../questions/Q-0666.md)
+- [Q-0268 Self-Attention 为何利于并行训练，与 RNN 相比有哪些局限？](../questions/Q-0268.md) · **已有答案**
+- [Q-0572 Self-Attention 为什么需要 Scaling？](../questions/Q-0572.md) · **已有答案**
+- [Q-0575 手写 Multi-Head Attention。](../questions/Q-0575.md) · **已有答案**
+- [Q-0625 Transformer 的整体原理是什么？](../questions/Q-0625.md) · **已有答案**
+- [Q-0666 Transformer 有哪些优劣势，与其他架构相比如何？](../questions/Q-0666.md) · **已有答案**
 - [Q-1748 Cross-Attention 中 Q、K、V 分别来自哪里？](../questions/Q-1748.md)
 - [Q-2467 交叉注意力如何工作？](../questions/Q-2467.md)
 - [Q-2781 多头注意力机制如何工作？](../questions/Q-2781.md)
@@ -93,8 +93,8 @@
 
 - [Q-0208 Chat Template、System Prompt 和训练形成的行为先验有什么关系？](../questions/Q-0208.md)
 - [Q-0279 MoE 负载均衡损失与专家路由塌缩有什么关系，如何稳定路由？](../questions/Q-0279.md)
-- [Q-0511 熟悉哪些大模型，它们的结构有何不同？](../questions/Q-0511.md)
-- [Q-0571 Qwen3 与 BGE 编码模型原理是什么，Qwen3 编码模型如何训练？](../questions/Q-0571.md)
+- [Q-0511 熟悉哪些大模型，它们的结构有何不同？](../questions/Q-0511.md) · **已有答案**
+- [Q-0571 Qwen3 与 BGE 编码模型原理是什么，Qwen3 编码模型如何训练？](../questions/Q-0571.md) · **已有答案**
 - [Q-0601 12 层 BERT Base 的参数量如何计算？](../questions/Q-0601.md)
 - [Q-0613 大模型的输入与输出如何表示？](../questions/Q-0613.md)
 - [Q-0682 ChatGLM 与 LLaMA 有什么区别？](../questions/Q-0682.md)
@@ -224,7 +224,7 @@
 ## Tokenizer 与位置编码
 
 - [Q-0287 Token 与字符有什么区别？](../questions/Q-0287.md)
-- [Q-0508 位置编码的原理。](../questions/Q-0508.md)
+- [Q-0508 位置编码的原理。](../questions/Q-0508.md) · **已有答案**
 - [Q-0512 大模型常见位置编码有哪些，各有什么优缺点？](../questions/Q-0512.md)
 - [Q-3650 RoPE 是什么，解决什么问题？](../questions/Q-3650.md)
 - [Q-3685 Tokenizer 的原理是什么，如何影响大模型训练与推理？](../questions/Q-3685.md)
@@ -253,7 +253,7 @@
 ## 推理与解码
 
 - [Q-2279 为什么 Temperature 为 0 时模型输出仍可能有差异？](../questions/Q-2279.md)
-- [Q-2757 Temperature、Top-k 和 Top-p 怎样影响模型采样？](../questions/Q-2757.md)
+- [Q-2757 Temperature、Top-k 和 Top-p 怎样影响模型采样？](../questions/Q-2757.md) · **已有答案**
 - [Q-2917 投机解码的原理是什么？](../questions/Q-2917.md)
 - [Q-3686 大模型常见解码策略有哪些，贪心、Beam Search 与采样如何选择？](../questions/Q-3686.md)
 - [Q-3700 Decoder-only 模型在训练和推理阶段的输入形式有什么不同？](../questions/Q-3700.md)
@@ -285,20 +285,20 @@
 ## 推理优化与模型压缩
 
 - [Q-0274 Decoder-only 的 KV Cache 为什么缓存 K、V 而通常不缓存 Q？](../questions/Q-0274.md)
-- [Q-0277 FlashAttention 为什么能节省显存并提速，是否改变注意力结果？](../questions/Q-0277.md)
-- [Q-0502 有哪些大模型推理加速技术？](../questions/Q-0502.md)
-- [Q-0503 模型剪枝、GPTQ 与 AWQ 量化方法。](../questions/Q-0503.md)
-- [Q-0505 如何优化长文本生成中的显存占用？](../questions/Q-0505.md)
+- [Q-0277 FlashAttention 为什么能节省显存并提速，是否改变注意力结果？](../questions/Q-0277.md) · **已有答案**
+- [Q-0502 有哪些大模型推理加速技术？](../questions/Q-0502.md) · **已有答案**
+- [Q-0503 模型剪枝、GPTQ 与 AWQ 量化方法。](../questions/Q-0503.md) · **已有答案**
+- [Q-0505 如何优化长文本生成中的显存占用？](../questions/Q-0505.md) · **已有答案**
 - [Q-0516 模型如何实现超长上下文能力？](../questions/Q-0516.md)
 - [Q-0603 模型推理时 Batch Size 如何设置？](../questions/Q-0603.md)
-- [Q-0616 如何解决模型像复读机一样重复生成的问题？](../questions/Q-0616.md)
-- [Q-0641 主流模型的上下文长度分别是多少？](../questions/Q-0641.md)
-- [Q-0982 因果模型中第 40 个 token 的 KV Cache 缺失或失效后，应从哪里重新计算？](../questions/Q-0982.md)
-- [Q-1665 上下文压缩后 KV Cache 是否失效？](../questions/Q-1665.md)
+- [Q-0616 如何解决模型像复读机一样重复生成的问题？](../questions/Q-0616.md) · **已有答案**
+- [Q-0641 主流模型的上下文长度分别是多少？](../questions/Q-0641.md) · **已有答案**
+- [Q-0982 因果模型中第 40 个 token 的 KV Cache 缺失或失效后，应从哪里重新计算？](../questions/Q-0982.md) · **已有答案**
+- [Q-1665 上下文压缩后 KV Cache 是否失效？](../questions/Q-1665.md) · **已有答案**
 - [Q-2153 大模型如何逐步生成 Token？](../questions/Q-2153.md)
 - [Q-2176 模型的 Prompt Cache 如何工作？](../questions/Q-2176.md)
 - [Q-2465 Lost in the Middle 现象是什么原理？](../questions/Q-2465.md)
-- [Q-2718 KV Cache 缓存什么，怎样影响推理速度和显存？](../questions/Q-2718.md)
+- [Q-2718 KV Cache 缓存什么，怎样影响推理速度和显存？](../questions/Q-2718.md) · **已有答案**
 - [Q-2775 如何用 KV Cache 和稀疏注意力节省计算与存储？](../questions/Q-2775.md)
 - [Q-2776 如何降低 KV Cache 空间开销，MQA 等结构起什么作用？](../questions/Q-2776.md)
 - [Q-2836 模型量化为什么能够发挥作用？](../questions/Q-2836.md)
@@ -1058,18 +1058,18 @@
 <a id="topic-8"></a>
 ## 模型选型与能力边界
 
-- [Q-0323 项目使用了哪个具体模型与版本？](../questions/Q-0323.md)
-- [Q-0346 模型、GPU 和参数规模如何选择，是否考虑更大参数模型加量化？](../questions/Q-0346.md)
+- [Q-0323 项目使用了哪个具体模型与版本？](../questions/Q-0323.md) · **已有答案**
+- [Q-0346 模型、GPU 和参数规模如何选择，是否考虑更大参数模型加量化？](../questions/Q-0346.md) · **已有答案**
 - [Q-0465 推理模型的原理是什么？](../questions/Q-0465.md)
-- [Q-0485 项目为什么选择本地部署模型或调用 API？](../questions/Q-0485.md)
-- [Q-0628 微调与 RAG 有什么区别，如何选择？](../questions/Q-0628.md)
+- [Q-0485 项目为什么选择本地部署模型或调用 API？](../questions/Q-0485.md) · **已有答案**
+- [Q-0628 微调与 RAG 有什么区别，如何选择？](../questions/Q-0628.md) · **已有答案**
 - [Q-0866 多模态业务与纯文本模型业务有什么区别？](../questions/Q-0866.md)
 - [Q-1021 从大模型切换到小模型是为了响应速度吗，效果如何对比？](../questions/Q-1021.md)
 - [Q-1165 大模型 API 有哪些关键参数，temperature、message list 等作用是什么？](../questions/Q-1165.md)
 - [Q-1227 模型最终输出的具体结果是什么？](../questions/Q-1227.md)
 - [Q-1267 是否亲自部署过大模型？](../questions/Q-1267.md)
 - [Q-1270 项目使用什么大模型或哪类模型？](../questions/Q-1270.md)
-- [Q-1293 不同模型适合什么场景，如何比较使用效果？](../questions/Q-1293.md)
+- [Q-1293 不同模型适合什么场景，如何比较使用效果？](../questions/Q-1293.md) · **已有答案**
 - [Q-1609 动态定价模型 INT8 量化后价格异常，如何归因？](../questions/Q-1609.md)
 - [Q-1747 Level-K 博弈模块如何与之前的模型串联？](../questions/Q-1747.md)
 - [Q-1900 对 Transformer、微调和小模型等算法知识了解多少？](../questions/Q-1900.md)
@@ -1077,7 +1077,7 @@
 - [Q-1973 能否在关键推理步骤用更强模型，为什么实验不直接选择最强基座模型？](../questions/Q-1973.md)
 - [Q-2154 大模型本身是否具备记忆能力？](../questions/Q-2154.md)
 - [Q-2375 最喜欢使用哪个大模型？](../questions/Q-2375.md)
-- [Q-2696 项目为什么选择当前基座模型或架构？](../questions/Q-2696.md)
+- [Q-2696 项目为什么选择当前基座模型或架构？](../questions/Q-2696.md) · **已有答案**
 - [Q-2791 混合推理如何实现，增强推理时如何避免遗忘通用能力？](../questions/Q-2791.md)
 - [Q-2909 如何提高模型挖掘关联关系并正确回答的能力？](../questions/Q-2909.md)
 - [Q-2980 项目训练的模型有多少参数？](../questions/Q-2980.md)

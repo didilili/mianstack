@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="1350" viewBox="0 0 390 1350" role="img" aria-labelledby="title desc">
+<title id="title">FlashAttention：分块但保持全行归一</title><desc id="desc">以HBM与片上快速存储解释减少完整注意力中间矩阵落盘。两块分数0与ln2，对应value10与20，统一最大值后旧项缩放1/2，l为1.5，u为25，输出50/3。每块独立归一相加会错误得到30。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="context-stroke"/></marker></defs>
+<style>text{font-family:PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif;fill:#172536} .small{font-size:16px} .muted{fill:#526171} .bold{font-weight:650}</style>
+<rect width="390" height="100%" fill="#fff"/>
+<text x="20" y="38" font-size="26" font-weight="700">FlashAttention</text>
+<text x="20" y="72" font-size="22" font-weight="650">分块计算，仍按整行归一</text>
+<text x="20" y="101" font-size="17" style="fill:#526171">省的是完整 N×N 中间矩阵的读写</text>
+<rect x="20" y="122" width="350" height="96" rx="12" fill="#f1f6ff" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="195" y="157" font-size="19" font-weight="650" text-anchor="middle">HBM：Q / K / V 与最终输出</text>
+<text x="195" y="189" font-size="17" style="fill:#526171" text-anchor="middle">容量较大；数据搬运有代价</text>
+<line x1="125" y1="219" x2="125" y2="278" stroke="#205bc6" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="32" y="251" font-size="17" style="fill:#205bc6">分块读入</text>
+<line x1="258" y1="278" x2="258" y2="219" stroke="#c95013" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="276" y="244" font-size="16" style="fill:#c95013">最终</text>
+<text x="276" y="265" font-size="16" style="fill:#c95013">回写</text>
+<rect x="20" y="290" width="350" height="112" rx="12" fill="#fff5ec" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="195" y="325" font-size="18" font-weight="650" text-anchor="middle">片上快速存储：小块 + m、l、u</text>
+<text x="195" y="355" font-size="16" style="fill:#526171" text-anchor="middle">块内算分数、softmax 与加权 V</text>
+<text x="195" y="382" font-size="16" style="fill:#526171" text-anchor="middle">不向 HBM 写回完整 N×N 分数 / 概率</text>
+<text x="20" y="444" font-size="20" font-weight="650">数例：一个 query，两个 key</text>
+<text x="30" y="477" font-size="19">分数 = [0, ln 2]</text>
+<text x="30" y="507" font-size="19">对应 value = [10, 20]</text>
+<rect x="16" y="536" width="358" height="121" rx="12" fill="#f1f6ff" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="30" y="570" font-size="19" font-weight="650">第 1 块：分数 0，value 10</text>
+<text x="30" y="605" font-size="20">m = 0，l = 1，u = 10</text>
+<text x="30" y="636" font-size="16" style="fill:#526171">m：最大值  l：指数和  u：加权和</text>
+<line x1="195" y1="659" x2="195" y2="691" stroke="#205bc6" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="16" y="706" width="358" height="238" rx="12" fill="#fff5ec" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="30" y="740" font-size="19" font-weight="650">第 2 块：分数 ln 2，value 20</text>
+<text x="30" y="778" font-size="17">统一最大值：m_new = ln 2</text>
+<text x="30" y="808" font-size="17">旧块重缩放：exp(0 − ln 2) = 1/2</text>
+<text x="30" y="852" font-size="19" style="fill:#c95013" font-weight="650">l_new = 1 × 1/2 + 1 = 1.5</text>
+<text x="30" y="888" font-size="19" style="fill:#c95013" font-weight="650">u_new = 10 × 1/2 + 20 = 25</text>
+<line x1="195" y1="946" x2="195" y2="977" stroke="#12694c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="16" y="991" width="358" height="114" rx="12" fill="#eef9f3" stroke="#a9d2bd" stroke-width="1.4"/>
+<text x="30" y="1024" font-size="19" style="fill:#12694c" font-weight="650">正确输出：u_new / l_new</text>
+<text x="30" y="1065" font-size="22" style="fill:#12694c" font-weight="650">25 / 1.5 = 50/3 ≈ 16.667</text>
+<rect x="16" y="1130" width="358" height="112" rx="12" fill="#fff2f3" stroke="#e3b4bc" stroke-width="1.4"/>
+<text x="30" y="1164" font-size="18" style="fill:#ac3040" font-weight="650">错法：每块各自归一，再相加</text>
+<text x="30" y="1206" font-size="22" style="fill:#ac3040" font-weight="650">10 + 20 = 30 ≠ 50/3</text>
+<text x="20" y="1280" font-size="16" style="fill:#526171">标准密集注意力：保留同一数学目标</text>
+<text x="20" y="1307" font-size="16" style="fill:#526171">浮点累加次序不同，不保证逐 bit 相同</text>
+</svg>

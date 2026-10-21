@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="1110" viewBox="0 0 390 1110" role="img" aria-labelledby="title desc">
+<title id="title">KV Cache：复用旧位置，计算新位置</title><desc id="desc">标准因果Decoder一次解码示意。各层历史位置1至t-1的K/V保留；输入已知token t产生新Q/K/V。新Q读取包含本位置的全部可见K/V，并把新K/V追加进各层缓存。处理到t后预测t+1，不把历史Q缓存或输入位置与预测位置混淆。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="context-stroke"/></marker></defs>
+<style>text{font-family:PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif;fill:#172536} .small{font-size:16px} .muted{fill:#526171} .bold{font-weight:650}</style>
+<rect width="390" height="100%" fill="#fff"/>
+<text x="20" y="38" font-size="23" font-weight="700">KV Cache：复用旧，计算新</text>
+<text x="20" y="72" font-size="17" style="fill:#526171">一次解码：输入 token t 已经确定</text>
+<text x="20" y="97" font-size="17" style="fill:#526171">这里只画一层；每层各有自己的缓存</text>
+<rect x="16" y="122" width="358" height="160" rx="12" fill="#f1f6ff" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="30" y="153" font-size="20" font-weight="650">① 保留历史 K / V</text>
+<rect x="35" y="169" width="320" height="40" rx="7" fill="#e2edff" stroke="#b8ccef" stroke-width="1.4"/>
+<text x="195" y="196" font-size="19" style="fill:#205bc6" text-anchor="middle">K[1]  …  K[t−1]</text>
+<rect x="35" y="221" width="320" height="40" rx="7" fill="#e2edff" stroke="#b8ccef" stroke-width="1.4"/>
+<text x="195" y="248" font-size="19" style="fill:#205bc6" text-anchor="middle">V[1]  …  V[t−1]</text>
+<rect x="16" y="306" width="358" height="190" rx="12" fill="#fff" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="30" y="338" font-size="20" font-weight="650">② 只计算当前输入位置</text>
+<rect x="117" y="357" width="156" height="40" rx="8" fill="#fff2e8" stroke="#efbd9c" stroke-width="1.4"/>
+<text x="195" y="384" font-size="18" style="fill:#c95013" text-anchor="middle">输入 token t</text>
+<line x1="195" y1="397" x2="78" y2="429" stroke="#c95013" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="34" y="435" width="88" height="40" rx="7" fill="#fff2e8" stroke="#efbd9c" stroke-width="1.4"/>
+<text x="78" y="462" font-size="18" style="fill:#c95013" font-weight="650" text-anchor="middle">Q[t]</text>
+<line x1="195" y1="397" x2="195" y2="429" stroke="#c95013" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="151" y="435" width="88" height="40" rx="7" fill="#fff2e8" stroke="#efbd9c" stroke-width="1.4"/>
+<text x="195" y="462" font-size="18" style="fill:#c95013" font-weight="650" text-anchor="middle">K[t]</text>
+<line x1="195" y1="397" x2="312" y2="429" stroke="#c95013" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="268" y="435" width="88" height="40" rx="7" fill="#fff2e8" stroke="#efbd9c" stroke-width="1.4"/>
+<text x="312" y="462" font-size="18" style="fill:#c95013" font-weight="650" text-anchor="middle">V[t]</text>
+<rect x="16" y="524" width="358" height="258" rx="12" fill="#f7faf8" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="30" y="557" font-size="19" font-weight="650">③ 新 Q 读取历史及当前 K / V</text>
+<text x="30" y="588" font-size="17" style="fill:#526171">新 K / V 追加到对应缓存末尾</text>
+<rect x="34" y="607" width="234" height="36" rx="6" fill="#e2edff" stroke="#b8ccef" stroke-width="1.4"/>
+<text x="151" y="632" font-size="17" style="fill:#205bc6" text-anchor="middle">K[1]  …  K[t−1]</text>
+<rect x="276" y="607" width="80" height="36" rx="6" fill="#fff2e8" stroke="#efbd9c" stroke-width="1.4"/>
+<text x="316" y="632" font-size="17" style="fill:#c95013" text-anchor="middle">K[t]</text>
+<rect x="34" y="655" width="234" height="36" rx="6" fill="#e2edff" stroke="#b8ccef" stroke-width="1.4"/>
+<text x="151" y="680" font-size="17" style="fill:#205bc6" text-anchor="middle">V[1]  …  V[t−1]</text>
+<rect x="276" y="655" width="80" height="36" rx="6" fill="#fff2e8" stroke="#efbd9c" stroke-width="1.4"/>
+<text x="316" y="680" font-size="17" style="fill:#c95013" text-anchor="middle">V[t]</text>
+<text x="30" y="726" font-size="17" font-weight="650">softmax(Q[t] × K[1..t]ᵀ / √d)</text>
+<text x="30" y="755" font-size="17">再加权 V[1..t]，得到当前位置输出</text>
+<line x1="195" y1="784" x2="195" y2="812" stroke="#205bc6" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="16" y="826" width="358" height="150" rx="12" fill="#f1f6ff" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="30" y="859" font-size="19" font-weight="650">④ 继续后续层 → 最终输出分布</text>
+<text x="30" y="893" font-size="18" style="fill:#205bc6">处理到位置 t，预测 token t+1</text>
+<text x="30" y="924" font-size="18" style="fill:#205bc6">选出的 t+1 留到下一步作为输入</text>
+<text x="20" y="1015" font-size="16" style="fill:#526171">历史 Q 不用于新位置注意力，通常不缓存</text>
+<text x="20" y="1042" font-size="16" style="fill:#526171">缓存长度随已处理 token 增长；仍需读历史</text>
+<text x="20" y="1069" font-size="16" style="fill:#526171">标准因果 Decoder 教学示意，非物理内存布局</text>
+</svg>

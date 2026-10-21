@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="1300" viewBox="0 0 390 1300" role="img" aria-labelledby="title desc">
+<title id="title">KV第40位置：存储缺项与依赖改变</title><desc id="desc">在固定模型权重、位置与掩码的标准全因果Decoder中，前39位置有效。纯存储缺失可补回第40位置而不自动使已正确计算后缀失效；输入40改变时，第一层未改后缀的KV可能不变，高层后缀受影响。引擎也可能采用块边界回退。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="context-stroke"/></marker></defs>
+<style>text{font-family:PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif;fill:#172536} .small{font-size:16px} .muted{fill:#526171} .bold{font-weight:650}</style>
+<rect width="390" height="100%" fill="#fff"/>
+<text x="20" y="38" font-size="23" font-weight="700">第 40 个 KV：先分清原因</text>
+<text x="20" y="72" font-size="17" style="fill:#526171">范围：标准全因果 Decoder</text>
+<text x="20" y="98" font-size="17" style="fill:#526171">假设权重、位置、掩码等条件一致</text>
+<rect x="16" y="124" width="358" height="414" rx="12" fill="#f7f9fc" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="29" y="158" font-size="21" font-weight="650">A  只有存储项丢失</text>
+<text x="29" y="190" font-size="17">原输入没变；后缀此前已正确算出</text>
+<text x="161" y="230" font-size="17" font-weight="650" text-anchor="middle">1…39</text>
+<text x="245" y="230" font-size="17" font-weight="650" text-anchor="middle">40</text>
+<text x="320" y="230" font-size="17" font-weight="650" text-anchor="middle">41…T</text>
+<text x="29" y="272" font-size="16" font-weight="650">各层 KV</text>
+<rect x="112" y="246" width="98" height="40" rx="5" fill="#edf8f1" stroke="#12694c" stroke-width="1.4"/>
+<text x="161.0" y="272" font-size="16" style="fill:#12694c" text-anchor="middle">有效</text>
+<rect x="220" y="246" width="50" height="40" rx="5" fill="#fff" stroke="#526171" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="245.0" y="272" font-size="16" style="fill:#526171" text-anchor="middle">缺失</text>
+<rect x="280" y="246" width="78" height="40" rx="5" fill="#edf8f1" stroke="#12694c" stroke-width="1.4"/>
+<text x="319.0" y="272" font-size="16" style="fill:#12694c" text-anchor="middle">仍可信</text>
+<line x1="245" y1="290" x2="245" y2="323" stroke="#c95013" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="40" y="336" width="310" height="68" rx="12" fill="#fff2e8" stroke="#efbd9c" stroke-width="1.4"/>
+<text x="195" y="363" font-size="17" style="fill:#c95013" text-anchor="middle">利用前 39 与原 token 40</text>
+<text x="195" y="389" font-size="17" style="fill:#c95013" text-anchor="middle">逐层补回第 40 位置</text>
+<line x1="245" y1="405" x2="245" y2="430" stroke="#c95013" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="29" y="468" font-size="16" font-weight="650">补回后</text>
+<rect x="112" y="442" width="98" height="40" rx="5" fill="#edf8f1" stroke="#12694c" stroke-width="1.4"/>
+<text x="161.0" y="468" font-size="16" style="fill:#12694c" text-anchor="middle">保留</text>
+<rect x="220" y="442" width="50" height="40" rx="5" fill="#fff2e8" stroke="#c95013" stroke-width="1.4"/>
+<text x="245.0" y="468" font-size="16" style="fill:#c95013" text-anchor="middle">恢复</text>
+<rect x="280" y="442" width="78" height="40" rx="5" fill="#edf8f1" stroke="#12694c" stroke-width="1.4"/>
+<text x="319.0" y="468" font-size="16" style="fill:#12694c" text-anchor="middle">可复用</text>
+<text x="29" y="515" font-size="16" style="fill:#526171">前提：引擎支持补洞，其他缓存可信</text>
+<rect x="16" y="563" width="358" height="424" rx="12" fill="#f7f9fc" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="29" y="599" font-size="21" font-weight="650">B  输入 token 40 改变</text>
+<text x="29" y="631" font-size="16">后缀 token 未改，其他计算条件未变</text>
+<text x="161" y="674" font-size="17" font-weight="650" text-anchor="middle">1…39</text>
+<text x="245" y="674" font-size="17" font-weight="650" text-anchor="middle">40</text>
+<text x="320" y="674" font-size="17" font-weight="650" text-anchor="middle">41…T</text>
+<text x="29" y="718" font-size="16" font-weight="650">第 1 层</text>
+<rect x="112" y="692" width="98" height="40" rx="5" fill="#edf8f1" stroke="#12694c" stroke-width="1.4"/>
+<text x="161.0" y="718" font-size="16" style="fill:#12694c" text-anchor="middle">有效</text>
+<rect x="220" y="692" width="50" height="40" rx="5" fill="#fff2e8" stroke="#c95013" stroke-width="1.4"/>
+<text x="245.0" y="718" font-size="16" style="fill:#c95013" text-anchor="middle">重算</text>
+<rect x="280" y="692" width="78" height="40" rx="5" fill="#edf8f1" stroke="#12694c" stroke-width="1.4"/>
+<text x="319.0" y="718" font-size="16" style="fill:#12694c" text-anchor="middle">可不变</text>
+<text x="29" y="777" font-size="16" font-weight="650">更高层</text>
+<rect x="112" y="751" width="98" height="40" rx="5" fill="#edf8f1" stroke="#12694c" stroke-width="1.4"/>
+<text x="161.0" y="777" font-size="16" style="fill:#12694c" text-anchor="middle">有效</text>
+<rect x="220" y="751" width="50" height="40" rx="5" fill="#fff2e8" stroke="#c95013" stroke-width="1.4"/>
+<text x="245.0" y="777" font-size="16" style="fill:#c95013" text-anchor="middle">重算</text>
+<rect x="280" y="751" width="78" height="40" rx="5" fill="#fff2f3" stroke="#ac3040" stroke-width="1.4"/>
+<text x="319.0" y="777" font-size="16" style="fill:#ac3040" text-anchor="middle">受影响</text>
+<text x="29" y="830" font-size="17">第 1 层 KV 来自本位置输入；</text>
+<text x="29" y="858" font-size="17">后续未改位置可保留原投影。</text>
+<text x="29" y="886" font-size="17">经过注意力后，高层状态依赖位置 40。</text>
+<text x="29" y="933" font-size="16" style="fill:#ac3040">若后缀来自旧的采样生成，</text>
+<text x="29" y="959" font-size="16" style="fill:#ac3040">不能默认那些输出 token 仍然成立。</text>
+<rect x="16" y="1012" width="358" height="176" rx="12" fill="#fff7ed" stroke="#dbe3ec" stroke-width="1.4"/>
+<text x="29" y="1047" font-size="20" font-weight="650">工程上可能统一回退</text>
+<text x="29" y="1080" font-size="16">连续前缀 / 块缓存可能从更早边界重算。</text>
+<text x="29" y="1109" font-size="16">这是实现策略，不代表所有层都已变错。</text>
+<text x="29" y="1138" font-size="16">权重等全局条件变了，需重新确认兼容性。</text>
+<text x="20" y="1225" font-size="16" style="fill:#526171">前 39 有效是前提，不是故障后的默认保证</text>
+<text x="20" y="1252" font-size="16" style="fill:#526171">分组格宽不表示 token 数量比例</text>
+</svg>
