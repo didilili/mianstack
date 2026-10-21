@@ -1,6 +1,6 @@
 # 公开题集索引
 
-[返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/collection/)
+[返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/collection)
 
 这里汇总其他作者和整理者公开发布的面试题集，方便从不同题单继续阅读。题集收录和真实面试出现次数分开统计，第三方来源不会因收录而改用仓库许可证。
 
@@ -353,6 +353,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：45
+- [在线阅读](https://mianstack.com/collection/col-agentguide-algorithm)
 - [仓库记录](../collections/COL-AGENTGUIDE-ALGORITHM.json)
 
 <a id="collection-2"></a>
@@ -360,6 +361,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：34
+- [在线阅读](https://mianstack.com/collection/col-agentguide-coding)
 - [仓库记录](../collections/COL-AGENTGUIDE-CODING.json)
 
 <a id="collection-3"></a>
@@ -367,6 +369,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：52
+- [在线阅读](https://mianstack.com/collection/col-agentguide-core)
 - [仓库记录](../collections/COL-AGENTGUIDE-CORE.json)
 
 <a id="collection-4"></a>
@@ -374,6 +377,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：45
+- [在线阅读](https://mianstack.com/collection/col-agentguide-development)
 - [仓库记录](../collections/COL-AGENTGUIDE-DEVELOPMENT.json)
 
 <a id="collection-5"></a>
@@ -381,6 +385,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：8
+- [在线阅读](https://mianstack.com/collection/col-agentguide-discussion)
 - [仓库记录](../collections/COL-AGENTGUIDE-DISCUSSION.json)
 
 <a id="collection-6"></a>
@@ -388,6 +393,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：10
+- [在线阅读](https://mianstack.com/collection/col-agentguide-evaluation)
 - [仓库记录](../collections/COL-AGENTGUIDE-EVALUATION.json)
 
 <a id="collection-7"></a>
@@ -395,6 +401,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：4
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-algorithm-top10)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-ALGORITHM-TOP10.json)
 
 <a id="collection-8"></a>
@@ -402,6 +409,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：16
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-career-agent-practice)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE.json)
 
 <a id="collection-9"></a>
@@ -409,6 +417,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：23
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-career-interview-examples)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES.json)
 
 <a id="collection-10"></a>
@@ -416,6 +425,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-chapter-claude-faq)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ.json)
 
 <a id="collection-11"></a>
@@ -423,6 +433,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：8
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-chapter-eval-harness)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CHAPTER-EVAL-HARNESS.json)
 
 <a id="collection-12"></a>
@@ -430,6 +441,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：6
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-chapter-harness-quick)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CHAPTER-HARNESS-QUICK.json)
 
 <a id="collection-13"></a>
@@ -437,6 +449,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：2
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-chapter-memory)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CHAPTER-MEMORY.json)
 
 <a id="collection-14"></a>
@@ -444,6 +457,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：1
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-chapter-vector-selection)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CHAPTER-VECTOR-SELECTION.json)
 
 <a id="collection-15"></a>
@@ -451,6 +465,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：84
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-coding-derived-bank)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK.json)
 
 <a id="collection-16"></a>
@@ -458,6 +473,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：87
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-coding-exercise-route)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE.json)
 
 <a id="collection-17"></a>
@@ -465,6 +481,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：263
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-company-cases)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-COMPANY-CASES.json)
 
 <a id="collection-18"></a>
@@ -472,6 +489,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：5
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-development-top10)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-DEVELOPMENT-TOP10.json)
 
 <a id="collection-19"></a>
@@ -479,6 +497,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：19
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-agentic-rl)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL.json)
 
 <a id="collection-20"></a>
@@ -486,6 +505,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-ai-infra)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-AI-INFRA.json)
 
 <a id="collection-21"></a>
@@ -493,6 +513,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-coding-agent)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT.json)
 
 <a id="collection-22"></a>
@@ -500,6 +521,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-data-and-evaluation)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION.json)
 
 <a id="collection-23"></a>
@@ -507,6 +529,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-image-generation)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-IMAGE-GENERATION.json)
 
 <a id="collection-24"></a>
@@ -514,6 +537,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：1
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-image-whiteboard)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-IMAGE-WHITEBOARD.json)
 
 <a id="collection-25"></a>
@@ -521,6 +545,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-project-deep-dive)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-PROJECT-DEEP-DIVE.json)
 
 <a id="collection-26"></a>
@@ -528,6 +553,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：16
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-self-evolving-agents)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS.json)
 
 <a id="collection-27"></a>
@@ -535,6 +561,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-speech-generation)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION.json)
 
 <a id="collection-28"></a>
@@ -542,6 +569,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-world-models)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-WORLD-MODELS.json)
 
 <a id="collection-29"></a>
@@ -549,6 +577,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：1
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-world-project)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-WORLD-PROJECT.json)
 
 <a id="collection-30"></a>
@@ -556,6 +585,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：6
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-hr-reverse)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-HR-REVERSE.json)
 
 <a id="collection-31"></a>
@@ -563,6 +593,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：13
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-hr-topics)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-HR-TOPICS.json)
 
 <a id="collection-32"></a>
@@ -570,6 +601,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：70
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-pdf-inference-qa)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA.json)
 - [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf)
 
@@ -578,6 +610,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：16
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-pdf-vibe-interview)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW.json)
 - [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf)
 
@@ -586,6 +619,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：5
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-pdf-vibe-practice)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PDF-VIBE-PRACTICE.json)
 - [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf)
 
@@ -594,6 +628,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：8
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-agent-evaluation-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK.json)
 
 <a id="collection-36"></a>
@@ -601,6 +636,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-agent-harness-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-HARNESS-PLAYBOOK.json)
 
 <a id="collection-37"></a>
@@ -608,6 +644,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：17
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-agent-memory-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK.json)
 
 <a id="collection-38"></a>
@@ -615,6 +652,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：10
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-agent-skills-procedural-memory-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK.json)
 
 <a id="collection-39"></a>
@@ -622,6 +660,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：7
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-agentic-rag-deep-research-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK.json)
 
 <a id="collection-40"></a>
@@ -629,6 +668,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：6
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-claude-code-source-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-CLAUDE-CODE-SOURCE-PLAYBOOK.json)
 
 <a id="collection-41"></a>
@@ -636,6 +676,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：6
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-data-synthesis-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-DATA-SYNTHESIS-PLAYBOOK.json)
 
 <a id="collection-42"></a>
@@ -643,6 +684,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：5
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-entry-prompts)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-ENTRY-PROMPTS.json)
 
 <a id="collection-43"></a>
@@ -650,6 +692,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：6
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-hermes-self-evolution-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-HERMES-SELF-EVOLUTION-PLAYBOOK.json)
 
 <a id="collection-44"></a>
@@ -657,6 +700,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：5
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-openclaw-source-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-OPENCLAW-SOURCE-PLAYBOOK.json)
 
 <a id="collection-45"></a>
@@ -664,6 +708,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-star-storytelling-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK.json)
 
 <a id="collection-46"></a>
@@ -671,6 +716,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：46
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-posttrain-chapter-qa)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA.json)
 
 <a id="collection-47"></a>
@@ -678,6 +724,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：7
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-posttrain-coding-checklist)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-POSTTRAIN-CODING-CHECKLIST.json)
 
 <a id="collection-48"></a>
@@ -685,6 +732,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：87
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-posttrain-final-bank)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-POSTTRAIN-FINAL-BANK.json)
 
 <a id="collection-49"></a>
@@ -692,6 +740,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：3
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-posttrain-system-design)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-POSTTRAIN-SYSTEM-DESIGN.json)
 
 <a id="collection-50"></a>
@@ -699,6 +748,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：1
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-resource-framework-choice)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-RESOURCE-FRAMEWORK-CHOICE.json)
 - [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/frameworks.md)
 
@@ -707,6 +757,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：1
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-resource-memory)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-RESOURCE-MEMORY.json)
 - [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/memory.md)
 
@@ -715,6 +766,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：3
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-resource-official-qa)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-RESOURCE-OFFICIAL-QA.json)
 - [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/official-guides.md)
 
@@ -723,6 +775,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：1
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-resource-parsing)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-RESOURCE-PARSING.json)
 - [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/rag/document-parsing.md)
 
@@ -731,6 +784,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：4
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-resource-rag-paper-qa)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-RESOURCE-RAG-PAPER-QA.json)
 - [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/rag/papers/agentic_rag/README.md)
 
@@ -739,6 +793,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-agent-evaluation-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK.json)
 
 <a id="collection-56"></a>
@@ -746,6 +801,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-agent-harness-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK.json)
 
 <a id="collection-57"></a>
@@ -753,6 +809,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-agent-memory-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-AGENT-MEMORY-PLAYBOOK.json)
 
 <a id="collection-58"></a>
@@ -760,6 +817,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：15
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-agent-skills-procedural-memory-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK.json)
 
 <a id="collection-59"></a>
@@ -767,6 +825,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：15
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-agentic-rag-deep-research-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK.json)
 
 <a id="collection-60"></a>
@@ -774,6 +833,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：15
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-data-synthesis-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK.json)
 
 <a id="collection-61"></a>
@@ -781,6 +841,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：1
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-salary-hr)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-SALARY-HR.json)
 
 <a id="collection-62"></a>
@@ -788,6 +849,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：5
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-salary-reverse)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-SALARY-REVERSE.json)
 
 <a id="collection-63"></a>
@@ -795,6 +857,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：4
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-star-reverse-questions)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-STAR-REVERSE-QUESTIONS.json)
 
 <a id="collection-64"></a>
@@ -802,6 +865,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：7
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-story-question-map)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-STORY-QUESTION-MAP.json)
 
 <a id="collection-65"></a>
@@ -809,6 +873,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：403
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-14)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-14.json)
 
 <a id="collection-66"></a>
@@ -816,6 +881,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：256
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-agent)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-AGENT.json)
 
 <a id="collection-67"></a>
@@ -823,6 +889,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：265
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-architecture)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE.json)
 
 <a id="collection-68"></a>
@@ -830,6 +897,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：13
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-context)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT.json)
 
 <a id="collection-69"></a>
@@ -837,6 +905,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：13
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-nlp)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-NLP.json)
 
 <a id="collection-70"></a>
@@ -844,6 +913,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：34
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-other)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-OTHER.json)
 
 <a id="collection-71"></a>
@@ -851,6 +921,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：73
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-prompt)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-PROMPT.json)
 
 <a id="collection-72"></a>
@@ -858,6 +929,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：135
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-rag)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-RAG.json)
 
 <a id="collection-73"></a>
@@ -865,6 +937,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：5
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-safety)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-SAFETY.json)
 
 <a id="collection-74"></a>
@@ -872,6 +945,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：193
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-sft)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-SFT.json)
 
 <a id="collection-75"></a>
@@ -879,6 +953,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：25
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-tokenizer)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER.json)
 
 <a id="collection-76"></a>
@@ -886,6 +961,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：200
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-2754)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-2754.json)
 
 <a id="collection-77"></a>
@@ -893,6 +969,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：428
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-3103)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-3103.json)
 
 <a id="collection-78"></a>
@@ -900,6 +977,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：390
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-3759)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-3759.json)
 
 <a id="collection-79"></a>
@@ -907,6 +985,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：606
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-4330)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-4330.json)
 
 <a id="collection-80"></a>
@@ -914,6 +993,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：270
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-5200)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-5200.json)
 
 <a id="collection-81"></a>
@@ -921,6 +1001,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：407
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-5644)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-5644.json)
 
 <a id="collection-82"></a>
@@ -928,6 +1009,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：51
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-6298)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-6298.json)
 
 <a id="collection-83"></a>
@@ -935,6 +1017,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：327
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-6444)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-6444.json)
 
 <a id="collection-84"></a>
@@ -942,6 +1025,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：135
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-695)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-695.json)
 
 <a id="collection-85"></a>
@@ -949,6 +1033,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：207
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-6952)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-6952.json)
 
 <a id="collection-86"></a>
@@ -956,6 +1041,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：233
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-7287)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-7287.json)
 
 <a id="collection-87"></a>
@@ -963,6 +1049,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：333
+- [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-984)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-984.json)
 
 <a id="collection-88"></a>
@@ -970,6 +1057,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-agentguide-future)
 - [仓库记录](../collections/COL-AGENTGUIDE-FUTURE.json)
 
 <a id="collection-89"></a>
@@ -977,6 +1065,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：96
+- [在线阅读](https://mianstack.com/collection/col-agentguide-llm)
 - [仓库记录](../collections/COL-AGENTGUIDE-LLM.json)
 
 <a id="collection-90"></a>
@@ -984,6 +1073,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：5
+- [在线阅读](https://mianstack.com/collection/col-agentguide-project-story)
 - [仓库记录](../collections/COL-AGENTGUIDE-PROJECT-STORY.json)
 
 <a id="collection-91"></a>
@@ -991,6 +1081,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：22
+- [在线阅读](https://mianstack.com/collection/col-agentguide-rag)
 - [仓库记录](../collections/COL-AGENTGUIDE-RAG.json)
 
 <a id="collection-92"></a>
@@ -998,6 +1089,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：4
+- [在线阅读](https://mianstack.com/collection/col-agentguide-resume)
 - [仓库记录](../collections/COL-AGENTGUIDE-RESUME.json)
 
 <a id="collection-93"></a>
@@ -1005,6 +1097,7 @@
 
 - 发布者：阿东玩 AI
 - 收录数量：82
+- [在线阅读](https://mianstack.com/collection/col-agentguide-theory)
 - [仓库记录](../collections/COL-AGENTGUIDE-THEORY.json)
 
 <a id="collection-94"></a>
@@ -1012,6 +1105,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：54
+- [在线阅读](https://mianstack.com/collection/col-aieng-agent)
 - [仓库记录](../collections/COL-AIENG-AGENT.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1020,6 +1114,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：22
+- [在线阅读](https://mianstack.com/collection/col-aieng-behavioral)
 - [仓库记录](../collections/COL-AIENG-BEHAVIORAL.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1028,6 +1123,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：32
+- [在线阅读](https://mianstack.com/collection/col-aieng-coding)
 - [仓库记录](../collections/COL-AIENG-CODING.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1036,6 +1132,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：36
+- [在线阅读](https://mianstack.com/collection/col-aieng-evaluation)
 - [仓库记录](../collections/COL-AIENG-EVALUATION.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1044,6 +1141,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：32
+- [在线阅读](https://mianstack.com/collection/col-aieng-finetuning)
 - [仓库记录](../collections/COL-AIENG-FINETUNING.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1052,6 +1150,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：35
+- [在线阅读](https://mianstack.com/collection/col-aieng-infrastructure)
 - [仓库记录](../collections/COL-AIENG-INFRASTRUCTURE.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1060,6 +1159,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：80
+- [在线阅读](https://mianstack.com/collection/col-aieng-llm)
 - [仓库记录](../collections/COL-AIENG-LLM.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1068,6 +1168,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：30
+- [在线阅读](https://mianstack.com/collection/col-aieng-multimodal)
 - [仓库记录](../collections/COL-AIENG-MULTIMODAL.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1076,6 +1177,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：53
+- [在线阅读](https://mianstack.com/collection/col-aieng-ops)
 - [仓库记录](../collections/COL-AIENG-OPS.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1084,6 +1186,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：30
+- [在线阅读](https://mianstack.com/collection/col-aieng-prompt)
 - [仓库记录](../collections/COL-AIENG-PROMPT.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1092,6 +1195,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：42
+- [在线阅读](https://mianstack.com/collection/col-aieng-rag)
 - [仓库记录](../collections/COL-AIENG-RAG.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1100,6 +1204,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：45
+- [在线阅读](https://mianstack.com/collection/col-aieng-safety)
 - [仓库记录](../collections/COL-AIENG-SAFETY.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1108,6 +1213,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：49
+- [在线阅读](https://mianstack.com/collection/col-aieng-system-design)
 - [仓库记录](../collections/COL-AIENG-SYSTEM-DESIGN.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1116,6 +1222,7 @@
 
 - 发布者：AMIT SHEKHAR
 - 收录数量：26
+- [在线阅读](https://mianstack.com/collection/col-aieng-vector)
 - [仓库记录](../collections/COL-AIENG-VECTOR.json)
 - [原始来源](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md)
 
@@ -1124,6 +1231,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：32
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-01)
 - [仓库记录](../collections/COL-AIGC-AGENT-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3AI%20Agent%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1132,6 +1240,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：41
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-02)
 - [仓库记录](../collections/COL-AIGC-AGENT-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1140,6 +1249,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：28
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-03)
 - [仓库记录](../collections/COL-AIGC-AGENT-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/03_Agent%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%BC%96%E6%8E%92%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1148,6 +1258,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：28
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-04)
 - [仓库记录](../collections/COL-AIGC-AGENT-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/04_MCP%E4%B8%8EA2A%E5%8D%8F%E8%AE%AE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1156,6 +1267,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：32
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-05)
 - [仓库记录](../collections/COL-AIGC-AGENT-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/05_Agent%E8%AE%B0%E5%BF%86%E4%B8%8E%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1164,6 +1276,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：28
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-06)
 - [仓库记录](../collections/COL-AIGC-AGENT-06.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1172,6 +1285,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：31
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-07)
 - [仓库记录](../collections/COL-AIGC-AGENT-07.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/07_%E4%BC%81%E4%B8%9A%E7%BA%A7Agent%E5%B9%B3%E5%8F%B0%E4%B8%8E%E4%BA%A7%E5%93%81%E8%90%BD%E5%9C%B0%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1180,6 +1294,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：24
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-08)
 - [仓库记录](../collections/COL-AIGC-AGENT-08.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/08_Agent_Harness_Engineering%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1188,6 +1303,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：24
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-09)
 - [仓库记录](../collections/COL-AIGC-AGENT-09.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/09_%E8%87%AA%E8%BF%9B%E5%8C%96Agent%E4%B8%8E%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%BF%90%E8%A1%8C%E6%97%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1196,6 +1312,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：27
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-10)
 - [仓库记录](../collections/COL-AIGC-AGENT-10.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/10_Agent_RAG%E4%B8%8E%E6%B7%B7%E5%90%88%E6%A3%80%E7%B4%A2%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1204,6 +1321,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：37
+- [在线阅读](https://mianstack.com/collection/col-aigc-agent-followups)
 - [仓库记录](../collections/COL-AIGC-AGENT-FOLLOWUPS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/tree/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80)
 
@@ -1212,6 +1330,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：3
+- [在线阅读](https://mianstack.com/collection/col-aigc-career-technical)
 - [仓库记录](../collections/COL-AIGC-CAREER-TECHNICAL.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E7%BB%8F%E9%AA%8C%E6%8C%87%E5%8D%97/AI%E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%26%E7%BB%8F%E5%85%B8%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91%E6%B1%87%E6%80%BB.md)
 
@@ -1220,6 +1339,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：27
+- [在线阅读](https://mianstack.com/collection/col-aigc-classic-classification)
 - [仓库记录](../collections/COL-AIGC-CLASSIC-CLASSIFICATION.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1228,6 +1348,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：85
+- [在线阅读](https://mianstack.com/collection/col-aigc-classic-detection)
 - [仓库记录](../collections/COL-AIGC-CLASSIC-DETECTION.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1236,6 +1357,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-aigc-classic-face)
 - [仓库记录](../collections/COL-AIGC-CLASSIC-FACE.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1244,6 +1366,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：23
+- [在线阅读](https://mianstack.com/collection/col-aigc-classic-nlp)
 - [仓库记录](../collections/COL-AIGC-CLASSIC-NLP.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1252,6 +1375,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：28
+- [在线阅读](https://mianstack.com/collection/col-aigc-classic-ocr)
 - [仓库记录](../collections/COL-AIGC-CLASSIC-OCR.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/OCR%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1260,6 +1384,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-aigc-classic-rl)
 - [仓库记录](../collections/COL-AIGC-CLASSIC-RL.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1268,6 +1393,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：23
+- [在线阅读](https://mianstack.com/collection/col-aigc-classic-segmentation)
 - [仓库记录](../collections/COL-AIGC-CLASSIC-SEGMENTATION.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1276,6 +1402,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-aigc-classic-tracking)
 - [仓库记录](../collections/COL-AIGC-CLASSIC-TRACKING.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E8%B7%9F%E8%B8%AA%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1284,6 +1411,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：8
+- [在线阅读](https://mianstack.com/collection/col-aigc-classic-vae)
 - [仓库记录](../collections/COL-AIGC-CLASSIC-VAE.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/VAE%E4%B8%8E%E8%A7%86%E8%A7%89%E6%BD%9C%E7%A9%BA%E9%97%B4%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1292,6 +1420,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：125
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-alibaba)
 - [仓库记录](../collections/COL-AIGC-COMPANY-ALIBABA.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1300,6 +1429,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-ant)
 - [仓库记录](../collections/COL-AIGC-COMPANY-ANT.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1308,6 +1438,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：115
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-baidu)
 - [仓库记录](../collections/COL-AIGC-COMPANY-BAIDU.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%99%BE%E5%BA%A6%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1316,6 +1447,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-bilibili)
 - [仓库记录](../collections/COL-AIGC-COMPANY-BILIBILI.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1324,6 +1456,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：118
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-bytedance)
 - [仓库记录](../collections/COL-AIGC-COMPANY-BYTEDANCE.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1332,6 +1465,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：8
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-ctrip)
 - [仓库记录](../collections/COL-AIGC-COMPANY-CTRIP.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E6%90%BA%E7%A8%8B%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1340,6 +1474,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：27
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-deepseek)
 - [仓库记录](../collections/COL-AIGC-COMPANY-DEEPSEEK.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/DeepSeek%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1348,6 +1483,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：13
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-didi)
 - [仓库记录](../collections/COL-AIGC-COMPANY-DIDI.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E6%BB%B4%E6%BB%B4%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1356,6 +1492,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：44
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-general)
 - [仓库记录](../collections/COL-AIGC-COMPANY-GENERAL.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E9%80%9A%E7%94%A8AIGC%E7%AE%97%E6%B3%95%E5%B2%97%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1364,6 +1501,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：14
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-honor)
 - [仓库记录](../collections/COL-AIGC-COMPANY-HONOR.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1372,6 +1510,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-huawei)
 - [仓库记录](../collections/COL-AIGC-COMPANY-HUAWEI.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E5%8D%8E%E4%B8%BA%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1380,6 +1519,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：27
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-hundsun)
 - [仓库记录](../collections/COL-AIGC-COMPANY-HUNDSUN.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E6%81%92%E7%94%9F%E7%94%B5%E5%AD%90%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1388,6 +1528,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-insta360)
 - [仓库记录](../collections/COL-AIGC-COMPANY-INSTA360.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E5%BD%B1%E7%9F%B3%E5%88%9B%E6%96%B0%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1396,6 +1537,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：14
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-iqiyi)
 - [仓库记录](../collections/COL-AIGC-COMPANY-IQIYI.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%88%B1%E5%A5%87%E8%89%BA%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1404,6 +1546,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：97
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-jd)
 - [仓库记录](../collections/COL-AIGC-COMPANY-JD.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E4%BA%AC%E4%B8%9C%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1412,6 +1555,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：58
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-kuaishou)
 - [仓库记录](../collections/COL-AIGC-COMPANY-KUAISHOU.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E5%BF%AB%E6%89%8B%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1420,6 +1564,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-lenovo)
 - [仓库记录](../collections/COL-AIGC-COMPANY-LENOVO.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%81%94%E6%83%B3%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1428,6 +1573,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：75
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-meituan)
 - [仓库记录](../collections/COL-AIGC-COMPANY-MEITUAN.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%BE%8E%E5%9B%A2%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1436,6 +1582,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：7
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-midea)
 - [仓库记录](../collections/COL-AIGC-COMPANY-MIDEA.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%BE%8E%E7%9A%84%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1444,6 +1591,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-mihoyo)
 - [仓库记录](../collections/COL-AIGC-COMPANY-MIHOYO.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1452,6 +1600,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：26
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-moonshot)
 - [仓库记录](../collections/COL-AIGC-COMPANY-MOONSHOT.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1460,6 +1609,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：55
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-pinduoduo)
 - [仓库记录](../collections/COL-AIGC-COMPANY-PINDUODUO.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1468,6 +1618,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-pingan)
 - [仓库记录](../collections/COL-AIGC-COMPANY-PINGAN.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E5%B9%B3%E5%AE%89%E7%A7%91%E6%8A%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1476,6 +1627,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：7
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-pudu)
 - [仓库记录](../collections/COL-AIGC-COMPANY-PUDU.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E6%99%AE%E6%B8%A1%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1484,6 +1636,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-quwan)
 - [仓库记录](../collections/COL-AIGC-COMPANY-QUWAN.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%B6%A3%E7%8E%A9%E7%A7%91%E6%8A%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1492,6 +1645,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：16
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-sensetime)
 - [仓库记录](../collections/COL-AIGC-COMPANY-SENSETIME.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E5%95%86%E6%B1%A4%E7%A7%91%E6%8A%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1500,6 +1654,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：7
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-stepfun)
 - [仓库记录](../collections/COL-AIGC-COMPANY-STEPFUN.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1508,6 +1663,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：147
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-tencent)
 - [仓库记录](../collections/COL-AIGC-COMPANY-TENCENT.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%85%BE%E8%AE%AF%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1516,6 +1672,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：25
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-vivo)
 - [仓库记录](../collections/COL-AIGC-COMPANY-VIVO.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/vivo%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1524,6 +1681,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：14
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-wenge)
 - [仓库记录](../collections/COL-AIGC-COMPANY-WENGE.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E4%B8%AD%E7%A7%91%E9%97%BB%E6%AD%8C%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1532,6 +1690,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：86
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-xiaohongshu)
 - [仓库记录](../collections/COL-AIGC-COMPANY-XIAOHONGSHU.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1540,6 +1699,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：22
+- [在线阅读](https://mianstack.com/collection/col-aigc-company-yuanli)
 - [仓库记录](../collections/COL-AIGC-COMPANY-YUANLI.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E5%8E%9F%E5%8A%9B%E7%81%B5%E6%9C%BA%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -1548,6 +1708,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：33
+- [在线阅读](https://mianstack.com/collection/col-aigc-deployment-01)
 - [仓库记录](../collections/COL-AIGC-DEPLOYMENT-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
 
@@ -1556,6 +1717,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-aigc-deployment-02)
 - [仓库记录](../collections/COL-AIGC-DEPLOYMENT-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1564,6 +1726,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-aigc-deployment-03)
 - [仓库记录](../collections/COL-AIGC-DEPLOYMENT-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1572,6 +1735,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：10
+- [在线阅读](https://mianstack.com/collection/col-aigc-deployment-04)
 - [仓库记录](../collections/COL-AIGC-DEPLOYMENT-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1580,6 +1744,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：1
+- [在线阅读](https://mianstack.com/collection/col-aigc-deployment-05)
 - [仓库记录](../collections/COL-AIGC-DEPLOYMENT-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E8%87%AA%E5%AE%9A%E4%B9%89%E7%AE%97%E5%AD%90%E5%AE%9E%E7%8E%B0.md)
 
@@ -1588,6 +1753,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：31
+- [在线阅读](https://mianstack.com/collection/col-aigc-deployment-06)
 - [仓库记录](../collections/COL-AIGC-DEPLOYMENT-06.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E8%BE%B9%E4%BA%91%E7%AB%AF%E9%83%A8%E7%BD%B2%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1596,6 +1762,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：44
+- [在线阅读](https://mianstack.com/collection/col-aigc-deployment-essential-01)
 - [仓库记录](../collections/COL-AIGC-DEPLOYMENT-ESSENTIAL-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/6.1%E6%8E%A8%E7%90%86%E9%83%A8%E7%BD%B2%E7%BB%BC%E8%BF%B0.md)
 
@@ -1604,6 +1771,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：23
+- [在线阅读](https://mianstack.com/collection/col-aigc-deployment-essential-02)
 - [仓库记录](../collections/COL-AIGC-DEPLOYMENT-ESSENTIAL-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/6.2%E4%BC%A0%E7%BB%9F%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%EF%BC%9AONNX%E4%B8%8ETensorRT.md)
 
@@ -1612,6 +1780,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：32
+- [在线阅读](https://mianstack.com/collection/col-aigc-deployment-essential-03)
 - [仓库记录](../collections/COL-AIGC-DEPLOYMENT-ESSENTIAL-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/6.3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E6%8A%80%E6%9C%AF.md)
 
@@ -1620,6 +1789,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：28
+- [在线阅读](https://mianstack.com/collection/col-aigc-deployment-essential-04)
 - [仓库记录](../collections/COL-AIGC-DEPLOYMENT-ESSENTIAL-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/6.4%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E4%B8%8E%E8%B0%83%E4%BC%98%E5%B7%A5%E5%85%B7.md)
 
@@ -1628,6 +1798,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：42
+- [在线阅读](https://mianstack.com/collection/col-aigc-digital-human-01)
 - [仓库记录](../collections/COL-AIGC-DIGITAL-HUMAN-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1636,6 +1807,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：19
+- [在线阅读](https://mianstack.com/collection/col-aigc-digital-human-02)
 - [仓库记录](../collections/COL-AIGC-DIGITAL-HUMAN-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1644,6 +1816,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：27
+- [在线阅读](https://mianstack.com/collection/col-aigc-digital-human-03)
 - [仓库记录](../collections/COL-AIGC-DIGITAL-HUMAN-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/03_%E9%9F%B3%E9%A2%91%E9%A9%B1%E5%8A%A8%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E9%95%BF%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1652,6 +1825,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：25
+- [在线阅读](https://mianstack.com/collection/col-aigc-digital-human-04)
 - [仓库记录](../collections/COL-AIGC-DIGITAL-HUMAN-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1660,6 +1834,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：32
+- [在线阅读](https://mianstack.com/collection/col-aigc-digital-human-05)
 - [仓库记录](../collections/COL-AIGC-DIGITAL-HUMAN-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1668,6 +1843,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：37
+- [在线阅读](https://mianstack.com/collection/col-aigc-digital-human-06)
 - [仓库记录](../collections/COL-AIGC-DIGITAL-HUMAN-06.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1676,6 +1852,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：36
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-activations)
 - [仓库记录](../collections/COL-AIGC-DL-ACTIVATIONS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md)
 
@@ -1684,6 +1861,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：164
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-architecture)
 - [仓库记录](../collections/COL-AIGC-DL-ARCHITECTURE.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md)
 
@@ -1692,6 +1870,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：33
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-attention)
 - [仓库记录](../collections/COL-AIGC-DL-ATTENTION.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md)
 
@@ -1700,6 +1879,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：111
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-basics)
 - [仓库记录](../collections/COL-AIGC-DL-BASICS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
 
@@ -1708,6 +1888,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：116
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-core)
 - [仓库记录](../collections/COL-AIGC-DL-CORE.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
 
@@ -1716,6 +1897,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：23
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-essence-01)
 - [仓库记录](../collections/COL-AIGC-DL-ESSENCE-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/01_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md)
 
@@ -1724,6 +1906,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：14
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-essence-02)
 - [仓库记录](../collections/COL-AIGC-DL-ESSENCE-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/02_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md)
 
@@ -1732,6 +1915,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：52
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-essence-03)
 - [仓库记录](../collections/COL-AIGC-DL-ESSENCE-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md)
 
@@ -1740,6 +1924,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：47
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-essence-04)
 - [仓库记录](../collections/COL-AIGC-DL-ESSENCE-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/04_%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E4%B8%8E%E4%BC%98%E5%8C%96.md)
 
@@ -1748,6 +1933,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：5
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-essence-05)
 - [仓库记录](../collections/COL-AIGC-DL-ESSENCE-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/05_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%B7%A5%E5%85%B7.md)
 
@@ -1756,6 +1942,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：38
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-frameworks)
 - [仓库记录](../collections/COL-AIGC-DL-FRAMEWORKS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md)
 
@@ -1764,6 +1951,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：17
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-gnn)
 - [仓库记录](../collections/COL-AIGC-DL-GNN.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/08_%E8%A1%A5_%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
 
@@ -1772,6 +1960,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：43
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-layers)
 - [仓库记录](../collections/COL-AIGC-DL-LAYERS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md)
 
@@ -1780,6 +1969,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：34
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-optimization)
 - [仓库记录](../collections/COL-AIGC-DL-OPTIMIZATION.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md)
 
@@ -1788,6 +1978,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-preprocessing)
 - [仓库记录](../collections/COL-AIGC-DL-PREPROCESSING.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md)
 
@@ -1796,6 +1987,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：10
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-rope)
 - [仓库记录](../collections/COL-AIGC-DL-ROPE.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/08_%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%BA%94%E7%94%A8.md)
 
@@ -1804,6 +1996,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：23
+- [在线阅读](https://mianstack.com/collection/col-aigc-dl-training)
 - [仓库记录](../collections/COL-AIGC-DL-TRAINING.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md)
 
@@ -1812,6 +2005,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-aigc-embodied-basics)
 - [仓库记录](../collections/COL-AIGC-EMBODIED-BASICS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80/01_%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 
@@ -1820,6 +2014,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：24
+- [在线阅读](https://mianstack.com/collection/col-aigc-embodied-core)
 - [仓库记录](../collections/COL-AIGC-EMBODIED-CORE.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80/01_%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 
@@ -1828,6 +2023,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：49
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-cpp-01)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-CPP-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1836,6 +2032,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：22
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-cpp-02)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-CPP-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md)
 
@@ -1844,6 +2041,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：54
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-cpp-03)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-CPP-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1852,6 +2050,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：8
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-cs-01)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-CS-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E4%BB%A3%E7%90%86%E3%80%81%E9%9A%A7%E9%81%93%E4%B8%8EVPN%E6%9C%AC%E8%B4%A8%E5%8E%9F%E7%90%86%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1860,6 +2059,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：42
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-cs-02)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-CS-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1868,6 +2068,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：12
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-cs-03)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-CS-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1876,6 +2077,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：31
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-cs-04)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-CS-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1884,6 +2086,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：24
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-cs-05)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-CS-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -1892,6 +2095,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：12
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-dsa-01)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-DSA-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1900,6 +2104,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：16
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-dsa-02)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-DSA-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1908,6 +2113,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-dsa-03)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-DSA-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1916,6 +2122,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-dsa-04)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-DSA-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1924,6 +2131,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-dsa-05)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-DSA-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/05_%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E9%AB%98%E7%BA%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1932,6 +2140,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-dsa-06)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-DSA-06.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1940,6 +2149,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-dsa-07)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-DSA-07.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/07_%E4%B8%89%E8%AF%AD%E8%A8%80%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF%E4%B8%8EAI%E5%9C%BA%E6%99%AF%E5%AE%9E%E7%8E%B0%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1948,6 +2158,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：42
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-python-01)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-PYTHON-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1956,6 +2167,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：50
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-python-02)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-PYTHON-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/Python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1964,6 +2176,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：39
+- [在线阅读](https://mianstack.com/collection/col-aigc-foundation-python-03)
 - [仓库记录](../collections/COL-AIGC-FOUNDATION-PYTHON-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/Python%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -1972,6 +2185,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：36
+- [在线阅读](https://mianstack.com/collection/col-aigc-image-01)
 - [仓库记录](../collections/COL-AIGC-IMAGE-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/01_%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B%E5%8E%9F%E7%90%86%E5%9F%BA%E7%A1%80.md)
 
@@ -1980,6 +2194,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：49
+- [在线阅读](https://mianstack.com/collection/col-aigc-image-02)
 - [仓库记录](../collections/COL-AIGC-IMAGE-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md)
 
@@ -1988,6 +2203,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：25
+- [在线阅读](https://mianstack.com/collection/col-aigc-image-03)
 - [仓库记录](../collections/COL-AIGC-IMAGE-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md)
 
@@ -1996,6 +2212,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：30
+- [在线阅读](https://mianstack.com/collection/col-aigc-image-04)
 - [仓库记录](../collections/COL-AIGC-IMAGE-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md)
 
@@ -2004,6 +2221,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：28
+- [在线阅读](https://mianstack.com/collection/col-aigc-image-05)
 - [仓库记录](../collections/COL-AIGC-IMAGE-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md)
 
@@ -2012,6 +2230,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：11
+- [在线阅读](https://mianstack.com/collection/col-aigc-image-06)
 - [仓库记录](../collections/COL-AIGC-IMAGE-06.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md)
 
@@ -2020,6 +2239,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：10
+- [在线阅读](https://mianstack.com/collection/col-aigc-image-07)
 - [仓库记录](../collections/COL-AIGC-IMAGE-07.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md)
 
@@ -2028,6 +2248,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：14
+- [在线阅读](https://mianstack.com/collection/col-aigc-image-08)
 - [仓库记录](../collections/COL-AIGC-IMAGE-08.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md)
 
@@ -2036,6 +2257,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：65
+- [在线阅读](https://mianstack.com/collection/col-aigc-image-09)
 - [仓库记录](../collections/COL-AIGC-IMAGE-09.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 
@@ -2044,6 +2266,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：17
+- [在线阅读](https://mianstack.com/collection/col-aigc-llm-01)
 - [仓库记录](../collections/COL-AIGC-LLM-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/01_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%A6%82%E8%BF%B0.md)
 
@@ -2052,6 +2275,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：28
+- [在线阅读](https://mianstack.com/collection/col-aigc-llm-02)
 - [仓库记录](../collections/COL-AIGC-LLM-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/02_%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
 
@@ -2060,6 +2284,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：36
+- [在线阅读](https://mianstack.com/collection/col-aigc-llm-03)
 - [仓库记录](../collections/COL-AIGC-LLM-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md)
 
@@ -2068,6 +2293,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：26
+- [在线阅读](https://mianstack.com/collection/col-aigc-llm-04)
 - [仓库记录](../collections/COL-AIGC-LLM-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/04_%E5%90%8E%E8%AE%AD%E7%BB%83%EF%BC%9A%E5%BE%AE%E8%B0%83%E4%B8%8E%E5%AF%B9%E9%BD%90.md)
 
@@ -2076,6 +2302,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：31
+- [在线阅读](https://mianstack.com/collection/col-aigc-llm-05)
 - [仓库记录](../collections/COL-AIGC-LLM-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/05_%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B%EF%BC%9A%E5%BA%94%E7%94%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%AB%98%E7%BA%A7%E6%96%B9%E6%B3%95.md)
 
@@ -2084,6 +2311,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：30
+- [在线阅读](https://mianstack.com/collection/col-aigc-llm-06)
 - [仓库记录](../collections/COL-AIGC-LLM-06.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
 
@@ -2092,6 +2320,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：11
+- [在线阅读](https://mianstack.com/collection/col-aigc-llm-07)
 - [仓库记录](../collections/COL-AIGC-LLM-07.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/07_%E8%B7%A8%E5%91%A8%E6%9C%9F%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3.md)
 
@@ -2100,6 +2329,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：27
+- [在线阅读](https://mianstack.com/collection/col-aigc-llm-followups)
 - [仓库记录](../collections/COL-AIGC-LLM-FOLLOWUPS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/tree/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80)
 
@@ -2108,6 +2338,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：19
+- [在线阅读](https://mianstack.com/collection/col-aigc-llm-sota)
 - [仓库记录](../collections/COL-AIGC-LLM-SOTA.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/%E8%A1%A5%E5%85%85%E8%B5%84%E6%96%99%EF%BC%9ASOTA%E6%A8%A1%E5%9E%8B%E5%88%86%E6%9E%90.md)
 
@@ -2116,6 +2347,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：54
+- [在线阅读](https://mianstack.com/collection/col-aigc-math-01)
 - [仓库记录](../collections/COL-AIGC-MATH-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E5%AD%A6%26%E7%89%A9%E7%90%86%E6%9C%AC%E8%B4%A8%E5%8E%9F%E7%90%86%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -2124,6 +2356,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：26
+- [在线阅读](https://mianstack.com/collection/col-aigc-math-02)
 - [仓库记录](../collections/COL-AIGC-MATH-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E5%AD%A6%26%E7%89%A9%E7%90%86%E6%9C%AC%E8%B4%A8%E5%8E%9F%E7%90%86%E5%9F%BA%E7%A1%80/02_AIGC%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E6%8E%A8%E5%AF%BC%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -2132,6 +2365,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：25
+- [在线阅读](https://mianstack.com/collection/col-aigc-math-03)
 - [仓库记录](../collections/COL-AIGC-MATH-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E5%AD%A6%26%E7%89%A9%E7%90%86%E6%9C%AC%E8%B4%A8%E5%8E%9F%E7%90%86%E5%9F%BA%E7%A1%80/03_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%A4%9A%E6%A8%A1%E6%80%81%E6%9C%80%E6%96%B0%E6%95%B0%E5%AD%A6%E4%B8%93%E9%A2%98.md)
 
@@ -2140,6 +2374,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：19
+- [在线阅读](https://mianstack.com/collection/col-aigc-ml-algorithms)
 - [仓库记录](../collections/COL-AIGC-ML-ALGORITHMS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -2148,6 +2383,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：30
+- [在线阅读](https://mianstack.com/collection/col-aigc-ml-concepts)
 - [仓库记录](../collections/COL-AIGC-ML-CONCEPTS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -2156,6 +2392,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：13
+- [在线阅读](https://mianstack.com/collection/col-aigc-ml-engineering)
 - [仓库记录](../collections/COL-AIGC-ML-ENGINEERING.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -2164,6 +2401,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：7
+- [在线阅读](https://mianstack.com/collection/col-aigc-ml-evaluation)
 - [仓库记录](../collections/COL-AIGC-ML-EVALUATION.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -2172,6 +2410,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：17
+- [在线阅读](https://mianstack.com/collection/col-aigc-ml-loss)
 - [仓库记录](../collections/COL-AIGC-ML-LOSS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -2180,6 +2419,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-aigc-ml-optimization)
 - [仓库记录](../collections/COL-AIGC-ML-OPTIMIZATION.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -2188,6 +2428,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：16
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-backbone)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-BACKBONE.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%BB%E5%B9%B2.md)
 
@@ -2196,6 +2437,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：5
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-encoders)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-ENCODERS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E6%A8%A1%E6%80%81%E7%BC%96%E7%A0%81%E5%99%A8.md)
 
@@ -2204,6 +2446,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：10
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-essence-01)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-ESSENCE-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/1_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -2212,6 +2455,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：35
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-essence-02)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-ESSENCE-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -2220,6 +2464,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：29
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-essence-03)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-ESSENCE-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/3_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%9F%B3%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -2228,6 +2473,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：19
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-essence-04)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-ESSENCE-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/4_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E4%B8%BB%E6%B5%81%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -2236,6 +2482,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：14
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-essence-05)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-ESSENCE-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -2244,6 +2491,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-essence-06)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-ESSENCE-06.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/6_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E4%B8%8B%E6%B8%B8%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md)
 
@@ -2252,6 +2500,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：53
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-frontiers)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-FRONTIERS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md)
 
@@ -2260,6 +2509,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：6
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-generators)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-GENERATORS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E6%A8%A1%E6%80%81%E7%94%9F%E6%88%90%E5%99%A8.md)
 
@@ -2268,6 +2518,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：10
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-glm)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-GLM.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md)
 
@@ -2276,6 +2527,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：1
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-input-mapper)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-INPUT-MAPPER.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E8%BE%93%E5%85%A5%E6%98%A0%E5%B0%84%E5%99%A8.md)
 
@@ -2284,6 +2536,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-internvl)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-INTERNVL.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/Intern-VL%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md)
 
@@ -2292,6 +2545,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：28
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-models)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-MODELS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E6%A0%B8%E5%BF%83%E6%A8%A1%E5%9E%8B.md)
 
@@ -2300,6 +2554,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：3
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-output-mapper)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-OUTPUT-MAPPER.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E8%BE%93%E5%87%BA%E6%98%A0%E5%B0%84%E5%99%A8.md)
 
@@ -2308,6 +2563,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：9
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-overview)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-OVERVIEW.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80.md)
 
@@ -2316,6 +2572,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：29
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-qwenvl)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-QWENVL.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/Qwen-VL%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md)
 
@@ -2324,6 +2581,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：34
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-theory)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-THEORY.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E7%90%86%E8%AE%BA%E7%9F%A5%E8%AF%86.md)
 
@@ -2332,6 +2590,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：22
+- [在线阅读](https://mianstack.com/collection/col-aigc-multimodal-training)
 - [仓库记录](../collections/COL-AIGC-MULTIMODAL-TRAINING.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83.md)
 
@@ -2340,6 +2599,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：23
+- [在线阅读](https://mianstack.com/collection/col-aigc-open-business)
 - [仓库记录](../collections/COL-AIGC-OPEN-BUSINESS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md)
 
@@ -2348,6 +2608,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：22
+- [在线阅读](https://mianstack.com/collection/col-aigc-open-growth)
 - [仓库记录](../collections/COL-AIGC-OPEN-GROWTH.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md)
 
@@ -2356,6 +2617,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：26
+- [在线阅读](https://mianstack.com/collection/col-aigc-open-trends)
 - [仓库记录](../collections/COL-AIGC-OPEN-TRENDS.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md)
 
@@ -2364,6 +2626,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：52
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-01)
 - [仓库记录](../collections/COL-AIGC-VIDEO-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/01_AI%E8%A7%86%E9%A2%91%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 
@@ -2372,6 +2635,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-02)
 - [仓库记录](../collections/COL-AIGC-VIDEO-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md)
 
@@ -2380,6 +2644,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：53
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-03)
 - [仓库记录](../collections/COL-AIGC-VIDEO-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md)
 
@@ -2388,6 +2653,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：22
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-04)
 - [仓库记录](../collections/COL-AIGC-VIDEO-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/04_%E8%A7%86%E9%A2%91%E7%90%86%E8%A7%A3%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md)
 
@@ -2396,6 +2662,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：1
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-05)
 - [仓库记录](../collections/COL-AIGC-VIDEO-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/05_%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md)
 
@@ -2404,6 +2671,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：13
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-06)
 - [仓库记录](../collections/COL-AIGC-VIDEO-06.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md)
 
@@ -2412,6 +2680,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：19
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-08)
 - [仓库记录](../collections/COL-AIGC-VIDEO-08.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md)
 
@@ -2420,6 +2689,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-09)
 - [仓库记录](../collections/COL-AIGC-VIDEO-09.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md)
 
@@ -2428,6 +2698,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：25
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-essence-01)
 - [仓库记录](../collections/COL-AIGC-VIDEO-ESSENCE-01.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/01_AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
 
@@ -2436,6 +2707,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-essence-02)
 - [仓库记录](../collections/COL-AIGC-VIDEO-ESSENCE-02.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/02_AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E6%9E%B6%E6%9E%84.md)
 
@@ -2444,6 +2716,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：33
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-essence-03)
 - [仓库记录](../collections/COL-AIGC-VIDEO-ESSENCE-03.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md)
 
@@ -2452,6 +2725,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：23
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-essence-04)
 - [仓库记录](../collections/COL-AIGC-VIDEO-ESSENCE-04.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/04_%E9%95%BF%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E5%88%86%E9%95%9C%E5%8F%99%E4%BA%8B.md)
 
@@ -2460,6 +2734,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：23
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-essence-05)
 - [仓库记录](../collections/COL-AIGC-VIDEO-ESSENCE-05.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/05_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%B7%A5%E7%A8%8B%E4%BC%98%E5%8C%96.md)
 
@@ -2468,6 +2743,7 @@
 
 - 发布者：Rocky Ding
 - 收录数量：22
+- [在线阅读](https://mianstack.com/collection/col-aigc-video-essence-06)
 - [仓库记录](../collections/COL-AIGC-VIDEO-ESSENCE-06.json)
 - [原始来源](https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/06_AI%E8%A7%86%E9%A2%91%E7%BB%9F%E4%B8%80%E7%B3%BB%E7%BB%9F%E3%80%81%E5%88%9B%E4%BD%9C%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E6%9C%AA%E6%9D%A5%E8%B6%8B%E5%8A%BF.md)
 
@@ -2476,6 +2752,7 @@
 
 - 发布者：Alireza Dirafzoon
 - 收录数量：64
+- [在线阅读](https://mianstack.com/collection/col-aiml-behavioral)
 - [仓库记录](../collections/COL-AIML-BEHAVIORAL.json)
 - [原始来源](https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md)
 
@@ -2484,6 +2761,7 @@
 
 - 发布者：Alireza Dirafzoon
 - 收录数量：43
+- [在线阅读](https://mianstack.com/collection/col-aiml-coding)
 - [仓库记录](../collections/COL-AIML-CODING.json)
 - [原始来源](https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md)
 
@@ -2492,6 +2770,7 @@
 
 - 发布者：Alireza Dirafzoon
 - 收录数量：42
+- [在线阅读](https://mianstack.com/collection/col-aiml-fundamentals)
 - [仓库记录](../collections/COL-AIML-FUNDAMENTALS.json)
 - [原始来源](https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md)
 
@@ -2500,6 +2779,7 @@
 
 - 发布者：Alireza Dirafzoon
 - 收录数量：156
+- [在线阅读](https://mianstack.com/collection/col-aiml-pytorch)
 - [仓库记录](../collections/COL-AIML-PYTORCH.json)
 - [原始来源](https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md)
 
@@ -2508,6 +2788,7 @@
 
 - 发布者：Alireza Dirafzoon
 - 收录数量：40
+- [在线阅读](https://mianstack.com/collection/col-aiml-system-design)
 - [仓库记录](../collections/COL-AIML-SYSTEM-DESIGN.json)
 - [原始来源](https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md)
 
@@ -2516,6 +2797,7 @@
 
 - 发布者：Chaofa Yuan
 - 收录数量：14
+- [在线阅读](https://mianstack.com/collection/col-bruce-ai-coding)
 - [仓库记录](../collections/COL-BRUCE-AI-CODING.json)
 - [原始来源](https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md)
 
@@ -2524,6 +2806,7 @@
 
 - 发布者：Datawhale
 - 收录数量：12
+- [在线阅读](https://mianstack.com/collection/col-daily-ai-clustering)
 - [仓库记录](../collections/COL-DAILY-AI-CLUSTERING.json)
 
 <a id="collection-284"></a>
@@ -2531,6 +2814,7 @@
 
 - 发布者：Datawhale
 - 收录数量：54
+- [在线阅读](https://mianstack.com/collection/col-daily-ai-cv-basics)
 - [仓库记录](../collections/COL-DAILY-AI-CV-BASICS.json)
 
 <a id="collection-285"></a>
@@ -2538,6 +2822,7 @@
 
 - 发布者：Datawhale
 - 收录数量：92
+- [在线阅读](https://mianstack.com/collection/col-daily-ai-ensemble)
 - [仓库记录](../collections/COL-DAILY-AI-ENSEMBLE.json)
 
 <a id="collection-286"></a>
@@ -2545,6 +2830,7 @@
 
 - 发布者：Datawhale
 - 收录数量：60
+- [在线阅读](https://mianstack.com/collection/col-daily-ai-llm)
 - [仓库记录](../collections/COL-DAILY-AI-LLM.json)
 
 <a id="collection-287"></a>
@@ -2552,6 +2838,7 @@
 
 - 发布者：Datawhale
 - 收录数量：85
+- [在线阅读](https://mianstack.com/collection/col-daily-ai-ml-basics)
 - [仓库记录](../collections/COL-DAILY-AI-ML-BASICS.json)
 
 <a id="collection-288"></a>
@@ -2559,6 +2846,7 @@
 
 - 发布者：Datawhale
 - 收录数量：28
+- [在线阅读](https://mianstack.com/collection/col-daily-ai-nlp)
 - [仓库记录](../collections/COL-DAILY-AI-NLP.json)
 
 <a id="collection-289"></a>
@@ -2566,6 +2854,7 @@
 
 - 发布者：Datawhale
 - 收录数量：64
+- [在线阅读](https://mianstack.com/collection/col-daily-ai-object-detection)
 - [仓库记录](../collections/COL-DAILY-AI-OBJECT-DETECTION.json)
 
 <a id="collection-290"></a>
@@ -2573,6 +2862,7 @@
 
 - 发布者：Datawhale
 - 收录数量：24
+- [在线阅读](https://mianstack.com/collection/col-daily-ai-recommendation)
 - [仓库记录](../collections/COL-DAILY-AI-RECOMMENDATION.json)
 
 <a id="collection-291"></a>
@@ -2580,6 +2870,7 @@
 
 - 发布者：Datawhale
 - 收录数量：72
+- [在线阅读](https://mianstack.com/collection/col-daily-ai-supervised)
 - [仓库记录](../collections/COL-DAILY-AI-SUPERVISED.json)
 
 <a id="collection-292"></a>
@@ -2587,6 +2878,7 @@
 
 - 发布者：didilili
 - 收录数量：89
+- [在线阅读](https://mianstack.com/collection/col-didilili-ai-89)
 - [仓库记录](../collections/COL-DIDILILI-AI-89.json)
 - [原始来源](https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md)
 
@@ -2595,6 +2887,7 @@
 
 - 发布者：Datawhale
 - 收录数量：92
+- [在线阅读](https://mianstack.com/collection/col-hello-agents-interview)
 - [仓库记录](../collections/COL-HELLO-AGENTS-INTERVIEW.json)
 - [原始来源](https://github.com/datawhalechina/hello-agents/blob/36f583c233ea5cee4537ef93455702b55053af18/Extra-Chapter/Extra01-面试问题总结.md)
 
@@ -2603,6 +2896,7 @@
 
 - 发布者：Guide
 - 收录数量：58
+- [在线阅读](https://mianstack.com/collection/col-javaguide-agent)
 - [仓库记录](../collections/COL-JAVAGUIDE-AGENT.json)
 
 <a id="collection-295"></a>
@@ -2610,6 +2904,7 @@
 
 - 发布者：Guide
 - 收录数量：64
+- [在线阅读](https://mianstack.com/collection/col-javaguide-ai-article-qa)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-ARTICLE-QA.json)
 
 <a id="collection-296"></a>
@@ -2617,6 +2912,7 @@
 
 - 发布者：Guide
 - 收录数量：160
+- [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-agent)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-AGENT.json)
 
 <a id="collection-297"></a>
@@ -2624,6 +2920,7 @@
 
 - 发布者：Guide
 - 收录数量：49
+- [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-llm)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-LLM.json)
 
 <a id="collection-298"></a>
@@ -2631,6 +2928,7 @@
 
 - 发布者：Guide
 - 收录数量：80
+- [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-rag)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-RAG.json)
 
 <a id="collection-299"></a>
@@ -2638,6 +2936,7 @@
 
 - 发布者：Guide
 - 收录数量：83
+- [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-systems)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-SYSTEMS.json)
 
 <a id="collection-300"></a>
@@ -2645,6 +2944,7 @@
 
 - 发布者：Guide
 - 收录数量：103
+- [在线阅读](https://mianstack.com/collection/col-javaguide-ai-coding)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-CODING.json)
 
 <a id="collection-301"></a>
@@ -2652,6 +2952,7 @@
 
 - 发布者：Guide
 - 收录数量：26
+- [在线阅读](https://mianstack.com/collection/col-javaguide-ai-project-review)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-PROJECT-REVIEW.json)
 
 <a id="collection-302"></a>
@@ -2659,6 +2960,7 @@
 
 - 发布者：Guide
 - 收录数量：39
+- [在线阅读](https://mianstack.com/collection/col-javaguide-ai-reading-guide)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-READING-GUIDE.json)
 
 <a id="collection-303"></a>
@@ -2666,6 +2968,7 @@
 
 - 发布者：Guide
 - 收录数量：56
+- [在线阅读](https://mianstack.com/collection/col-javaguide-ai-system-design)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-SYSTEM-DESIGN.json)
 
 <a id="collection-304"></a>
@@ -2673,6 +2976,7 @@
 
 - 发布者：Guide
 - 收录数量：39
+- [在线阅读](https://mianstack.com/collection/col-javaguide-llm)
 - [仓库记录](../collections/COL-JAVAGUIDE-LLM.json)
 
 <a id="collection-305"></a>
@@ -2680,6 +2984,7 @@
 
 - 发布者：Guide
 - 收录数量：60
+- [在线阅读](https://mianstack.com/collection/col-javaguide-rag)
 - [仓库记录](../collections/COL-JAVAGUIDE-RAG.json)
 
 <a id="collection-306"></a>
@@ -2687,6 +2992,7 @@
 
 - 发布者：摸鱼酱mio
 - 收录数量：168
+- [在线阅读](https://mianstack.com/collection/col-myl-agent-links)
 - [仓库记录](../collections/COL-MYL-AGENT-LINKS.json)
 - [原始来源](https://www.yuque.com/camellia-6ti1v/nof1i8/zizeehc2qzhfy4xw)
 
@@ -2695,6 +3001,7 @@
 
 - 发布者：小熊饼干_
 - 收录数量：92
+- [在线阅读](https://mianstack.com/collection/col-wb-high-freq)
 - [仓库记录](../collections/COL-WB-HIGH-FREQ.json)
 - [原始来源](https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#PMYjdlz92oR1K3xhSfdchWkmn9b)
 
@@ -2703,6 +3010,7 @@
 
 - 发布者：Firefly
 - 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-wdn-application)
 - [仓库记录](../collections/COL-WDN-APPLICATION.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8)
 
@@ -2711,6 +3019,7 @@
 
 - 发布者：Firefly
 - 收录数量：42
+- [在线阅读](https://mianstack.com/collection/col-wdn-architecture)
 - [仓库记录](../collections/COL-WDN-ARCHITECTURE.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84)
 
@@ -2719,6 +3028,7 @@
 
 - 发布者：Firefly
 - 收录数量：7
+- [在线阅读](https://mianstack.com/collection/col-wdn-data)
 - [仓库记录](../collections/COL-WDN-DATA.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/03.%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E9%9B%86)
 
@@ -2727,6 +3037,7 @@
 
 - 发布者：Firefly
 - 收录数量：33
+- [在线阅读](https://mianstack.com/collection/col-wdn-distributed)
 - [仓库记录](../collections/COL-WDN-DISTRIBUTED.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/04.%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83)
 
@@ -2735,6 +3046,7 @@
 
 - 发布者：Firefly
 - 收录数量：13
+- [在线阅读](https://mianstack.com/collection/col-wdn-evaluation)
 - [仓库记录](../collections/COL-WDN-EVALUATION.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/09.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0)
 
@@ -2743,6 +3055,7 @@
 
 - 发布者：Firefly
 - 收录数量：25
+- [在线阅读](https://mianstack.com/collection/col-wdn-finetuning)
 - [仓库记录](../collections/COL-WDN-FINETUNING.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83)
 
@@ -2751,6 +3064,7 @@
 
 - 发布者：Firefly
 - 收录数量：22
+- [在线阅读](https://mianstack.com/collection/col-wdn-foundations)
 - [仓库记录](../collections/COL-WDN-FOUNDATIONS.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/01.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80)
 
@@ -2759,6 +3073,7 @@
 
 - 发布者：Firefly
 - 收录数量：8
+- [在线阅读](https://mianstack.com/collection/col-wdn-inference)
 - [仓库记录](../collections/COL-WDN-INFERENCE.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/06.%E6%8E%A8%E7%90%86)
 
@@ -2767,6 +3082,7 @@
 
 - 发布者：Firefly
 - 收录数量：66
+- [在线阅读](https://mianstack.com/collection/col-wdn-rl)
 - [仓库记录](../collections/COL-WDN-RL.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
 
@@ -2775,6 +3091,7 @@
 
 - 发布者：Firefly
 - 收录数量：44
+- [在线阅读](https://mianstack.com/collection/col-wdn-supplement)
 - [仓库记录](../collections/COL-WDN-SUPPLEMENT.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/README.md)
 
@@ -2783,6 +3100,7 @@
 
 - 发布者：小林 Coding
 - 收录数量：24
+- [在线阅读](https://mianstack.com/collection/col-xl-agent)
 - [仓库记录](../collections/COL-XL-AGENT.json)
 - [原始来源](https://xiaolinnote.com/ai/agent/agent_info.html)
 
@@ -2791,6 +3109,7 @@
 
 - 发布者：小林 Coding
 - 收录数量：12
+- [在线阅读](https://mianstack.com/collection/col-xl-langchain)
 - [仓库记录](../collections/COL-XL-LANGCHAIN.json)
 - [原始来源](https://xiaolinnote.com/ai/langchain/langchain_info.html)
 
@@ -2799,6 +3118,7 @@
 
 - 发布者：小林 Coding
 - 收录数量：23
+- [在线阅读](https://mianstack.com/collection/col-xl-llm)
 - [仓库记录](../collections/COL-XL-LLM.json)
 - [原始来源](https://xiaolinnote.com/ai/llm/llm_info.html)
 
@@ -2807,6 +3127,7 @@
 
 - 发布者：小林 Coding
 - 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-xl-rag)
 - [仓库记录](../collections/COL-XL-RAG.json)
 - [原始来源](https://xiaolinnote.com/ai/rag/rag_info.html)
 
@@ -2815,6 +3136,7 @@
 
 - 发布者：小林 Coding
 - 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-xl-tools)
 - [仓库记录](../collections/COL-XL-TOOLS.json)
 - [原始来源](https://xiaolinnote.com/ai/tools/tools_info.html)
 
@@ -2823,6 +3145,7 @@
 
 - 发布者：Onefly
 - 收录数量：25
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-agent-concepts)
 - [仓库记录](../collections/COL-ZERO2AGENT-AGENT-CONCEPTS.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md)
 
@@ -2831,6 +3154,7 @@
 
 - 发布者：Onefly
 - 收录数量：35
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-agent-infra)
 - [仓库记录](../collections/COL-ZERO2AGENT-AGENT-INFRA.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md)
 
@@ -2839,6 +3163,7 @@
 
 - 发布者：Onefly
 - 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-ai-code-testing)
 - [仓库记录](../collections/COL-ZERO2AGENT-AI-CODE-TESTING.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md)
 
@@ -2847,6 +3172,7 @@
 
 - 发布者：Onefly
 - 收录数量：39
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-ai-infra)
 - [仓库记录](../collections/COL-ZERO2AGENT-AI-INFRA.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md)
 
@@ -2855,6 +3181,7 @@
 
 - 发布者：Onefly
 - 收录数量：55
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-architecture-design)
 - [仓库记录](../collections/COL-ZERO2AGENT-ARCHITECTURE-DESIGN.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md)
 
@@ -2863,6 +3190,7 @@
 
 - 发布者：Onefly
 - 收录数量：32
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-business-ai-engineering)
 - [仓库记录](../collections/COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md)
 
@@ -2871,6 +3199,7 @@
 
 - 发布者：Onefly
 - 收录数量：13
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-company-preferences)
 - [仓库记录](../collections/COL-ZERO2AGENT-COMPANY-PREFERENCES.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md)
 
@@ -2879,6 +3208,7 @@
 
 - 发布者：Onefly
 - 收录数量：71
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-engineering-pitfalls)
 - [仓库记录](../collections/COL-ZERO2AGENT-ENGINEERING-PITFALLS.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md)
 
@@ -2887,6 +3217,7 @@
 
 - 发布者：Onefly
 - 收录数量：55
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-eval-and-vision)
 - [仓库记录](../collections/COL-ZERO2AGENT-EVAL-AND-VISION.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md)
 
@@ -2895,6 +3226,7 @@
 
 - 发布者：Onefly
 - 收录数量：38
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-fault-tolerance)
 - [仓库记录](../collections/COL-ZERO2AGENT-FAULT-TOLERANCE.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md)
 
@@ -2903,6 +3235,7 @@
 
 - 发布者：Onefly
 - 收录数量：61
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-memory-context)
 - [仓库记录](../collections/COL-ZERO2AGENT-MEMORY-CONTEXT.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/04-memory-context/index.md)
 
@@ -2911,6 +3244,7 @@
 
 - 发布者：Onefly
 - 收录数量：33
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-multi-agent-collab)
 - [仓库记录](../collections/COL-ZERO2AGENT-MULTI-AGENT-COLLAB.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md)
 
@@ -2919,6 +3253,7 @@
 
 - 发布者：Onefly
 - 收录数量：25
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-project-deep-dive)
 - [仓库记录](../collections/COL-ZERO2AGENT-PROJECT-DEEP-DIVE.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md)
 
@@ -2927,6 +3262,7 @@
 
 - 发布者：Onefly
 - 收录数量：33
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-prompt-engineering)
 - [仓库记录](../collections/COL-ZERO2AGENT-PROMPT-ENGINEERING.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md)
 
@@ -2935,6 +3271,7 @@
 
 - 发布者：Onefly
 - 收录数量：82
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-rag-retrieval)
 - [仓库记录](../collections/COL-ZERO2AGENT-RAG-RETRIEVAL.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/09-rag-retrieval/index.md)
 
@@ -2943,6 +3280,7 @@
 
 - 发布者：Onefly
 - 收录数量：161
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-training-and-data)
 - [仓库记录](../collections/COL-ZERO2AGENT-TRAINING-AND-DATA.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md)
 
@@ -2951,6 +3289,7 @@
 
 - 发布者：Onefly
 - 收录数量：6
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-tutorial-loop)
 - [仓库记录](../collections/COL-ZERO2AGENT-TUTORIAL-LOOP.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-basic/10-loop-engineering/index.md)
 
@@ -2959,5 +3298,6 @@
 
 - 发布者：Onefly
 - 收录数量：33
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-tutorial-openclaw)
 - [仓库记录](../collections/COL-ZERO2AGENT-TUTORIAL-OPENCLAW.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md)
