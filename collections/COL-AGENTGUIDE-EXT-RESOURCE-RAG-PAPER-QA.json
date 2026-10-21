@@ -1,5 +1,6 @@
 {
   "id": "COL-AGENTGUIDE-EXT-RESOURCE-RAG-PAPER-QA",
+  "readingUrl": "https://mianstack.com/collection/col-agentguide-ext-resource-rag-paper-qa",
   "publisherId": "PUB-AGENTGUIDE",
   "sourceKind": "curated_question_set",
   "title": "AgentGuide · Agentic RAG 研究问答",

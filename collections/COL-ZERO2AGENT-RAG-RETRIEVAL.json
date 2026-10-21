@@ -1,5 +1,6 @@
 {
   "id": "COL-ZERO2AGENT-RAG-RETRIEVAL",
+  "readingUrl": "https://mianstack.com/collection/col-zero2agent-rag-retrieval",
   "publisherId": "PUB-ONEFLY",
   "title": "zero2Agent · RAG 与检索系统：从 chunk 设计到多路召回",
   "coverage": [
