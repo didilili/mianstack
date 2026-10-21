@@ -1,0 +1,445 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · LLM推理系统问答",
+  "coverage": [
+    "llm",
+    "rag",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
+  "sourceClaim": "AgentGuide 收录的推理专题问答 PDF，署名 AI Engineering Insider / Lamhot Siagian，Second Edition 2026。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf",
+  "sourceAttribution": {
+    "name": "Lamhot Siagian / AI Engineering Insider",
+    "url": "https://www.aiengineeringinsider.com/ebooks/inference"
+  },
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-001",
+      "originalTitle": "What is the difference between prefill and decode in LLM inference, and why does it matter for system design?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=7",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-002",
+      "originalTitle": "Explain the iron triangle of inference. How would you make a decision when optimizing for a latency-sensitive chatbot application?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=7",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-003",
+      "originalTitle": "Why is memory bandwidth, rather than raw compute (FLOP/s), typically the bottleneck in LLM decoding?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=7",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-004",
+      "originalTitle": "How do you measure and report inference performance? What metrics would you instrument in a production serving system?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=8",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-005",
+      "originalTitle": "A colleague argues that since FLOP/s keeps growing faster than memory bandwidth, inference will soon be compute-bound. How do you respond?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=8",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-006",
+      "originalTitle": "Explain the difference between HBM bandwidth and NVLink bandwidth. When does each become the bottleneck?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=10",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-007",
+      "originalTitle": "Why does Apple Silicon perform competitively for LLM inference despite lower peak FLOP/s than discrete GPUs?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=11",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-008",
+      "originalTitle": "What is the significance of Tensor Core formats (FP16 vs INT8 vs FP8) for inference? When would you choose each?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=11",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-009",
+      "originalTitle": "How would you profile an LLM inference workload to identify whether it is compute-bound or memory-bandwidth-bound?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=11",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-010",
+      "originalTitle": "Describe the trade-offs between deploying inference on a Groq LPU versus an NVIDIA H100.",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=11",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-011",
+      "originalTitle": "Explain Multi-Query Attention vs. Grouped Query Attention. Why are they important for inference?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=14",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-012",
+      "originalTitle": "Walk me through what happens to the KV cache during a 1000-token generation on a 7B model.",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-013",
+      "originalTitle": "What is the attention complexity bottleneck and how do modern systems address it?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-014",
+      "originalTitle": "How does RoPE enable context length extrapolation? What goes wrong if you naively extend context beyond training length?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-015",
+      "originalTitle": "Why is the decode phase memory-bandwidth-bound while prefill is compute-bound? What are the implications for serving system design?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-016",
+      "originalTitle": "You need to deploy a 70B LLM on 2 A100 80GB GPUs. What quantization strategy would you choose and why?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-017",
+      "originalTitle": "Explain the difference between weight-only quantization and weight-and-activation quantization. When does each apply?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-018",
+      "originalTitle": "What is the Straight-Through Estimator and why is it needed for QAT?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-019",
+      "originalTitle": "How does SmoothQuant address the activation outlier problem? What are its limitations?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-020",
+      "originalTitle": "Compare GPTQ and AWQ. Which would you use in production and under what conditions?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=20",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-021",
+      "originalTitle": "Prove that speculative decoding produces outputs from the same distribution as the target model.",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=22",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-022",
+      "originalTitle": "What is the acceptance rate α in speculative decoding, and what factors influence it?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=22",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-023",
+      "originalTitle": "How does Medusa differ from a separate draft model approach? What are the trade-offs?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=23",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-024",
+      "originalTitle": "In what scenario would you not recommend speculative decoding?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=23",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-025",
+      "originalTitle": "Describe the EAGLE architecture and explain why it achieves higher acceptance rates than basic Medusa.",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=23",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-026",
+      "originalTitle": "Explain PagedAttention. How does it differ from pre-allocated contiguous KV cache management?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-027",
+      "originalTitle": "How does prefix caching work, and what kind of application benefits most from it?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-028",
+      "originalTitle": "What is the attention sink phenomenon? Why does naïve sliding window attention fail for StreamingLLM?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=26",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-029",
+      "originalTitle": "How would you design a KV cache eviction policy for a system serving requests with highly variable lengths?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=26",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-030",
+      "originalTitle": "Explain KV cache quantization. Can you quantize the KV cache more aggressively than model weights? Why or why not?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=26",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-031",
+      "originalTitle": "Explain why FlashAttention is faster than standard attention. What is the key bottleneck it addresses?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=28",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-032",
+      "originalTitle": "What is kernel fusion and why does it improve inference performance?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-033",
+      "originalTitle": "How does the online softmax trick enable tiled attention computation?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-034",
+      "originalTitle": "What improvements did FlashAttention-3 introduce for the H100, and how does it exploit H100-specific features?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-035",
+      "originalTitle": "When would you use Triton instead of writing raw CUDA? What are the trade-offs?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-036",
+      "originalTitle": "Explain continuous batching. Why is it superior to static batching for LLM serving?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-037",
+      "originalTitle": "What is “prefill piracy” and how does chunked prefill address it?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-038",
+      "originalTitle": "Describe the architecture of vLLM. What are its key innovations and where are its limitations?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=33",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-039",
+      "originalTitle": "How does disaggregated prefill/decode serving work? What are the engineering challenges?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=33",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-040",
+      "originalTitle": "What metrics would you use to evaluate and compare two LLM serving systems?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=33",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-041",
+      "originalTitle": "Explain tensor parallelism for a transformer’s MLP block. What communication collectives are required and when?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-042",
+      "originalTitle": "When would you choose tensor parallelism over pipeline parallelism for inference?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-043",
+      "originalTitle": "Explain the expert routing mechanism in an MoE model. What challenges does it create for inference serving?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-044",
+      "originalTitle": "How does pipeline bubble fraction affect pipeline parallelism efficiency? How is it mitigated?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=36",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-045",
+      "originalTitle": "What is expert offloading for large MoE models, and what are its performance implications?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=36",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-046",
+      "originalTitle": "How does Ring Attention achieve distributed long-context inference? What is its communication cost?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=38",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-047",
+      "originalTitle": "Compare Mamba (SSM) and Transformer attention for long-context inference. When would you use each?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=38",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-048",
+      "originalTitle": "How does LLMLingua compress prompts? What are the risks of prompt compression?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=38",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-049",
+      "originalTitle": "Explain the difference between YaRN and NTK-aware scaling for RoPE context extension.",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=39",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-050",
+      "originalTitle": "What is RAG, and how does it relate to long-context inference? When would you choose one over the other?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=39",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-051",
+      "originalTitle": "You are asked to deploy a competitive language model on a smartphone with 6 GB RAM. What is your approach?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=41",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-052",
+      "originalTitle": "Explain Apple MLX and why it is well-suited for LLM inference on Apple Silicon.",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=41",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-053",
+      "originalTitle": "What is the k-quant system in llama.cpp? How does it differ from standard uniform quantization?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=41",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-054",
+      "originalTitle": "Compare llama.cpp CPU inference vs GPU inference. When would you prefer CPU inference?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=42",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-055",
+      "originalTitle": "What is Hardware-Aware NAS? How does OFA (Once-For-All) enable efficient edge deployment?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=42",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-056",
+      "originalTitle": "What is inference-time compute scaling? How does it differ from training-time compute scaling?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-057",
+      "originalTitle": "Explain Process Reward Models (PRMs). How do they differ from Outcome Reward Models (ORMs)?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-058",
+      "originalTitle": "What is Best-of-N sampling? When is it efficient and when is it not?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-059",
+      "originalTitle": "Describe the GRPO training objective used in DeepSeek-R1. How does it differ from PPO?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-060",
+      "originalTitle": "For a math tutoring application, would you use a larger base model or a smaller model with extended inference compute? Justify your answer.",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-061",
+      "originalTitle": "How would you debug a sudden TTFT p99 spike in a production LLM serving system?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=47",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-062",
+      "originalTitle": "What is goodput and why is it more meaningful than raw throughput or individual metric SLO compliance?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-063",
+      "originalTitle": "How would you design an A/B testing framework for comparing two LLM versions in production?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-064",
+      "originalTitle": "Explain how you would capacity plan for an LLM serving system expecting 10× user growth in 6 months.",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-065",
+      "originalTitle": "How would you measure and improve Model FLOP Utilization (MFU)?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-066",
+      "originalTitle": "How do diffusion language models generate text differently from autoregressive models? What are the inference implications?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=51",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-067",
+      "originalTitle": "What is Mixture of Depths? How does it enable adaptive inference compute?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=51",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-068",
+      "originalTitle": "Why might photonic computing change LLM inference fundamentally? What are the current limitations?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=51",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-069",
+      "originalTitle": "How does multi-token prediction improve both training and inference efficiency?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=52",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-INFERENCE-QA-070",
+      "originalTitle": "Describe an “inference-first” model design philosophy. What architectural choices reflect this approach?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/training/Efficient%20LLM%20Inference%20Systems%2C%20Algorithms%20%26%20Production%20Engineering%281%29.pdf#page=52",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-HERMES-SELF-EVOLUTION-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Hermes 自进化机制专题问答",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/hermes-self-evolution-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-HERMES-SELF-EVOLUTION-PLAYBOOK-001",
+      "originalTitle": "Hermes Agent 的\"自进化\"到底是怎么实现的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/hermes-self-evolution-playbook.md#L418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-HERMES-SELF-EVOLUTION-PLAYBOOK-002",
+      "originalTitle": "为什么 Skill 内容以 User Message 注入而不是 System Prompt？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/hermes-self-evolution-playbook.md#L431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-HERMES-SELF-EVOLUTION-PLAYBOOK-003",
+      "originalTitle": "Hermes 和 OpenClaw 的本质区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/hermes-self-evolution-playbook.md#L442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-HERMES-SELF-EVOLUTION-PLAYBOOK-004",
+      "originalTitle": "Hermes 的 Periodic Nudge 是什么？为什么重要？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/hermes-self-evolution-playbook.md#L455",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-HERMES-SELF-EVOLUTION-PLAYBOOK-005",
+      "originalTitle": "Hermes 的 RL 训练闭环和普通 Fine-tuning 有什么不同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/hermes-self-evolution-playbook.md#L468",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-HERMES-SELF-EVOLUTION-PLAYBOOK-006",
+      "originalTitle": "你在 TinyClaw 里做的 RAG-to-Skill 和 Hermes 的 Skills 系统有什么异同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/hermes-self-evolution-playbook.md#L483",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

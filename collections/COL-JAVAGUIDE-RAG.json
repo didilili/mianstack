@@ -1,0 +1,378 @@
+{
+  "id": "COL-JAVAGUIDE-RAG",
+  "publisherId": "PUB-JAVAGUIDE",
+  "title": "JavaGuide · RAG 面试题",
+  "coverage": [
+    "llm",
+    "rag"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "JavaGuide《RAG 面试题总结》的公开问题目录，覆盖检索、知识更新、评测与工程排查。",
+  "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-JAVAGUIDE-RAG-001",
+      "originalTitle": "什么是 RAG？为什么需要 RAG？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-002",
+      "originalTitle": "RAG 和传统搜索引擎有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L26",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-003",
+      "originalTitle": "RAG 和微调怎么选？什么时候用 RAG，什么时候微调，什么时候两者结合？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L27",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-004",
+      "originalTitle": "RAG 系统中 Embedding 模型怎么选？为什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L28",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-005",
+      "originalTitle": "余弦相似度、内积和欧氏距离有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-006",
+      "originalTitle": "RAG 的幻觉问题怎么解决？RAG 一定不会产生幻觉吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L30",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-007",
+      "originalTitle": "什么是 Lost in the Middle 问题？怎么应对？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-008",
+      "originalTitle": "长上下文窗口是否会取代 RAG？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-009",
+      "originalTitle": "RAG 系统的评估指标有哪些？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L33",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-010",
+      "originalTitle": "RAG 的优势和局限性是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L34",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-011",
+      "originalTitle": "什么场景适合用 RAG？什么场景不适合？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-012",
+      "originalTitle": "什么是 Embedding？为什么需要把文本转成向量？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-013",
+      "originalTitle": "RAG 场景为什么需要向量数据库？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L46",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-014",
+      "originalTitle": "ANN 算法为什么可以接受不是 100% 精确的结果？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L47",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-015",
+      "originalTitle": "有哪些向量索引算法？各自优缺点是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-016",
+      "originalTitle": "Flat、HNSW、IVFFLAT、IVF-PQ 分别适合什么场景？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-017",
+      "originalTitle": "HNSW 和 IVFFLAT 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L50",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-018",
+      "originalTitle": "HNSW 的 `ef_search` 参数怎么调？调大和调小分别会怎样？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L51",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-019",
+      "originalTitle": "向量数据库和传统数据库最核心的区别是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L52",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-020",
+      "originalTitle": "如果向量数据从 100 万增长到 1 亿，架构上需要做什么调整？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-021",
+      "originalTitle": "为什么选择 PostgreSQL + pgvector？什么时候应该换专业向量数据库？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L54",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-022",
+      "originalTitle": "RAG 文档处理管线通常包含哪些步骤？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L64",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-023",
+      "originalTitle": "文档解析、清洗、结构化分别解决什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L65",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-024",
+      "originalTitle": "Chunk 切分为什么不能只按固定长度切？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L66",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-025",
+      "originalTitle": "Chunk 大小、Overlap、语义边界应该怎么取舍？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L67",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-026",
+      "originalTitle": "表格、代码块、图片、多模态内容进入 RAG 前怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-027",
+      "originalTitle": "文档处理阶段如何保留标题层级、页码、来源和权限元数据？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-028",
+      "originalTitle": "Chunk 质量差会带来哪些召回和生成问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L70",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-029",
+      "originalTitle": "如何从零搭建一套企业级文档处理管线？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-030",
+      "originalTitle": "RAG 召回率低应该怎么排查？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L81",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-031",
+      "originalTitle": "Chunk 策略、Metadata、Hybrid Search、Query Rewrite、Rerank 分别解决什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-032",
+      "originalTitle": "Hybrid Search 是什么？BM25 和向量检索怎么融合？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L83",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-033",
+      "originalTitle": "Query Rewrite、HyDE、Self-Query 分别适合什么场景？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L84",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-034",
+      "originalTitle": "Rerank 解决什么问题？为什么不能只依赖向量相似度排序？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L85",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-035",
+      "originalTitle": "上下文压缩有什么价值？什么时候会伤害答案质量？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L86",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-036",
+      "originalTitle": "RAG 优化为什么必须先建立失败样本集？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L87",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-037",
+      "originalTitle": "线上 RAG 出现“答非所问”，应该按什么路径定位？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-038",
+      "originalTitle": "GraphRAG 解决什么问题？和标准向量 RAG 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-039",
+      "originalTitle": "为什么说 Chunk 是信息孤岛？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-040",
+      "originalTitle": "向量相似度为什么不擅长多跳推理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-041",
+      "originalTitle": "GraphRAG 中实体、关系、社区发现分别是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-042",
+      "originalTitle": "全局检索和局部检索有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-043",
+      "originalTitle": "GraphRAG 的社区摘要有什么价值？它的成本在哪里？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-044",
+      "originalTitle": "GraphRAG 如何做权限过滤？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L104",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-045",
+      "originalTitle": "什么场景适合 GraphRAG？什么场景不适合？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-046",
+      "originalTitle": "成熟系统为什么会组合关键词检索、向量检索、多向量检索和图检索？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L106",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-047",
+      "originalTitle": "RAG 知识库为什么不能只新增不删除？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-048",
+      "originalTitle": "增量更新和全量重建怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L117",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-049",
+      "originalTitle": "Embedding 模型升级后，为什么通常需要重建索引？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-050",
+      "originalTitle": "Chunk 策略变更会影响哪些历史数据？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-051",
+      "originalTitle": "如何避免同一文档多个版本同时被召回？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-052",
+      "originalTitle": "知识库更新如何做灰度、回滚和审计？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L121",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-053",
+      "originalTitle": "RAG 评测为什么要分检索质量和生成质量？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-054",
+      "originalTitle": "MRR、NDCG、Recall@K、Context Precision、Faithfulness 分别衡量什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-055",
+      "originalTitle": "原始文档已经入库，但相关问题始终召回不到正确 Chunk，你会从哪些环节开始检查？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-056",
+      "originalTitle": "正确文档进入了候选池，却总是排在 TopK 之外，应该调整召回还是引入 Rerank？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-057",
+      "originalTitle": "检索结果正确，模型仍然引用了错误片段，如何检查上下文顺序、截断和指令约束？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-058",
+      "originalTitle": "同一份文档的新旧版本被同时召回，数据和索引更新链路可能出了什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-059",
+      "originalTitle": "只有最终答案好坏的评分时，如何判断问题出在检索还是生成？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-RAG-060",
+      "originalTitle": "某类问题需要跨多篇文档查关系，如何判断应该优化向量 RAG，还是引入 GraphRAG？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md#L132",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

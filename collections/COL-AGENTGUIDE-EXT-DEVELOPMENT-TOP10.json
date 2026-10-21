@@ -1,0 +1,48 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-DEVELOPMENT-TOP10",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 开发岗精选复习题",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-DEVELOPMENT-TOP10-001",
+      "originalTitle": "LangChain vs AutoGen 选型？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L555",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-DEVELOPMENT-TOP10-002",
+      "originalTitle": "Multi-Agent 架构设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L557",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-DEVELOPMENT-TOP10-003",
+      "originalTitle": "Memory 系统如何实现？（Mem0/Zep）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L558",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-DEVELOPMENT-TOP10-004",
+      "originalTitle": "如何评估 Agent 效果？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L559",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-DEVELOPMENT-TOP10-005",
+      "originalTitle": "监控与可观测性怎么做？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L562",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

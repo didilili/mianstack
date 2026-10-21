@@ -1,0 +1,234 @@
+{
+  "id": "COL-AIENG-EVALUATION",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · 模型与应用评测",
+  "coverage": [
+    "rag",
+    "ai_engineering"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-EVALUATION-001",
+      "originalTitle": "AI Agent Evaluation",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L684",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-002",
+      "originalTitle": "LLM Evaluation",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L686",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-003",
+      "originalTitle": "AI Agent Observability",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L688",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-004",
+      "originalTitle": "What is evaluation-driven development for AI applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L690",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-005",
+      "originalTitle": "Why is AI only as good as our definition of done?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L691",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-006",
+      "originalTitle": "How do you evaluate LLM outputs? What metrics do you use?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L693",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-007",
+      "originalTitle": "Explain BLEU, ROUGE, and BERTScore. When would you use each?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L695",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-008",
+      "originalTitle": "What is G-Eval, and how does it use LLMs for evaluation?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L697",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-009",
+      "originalTitle": "What is LLM-as-a-judge evaluation, and what are its limitations?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L699",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-010",
+      "originalTitle": "How do you conduct human evaluation for AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L701",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-011",
+      "originalTitle": "What is red teaming, and how do you red team an LLM application?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L703",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-012",
+      "originalTitle": "How do you detect and measure hallucinations in LLM outputs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L704",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-013",
+      "originalTitle": "What is adversarial testing for AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L705",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-014",
+      "originalTitle": "How do you build a regression test suite for AI applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L706",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-015",
+      "originalTitle": "What are benchmark suites (MMLU, HumanEval, GSM8K), and how do you interpret them?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L707",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-016",
+      "originalTitle": "What is benchmark contamination, and how do you guard against it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L709",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-017",
+      "originalTitle": "Your new model version scores higher on every benchmark, but users say it got worse. Why does this happen, and how do you find the problem?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L711",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-018",
+      "originalTitle": "How do you evaluate a RAG system end-to-end?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L712",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-019",
+      "originalTitle": "How do you evaluate the quality of AI agents?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L714",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-020",
+      "originalTitle": "How would you evaluate an autonomous coding agent? Why can SWE-bench pass rates be misleading?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L716",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-021",
+      "originalTitle": "What is the difference between offline and online evaluation for AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L718",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-022",
+      "originalTitle": "How do you measure factual consistency in LLM outputs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L719",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-023",
+      "originalTitle": "How do you evaluate multi-turn conversation quality?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L720",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-024",
+      "originalTitle": "What is the role of golden datasets in AI evaluation?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L721",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-025",
+      "originalTitle": "How do you build an eval set when there is no labelled ground truth and domain experts are expensive?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L722",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-026",
+      "originalTitle": "How do you implement continuous evaluation for production AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L723",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-027",
+      "originalTitle": "How do you evaluate bias in AI model outputs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L724",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-028",
+      "originalTitle": "How do you compare two models or prompts in a statistically rigorous way?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L725",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-029",
+      "originalTitle": "How do you evaluate the robustness of an LLM application across input variations?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L726",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-030",
+      "originalTitle": "What are the key differences between evaluating traditional ML vs LLM applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L727",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-031",
+      "originalTitle": "How do you set up an evaluation framework from scratch for a new LLM application?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L728",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-032",
+      "originalTitle": "Your model passes one fairness metric but fails another. How do you handle conflicting audit results?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L730",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-033",
+      "originalTitle": "Your model was fair at deployment, but became biased 6 months later. How do you monitor continuously?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L731",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-034",
+      "originalTitle": "An external auditor cannot reproduce your model's results. How do you ensure audit reproducibility?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-035",
+      "originalTitle": "How do you structure red teaming for an LLM chatbot before launch?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L733",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-EVALUATION-036",
+      "originalTitle": "How do you red team a multimodal model where text-only safety tests miss cross-modal attacks?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L734",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

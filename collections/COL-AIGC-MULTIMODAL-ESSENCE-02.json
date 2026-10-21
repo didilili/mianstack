@@ -1,0 +1,228 @@
+{
+  "id": "COL-AIGC-MULTIMODAL-ESSENCE-02",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · AI多模态精华版·核心组件",
+  "coverage": [
+    "llm"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的面试题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-001",
+      "originalTitle": "5.2.1.1 面试问题：编码器在多模态模型中的核心作用是什么？为什么不可或缺？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L76",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-002",
+      "originalTitle": "5.2.1.2 面试问题：视觉、文本、音频三类编码器的处理流程有何差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-003",
+      "originalTitle": "5.2.1.3 面试问题：编码器的输出能否直接送入 LLM？为什么需要后续模块？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-004",
+      "originalTitle": "5.2.2.1 面试问题：ViT 的网络结构与工作流程是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-005",
+      "originalTitle": "5.2.2.2 面试问题：ViT 原始的有监督预训练方式有何局限？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-006",
+      "originalTitle": "5.2.2.3 面试问题：MAE 的预训练策略与关键设计是什么？为什么遮蔽率高达 75%？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L163",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-007",
+      "originalTitle": "5.2.2.4 面试问题：ViT 与 MAE 在主流多模态模型中如何被使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-008",
+      "originalTitle": "5.2.3.1 面试问题：Whisper 编码器的模型结构与训练目标是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L200",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-009",
+      "originalTitle": "5.2.3.2 面试问题：语音 Tokenizer 是什么？与 Whisper 编码器有何区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-010",
+      "originalTitle": "5.2.3.3 面试问题：在多模态模型中如何选型？Whisper 与语音 Tokenizer 各自适合什么场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-011",
+      "originalTitle": "5.2.4.1 面试问题：高分辨率视觉输入为何对 ViT 构成挑战？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-012",
+      "originalTitle": "5.2.4.2 面试问题：动态分块方案如何工作？有何优缺点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L295",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-013",
+      "originalTitle": "5.2.4.3 面试问题：多尺度编码与自适应分辨率分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-014",
+      "originalTitle": "5.2.4.4 面试问题：Token 压缩与稀疏注意力如何缓解长序列压力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-015",
+      "originalTitle": "5.2.5.1 面试问题：为什么多模态模型必须引入投影器？它解决了什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-016",
+      "originalTitle": "5.2.5.2 面试问题：投影器的输入输出形式是什么？设计目标有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-017",
+      "originalTitle": "5.2.6.1 面试问题：主流输入投影器的分类维度与代表方案有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-018",
+      "originalTitle": "5.2.6.2 面试问题：四类投影器的基本结构与计算流程对比",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L426",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-019",
+      "originalTitle": "5.2.7.1 面试问题：Linear Projection（线性投影）的优点与适用场景",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-020",
+      "originalTitle": "5.2.7.2 面试问题：MLP 投影器相比线性投影有何优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-021",
+      "originalTitle": "5.2.7.3 面试问题：Cross-Attention 式投影器（Q-Former）的核心思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L511",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-022",
+      "originalTitle": "5.2.7.4 面试问题：Conv Mapper 适合的模态与场景有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L542",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-023",
+      "originalTitle": "5.2.8.1 面试问题：投影器中加入位置编码（Position Embedding）的作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L572",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-024",
+      "originalTitle": "5.2.8.2 面试问题：加入模态类型编码（Modality Type Embedding）的作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L595",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-025",
+      "originalTitle": "5.2.9.1 面试问题：多模态生成器的角色分工是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L623",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-026",
+      "originalTitle": "5.2.9.2 面试问题：生成器需要满足哪些核心设计目标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L639",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-027",
+      "originalTitle": "5.2.10.1 面试问题：主流生成器的分类维度与代表方案有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L663",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-028",
+      "originalTitle": "5.2.10.2 面试问题：各类生成器的基本结构与计算流程对比",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L697",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-029",
+      "originalTitle": "5.2.11.1 面试问题：扩散模型生成器（DDPM/LDM/SD3/FLUX）的核心机制与适用场景",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L740",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-030",
+      "originalTitle": "5.2.11.2 面试问题：自回归生成器（Chameleon/Emu3/Janus-Pro）的核心机制与适用场景",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L784",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-031",
+      "originalTitle": "5.2.11.3 面试问题：流匹配生成器（Flow Matching/Rectified Flow）的核心机制与优势",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L834",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-032",
+      "originalTitle": "5.2.11.4 面试问题：Vocoder 类生成器（HiFi-GAN/EnCodec/VALL-E）的核心机制与适用场景",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L878",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-033",
+      "originalTitle": "5.2.12.1 面试问题：条件控制与内容创造的权衡如何处理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L922",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-034",
+      "originalTitle": "5.2.12.2 面试问题：训练与推理阶段如何缓解模态鸿沟问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L959",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处“模态鸿沟”指共享嵌入空间中的模态分离。"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-02-035",
+      "originalTitle": "5.2.12.3 面试问题：主流采样策略与推理加速方法有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/2_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L997",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

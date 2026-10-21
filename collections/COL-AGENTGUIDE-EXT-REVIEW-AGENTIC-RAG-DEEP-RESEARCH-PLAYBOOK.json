@@ -1,0 +1,111 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Agentic RAG 与 Deep Research进阶追问",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-001",
+      "originalTitle": "四代 RAG 各自的核心变化是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-002",
+      "originalTitle": "为什么说从 Modular RAG 到 Agentic RAG 是一次质变？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-003",
+      "originalTitle": "Agentic RAG 和传统搜索引擎的本质区别在哪？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-004",
+      "originalTitle": "Self-RAG 的 reflection tokens 具体有哪些？各自触发什么行为？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-005",
+      "originalTitle": "CRAG 的 retrieval evaluator 怎么工作？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L286",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-006",
+      "originalTitle": "Self-RAG 和 CRAG 各自更适合什么场景？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L287",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-007",
+      "originalTitle": "通义 DeepResearch 的 Agentic Mid-Training + Post-Training 框架怎么做？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L291",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-008",
+      "originalTitle": "Deep Research 的多源信息交叉验证怎么做？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L293",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-009",
+      "originalTitle": "怎么处理 UGC 中事实和观点高度混合的问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L297",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-010",
+      "originalTitle": "和 Perplexity 相比，小红书 Agentic Search 的最大差异化在哪？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-011",
+      "originalTitle": "如果你的 Agentic Search 推荐的餐厅用户去了发现不好吃——你怎么闭环？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L299",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-012",
+      "originalTitle": "GoAfar 的三路召回和 Agentic RAG 的 multi-source retrieval 有什么异同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L302",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-013",
+      "originalTitle": "TinyClaw 的 RAG-to-Skill 和 Adaptive Retrieval（命中 Skill 就跳过检索）是什么关系？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-014",
+      "originalTitle": "Omni-Aware RAG 的 omni-routing 和 Agentic RAG 的 adaptive retrieval 有什么关系？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L304",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未定义 Omni-Aware RAG 的 omni-routing 机制。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-015",
+      "originalTitle": "AgenticRAGTracer 的 hop-aware benchmark 对 Agentic RAG 评测有什么价值？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L305",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW",
+  "publisherId": "PUB-JAVAGUIDE",
+  "title": "JavaGuide · AI 项目复盘与自测",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "career"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "JavaGuide AI 专题中的项目自测、正文问答与导读题。",
+  "sourceUrl": "https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-001",
+      "originalTitle": "去掉大模型后，原流程是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L436",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-002",
+      "originalTitle": "为什么是 Agent，不是 RAG 问答或 Workflow？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-003",
+      "originalTitle": "模型、工具、Memory、RAG 和 State 的边界分别是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-004",
+      "originalTitle": "哪些决策由模型做，哪些必须由代码做？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-005",
+      "originalTitle": "写操作如何授权、确认、幂等和核验？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L440",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-006",
+      "originalTitle": "如何限制死循环、成本和总时延？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L441",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-007",
+      "originalTitle": "指标的公式、样本和基线是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-008",
+      "originalTitle": "最严重的一次失败如何复现？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-009",
+      "originalTitle": "修复后如何证明没有引入新的回归？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L444",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-010",
+      "originalTitle": "如果流量扩大十倍，最先出现瓶颈的环节是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L445",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-011",
+      "originalTitle": "`requestId`、`runId`、`sessionId`、`toolCallId` 和 `actionId` 分别解决什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L446",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-012",
+      "originalTitle": "HITL 暂停后如何持久化、过期、恢复并重新校验业务状态？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-013",
+      "originalTitle": "RAG、工具结果、MCP Server 和长期 Memory 的信任边界在哪里？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-014",
+      "originalTitle": "哪些能力由框架提供，哪些权限、状态和可靠性机制是项目自己实现的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-015",
+      "originalTitle": "当前结论哪些来自生产、哪些来自离线实验、哪些只是设计预案？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L450",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-016",
+      "originalTitle": "你做的到底是不是 Agent，为什么不能用普通接口或固定工作流解决？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-017",
+      "originalTitle": "一个请求进来后，经过了哪些组件，状态和数据怎么流转？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L20",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-018",
+      "originalTitle": "关键方案是根据什么约束选出来的，代价是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L21",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-019",
+      "originalTitle": "项目失败过什么，你怎么定位、修复并防止它再次发生？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L22",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-020",
+      "originalTitle": "项目为什么选择当前模型？更换模型需要比较哪些指标？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/ai-interview-guide.md#L70",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-021",
+      "originalTitle": "RAG 出现召回不到、排序错误或答案不忠实时，分别怎么排查？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/ai-interview-guide.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-022",
+      "originalTitle": "Agent 调错工具、参数不合法或写操作超时时，系统如何处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/ai-interview-guide.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-023",
+      "originalTitle": "如何证明一次 Prompt、模型或检索配置调整带来了改善？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/ai-interview-guide.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-024",
+      "originalTitle": "模型供应商限流或不可用时，如何排队、降级和切换？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/ai-interview-guide.md#L74",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-025",
+      "originalTitle": "知识库和工具调用如何做租户隔离、权限校验与审计？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/ai-interview-guide.md#L75",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-PROJECT-REVIEW-026",
+      "originalTitle": "项目上线后记录了哪些质量、成本、延迟和错误指标？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/ai-interview-guide.md#L76",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

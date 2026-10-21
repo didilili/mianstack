@@ -1,0 +1,103 @@
+{
+  "id": "COL-AIGC-COMPANY-HONOR",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 荣耀高频面试题",
+  "coverage": [
+    "agent",
+    "training",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的公司专题题目汇编。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-001",
+      "originalTitle": "1.项目拷打",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-002",
+      "originalTitle": "2.实习提问：项目的背景",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-003",
+      "originalTitle": "2.实习提问：sft和rl的数据构造",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-004",
+      "originalTitle": "2.实习提问：为什么要用rl来优化模型，在sft的时候遇到了哪些问题，又是怎么解决的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L55",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-005",
+      "originalTitle": "2.实习提问：RL的时候奖励函数是如何设计的？最终效果怎么样？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L61",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-006",
+      "originalTitle": "3.项目提问：它的记忆管理是如何做的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-007",
+      "originalTitle": "3.项目提问：为什么要用多agent来做？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L79",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-008",
+      "originalTitle": "3.项目提问：多个agent之间是如何进行信息交互的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L85",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-009",
+      "originalTitle": "1.数据构造策略 评价指标 验证方式",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-010",
+      "originalTitle": "2.用的什么训练框架 怎么优化显存",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-011",
+      "originalTitle": "3.八股：dp ddp tp等区别",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-012",
+      "originalTitle": "4.介绍整体架构和细节",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-013",
+      "originalTitle": "5.rl奖励函数设计方法",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-HONOR-014",
+      "originalTitle": "6.八股：grpo和ppo的区别",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E8%8D%A3%E8%80%80%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L132",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

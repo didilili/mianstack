@@ -1,0 +1,337 @@
+{
+  "id": "COL-AIGC-VIDEO-03",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 03_视频生成典型模型与架构",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-VIDEO-03-001",
+      "originalTitle": "1.请介绍下StableVideoDiffusion的核心架构？以及有哪些创新点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L91",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-002",
+      "originalTitle": "1.Sora有哪些创新点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L121",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-003",
+      "originalTitle": "2.Sora在训练时是如何处理输入数据的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-004",
+      "originalTitle": "3.Sora是如何对视频数据进行标注的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-005",
+      "originalTitle": "4.为什么说Sora等AI视频大模型具备世界模拟器（world simulator）的潜质？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-006",
+      "originalTitle": "5.Sora模型的整体架构是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L184",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-007",
+      "originalTitle": "6.Sora等AI视频大模型的创新与优化经验有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-008",
+      "originalTitle": "7.Sora的扩散模型部分架构是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-009",
+      "originalTitle": "8.Sora的Text Encoder模型架构是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L224",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-010",
+      "originalTitle": "9.Sora的最新功能有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-011",
+      "originalTitle": "10.Sora支持哪几种多模态输入？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-012",
+      "originalTitle": "1.可灵AI视频大模型的架构是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-013",
+      "originalTitle": "2.可灵AI视频大模型是如何处理训练数据的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-014",
+      "originalTitle": "1.介绍一下Wan2.1视频大模型的主要架构",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L288",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-015",
+      "originalTitle": "2.介绍一下Wan2.1视频大模型的数据处理策略和训练/推理优化策略",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L317",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-016",
+      "originalTitle": "3.Wan2.1视频大模型的Text Encoder模型架构是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L350",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-017",
+      "originalTitle": "4.万相首尾帧模型（Wan2.1-FLF2V-14B）架构是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-018",
+      "originalTitle": "5.Wan2.1中的UmT5架构比经典的T5有哪些改进？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-019",
+      "originalTitle": "6.Wan2.1中3D因果卷积有哪些特别的作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-020",
+      "originalTitle": "7.Wan2.1视频大模型的3D Transformer模型架构是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-021",
+      "originalTitle": "8.Wan2.1视频大模型中的3D RoPE和经典RoPE的异同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-022",
+      "originalTitle": "1.介绍一下HunyuanVideo模型的架构",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-023",
+      "originalTitle": "2.HunyuanVideo模型有哪些特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L623",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-024",
+      "originalTitle": "3.介绍一下Hunyuan-Video的数据标注策略",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L661",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-025",
+      "originalTitle": "4.HunyuanVideo-Avatar的核心创新点有哪些？它们如何解决现有方法的局限性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L678",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-026",
+      "originalTitle": "5.在HunyuanVideo-Avatar中，字符图像注入模块的三种机制(如图)如何工作？为何选择机制(c)?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L692",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-027",
+      "originalTitle": "6.在HunyuanVideo-Avatar中，Face-Aware-Audio-Adapter如何实现多角色独立音频驱动?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L704",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-028",
+      "originalTitle": "7.在HunyuanVideo-Avatar中，如何解决长视频生成时的抖动问题？具体方法是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L714",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-029",
+      "originalTitle": "8.在HunyuanVideo-Avatar中，如果需要实时生成（如直播场景），如何优化模型?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L724",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-030",
+      "originalTitle": "9.在HunyuanVideo-Avatar中，Audio-Emotion-Module为何选择插入Double-Block而非Single-Block？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L737",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-031",
+      "originalTitle": "10.HunyuanVideo-Avatar在多角色音频驱动动画中是如何实现独立音频注入的？？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-032",
+      "originalTitle": "11.音频情感模块（AEM）在HunyuanVideo-Avatar中如何工作，以确保音频情感与面部表情的对齐？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L756",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-033",
+      "originalTitle": "1.CogVideoX模型的整体架构是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L768",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-034",
+      "originalTitle": "2.CogVideoX-5B和CogVideoX-2B有哪些异同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L783",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-035",
+      "originalTitle": "3.介绍一下CogVideoX系列模型的VAE结构",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L792",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-036",
+      "originalTitle": "4.在CogVideoX系列模型中VAE是如何训练的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L816",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-037",
+      "originalTitle": "5.CogVideoX的扩散模型部分架构是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L831",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-038",
+      "originalTitle": "1.SG-I2V方法如何在预训练的视频扩散模型中实现特征的对齐？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L857",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-039",
+      "originalTitle": "2.在SG-I2V的潜在优化过程中，如何确保优化后的潜在变量不会偏离扩散过程的分布？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L864",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-040",
+      "originalTitle": "3.SG-I2V在实验中如何验证其有效性，使用了哪些评估指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L872",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-041",
+      "originalTitle": "4.什么是MAGI-1模型，它的主要特点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L882",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-042",
+      "originalTitle": "5.MAGI-1模型是如何进行视频生成的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L893",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-043",
+      "originalTitle": "6.MAGI-1模型在推理过程中是如何实现高效生成的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-044",
+      "originalTitle": "7.MAGI-1模型在处理长时间视频生成时面临哪些挑战，是如何解决的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L912",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-045",
+      "originalTitle": "8.MAGI-1在处理视频生成任务时，如何利用Transformer架构来提高训练和推理效率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L927",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-046",
+      "originalTitle": "9.MAGI-1在推理过程中如何支持实时流式视频生成？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L940",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-047",
+      "originalTitle": "10.AnimateDiff视频模型能够支持哪些AI视频任务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L953",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-048",
+      "originalTitle": "11.请简要介绍OmniAvatar的核心创新点和主要贡献?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L960",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-049",
+      "originalTitle": "12.解释OmniAvatar中的像素级多层级音频嵌入策略是如何工作的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L975",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-050",
+      "originalTitle": "13.为什么OmniAvatar选择LoRA-based训练而不是全模型训练或部分层冻结？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L993",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-051",
+      "originalTitle": "14.描述OmniAvatar的整体架构设计及其关键组件?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L1014",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-052",
+      "originalTitle": "15.OmniAvatar如何处理长视频生成中的身份保持和时间连续性问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L1038",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-03-053",
+      "originalTitle": "16.OmniAvatar在实验中使用了哪些评估指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md#L1057",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

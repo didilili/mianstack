@@ -1,0 +1,274 @@
+{
+  "id": "COL-AIGC-FOUNDATION-PYTHON-01",
+  "publisherId": "PUB-WETHINKIN",
+  "sourceKind": "curated_question_set",
+  "title": "AIGC Interview Book · AI行业常用Python代码案例考频考点",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题与工程练习。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-001",
+      "originalTitle": "1.多进程multiprocessing基本使用代码段",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-002",
+      "originalTitle": "2.指定脚本所使用的GPU设备",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-003",
+      "originalTitle": "3.介绍一下如何使用Python中的flask库搭建AI服务",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-004",
+      "originalTitle": "4.介绍一下如何使用Python中的fastapi构建AI服务",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-005",
+      "originalTitle": "5.python如何清理AI模型的显存占用?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L486",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-006",
+      "originalTitle": "6.python中对透明图的处理大全",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-007",
+      "originalTitle": "7.python字典和json字符串如何相互转化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L796",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-008",
+      "originalTitle": "8.python中RGBA图像和灰度图如何相互转化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L905",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-009",
+      "originalTitle": "9.在AI服务中如何设置项目的base路径？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L1050",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-010",
+      "originalTitle": "10.AI服务的Python代码用PyTorch框架重写优化的过程中，有哪些方法论和注意点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L1197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-011",
+      "originalTitle": "11.在Python中，图像格式在Pytorch的Tensor格式、Numpy格式、OpenCV格式、PIL格式之间如何互相转换？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L1279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-012",
+      "originalTitle": "12.在AI服务中，python如何加载我们想要指定的库？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L1398",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-013",
+      "originalTitle": "13.Python中对SVG文件的读写操作大全",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L1524",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-014",
+      "originalTitle": "14.Python中对psd文件的读写操作大全",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L1657",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-015",
+      "originalTitle": "15.Python中对图像进行上采样时如何抗锯齿？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L1786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-016",
+      "originalTitle": "16.Python中如何对图像在不同颜色空间之间互相转换？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L1864",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-017",
+      "originalTitle": "17.在基于Python的AI服务中，如何规范API请求和数据交互的格式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L2000",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-018",
+      "originalTitle": "18.Python中处理GLB文件的操作大全",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L2116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-019",
+      "originalTitle": "19.Python中处理OBJ文件的操作大全",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L2256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-020",
+      "originalTitle": "20.Python中日志模块loguru的使用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L2383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-021",
+      "originalTitle": "21.Python中连接MySQL数据库",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L2576",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-022",
+      "originalTitle": "22.Python中使用Pandas连接MySQL数据库",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L2723",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-023",
+      "originalTitle": "23.使用Pandas与Pymysql连接数据库的对比",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L2811",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-024",
+      "originalTitle": "24.Python中如何编译安装自定义包",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L2933",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-025",
+      "originalTitle": "25.Python中Redis安装及数据插入、查询",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3022",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-026",
+      "originalTitle": "26.Gradio如何使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-027",
+      "originalTitle": "27.Streamlit如何使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-028",
+      "originalTitle": "28.pyproject.toml编译安装自定义库包？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-029",
+      "originalTitle": "问题 1：ModuleNotFoundError",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-030",
+      "originalTitle": "问题 2：构建时缺少依赖",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-031",
+      "originalTitle": "问题 3：依赖版本冲突",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3412",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-032",
+      "originalTitle": "29.如何用Python构建AI Agent工具调用的最小闭环？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3451",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-033",
+      "originalTitle": "30.如何用Pydantic规范Agent工具参数和结构化输出？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3508",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-034",
+      "originalTitle": "31.如何用FastAPI实现支持流式输出的AIGC服务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3557",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-035",
+      "originalTitle": "32.如何在Python中实现LLM API的重试、超时和限流？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3611",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-036",
+      "originalTitle": "33.如何用Python实现RAG文档读取、切分和JSONL处理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3667",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-037",
+      "originalTitle": "34.如何安全执行Agent生成的Python代码？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3717",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-038",
+      "originalTitle": "35.如何组织一个可维护的AIGC/Agent Python项目结构？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3766",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-039",
+      "originalTitle": "36.Python AI服务中WSGI、ASGI、Gunicorn、Uvicorn应该如何理解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3828",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-040",
+      "originalTitle": "37.Python AI服务中REST、RPC、幂等、Cookie/Session和鉴权如何落地？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3864",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-041",
+      "originalTitle": "38.MySQL、Redis、向量数据库在Agent状态管理中如何分工？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3914",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-PYTHON-01-042",
+      "originalTitle": "39.Python AI服务如何理解select、poll、epoll、socket和IPC？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md#L3949",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

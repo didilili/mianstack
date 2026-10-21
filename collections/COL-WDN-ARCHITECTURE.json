@@ -1,0 +1,271 @@
+{
+  "id": "COL-WDN-ARCHITECTURE",
+  "publisherId": "PUB-WDNDEV",
+  "title": "LLM 面试笔记 · 模型架构与注意力",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "wdndev/llm_interview_note 对应专题的问题与具名考点。",
+  "sourceUrl": "https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-WDN-ARCHITECTURE-001",
+      "originalTitle": "1.1 讲讲对Attention的理解？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L5",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-002",
+      "originalTitle": "1.2 Attention的计算步骤是什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-003",
+      "originalTitle": "1.3 Attention机制和传统的Seq2Seq模型有什么区别？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-004",
+      "originalTitle": "1.4 self-attention 和 target-attention的区别？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-005",
+      "originalTitle": "1.5 在常规attention中，一般有k=v，那self-attention 可以吗?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L51",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-006",
+      "originalTitle": "1.6 目前主流的attention方法有哪些？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L55",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-007",
+      "originalTitle": "1.7 self-attention 在计算的过程中，如何对padding位做mask？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L64",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-008",
+      "originalTitle": "1.8 深度学习中attention与全连接层的区别何在？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-009",
+      "originalTitle": "2.1 transformer中multi-head attention中每个head为什么要进行降维？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L80",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-010",
+      "originalTitle": "2.2 transformer在哪里做了权重共享，为什么可以做权重共享？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-011",
+      "originalTitle": "2.3 transformer的点积模型做缩放的原因是什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-012",
+      "originalTitle": "3.1 BERT用字粒度和词粒度的优缺点有哪些？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-013",
+      "originalTitle": "3.2 BERT的Encoder与Decoder掩码有什么区别？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-014",
+      "originalTitle": "3.3 BERT用的是transformer里面的encoder还是decoder？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-015",
+      "originalTitle": "3.4 为什么BERT选择mask掉15%这个比例的词，可以是其他的比例吗？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-016",
+      "originalTitle": "3.5 为什么BERT在第一句前会加一个[CLS] 标志?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-017",
+      "originalTitle": "3.6 BERT非线性的来源在哪里？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-018",
+      "originalTitle": "3.7 BERT训练时使用的学习率 warm-up 策略是怎样的？为什么要这么做？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L159",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-019",
+      "originalTitle": "3.8 在BERT应用中，如何解决长文本问题？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L168",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-020",
+      "originalTitle": "为什么要做多头注意力机制呢",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-021",
+      "originalTitle": "Transformer为何使用多头注意力机制？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L343",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-022",
+      "originalTitle": "Transformer为什么Q和K使用不同的权重矩阵生成，为何不能使用同一个值进行自身的点乘？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-023",
+      "originalTitle": "Transformer计算attention的时候为何选择点乘而不是加法？两者计算复杂度和效果上有什么区别？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L352",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-024",
+      "originalTitle": "在计算attention score的时候如何对padding做mask操作？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-025",
+      "originalTitle": "为什么在进行多头注意力的时候需要对每个head进行降维？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-026",
+      "originalTitle": "为何在获取输入词向量之后需要对矩阵乘以embedding size的开方？意义是什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L372",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-027",
+      "originalTitle": "简单介绍一下Transformer的位置编码？有什么意义和优缺点？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-028",
+      "originalTitle": "你还了解哪些关于位置编码的技术，各自的优缺点是什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L380",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-029",
+      "originalTitle": "为什么transformer块使用LayerNorm而不是BatchNorm？LayerNorm 在Transformer的位置是哪里？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-030",
+      "originalTitle": "简单描述一下Transformer中的前馈神经网络？使用了什么激活函数？相关优缺点？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-031",
+      "originalTitle": "Encoder端和Decoder端是如何进行交互的？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-032",
+      "originalTitle": "Decoder阶段的多头自注意力和encoder的多头自注意力有什么区别？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-033",
+      "originalTitle": "Transformer的并行化提现在哪个地方？Decoder端可以做并行化吗？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L421",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-034",
+      "originalTitle": "简单描述一下wordpiece model 和 byte pair encoding，有实际应用过吗？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L426",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-035",
+      "originalTitle": "Transformer训练的时候学习率是如何设定的？Dropout是如何设定的，位置在哪里？Dropout 在测试的需要有什么需要注意的吗？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L433",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-036",
+      "originalTitle": "引申一个关于bert问题，bert的mask为何不学习transformer在attention处进行屏蔽score的技巧？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/1.attention/1.attention.md#L437",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处 Transformer 的屏蔽指解码器的因果注意力掩码。"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-037",
+      "originalTitle": "1.介绍一下 FFN 块 计算公式？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L5",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-038",
+      "originalTitle": "2.介绍一下 GeLU 计算公式？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-039",
+      "originalTitle": "3.介绍一下 Swish 计算公式？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L52",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-040",
+      "originalTitle": "4.介绍一下 使用 GLU 线性门控单元的 FFN 块 计算公式？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L70",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-041",
+      "originalTitle": "5.介绍一下 使用 GeLU 的 GLU 块 计算公式？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-ARCHITECTURE-042",
+      "originalTitle": "6.介绍一下 使用 Swish 的 GLU 块 计算公式？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0/6.%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L114",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

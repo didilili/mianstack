@@ -1,0 +1,229 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 其他LLM与NLP",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-001",
+      "originalTitle": "【AI与GPT认知】对AI和GPT有关注和了解吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2706",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-002",
+      "originalTitle": "【API调用经验】你调用过AI底座模型的API吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2707",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-003",
+      "originalTitle": "【NLP专长】你比较擅长NLP哪些内容，可能具体说说吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2708",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-004",
+      "originalTitle": "【困惑度】ppl是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2709",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-005",
+      "originalTitle": "【大模型认知】了解哪些大模型（包括NLP领域的模型）？简要挑一两个介绍一下，并说明市面上做得好的LLM有哪些。 「百度文心、美团、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2710",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-006",
+      "originalTitle": "【Dify平台】介绍Dify平台。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2715",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-007",
+      "originalTitle": "【LangChain使用】LangChain如何调用LLMs生成回复？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2716",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-008",
+      "originalTitle": "【LangChain组件】LangChain中ChatMessageHistory是什么？OutputParsers是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2717",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-009",
+      "originalTitle": "【Ms-swift平台】介绍Ms-swift平台。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2718",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-010",
+      "originalTitle": "【主流方案了解】对当前主流方案有什么了解？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2719",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“当前主流方案”缺少具体技术对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-011",
+      "originalTitle": "【大模型使用侧重】你觉得使用这些大模型有什么侧重，或者你平时怎么用的呢？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2720",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-012",
+      "originalTitle": "【大模型发展看法】你对目前大模型的发展有什么看法？请谈谈你的了解。 「腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2721",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-013",
+      "originalTitle": "【大模型对比】国内几个大模型的主要区别是什么？国内外主流大模型的优缺点对比分析 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2722",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-014",
+      "originalTitle": "【模型对比】与其他大模型比较，他们有什么缺点？优缺点分别是什么？ 「百度文心、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2723",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-015",
+      "originalTitle": "【代码模型对比】对比Codex与Claude Code有哪些差异？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2729",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-016",
+      "originalTitle": "【代码生成】代码生成你怎么看？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2730",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-017",
+      "originalTitle": "【多轮对话维护】在多轮对话系统中，为什么随着轮次增加系统会变得难维护？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2731",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-018",
+      "originalTitle": "【大模型发展看法】大模型发展看法：1. 现在大模型了解应用更重要还是原理更重要？2. 痛点8：llm生成效果问题？3. 目前关注哪些大模型中前沿的技术和研究？4. （细粒度RL）LLM如何后接mask模型，最近看了哪些LLM做mask的论文？5. 缓解负迁移是怎么做的？6. 能展开说说自己平时会用到哪些大模型吗？7. 规则、模型、生成式方法各自优缺点？8. 讨论了一些比较开放的问题，大模型比较擅长哪些任务，不擅长哪些任务，不擅长的这些任务要怎么优化？9. 这些用AST和LSP都生成不了单测的代码如何过滤？10. 各个专业领域是否需要各自的大模型来服务？11. 在你看来，目前大模型发展的上限可能在哪里？12. 当前开源生态里常见的大模型应用框架解决了哪些问题？13. 怎么对模型的产出做规范？14. 懂大模型的知识吗？15. 最近有哪些较新的内容？16. 有没有做过归一化或事件抽象？17. 有没有思考过哪些代码会让模型生成的代码准确度和覆盖率降低？18. 有没有考虑过asr内容可能混乱？ 「字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2732",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明 mask 模型、归一化或事件抽象的对象，也未给产出的具体格式或行为要求。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-019",
+      "originalTitle": "【大模型应用】业务场景下如何用大模型？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2733",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-020",
+      "originalTitle": "【并行意图识别】并行化意图识别是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2734",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“并行化意图识别”未说明并行单位与路由含义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-021",
+      "originalTitle": "【文本质量优化】可以从哪些维度优化最终生成文本质量？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2735",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-022",
+      "originalTitle": "【模型解析差异】不同模型对同一份MD文档解析效果不同，如何避免执行差异？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2736",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-023",
+      "originalTitle": "【记忆生命周期设计】在记忆系统中，长期记忆应该保存多久？如何设计记忆的生命周期？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2737",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-024",
+      "originalTitle": "【记忆重要性判断】在记忆系统中，哪些记忆是重要的，哪些是不重要的？如何进行判断？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-025",
+      "originalTitle": "【LLM跨领域应用】LLM在生物信号中如何建模？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2743",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给出信号种类或所要完成的任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-026",
+      "originalTitle": "【后训练挑战与趋势】你认为当前大模型后训练领域面临的主要技术挑战和发展趋势是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-027",
+      "originalTitle": "【大模型发展看法】你对大模型未来的发展看法是什么？包括做基座模型的必要性。你觉得大模型目前还有哪些可以改进的点？你觉得当前大模型还存在怎样的问题？有什么解决办法吗？你觉得目前大模型的上限在哪里？请从推理能力、长期记忆、具身交互和能耗效率等方面分析，并说明是否需要架构创新和多模态融合突破。 「字节Seed、百度、百度文心、美团、腾讯、腾讯混元、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2745",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-028",
+      "originalTitle": "【大模型落地瓶颈】你觉得当前大模型落地最大的瓶颈是什么? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2746",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-029",
+      "originalTitle": "【投机解码】Speculative decoding为什么业务上不一定提满意度？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2747",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-030",
+      "originalTitle": "【模型对齐趋势】为什么后面的新模型都开始抛弃对齐？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2748",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-031",
+      "originalTitle": "【模型效果排查】企业在使用生成模型时效果不好，更换更贵的模型后效果还是不行，该怎么排查？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2749",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-032",
+      "originalTitle": "【算法选择优化】在实际应用中，如何选择合适的算法来优化大模型？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2750",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-033",
+      "originalTitle": "【规划能力评估】如何衡量planning能力？如何衡量planning能力 vs hallucination rate？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2751",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-OTHER-034",
+      "originalTitle": "【长链推理能力评估】你在 training 的时候long cot 能力下降了多少，有评估吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2752",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

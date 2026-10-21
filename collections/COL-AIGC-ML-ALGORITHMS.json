@@ -1,0 +1,132 @@
+{
+  "id": "COL-AIGC-ML-ALGORITHMS",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC Interview Book · 经典机器学习算法知识点",
+  "coverage": [
+    "llm"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的机器学习问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-001",
+      "originalTitle": "K-means算法逻辑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L24",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-002",
+      "originalTitle": "K近邻算法逻辑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L51",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-003",
+      "originalTitle": "什么是NeRF（Neural-Radiance-Fields）技术？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-004",
+      "originalTitle": "介绍一下自回归模型的概念",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L134",
+      "reviewStatus": "confirmed",
+      "reviewNote": "直属正文中的“自回归模型”指线性时间序列 AR(p)。"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-005",
+      "originalTitle": "什么是K最近邻算法？（K-nearest neighbor， KNN）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-006",
+      "originalTitle": "什么是朴素贝叶斯？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-007",
+      "originalTitle": "什么是决策树？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-008",
+      "originalTitle": "什么是支持向量机？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-009",
+      "originalTitle": "什么是逻辑回归？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L520",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-010",
+      "originalTitle": "介绍一下机器学习中的Nucleus采样原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L562",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-011",
+      "originalTitle": "介绍一下机器学习中不同聚类算法的性能特点",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L637",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-012",
+      "originalTitle": "介绍一下机器学习中的SVD（Singular Value Decomposition）技术",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L653",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-013",
+      "originalTitle": "介绍一下机器学习中的聚类算法原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L729",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-014",
+      "originalTitle": "介绍一下颜色量化算法的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L897",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-015",
+      "originalTitle": "介绍一下K-Means++算法的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L980",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-016",
+      "originalTitle": "优化聚类算法效果和性能的方法有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1065",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-017",
+      "originalTitle": "机器学习中如何计算颜色距离？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-018",
+      "originalTitle": "介绍一下机器学习中的朴素贝叶斯算法",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1253",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ALGORITHMS-019",
+      "originalTitle": "介绍一下机器学习中不同模型融合方法的异同",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E7%BB%8F%E5%85%B8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1367",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

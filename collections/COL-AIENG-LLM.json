@@ -1,0 +1,501 @@
+{
+  "id": "COL-AIENG-LLM",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · 大模型基础",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 维护的 AI Engineering Interview Questions 英文题目，部分条目为技术主题。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-LLM-001",
+      "originalTitle": "What are foundation models, and how have they changed AI engineering?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L79",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-002",
+      "originalTitle": "What is a Large Language Model (LLM), and how does it work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L81",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-003",
+      "originalTitle": "Inside ChatGPT: What Happens After You Hit Enter?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L83",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-004",
+      "originalTitle": "What is the Transformer architecture and how does it work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L85",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-005",
+      "originalTitle": "What are the key components of the Transformer architecture?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L87",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-006",
+      "originalTitle": "Walk me through what happens, step by step, in one forward pass of a decoder-only Transformer.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L89",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-007",
+      "originalTitle": "What is tokenization in LLMs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L91",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-008",
+      "originalTitle": "Explain BPE (Byte Pair Encoding).",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L93",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-009",
+      "originalTitle": "Explain WordPiece and SentencePiece.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L95",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-010",
+      "originalTitle": "What is positional encoding, and why is it needed in Transformers?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-011",
+      "originalTitle": "What are embeddings?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-012",
+      "originalTitle": "Explain the Query(Q), Key(K), and Value(V) in attention.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-013",
+      "originalTitle": "What is self-attention, and how does it work in Transformers?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-014",
+      "originalTitle": "What is Cross Attention in Transformers?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L104",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-015",
+      "originalTitle": "Why do we scale the dot product attention by √dₖ in the Transformer architecture?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L106",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-016",
+      "originalTitle": "What is causal masking?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-017",
+      "originalTitle": "What are multi-head attention mechanisms? Why use multiple attention heads?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-018",
+      "originalTitle": "What are Feed-Forward Networks in LLMs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-019",
+      "originalTitle": "What is Generative AI?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-020",
+      "originalTitle": "What is the context window in LLMs, and why does it matter?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-021",
+      "originalTitle": "Why is the context window limited in LLMs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-022",
+      "originalTitle": "What is temperature in the context of LLMs, and how does it affect output?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-023",
+      "originalTitle": "Why is the first token slower than the rest in an LLM?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-024",
+      "originalTitle": "Explain Top-p (nucleus) sampling and Top-k sampling. How do they differ?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-025",
+      "originalTitle": "Compare greedy decoding, beam search, top-k, top-p, and temperature sampling. When does each fail?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-026",
+      "originalTitle": "What are logits, and how are they used in text generation?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-027",
+      "originalTitle": "What are stop tokens in LLMs, and how does an LLM know when to stop generating?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-028",
+      "originalTitle": "What is the difference between a stop token and a stop sequence?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-029",
+      "originalTitle": "What are skip connections (residual connections) in Transformers?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-030",
+      "originalTitle": "What is the difference between open-source and closed-source LLMs? When would you choose one over the other?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-031",
+      "originalTitle": "What is the difference between encoder-only, decoder-only, and encoder-decoder Transformer architectures?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-032",
+      "originalTitle": "What is KV cache, and how does it speed up inference?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-033",
+      "originalTitle": "Estimate the KV cache memory needed to serve a large model. How does it constrain batch size and context length?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-034",
+      "originalTitle": "KV Cache Compression",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L143",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-035",
+      "originalTitle": "What is model distillation, and how is it used with LLMs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-036",
+      "originalTitle": "What is Mixture of Experts (MoE), and how does it work in models like Mixtral?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-037",
+      "originalTitle": "What is the difference between dense and sparse models?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L149",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-038",
+      "originalTitle": "How does DeepSeek-V4 work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-039",
+      "originalTitle": "What is Flash Attention?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-040",
+      "originalTitle": "What is Cross-Entropy Loss?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L155",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-041",
+      "originalTitle": "What is Grouped-Query Attention (GQA), and how does it differ from Multi-Head Attention (MHA)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L157",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-042",
+      "originalTitle": "How does Sliding Window Attention work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L159",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-043",
+      "originalTitle": "How do Attention Sinks work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-044",
+      "originalTitle": "How does Rotary Position Embedding (RoPE) work, and why is it preferred over learned positional embeddings?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L163",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-045",
+      "originalTitle": "Explain Layer Normalization",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L165",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-046",
+      "originalTitle": "Explain RMSNorm (Root Mean Square Layer Normalization)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L167",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-047",
+      "originalTitle": "Why do modern Transformers use Pre-LayerNorm (Pre-Norm) instead of Post-LayerNorm?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-048",
+      "originalTitle": "What are scaling laws (Chinchilla), and how do they guide model size vs training data decisions?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L171",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-049",
+      "originalTitle": "Your LLM keeps ignoring your instructions. How do you make it follow structured output formats?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L172",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-050",
+      "originalTitle": "Your LLM-powered tool hits the context window limit on long documents. How do you handle it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L173",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-051",
+      "originalTitle": "Your LLM does not admit when it does not know the answer. How do you make it say \"I don't know\"?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L174",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-052",
+      "originalTitle": "Your LLM generates responses that are too verbose. How do you control response length?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L175",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-053",
+      "originalTitle": "Your LLM memorized proprietary training data and leaks it in responses. How do you prevent this?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L176",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-054",
+      "originalTitle": "Your LLM coding assistant generates outdated code using deprecated libraries. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-055",
+      "originalTitle": "Your tokenizer splits important domain terms into meaningless subword pieces. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-056",
+      "originalTitle": "Your Transformer's KV cache grows too large during long sequence generation. How do you manage memory?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-057",
+      "originalTitle": "Your Transformer runs out of memory on long documents due to quadratic self-attention. How do you scale it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L181",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-058",
+      "originalTitle": "Your distilled student model fails on the complex reasoning that the teacher model handled. How do you close the gap?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L183",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-059",
+      "originalTitle": "After RLHF alignment, your LLM became safer but lost capability on hard tasks. How do you manage the alignment tax?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L184",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-060",
+      "originalTitle": "Your RLHF-trained LLM is gaming the reward model instead of being genuinely helpful. How do you fix reward hacking?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L185",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-061",
+      "originalTitle": "Your chatbot loses context after 10 turns in a conversation. How do you maintain a long conversation context?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L187",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-062",
+      "originalTitle": "Your chatbot fails when users switch topics mid-conversation. How do you handle topic switches?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L189",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-063",
+      "originalTitle": "Your QA system always generates an answer even when no answer exists in the context. How do you detect unanswerable questions?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L190",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-064",
+      "originalTitle": "Your summarization system hallucinated facts not in the original article. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L191",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-065",
+      "originalTitle": "Your text generation repeats phrases in long outputs. How do you fix repetition?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L192",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-066",
+      "originalTitle": "Transformers work on text, so can they also understand images?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L193",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-067",
+      "originalTitle": "Small Language Models (SLMs)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-068",
+      "originalTitle": "Large Reasoning Models (LRMs)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-069",
+      "originalTitle": "Jev and System One Models",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L199",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-070",
+      "originalTitle": "What are Autoregressive Models?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-071",
+      "originalTitle": "Explain the difference between autoregressive and masked language modeling.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L203",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-072",
+      "originalTitle": "Proximal Policy Optimization (PPO)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-073",
+      "originalTitle": "Direct Preference Optimization (DPO)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L206",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-074",
+      "originalTitle": "Group Relative Policy Optimization (GRPO)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L208",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-075",
+      "originalTitle": "Recursive Language Models (RLMs)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-076",
+      "originalTitle": "Continual Learning in LLMs",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L212",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-077",
+      "originalTitle": "What is Recursive Self-Improvement (RSI)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L214",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-078",
+      "originalTitle": "How do Diffusion Language Models (DLMs) work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-079",
+      "originalTitle": "How Does LLM Watermarking Work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-LLM-080",
+      "originalTitle": "How do RNNs and Transformers differ?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L220",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

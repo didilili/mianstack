@@ -1,0 +1,996 @@
+{
+  "id": "COL-JAVAGUIDE-AI-BODY-AGENT",
+  "publisherId": "PUB-JAVAGUIDE",
+  "title": "JavaGuide · Agent 机制与项目追问",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "software",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "JavaGuide AI 正文中的独立技术问答与面试清单。",
+  "sourceUrl": "https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-001",
+      "originalTitle": "Agent、传统编程和 Workflow 区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-002",
+      "originalTitle": "Agent 面临的挑战有哪些？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-003",
+      "originalTitle": "什么是 AI Agent？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-004",
+      "originalTitle": "什么是 Agent Loop？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-005",
+      "originalTitle": "做一个 Agent 系统，最少要搞定哪三层？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-006",
+      "originalTitle": "Tools 注册与调用遵循什么标准格式？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-007",
+      "originalTitle": "什么是 Prompt Engineering？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L219",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-008",
+      "originalTitle": "什么是 Context Engineering？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L223",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-009",
+      "originalTitle": "Agent 核心范式有哪些？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-010",
+      "originalTitle": "AI 工作流和 Agent 到底是什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L344",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-011",
+      "originalTitle": "工作流里的 Node、Edge、State 是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L352",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-012",
+      "originalTitle": "什么时候用 Agent，什么时候用 Workflow？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-013",
+      "originalTitle": "各范式怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-basis.md#L374",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“各范式”指前文ReAct、Plan-and-Execute、Reflection、多Agent和AI工作流。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-014",
+      "originalTitle": "Agent 的记忆系统是如何设计的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-015",
+      "originalTitle": "记忆有哪些存储形式？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-016",
+      "originalTitle": "记忆在功能上如何分类？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L37",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-017",
+      "originalTitle": "记忆操作的生命周期是怎样的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-018",
+      "originalTitle": "什么是短期记忆（Short-Term Memory / Working Memory）？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L76",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-019",
+      "originalTitle": "什么是长期记忆（Long-Term Memory）？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-020",
+      "originalTitle": "长期记忆和 RAG 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-021",
+      "originalTitle": "主流的记忆技术架构有哪些？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-022",
+      "originalTitle": "底层存储架构通常包含哪些层级？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L124",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“底层”指本文记忆服务的存储与管理组织。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-023",
+      "originalTitle": "主流 Memory 产品如何对比？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-024",
+      "originalTitle": "LETTA、ZEP、MemOS 有什么不同？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L159",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-025",
+      "originalTitle": "记忆的高级演化机制有哪些？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L175",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-026",
+      "originalTitle": "记忆反思与合成如何实现？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L181",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-027",
+      "originalTitle": "记忆的清理与遗忘机制是怎样的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-028",
+      "originalTitle": "如何优化长期记忆的检索效果？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L211",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-029",
+      "originalTitle": "混合检索与元数据过滤怎么做？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-030",
+      "originalTitle": "为什么检索链路优化往往先于写入策略？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-031",
+      "originalTitle": "生产级记忆系统架构要关注哪些要点？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L239",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-032",
+      "originalTitle": "如何用 Markdown 存储 Agent 记忆？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-033",
+      "originalTitle": "为什么 Markdown 可以作为 Agent 记忆？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-034",
+      "originalTitle": "Claude Code 的 CLAUDE.md 机制是怎样的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L269",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-035",
+      "originalTitle": "CLAUDE.md 里该写什么、不该写什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-036",
+      "originalTitle": "怎么写才能让 Claude 真正遵守？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L287",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“怎么写”指前一节CLAUDE.md中的项目规则。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-037",
+      "originalTitle": "CLAUDE.md 文件的层级结构是怎样的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L307",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-038",
+      "originalTitle": "AGENTS.md 和 CLAUDE.md 是什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-039",
+      "originalTitle": "Auto Memory 是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-040",
+      "originalTitle": "Markdown 记忆如何分层设计？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L378",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本文Markdown记忆同时涵盖用户、项目和目录级开发规则，需按本节语境理解分层。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-041",
+      "originalTitle": "Markdown 记忆和传统长期记忆的边界在哪里？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-042",
+      "originalTitle": "Markdown 记忆应如何维护？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/agent-memory.md#L408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-043",
+      "originalTitle": "Context Engineering 到底在做什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/context-engineering.md#L44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-044",
+      "originalTitle": "它具体管哪些东西",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/context-engineering.md#L73",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“它”指父章节的Context Engineering。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-045",
+      "originalTitle": "上下文为什么会失效？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/context-engineering.md#L91",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-046",
+      "originalTitle": "怎么评估上下文工程有没有变好？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/context-engineering.md#L125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-047",
+      "originalTitle": "运行时上下文怎么加载？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/context-engineering.md#L141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-048",
+      "originalTitle": "预检索为什么不够",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/context-engineering.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-049",
+      "originalTitle": "长任务里，上下文怎么撑住？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/context-engineering.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-050",
+      "originalTitle": "Context Engineering 到底怎么落地？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/context-engineering.md#L217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-051",
+      "originalTitle": "Token 预算：单次调用内怎么排优先级",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/context-engineering.md#L348",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-052",
+      "originalTitle": "做 Context Engineering 会用到哪些工具？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/context-engineering.md#L363",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-053",
+      "originalTitle": "Harness 是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/harness-engineering.md#L19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-054",
+      "originalTitle": "Harness 包含哪些组件？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/harness-engineering.md#L47",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-055",
+      "originalTitle": "一个成熟的 Harness 长什么样？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/harness-engineering.md#L66",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-056",
+      "originalTitle": "为什么瓶颈经常不在模型？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/harness-engineering.md#L89",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-057",
+      "originalTitle": "为什么上下文喂越多，Agent 反而越蠢？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/harness-engineering.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-058",
+      "originalTitle": "从哪里开始搭 Harness？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/harness-engineering.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-059",
+      "originalTitle": "你的 Harness 到哪个阶段了？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/harness-engineering.md#L147",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“阶段”指来源作者所列的 Harness 能力阶段。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-060",
+      "originalTitle": "Anthropic 为什么借鉴 GAN？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/harness-engineering.md#L259",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处 GAN 指生成与评估分工的设计类比。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-061",
+      "originalTitle": "Loop Engineering 到底是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/loop-engineering.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-062",
+      "originalTitle": "它其实借了哪些老概念？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/loop-engineering.md#L29",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“它”指Loop Engineering。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-063",
+      "originalTitle": "那它到底新在哪？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/loop-engineering.md#L100",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“它”指Loop Engineering。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-064",
+      "originalTitle": "Claude Code 的 /loop、/goal 可以怎么理解？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/loop-engineering.md#L110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-065",
+      "originalTitle": "Loop 可以分成几类？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/loop-engineering.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-066",
+      "originalTitle": "一个可落地的 Loop 长什么样？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/loop-engineering.md#L158",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-067",
+      "originalTitle": "什么场景值得做 Loop？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/loop-engineering.md#L193",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-068",
+      "originalTitle": "什么会触发下一轮？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/loop-engineering.md#L323",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“下一轮”指本节CI triage的外层任务循环。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-069",
+      "originalTitle": "什么时候继续，什么时候停？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/loop-engineering.md#L327",
+      "reviewStatus": "confirmed",
+      "reviewNote": "继续与停止指本节CI triage外层循环。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-070",
+      "originalTitle": "MCP 到底是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-071",
+      "originalTitle": "MCP、Function Calling、Agent 到底是什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-072",
+      "originalTitle": "MCP 里到底有哪些东西？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L79",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-073",
+      "originalTitle": "一次 MCP 调用大概怎么走？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L93",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-074",
+      "originalTitle": "MCP 暴露的能力只有 Tools 吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-075",
+      "originalTitle": "为什么 MCP 用 JSON-RPC？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-076",
+      "originalTitle": "stdio 和 Streamable HTTP 怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L212",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-077",
+      "originalTitle": "MCP 的意义只是让模型会调接口吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-078",
+      "originalTitle": "MCP 接进来之后，就能直接上生产吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-079",
+      "originalTitle": "企业落地 MCP 前，应该先检查哪些问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-080",
+      "originalTitle": "写 MCP Server 时，有什么需要注意的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/mcp.md#L310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-081",
+      "originalTitle": "多 Agent 和多阶段 Prompt Chain 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-082",
+      "originalTitle": "如果让你设计一个多 Agent 系统，你会先考虑哪些问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L47",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-083",
+      "originalTitle": "什么时候值得用多 Agent？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L62",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-084",
+      "originalTitle": "AgentInvest 中的四个 Agent 是怎么协作的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L76",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-085",
+      "originalTitle": "多 Agent 应该选择哪种编排模式？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-086",
+      "originalTitle": "角色应该静态拆分还是动态委派？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-087",
+      "originalTitle": "如何把子任务拆成可执行契约？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-088",
+      "originalTitle": "怎么判断子任务能否并行？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-089",
+      "originalTitle": "怎么防止角色重复工作和结果缺失？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-090",
+      "originalTitle": "Agent 之间应该怎样通信和共享状态？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-091",
+      "originalTitle": "如何控制共享状态的大小？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L189",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-092",
+      "originalTitle": "多 Agent 的运行状态应该记录什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-093",
+      "originalTitle": "A2A 能解决什么，不能解决什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L225",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-094",
+      "originalTitle": "多 Agent 的并发冲突怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-095",
+      "originalTitle": "并行状态怎么归并？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L246",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-096",
+      "originalTitle": "多个 Agent 的事实结论冲突怎么办？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-097",
+      "originalTitle": "为什么 Lease 还要配 Fencing Token？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-098",
+      "originalTitle": "任务生命周期应该如何建模？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-099",
+      "originalTitle": "多 Agent 失败后如何恢复？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-100",
+      "originalTitle": "如何限制重试次数和总预算？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-101",
+      "originalTitle": "Checkpoint 应该保存在哪里？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L338",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-102",
+      "originalTitle": "Agent 超时后怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L348",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-103",
+      "originalTitle": "部分失败时，是等、降级还是返回部分结果？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L358",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-104",
+      "originalTitle": "外部副作用怎么补偿？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-105",
+      "originalTitle": "Human-in-the-loop 如何暂停和恢复任务？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-106",
+      "originalTitle": "如何观测一次多 Agent 运行？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-107",
+      "originalTitle": "多 Agent 需要哪些特有指标？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-108",
+      "originalTitle": "多 Agent 怎么评测？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-109",
+      "originalTitle": "多 Agent 设计最容易犯哪些错误？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L433",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-110",
+      "originalTitle": "角色名称能直接作为 Agent 边界吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L435",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-111",
+      "originalTitle": "多 Agent 一定要并行吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L441",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-112",
+      "originalTitle": "确定性步骤需要交给 Agent 吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L445",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-113",
+      "originalTitle": "所有 Agent 都应该共享完整上下文吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-114",
+      "originalTitle": "并行写冲突能交给模型商量吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-115",
+      "originalTitle": "只设计正常执行路径会有什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-116",
+      "originalTitle": "为什么不能只验收最终回复？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/multi-agent.md#L463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-117",
+      "originalTitle": "什么是 Prompt？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/prompt-engineering.md#L15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-118",
+      "originalTitle": "Prompt 应该怎么写？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/prompt-engineering.md#L21",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-119",
+      "originalTitle": "为什么要拆成四要素",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/prompt-engineering.md#L36",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-120",
+      "originalTitle": "常用提示技巧有哪些？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/prompt-engineering.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-121",
+      "originalTitle": "复杂场景怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/prompt-engineering.md#L292",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-122",
+      "originalTitle": "Prompt 注入攻击是怎么来的",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/prompt-engineering.md#L438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-123",
+      "originalTitle": "越狱与提示词注入怎么缓解",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/prompt-engineering.md#L491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-124",
+      "originalTitle": "Context Engineering 为什么变重要",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/prompt-engineering.md#L501",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-125",
+      "originalTitle": "工具系统怎么设计",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/prompt-engineering.md#L541",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-126",
+      "originalTitle": "Agent Skills 是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/skills.md#L15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-127",
+      "originalTitle": "Skill 和 Prompt、MCP、Function Calling 有什么联系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/skills.md#L21",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-128",
+      "originalTitle": "⭐️SKILL.md 到底怎么写？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/skills.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-129",
+      "originalTitle": "自由度怎么把控？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/skills.md#L273",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“自由度”指Skill任务流程中固定步骤与自主判断的范围。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-130",
+      "originalTitle": "为什么不能把所有 Skill 一次性全塞进去？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/skills.md#L339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-131",
+      "originalTitle": "实际项目中怎么组织文件？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/skills.md#L385",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“文件”指Skill主文件及其参考资料、模板和脚本。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-132",
+      "originalTitle": "工作流和反馈循环怎么设计？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/skills.md#L434",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-133",
+      "originalTitle": "Skill 路由怎么做？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/skills.md#L589",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-134",
+      "originalTitle": "为什么 AI 系统需要工作流？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L16",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-135",
+      "originalTitle": "传统工作流和 AI 工作流有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-136",
+      "originalTitle": "Graph 和 Loop 是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L57",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-137",
+      "originalTitle": "Workflow、Graph 和 Loop 有什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-138",
+      "originalTitle": "工作流落地的时候有没有遇到什么坑？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-139",
+      "originalTitle": "什么是 Agent？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/ai-core-concepts.md#L231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-140",
+      "originalTitle": "什么是 RAG？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/ai-core-concepts.md#L417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-141",
+      "originalTitle": "如何从一次请求讲清系统架构？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-142",
+      "originalTitle": "Agent 项目的技术选型应该回答哪些问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-143",
+      "originalTitle": "为什么用 Agent，而不是普通 Workflow？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-144",
+      "originalTitle": "为什么先做单 Agent，而不是直接 Multi-Agent？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L176",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-145",
+      "originalTitle": "RAG、Memory、Context 和 State 怎么区分？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L194",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题结合售后 Agent 实例比较四个术语。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-146",
+      "originalTitle": "Function Calling、MCP 和 Agent 分别负责什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L215",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-147",
+      "originalTitle": "模型怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L227",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-148",
+      "originalTitle": "为什么要引入模型网关？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-149",
+      "originalTitle": "哪些是框架能力，哪些是项目自己实现的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L247",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-150",
+      "originalTitle": "工具调用为什么不能只看模型输出？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-151",
+      "originalTitle": "Agent 项目的稳定性如何设计？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-152",
+      "originalTitle": "为什么超时不能直接判定为执行失败？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L287",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-153",
+      "originalTitle": "模型或工具持续不可用时怎么降级？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-154",
+      "originalTitle": "如何给 Agent Loop 设置退出边界？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-155",
+      "originalTitle": "长任务和人工确认怎样恢复？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-156",
+      "originalTitle": "Agent 项目的指标应该怎么讲？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-157",
+      "originalTitle": "Agent 项目的 Badcase 应该怎么复盘？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L361",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-158",
+      "originalTitle": "Agent 为什么会选错相似工具？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L377",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-159",
+      "originalTitle": "创建工单超时为什么会产生重复记录？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-AGENT-160",
+      "originalTitle": "如何用 Trace 还原 Agent 的执行过程？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-project-interview-guide.md#L399",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

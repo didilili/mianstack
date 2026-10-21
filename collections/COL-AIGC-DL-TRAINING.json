@@ -1,0 +1,156 @@
+{
+  "id": "COL-AIGC-DL-TRAINING",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 训练与评估",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-TRAINING-001",
+      "originalTitle": "1.深度学习模型完整的训练流程包含哪些核心步骤？每个步骤的核心目的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-002",
+      "originalTitle": "2.训练集、验证集、测试集的作用分别是什么？为什么不能用测试集参与模型调优？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-003",
+      "originalTitle": "3.模型训练过程中，“前向传播”和“反向传播”的核心逻辑是什么？二者的关系是怎样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L150",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-004",
+      "originalTitle": "4.训练过程中为什么要监控验证集指标？如果验证集损失不再下降，可能的原因有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L173",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-005",
+      "originalTitle": "5.什么是早停（Early Stopping）？在训练流程中如何合理设置早停的触发条件？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L196",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-006",
+      "originalTitle": "1.如何从训练集和验证集的损失/精度曲线区分过拟合和欠拟合？各自的曲线特征是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L246",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-007",
+      "originalTitle": "2.过拟合产生的根本原因是什么？常见的场景有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-008",
+      "originalTitle": "3.针对过拟合问题，有哪些常用的解决方法？请分别说明其核心原理。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-009",
+      "originalTitle": "4.欠拟合的核心原因是什么？解决欠拟合的主要思路有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-010",
+      "originalTitle": "5.在实际项目中，如何判断模型当前是过拟合、欠拟合还是拟合良好？后续该如何调整策略？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-011",
+      "originalTitle": "6.数据增强为什么能缓解过拟合？它对欠拟合问题是否有帮助？为什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L348",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-012",
+      "originalTitle": "1.批量大小（Batch Size）的大小对模型训练有哪些影响？过大或过小的批量大小分别会带来什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-013",
+      "originalTitle": "2.学习率（Learning Rate）的核心作用是什么？学习率过大或过小会导致哪些训练问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-014",
+      "originalTitle": "3.批量大小和学习率之间是否存在关联？在调整批量大小时，为什么通常需要同步调整学习率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-015",
+      "originalTitle": "4.常用的学习率调整策略有哪些（如余弦退火、阶梯下降等）？各自适用于什么场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L425",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-016",
+      "originalTitle": "5.在实际项目中，如何选择初始学习率和批量大小？有哪些实用的调试方法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-017",
+      "originalTitle": "6.小批量随机梯度下降（Mini-Batch SGD）相比批量梯度下降（BGD）和随机梯度下降（SGD）有哪些优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-018",
+      "originalTitle": "1.正则化的核心目的是什么？它是如何缓解过拟合的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-019",
+      "originalTitle": "2.L1正则化和L2正则化的数学形式分别是什么？二者在效果和原理上有哪些核心区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L544",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-020",
+      "originalTitle": "3.Dropout的核心原理是什么？训练阶段和测试阶段对Dropout的处理有何不同？为什么要这样处理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L565",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-021",
+      "originalTitle": "4.除了L1/L2和Dropout，还有哪些常用的正则化方法？请简要说明其原理（如权重衰减、BatchNorm、早停等）。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L590",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-022",
+      "originalTitle": "5.权重衰减（Weight Decay）和L2正则化的关系是什么？在实际使用中需要注意什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L604",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-TRAINING-023",
+      "originalTitle": "6.Batch Normalization是否属于正则化方法？它是如何起到正则化效果的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md#L646",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

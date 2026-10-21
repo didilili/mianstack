@@ -1,0 +1,143 @@
+{
+  "id": "COL-AIGC-CLASSIC-RL",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 强化学习",
+  "coverage": [
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-CLASSIC-RL-001",
+      "originalTitle": "1. 强化学习解决什么类型的问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L42",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-002",
+      "originalTitle": "面试问题：Agent、Environment、State、Action、Reward 分别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L59",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-003",
+      "originalTitle": "面试问题：强化学习和监督学习、无监督学习有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L81",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-004",
+      "originalTitle": "面试问题：MDP、价值函数、策略函数的核心概念是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-005",
+      "originalTitle": "2. Q-Learning、DQN、Policy Gradient、Actor-Critic 如何对比？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-006",
+      "originalTitle": "面试问题：Q-Learning 和 DQN 的核心区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L155",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-007",
+      "originalTitle": "面试问题：Policy Gradient 为什么能直接优化策略？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L187",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-008",
+      "originalTitle": "面试问题：Actor-Critic 和 PPO 为什么高频？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L223",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-009",
+      "originalTitle": "面试问题：RLHF 的三阶段流程是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-010",
+      "originalTitle": "面试问题：PPO 在 RLHF 中起什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-011",
+      "originalTitle": "面试问题：DPO 与 RLHF/PPO 的区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-012",
+      "originalTitle": "面试问题：RLAIF、Constitutional AI 和 Agent RL 有什么关系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-013",
+      "originalTitle": "4. 迁移学习为什么是大模型时代的底层方法论？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-014",
+      "originalTitle": "面试问题：源域、目标域、源任务、目标任务如何理解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-015",
+      "originalTitle": "面试问题：样本迁移、特征迁移、模型迁移、关系迁移有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-016",
+      "originalTitle": "面试问题：什么是负迁移，如何避免？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L425",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-017",
+      "originalTitle": "面试问题：Domain Adaptation 和 Fine-tuning 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L450",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-018",
+      "originalTitle": "5. LoRA、Adapter、Prompt Tuning 如何连接迁移学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L471",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-019",
+      "originalTitle": "面试问题：LoRA 为什么能低成本适配大模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-020",
+      "originalTitle": "面试问题：Adapter、Prefix Tuning、Prompt Tuning 如何对比？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L524",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-RL-021",
+      "originalTitle": "面试问题：灾难性遗忘和持续学习在 AIGC 中如何出现？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L543",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

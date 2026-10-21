@@ -1,0 +1,236 @@
+{
+  "id": "COL-AIGC-LLM-03",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 预训练：训练与数据处理",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的专题面试题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-LLM-03-001",
+      "originalTitle": "面试问题：训练大语言模型的核心资源要素有哪些？为什么说它是资本密集型工程？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L64",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-002",
+      "originalTitle": "面试问题：如何用 6ND 公式估算稠密与混合专家（MoE）预训练的浮点数计算次数（FLOPs）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-003",
+      "originalTitle": "面试问题：如何分析分组注意力（GQA）、多头注意力（MQA） 和多头潜在注意力（MLA）对训练 FLOPs 的影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L99",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题将 MQA 的中文写作“多头注意力”；此处按其英文缩写及正文所指的 Multi-Query Attention（多查询注意力）理解。"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-004",
+      "originalTitle": "面试问题：如何从理论浮点数计算次数（FLOPs）估算训练时间和项目成本？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-005",
+      "originalTitle": "面试问题：大语言模型预训练为什么需要多来源数据？不同数据来源各有什么作用和风险？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-006",
+      "originalTitle": "面试问题：数据规模是否越大越好？如何理解数据规模、模型参数量与缩放定律（Scaling Law）的关系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-007",
+      "originalTitle": "面试问题：LLM 预训练语料清洗与传统数据清洗有什么不同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L190",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-008",
+      "originalTitle": "面试问题：为什么 LLM 预训练中特别重视数据去重？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-009",
+      "originalTitle": "面试问题：为什么 LLM 训练语料需要重点处理隐私、版权和隐私？如何降低模型记忆风险？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-010",
+      "originalTitle": "面试问题：LLM 预训练数据质量如何评估？为什么质量比单纯规模更重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-011",
+      "originalTitle": "面试问题：如何避免评测集污染（benchmark contamination）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-012",
+      "originalTitle": "面试问题：分词器（Tokenizer）、词表大小与切分度（fertility）如何影响预训练效率和多语言能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L272",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-013",
+      "originalTitle": "面试问题：不同来源、不同质量的数据如何做混合配比？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-014",
+      "originalTitle": "面试问题：为什么 LLM 预训练的数据版本管理比普通机器学习更复杂？如何保证可复现？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-015",
+      "originalTitle": "面试问题：如何为低资源领域的 LLM 构造高质量训练数据？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-016",
+      "originalTitle": "面试问题：LLM 如何将原始语料组织成 token 序列、训练样本和上下文窗口？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-017",
+      "originalTitle": "面试问题：数据课程学习、退火与合成数据应如何进入预训练配方？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-018",
+      "originalTitle": "面试问题：什么是大语言模型预训练？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-019",
+      "originalTitle": "面试问题：为什么主流 LLM 预训练通常采用自回归（下一词元预测）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L412",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-020",
+      "originalTitle": "面试问题：大语言模型预训练中的词元级交叉熵（token-level cross entropy）如何计算？它和下一个词元预测（next token prediction）、困惑度（perplexity）有什么关系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-021",
+      "originalTitle": "面试问题：因果语言建模（CLM）、掩码语言建模（MLM）、前缀语言建模（PrefixLM）、UL2 和中间填充（FIM）的目标函数有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-022",
+      "originalTitle": "面试问题：大语言模型预训练中如何组织批次（batch）、打包序列（sequence packing）并提升词元吞吐量（token throughput）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-023",
+      "originalTitle": "面试问题：全局批大小（global batch）、梯度累积与临界批大小（critical batch size）应如何共同确定？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L544",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-024",
+      "originalTitle": "面试问题：大语言模型预训练中如何选择优化器？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L564",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-025",
+      "originalTitle": "面试问题：大语言模型预训练中为什么需要学习率预热（warmup）、衰减（decay）和基于词元的调度（token-based schedule）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L579",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-026",
+      "originalTitle": "面试问题：μP / μTransfer 如何降低大模型超参数搜索成本？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L602",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-027",
+      "originalTitle": "面试问题：大语言模型训练为什么常用 BF16/FP16 混合精度？它如何影响显存、吞吐和稳定性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L619",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-028",
+      "originalTitle": "面试问题：大语言模型训练中为什么容易出现损失尖峰（loss spike）、NaN 和梯度异常？如何监控与缓解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L638",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-029",
+      "originalTitle": "面试问题：大语言模型训练中的 checkpoint、断点恢复和监控为什么更复杂？如何设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L668",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-030",
+      "originalTitle": "面试问题：大模型预训练的主要瓶颈是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L682",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-031",
+      "originalTitle": "面试问题：为什么大语言模型训练需要多种并行策略？数据并行、张量并行、流水线并行分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L717",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-032",
+      "originalTitle": "面试问题：大语言模型训练中为什么需要 ZeRO 和 FSDP？它们如何切分参数、梯度和优化器状态？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L742",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-033",
+      "originalTitle": "面试问题：大语言模型训练中如何通过混合精度、梯度累积和激活检查点节省显存？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L804",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-034",
+      "originalTitle": "面试问题：Flash Attention 为什么能加速大语言模型中的 Attention？它主要优化的是计算量还是显存访问？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L830",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-035",
+      "originalTitle": "面试问题：大语言模型预训练中如何优化数据加载和数据管线，避免 GPU 等待数据？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L876",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-03-036",
+      "originalTitle": "面试问题：主流大模型训练框架如何组合并行策略？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/03_%E9%A2%84%E8%AE%AD%E7%BB%83%EF%BC%9A%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md#L900",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

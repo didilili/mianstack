@@ -1,0 +1,60 @@
+{
+  "id": "COL-AIGC-ML-EVALUATION",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC Interview Book · 模型评估知识点",
+  "coverage": [
+    "llm",
+    "ai_engineering"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的机器学习问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-ML-EVALUATION-001",
+      "originalTitle": "Accuracy、Precision、Recall、F1 Scores的相关概念？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L10",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-EVALUATION-002",
+      "originalTitle": "K折交叉验证逻辑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-EVALUATION-003",
+      "originalTitle": "介绍一下机器学习中的信噪比（SNR）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L62",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-EVALUATION-004",
+      "originalTitle": "混淆矩阵是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-EVALUATION-005",
+      "originalTitle": "什么是机器学习中的AUC和ROC的概念？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-EVALUATION-006",
+      "originalTitle": "手撕AUC计算代码（Python）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-EVALUATION-007",
+      "originalTitle": "介绍一下PSNR评价指标的概念",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L276",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

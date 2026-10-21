@@ -1,0 +1,98 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 长上下文",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-001",
+      "originalTitle": "长上下文处理方法：包括上下文窗口溢出、存储大量交互信息、长度扩展策略（如DeepSeek、Llama方案）、KV Cache污染与隔离、输入长度理论限制、长文本折中方案（摘要/分段/滑窗/关键信息抽取）、上下文机制实现、上下文超长压缩（如超过30%需压缩）、长度外推（RoPE、ALiBi、NTK Scaling、YaRN）、10k长序列建模（注意力优化、位置编码优化）、chunk问题及解决办法。另包括轻量化方案（除摘要精简外）、深度搜索框架（如DeepSeek 100k token）、MemGPT动机、解决长序列策略、截断导致语义丢失的替代方案、长期与短期记忆处理及长期记忆对当前轮次的意义。 「京东、字节Seed、字节跳动、拼多多、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2675",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未定义“KV 污染”的具体含义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-002",
+      "originalTitle": "长上下文处理方法：包括上下文窗口限制原因、信息遗忘（lost in the middle）、工程化突破（如KIMI、Qwen）、上下文压缩、序列长度扩展、模型架构改进等。具体问题：哪些上下文不能轻易压缩或删除？模型为什么容易出现信息遗忘？大模型上下文窗口限制原因及如何工程化突破？超长上下文怎么做（如KIMI）？如何保持上下文记忆？如何处理LLM推理中的长序列问题？如何提升上下文理解能力？如何解决长下文问题？如何让模型处理更长的文本？如何拓展token数量？实际有没有遇到lost in the middle？业界做法及Qwen的做法？输入超出窗口的主流方案？怎么扩上下文长度？怎么考虑上下文长度问题？最长上下文的模型？工程方法处理长问答？有没有考虑过上下文压缩？有验证序列进一步拉长的效果吗？模型处理长上下文的问题及解决？ 「京东、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2676",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-003",
+      "originalTitle": "【上下文压缩与卸载】长上下文Agent场景下，上下文压缩与卸载策略有哪些？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2681",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-004",
+      "originalTitle": "【上下文扩展框架】讲到上下文爆炸的问题，现在很火的openclaw框架其实很好的解决了这点，你知道它是怎么解决的吗？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2682",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-005",
+      "originalTitle": "【上下文膨胀处理】长期运行导致上下文膨胀问题怎么处理? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2683",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-006",
+      "originalTitle": "【上下文衰减问题】长上下文Agent场景下，上下文衰减问题该如何解决？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2684",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-007",
+      "originalTitle": "【超长上下文实现方法】超长上下文（如Kimi）和超长序列建模具体是怎么实现的？ 「百度文心、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2685",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-008",
+      "originalTitle": "【超长上下文挑战与优化】超长上下文推理(如1M token)面临哪些挑战？如何优化？请谈谈你对模型超长上下文的了解。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2686",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-009",
+      "originalTitle": "【长CoT推理优化】长cot训练在推理的时候是否会开启think？如何优化推理时延？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2687",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-010",
+      "originalTitle": "【长上下文处理方法】长上下文是LLM的研究热点，当输入超过模型上下文长度时，有哪些方法可以解决或缓解长上下文问题？请列举长上下文压缩等方法。 「美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2688",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-011",
+      "originalTitle": "【长上下文扩展】长上下文如何继续扩展？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2689",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-012",
+      "originalTitle": "【长文本训练收敛性】在长文本训练的过程中，如何确保模型的收敛性和效果？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2690",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT-013",
+      "originalTitle": "【长文档PDF处理】长文档 PDF 处理，你们用了哪些长上下文扩展技术？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2691",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "COL-AIGC-OPEN-BUSINESS",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · AI业务场景开放问题",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的开放讨论题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-001",
+      "originalTitle": "1.AI算法如何赋能电商业务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-002",
+      "originalTitle": "2.AI算法如何赋能传统工业？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L39",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-003",
+      "originalTitle": "3.黑盒系统如何去强约束与强优化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-004",
+      "originalTitle": "4.非标场景如何沉淀？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L59",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-005",
+      "originalTitle": "5.如何对已有业务进行优化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-006",
+      "originalTitle": "6.你能想到哪些新的AI产品形式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L79",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-007",
+      "originalTitle": "7.如何提高AI业务中各部门之间的沟通/合作的效率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L89",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-008",
+      "originalTitle": "8.如何扩展已有业务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-009",
+      "originalTitle": "9.不同性质的公司如何使用好AI技术？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L109",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-010",
+      "originalTitle": "10.新时期的AI Lab该如何搭建？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-011",
+      "originalTitle": "11.如何保持数据持续稳定的支持业务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-012",
+      "originalTitle": "12.如何分辨demo业务，一次性业务以及外包业务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-013",
+      "originalTitle": "13.你觉得有哪些方法能增强公司的AI影响力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L158",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-014",
+      "originalTitle": "14.AI产品和AI算法解决方案涵盖的研发岗位有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L168",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-015",
+      "originalTitle": "15.AI公司的各个部门如何减小信息传递的损耗率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-016",
+      "originalTitle": "16.如何针对AI业务的优先级进行轻重缓急排序？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-017",
+      "originalTitle": "17.如何对AI业务的本质价值进行挖掘与总结？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-018",
+      "originalTitle": "18.AI公司如何评估和控制各业务部门的成本与效益？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L208",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-019",
+      "originalTitle": "19.你认为自回归模型相比于扩散模型有哪些优势和缺点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-020",
+      "originalTitle": "20.你认为扩散模型图像生成、视频生成真的能理解物理规律吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L232",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-021",
+      "originalTitle": "21.你认为扩散模型最成功/最容易落地的业务场景有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L246",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-022",
+      "originalTitle": "22.你认为图像生成领域最需要突破的问题是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-BUSINESS-023",
+      "originalTitle": "23.在AIGC时代的业务落地场景中，如何更好的评估扩散模型的生成质量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md#L274",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

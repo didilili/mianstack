@@ -1,0 +1,99 @@
+{
+  "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES",
+  "publisherId": "PUB-ONEFLY",
+  "sourceKind": "curated_question_set",
+  "title": "zero2Agent · 公司专题代表问法",
+  "coverage": [
+    "rag",
+    "agent",
+    "software",
+    "career"
+  ],
+  "sourceClaim": "zero2Agent 公司偏好章节中的代表问法，属于作者的二手总结。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-001",
+      "originalTitle": "扣子是 Agent 平台还是工作流平台？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-002",
+      "originalTitle": "字节做 AI 最大的瓶颈？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L98",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未限定具体 AI 产品、业务阶段或时间。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-003",
+      "originalTitle": "如何向非技术人员解释 RAG？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L225",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-004",
+      "originalTitle": "RAG 检索到文档很多但回答质量差，怎么排查？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-005",
+      "originalTitle": "什么是余弦相似度？在 RAG 中做什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L227",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-006",
+      "originalTitle": "什么是嵌入（Embedding）？为什么需要向量化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-007",
+      "originalTitle": "如果设计一个科研辅助 Agent，整体流程怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L239",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-008",
+      "originalTitle": "什么时候该用 subagent？主 Agent 和子 Agent 共用上下文吗？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-009",
+      "originalTitle": "LangGraph 开发中遇到最大的困难？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-010",
+      "originalTitle": "Deep Research 和普通 RAG 的区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-011",
+      "originalTitle": "多 Agent 怎么编排？用的什么编排模式？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L253",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-012",
+      "originalTitle": "AI 应用的前端资源缓存怎么配的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-COMPANY-PREFERENCES-013",
+      "originalTitle": "AI 应用中 SSE 流式数据怎么处理？数据格式是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md#L255",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

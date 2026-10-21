@@ -1,0 +1,133 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Agentic RL 面试指南",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-001",
+      "originalTitle": "Agentic RL 与普通单轮 RLVR 的核心差别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L104",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-002",
+      "originalTitle": "为什么工具型 Agent 更接近 POMDP？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-003",
+      "originalTitle": "为什么把最终奖励广播给全部 token 有问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-004",
+      "originalTitle": "SFT 与 Agentic RL 怎样配合？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-005",
+      "originalTitle": "什么任务不应该上 Agentic RL？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-006",
+      "originalTitle": "工具返回是否计算 loss？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-007",
+      "originalTitle": "如何防止早停骗奖励？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-008",
+      "originalTitle": "GRPO 搬到多轮 Agent 会先遇到什么问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-009",
+      "originalTitle": "同一次 rollout 中三个并行 tool call 算一个 action 还是三个？两种建模如何影响信用分配？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-010",
+      "originalTitle": "强制 max_steps 截断的轨迹应该记失败、丢弃还是 bootstrap？各自隐含什么语义？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-011",
+      "originalTitle": "如何用实验区分“信用分配差”和“探索不足”？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-012",
+      "originalTitle": "异步 rollout 中旧策略轨迹太多会怎样？如何量化和限制 staleness？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-013",
+      "originalTitle": "过程奖励模型错了，比只有最终奖励更危险吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-014",
+      "originalTitle": "Reward hacking 在 Coding Agent 中有哪些具体形式？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L135",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-015",
+      "originalTitle": "如何判断该继续做 Harness，还是开始做 RL？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-016",
+      "originalTitle": "环境随机性如何破坏 group-relative baseline 的可比性？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-017",
+      "originalTitle": "轨迹长度差 10 倍时，loss 聚合怎样避免偏向长样本或短样本？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-018",
+      "originalTitle": "换了一套工具 schema 后，训练所得策略为什么可能失效？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL-019",
+      "originalTitle": "为仓库级 Coding Agent 设计一条 Agentic RL 训练流水线。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md#L143",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "id": "COL-AIENG-RAG",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · 检索增强生成",
+  "coverage": [
+    "llm",
+    "rag"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 维护的 AI Engineering Interview Questions 英文题目，部分条目为技术主题。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-RAG-001",
+      "originalTitle": "What is Retrieval-Augmented Generation (RAG), and why is it important?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L267",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-002",
+      "originalTitle": "Explain the architecture of a basic RAG system.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L269",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-003",
+      "originalTitle": "What are the key components of a RAG pipeline?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L271",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-004",
+      "originalTitle": "What are chunking strategies, and how do you choose the right chunk size?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-005",
+      "originalTitle": "Compare fixed-size chunking, semantic chunking, and recursive chunking.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-006",
+      "originalTitle": "What is Contextual Retrieval, and how does it improve RAG?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-007",
+      "originalTitle": "What are embedding models, and how do they convert text to vectors?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-008",
+      "originalTitle": "How do you choose an embedding model for your RAG system?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-009",
+      "originalTitle": "Explain Agentic RAG.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-010",
+      "originalTitle": "What is hybrid search, and why is it better than pure vector search?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-011",
+      "originalTitle": "What is re-ranking, and how does it improve RAG retrieval quality?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L286",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-012",
+      "originalTitle": "What is ColBERT, and how does late interaction retrieval work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L288",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-013",
+      "originalTitle": "Compare reranker architectures: cross-encoder, ColBERT, and LLM-based rerankers.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L290",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-014",
+      "originalTitle": "How do you handle multi-document and multi-hop questions in RAG?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L292",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-015",
+      "originalTitle": "What is the \"lost in the middle\" problem in RAG systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-016",
+      "originalTitle": "How do you evaluate a RAG system? Explain faithfulness, relevance, and context precision/recall.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-017",
+      "originalTitle": "Explain Self-RAG. How does the model decide when to retrieve?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-018",
+      "originalTitle": "What is GraphRAG, and when would you use it over traditional RAG?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L300",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-019",
+      "originalTitle": "Vectorless RAG",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L302",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-020",
+      "originalTitle": "How do you handle structured data (tables, SQL databases) in a RAG pipeline?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-021",
+      "originalTitle": "What are the common failure modes of RAG systems, and how do you debug them?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L305",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-022",
+      "originalTitle": "How do you handle document updates and maintain freshness in a RAG system?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-023",
+      "originalTitle": "How do you optimize RAG for latency in production?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L307",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-024",
+      "originalTitle": "What is the role of metadata filtering in RAG systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L308",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-025",
+      "originalTitle": "Compare RAG vs fine-tuning. When would you use each?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-026",
+      "originalTitle": "Long context windows keep getting cheaper. When should you use retrieval (RAG) vs putting everything in the context window?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-027",
+      "originalTitle": "What is query transformation in RAG (HyDE, query decomposition, step-back prompting)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-028",
+      "originalTitle": "How do you implement citation and source attribution in RAG?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-029",
+      "originalTitle": "How do you scale a RAG system to millions of documents?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L317",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-030",
+      "originalTitle": "What is parent-child chunking, and how does it improve retrieval?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-031",
+      "originalTitle": "Your RAG system is hallucinating despite having the right context. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-032",
+      "originalTitle": "Your RAG chunk overlap causes redundant results. How do you reduce redundancy?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-033",
+      "originalTitle": "Your RAG retrieval is too slow with a large knowledge base. How do you speed it up?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-034",
+      "originalTitle": "Your RAG system returns duplicate results. How do you deduplicate?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-035",
+      "originalTitle": "Your RAG system needs per-user access control on internal documents. How do you implement it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-036",
+      "originalTitle": "Your RAG system fails on domain-specific jargon. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L327",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-037",
+      "originalTitle": "Your text-only RAG system now needs to handle images and tables. How do you extend it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L329",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-038",
+      "originalTitle": "Your RAG knowledge base gets updated frequently and needs versioning. How do you manage it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L330",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-039",
+      "originalTitle": "Your RAG system fails on multi-hop questions that require combining multiple facts. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L331",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-040",
+      "originalTitle": "Your enterprise RAG system returns contradictory answers from different source documents. How do you resolve conflicts?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-041",
+      "originalTitle": "Your RAG system returns outdated answers from an evolving knowledge base. How do you keep it current?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L334",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-RAG-042",
+      "originalTitle": "Your RAG system struggles with PDF documents containing tables and layouts. How do you fix PDF parsing?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L335",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

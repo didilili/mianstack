@@ -1,0 +1,127 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 语音生成面试指南",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-001",
+      "originalTitle": "现代 TTS 的完整链路有哪些模块？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-002",
+      "originalTitle": "为什么需要文本规范化和音素？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-003",
+      "originalTitle": "自回归与非自回归 TTS 如何选？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-004",
+      "originalTitle": "Mel + vocoder 与 codec token 路线的差别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-005",
+      "originalTitle": "零样本音色克隆依赖什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-006",
+      "originalTitle": "TTS 为什么会漏字、重复或停不下来？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-007",
+      "originalTitle": "如何降低首包延迟？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-008",
+      "originalTitle": "怎样评估 TTS？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L117",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-009",
+      "originalTitle": "ASR WER 下降但 MOS 也下降，可能发生了什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-010",
+      "originalTitle": "如何处理中文、英文、数字和代码混读？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-011",
+      "originalTitle": "参考音频带噪或情感很强时，怎样避免污染目标音色？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-012",
+      "originalTitle": "长篇有声书中如何保持人物音色和段落韵律一致？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-013",
+      "originalTitle": "流式生成的 chunk 边界出现爆音，如何定位？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-014",
+      "originalTitle": "怎样让用户可控语速、停顿、重音和情绪，而不破坏内容？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-015",
+      "originalTitle": "小语种数据很少时，怎样利用多语种迁移与合成数据？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-016",
+      "originalTitle": "Codec 的重建指标很好，但生成语音仍有金属感，为什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-017",
+      "originalTitle": "如何检测并阻止未授权音色克隆？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION-018",
+      "originalTitle": "设计一个支持实时可打断对话的语音 Agent 输出系统。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md#L131",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

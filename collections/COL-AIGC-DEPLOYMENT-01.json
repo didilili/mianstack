@@ -1,0 +1,220 @@
+{
+  "id": "COL-AIGC-DEPLOYMENT-01",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 模型部署基础概念",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 专题中的面试题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-001",
+      "originalTitle": "1.FP32，FP16以及Int8的区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-002",
+      "originalTitle": "2.bfloat16精度和float16精度的区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L60",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-003",
+      "originalTitle": "3.GPU显存占用和GPU利用率的定义",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-004",
+      "originalTitle": "4.英伟达显卡中Volatile-GPU-Util代表什么含义？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-005",
+      "originalTitle": "5.AI领域的延迟和吞吐量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-006",
+      "originalTitle": "6.什么是GPU内存带宽？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-007",
+      "originalTitle": "1.AI模型的参数量如何计算？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-008",
+      "originalTitle": "2.模型FLOPs怎么算？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-009",
+      "originalTitle": "3.神经网络的显存占用分析",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L440",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-010",
+      "originalTitle": "4.减小模型内存占用有哪些办法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L452",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-011",
+      "originalTitle": "5.有哪些经典的轻量化网络？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-012",
+      "originalTitle": "6.有哪些设计高效CNN架构的方法与经验？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-013",
+      "originalTitle": "1.算法模型部署逻辑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-014",
+      "originalTitle": "2.影响模型inference速度的因素？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-015",
+      "originalTitle": "3.AI推理系统介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L505",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-016",
+      "originalTitle": "4.在AI领域中模型一共有多少种主流部署形式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L521",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-017",
+      "originalTitle": "5.AI模型在端侧部署时有哪些维度需要考虑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L563",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-018",
+      "originalTitle": "6.轻量级模型部署经验分享",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L572",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-019",
+      "originalTitle": "7.端侧静态多Batch和动态多Batch的区别",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L581",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处“静态/动态多 Batch”讨论端侧输入批维与资源规划，不指在线请求的动态组批。"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-020",
+      "originalTitle": "1.介绍一下MoE技术",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L591",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-021",
+      "originalTitle": "2.介绍一下DDP和FSDP的原理与区别",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L641",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-022",
+      "originalTitle": "3.什么是异构计算？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L749",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-023",
+      "originalTitle": "4.Int8和FP8有哪些区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L755",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-024",
+      "originalTitle": "5.介绍一下NF4精度的特点",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L805",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-025",
+      "originalTitle": "6.AI模型的轻量化效果评价指标有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L907",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-026",
+      "originalTitle": "1.如何将AI模型缓存到内存中，这么做有什么好处？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L1066",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-027",
+      "originalTitle": "2.Jenkins的介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L1138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-028",
+      "originalTitle": "3.介绍一下模型性能优化与模型部署之间的关系",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L1155",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-029",
+      "originalTitle": "4.英伟达的GPU架构是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L1202",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-030",
+      "originalTitle": "5.大模型常见模型文件格式简介",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L1307",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-031",
+      "originalTitle": "6.safetensors模型文件的使用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L1336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-032",
+      "originalTitle": "7.GGUF模型文件的组成",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L1383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-01-033",
+      "originalTitle": "8.diffusion和diffusers模型的相互转换",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L1448",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题中的“diffusion 模型”在直属正文特指 Stable Diffusion 单文件检查点，“diffusers 模型”指库使用的分组件目录包装；不是两种生成算法之间转换。"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "COL-AIGC-COMPANY-MIHOYO",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 米哈游高频面试题",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "software",
+    "coding",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的公司专题题目汇编。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-COMPANY-MIHOYO-001",
+      "originalTitle": "（1）平时怎么使用 AI coding？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L27",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-MIHOYO-002",
+      "originalTitle": "（2）如何保证 AI coding 生成代码的质量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L42",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-MIHOYO-003",
+      "originalTitle": "（3）AI 幻觉产生的原因是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-MIHOYO-004",
+      "originalTitle": "（4）DeepSeek、OpenAI 这类模型 API 有哪些接口？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L79",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-MIHOYO-005",
+      "originalTitle": "（5）如何解决模型回答的事实性和忠实度问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L97",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-MIHOYO-006",
+      "originalTitle": "（6）Skill 和 MCP 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-MIHOYO-007",
+      "originalTitle": "（7）Skill 有哪些特性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-MIHOYO-008",
+      "originalTitle": "（8）个人agent项目深挖",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-COMPANY-MIHOYO-009",
+      "originalTitle": "（9）手写题（二选一）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E5%8E%82%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98.md#L162",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源给出两种可选手写任务；记录筛选题未完整说明输入格式、同价与有效性规则。"
+    }
+  ]
+}

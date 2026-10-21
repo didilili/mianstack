@@ -1,0 +1,271 @@
+{
+  "id": "COL-AIGC-DIGITAL-HUMAN-01",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 01_AIGC时代数字人基础高频考点",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-001",
+      "originalTitle": "1. AIGC 时代数字人是什么？核心技术栈如何划分？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-002",
+      "originalTitle": "面试问题：2D 数字人、3D 数字人、实时交互数字人有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L81",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-003",
+      "originalTitle": "面试问题：一个完整数字人产品链路通常包括哪些模块？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-004",
+      "originalTitle": "面试问题：数字人生成为什么同时需要身份、动作、音频、表情和时序一致性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-005",
+      "originalTitle": "2. 2D 数字人生成有哪些主流方向？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L135",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-006",
+      "originalTitle": "面试问题：人体驱动、音频驱动、换脸、虚拟换衣、视频写真分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-007",
+      "originalTitle": "面试问题：如何把图像生成模型扩展到视频数字人？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L155",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-008",
+      "originalTitle": "面试问题：Animate Anyone 类人体驱动方法的核心结构是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-009",
+      "originalTitle": "面试问题：ReferenceNet、Pose Encoder、ControlNet、Motion Module 各自起什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L200",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-010",
+      "originalTitle": "面试问题：人体驱动生成中如何提升脸部 ID 相似度？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L219",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-011",
+      "originalTitle": "3. 音频驱动数字人的核心难点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-012",
+      "originalTitle": "面试问题：音频驱动说话人生成的一般 pipeline 是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-013",
+      "originalTitle": "面试问题：Wav2Vec、Whisper、HuBERT 等音频编码器在数字人里如何使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-014",
+      "originalTitle": "面试问题：Hallo、Hallo2、Sonic、InfiniteTalk 的核心差异是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-015",
+      "originalTitle": "面试问题：为什么 Sonic 强调 Global Audio Perception？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-016",
+      "originalTitle": "面试问题：长时长音频驱动视频如何避免漂移、闪烁和身份丢失？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L327",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-017",
+      "originalTitle": "面试问题：多人音频驱动数字人为什么更难？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-018",
+      "originalTitle": "4. ID 保持生成和换脸有什么本质区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L361",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-019",
+      "originalTitle": "面试问题：IP-Adapter、InstantID、PuLID、PhotoMaker 的思路有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-020",
+      "originalTitle": "面试问题：如何实现高保真人脸身份注入？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-021",
+      "originalTitle": "面试问题：换脸任务为什么常与 3DMM 人脸重建结合？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-022",
+      "originalTitle": "面试问题：视频换脸如何保证时间一致性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-023",
+      "originalTitle": "面试问题：Copy-Paste 现象是什么？如何缓解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L432",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-024",
+      "originalTitle": "5. 虚拟换衣在数字人中解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L452",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-025",
+      "originalTitle": "面试问题：图像换衣和视频换衣有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L456",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-026",
+      "originalTitle": "面试问题：Mask-based 和 Mask-free 虚拟换衣路线有什么差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L472",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-027",
+      "originalTitle": "面试问题：虚拟换衣如何构造训练三元组数据？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L488",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-028",
+      "originalTitle": "面试问题：如何解决衣服纹理模糊、头发遮挡和体型差异问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L510",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-029",
+      "originalTitle": "面试问题：Wan-Animate 类统一角色动画/替换框架的核心思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L532",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-030",
+      "originalTitle": "6. 3D 数字人为什么仍然重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L558",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-031",
+      "originalTitle": "面试问题：3DMM、FLAME、BFM 分别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L562",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-032",
+      "originalTitle": "面试问题：SMPL、SMPL-X 的核心参数和区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-033",
+      "originalTitle": "面试问题：点云、Mesh、体素、SDF、NeRF、3D Gaussian Splatting 如何表示 3D 人体/人脸？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L610",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-034",
+      "originalTitle": "面试问题：传统渲染管线和可微渲染有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L648",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-035",
+      "originalTitle": "面试问题：单目 RGB 重建 3D 人体/人脸时有哪些难点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L684",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-036",
+      "originalTitle": "7. 数字人项目如何从数据到部署落地？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L706",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-037",
+      "originalTitle": "面试问题：数字人训练数据如何采集、清洗和标注？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L710",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-038",
+      "originalTitle": "面试问题：音频驱动人脸数据如何预处理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L731",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-039",
+      "originalTitle": "面试问题：数字人质量如何评估？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L748",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-040",
+      "originalTitle": "面试问题：实时交互数字人的低延迟链路如何设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L791",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-041",
+      "originalTitle": "面试问题：Duix-Mobile 这类移动端实时数字人的工程价值是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L810",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-01-042",
+      "originalTitle": "面试问题：数字人安全、合规和反滥用需要注意什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/01_AIGC%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L826",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

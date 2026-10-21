@@ -1,0 +1,151 @@
+{
+  "id": "COL-AIGC-OPEN-GROWTH",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 算法工程师成长开放问题",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的开放讨论题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-001",
+      "originalTitle": "1.如何给一个完全没有接触过机器学习的人介绍机器学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L28",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-002",
+      "originalTitle": "2.工作中业务侧/竞赛侧/研究侧的配比",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L38",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-003",
+      "originalTitle": "3.竞赛侧与研究侧的成果如何沉淀到业务中？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-004",
+      "originalTitle": "4.业务侧，竞赛侧，研究侧成果如何互相转化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L58",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-005",
+      "originalTitle": "5.你觉得面对一个业务场景，如何针对性设计算法解决方案？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-006",
+      "originalTitle": "6.对一个零基础的CV算法学习者，有什么入门建议？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L78",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-007",
+      "originalTitle": "7.在哪些维度深耕能增强算法工程师的核心竞争力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-008",
+      "originalTitle": "8.如何给一个完全没有接触过AIGC的人介绍AIGC？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-009",
+      "originalTitle": "9.AI算法工程师的核心竞争力是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-010",
+      "originalTitle": "10.AI算法工程师的宏观职业发展路径是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-011",
+      "originalTitle": "11.AI算法工程师如何跨过时代周期？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-012",
+      "originalTitle": "12.AI算法工程师从纯技术到技术管理的差异是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-013",
+      "originalTitle": "13.AI算法工程师在从事技术管理时该如何与不同部门协作？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L148",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-014",
+      "originalTitle": "14.AI算法工程师如何提升在AI行业中的影响力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L158",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-015",
+      "originalTitle": "15.AI算法工程师如何破圈在社会中提升自己的影响力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L168",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-016",
+      "originalTitle": "16.AI算法工程师如何以AI技术为核心，向外扩展更多基本面能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-017",
+      "originalTitle": "17.AI算法工程师如何以AI技术为核心，统筹推动业务的构建与发展？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-018",
+      "originalTitle": "18.面对纷繁复杂的职场生态，AI算法工程师如何看破人和事的背后本质？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-019",
+      "originalTitle": "19.AI算法工程师如何在AI行业中持续揣摩对人性的判断？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L208",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-020",
+      "originalTitle": "20.AI算法工程师如何将工作中的实践价值最大化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-021",
+      "originalTitle": "21.如何给一个完全没有接触过传统深度学习的人介绍传统深度学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-GROWTH-022",
+      "originalTitle": "22.在AIGC时代，算法工程师如何跟随着时代发展持续沉淀AIGC跨周期的核心价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E9%97%AE%E9%A2%98.md#L238",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

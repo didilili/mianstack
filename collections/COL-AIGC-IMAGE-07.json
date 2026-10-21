@@ -1,0 +1,78 @@
+{
+  "id": "COL-AIGC-IMAGE-07",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 图像创作 · AIGC图像生成领域的训练&性能优化技术",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-IMAGE-07-001",
+      "originalTitle": "1.AIGC图像创作大模型的完整训练与性能优化流程通常包含哪些阶段？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md#L22",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-07-002",
+      "originalTitle": "面试问题：AIGC图像创作大模型的数据工程通常包含哪些关键环节？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md#L57",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-07-003",
+      "originalTitle": "面试问题：为什么高质量Caption、VLM重标注和合成数据会显著影响Prompt Following？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md#L103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-07-004",
+      "originalTitle": "面试问题：文字渲染、知识图像和编辑数据应该如何构建？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md#L147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-07-005",
+      "originalTitle": "面试问题：Continued Training、SFT、DPO、GRPO、RLHF/RLAIF分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md#L192",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-07-006",
+      "originalTitle": "面试问题：图像生成中的奖励模型、VLM-as-a-Judge和人类偏好数据如何发挥作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md#L350",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-07-007",
+      "originalTitle": "面试问题：图像创作大模型的训练为什么需要T2I/I2I联合训练和多粒度编辑数据？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md#L405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-07-008",
+      "originalTitle": "面试问题：少步采样、Consistency Distillation、DMD/Turbo蒸馏解决了什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md#L466",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-07-009",
+      "originalTitle": "面试问题：量化、缓存、注意力优化、Token压缩和编译优化分别适合哪些AIGC图像创作推理场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md#L494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-07-010",
+      "originalTitle": "面试问题：AIGC图像创作领域实际部署中如何平衡图像质量、生成速度、显存占用和成本？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/07_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%AD%E7%BB%83%26%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md#L542",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

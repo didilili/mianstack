@@ -1,0 +1,215 @@
+{
+  "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · 多智能体协作：角色分工、通信机制与冲突仲裁",
+  "coverage": [
+    "agent"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-001",
+      "originalTitle": "多智能体怎么协作？比如一个写代码一个审查",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-002",
+      "originalTitle": "多 Agent 之间需要共享状态吗？怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L39",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-003",
+      "originalTitle": "多 Agent 系统里，怎么防止 Agent 之间“踢皮球”或死循环？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L62",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-004",
+      "originalTitle": "怎么判断一个 Agent 该做成单 Agent，还是多 Agent？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L86",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-005",
+      "originalTitle": "在多 Agent 协作系统中，记忆应该如何共享？是全局共享还是每个 Agent 独立？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-006",
+      "originalTitle": "多 Agent 设计里，按“职能拆分”和按“阶段拆分”各有什么优缺点？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L156",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-007",
+      "originalTitle": "单 Agent 还是多 Agent 的？子 Agent 的任务是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L208",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-008",
+      "originalTitle": "Handoff 的核心难点是什么？是路由问题、状态传递问题，还是权限边界问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L238",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-009",
+      "originalTitle": "MCP 和 A2A 分别解决什么层面的问题？如果系统同时用了两者，架构上怎么分工？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-010",
+      "originalTitle": "什么时候该用 subagent？为什么工具调用多就倾向用 subagent？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-011",
+      "originalTitle": "任务简单但工具调用多，用 subagent 是否浪费 token？怎么解决？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-012",
+      "originalTitle": "图片信息怎么在 subagent 之间流转？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-013",
+      "originalTitle": "多 Agent 怎么编排的？用的什么编排模式？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L490",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-014",
+      "originalTitle": "Multi Agent 系统中 Router 节点依据什么规则把任务分给子 Agent？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L551",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-015",
+      "originalTitle": "详细介绍多智能体协同策略——三层 Agent（Root / Main+Fallback / Sub-Agent）是怎么配合流转的？主 Agent 越过中间层直接调子 Agent 时，上下文怎么跨层传递？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L624",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-016",
+      "originalTitle": "Multi-Agent 中心化编排模式 vs 点对点架构，核心区别和优势是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L689",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-017",
+      "originalTitle": "Multi-Agent 如何通信？不同项目分别用了哪些通信方法？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L729",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-018",
+      "originalTitle": "为什么大家都在用 Multi-Agent？从一开始到现在原因是否有变化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L790",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-019",
+      "originalTitle": "如果让两个不同的 Agent 产品进行对话（比如 Claude Code 和 Cursor），在协议层面应该怎么做？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L831",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-020",
+      "originalTitle": "智能体可信通信怎么实现？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L861",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-021",
+      "originalTitle": "子 Agent 之间的上下文怎么传递？传什么、不传什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L882",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-022",
+      "originalTitle": "主 Agent 与子 Agent 的通信和进度同步怎么做？是推还是拉？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L955",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-023",
+      "originalTitle": "多 Agent 协作常见模式有哪些？各自适合什么任务类型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1026",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-024",
+      "originalTitle": "多个 Agent 并发操作数据库或文件，这种并发怎么处理？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-025",
+      "originalTitle": "大规模 Multi-Agent 如何做调度、背压和资源隔离？调度器崩溃或 Leader 派错任务时怎么恢复？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-028",
+      "originalTitle": "复杂 Agent 为什么拆成 LangGraph 子图而不是单条 Pipeline？子图的状态与 IO 契约如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1286",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-029",
+      "originalTitle": "业务模块增删时，如何治理 Multi-Agent 能力拓扑，避免 Agent 增殖和路由配置失控？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-030",
+      "originalTitle": "如何保证多 Agent 通信结果明确、可验证，而不是自然语言互相猜？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1334",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-031",
+      "originalTitle": "多人、多 Agent、跨设备协同与“群聊式多 Agent”有什么不同？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-033",
+      "originalTitle": "在 A2A 场景下，如何防止两个 Agent 陷入递归对话？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-034",
+      "originalTitle": "如何按租户、任务和 Agent 层级设置分层并发预算？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-035",
+      "originalTitle": "多 Agent 执行策略如何根据任务动态选择，并在运行中安全切换？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-MULTI-AGENT-COLLAB-036",
+      "originalTitle": "子 Agent 是否应该独立服务化？进程内实现和服务化如何权衡？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md#L1529",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

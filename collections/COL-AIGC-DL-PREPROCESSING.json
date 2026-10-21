@@ -1,0 +1,144 @@
+{
+  "id": "COL-AIGC-DL-PREPROCESSING",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 实战项目总结·数据预处理",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-001",
+      "originalTitle": "3、使用归一化/标准化会改变数据原来的规律吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-002",
+      "originalTitle": "4、如果是单纯想实现消除量级和量纲的影响，用Min-Max还是用Z-Score？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-003",
+      "originalTitle": "5、当数据出现离群点时，用什么方法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L104",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-004",
+      "originalTitle": "6、Robust标准化（RobustScaler）介绍？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-005",
+      "originalTitle": "3.Mixup",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L192",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-006",
+      "originalTitle": "4.CutMix和Cutout",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L207",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-007",
+      "originalTitle": "5.Mosaic",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-008",
+      "originalTitle": "6.Copy-Paste",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-009",
+      "originalTitle": "7.AutoAugment",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-010",
+      "originalTitle": "8.RandAugment",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-011",
+      "originalTitle": "9.不同模态的数据如何进行Token化操作？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L287",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-012",
+      "originalTitle": "10.介绍一下深度学习中张量的概念",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-013",
+      "originalTitle": "11.数据标准化和归一化的区别是什么，分别适用于什么场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-014",
+      "originalTitle": "12.如何处理数据集中的缺失值，分别列举数值型和分类型数据的处理方法。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L588",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-015",
+      "originalTitle": "13.简述图像数据增强的常用方法。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L600",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-016",
+      "originalTitle": "14.对于时间序列数据，如何进行数据预处理以适应深度学习模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L607",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-017",
+      "originalTitle": "15.什么是独热编码（One-Hot-Encoding），它的优缺点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-018",
+      "originalTitle": "16.在处理文本数据时，词袋模型（Bag-of-Words）和词嵌入（Word Embedding）有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-019",
+      "originalTitle": "17.如何处理数据集中的不平衡问题，列举至少三种方法。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L635",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-020",
+      "originalTitle": "18.数据预处理中的特征选择有什么作用，常用的特征选择方法有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-PREPROCESSING-021",
+      "originalTitle": "19.对于高维数据，如何进行降维处理，简述主成分分析（PCA）的原理。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md#L651",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

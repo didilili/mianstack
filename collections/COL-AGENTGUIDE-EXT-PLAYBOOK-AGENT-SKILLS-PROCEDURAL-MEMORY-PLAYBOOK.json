@@ -1,0 +1,78 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Skills 与程序性记忆专题问答",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK-001",
+      "originalTitle": "Skill 和 Tool / Prompt / Memory 的本质区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md#L268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK-002",
+      "originalTitle": "为什么不能用 System Prompt 替代 Skill？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md#L278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK-003",
+      "originalTitle": "Claude Code 的渐进式披露（Progressive Disclosure）是什么意思？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md#L283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK-004",
+      "originalTitle": "为什么不加一个专门的 `load_skill` 工具？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md#L293",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK-005",
+      "originalTitle": "SkillsBench 发现 self-generated skill 平均收益是 0——这说明什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md#L298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK-006",
+      "originalTitle": "EvoSkills 和 Trace2Skill 的本质区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md#L307",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK-007",
+      "originalTitle": "你的 TinyClaw RAG-to-Skill 在这条技术演进线上处在什么位置？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md#L316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK-008",
+      "originalTitle": "为什么 SWE-Skills-Bench 发现大部分公开 Skill 没有实际提升？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md#L327",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK-009",
+      "originalTitle": "Skill 安全为什么是一个被低估的问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md#L336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK-010",
+      "originalTitle": "如果让你给小红书 C 端 Agent 设计一个 Skill 系统，核心原则是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md#L343",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

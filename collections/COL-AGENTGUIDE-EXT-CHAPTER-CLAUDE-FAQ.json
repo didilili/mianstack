@@ -1,0 +1,72 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Claude Code 常见问题",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ-001",
+      "originalTitle": "CLAUDE.md 应该写多长？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md#L1528",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ-002",
+      "originalTitle": "什么时候使用 /compact vs /clear？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md#L1537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ-003",
+      "originalTitle": "自定义子智能体 vs Task(...) 哪个好？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md#L1544",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ-004",
+      "originalTitle": "MCP vs CLI，如何选择？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md#L1552",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ-005",
+      "originalTitle": "如何处理大型代码库的性能问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md#L1560",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ-006",
+      "originalTitle": "--dangerously-skip-permissions 安全吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md#L1569",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ-007",
+      "originalTitle": "如何让团队采用 Claude Code？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md#L1578",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ-008",
+      "originalTitle": "如何调试 Claude 的错误行为？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md#L1589",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ-009",
+      "originalTitle": "可以在 CI/CD 中使用 Claude Code 吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md#L1598",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

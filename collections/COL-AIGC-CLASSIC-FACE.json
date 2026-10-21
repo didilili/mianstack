@@ -1,0 +1,145 @@
+{
+  "id": "COL-AIGC-CLASSIC-FACE",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 人脸模型",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-001",
+      "originalTitle": "面试问题：为什么传统 Softmax 不足以解决人脸识别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L38",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-002",
+      "originalTitle": "面试问题：分类能力和判别能力有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-003",
+      "originalTitle": "面试问题：L-Softmax、SphereFace、CosFace 和 ArcFace 如何逐步引入间隔？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L56",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-004",
+      "originalTitle": "面试问题：CurricularFace 和 AdaFace 为什么要根据样本难度或图像质量自适应？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-005",
+      "originalTitle": "面试问题：AI 领域的人脸主流任务如何分类？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L84",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-006",
+      "originalTitle": "面试问题：InsightFace 系列技术解决了什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-007",
+      "originalTitle": "面试问题：一个工业级人脸识别系统的完整 pipeline 是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-008",
+      "originalTitle": "面试问题：1:1、1:N、N:N、静态识别和动态识别有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-009",
+      "originalTitle": "面试问题：影响人脸图像质量的因素有哪些，如何做质量门控？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-010",
+      "originalTitle": "面试问题：人脸 embedding 的相似度如何计算和校准？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-011",
+      "originalTitle": "面试问题：什么是人脸关键点检测，它如何服务于对齐和表情驱动？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-012",
+      "originalTitle": "面试问题：什么是人脸解析（Face Parsing）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-013",
+      "originalTitle": "面试问题：人脸属性分析如何建模，哪些属性不应直接作为业务结论？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L189",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-014",
+      "originalTitle": "面试问题：人脸美颜技术的原理和工程边界是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L199",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-015",
+      "originalTitle": "面试问题：为什么 ArcFace 在人脸识别和 AIGC 身份保持中长期高频？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L214",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-016",
+      "originalTitle": "面试问题：ArcFace embedding 如何作为生成模型的身份损失？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-017",
+      "originalTitle": "面试问题：AIGC 数字人、换脸和肖像编辑如何保持身份一致？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-018",
+      "originalTitle": "面试问题：InstantID、IP-Adapter FaceID、PhotoMaker 的共同思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L257",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-019",
+      "originalTitle": "面试问题：活体检测和 DeepFake 检测有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-020",
+      "originalTitle": "面试问题：AI Agent 调用人脸模型时有哪些安全风险？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-FACE-021",
+      "originalTitle": "面试问题：人脸模型和 AIGC 身份保持常用哪些评估指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L295",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

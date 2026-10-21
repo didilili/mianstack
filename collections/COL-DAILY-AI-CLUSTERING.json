@@ -1,0 +1,96 @@
+{
+  "id": "COL-DAILY-AI-CLUSTERING",
+  "publisherId": "PUB-DATAWHALE",
+  "title": "Datawhale 每日面试 · 聚类学习",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Datawhale daily-interview 的 AI 算法模块原题与追问。本题集 12 条原题均来自 Yvette 明明就署名的 kmeans 文档，Datawhale 为收录与整理项目。",
+  "sourceUrl": "https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms",
+  "sourceAttribution": {
+    "name": "Yvette 明明就",
+    "url": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L5",
+    "role": "author",
+    "scope": "本题集的 12 道原题均来自 Yvette 明明就编写的 K-means 文档。"
+  },
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-001",
+      "originalTitle": "聚类算法（clustering Algorithms）介绍",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L9",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-002",
+      "originalTitle": "kmeans原理详解",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-003",
+      "originalTitle": "优缺点及改进算法",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L26",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-004",
+      "originalTitle": "k值的选取",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L37",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-005",
+      "originalTitle": "K-means算法中初始点的选择对最终结果的影响",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-006",
+      "originalTitle": "为什么在计算K-means之前要将数据点在各维度上归一化",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L55",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-007",
+      "originalTitle": "K-means不适用哪些数据",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L62",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-008",
+      "originalTitle": "K-means 中常用的距离度量",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-009",
+      "originalTitle": "K-means是否会一直陷入选择质心的循环停不下来（为什么迭代次数后会收敛）？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L75",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-010",
+      "originalTitle": "聚类和分类区别",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L83",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-011",
+      "originalTitle": "如何对K-means聚类效果进行评估",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L90",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-CLUSTERING-012",
+      "originalTitle": "K-means中空聚类的处理",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/machine-learning/unsupervised-learning/kmeans.md#L109",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

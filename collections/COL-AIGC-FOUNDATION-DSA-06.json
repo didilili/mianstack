@@ -1,0 +1,140 @@
+{
+  "id": "COL-AIGC-FOUNDATION-DSA-06",
+  "publisherId": "PUB-WETHINKIN",
+  "sourceKind": "curated_question_set",
+  "title": "AIGC Interview Book · 算法思想与AI应用",
+  "coverage": [
+    "llm",
+    "agent",
+    "coding"
+  ],
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-001",
+      "originalTitle": "1. 算法思想为什么比背题更重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L40",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-002",
+      "originalTitle": "面试问题：递归的三要素是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L58",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-003",
+      "originalTitle": "面试问题：分治、减治和二分查找有什么关系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-004",
+      "originalTitle": "面试问题：归并排序为什么能体现分治思想？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-005",
+      "originalTitle": "2. 回溯算法的核心思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L163",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-006",
+      "originalTitle": "面试问题：回溯模板如何写？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L187",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-007",
+      "originalTitle": "面试问题：回溯、DFS、穷举和剪枝有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L224",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-008",
+      "originalTitle": "面试问题：搜索算法在 AIGC 生成和 Agent 规划中如何使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-009",
+      "originalTitle": "3. 动态规划为什么是高频面试难点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-010",
+      "originalTitle": "面试问题：如何设计 DP 的状态、转移和初始化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-011",
+      "originalTitle": "面试问题：编辑距离、LCS、LIS 分别考察什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L348",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-012",
+      "originalTitle": "面试问题：DP 在语音识别、NLP 和大模型系统中有哪些应用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L379",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-013",
+      "originalTitle": "4. 贪心、双指针和滑动窗口解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-014",
+      "originalTitle": "面试问题：贪心算法什么时候可靠？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L429",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-015",
+      "originalTitle": "面试问题：双指针和滑动窗口有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L456",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-016",
+      "originalTitle": "面试问题：长上下文、chunking 和 token budget 如何用窗口思想理解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L495",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-017",
+      "originalTitle": "5. 为什么 AI 算法岗也会考数值算法和综合设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-018",
+      "originalTitle": "面试问题：如何用牛顿迭代求平方根？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L554",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题指定牛顿迭代，但未规定输出精度；映射为近似平方根的算法变体。"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-019",
+      "originalTitle": "面试问题：高斯消元如何求解线性方程组？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L595",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-06-020",
+      "originalTitle": "面试问题：如何用算法思维优化 RAG、训练数据处理和 LLM 推理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/06_%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%B8%8EAI%E5%BA%94%E7%94%A8%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L628",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

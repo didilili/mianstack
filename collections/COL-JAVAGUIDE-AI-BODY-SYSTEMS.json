@@ -1,0 +1,520 @@
+{
+  "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS",
+  "publisherId": "PUB-JAVAGUIDE",
+  "title": "JavaGuide · 生产架构与治理问答",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "JavaGuide AI 正文中的独立技术问答与面试清单。",
+  "sourceUrl": "https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-001",
+      "originalTitle": "Demo 架构为什么扛不住生产流量",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L23",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-002",
+      "originalTitle": "同步、流式、异步三种交互模式怎么选",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-003",
+      "originalTitle": "Token 预算怎么做",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-004",
+      "originalTitle": "RAG 与 Memory：共享知识和个性化记忆怎么协作",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-005",
+      "originalTitle": "怎么避免上下文污染",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L338",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-006",
+      "originalTitle": "评测应该怎么做",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L373",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-007",
+      "originalTitle": "为什么 AI 应用不能只看接口是否成功？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L27",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-008",
+      "originalTitle": "Metrics、Logs、Trace、Evaluation 和 Audit 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L39",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-009",
+      "originalTitle": "Trace、Span、Session、Run 和 Attempt 怎么区分？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L61",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-010",
+      "originalTitle": "一次 Agent 请求应该怎样拆 Span？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L91",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-011",
+      "originalTitle": "父子关系应该怎么设计？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-012",
+      "originalTitle": "Span 名称应该怎么定？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L142",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-013",
+      "originalTitle": "OpenTelemetry 已经统一了 Agent Span 吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L164",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-014",
+      "originalTitle": "一条 Trace 应该记录哪些信息？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L172",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-015",
+      "originalTitle": "低基数和高基数字段应该怎么区分？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-016",
+      "originalTitle": "AI 应用应该重点监控哪些指标？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L270",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-017",
+      "originalTitle": "如何用 Trace 定位常见的 AI Badcase？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-018",
+      "originalTitle": "RAG 返回了错误答案，应该先看哪里？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-019",
+      "originalTitle": "退款工具为什么执行了两次？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-020",
+      "originalTitle": "多 Agent 汇总为什么漏了一份结果？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L345",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-021",
+      "originalTitle": "多 Agent、异步任务和消息队列如何保持 Trace？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L358",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-022",
+      "originalTitle": "跨服务如何传播？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-023",
+      "originalTitle": "切换线程为什么会断链？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L372",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-024",
+      "originalTitle": "流式调用是否一定能自动关联？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L392",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-025",
+      "originalTitle": "一个任务跨多条 Trace 怎么关联？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-026",
+      "originalTitle": "Trace 里能保存完整 Prompt 和工具结果吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-027",
+      "originalTitle": "Trace 采样应该怎么设计？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-028",
+      "originalTitle": "头部采样和尾部采样有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-029",
+      "originalTitle": "比较实用的组合策略是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L460",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-030",
+      "originalTitle": "线上 Trace 如何回流到评测体系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L476",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-031",
+      "originalTitle": "Java/Spring AI 项目如何接入可观测性？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L506",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-032",
+      "originalTitle": "如何打通 Spring AI 自带的 Trace？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-033",
+      "originalTitle": "哪些 Span 需要自己补？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L553",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-034",
+      "originalTitle": "如何验证接入结果？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L620",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-035",
+      "originalTitle": "AI 可观测性平台应该怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L645",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-036",
+      "originalTitle": "落地 AI 可观测性时最容易犯哪些错误？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L676",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-037",
+      "originalTitle": "AI 语音系统到底解决了什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-038",
+      "originalTitle": "语音识别（ASR）是怎么把声音变成文字的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-039",
+      "originalTitle": "流式 ASR 和非流式 ASR 的区别",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L85",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-040",
+      "originalTitle": "语音合成（TTS）是怎么把文字变成声音的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-041",
+      "originalTitle": "VAD 如何控制对话轮次？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L157",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-042",
+      "originalTitle": "端侧 VAD 还是服务端 VAD？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L174",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-043",
+      "originalTitle": "一次完整的语音对话是怎么跑起来的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-044",
+      "originalTitle": "实时语音为什么比文字对话难这么多？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-045",
+      "originalTitle": "从 interview-guide 看基础版语音 Agent 是怎么实现的？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-046",
+      "originalTitle": "怎么让语音 Agent 支持打断？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L719",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-047",
+      "originalTitle": "浏览器音频捕获与前处理在语音系统中扮演什么角色？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L767",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-048",
+      "originalTitle": "级联链路和原生实时模型各有什么优劣？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L852",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-049",
+      "originalTitle": "怎么在生产环境中优化语音系统？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L915",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-050",
+      "originalTitle": "语音 Agent 还能怎么演进？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L999",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-051",
+      "originalTitle": "LLM Gateway 到底是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L23",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-052",
+      "originalTitle": "为什么需要 LLM Gateway？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-053",
+      "originalTitle": "LLM Gateway 和 LLM Router 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L76",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-054",
+      "originalTitle": "LLM Gateway 和 RAG、Agent、MCP 是什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-055",
+      "originalTitle": "LLM Gateway 会不会增加延迟？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-056",
+      "originalTitle": "你真的需要 LLM Gateway 吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-057",
+      "originalTitle": "为什么不能所有请求都用最强模型？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L140",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-058",
+      "originalTitle": "什么任务适合小模型？什么任务必须上强模型？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L150",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-059",
+      "originalTitle": "LLM Router 如何选择模型？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-060",
+      "originalTitle": "LLM Gateway 需要具备哪些能力？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L191",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-061",
+      "originalTitle": "如何让你设计一个 LLM Gateway，你会怎么做？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L538",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-062",
+      "originalTitle": "一个生产级 LLM Gateway 长什么样？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L540",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-063",
+      "originalTitle": "请求进来后，Gateway 内部怎么跑？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L561",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-064",
+      "originalTitle": "路由策略怎么从简单演进到智能？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L571",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-065",
+      "originalTitle": "路由错了怎么办？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L588",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-066",
+      "originalTitle": "主流方案怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L624",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-067",
+      "originalTitle": "自研、LiteLLM、Cloudflare AI Gateway、Kong AI Gateway、Inworld Router 怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L626",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-068",
+      "originalTitle": "怎么衡量 LLM Gateway 做得好不好？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-gateway.md#L673",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-069",
+      "originalTitle": "Agent 为什么扩大了 LLM 的安全风险？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L37",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-070",
+      "originalTitle": "Prompt Injection、间接注入和 Jailbreak 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-071",
+      "originalTitle": "为什么在 System Prompt 里写“不要听外部指令”还不够？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-072",
+      "originalTitle": "外部内容怎样进入上下文才更安全？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L140",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-073",
+      "originalTitle": "模型输出必须经过哪些校验？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-074",
+      "originalTitle": "怎样控制 Agent 的工具权限？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-075",
+      "originalTitle": "MCP 授权需要注意什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-076",
+      "originalTitle": "重试、幂等和结果不确定怎样处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-077",
+      "originalTitle": "代码和浏览器工具怎样隔离？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L398",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-078",
+      "originalTitle": "敏感数据、日志和 Trace 怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L433",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-079",
+      "originalTitle": "MCP、Skills 和模型供应链怎么治理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-080",
+      "originalTitle": "Java 后端如何实现安全工具执行链？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-081",
+      "originalTitle": "4. 在 Spring AI 中把安全层放在哪里？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L631",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-082",
+      "originalTitle": "安全测试应该覆盖哪些 Badcase？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-SYSTEMS-083",
+      "originalTitle": "发生安全事件后怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L694",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,2504 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-14",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 编程与数据结构算法",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software",
+    "coding",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-001",
+      "originalTitle": "【Python可变与不可变】列表、元组是否可变？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-002",
+      "originalTitle": "【vector访问】怎么找某vector的倒数第二个元素？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L30",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-003",
+      "originalTitle": "【两数之和】手撕很简单，leetcode 001 two sum 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-004",
+      "originalTitle": "【数组与链表区别】请解释数组和链表的主要区别，以及它们各自适合的应用场景。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-005",
+      "originalTitle": "【最长公共前缀】手撕 最长公共前缀 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L33",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-006",
+      "originalTitle": "【NumPy优势】numpy和数组的区别、numpy的好处和原因，以及numpy对比python原生的列表或接口的优势 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L38",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-007",
+      "originalTitle": "【vector vs list】vector与list的区别与应用？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L40",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-008",
+      "originalTitle": "【三角矩阵】上三角矩阵，下三角矩阵 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L41",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-009",
+      "originalTitle": "【两数之和】给定一个整数数组 nums 和一个整数目标值 target，请你在该数组中找出和为目标值的那两个整数，并返回它们的数组下标。 「京东、美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L42",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-010",
+      "originalTitle": "【两数之和 II】实现两数之和2（LeetCode 167）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-011",
+      "originalTitle": "【两数和为K的组合数】代码题：一组正整数数组中有多少两数和为K的组合 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-012",
+      "originalTitle": "【买卖股票的最佳时机】买卖股票的最佳时机：LeetCode 121（一次交易）和122（多次交易）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-013",
+      "originalTitle": "【删除有序数组中的重复项】手撕代码，leetcode 26（删除有序数组中的重复项），CUDA矩阵乘。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L46",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-014",
+      "originalTitle": "【删除重复字符】算法题：删除重复字符串。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L47",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“删除重复字符串”未说明删除对象是字符、字符串元素还是相邻重复段。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-015",
+      "originalTitle": "【去重】如果输入列表中可能包含重复元素，如何避免重复解？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L49",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明产生“重复解”的基础问题。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-016",
+      "originalTitle": "【反转字符串中的单词】反转字符串的每个单词（后输出的单词先输出）。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L50",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-017",
+      "originalTitle": "【合并两个有序数组】手撕代码：两个升序序列的合并，询问思路和复杂度。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L51",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-018",
+      "originalTitle": "【合并有序数组】合并两个有序数组（核心代码模式）。变体：合并后去重，如何保证时间复杂度？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L52",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-019",
+      "originalTitle": "【多数元素】手撕：找出数组中出现次数大于数组长度一半的多数元素（LeetCode 169）。 「字节跳动、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-020",
+      "originalTitle": "【字符串拼接性能】大量字符串拼接（如上万字符串）应该用什么方式？能否直接用“+”？用 string 以及并发的时间复杂度分别是多少？ 「百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L54",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-021",
+      "originalTitle": "【字符串相加】两数相加的字符串版本（LeetCode模式）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L55",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-022",
+      "originalTitle": "【字符串移位】给一个字符串例如'abcde'，依次将第i个字符移到末尾，'abcde'->'bcdea'->'bdeac'->'bdace'->'bdaec'->'bdaec'。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L56",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明每轮 i 的取值方式、移动次数与停止条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-023",
+      "originalTitle": "【字符串空格处理】code:删除字符串中多余的空格，只保留一个。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L57",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-024",
+      "originalTitle": "【山脉数组的峰顶索引】山峰数组的索引（山脉数组的峰顶索引）。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L58",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-025",
+      "originalTitle": "【数组交集】两个数组的公共部分（数组交集）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L59",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-026",
+      "originalTitle": "【数组旋转】手撕代码：字符数组原地向右挪动K位（数组旋转）。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L60",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-027",
+      "originalTitle": "【无重复字符最长子串】手撕无重复字符的最长子串（LeetCode 3，Hot100）。给定一个字符串s，找出其中不含有重复字符的最长子串的长度。变体：最长不同子数组的长度。 「京东、字节Seed、字节跳动、美团、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L61",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-028",
+      "originalTitle": "【最大和第二大】给定一个数组，找出数组中值最大和值第二大的两个数值，考虑时间复杂度尽可能低。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L62",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-029",
+      "originalTitle": "【最大子数组和】最大连续子数组和（最大连续数字序列）。 「百度、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-030",
+      "originalTitle": "【有序数组的平方】算法题：有序数组的平方（LeetCode 977）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L64",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-031",
+      "originalTitle": "【汇总区间】实现汇总区间。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L65",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-032",
+      "originalTitle": "【洗牌算法】手撕题1:扑克牌打乱（洗牌算法） 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L66",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-033",
+      "originalTitle": "【矩阵转置】matrix transpose（矩阵转置） 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L67",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-034",
+      "originalTitle": "【连续相同数字最大次数】代码题：求数组连续出现相同数字的最大次数（一次遍历的easy题）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-035",
+      "originalTitle": "【KMP算法】KMP算法是什么？解释其核心思想，包括next数组的构建和匹配过程。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-036",
+      "originalTitle": "【vector扩容与emplace_back】C++ vector相关问题：1. vector容器的用法和扩容机制；2. 为什么每次扩容是两倍增长，而不是3倍或其他数值？3. emplace_back和push_back的区别。 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L74",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-037",
+      "originalTitle": "【三数之和】实现三数之和算法（LeetCode 15）及其变体：LeetCode 15 改成了3（具体变体未说明，保留原描述）。要求找出数组中所有和为0的三元组，不可重复。 「京东、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L75",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“LeetCode 15 改成 3”未说明目标和、元素数量与新增限制。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-038",
+      "originalTitle": "【下一个排列】实现LeetCode 31题：下一个排列。给定一个整数数组（表示一个数字），找到该数字的下一个字典序更大的排列。如果不存在下一个更大的排列，则将数组重新排列为最小的升序排列。要求原地修改，仅使用常数额外空间。 「字节Seed、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L76",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-039",
+      "originalTitle": "【两数之和 II - 输入有序数组】实现排序数组中和为给定值的数组对数，要求时间复杂度O(n)，空间复杂度O(1)。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L77",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-040",
+      "originalTitle": "【乘积为正数的最长子数组】leetcode medium 1567. 乘积为正数的最长子数组长度。给定一个整数数组，找出乘积为正数的最长连续子数组的长度。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L78",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-041",
+      "originalTitle": "【乘积最大子数组】手撕:乘积最大子数组(LeetCode 152)。给定一个整数数组，找出乘积最大的连续子数组（至少包含一个数），返回最大乘积。 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L79",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-042",
+      "originalTitle": "【交替符号求和】给一个整数列表如[1,2,3,4]，依次加上符号变成1+2-3+4，然后如下放进列表:[1+2,2-3,3+4]即[3,-1,7]，一直到列表中只有最后一个数字，输出这个数字。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L80",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明下一轮符号序列是否重置，以及重叠与停止规则。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-043",
+      "originalTitle": "【全排列】实现不重复的全排列（LeetCode 46）。给定一个不含重复数字的数组，返回所有可能的全排列。 「MiniMax、字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L81",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-044",
+      "originalTitle": "【全排列 II】实现全排列II（LeetCode 47）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-045",
+      "originalTitle": "【删除字符串中的连续空格】实现删除字符串中的连续空格，要求O(n)时间复杂度、O(1)空间复杂度。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L83",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-046",
+      "originalTitle": "【删除重复元素】手撕:删除字符串中的重复元素II aicoding(搭建一个推荐页面) 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L84",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“删除重复元素II”未给k、连续性或保留策略，无法确认具体算法要求。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-047",
+      "originalTitle": "【合并区间】实现合并区间算法（LeetCode 56）。先讲思路，写代码，写输入输出并运行，分析时间复杂度。 「字节跳动、百度、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L86",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-048",
+      "originalTitle": "【和为K的子数组】给定整数数组和目标值 K，求和为 K 的连续子数组（LeetCode 560）：分别考虑统计数量或找到所有满足条件的子数组，以及返回子数组起始与终止位置；K 可取 0。区间返回变体的示例数组为 [2,1,4,-1,5,0]，原记录未注明 K 的具体值。 「字节跳动、百度、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L87",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-049",
+      "originalTitle": "【和可被K整除的子数组】LeetCode 974. 和可被K整除的子数组。给定一个整数数组和一个整数K，返回和可被K整除的连续子数组的个数。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-050",
+      "originalTitle": "【在排序数组中查找元素的第一个和最后一个位置】实现LC34：在排序数组中查找元素的第一个和最后一个位置（LeetCode 34）。给定一个按非递减顺序排列的整数数组和一个目标值，找出目标值在数组中的开始位置和结束位置。如果不存在，返回[-1, -1]。要求时间复杂度O(log n)。 「字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L89",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-051",
+      "originalTitle": "【复原IP地址】手撕：给定一个只包含数字的字符串，求有多少种划分正确IP地址的方式。变体：给定一个字符串，如\"2552325523\"，进行正确的IP切分，返回[\"255.232.55.23\", \"255.23.255.23\"]。 「美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L90",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-052",
+      "originalTitle": "【大数加法】算法题：leetcode大数加法。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L91",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-053",
+      "originalTitle": "【子序列和】手撕：给一个数组和一个目标值，返回所有和为目标值的子序列。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-054",
+      "originalTitle": "【字符串四则运算】code: 字符串四则运算（LeetCode 227）。实现一个基本计算器来计算一个简单的字符串表达式的值，表达式包含非负整数和加减乘除运算符，不含括号。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L93",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-055",
+      "originalTitle": "【字符串相加】实现字符串相加。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-056",
+      "originalTitle": "【字符串重排序】实现字符串重排序之后的重合。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L95",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“重排序之后的重合”未说明输入数量、重合定义与返回目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-057",
+      "originalTitle": "【对角线遍历矩阵】手撕对角线遍历矩阵。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-058",
+      "originalTitle": "【寻找峰值】如何快速找出一个数组的一个峰值（峰值即比左右两个数都大）？ 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L97",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-059",
+      "originalTitle": "【寻找重复数】给定长度为n+1的数组nums，其中元素取值范围为[1,n]，求唯一的重复数。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-060",
+      "originalTitle": "【岛屿数量与无重复子串】手撕代码：1. 岛屿数量（LeetCode 200）：给定一个由'1'（陆地）和'0'（水）组成的二维网格，计算岛屿的数量。2. 无重复字符的最长子串（LeetCode 3）：给定一个字符串，找出其中不含有重复字符的最长子串的长度。要求用滑动窗口或哈希表高效解决。 「美团、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-061",
+      "originalTitle": "【括号生成】手撕括号生成。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-062",
+      "originalTitle": "【搜索二维矩阵】写题：搜索二维矩阵，矩阵每行递增，且每行最后一个元素小于下一行第一个元素（类似力扣240），查找target是否存在。 「百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L101",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文给出的行间排序条件与 LC240 常见题设不一致。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-063",
+      "originalTitle": "【搜索旋转排序数组】实现搜索旋转排序数组（LeetCode 33）：给定一个按升序排列的数组，在未知的某个点上进行了旋转，以及一个目标值，要求使用二分查找算法在数组中搜索目标值，返回其索引，若不存在则返回-1。 「字节跳动、百度、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-064",
+      "originalTitle": "【搜索旋转排序数组 II】手撕：LeetCode81 搜索旋转排序数组。假设数组原本按升序排列，但在某个未知点进行了旋转。给定一个目标值，如果目标值存在于数组中则返回true，否则返回false。数组可能包含重复元素。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-065",
+      "originalTitle": "【数组条件标识】特别数标识输出给一个数组，针对数组中每一个数字，如果它大于左侧所有数字且小于右侧所有数字，则对应位置标识为1，不满足任何一个条件则标识为0。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L104",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-066",
+      "originalTitle": "【旋转数组最小值与岛屿数量】手撕:旋转数组最小值(leetcode easy)，岛屿数量(leetcode middle)。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-067",
+      "originalTitle": "【最大子数组乘积】实现连续子数组的最大乘积和，并说明若改为求连续子数组的最大乘积，思路有何变化？ 「京东、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L106",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“最大乘积和”未定义，第一项任务的输入与目标不完整。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-068",
+      "originalTitle": "【最大连续子串（元素小于T）】一个数组，找出一个最大连续子串，要求子串中每个元素都小于T。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-069",
+      "originalTitle": "【最小逆序对】一个最小逆序对。给定一个数组，求逆序对的数量（即满足i<j且a[i]>a[j]的对数）。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-070",
+      "originalTitle": "【最长公共子数组】手撕：最长公共子数组。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L109",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-071",
+      "originalTitle": "【最长回文子串】手撕最长回文子串（LeetCode 5），要求输出子串，ACM格式，注意输入格式正确。 「京东、字节跳动、拼多多、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-072",
+      "originalTitle": "【最长无重复子序列】手撕代码：最长无重复子序列。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-073",
+      "originalTitle": "【最长连续序列】实现最长连续数字串（LeetCode 128 最长连续序列）。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-074",
+      "originalTitle": "【有效三角形个数】有效三角形的个数(LeetCode 611)。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-075",
+      "originalTitle": "【比较版本号】实现比较版本号。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-076",
+      "originalTitle": "【滑动窗口最值】一个裁判打分，用滑动窗口记录最大值，最小值。给定一个数组和一个窗口大小k，计算每个滑动窗口内的最大值和最小值。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-077",
+      "originalTitle": "【组合】组合(LeetCode 77)。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-078",
+      "originalTitle": "【螺旋矩阵】代码实现螺旋矩阵（顺时针遍历二维矩阵），即LeetCode 54题。 「字节跳动、美团、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L117",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-079",
+      "originalTitle": "【观光景点得分】观光景点最高得分。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-080",
+      "originalTitle": "【路径转换】一个路径转换题。具体描述缺失，保留原题。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L119",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源只列“路径转换”，未提供具体任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-081",
+      "originalTitle": "【跳跃游戏】手撕算法:跳跃数组。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-082",
+      "originalTitle": "【长度最小子数组】手撕：长度最小子数组问题（LeetCode 209/Hot100），返回最小长度。 「拼多多、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-083",
+      "originalTitle": "【除自身以外数组的乘积】代码：除自身外数组乘积（LeetCode 238/Hot100）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-084",
+      "originalTitle": "【两个有序数组的中位数】两个有序数组找中位数 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-085",
+      "originalTitle": "【和至少为K的最短子数组】和至少为K的最短子数组长度。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-086",
+      "originalTitle": "【圆柱体过隧道】有两个数组M和N，N代表一系列直径为M[i]的连续隧道，M代表一系列直径为N[i]的圆柱体，按顺序将一系列圆柱体往隧道里送，如果圆柱体直径大于某段隧道直径就会卡住，后续圆柱体也过不去，求最后圆柱体所在的最小位置，如果都通过了就返回-1。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L131",
+      "reviewStatus": "needs_review",
+      "reviewNote": "M/N 的名称与直径下标交叉，“最小位置”的返回含义未说明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-087",
+      "originalTitle": "【多维数组形状与求和】给列表套列表套列表，问这个array的shape，再分别写一下对每个axis求和的结果是什么，对axis求和的数学依据是什么，为什么是这几个element求和，从数学角度怎么解释？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-088",
+      "originalTitle": "【山脉数组中不重复元素个数】手撕：一个数组先递增后递减，找出不重复的元素个数，要求常数空间复杂度，线性时间复杂度。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-089",
+      "originalTitle": "【打散连续重复元素】输入一个序列，输出调整后的序列，目标是将序列中相同的连续的元素打散隔开，尽量保证原有的序列变化不大。示例: 1322254 -> 1325242，132225 -> 132522。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L135",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“尽量变化不大”未给出度量，示例仍含相邻重复，优化目标不明确。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-090",
+      "originalTitle": "【接雨水】实现接雨水算法（LeetCode 42）。 「百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-091",
+      "originalTitle": "【数组按轴求和】code:手写一下对给定axis求和（得分前面的维度和后面的维度，先flatten然后再求和的时候每次加stride）。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-092",
+      "originalTitle": "【最小覆盖子串】手撕最小覆盖子串：给定两个字符串s和t，请在s中找出包含t所有字符（出现次数也要满足）的最短子串。变体1：Code字符串中包含query字符的最短子串。变体2：给一个长度为L的数组，可能是m种颜色，找到最小的n，使得连续n个元素包含全部m种颜色。 「京东、美团、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-093",
+      "originalTitle": "【最长重复子数组】Leetcode718最长重复子数组（要求小于O(n)）。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L140",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-094",
+      "originalTitle": "【有序矩阵第K小】二维有序数组的第k个数 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-095",
+      "originalTitle": "【滑动窗口最长不重复子串】给定一个字符串流，实现一个滑动窗口，返回当前窗口内的最长不重复子串长度。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L142",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-096",
+      "originalTitle": "【移动球的最小操作数变体】手撕leecode1769的变体，改成每移动一个站台需要一个能量 「小红书」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L143",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文提到LC1769及单位移动能量，但没有说明所称“变体”新增的计费对象或目标约束。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-097",
+      "originalTitle": "【编辑距离】实现编辑距离。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L144",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-098",
+      "originalTitle": "【缺失的第一个正数】给定一个数组，找出缺失的最小正整数（LeetCode 41）。要求时间复杂度O(N)，空间复杂度O(1)。请讲下你的双指针slow/fast思路，并分析时间复杂度。 「字节Seed、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-099",
+      "originalTitle": "【至多K个不同字符的最长子串】【LeetCode - 340】至多包含 K 个不同字符的最长子串。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-100",
+      "originalTitle": "【预处理优化查询】用户会反复调整K；不能每次调整都让用户等很久，要优化latency。预处理时就把每个标点的位置和间隔文本长度一起存下来；后面长度直接查、不用重新遍历。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L147",
+      "reviewStatus": "needs_review",
+      "reviewNote": "未说明 K 控制的查询对象及长度输出，仅记录了预处理标点位置的做法。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-101",
+      "originalTitle": "【车队II】LeetCode Hard 1776. 车队II。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-102",
+      "originalTitle": "【K个一组翻转链表】K个一组翻转链表时，k=1或k大于链表长度应如何处理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L159",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-103",
+      "originalTitle": "【合并有序链表】Coding：归并排序两个有序链表 (LeetCode 21)。 「字节跳动、美团、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-104",
+      "originalTitle": "【环形链表检测】代码题/手撕：实现环形链表检测（LeetCode 141），判断链表是否有环。 「拼多多、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-105",
+      "originalTitle": "【K个一组反转链表】K个一组反转链表（LeetCode 25）：先讲思路再写代码。变体：两两反转链表（即K=2）。变体：纸上写k组无序链表排序（即先对每组内排序再反转？需明确）。 「拼多多、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L166",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“k 组无序链表排序”未给规则；括号中的先排序再反转是猜测。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-106",
+      "originalTitle": "【删除链表倒数第N个节点】删除链表的倒数第N个节点（LeetCode 19）：解释思路（如快慢指针或暴力法）。变体：返回倒数第K个节点，口述思路。 「百度、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L167",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-107",
+      "originalTitle": "【删除链表节点】如何删除单链表的某个node（只给指向该node的指针而不是head）？CUDA？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L168",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文仅有孤立的CUDA问号，未提供输入、输出或编码要求。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-108",
+      "originalTitle": "【删除链表重复元素】删除链表中重复的元素II（LeetCode 82）：手撕代码。 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-109",
+      "originalTitle": "【反转链表】反转链表（LeetCode 206）：要求递归和迭代两种方式；包括反转链表II（部分反转，LeetCode 92）。 「字节跳动、百度、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-110",
+      "originalTitle": "【合并K个升序链表】合并K个升序链表（LeetCode 23）：多个链表合并。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L171",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-111",
+      "originalTitle": "【环形链表】长度为n的链表，判断是否回环，并返回回环的节点（LeetCode 142 环形链表II），如果没有回环，返回None。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L172",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-112",
+      "originalTitle": "【相交链表】是否重合链表（LeetCode 160 相交链表）？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L173",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-113",
+      "originalTitle": "【重排链表】重排链表（LeetCode 143）：手撕代码。 「百度、美团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L174",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-114",
+      "originalTitle": "【链表两数相加】链表两数相加（LeetCode 2）：需自己定义链表数据结构，使用双指针法，并分析时间复杂度和空间复杂度。 「字节跳动、百度、美团、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L175",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-115",
+      "originalTitle": "【链表优化】手撕链表相关的题，问时间复杂度，怎么优化。链表过长还有什么优化？ 「美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L176",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未提供具体链表操作及输入输出。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-116",
+      "originalTitle": "【链表排序】按照node->val的绝对值排序链表。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-117",
+      "originalTitle": "【K个一组翻转链表】实现K个一组反转链表（LeetCode 25），最后不足K个也要反转。要求手撕代码。 「字节跳动、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L182",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题要求最后不足 K 个的部分也反转，与常见 LeetCode 25 版本不同。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-118",
+      "originalTitle": "【LRU缓存】手写LRUCache。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L183",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-119",
+      "originalTitle": "【合并K个升序链表】手写代码实现合并K个升序链表（LeetCode 23. Merge k Sorted Lists），要求使用堆（heapq）的方法，并给出完整实现。 「字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L184",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-120",
+      "originalTitle": "【复制带随机指针链表】复制带随机指针的链表。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L185",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-121",
+      "originalTitle": "【排序链表】实现排序链表。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L186",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-122",
+      "originalTitle": "【链表性能开销】在实际开发中，链表的插入和删除操作虽然复杂度较低，但它是否有其他潜在的性能开销?比如在内存管理或其他方面，你怎么看? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L187",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-123",
+      "originalTitle": "【链表相交判断】判断两个单链表是否相交（可能有环）；判断链表是否相交？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-124",
+      "originalTitle": "【二叉搜索树查找复杂度】二叉搜索树查找的时间复杂度是多少？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-125",
+      "originalTitle": "【二叉树先序遍历】二叉树先序遍历 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L196",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-126",
+      "originalTitle": "【二叉树最大深度】二叉树的最大深度 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-127",
+      "originalTitle": "【二叉树遍历】二叉树的遍历方式有哪些？并分别说明前序、中序、后序遍历是什么？中序遍历的结果有什么特点？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-128",
+      "originalTitle": "【二叉搜索树退化与平衡】为什么二叉搜索树会退化？最坏情况下会发生什么？如何避免二叉树退化？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-129",
+      "originalTitle": "【二叉树层序遍历】实现二叉树的层序遍历（LeetCode 102. 二叉树的层序遍历），手写代码，并分析时间复杂度和空间复杂度。 「字节Seed、字节跳动、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L205",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-130",
+      "originalTitle": "【多叉树查找】多叉树查找值，时间复杂度要求最优，BFS/DFS都行。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L206",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-131",
+      "originalTitle": "【B+树范围查询】范围查询（如between）在B+树中是如何执行的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L211",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-132",
+      "originalTitle": "【N叉树扩展】扩展到 N 叉树怎么改。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L212",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“扩展到 N 叉树”缺少被扩展的原任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-133",
+      "originalTitle": "【二叉搜索树第k小元素】搜索二叉树第k个大小的数。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L213",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-134",
+      "originalTitle": "【二叉搜索树范围查询】如果用普通二叉搜索树，范围查询怎么做? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L214",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-135",
+      "originalTitle": "【二叉树下一个节点】二叉树的下一个节点(node有prev和next指针)。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L215",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-136",
+      "originalTitle": "【二叉树中序遍历非递归】实现二叉树的中序遍历非递归。 「字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-137",
+      "originalTitle": "【二叉树转链表】手撕: 二叉树展开为链表（二叉树转为单链表）。变体：二分查找树转换为链表。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L217",
+      "reviewStatus": "confirmed",
+      "reviewNote": "二叉搜索树转链表未说明遍历顺序、单双向与循环约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-138",
+      "originalTitle": "【保证树平衡】（追问）如何保证生成的树是平衡的？ 「快手」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L218",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“生成的树”缺少对应的输入、生成算法与树类型。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-139",
+      "originalTitle": "【先序构建二叉搜索树】手撕:先序遍历构建二叉搜索树(有复杂度要求)。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L219",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-140",
+      "originalTitle": "【反转二叉树】反转二叉树（非递归反转二叉树）。 「腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L220",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-141",
+      "originalTitle": "【固定高度子树序列化】用你熟悉的语言（优先用C++）遍历一棵二叉树（不一定是满二叉），输出以每个结点为根、固定高度为K的子树。要求：每棵子树分别以深度优先顺序进行序列化。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L221",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-142",
+      "originalTitle": "【子树判断】Code:另一棵树的子树。判断一棵树是否是另一棵树的子树。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-143",
+      "originalTitle": "【对称二叉树】算法题：对称二叉树。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L223",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-144",
+      "originalTitle": "【最近公共祖先】二叉搜索树的最近公共祖先（LeetCode 236），并找到离给定两个节点最近的节点。 「京东、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L224",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文的“二叉搜索树”与 LC236 编号对应的输入条件不一致。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-145",
+      "originalTitle": "【有序数组转二叉搜索树】手撕:将有序数组转换为二叉搜索树。 「快手」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L225",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-146",
+      "originalTitle": "【构建树】根据输入的数据(id，name，parentid)创建一棵树，越快越好，如果输入不对有报警机制。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-147",
+      "originalTitle": "【树的层次遍历】算法题环节是一道树的层次遍历。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L227",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-148",
+      "originalTitle": "【根到叶数字之和】LeetCode 129. 求根节点到叶节点数字之和。 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-149",
+      "originalTitle": "【每层最大值】二叉树每一层的最大值。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-150",
+      "originalTitle": "【红黑树与AVL树】讲一下红黑树，并说明红黑树和AVL树的时间复杂度是多少？ 「百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-151",
+      "originalTitle": "【路径总和】给定一个二叉树和一个目标值，判断是否存在一条从根节点到叶子节点的路径，使得路径上所有节点值之和等于目标值。 「字节跳动、拼多多、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-152",
+      "originalTitle": "【重建二叉树】根据前序和中序遍历重建二叉树，并说出后序遍历。 「百度、腾讯混元、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L233",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-153",
+      "originalTitle": "【锯齿形层序遍历】LeetCode medium 103. 二叉树的锯齿形层序遍历。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-154",
+      "originalTitle": "【二叉树左右视图】二叉树的左右视图，要求实现列表转二叉树（建树），并分别输出左视图和右视图，采用ACM模式（自己处理输入输出）。 「字节Seed、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L239",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-155",
+      "originalTitle": "【二叉树打家劫舍】leetcode medium 337. 打家劫舍III。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-156",
+      "originalTitle": "【二叉树放水算法】实现二叉树放水算法。 「MiniMax」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L241",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“二叉树放水”未说明水源、容量、传播规则与输出。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-157",
+      "originalTitle": "【二叉树最大路径和】Code: 二叉树中的最大路径和（LeetCode 124，Hard）。手撕代码，找到二叉树中任意两个结点之间的最大路径和。 「字节跳动、拼多多、百度、美团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-158",
+      "originalTitle": "【路径总和III】手撕:路径总和III 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L244",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-159",
+      "originalTitle": "【验证前序序列化】手撕:lc331 验证二叉树的前序序列化 问复杂度，优化方法 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-160",
+      "originalTitle": "【BFS与DFS基础】coding 基础：DFS和BFS分别是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-161",
+      "originalTitle": "【A*算法】A*算法相关：1. A*中的close和open指的是什么？2. A*算法的原理是什么？3. BFS，A*和Dijkstra的关系。4. 介绍A*和hyper A*的区别？5. 如何在自动驾驶中优化A*？6. 它和Dijkstra的区别是什么？7. 怎么从路由图上找最短路径？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L257",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未定义 hyper A*，无法确认是否指 Hybrid A*。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-162",
+      "originalTitle": "【单词搜索】给定一个二维字符矩阵和一个字符串，判断该字符串是否在矩阵内，要求连续路径由上下左右相邻的单元格组成，且每个单元格只能使用一次。实现单词搜索函数。 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L258",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-163",
+      "originalTitle": "【图搜索传染】手撕图搜索传染题 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L259",
+      "reviewStatus": "needs_review",
+      "reviewNote": "图搜索传染题未给出传播规则、起点、时间与返回目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-164",
+      "originalTitle": "【图遍历】LeetCode 841. 钥匙和房间。 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-165",
+      "originalTitle": "【岛屿数量】岛屿问题：1. 实现岛屿数量（LeetCode 200），要求分别用DFS和BFS实现，并说明并查集思路（代码可不写出）。2. 手撕岛屿最大面积（最大连通域的面积），要求用DFS或BFS遍历网格，求每片岛屿的面积。3. 找最大连通子图的大小。4. 手撕算法：子集型回溯问题。 「京东、字节Seed、字节跳动、拼多多、百度、美团、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-166",
+      "originalTitle": "【拓扑排序】LeetCode 207. 课程表（中等）：给定一个项目列表和一个依赖关系列表（依赖关系是项目对的列表，其中第二个项目依赖于第一个项目），判断是否可能完成所有课程（即是否存在拓扑排序）。 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-167",
+      "originalTitle": "【最小生成树】coding 最小生成树算法 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-168",
+      "originalTitle": "【禁忌搜索】介绍一下禁忌搜索。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L264",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-169",
+      "originalTitle": "【粒子群优化】介绍一下粒子群优化。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-170",
+      "originalTitle": "【走迷宫最短路径】算法题：走迷宫问题(DFS/BFS) 给定一个二维网格，0表示可以通过，1表示障碍物，求从起点到终点的最短路径。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L266",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-171",
+      "originalTitle": "【骑士最短路径】手撕:马在m*n棋盘上从x0，y0走到x1，y1的最小步 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L267",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-172",
+      "originalTitle": "【八数码问题】写题:给你一个3*3的数组，数字为1-8八个数字(这八个数字位置任意)以及一个空位，假定你每次只能交换空位和它上下左右四个方向的元素，问某个给定的数组能否转为如下代码所示的样子。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L272",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-173",
+      "originalTitle": "【凸包算法】三维点凸包计算及凸包算法（Graham扫描法）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-174",
+      "originalTitle": "【图扫描与独立性判断】你怎么扫描图、怎么判断独立性、怎么决定要不要下手？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L274",
+      "reviewStatus": "needs_review",
+      "reviewNote": "未定义图的含义、“独立性”与“下手”所指的操作。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-175",
+      "originalTitle": "【岛屿数量变体】不同形状的岛屿数量。 「MiniMax」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-176",
+      "originalTitle": "【网格判环】无向网格四连通判环。 「MiniMax」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-177",
+      "originalTitle": "【路径平滑】怎么做路径平滑，目标函数设置、平滑度计算公式、约束条件？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-178",
+      "originalTitle": "【拓扑排序】拓扑排序实现任务调度器并用伪代码实现work-stealing的优化版本 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-179",
+      "originalTitle": "【爬楼梯】实现爬楼梯（LeetCode 70），要求给出两种解法（如动态规划与递归/迭代），并写出代码。 「京东、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-180",
+      "originalTitle": "【动态规划原理】动态规划的原理和理解 (最优控制角度)。请从最优控制的角度解释动态规划的原理，包括最优子结构、重叠子问题、状态转移方程等核心概念。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-181",
+      "originalTitle": "【动态规划状态转移】状态转移方程求max为什么不加一个dp[i-1][j-1]？请解释在动态规划中，例如求解最长公共子序列或编辑距离等问题时，状态转移方程中为什么有时不包含 dp[i-1][j-1] 项，而只考虑 dp[i-1][j] 和 dp[i][j-1] 的 max。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L295",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-182",
+      "originalTitle": "【最大子数组和】实现最大子数组和（LeetCode 53），即求连续子数组的最大和。给定一个整数数组 nums，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。 「京东、字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-183",
+      "originalTitle": "【最小路径和】二维dp：最短路径。给定一个包含非负整数的 m x n 网格，请找出一条从左上角到右下角的路径，使得路径上的数字总和最小。每次只能向下或者向右移动一步。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L297",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-184",
+      "originalTitle": "【网格路径计数】手撕代码矩阵走法：M行N列二维矩阵，左上角起点，右下角终点，每次只能向右或向下走一格，一共有多少种走法？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-185",
+      "originalTitle": "【0-1背包】手撕：类似于子集划分，0-1背包问题。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-186",
+      "originalTitle": "【乘积最大子数组】手撕代码：乘积最大子数组（LeetCode 152）。给定一个整数数组（包含正数和负数），求乘积最大的连续子数组的乘积。要求使用动态规划实现。 「腾讯、腾讯混元、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-187",
+      "originalTitle": "【优美的排列】写题: leetcode 526，优美的排列 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L305",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-188",
+      "originalTitle": "【分割等和子集】代码：416.分割等和子集（0-1背包划分等和数组） 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-189",
+      "originalTitle": "【动态规划综合】手撕一道动态规划题，难度介于中等和困难之间，非LeetCode原题。 「字节跳动、腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L308",
+      "reviewStatus": "needs_review",
+      "reviewNote": "原文只给出动态规划和难度标签，未提供状态、输入或输出。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-190",
+      "originalTitle": "【单词拆分】单词拆分(LeetCode 139) 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L309",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-191",
+      "originalTitle": "【完全平方数】给定一个正整数，求它最少能由几个完全平方数相加得到。例如，12 = 4 + 4 + 4，答案为3。手撕代码。 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-192",
+      "originalTitle": "【打家劫舍】手撕/实现打家劫舍算法。 「字节Seed、字节跳动、百度、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L311",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-193",
+      "originalTitle": "【整除3的最大和】手撕:给一个正整数数组，找出里面能被3整除的和的最大值。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-194",
+      "originalTitle": "【最大正方形】手撕 LeetCode 221：最大正方形。给定一个由 '0' 和 '1' 组成的二维矩阵，找出只包含 '1' 的最大正方形，并返回其面积。要求使用动态规划实现。 「字节Seed、百度、百度文心、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L313",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-195",
+      "originalTitle": "【最小路径和】手撕最小路径和：在二维矩阵中，从右上角到左下角的最短加权路径和，中间还有-1的障碍物不能走。要求使用动态规划实现。 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-196",
+      "originalTitle": "【最长公共子串】手撕：求最长公共子串。 「字节Seed、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L315",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-197",
+      "originalTitle": "【最长公共子序列】手撕：最长公共子序列（LCS），要求使用二维动态规划实现；最长公共子串。 「字节跳动、拼多多、百度、腾讯、腾讯混元、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-198",
+      "originalTitle": "【最长回文子序列】最长回文子序列 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L317",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-199",
+      "originalTitle": "【最长连续相同字符】一个数组只有a和b，有m次机会能把a换成b或b换成a，变化之后的最长连续相同字符的长度是多少？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-200",
+      "originalTitle": "【最长递增子序列】手撕最长递增子序列（LeetCode 300）：找出数组的最长递增子序列。nums=[1,3,5,4,7]，返回[[1,3,4,7],[1,3,5,7]]。要求输出具体的一个最长递增子序列，并考虑优化（如O(n log n)解法）。 「字节跳动、拼多多、百度、百度文心、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L319",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题只需输出一个最长递增子序列。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-201",
+      "originalTitle": "【环形打家劫舍】Coding：从环中取不相邻的数字，数字和最大。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-202",
+      "originalTitle": "【环形路径计数】手撕：一个环有10个点0-9，0开始出发，每步顺时针或逆时针走一个点，求经过n步回到0点有多少种不同走法 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-203",
+      "originalTitle": "【编辑距离】实现编辑距离算法：给定两个字符串str1和str2，每次可选择插入、删除或替换一个字符，求最少操作次数使得两个字符串相同（LeetCode 72）。 「字节跳动、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-204",
+      "originalTitle": "【解码方法】一条包含字母A-Z的消息通过'A' -> 1，'B' -> 2，...，'Z' -> 26方式进行了编码，给定一个只包含数字的非空字符串，求解码方法的总数。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L323",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题使用 A=1 至 Z=26 的编码约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-205",
+      "originalTitle": "【跳箱子】算法题跳箱子。原记录未说明具体规则。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L324",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未提供“跳箱子”的规则。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-206",
+      "originalTitle": "【零钱兑换】零钱兑换（LeetCode 322）：给定不同面额的硬币和一个总金额，计算凑成总金额所需的最少硬币个数。假设每种硬币的数量是无限的。变式：可能要求输出具体组合或处理其他约束。 「字节跳动、百度、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-207",
+      "originalTitle": "【零钱兑换II】代码：解决零钱兑换II（LeetCode 518），计算凑成目标金额的硬币组合数，要求区分顺序（组合问题）。 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L326",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文同时标注 LeetCode 518 和“区分顺序”，两种计数约定不一致。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-208",
+      "originalTitle": "【非连续最大和子序列】求数组的非连续最大和子序列，返回最大和以及子序列本身。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L327",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“非连续”可能指允许跳过位置的任意子序列，也可能指禁止相邻选择；两者最优条件不同，原文未澄清含义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-209",
+      "originalTitle": "【买卖股票系列】手撕买卖股票全系列，包括经典股票四连问（LeetCode 121、122、123、188），要求实现代码并分析复杂度。变体：LeetCode 121（一次交易）、122（无限次交易）、123（两次交易）、188（k次交易）。 「字节跳动、百度、百度文心、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-210",
+      "originalTitle": "【划分型DP】序列切分为前k个和n-k个，使得两部分方差和最大？给定一个序列，将其切分为前k个元素和后n-k个元素两部分，使得两部分方差之和最大。求最大方差和。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-211",
+      "originalTitle": "【最大点积子序列】两个数组的子序列求最大点积：给定两个数组，分别选取长度相同的子序列，计算对应位置乘积之和的最大值。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L334",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-212",
+      "originalTitle": "【最接近目标值的子序列和】最接近目标值的子序列和：给定一个整数数组和一个目标值，找出子序列的和，使其最接近目标值。返回该和。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L335",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-213",
+      "originalTitle": "【最长递增子序列】最大递增子序列（动规，返回长度 -> 优化为返回整个序列 -> 优化相同长度的序列怎么选择更小的那一个）。给定一个整数数组，求最长严格递增子序列的长度，并输出该序列。若有多个相同长度的序列，选择字典序最小的一个。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-214",
+      "originalTitle": "【矩阵最长递增路径】二维矩阵中的最长递增路径，并输出该路径（序列）。给定一个整数矩阵，找出最长递增路径的长度，并输出路径。路径可以从任意单元格开始，每一步只能上下左右移动，且路径上的数字严格递增。 「京东、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L337",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-215",
+      "originalTitle": "【组合得分DP】给一个n和k，代表从1-n选k个数字，计算得分，若选择i，而未选择i+1，则得一分。求最大得分。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L338",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-216",
+      "originalTitle": "【排序算法稳定性】排序有哪些算法，哪些是稳定的呢？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L350",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-217",
+      "originalTitle": "【二分查找】算法题：搜索插入位置，二分查找。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L355",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-218",
+      "originalTitle": "【堆排序与第K大元素】堆排序与第K大元素（LeetCode 215）：实现堆排序算法；求数组中的第K个最大元素，要求比快排更快，使用堆排序或优先队列。 「京东、字节跳动、百度、百度文心、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-219",
+      "originalTitle": "快速排序的原理是什么？如果不用递归的话怎么实现？手撕排序代码（快速排序）。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-220",
+      "originalTitle": "手写快速排序代码（原地排序），并分析时间复杂度。 「字节Seed、字节跳动、百度、美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-221",
+      "originalTitle": "【Top-K】Top-K问题：从1亿个数中找出前10大的数；手写Top-K检索算法，实现向量库快速筛选，适配RAG召回场景；分片聚合，再做二阶段Top-K。 「字节跳动、腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L370",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-222",
+      "originalTitle": "【Top-K问题】手撕：找出数组中最小的K个数，并按顺序返回。 变体1：使用最小堆实现。 变体2：给定候选商品列表，根据用户偏好做TopK筛选，要求时间复杂度低于O(N log N)。 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L371",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-223",
+      "originalTitle": "【三路排序】手撕三路排序。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L372",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“三路排序”未明确指三种值分类，还是按枢轴划分为小于、等于和大于。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-224",
+      "originalTitle": "【两个有序数组中位数】手撕题：两个有序数组中位数，要求时间复杂度O(log(m+n))。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L373",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-225",
+      "originalTitle": "【中位数】手撕：无序数组中位数。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-226",
+      "originalTitle": "【中间K个值】手撕：给定一个随机数组，要求输出排序在中间的K个值。例如给定随机数组arr=[9,3,7,1,4]，当K=3时返回结果[3,7,4]或[3,4,7]；当K=1时返回结果[4]。给定的数组arr长度与K均为奇数。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-227",
+      "originalTitle": "【二分查找】手撕二分查找代码，注意边界问题；二分查找变体：类似于插入位置问题，输入是json格式；二分查找的时间复杂度是多少？ 「字节跳动、百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-228",
+      "originalTitle": "【众数】找出有序数组中所有出现次数严格大于n/3的数字，要求时间复杂度低于O(n)。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L377",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本条为有序数组版本，且要求低于线性时间。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-229",
+      "originalTitle": "【合并区间】手撕代码：合并区间（LeetCode 56及其变种）。 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L378",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-230",
+      "originalTitle": "【堆排序】怎么样才能让堆排序稳定呢？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L379",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-231",
+      "originalTitle": "【多路归并Top-K】有n个长度为m的升序数组，找出所有数中的前K大（TopK）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L380",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-232",
+      "originalTitle": "【寻找峰值】手撕二分查找变种：给定一个数组，输出任意一个峰值，峰值定义为a[x] > a[x-1]且a[x] > a[x+1]，要求时间复杂度O(log n)。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L381",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-233",
+      "originalTitle": "【平方排序】给定数组 [-3, -2, -1, 0, 3, 6]，将其平方后排序。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-234",
+      "originalTitle": "【归并排序】手写归并排序代码。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-235",
+      "originalTitle": "【快速排序与两数之和】手撕代码：实现快速排序和两数之和。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-236",
+      "originalTitle": "【排序与查找综合】堆排序是稳定的吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-237",
+      "originalTitle": "【排序优化】如果数组本身有序，是否可以优化？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L386",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明所优化的操作与原有复杂度。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-238",
+      "originalTitle": "【排序链表】手撕：排序链表。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-239",
+      "originalTitle": "【搜索旋转排序数组】实现力扣33题（搜索旋转排序数组）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-240",
+      "originalTitle": "【有序矩阵第K小】手撕：二维有序矩阵中找第k小的值（LeetCode 378）。要求时间复杂度O(n log n)（原记录未说明具体复杂度要求）。 「字节跳动、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L389",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文对矩阵第 K 小的复杂度标注存在不一致，且未定义 n。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-241",
+      "originalTitle": "【第K大元素】手撕代码：找出无序数组中第K大的元素（LeetCode 215）。要求实现快速选择（QuickSelect）算法，并分析时间复杂度（平均O(n)，最坏O(n^2)）。可选的优化方法包括使用堆排序（堆排）或局部快排。 「京东、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L390",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-242",
+      "originalTitle": "【车队】LeetCode 853. 车队（中等）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-243",
+      "originalTitle": "交换正整数的两位数字，使其尽可能大。给定一个正整数，最多可以交换一次任意两位数字，返回能得到的最大整数。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-244",
+      "originalTitle": "分割平衡字符串。在一个平衡字符串中，'L'和'R'字符的数量相同。给定一个平衡字符串，将其分割成尽可能多的平衡子串，返回最大分割数量。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-245",
+      "originalTitle": "【任务调度器】任务调度器（LeetCode 621）：给定一个用字符数组表示的CPU需要执行的任务列表，以及一个冷却时间n，每个单位时间可以完成一个任务，相同任务之间必须间隔至少n个单位时间，求完成所有任务所需的最短时间。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-246",
+      "originalTitle": "【加油站】加油站算法：在一条环路上有N个加油站，每个加油站有汽油gas[i]，从第i个加油站到第i+1个需要消耗cost[i]，求从哪个加油站出发可以走完一圈，否则返回-1。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-247",
+      "originalTitle": "【双指针】实现双指针算法：给定一个有序数组，使用双指针法解决两数之和、三数之和或移除元素等问题。具体题目未指定，需现场实现。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L407",
+      "reviewStatus": "confirmed",
+      "reviewNote": "第三个候选任务“移除元素”未给出目标值、保留规则与返回接口。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-248",
+      "originalTitle": "【跳跃游戏】跳跃游戏：给定一个非负整数数组，初始位置为第一个索引，每个元素代表在该位置可以跳跃的最大长度，判断是否能到达最后一个索引。变体：手撕一个贪心策略的问题（跳跃游戏）。 「百度、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-249",
+      "originalTitle": "PriorityQueue了解吗，有没有用过？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L416",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-250",
+      "originalTitle": "假设我们在一个高频插入和删除操作的场景中，比如实现一个队列或栈，你会选择数组还是链表？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-251",
+      "originalTitle": "实现LRU Cache：1. 要求get/put均为O(1)。2. 带过期时间的LRU。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-252",
+      "originalTitle": "实现典型单调栈。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-253",
+      "originalTitle": "实现字符串解码（LeetCode 394），原记录未说明输入格式和输出要求。 「百度、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-254",
+      "originalTitle": "实现最长有效括号（LeetCode 32）。 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L421",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-255",
+      "originalTitle": "实现有效的括号（LeetCode 20）。 「字节跳动、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-256",
+      "originalTitle": "实现每日温度算法。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-257",
+      "originalTitle": "实现队列：1. 用栈实现队列（LeetCode 232）。2. 手撕实现queue（不限方式）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-258",
+      "originalTitle": "手撕一道简单的算法题（关于栈的使用）。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L425",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源只给出栈的使用主题与难度，未提供具体任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-259",
+      "originalTitle": "手撕两道：最长有效括号和二叉树层序遍历。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L426",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-260",
+      "originalTitle": "手撕前K个高频元素。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L427",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-261",
+      "originalTitle": "括号生成（LeetCode 22）：生成n对有效括号的所有组合。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L428",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-262",
+      "originalTitle": "最小堆底层用什么数据结构实现？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L429",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-263",
+      "originalTitle": "柱状图中最大的矩形（LeetCode 84）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L430",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-264",
+      "originalTitle": "滑动窗口最大值（一维），要求O(n)时间复杂度；部分场次要求取第k大的元素；ACM模式，从头写C++。设计如何利用堆最快的实现。实现队列的最大值。 「字节跳动、百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-265",
+      "originalTitle": "请介绍 List、Set、Sorted Set 及其典型应用场景。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L432",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明 List、Set、Sorted Set 所属语言或存储系统。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-266",
+      "originalTitle": "逆波兰表达式求值。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L433",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-267",
+      "originalTitle": "【HashMap与Map接口】1. HashMap与Map的区别？2. Map和Set的区别？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L445",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-268",
+      "originalTitle": "【Map键值设计】map 的 key 和 value 应该如何设计? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L450",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-269",
+      "originalTitle": "【STL关联容器】map和multimap; set和multiset 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L451",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-270",
+      "originalTitle": "【哈希表底层数据结构与树化条件】HashMap底层数据结构是什么？具体包括Java HashMap和STL中Map、HashTable的底层实现数据结构。HashMap什么时候从链表转红黑树？为什么要满足数组长度 > 64？ 「字节跳动、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L452",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-271",
+      "originalTitle": "【统计最高频字符串】代码：找出重复最多的字符串，并返回字符串和重复次数。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-272",
+      "originalTitle": "【集合存储与存在判断】如果要存储一批商品并判断是否存在，应该用什么数据结构? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-273",
+      "originalTitle": "【LRU缓存】手撕题：实现LRU（逻辑存储）；容易写错哪些地方？不变量是什么？ 「MiniMax、京东、字节跳动、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-274",
+      "originalTitle": "【Trie前缀树】实现Trie前缀树。支持插入、搜索和前缀搜索操作。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L460",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-275",
+      "originalTitle": "【串联所有单词的子串】串联所有单词的子串。给定一个字符串s和一个单词列表words，找出s中所有可以由words中所有单词串联形成的子串的起始位置。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L461",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-276",
+      "originalTitle": "【和为K的子数组】LeetCode 560. 和为K的子数组。给定一个整数数组和一个整数K，统计并返回该数组中和为K的连续子数组的个数。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-277",
+      "originalTitle": "【哈希统计正方形】手撕一道简单的哈希问题，给出点序列，求解总共能匹配到多少个正方形。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-278",
+      "originalTitle": "【实现Map】如何实现一个Map？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-279",
+      "originalTitle": "【长列表去重】如何快速对一个list去重，如果list的长度非常长(且不改变数据格式)？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-280",
+      "originalTitle": "【大数据词频统计与检索】大数据场景下，统计字符串表中出现的单词个数（裂开）；在大规模（几百万）数据中做高效检索。 「拼多多、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L470",
+      "reviewStatus": "confirmed",
+      "reviewNote": "第二项“大规模高效检索”未说明检索条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-281",
+      "originalTitle": "【完美数定义】完美数是什么？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-282",
+      "originalTitle": "【整数反转】输入123输出321（整数反转）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-283",
+      "originalTitle": "【递归求和】用递归法求1到n的和。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L486",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-284",
+      "originalTitle": "【乘法实现】手撕：写个函数实现乘法运算。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-285",
+      "originalTitle": "【二进制中1的个数】给出数字返回内存为1的个数。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-286",
+      "originalTitle": "【余弦相似度】手写实现余弦相似度计算，适配Embedding向量检索场景（一维向量输入）。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-287",
+      "originalTitle": "【斐波那契数列】手撕斐波那契数列。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-288",
+      "originalTitle": "【汉明距离】LeetCode: 计算两个整型数的Hamming距离，原型: int hammingDistance(int x, int y); 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L495",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-289",
+      "originalTitle": "【质因数分解】手撕:求k的分解质因数。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L496",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-290",
+      "originalTitle": "【距离度量】手写欧氏距离、曼哈顿距离，对比三种向量距离算法的适用场景。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-291",
+      "originalTitle": "【阶乘末尾零的个数】1000!有多少个0？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-292",
+      "originalTitle": "【随机数表示概率】用随机数函数randf()表示概率，如从一个数组中取出某个数的概率为0.5。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L500",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-293",
+      "originalTitle": "【随机采样函数区别】现场看了python random.choices和random.sample的文档，问有什么区别，从概率角度上来说表达式有什么不同？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L501",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-294",
+      "originalTitle": "【2的幂次方表示】NOIP1998复赛普及组第一题：2的幂次方表示。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L506",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-295",
+      "originalTitle": "【位运算优化】对于一个很长的数，其中只有个别位是1，如何优化查找这些1的位置？问题转化为如何找到最低位的1？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-296",
+      "originalTitle": "【圆环回原点】圆环回原点问题。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L508",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-297",
+      "originalTitle": "【平方根计算】实现平方根计算。变体：1. 手写IoU和开根号小数点后三位（不调包）；2. 实现sqrt(x)，向下取整；3. 非负整数求根号(二分法)；4. 多态的方式实现开根号；5. 实现开平方根；6. 求浮点数平方根（牛顿法/二分法），手写牛顿迭代法，收敛阈值怎么设置，该方法优势？7. 计算一个数的算术平方根，精度0.00001。 「字节跳动、百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L509",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-298",
+      "originalTitle": "【按概率采样】按概率采样。变体：1. 实现一个函数，给定一个nums数组和一个概率数组，根据概率返回nums中的数；2. 曝光概率区间均匀采样。 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L510",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-299",
+      "originalTitle": "【整数拆分】整数拆分问题。变体：1. m个苹果放到n个盘子（可以为空），一共有多少种方法？2. 将n写成k个正整数之和的所有方案和方案数；3. 算法题：整数拆分。 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L511",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-300",
+      "originalTitle": "【有效正方形判断】代码：有效的正方形。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-301",
+      "originalTitle": "【有理数类实现】手写有理数类，实现加减法和约分->找最大公约数，定义分子和分母、函数书写的位置。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L513",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-302",
+      "originalTitle": "【浮点数幂运算】浮点数的n次方。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L514",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-303",
+      "originalTitle": "【点在多边形内判断】判断一个点是否在凸多边形内部和凹多边形内部。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L515",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-304",
+      "originalTitle": "【真分数组合计数】给质数数组和一个k，从数组中选择两个数组成真分数，有多少组合方式大于k？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-305",
+      "originalTitle": "【矩阵欧氏距离】手撕代码：计算m×d矩阵两两之间的欧式距离（复杂度不超过m^2）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L518",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-306",
+      "originalTitle": "【立方根计算】写一个开三次根号函数，对一个数求立方根，误差在1e-5。 「字节跳动、拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L519",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-307",
+      "originalTitle": "【约瑟夫环】破冰游戏（约瑟夫环）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L520",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-308",
+      "originalTitle": "【计算圆周率】如何利用计算机求π，不限时间复杂度，可以循环一亿次？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L521",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-309",
+      "originalTitle": "【除法实现】求a/b的商和余数，不能用除法和取余，要求使用两种方法，其中一种方法用加减实现整除。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L522",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-310",
+      "originalTitle": "【随机数生成】使用 Rand7() 实现 Rand10()（LeetCode 470）。 「字节跳动、百度、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-311",
+      "originalTitle": "【字典序第K小数字】字典序的第K小数字。给定整数n和k，找到1到n中字典序第k小的数字。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L528",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-312",
+      "originalTitle": "【带权随机采样】给定一个长度为n的数组weights，其中weights[i]是元素i的非负权重。现在需要进行大量、近似无限次的有放回采样，如何让单次采样的时间复杂度尽可能低？实现带权随机采样算法。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L529",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-313",
+      "originalTitle": "【斜框IOU】斜框IOU实现。计算两个旋转矩形（斜框）的交并比（IOU）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-314",
+      "originalTitle": "【最大公约数不为1的最长子序列】有一个长度为n的序列a1, a2, ..., an，我们希望选择一个最大公约数不为1的子序列，求可以选择的最长子序列长度，以及这种最长的子序列总共有多少种。如果两个子序列所包含的元素值的多重集合相同，则认为它们是同一种方案，即不区分下标位置，仅按所含数字及出现次数判断是否相同。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L531",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-315",
+      "originalTitle": "【流式随机采样】最长流式随机采样。实现一个流式随机采样算法，从数据流中均匀随机选取k个样本（蓄水池采样）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L532",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-316",
+      "originalTitle": "【除法表达式最大化】给一个整数数组a，对a中的相邻整数进行浮点除法，如a=[2,3,4]，即为2/3/4。在任意位置添加任意数目的括号，来改变算数的优先级，使得值最大，输出表达式。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L533",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题仅说整数，未给出零或负数的处理约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-317",
+      "originalTitle": "【有序数组操作复杂度】有序数组插入的时间复杂度是多少？有序数组查找的时间复杂度是多少？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-318",
+      "originalTitle": "【复杂度分析】分析给定代码的时间复杂度和空间复杂度，并描述解题思路。具体追问：到底是哪一步产生了 O(n^2)？这个复杂度是怎么算出来的？为什么是这个复杂度？ 「京东、字节跳动、快手、百度、美团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L550",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-319",
+      "originalTitle": "【复杂度优化】如何考虑降低代码的复杂度？如果数据规模非常大，有没有优化思路？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L555",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-320",
+      "originalTitle": "讲下AI Coding笔试 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L568",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-321",
+      "originalTitle": "【编程语言能力】代码能力，比如cpp、python、sql的情况。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L574",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-322",
+      "originalTitle": "【if __name__ == '__main__'作用】if __name__ == '__main__'的作用是什么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L580",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-323",
+      "originalTitle": "【i++与++i区别】i++和++i的区别？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-324",
+      "originalTitle": "【Python Collection】Python Collection了解吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L582",
+      "reviewStatus": "confirmed",
+      "reviewNote": "Collection 未说明指一般集合、collections 模块还是特定接口。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-325",
+      "originalTitle": "【Python help和dir用法】Python中help以及dir的用法 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-326",
+      "originalTitle": "【Sigmoid函数手写】sigmoid的代码手写。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-327",
+      "originalTitle": "【友元概念】了解友元概念吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L585",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-328",
+      "originalTitle": "【深度学习框架掌握】你熟练掌握哪些深度学习框架(PyTorch/TensorFlow)? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L587",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-329",
+      "originalTitle": "【编程基础】手撕，口述coding基础。 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L588",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源只记口述编程基础，未列出具体知识点或任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-330",
+      "originalTitle": "【编程工具与语言】平时用什么vibe coding软件？平时用什么语言？ 「京东、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L589",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-331",
+      "originalTitle": "【边界判断】为什么要加if(id<n)这种边界判断？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L595",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供 id、n 的范围或具体代码。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-332",
+      "originalTitle": "【静态成员变量共享】哪种成员变量在类的对象中实现共享？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L596",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-333",
+      "originalTitle": "【C++强制类型转换】四种强制类型转换是哪些？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L601",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-334",
+      "originalTitle": "【C++模板】类的成员函数可以当模板吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L602",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-335",
+      "originalTitle": "【DataLoader/Dataset/Sample区别】DataLoader、Dataset、Sample的区别是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L603",
+      "reviewStatus": "confirmed",
+      "reviewNote": "Sample 为来源原写法，未说明是否指 Sampler。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-336",
+      "originalTitle": "【defer修改返回值】defer能不能修改函数返回值？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L604",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-337",
+      "originalTitle": "【delete与delete[]区别】delete和delete[]的区别 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L605",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-338",
+      "originalTitle": "【IoU计算】手撕矩形面积（就是IoU计算）。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L606",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-339",
+      "originalTitle": "【make_unique实现原理】make_unique的实现原理 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L607",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-340",
+      "originalTitle": "【NumPy公式实现】可以用numpy写一下公式吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L608",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未提供需用 NumPy 实现的公式与输入形状。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-341",
+      "originalTitle": "【Python **, **kwargs, @装饰器】Python的**是干什么的，**kwargs是干嘛的，@字符是干嘛的？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L609",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-342",
+      "originalTitle": "【Python self错误】手撕算法没加self后面调用报错（调试赶紧补上）核心问题复盘（图片里有原题！） 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L610",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原记录提到图片题干，但当前材料未包含该题干。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-343",
+      "originalTitle": "【Python多线程多进程与list去重】Python有没有真正的多线程？python编程：多线程、多进程的库；list怎么快速去重？八股python怎么实现多线程 「字节跳动、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L611",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-344",
+      "originalTitle": "【Python装饰器】知道Python的装饰器么？装饰器的原理是什么？ 「字节Seed、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-345",
+      "originalTitle": "【Python解释器与循环递归区别】介绍python解释器；循环和递归的区别 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L613",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-346",
+      "originalTitle": "【Python读取大文件】八股python如何读取大文件 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-347",
+      "originalTitle": "【Python闭包与with语句】python里面的闭包是什么，with操作是什么，有什么好处？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-348",
+      "originalTitle": "【PyTorch view用法】为什么用view？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L616",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-349",
+      "originalTitle": "【PyTorch张量操作】说出pytorch中维度变换的函数 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L617",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-350",
+      "originalTitle": "【static变量实现】可以用static变量来实现吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L618",
+      "reviewStatus": "needs_review",
+      "reviewNote": "未说明 static 变量要实现的功能、共享范围与并发条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-351",
+      "originalTitle": "【vector扩容因子】STL中vector扩容为什么要以1.5倍或者2倍扩容？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L619",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-352",
+      "originalTitle": "【去重归并排序】手撕代码环节是一道非常简单的去重归并排序。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L620",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-353",
+      "originalTitle": "【右值引用作用】右值引用有什么作用? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L621",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-354",
+      "originalTitle": "【回调函数】回调函数的作用 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L622",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-355",
+      "originalTitle": "【复杂任务指挥与list tuple区别】基础问答：Coding(复杂任务如何指挥 cc)、Python(Python list 和 tuple 区别？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L623",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-356",
+      "originalTitle": "【异常处理】如果中间步骤报错了怎么做异常处理? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L624",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-357",
+      "originalTitle": "【数组与树的选择】在什么场景下选择数组，什么场景下选择树? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L626",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-358",
+      "originalTitle": "【文件遍历】找多级目录下的所有data.txt的路径 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-359",
+      "originalTitle": "【方法抽取必要性】如果一个方法抽取是只在一个场景中用的，现在以及未来都不会用，那需要抽取这个方法吗? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L628",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-360",
+      "originalTitle": "【深拷贝与浅拷贝】深拷贝与浅拷贝的区别？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L629",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-361",
+      "originalTitle": "【相似度召回】根据相似度召回top1的文本（给好了内置函数，只是要把代码根据逻辑写好）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L630",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-362",
+      "originalTitle": "【类型系统】完整类型和非完整类型 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L631",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-363",
+      "originalTitle": "【编程语言在CV中的应用】你熟练的编程语言(如Python、C++)在计算机视觉中有什么具体应用? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L632",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-364",
+      "originalTitle": "【虚函数】构造函数，析构函数，静态成员函数，友元函数，哪些可以设置为virtual？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L633",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-365",
+      "originalTitle": "【野指针】野指针问题？如何避免？如何检测？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L634",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-366",
+      "originalTitle": "【K-means聚类】手写Kmeans 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L640",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-367",
+      "originalTitle": "【LeetCode第4题】code: lc4 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-368",
+      "originalTitle": "【LRU Cache】Coding: LRU Cache。LRU Cache的核心思路。手写LRU/LFU缓存算法，用于大模型对话缓存、高频Query缓存优化场景。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L643",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-369",
+      "originalTitle": "【SQL查询】编写一个SQL查询，获取Employee表中第N高的薪水。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L644",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未明确“第 N 高”按不同薪资还是员工行排名，也未说明不足 N 名时的返回约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-370",
+      "originalTitle": "【SQL编程】手撕SQL题。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L645",
+      "reviewStatus": "needs_review",
+      "reviewNote": "SQL 任务未提供表结构、筛选与输出要求。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-371",
+      "originalTitle": "【std::move实现】实现std::move，使用模版函数，namespace 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L646",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-372",
+      "originalTitle": "【STL vector实现与迭代器失效】STL vector的实现，删除其中的元素，迭代器如何变？空间都是连续的情况下，就可以实现内存空间复用化？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L647",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-373",
+      "originalTitle": "【代码优化】以下代码可以如何优化？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L648",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未包含所指的代码。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-374",
+      "originalTitle": "【任务调度】手撕：任务调度器 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L649",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“任务调度器”未给出接口、任务规则与约束。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-375",
+      "originalTitle": "【会议室预定】会议室预定问题：判断某个时刻点是否可以预定，查询最近可以预定的时间。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L650",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-376",
+      "originalTitle": "【全排列】给定正整数n，输出1-n的全排列 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L651",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-377",
+      "originalTitle": "【几何计算】每个点到稠密折线段的距离 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L652",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-378",
+      "originalTitle": "【前向传播与反向传播；股票价格】手撕代码第一道：forward与backward；第二道：price股票价格那道题/leetcode原题。 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L653",
+      "reviewStatus": "needs_review",
+      "reviewNote": "forward/backward 未给算子或模型，股票题未说明交易条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-379",
+      "originalTitle": "【单例模式】手写单例模式：饿汉式、懒汉式；他们有什么区别？ 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L654",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-380",
+      "originalTitle": "【完美转发】完美转发std::forward。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L655",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-381",
+      "originalTitle": "【常量合并】如果有个常量被很多地方共用，你怎么判断能不能融？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L656",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“融”未定义，缺少常量类型与具体操作。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-382",
+      "originalTitle": "【异常安全】析构函数抛出异常会导致什么情况？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L657",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-383",
+      "originalTitle": "【括号生成】代码：22.括号生成。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-384",
+      "originalTitle": "【数据结构设计】如何设计一种数据结构，既支持快速插入又支持范围查询？请用Java代码实现，并说明如何设计座位和区间。 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L659",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-385",
+      "originalTitle": "【数据集抽象】灵活的数据集抽象? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L660",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“灵活的数据集抽象”未说明访问协议、数据源与变化要求。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-386",
+      "originalTitle": "【文本分块算法】手写简易文本Chunking分割算法，实现固定长度+语义约束的文本分块。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L661",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-387",
+      "originalTitle": "【最长连续序列与合并区间杂交题】code 原创题,并不难。像lc128最长连续序列和lc56合并区间的杂交版 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L662",
+      "reviewStatus": "needs_review",
+      "reviewNote": "原文仅称题目类似LC128与LC56的组合，没有说明具体输入、输出及保留规则，无法确定组合后的任务要求。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-388",
+      "originalTitle": "【泛型函数右值引用】为什么泛型函数也需要右值引用? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L663",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-389",
+      "originalTitle": "【虚表查找】基类指针如何找到实际对象的虚表? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L668",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-390",
+      "originalTitle": "【贪心算法】手撕：Maximum Number of Integers to Choose From a Range I 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L669",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-391",
+      "originalTitle": "【采样算法】手撕bucket sampler。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L670",
+      "reviewStatus": "needs_review",
+      "reviewNote": "bucket sampler 未给分桶依据、抽样与组批规则或接口。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-392",
+      "originalTitle": "【锦标赛算法】实现tournament，根据比赛流程，最后打印一个表格出来。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L671",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明比赛赛制，以及输出表的字段与输入结果。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-393",
+      "originalTitle": "【项目实践】实际运行项目，不要只是分析。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L673",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-394",
+      "originalTitle": "【DeepResearch伪代码】写一下DeepResearch伪代码（可能指类似Deep Research的搜索或推理流程）。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L678",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-395",
+      "originalTitle": "【TopK与BatchNorm实现】上来就写题：1. LeetCode找TopK（即求数组中第K大或前K大元素）；2. 任一深度学习框架实现BatchNorm（Batch Normalization）的前向和反向传播。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L679",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-396",
+      "originalTitle": "【前端AI助手页面开发】做一个前端的AI助手页面。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L681",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-397",
+      "originalTitle": "【协程生命周期】比如一段用协程实现的数据加载方案，需要你发现生命周期管理有没有隐患？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L682",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-398",
+      "originalTitle": "【多线程、LRU、日志系统】写一个多线程的简单题（好像是RWLock，记不清了）；写一个LRU缓存；写一个迷之日志系统，场景题。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L684",
+      "reviewStatus": "confirmed",
+      "reviewNote": "多线程任务未明确锁接口；日志系统未给输入输出与保障条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-399",
+      "originalTitle": "【完美矩形变体】力扣完美矩形变体（原题：判断多个矩形能否恰好覆盖一个大矩形，无重叠无空隙；变体可能增加条件或改变输出）。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L685",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源提到变体，但未提供新增条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-400",
+      "originalTitle": "【文本分块算法】实现一段超长文本（可能几千万字）的切分，规则：1. 每段有最大长度K，段落以标点结束；2. 如果某段到了K还没遇到标点，就向后找最近的标点作为段尾（此时允许超过K）；3. 如果相邻几个短句加起来不超过K，要尽量合并成一段，让长度尽量接近K。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L686",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本变体K是允许为标点边界延后的目标长度，不能实现为遇K立即硬切；相邻短句应在约束下尽量合并。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-401",
+      "originalTitle": "【智力题、二叉树路径和、GRPO伪代码】三个code: 1. 智力题（具体题目未给出）；2. 二叉树中路径和为target的路径数量（路径从根节点到叶子节点？或任意节点到任意节点？需明确）；3. GRPO伪代码。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L687",
+      "reviewStatus": "confirmed",
+      "reviewNote": "智力题缺题干；树路径计数未说明路径的起终点与方向。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-402",
+      "originalTitle": "【通配符匹配】手撕LeetCode Hard难度题目44通配符匹配（非Hot100原题）。实现通配符匹配，支持'?'匹配单个字符，'*'匹配任意字符序列（包括空序列）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L688",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-14-403",
+      "originalTitle": "【异常检测】请设计一个算法高效地从海量交易流水中检测异常模式(如欺诈交易)。简述你的思路、用到的核心算法和复杂度分析。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L693",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

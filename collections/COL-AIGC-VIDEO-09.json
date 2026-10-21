@@ -1,0 +1,145 @@
+{
+  "id": "COL-AIGC-VIDEO-09",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 09_数据集与性能评测",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-VIDEO-09-001",
+      "originalTitle": "1.MAGI-1模型在训练和推理过程中使用了哪些优化技术？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-002",
+      "originalTitle": "2.MAGI-1模型在处理大规模数据时是如何进行数据预处理的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-003",
+      "originalTitle": "3.MAGI-1在“视频延续”任务中的表现如何？与其他方法对比有何优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-004",
+      "originalTitle": "4.MAGI-1的“可控镜头过渡”功能如何实现？其应用场景是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-005",
+      "originalTitle": "5.MAGI-1的“Prompt-Enhancement”策略如何提升生成质量？其局限性是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L74",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-006",
+      "originalTitle": "6.MAGI-1如何验证其物理合理性？具体测试案例有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-007",
+      "originalTitle": "7.AI视频生成技术性能评测中一般使用哪些指标？为什么选择这些指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-008",
+      "originalTitle": "9.HunyuanVideo-Avatar的训练数据是如何筛选和预处理的？具体使用了哪些工具或方法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L117",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-009",
+      "originalTitle": "10.为什么需要过滤低亮度或低美学的视频？这对生成结果有何影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-010",
+      "originalTitle": "11.用户研究（主观评价）如何设计？为何选择这四个维度（LS、IP、FBN、FCN）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-011",
+      "originalTitle": "12.如果数据集中存在长尾分布（如某些情感或风格样本极少），如何改进训练策略？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-012",
+      "originalTitle": "13.如何评估模型在跨文化场景下的表现？（如不同种族、语言的音频驱动）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-013",
+      "originalTitle": "14.为何选择FVD而非传统的PSNR/SSIM评估视频质量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L183",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-014",
+      "originalTitle": "15.如何设计全面的视频生成/编辑模型评估指标体系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-015",
+      "originalTitle": "1.Ref-SAV数据集是如何设计的？它在Sa2VA模型的训练中起到了什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-016",
+      "originalTitle": "2.Sa2VA使用了哪些数据集进行训练和评估？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-017",
+      "originalTitle": "3.Ref-SAV数据集的特点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-018",
+      "originalTitle": "4.Sa2VA在多个基准上的实验结果如何？这些结果展示了Sa2VA的哪些优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-019",
+      "originalTitle": "5.Sa2VA的训练策略是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L270",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-020",
+      "originalTitle": "6.Sa2VA还可以如何进一步提升性能？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-09-021",
+      "originalTitle": "7.阐述Video-LLMs的评估指标体系，包括自动评估和人工评估的具体方案",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md#L282",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

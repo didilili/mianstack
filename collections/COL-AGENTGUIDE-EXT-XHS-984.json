@@ -1,0 +1,2068 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-984",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 深度学习基础汇编",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training",
+    "coding"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-001",
+      "originalTitle": "【损失函数与激活函数】写出sigmoid公式、softmax公式。多分类的分类损失函数（结合Softmax）是什么？请写出loss函数。 「百度、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L996",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-002",
+      "originalTitle": "【深度学习模型概述】了解的深度学习模型还有哪些？请列举并简要说明。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L997",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-003",
+      "originalTitle": "【激活函数与FFN】DNN整体结构，输出层激活函数有哪些？FFN（前馈神经网络）的作用是什么？其维度如何？FFN常用激活函数（如ReLU）的公式、用法及存在的问题。常见激活函数有哪些？请列出并说明。 「京东、字节跳动、拼多多、美团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L998",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-004",
+      "originalTitle": "【Adam优化器公式】优化器了解吗，adam公式 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1003",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-005",
+      "originalTitle": "【CV与NLP对比】CV和NLP的区别与联系？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1004",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-006",
+      "originalTitle": "【Dropout】请介绍Dropout的原理、功能、优势、使用位置（哪些层或结构），并说明训练阶段与推理阶段的区别（预测阶段能否使用？为什么？）。 「字节Seed、字节跳动、百度、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1005",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-007",
+      "originalTitle": "【Encoder-Decoder区别】encoder与decoder的区别是什么？请分别介绍encoder和decoder。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1006",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-008",
+      "originalTitle": "【FFN与残差连接意义】FFN层&shortcut结构的意义？介绍一下FFN快计算公式？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1007",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-009",
+      "originalTitle": "【FFN升维降维原因】FFN为什么要先升维再降维？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1008",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-010",
+      "originalTitle": "【GeLU计算公式】介绍一下GeLU计算公式？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1009",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-011",
+      "originalTitle": "【LLM激活函数】各LLMs都使用哪种激活函数？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1010",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-012",
+      "originalTitle": "【NumPy矩阵运算】了不了解numpy矩阵运算的原理 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1011",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-013",
+      "originalTitle": "【Pooling方式】最后怎么pooling的，是average pooling还是sum pooling？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1012",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给末端 pooling 的张量或任务，仅关联已明确的平均/求和聚合选择。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-014",
+      "originalTitle": "【Sigmoid在MLP中的问题】MLP中激活函数为什么不用sigmoid，有什么问题么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1013",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-015",
+      "originalTitle": "【Softmax函数】手撕 softmax 函数；Softmax和交叉熵损失怎么计算？二值交叉熵呢？Softmax计算时指数上溢如何解决？防止数据溢出的公式是什么？介绍Softmax函数的原理、作用及实现。比较Softmax和Sigmoid的区别，并说明在什么情况下可以用Softmax替代Sigmoid？ 「京东、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1014",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-016",
+      "originalTitle": "【Swish计算公式】介绍一下Swish计算公式？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1015",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-017",
+      "originalTitle": "【交叉熵与Softmax关系】交叉熵损失为什么常和Softmax一起使用? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1016",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-018",
+      "originalTitle": "【全零初始化问题】在神经网络（如MLP）中，如果所有权重初始化为0，会发生什么？为什么？训练结果会怎么样？ 「京东、字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1017",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-019",
+      "originalTitle": "【前向传播】前向怎么做？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1018",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-020",
+      "originalTitle": "【参数共享】如何区分软共享和硬共享？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1019",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-021",
+      "originalTitle": "【参数量计算】模型参数量怎么算？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1020",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-022",
+      "originalTitle": "【残差连接】残差是什么？残差连接的作用是什么？ 「京东、字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1021",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-023",
+      "originalTitle": "【残差连接作用】为什么深层网络需要残差连接？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1022",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-024",
+      "originalTitle": "【深度学习发展原因】传统神经网络、机器学习早在7、80年代提出，你觉得为什么现在才成熟甚至突然发展这么快？什么因素造成的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1023",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-025",
+      "originalTitle": "【端到端学习】到底什么是端到端? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1024",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-026",
+      "originalTitle": "【DropPath】是否了解DropPath？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1029",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-027",
+      "originalTitle": "【Embedding原理】提问PyTorch里面embedding的原理，具体底层原理怎么实现的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1030",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-028",
+      "originalTitle": "【Encoder与缩放】Encoder或者去scale数据或模型参数不行吗？讨论缩放的必要性。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1031",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明去 scale 的操作与计算对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-029",
+      "originalTitle": "【FFN加宽注意事项】FFN加宽是直接加宽就ok了吗？需要注意什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1032",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-030",
+      "originalTitle": "【FFN结构与SwiGLU】FFN结构与SwiGLU： 1. FFN一般是几层，中间的非线性变化是什么？现在变成了SwiGLU，优势是什么？ 2. 手写SwiGLU；SwiGLU激活函数相比GeLU有什么优势？ 3. 介绍使用GeLU的GLU块计算公式、使用GLU线性门接单元的FFN块计算公式、使用Swish的GLU块计算公式。 「字节跳动、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1033",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-031",
+      "originalTitle": "【LoRA初始化与更新】LoRA初始化与更新： 1. LoRA初始化时，通常将B初始化为0、A随机初始化（如高斯分布），使得初始ΔW=BA=0，训练初期等于原模型。为什么这种初始化很重要？如果A全0初始化、B随机初始化，或者B=0（即B初始化为0但A非零），会发生什么？ 2. LoRA里AB矩阵怎么初始化怎么更新？ 「字节跳动、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1034",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-032",
+      "originalTitle": "【MLP实现】手写MLP，用PyTorch实现，然后追问：如果要把这个MLP用在图像上，你怎么修改？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1035",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-033",
+      "originalTitle": "【MoE与Dense对比】MoE与Dense对比： 1. MoE相比Dense有什么好处？ 2. 分别讲一下Dense模型和MoE模型以及二者的区别？做业务的时候，如何选择dense模型还是moe模型？ 「腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1036",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-034",
+      "originalTitle": "【MoE架构】解释MoE（Mixture of Experts）架构，包括其优缺点、与Dense模型的区别、路由机制（Router的设计）、负载均衡损失（Load Balancing Loss）的计算方式，以及它的特点和优势。 「字节跳动、美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1037",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-035",
+      "originalTitle": "【nn.Module继承】继承 nn.Module 时为什么要调用 super()？自建模型继承什么类？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1038",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-036",
+      "originalTitle": "【RMSNorm】手写RMSNorm层。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1039",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-037",
+      "originalTitle": "【Sampled Softmax】介绍一下sampled softmax。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1040",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-038",
+      "originalTitle": "【Softmax数值稳定性】如果softmax的e次方超过float的值了怎么办？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1041",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-039",
+      "originalTitle": "【softmax除法原因】都有softmax了为什么还要除？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1042",
+      "reviewStatus": "needs_review",
+      "reviewNote": "没有给出Softmax后或前的除法对象/分母，无法确定是注意力缩放、归一化还是其他计算。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-040",
+      "originalTitle": "【ViT参数量计算】手撕:写一个计算ViT参数量的函数，自己定义输入(层数、纬度等)输出模型总参数量。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1043",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-041",
+      "originalTitle": "【两层神经网络】手撕两层神经网络，要求自己定义参数矩阵实现前向传播和反向传播（自己求梯度）。 「字节Seed、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1044",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-042",
+      "originalTitle": "【二分类网络实现】手写一个二分类网络，用PyTorch实现。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1045",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-043",
+      "originalTitle": "【交叉熵实现】交叉熵的代码手写。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1046",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-044",
+      "originalTitle": "【任务共享专家】如何确定是否使用任务共享专家？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1047",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-045",
+      "originalTitle": "【优化器选择与调整】你了解哪些优化器么？Adagrad，Adam你在什么情况下会去调整优化器？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1048",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-046",
+      "originalTitle": "【前馈层实现】手撕题:用np实现一个神经网络的前馈层，四层全连接，2-3个激活函数，loss函数 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1049",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-047",
+      "originalTitle": "【参数共享影响】用同一个矩阵有什么影响？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1050",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明矩阵的用途与绑定对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-048",
+      "originalTitle": "【参数初始化与神经元参数】预估点击率场景，输入x，label y是否点击，用DNN拟合，训练的模型参数初始化方法有哪些？神经元里有哪些参数（w,b）？能不能让a b矩阵都高斯初始化？k1和b参数分别控制什么？ 「美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1051",
+      "reviewStatus": "confirmed",
+      "reviewNote": "A/B 矩阵与 k1 所指未说明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-049",
+      "originalTitle": "【反向传播】手动实现并推导神经网络反向传播的过程。包括BP算法、梯度计算与传播。 「拼多多、百度、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1052",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-050",
+      "originalTitle": "【多分类训练】手写神经网络实现多分类训练。 「MiniMax」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1053",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-051",
+      "originalTitle": "【损失函数选择】用什么loss？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1054",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明任务与预测输出，无法确定实际 loss。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-052",
+      "originalTitle": "【最大似然估计】怎么理解深度学习损失函数中的“最大似然估计”(MLE)？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1055",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-053",
+      "originalTitle": "【模块结构】你设计的这两个模块你能详细介绍一下什么结构吗，发挥了什么作用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1056",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“这两个模块”未给名称、输入与结构。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-054",
+      "originalTitle": "【模型架构设计】模型的具体架构以及为什么要这么做？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1057",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-055",
+      "originalTitle": "【残差连接】残差连接解决了什么问题？残差项处理细节？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1058",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-056",
+      "originalTitle": "【残差连接与层归一化顺序】残差连接与层归一化顺序：a(x)+LayerNorm(x)还是LayerNorm(x+a(x))？为什么这样选择？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1059",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题给出的式子不完整，未明确 Pre/Post 等归一化约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-057",
+      "originalTitle": "【残差连接初始化】对于残差连接层的权重的初始化有了解吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1060",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-058",
+      "originalTitle": "【求和操作】深度学习中哪里会遇到对第一个axis求和？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1061",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-059",
+      "originalTitle": "【温度参数】温度参数的原理； 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1062",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-060",
+      "originalTitle": "【神经网络层算子】每一层都有什么算子？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1063",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-061",
+      "originalTitle": "【计算图】计算图的构建，动态图与计算图。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1064",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-062",
+      "originalTitle": "【训练与推理区别】训练和推理的区别？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1065",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-063",
+      "originalTitle": "【训练过程】算法模型训练的过程？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1066",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-064",
+      "originalTitle": "【通道注意力机制实现】你提到里面有一个自动的通道注意力机制，怎么实现的呢？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1069",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源只明确通道注意力，未指定 SENet、ECA 或其他权重生成结构。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-065",
+      "originalTitle": "【重参数化技巧】重参数化技巧原理？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1070",
+      "reviewStatus": "needs_review",
+      "reviewNote": "重参数化可指概率采样、权重参数化或部署结构变换；原文未给噪声/模型以消歧。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-066",
+      "originalTitle": "【门控数量】那你觉得可以不用两个gate吗 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1071",
+      "reviewStatus": "needs_review",
+      "reviewNote": "没有给两个gate所属模型及输出/共享关系，无法判断能否删去一个。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-067",
+      "originalTitle": "【门控机制目的】门控机制是为了解决什么提出的？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1072",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-068",
+      "originalTitle": "【非线性来源】非线性由什么来提供？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1073",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-069",
+      "originalTitle": "【LoRA实现】手撕 LoRA，现场发邮箱题目链接，和面试是两个页面。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1078",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-070",
+      "originalTitle": "【Mixup与Affn】手撕简单写了 mixup和 affn，还是rankmixer的内容。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1079",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未定义 mixup/affn 所指模块，无法确定其与 RankMixer 的对应关系。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-071",
+      "originalTitle": "【MMoE专家趋同】如何解决MMoE输出特征一样，专家的参数最终会趋于一致的现象？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1080",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-072",
+      "originalTitle": "【MoE实现】手撕MoE。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1081",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-073",
+      "originalTitle": "【MoE极化】多专家网络极化问题。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1082",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“极化”未给具体观测或指标，仅关联已明确的多专家路由/失衡诊断。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-074",
+      "originalTitle": "【Online Softmax】请解释Online Softmax与普通Softmax的区别、应用原因，并说明其数值稳定性如何处理，同时手撕实现Online Softmax。 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1083",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-075",
+      "originalTitle": "【RankMixer动机】为什么要做rankmixer？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1084",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-076",
+      "originalTitle": "【Softmax C++实现】实现Softmax的CPU C++实现，模版 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1085",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-077",
+      "originalTitle": "【低秩分解】你认为什么情况下这个矩阵适合用低秩分解？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1086",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-078",
+      "originalTitle": "【参数初始化与损失函数】参数都是0会发生什么，1行不行，参数为1的模型跟正常模型训练效果什么区别 针对这个场景介绍你知道的优化器，损失函数会选择什么，为什么选择BCE，为什么不能用MSE code:最大乘积子数组？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1087",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-079",
+      "originalTitle": "【手撕多种模块】手撕IOU、NMS、正向卷积、池化、BN、resnet、FCN、多头注意力。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1088",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-080",
+      "originalTitle": "【正交基约束】如何使得一个输入向量x在经过一个或多个全连接层后，其输出向量y所在子空间基底尽可能接近标准正交基？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1089",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未明确要约束权重、表示样本还是子空间基，也未给维数条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-081",
+      "originalTitle": "【链式法则与矩阵求导】求偏导 y=f(C); C=AB; A输入、B参数、f激活函数、y输出，已知y对C的偏导是P，求y对B的偏导矩阵大小: A[m,k]; B[k,n]; C[m,n]; P[m,n] 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1090",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-082",
+      "originalTitle": "【CNN基础】1. 介绍CNN的结构和优点。2. 解释感受野的概念。 「拼多多、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1097",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-083",
+      "originalTitle": "【CNN应用】CNN能不能做语言模型？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-084",
+      "originalTitle": "【CNN模型变体】基于CNN的模型有哪些，各自的区别？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-085",
+      "originalTitle": "【图像预处理】为什么要resize到28的倍数？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1104",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-086",
+      "originalTitle": "【梯度消失】问为什么卷积网络可能出现梯度消失的现象？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-087",
+      "originalTitle": "【跳跃连接】跳跃连接中特征图融合的方式？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1106",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-088",
+      "originalTitle": "【轻量化网络】有哪些经典的轻量化网络？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-089",
+      "originalTitle": "【CNN与ViT对比】CNN的计算过程、ViT的计算过程，CNN和ViT的区别是什么？分别在哪一部分有效？Transformer和传统CNN的区别，优势点在哪？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-090",
+      "originalTitle": "【SENet】SENet如何增强特征？请解释其工作原理，并说明是否观察过SENet的结果？ 「京东、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-091",
+      "originalTitle": "【卷积实现与ResNet】手写2D卷积的实现过程（不能用API，要写滑窗逻辑）。手撕torch系列：ResNet（深度残差网络）原理及代码实现（基于Pytorch）。 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-092",
+      "originalTitle": "【LSTM与GRU对比】LSTM的结构、解决的问题及与GRU的区别。具体包括：1. LSTM如何通过门控机制（遗忘门、输入门、输出门）和细胞状态解决RNN梯度消失问题？2. GRU相比LSTM的简化结构（重置门、更新门）及两者在参数量、计算效率、性能上的差异。3. RNN梯度消失的原因（激活函数导数小于1、时间步长导致连乘效应）及LSTM/GRU的缓解原理。 「百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-093",
+      "originalTitle": "【序列建模方法】常见的序列建模方式有哪些？包括但不限于：RNN、LSTM、GRU、双向RNN、注意力机制、Transformer、CNN（如TCN）、图神经网络（如用于序列的GNN）等，并简要说明各自特点。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-094",
+      "originalTitle": "【LSTM离散特征处理】LSTM离散特征处理：项目中LSTM如何处理离散特征（如嵌入层、one-hot编码、特征工程等）。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-095",
+      "originalTitle": "【双向RNN实现】双向RNN实现：BiGRU的结构，双向过程的具体实现（前向和后向隐藏状态拼接），以及双向与重建过程的区别。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1132",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“双向与重建过程”未给重建任务，双向状态组合可识别，比较对象的细节另保留缺口。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-096",
+      "originalTitle": "【序列建模与时间理解】序列建模与时间理解机制：包括LSTM与Transformer的区别；长期短期记忆机制（如何实现短期、中期、长期记忆）；解决序列时序问题的方法；除LSTM外其他序列建模方法（如GRU、Transformer、TCN等）；模型如何理解时间（位置编码、时间步、门控机制等）。 「京东、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-097",
+      "originalTitle": "【Transformer时序预测与长序列建模】1. 时序预测和Transformer怎么结合？2. 长序列建模知道哪些simtwintwinv2？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1138",
+      "reviewStatus": "confirmed",
+      "reviewNote": "simtwintwinv2 未给出可定位的论文或模型。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-098",
+      "originalTitle": "decodelayer手撕 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1147",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题仅要求 Decoder 层实现，未明确是否包含 encoder 交叉注意力。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-099",
+      "originalTitle": "【Attention作用】attention机制可以带来什么作用？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1155",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-100",
+      "originalTitle": "【Attention公式】写出attention公式。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1156",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-101",
+      "originalTitle": "【QKV概念】经典QKV？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1157",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-102",
+      "originalTitle": "【Self-Attention基本概念】介绍self-attention。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1158",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-103",
+      "originalTitle": "【Transformer/Bert/GPT】Transformer/Bert/GPT介绍一下 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1159",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-104",
+      "originalTitle": "【Transformer了解】正好提到Transformer，你有了解过吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-105",
+      "originalTitle": "【Transformer整体介绍】简述Transformer模型的整体结构及其工作原理。 「字节Seed、字节跳动、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-106",
+      "originalTitle": "【Transformer架构概述】介绍Transformer架构。 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-107",
+      "originalTitle": "【位置编码必要性】为什么要用位置编码？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1163",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-108",
+      "originalTitle": "【注意力机制】讲一下Transformer的注意力机制？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1164",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-109",
+      "originalTitle": "【注意力计算】注意力怎么算？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1165",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-110",
+      "originalTitle": "【Add & Norm】Transformer中的Add&Norm模块，具体是怎么做的？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-111",
+      "originalTitle": "【Attention Mask】Attention Mask的作用是什么？如何实现？Decoder的mask是怎么添加的，目的是什么？在预测next word时需要注意什么（mask机制）？Encoder和Decoder中的多头注意力机制有何不同？它们的注意力是否全局可见？掩码有何不同？表现是否一致？ 「京东、字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1171",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-112",
+      "originalTitle": "【Attention vs Self-Attention】Attention和self attention的区别？Self-Attention和Cross-Attention在作用上有什么区别？请对比其他注意力机制，并说明Qwen使用的是哪一种注意力？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1172",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-113",
+      "originalTitle": "【Attention复杂度】Attention的时间和空间复杂度是多少？为什么随着序列变长耗时增加很快？MHA的时间复杂度是多少？ 「字节Seed、字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1173",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-114",
+      "originalTitle": "【Attention缩放原因】Transformer中self-attention的计算过程是怎样的？为什么softmax之前要对点积结果进行缩放（除以√d_k）？除以d_k行不行？可以除以其他数吗？有没有等价的方法？ 「京东、字节Seed、字节跳动、拼多多、百度、百度文心、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1175",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-115",
+      "originalTitle": "【Encoder-Decoder交互】Decoder的因果注意力中，Q、K、V分别来自哪里？Transformer decoder和encoder有哪些不同的地方？cross attention中q,k,v分别来自哪里？Encoder端和Decoder端是如何进行交互的？ 「字节跳动、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1176",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-116",
+      "originalTitle": "【Encoder-Decoder区别与Mask】Transformer里encoder和decoder的主要区别在哪里，为什么要做mask？ 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-117",
+      "originalTitle": "【FFN维度】FFN为什么通常是4×dim? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-118",
+      "originalTitle": "【Multi-Head Attention优点】MHA的优点？Transformer中Multi-Head Attention的作用是什么? 「京东、百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-119",
+      "originalTitle": "【QKV作用】Transformer架构中Q、K、V矩阵各自有什么作用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1180",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-120",
+      "originalTitle": "【Q与K不同原因】为什么使用不同的K和Q，为什么不能使用同一个值？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1181",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-121",
+      "originalTitle": "【Self-Attention原理与QKV】Attention是什么，如何计算？请说明Multi-Head Attention (MHA) 的具体实现，以及Self-Attention的计算流程、公式和原理，如何解决长距离依赖问题？讲一下Self-Attention的实现原理，为什么要分成Q、K、V三个向量？讲一下Self-Attention的机制，进一步追问。为什么attention score要除以根号d，以及多头注意力相比单头注意力的优势？QKV具体是怎么设计出来的？它们是什么，有什么区别？ 「京东、字节Seed、字节跳动、百度、美团、腾讯混元、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1182",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-122",
+      "originalTitle": "【Softmax与QKV机制】能先介绍一下Softmax函数吗？然后整体讲讲Transformer模型，特别是里面的QKV(Query, Key, Value)机制，能详细说说这个过程吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1183",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-123",
+      "originalTitle": "【Transformer vs LSTM】LSTM能够捕获长期依赖性，Transformer是如何解决这一问题的? 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1184",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-124",
+      "originalTitle": "【Transformer vs RNN】Transformer相比RNN有什么优势？请从底层原理角度解释为什么Transformer能替代RNN，并说明两者的区别和优势。 「京东、美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1185",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-125",
+      "originalTitle": "【Transformer优势与Attention动机】Transformer对比其他深度学习模型（如MLP）的优势是什么？Attention机制要解决什么问题？ 「美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1186",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-126",
+      "originalTitle": "【Transformer优缺点】Transformer的优缺点？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1187",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-127",
+      "originalTitle": "【Transformer借鉴来源】Transformer里面哪些东西是借鉴前人工作的？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-128",
+      "originalTitle": "【Transformer层结构】Transformer层的结构是什么？请说明其forward计算包含哪些部件，并描述Transformer的架构和Transformer Block。 「字节Seed、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1189",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-129",
+      "originalTitle": "【Transformer并行化】请谈谈Transformer是如何实现并行化计算的。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1190",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-130",
+      "originalTitle": "【Transformer整体结构】请详细描述Transformer的结构，包括其整体架构、各个组件（如自注意力机制、多头注意力、位置编码、前馈神经网络、层归一化、残差连接等）及其作用，并说明编码器和解码器的组成与工作流程。 「京东、拼多多、美团、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1191",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-131",
+      "originalTitle": "【Transformer组件心得】Transformer的作用，解码器的mask，多头注意力，自我注意力机制，你最有心得的是哪部分？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1193",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-132",
+      "originalTitle": "【位置编码】为什么要用正弦余弦位置编码（sin_cos）？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1194",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-133",
+      "originalTitle": "【位置编码必要性】Transformer为什么需要位置编码？输入的序列本来就有先后顺序，为什么还要加position embedding？这对模型理解相对位置有什么帮助？讲一下Transformer以及位置编码。 「京东、字节跳动、拼多多、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-134",
+      "originalTitle": "【位置编码比较】比较常用的位置编码的方式？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1196",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-135",
+      "originalTitle": "【多头注意力动机】能否解释Transformer使用多头注意力机制的动机？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-136",
+      "originalTitle": "【核心机制与模块】Transformer的核心机制和核心模块是什么？ 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-137",
+      "originalTitle": "【残差连接】Transformer的残差作用在哪里? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1199",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-138",
+      "originalTitle": "【注意力与MLP计算量比较】相较于MLP、注意力的计算量如何 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1200",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-139",
+      "originalTitle": "【注意力复杂度】自注意力机制的计算复杂度是多少？请给出其公式并说明复杂度。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-140",
+      "originalTitle": "【注意力机制与多头注意力】介绍Transformer中的注意力机制，包括：1. 注意力机制的基本概念、公式（Q、K、V）及直观理解，为什么除以√dk，为什么减去max_x（数值稳定），Softmax后与V相乘的过程。2. 自注意力（self-attention）和交叉注意力（cross-attention）的区别与作用。3. 多头注意力（Multi-Head Attention）的结构：如何分头、如何拼接、多头优势（为什么单头不行）、注意力分数的物理意义、注意力层中的权重。4. 掩码注意力：因果自注意力（Causal Self-Attention）的掩码形式、掩码注意力的作用。5. Transformer前向过程及每一步输入输出形状。 「京东、字节Seed、字节跳动、百度、百度文心、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1202",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-141",
+      "originalTitle": "【注意力机制细节】注意力机制具体怎么做的？说下attention计算公式，softmax去掉有什么影响？ 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1203",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-142",
+      "originalTitle": "【温度系数作用】温度系数t的作用？温度系数还有什么作用场景？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-143",
+      "originalTitle": "【线性层层数】Transformer中线性层有几层？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1205",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-144",
+      "originalTitle": "【缩放因子原因】注意力分数矩阵QKT为什么要除以sqrt(dk)？并说明Transformer相比RNN和CNN在长依赖、并行计算和表达能力上分别解决了哪些核心问题？同时解释Encoder和Decoder的结构区别及各自适用场景。 「京东、字节跳动、百度、美团、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1206",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-145",
+      "originalTitle": "【自注意力与交叉注意力】自注意力交叉注意力? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1207",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-146",
+      "originalTitle": "【自注意力与多头注意力适用场景】自注意力和多头注意力分别适用于什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1208",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-147",
+      "originalTitle": "【自注意力机制】Transformer的自注意力机制是什么？请介绍其过程。Transformer自注意力输出是什么？ 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-148",
+      "originalTitle": "【自注意力机制详解】自注意力机制(Self-Attention) 22:详细解释Transformer 中的自注意力机制(Self-Attention)，并阐述其计算过程和优势。自注意力机制请再介绍的细一点。自注意力机制的数学逻辑？ 「京东、美团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-149",
+      "originalTitle": "【解码器KV来源】解码器处的K、V矩阵来自哪里？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1211",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-150",
+      "originalTitle": "【Attention变体】Attention变体有哪些？请介绍其原理。 「百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-151",
+      "originalTitle": "【Attention变体对比】介绍多头注意力后续的发展，包括MHA、MQA、GQA、MLA的区别；什么是Grouped-query Attention？请对比这四种注意力机制。 「字节跳动、百度、腾讯混元、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-152",
+      "originalTitle": "【Attention局限性】传统Attention存在哪些问题？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-153",
+      "originalTitle": "【Attention本质】Attention的数学本质是什么？Transformer中Attention的本质是什么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1219",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-154",
+      "originalTitle": "【Attention缩放因子】在Transformer的Multi-Head Attention中，计算attention分数时为什么要除以√d_k（或√d）？请从两个方向回答：一是解释除以√d_k如何防止softmax数值上溢/下溢，二是说明其与方差稳定性的关系。同时，请给出attention公式，并说明softmax的作用。 「京东、美团、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1220",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-155",
+      "originalTitle": "【Decoder特征提取问题】Decoder结构在提取特征方面会存在什么问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1221",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-156",
+      "originalTitle": "【DiN注意力特点】DiN这个attention有什么特点？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-157",
+      "originalTitle": "【Encoder-Decoder优势】Encoder-Decoder架构(如T5)在哪些场景下更有优势? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1223",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-158",
+      "originalTitle": "【LoRA】LoRA的公式是什么，如何初始化，为什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1224",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-159",
+      "originalTitle": "【LoRA初始化】LoRA的原理是什么？A和B两个矩阵怎么初始化？有了解过其他的初始化方法吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1225",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-160",
+      "originalTitle": "【LoRA原理与缺点】为什么要做LoRA？介绍其原理和缺点。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-161",
+      "originalTitle": "【LoRA变体对比】与标准LoRA区别？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1227",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明与 LoRA 比较的另一种变体。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-162",
+      "originalTitle": "【MHA/MQA/GQA区别】1. GQA(Grouped-Query Attention)的原理是什么？它又是怎么实现的？2. 讲一下 MHA、MQA、GQA 的区别，以及它们在推理效率和显存占用上的差异。3. 介绍一下Multi-Query Attention？ 「字节跳动、百度、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-163",
+      "originalTitle": "【MHA参数量】multi-head attention的计算参数量是多大？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-164",
+      "originalTitle": "【MHA复杂度与Tokenization】推导多头注意力的时间/空间复杂度。底层细节：Tokenization是如何工作的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-165",
+      "originalTitle": "【MHA实现】1. 手撕MHA代码 2. 手撕multi-head attention（MHA），使用PyTorch实现。 「京东、字节Seed、字节跳动、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-166",
+      "originalTitle": "【MHA问题】Multi-head Attention存在什么问题？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1232",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-167",
+      "originalTitle": "【Padding Mask】在计算attention score的时候如何对padding做mask操作？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1233",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-168",
+      "originalTitle": "【Pre-Norm vs Post-Norm】Transformer中FFN等模块的顺序是什么？Pre-Norm和Post-Norm的设计差异是什么？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-169",
+      "originalTitle": "【QKV矩阵共享】QKV矩阵共享：其中的三个矩阵可以用同一个吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-170",
+      "originalTitle": "【RoPE位置编码】1. RoPE（旋转位置编码）的原理、核心思想及作用是什么？2. 2d RoPE是什么？和1d RoPE区别是什么？RoPE位置编码为什么起作用？ 「字节跳动、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-171",
+      "originalTitle": "【Scaled Dot-Product Attention】1. 手写attention: scale为什么除以√dk而不是dk? 2. Attention为什么要scaled（除以√dk）？不做会怎样？为什么选择除以√dk而不是其他值？在多头注意力机制下，√dk是否需要变化？请结合Transformer架构介绍Scaled Dot-Product Attention的计算公式，并解释除以√dk的核心作用。 「字节跳动、拼多多、百度、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-172",
+      "originalTitle": "【Self-Attention实现】1. Attention机制包含哪些核心算子？请用PyTorch简单搭建一个Self-Attention模块的伪代码，并解释每个算子的作用。2. Attention算子的实现。3. 手撕self-attention，要求用矩阵乘法实现。 「百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1238",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-173",
+      "originalTitle": "【SwiGLU】SwiGLU 融合减少了什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1239",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-174",
+      "originalTitle": "【Transformer与Attention】Transformer的并行化讲一讲；编码器和解码器的注意力有什么区别；在计算注意力时为什么要除以sqrt{d_k}？ 「腾讯、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-175",
+      "originalTitle": "【Transformer与RNN/LSTM对比】请阐述Transformer模型的核心思想（自注意力机制），并分析其在处理长序列数据时相比RNN/LSTM的优势与潜在挑战。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-176",
+      "originalTitle": "【Transformer前向流程】如果从一句输入到输出完整走一遍流程，你会怎么串 embedding、位置编码、attention和FFN？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-177",
+      "originalTitle": "【Transformer参数与计算量】Transformer中参数都分布在哪里，参数量最大的是哪部分？计算量最大的是哪部分，为什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-178",
+      "originalTitle": "【Transformer架构与强化学习】Transformer的架构（attention的原理、模型还包含哪些构件，分别有什么作用），强化学习的模型、分类（on-policy和off-policy的区别和举例）和原理。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1244",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-179",
+      "originalTitle": "【Transformer架构变体】Transformer架构(encoder-only、decoder-only、encoder-decoder各自优缺点，模型举例)。Encoder如何实现？Encoder和Decoder的区别是什么？ 「字节Seed、字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-180",
+      "originalTitle": "【主流Transformer模型】介绍主流Transformer-based模型架构。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1246",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-181",
+      "originalTitle": "【位置编码】Transformer中常用的位置编码方式有哪些？请列举并简要说明。进一步追问：除了正余弦还有什么？知不知道LLaMA？引申出推荐系统怎么做位置编码？  介绍Transformer中的位置编码，包括作用、常见方法（正弦位置编码、可学习位置编码、旋转位置编码RoPE等）及其原理，比较优缺点，特别说明相对位置编码比绝对位置好的原因，以及RoPE的原理和实现方式。 「字节跳动、拼多多、百度、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1247",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-182",
+      "originalTitle": "【单头注意力局限性】单头注意力有什么局限性？如果只使用单头注意力，可能会在哪些方面受限？ 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-183",
+      "originalTitle": "【参数量计算】Transformer的参数量怎么计算？有哪些层是有参数的？请给出参数估计方法。 「京东、百度、美团、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1249",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-184",
+      "originalTitle": "【因果掩码注意力实现】手撕：带因果掩码的缩放点积注意力前向传播代码。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1250",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-185",
+      "originalTitle": "【多头注意力变体】对比普通多头注意力（MHA），GQA是如何兼顾速度与效果的？详细讲解MHA、MQA、GQA和MLA的区别，包括原理和公式，并分析对推理速度（首字延迟、生成速度）的影响。还了解其他注意力机制吗（如Flash Attention）？ 「字节跳动、百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-186",
+      "originalTitle": "【多头注意力实现】手撕多头注意力机制（MHA），包括自注意力（self-attention）和位置编码的实现，要求使用numpy。同时说明多头注意力的优势、实现方法。实现多头自注意力。 「字节Seed、拼多多、百度、美团、腾讯、腾讯混元、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1252",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源要求实现位置编码，但未指定具体编码形式。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-187",
+      "originalTitle": "【多头注意力机制与张量形状】Transformer的多头注意力机制如何实现？请描述输入输出、self-attention计算过程、QKV的定义与计算，以及张量形状的变化（包括维度变化）。view和reshape的区别是什么？ 「字节跳动、拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1253",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-188",
+      "originalTitle": "【多尺度注意力】多尺度注意力指的是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-189",
+      "originalTitle": "【安全softmax实现】手撕safe softmax 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-190",
+      "originalTitle": "【掩码注意力】Transformer介绍，masked MHA是怎么处理的？Transformer中有哪些mask？有没有看最新的大模型论文？ 「美团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1257",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-191",
+      "originalTitle": "【旋转位置编码复数表示】为什么用复数形式表示旋转？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1258",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-192",
+      "originalTitle": "【时间复杂度分析】Transformer的计算复杂度是多少？为什么对于序列长度是O(n^2)，对hidden dim是O(d)？主要在哪一步？ 「京东、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1259",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-193",
+      "originalTitle": "【注意力分散】怎么避免注意力机制只关注某几个item？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-194",
+      "originalTitle": "【注意力机制在多模态中的应用】请解释一下注意力机制在多模态任务中的作用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-195",
+      "originalTitle": "【注意力聚焦机制】注意力聚焦机制：为什么这样会让模型更聚焦，怎么实现的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1262",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“这样”所指的聚焦方法与结构未记录。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-196",
+      "originalTitle": "【温度系数与蒸馏】温度系数的作用是什么？在蒸馏的时候，高低温度分别学到什么分布上去？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-197",
+      "originalTitle": "【稀疏/局部Attention对比】稀疏/局部Attention与全序列原生Attention相比有何区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-198",
+      "originalTitle": "【缩放点积注意力】请讲解Transformer中的并行化机制，并详细说明多头注意力（Multi-Head Attention）的具体实现步骤，以及为什么在计算注意力得分时需要对点积结果进行缩放（即除以根号dk）？ 「字节跳动、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1266",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-199",
+      "originalTitle": "【自注意力与交叉注意力顺序】项目中的backbone为什么先用自注意力再用交叉注意力？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1267",
+      "reviewStatus": "confirmed",
+      "reviewNote": "具体 backbone 和数据未给，本条仅关联 self/cross 的一般分工。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-200",
+      "originalTitle": "【自注意力与残差连接】手写自注意力，然后追问：在Attention is all you need一文中，除了Q/K/V的注意力计算，还有一个关键步骤是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-201",
+      "originalTitle": "【自注意力在音视频中的应用】请解释一下自注意力机制在音视频处理中的应用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1269",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-202",
+      "originalTitle": "【自注意力机制】手撕自注意力机制（MHA）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1270",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-203",
+      "originalTitle": "【AdaLN】AdaLN是怎么工作的，为什么t的注入用AdaLN？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-204",
+      "originalTitle": "【Attention优化】Attention优化方向？Multi-Head Attention现在有哪些主流的优化方向？每个方向下有什么优化方法？ 「腾讯混元、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-205",
+      "originalTitle": "【Attention理解与量化】attention本身怎么理解、为什么attention往往比权重更难量化。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-206",
+      "originalTitle": "【Cross-Attention】crossattention用法。cross attn的qkv分别是啥？代码：MCG模型，类似于crossattention。手撕是Cross Attention。 「百度、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1278",
+      "reviewStatus": "confirmed",
+      "reviewNote": "MCG 模型未给出论文与结构，关联仅覆盖 Cross-Attention 机制与代码。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-207",
+      "originalTitle": "【KV缓存MHA实现】手写带kvcache的MHA。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-208",
+      "originalTitle": "【MHA token mixing】手撕MHAtokenmixing 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1280",
+      "reviewStatus": "confirmed",
+      "reviewNote": "token mixing 在此未说明是一般信息混合还是具体模型模块。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-209",
+      "originalTitle": "【MHA与RoPE】手撕MHA + RoPE。实现Rotary Position Embedding (RoPE)。 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-210",
+      "originalTitle": "【MHA实现】实现Casual mask的MHA，说下计算复杂度。手写Multi-Head Attention(带Mask)。手写Multi-Head Self-Attention的实现(PyTorch或TensorFlow)。手撕mha和场景题。手撕Multi-Head Attention contiguousO的作用。 「字节跳动、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-211",
+      "originalTitle": "【MQA/GQA/MLA】实现GQA。实现MQA。MQA、GQA、MLA分别优化了什么？请手撕MQA和GQA，并说明Multi-Query Attention的好处。PLE，MMoE 讲一个了解的大模型 LoRA原理 MHA和GQA 流量很多的时候，KV Cache还可以做吗怎么做(没大听懂，不会) TRPO，PPO？ 「京东、字节跳动、百度、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1283",
+      "reviewStatus": "confirmed",
+      "reviewNote": "KV 高流量问题未给出完整负载数据。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-212",
+      "originalTitle": "【Qwen注意力实现】手撕 qwen系列 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1284",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未给出 Qwen 系列注意力代码的具体型号与版本。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-213",
+      "originalTitle": "【RankMixer】rankmixer结构介绍，对比Transformer结构优势 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-214",
+      "originalTitle": "【RoPE推导】推导RoPE。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1286",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-215",
+      "originalTitle": "【TokenMixer】TokenMixer相关： 1. 介绍TokenMixer，它与Transformer的优劣势是什么？ 2. TokenMixer具体怎么做？与MMCN的区别？ 3. 为什么没有用20M的TokenMixer？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1287",
+      "reviewStatus": "needs_review",
+      "reviewNote": "TokenMixer、MMCN 与 20M 未建立明确的模型对应。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-216",
+      "originalTitle": "【Transformer Decoder实现】手撕：实现一个Transformer Decoder。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1288",
+      "reviewStatus": "confirmed",
+      "reviewNote": "Decoder实现需先约定decoder-only或含encoder交互的seq2seq形式；原题未给接口和具体版本。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-217",
+      "originalTitle": "【Transformer Encoder】请描述Transformer encoder的结构，并手撕实现。 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-218",
+      "originalTitle": "【Transformer复杂度与加速】Transformer复杂度与加速： 1. Transformer自注意力过程计算复杂度？时间复杂度和空间复杂度。 2. 了解哪些降低训练时间复杂度的工作？ 3. 了解哪些加速方式？哪些大模型用了线性attention？具体怎么做？ 4. DeepSeek对Transformer主要做了哪些改进？ 「字节跳动、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1290",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-219",
+      "originalTitle": "【Transformer实现】手撕Transformer。 「拼多多、百度、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1291",
+      "reviewStatus": "confirmed",
+      "reviewNote": "完整 Transformer 的架构、输入与输出接口需明确。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-220",
+      "originalTitle": "【Transformer注意力机制】Transformer注意力机制综合题： 1. 介绍Transformer组件：attention（除dk layernorm、rmsnorm、ffn、swiglu、MoE、lora和初始化）、GQA。 2. 介绍MHA的几种变体及改进方法。 3. 介绍FlashAttention。 4. 介绍长序列attention。 5. 手撕：实现多头自注意力（Multi-Head Attention）核心代码；实现多头注意力模块(MHA)并优化为MGA；实现多头注意力机制，包括softmax及数值溢出处理；写出自注意力伪代码（用abc预测第四个token，给定特征维度、头个数）。 6. 讨论多头注意力能否提高计算效率，并推导。 7. 在Agent多轮对话任务中，Attention的局限性体现在哪些方面？ 8. 如果QK变成同一个矩阵会有影响吗？如何解决？ 「京东、字节Seed、字节跳动、百度、美团、腾讯、腾讯混元、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1292",
+      "reviewStatus": "confirmed",
+      "reviewNote": "MGA 未定义，关联覆盖已明确的 MHA 代码与具名机制。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-221",
+      "originalTitle": "【多损失函数冲突与设计】项目里面用的loss不同不会有冲突吗，为什么会用到这些loss。每个loss的做法拷打。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1293",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-222",
+      "originalTitle": "【线性注意力复杂度降低与实现】线性注意力(LinearAttention)如何将复杂度从O(N^2)降低到O(N)？手撕linear attention。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-223",
+      "originalTitle": "【自注意力与交叉注意力堆叠】手写论文中的堆叠的self-attention和cross-attention层，解释一下有什么作用？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1295",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未给出论文名称，任务仅明确自注意力与交叉注意力的堆叠实现。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-224",
+      "originalTitle": "【长序列注意力优化】针对长序列中Attention计算复杂度高的问题，有哪些降低复杂度的方法？请列举并分类说明。其中一种方法是FlashAttention，请说明它与其他方法在技术上的异同。 「字节跳动、百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-225",
+      "originalTitle": "【OneTrans vs RankMixer】你认为OneTrans和RankMixer相比，各自的优缺点有哪些？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1301",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-226",
+      "originalTitle": "【注意力机制实现】手撕注意力机制变体：1) MHA/MQA/GQA兼容版，init里设置传参通义万相数据；2) MLA实现；3) MultiHeadAttention中Q、K、V线性变换层引入LoRA；4) 设计高效Attention实现，降低时间/空间复杂度。 「京东、字节跳动、腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1302",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未说明近似许可、目标设备与复杂度约束。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-227",
+      "originalTitle": "【上下文不足】问我是否熟悉：RMS norm，layer Norm，激活函数（llava的），q-former，qk norm，rope，swigle 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1309",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-228",
+      "originalTitle": "【归一化作用】归一化在深度学习中的作用是什么? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-229",
+      "originalTitle": "【BatchNorm原理与流程】BatchNorm原理、训练测试逻辑、可学习参数与不可学习参数、统计量获取。变体：1）BN中可学习参数（缩放和平移参数）如何获取？均值、方差通过哪些维度计算得到？2）讲一下BN模块，训练、测试逻辑。3）训练与推理时BN中的均值、方差分别是什么？训练和推理的时候的均值和方差都是怎么得到的？4）请介绍BatchNorm和LayerNorm的原理、做法和训练方法，并说明BN层的意义及其可学习参数与不可学习参数。 「字节Seed、字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-230",
+      "originalTitle": "【BN与LN作用维度】BN与LN作用维度：给定三维矩阵bsz×seq_len×dim，BN/LN分别作用在哪个维度？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-231",
+      "originalTitle": "【Normalization位置】Normalization是放在激活函数之前还是之后？放在之前有什么好处？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-232",
+      "originalTitle": "【图像BN应用】图像中BN是怎么用的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-233",
+      "originalTitle": "【归一化对比】层归一化（LN）和RMS归一化的区别？以及LN和批归一化（BN）的区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-234",
+      "originalTitle": "【归一化方法概述】Normalization有哪些，有什么作用？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1324",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-235",
+      "originalTitle": "【归一化领域差异与选择】CNN和Transformer分别使用哪种归一化方式？LN和残差连接作用，Transformer能用BN吗？图像领域和文本领域归一化不同，有什么区别？ 「京东、字节跳动、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-236",
+      "originalTitle": "【激活函数与梯度问题】激活函数与梯度问题：ReLU为什么能缓解梯度消失？介绍常见的激活函数，sigmoid为什么会导致梯度消失或梯度爆炸？你知道哪些LLM常用的激活函数？ 「百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-237",
+      "originalTitle": "【归一化与激活】归一化层实现与对比： 1. 手撕BatchNorm（训练/推理），包括累积均值和方差的计算；TensorFlow中如何实现BN？ 2. 手撕LayerNorm（公式与实现）；手撕RMSNorm；手撕Softmax。 3. BN和Dropout在训练和推理时的差异？CNN中BN训练推理计算差异？ 4. LayerNorm与BatchNorm原理、区别、使用场景？为什么Transformer和LLM使用LN而不用BN？从NLP/CV任务特性、序列长度可变性、训练稳定性解释。 5. NLP中句子长度不一致用BN的后果？ 6. Pre-LN与Post-LN区别？对训练稳定性、收敛速度的影响？推荐任务更适合哪种？ 7. Transformer中层归一化与列归一化区别？为什么不能插在LayerNorm之后？ 8. LLMs各模型分别用了哪种Layer normalization？ 「京东、字节Seed、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1331",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明“列归一化”及“插在 LayerNorm 之后”所指对象或具体操作。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-238",
+      "originalTitle": "【DeepNorm】请阐述DeepNorm的思路，并写出其代码实现。要求：解释DeepNorm的原理、公式、与Post-LN的关系，以及如何提升训练稳定性。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-239",
+      "originalTitle": "【Online Softmax】手撕online softmax。要求：实现online softmax算法，解释其原理和优势（如数值稳定性、减少内存访问）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1337",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-240",
+      "originalTitle": "【RMSNorm与LayerNorm对比】RMSNorm与LayerNorm的主要区别是什么？为什么大模型（如GPT）更倾向于使用RMSNorm？请详细介绍两种实现形式（普通Transformer和大模型用的），并说明RMSNorm相比LayerNorm的优化点和提升原因。 「字节跳动、百度、美团、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1338",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-241",
+      "originalTitle": "【归一化代码实现】实现RMSNorm并解释/实现LayerNorm并解释/实现BatchNorm并解释/实现Decoder block；代码题：手撕layernormalization；实现RMSNorm。要求：写出代码并解释原理，包括公式、参数、计算步骤。 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-242",
+      "originalTitle": "【归一化位置设计】现在常见的norm位置设计有什么差异，这些差异会对训练稳定性和效果带来什么影响？请比较Pre-LN、Post-LN、Sandwich-LN等不同位置设计的优缺点，并说明在Transformer中如何选择。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-243",
+      "originalTitle": "【归一化梯度】易混淆点:LayerNorm和BatchNorm在训练时的梯度计算区别? 请详细分析两者在梯度计算上的差异，包括对均值和方差求导的过程，以及这些差异对训练稳定性和效果的影响。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1341",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-244",
+      "originalTitle": "【训练趋势】在训练过程中是逐渐变大还是逐渐减小？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1355",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明训练中逐渐变大或变小的变量。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-245",
+      "originalTitle": "【Batch大小影响】大batch和小batch有什么区别？请分析Batch大小对训练的影响。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-246",
+      "originalTitle": "【与蒸馏区别】模型蒸馏（model distillation）与训练稳定性有何区别？请解释与蒸馏的区别。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1361",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-247",
+      "originalTitle": "【参数初始化重要性】为什么参数初始化方式不一样？参数初始化为什么重要？请解释参数初始化的重要性。 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-248",
+      "originalTitle": "【噪声引入】是否会引入噪声？请解释噪声引入的问题。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1363",
+      "reviewStatus": "needs_review",
+      "reviewNote": "引入噪声的操作、位置和目标缺失，无法识别究竟是正则、数据增强、采样还是数值噪声。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-249",
+      "originalTitle": "【学习率不衰减后果】如果不衰减学习率会有什么后果？请解释学习率不衰减的后果。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-250",
+      "originalTitle": "【学习率大小界定】学习率多小算小？请界定学习率大小的标准。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-251",
+      "originalTitle": "【学习率调整】此时学习率怎么调整？请解释学习率调整的方法。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1366",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“此时”没有训练曲线或事件，仅覆盖一般学习率调整方法，未给具体决策。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-252",
+      "originalTitle": "【小随机初始化影响】如果A和B都用小随机值初始化会怎样？请分析小随机初始化对模型的影响。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1367",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未给出 A/B 矩阵的模型与参数化定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-253",
+      "originalTitle": "【权重大小影响】权重过大或过小分别会导致什么现象？请分析权重大小的影响。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-254",
+      "originalTitle": "【梯度消失与梯度爆炸】梯度消失和梯度爆炸是什么？请解释其原因、根本原因、解决方案及缓解方法。 「京东、字节跳动、美团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1369",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-255",
+      "originalTitle": "【梯度裁剪必要性】不进行梯度裁剪（gradient clipping）会怎样？请解释梯度裁剪的必要性。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1370",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-256",
+      "originalTitle": "【模型退化风险】是否会导致模型退化？请解释模型退化的风险。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1371",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明导致退化的操作与条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-257",
+      "originalTitle": "【训练流程与损失函数参数】讲一下训练流程和损失函数各个参数含义？请解释训练流程与损失函数参数。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1372",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未记录实际 loss 与参数名称。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-258",
+      "originalTitle": "【训练稳定性与性能影响】训练稳定性与性能有何影响？请分析训练稳定性对模型性能的影响。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1373",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-259",
+      "originalTitle": "【评估损失重要性】为什么在训练过程中更关注评估损失（eval loss）而不是训练损失（train loss）？请解释评估损失的重要性。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-260",
+      "originalTitle": "【过拟合与欠拟合判断】如何判断大模型过拟合与欠拟合？请解释过拟合与欠拟合的判断方法。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-261",
+      "originalTitle": "【过拟合与泛化】如果每一步都拟合xx模型的gt，那他的泛化性是不是不咋地？请解释过拟合与泛化的关系。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-262",
+      "originalTitle": "【长序列梯度传播】序列太长会不会导致一个非常长的梯度传播链？请解释长序列梯度传播的问题。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1377",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-263",
+      "originalTitle": "【Dropout与重叠ID】一些id间如果有overlap，要不要dropout？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1382",
+      "reviewStatus": "needs_review",
+      "reviewNote": "overlap的ID指何对象、共享什么及Dropout作用位置未给，无法判断是否需要随机屏蔽。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-264",
+      "originalTitle": "【Loss spike处理】遇到过loss spike吗？如何解决？ 「美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-265",
+      "originalTitle": "【Loss不下降解决】训练时发现loss不下降应该如何解决？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-266",
+      "originalTitle": "【Loss拉扯现象】有没有出现loss拉扯现象？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-267",
+      "originalTitle": "【Loss计算范围控制】怎么确保只计算该计算部分的loss？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-268",
+      "originalTitle": "【Loss震荡原因与解决】训练时loss不稳定（震荡）可能是什么原因，如何排查和优化？特别是在微调Qwen时验证集loss震荡，可能原因有哪些？ 「字节跳动、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-269",
+      "originalTitle": "【优化器对比】为什么大模型训练大多用Adam，而不用SGD，二者有什么区别？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-270",
+      "originalTitle": "【优化器类型】有哪些类型，如SWA等？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-271",
+      "originalTitle": "【参数范围退化】范围过大会不会退化？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1390",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未提供具体参数与取值范围。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-272",
+      "originalTitle": "【在线学习梯度连续性】模型一个时刻出一个点，并立刻根据这一点做一次反向传播，这不会导致T-1时刻和T时刻的梯度是断开的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1391",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给具体递归模型、计算图或跨时刻更新边界。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-273",
+      "originalTitle": "【多损失权重平衡】（追问）如何平衡不同损失项的权重？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1392",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-274",
+      "originalTitle": "【多损失设计理由】你们项目里用了多个loss比如MSE + Contrastive Loss + KL 散度为什么这么设计？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1393",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-275",
+      "originalTitle": "【学习率与Batch调整】学习率如何设置？学习率如何调整，batch大小如何调整？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-276",
+      "originalTitle": "【小模型训练调整】学习训练小模型需要做出哪些改变？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-277",
+      "originalTitle": "【极化问题解决方法】除了dropout，还有哪些方法解决极化问题？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1396",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“极化”未给权重、门控、输出分布或注意力等对象；提Dropout不能唯一恢复所指现象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-278",
+      "originalTitle": "【梯度检查原理】梯度检查什么原理？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1397",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-279",
+      "originalTitle": "【梯度消失与爆炸缓解】在训练深度模型（如Transformer、大模型）时，如何缓解梯度消失和梯度爆炸问题？请结合具体方法（如残差连接、层归一化、梯度裁剪、初始化策略等）进行说明。 「字节Seed、百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1398",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-280",
+      "originalTitle": "【梯度稳定方法】有什么方法使得梯度更加稳定？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-281",
+      "originalTitle": "【模型性能提升技巧】了解的用于模型性能提升（涨点）的实验trick。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-282",
+      "originalTitle": "【深层Transformer问题】多层Transformer叠加之后会出现哪些问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1401",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-283",
+      "originalTitle": "【灾难性遗忘】什么是灾难性遗忘？从模型和外置角度说明。加辅助任务能提升主任务，会不会引起灾难性遗忘？微调过程中出现过拟合、灾难性遗忘的原因及解决方案。 「腾讯、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-284",
+      "originalTitle": "【训练NaN原因】模型训练过程中nan的原因可能有哪些？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-285",
+      "originalTitle": "【训练不收敛排查】模型训练不收敛怎么办？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1404",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-286",
+      "originalTitle": "【辅助损失系数调整】Auxiliary loss系数怎么调？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-287",
+      "originalTitle": "【过拟合与欠拟合】过拟合是什么？如何判断和缓解过拟合？欠拟合和loss震荡的原因和解决方法是什么？另外，请说明BN和LN的区别及适用场景，以及梯度爆炸问题、残差连接和模型参数初始化的相关内容。 「拼多多、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-288",
+      "originalTitle": "【过拟合与验证集指标】训练 loss 持续下降，但验证集指标不涨，甚至线上效果变差，应优先排查什么? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-289",
+      "originalTitle": "【过拟合缓解方法】在模型训练或微调阶段出现过拟合时，有哪些常用的缓解方法？请列举多个。在训练深度神经网络时，除了学习率衰减，还有哪些常用的优化策略或技巧来防止过拟合并提升泛化能力？ 「字节跳动、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-290",
+      "originalTitle": "【Loss设计与自适应权重】项目中Loss是怎么设计的，知不知道一些自适应的调loss权重的方法？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-291",
+      "originalTitle": "【PCGrad】介绍PCGrad，效果如何，为什么会产生这样的效果？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-292",
+      "originalTitle": "【坍缩问题解决】如何解决坍缩问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1415",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明坍缩对象与模型结构。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-293",
+      "originalTitle": "【多任务Loss平衡】多任务 loss 加权:uncertainty weighting / GradNorm / DWA 各自适用场景。多任务学习各loss差异过大怎样处理？包括多任务loss平衡方式、回归损失主导训练时的处理、如何考虑loss weight。 「字节跳动、百度、美团、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1416",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-294",
+      "originalTitle": "【多任务冲突解决】单模型覆盖多个任务，怎么解决任务冲突/trade-off？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-295",
+      "originalTitle": "【多模态过拟合解决】请举例说明你如何解决多模态模型的过拟合问题。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-296",
+      "originalTitle": "【大模型训练优化难题】大模型训练过程中常见的优化难题有哪些？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-297",
+      "originalTitle": "【极化现象缓解】怎么缓解极化现象？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1420",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未定义“极化”的统计对象与表现。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-298",
+      "originalTitle": "【梯度爆炸分析】某一层的attention中出现梯度爆炸，该怎么去分析原因？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1421",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-299",
+      "originalTitle": "【模型容量与训练诊断】怎么判断堆叠参数后效果不好是因为model的bound还是训练方式不对？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-300",
+      "originalTitle": "【知识蒸馏实现】手写知识蒸馏。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1423",
+      "reviewStatus": "confirmed",
+      "reviewNote": "题签仅写“手写知识蒸馏”，未给损失接口或完整训练流程；当前保留可识别的蒸馏损失实现目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-301",
+      "originalTitle": "【训练平滑度与算力权衡】算力开销换来的那点平滑度值得吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1424",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未定义平滑对象、计算代价与质量指标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-302",
+      "originalTitle": "【训练策略改进】觉得现在的一些训练策略有什么可改进的没有？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1425",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-303",
+      "originalTitle": "【负载均衡损失函数】如何通过修改损失函数来解决负载均衡问题？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1426",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-304",
+      "originalTitle": "【跷跷板现象解决】如何解决跷跷板现象？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1427",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-305",
+      "originalTitle": "【过早收敛处理】在大模型无论强化学习还是sft，希望模型可以过10w张图片学习分类问题，但5w个step就收敛了怎么办？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1428",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-306",
+      "originalTitle": "【对比学习概述】对比学习是什么？它的作用是什么？ 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1435",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-307",
+      "originalTitle": "【Embedding初始化】新embedding怎么初始化？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1440",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-308",
+      "originalTitle": "【对比学习损失函数】什么是InfoNCE Loss？请写出其公式并简述其原理。 「京东、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1441",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-309",
+      "originalTitle": "【表示学习应用】经过encoder之后得到的latent emb有什么用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-310",
+      "originalTitle": "【表示学习物理意义】表示的物理意义是什么? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-311",
+      "originalTitle": "【Embedding平滑】有什么方法使得embedding分布更加平滑？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1448",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“分布更加平滑”未说明邻域、空间或时间维度的目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-312",
+      "originalTitle": "【对比学习】对比学习：请介绍对比学习的思想、常见范式（对称结构如SimCLR、非对称结构如BYOL、SimSiam）及常用方法（如MoCo）。解释对比损失函数（InfoNCE、Triplet Loss等）及类似对比学习的loss。说明为什么需要正负样本及其构造方法，讨论负样本的重要性及负样本构造成本过高时的解决方案。 「京东、字节跳动、拼多多、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-313",
+      "originalTitle": "【音视频表示学习】请解释对比学习、自监督学习和迁移学习在音视频表示学习中的应用。对比学习：利用正负样本对学习判别性表示，如SimCLR、MoCo在视频帧或音频片段上的应用。自监督学习：通过设计预文本任务（如旋转预测、时序排序、掩码重建）从无标签音视频数据中学习特征，优势在于无需人工标注，可大规模预训练。迁移学习：将预训练模型（如ImageNet、AudioSet上训练的）迁移到下游音视频任务（如动作识别、语音情感分析），通过微调或特征提取适应新任务。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-314",
+      "originalTitle": "【GAN与VAE对比】相比于VAE，GAN有何优势？请从生成质量、训练稳定性、模式覆盖等方面进行比较。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1461",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-315",
+      "originalTitle": "【VQ-VAE原理】介绍VQ-VAE（Vector Quantized Variational Autoencoder）的原理，包括其核心组件（如编码器、解码器、向量量化层、先验分布）以及训练过程。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-316",
+      "originalTitle": "【扩散模型损失函数】扩散模型的损失函数是什么？请推导并解释其含义，通常包括变分下界（ELBO）或简化的均方误差损失。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-317",
+      "originalTitle": "【GAN训练不稳定性与模态坍塌】GAN模型训练时为什么不稳定？ 变体： - 怎么解决输出结果单一（模态坍塌）的问题？ - 生成器如何训练的、训练策略？ 「京东、字节Seed、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1468",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-318",
+      "originalTitle": "【VAE与GAN对比】为什么VAE更主流？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1469",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-319",
+      "originalTitle": "【自编码器变体对比】AE、VAE、VQ-VAE的原理与区别？ 变体： - VAE loss包含哪些项？请手写VAE训练loss。 - VQ-VAE使用的损失函数是什么？训练过程是怎样的？ - VQ-VAE比VAE或者说离散和连续特征相比好坏？ 「腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-320",
+      "originalTitle": "【GAN应用】请解释一下生成对抗网络在音视频生成中的应用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-321",
+      "originalTitle": "【VQ-VAE】VQ-VAE相关问题：1. 手撕VQVAE伪码。2. VQ-VAE中codebook中的code有的被使用的概率很低，如何解决？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1476",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-322",
+      "originalTitle": "【扩散模型参数设置】在扩散语言模型中，块大小如何设置，解码步数、解码阈值如何设置，怎么判断什么时候停止，做了什么优化？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-323",
+      "originalTitle": "【生成模型架构趋势】你认为将来会有更多Encoder-Decoder结构的生成模型吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-324",
+      "originalTitle": "mixup和affn主要结构是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1486",
+      "reviewStatus": "needs_review",
+      "reviewNote": "mixup/affn 未说明所属模型与模块结构。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-325",
+      "originalTitle": "你用过哪些深度学习框架，各自有什么优缺点？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-326",
+      "originalTitle": "对rankmixer了解吗？介绍一下其效果？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1488",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-327",
+      "originalTitle": "对于tokenmixer是怎么理解的，它的收益主要来源于什么，理想的结构是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1489",
+      "reviewStatus": "needs_review",
+      "reviewNote": "TokenMixer可能泛指混合算子或专门模型，原文未给论文/版本，无法确定收益归因或理想结构的比较对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-328",
+      "originalTitle": "对抗攻击、无目标攻击和有目标攻击 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1490",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-329",
+      "originalTitle": "模型融合了解过吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-330",
+      "originalTitle": "聊一下变分模态分解VMD和时空网络VAE。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1492",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“时空网络 VAE”未指定论文或结构。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-331",
+      "originalTitle": "请解释一下元学习在音视频少样本学习中的应用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-332",
+      "originalTitle": "请解释一下图神经网络在音视频关系建模中的应用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-984-333",
+      "originalTitle": "请解释一下多任务学习在音视频处理中的应用及其优势？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1495",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

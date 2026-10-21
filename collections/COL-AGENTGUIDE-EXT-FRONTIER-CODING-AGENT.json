@@ -1,0 +1,127 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Coding Agent 面试指南",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-001",
+      "originalTitle": "Coding Agent 与代码补全的本质区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-002",
+      "originalTitle": "如何让 Agent 快速理解陌生仓库？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-003",
+      "originalTitle": "为什么不能一次性把整个仓库放进上下文？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-004",
+      "originalTitle": "怎样设计代码编辑工具？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-005",
+      "originalTitle": "测试全过就能结束吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-006",
+      "originalTitle": "怎样处理长命令输出？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-007",
+      "originalTitle": "Coding Agent 最容易出现哪些 reward hacking？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L117",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-008",
+      "originalTitle": "如何避免 Agent 覆盖用户未提交改动？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-009",
+      "originalTitle": "设计一个支持百万行 monorepo 的上下文检索与缓存系统。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-010",
+      "originalTitle": "Agent 连续三次尝试都失败，应该重试、换策略、回滚还是求助？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-011",
+      "originalTitle": "怎样判断“定位错了”还是“实现错了”？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-012",
+      "originalTitle": "多 Agent coding 中 planner、implementer、reviewer 怎样共享状态又避免上下文污染？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-013",
+      "originalTitle": "如何从 GitHub issue 和 commit 构建无泄漏训练任务？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-014",
+      "originalTitle": "隐藏测试不完整时，怎样设计更稳健的 verifier？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-015",
+      "originalTitle": "前端视觉任务无法只用单元测试验证，怎样构建闭环？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-016",
+      "originalTitle": "如何将真实用户接受 / 拒绝 patch 的信号用于持续改进？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-017",
+      "originalTitle": "如何比较强模型 + 简单 Harness 与弱模型 + 强 Harness？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT-018",
+      "originalTitle": "怎样让任务跨会话恢复，同时不把过期假设带回来？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md#L134",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

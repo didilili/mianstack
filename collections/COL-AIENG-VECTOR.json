@@ -1,0 +1,174 @@
+{
+  "id": "COL-AIENG-VECTOR",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · 向量数据库与嵌入",
+  "coverage": [
+    "llm",
+    "rag"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-VECTOR-001",
+      "originalTitle": "What are embeddings in the context of AI engineering?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-002",
+      "originalTitle": "How do embedding models convert text to vectors?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-003",
+      "originalTitle": "What is Contrastive Learning, and how is it used to train embedding models?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L496",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-004",
+      "originalTitle": "What is the difference between sparse and dense embeddings?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-005",
+      "originalTitle": "Explain cosine similarity, dot product, and Euclidean distance for vector search.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L499",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-006",
+      "originalTitle": "What is a vector database, and how does it differ from a traditional database?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L501",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-007",
+      "originalTitle": "How does Approximate Nearest Neighbor (ANN) search work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-008",
+      "originalTitle": "Compare HNSW, IVF, and flat indexes. How do you pick one, and what does recall@k cost in latency?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L505",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-009",
+      "originalTitle": "How does an Embedding Cache work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-010",
+      "originalTitle": "How do you choose the right embedding model for your use case?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L509",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-011",
+      "originalTitle": "What is embedding dimensionality, and how does it affect performance and cost?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L510",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-012",
+      "originalTitle": "How do you handle embedding drift when the embedding model is updated?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L511",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-013",
+      "originalTitle": "What are multi-modal embeddings, and how are they generated?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-014",
+      "originalTitle": "How do you index and query multi-tenant data in a vector database?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L514",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-015",
+      "originalTitle": "What is quantization of embeddings, and how does it reduce storage costs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L515",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-016",
+      "originalTitle": "How do you benchmark and evaluate embedding model quality?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L516",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-017",
+      "originalTitle": "What is the role of metadata in vector databases?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-018",
+      "originalTitle": "How do you handle large-scale vector search with billions of vectors?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L519",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-019",
+      "originalTitle": "What is hybrid search (combining keyword search with vector search)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L521",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-020",
+      "originalTitle": "How do you fine-tune an embedding model for a specific domain?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-021",
+      "originalTitle": "Your vector database for RAG is consuming too much memory. How do you reduce it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L525",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-022",
+      "originalTitle": "Your vector database cannot scale to millions of embeddings. How do you fix the bottleneck?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L526",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-023",
+      "originalTitle": "Your new embedding model has different dimensions from the existing vectors in production. How do you handle the mismatch?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L528",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-024",
+      "originalTitle": "Your vector search returns irrelevant results despite high similarity scores. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L529",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-025",
+      "originalTitle": "You deployed a new embedding model, and search quality crashed overnight. How do you handle embedding drift?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-VECTOR-026",
+      "originalTitle": "Your semantic search fails for short queries. How do you improve it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L531",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

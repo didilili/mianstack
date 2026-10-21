@@ -1,0 +1,65 @@
+{
+  "id": "COL-AIGC-CLASSIC-VAE",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · VAE与视觉潜空间",
+  "coverage": [
+    "llm"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/VAE%E4%B8%8E%E8%A7%86%E8%A7%89%E6%BD%9C%E7%A9%BA%E9%97%B4%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-CLASSIC-VAE-001",
+      "originalTitle": "面试问题：AE、VAE 和 VQ-VAE 的目标分别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/VAE%E4%B8%8E%E8%A7%86%E8%A7%89%E6%BD%9C%E7%A9%BA%E9%97%B4%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L27",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-VAE-002",
+      "originalTitle": "面试问题：自编码器 AE 的基本结构和训练流程是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/VAE%E4%B8%8E%E8%A7%86%E8%A7%89%E6%BD%9C%E7%A9%BA%E9%97%B4%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-VAE-003",
+      "originalTitle": "面试问题：AE 为什么不能直接作为稳定的生成模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/VAE%E4%B8%8E%E8%A7%86%E8%A7%89%E6%BD%9C%E7%A9%BA%E9%97%B4%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L56",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-VAE-004",
+      "originalTitle": "面试问题：VAE 的 ELBO 损失由哪些部分组成？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/VAE%E4%B8%8E%E8%A7%86%E8%A7%89%E6%BD%9C%E7%A9%BA%E9%97%B4%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L66",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-VAE-005",
+      "originalTitle": "面试问题：什么是重参数化技巧，为什么 VAE 必须使用它？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/VAE%E4%B8%8E%E8%A7%86%E8%A7%89%E6%BD%9C%E7%A9%BA%E9%97%B4%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L80",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-VAE-006",
+      "originalTitle": "面试问题：VAE 生成的图像为什么容易模糊？如何缓解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/VAE%E4%B8%8E%E8%A7%86%E8%A7%89%E6%BD%9C%E7%A9%BA%E9%97%B4%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-VAE-007",
+      "originalTitle": "面试问题：Diffusion Model 和 VAE 中的重参数化分别如何使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/VAE%E4%B8%8E%E8%A7%86%E8%A7%89%E6%BD%9C%E7%A9%BA%E9%97%B4%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-VAE-008",
+      "originalTitle": "面试问题：视觉 tokenizer 的重构质量为什么不等于生成质量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/VAE%E4%B8%8E%E8%A7%86%E8%A7%89%E6%BD%9C%E7%A9%BA%E9%97%B4%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L125",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

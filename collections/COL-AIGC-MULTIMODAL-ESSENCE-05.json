@@ -1,0 +1,103 @@
+{
+  "id": "COL-AIGC-MULTIMODAL-ESSENCE-05",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · AI多模态精华版·原生模型",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的面试题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-001",
+      "originalTitle": "5.5.1.1 面试问题：原生多模态大模型的定义与判别标准是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L41",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-002",
+      "originalTitle": "5.5.1.2 面试问题：原生多模态、全模态（Omni）与统一理解生成有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L95",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-003",
+      "originalTitle": "5.5.1.3 面试问题：模块化缝合路线有哪些局限？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-004",
+      "originalTitle": "5.5.2.1 面试问题：离散 token 统一自回归路线的基本思想是什么，工程上有哪些难题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-005",
+      "originalTitle": "5.5.2.2 面试问题：自回归与扩散混合的路线为什么会出现，它调和了什么矛盾？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-006",
+      "originalTitle": "5.5.2.3 面试问题：保留连续视觉特征的预训练路线为什么成了理解任务的常见选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L227",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-007",
+      "originalTitle": "5.5.2.4 面试问题：几条技术路线如何横向对比与选型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L267",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-008",
+      "originalTitle": "5.5.3.1 面试问题：模态混合比例与注入时机如何影响模型能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-009",
+      "originalTitle": "5.5.3.2 面试问题：联合训练如何做到纯文本能力不退化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-010",
+      "originalTitle": "5.5.4.1 面试问题：为什么理解与生成对视觉表征的要求会冲突，有哪些调和方案？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-011",
+      "originalTitle": "5.5.4.2 面试问题：统一自回归生成图像为什么慢，有哪些加速思路？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-012",
+      "originalTitle": "5.5.5.1 面试问题：端到端全模态与语音识别、大模型、语音合成的级联方案有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L434",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-013",
+      "originalTitle": "5.5.5.2 面试问题：流式低时延语音生成有哪些机制？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-ESSENCE-05-014",
+      "originalTitle": "5.5.5.3 面试问题：从可打断到全双工，交互形态怎样演进？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/5_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L488",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

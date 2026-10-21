@@ -1,0 +1,651 @@
+{
+  "id": "COL-JAVAGUIDE-AI-CODING",
+  "publisherId": "PUB-JAVAGUIDE",
+  "title": "JavaGuide · AI 编程与编码 Agent 问答",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "JavaGuide AI 编程目录的问题清单与正文问答。",
+  "sourceUrl": "https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-001",
+      "originalTitle": "AI 编程工具到底适合做代码生成、代码审查、重构、排错还是文档整理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/README.md#L112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-002",
+      "originalTitle": "Claude Code、Cursor、Codex、Trae、Qoder 分别适合什么场景？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/README.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-003",
+      "originalTitle": "CLI 和 IDE 的核心差异是什么？为什么长任务更依赖上下文管理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/README.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-004",
+      "originalTitle": "CLAUDE.md、.claude/rules/、Skills 和 Auto Memory 应该怎么分工？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/README.md#L115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-005",
+      "originalTitle": "Claude Code Hooks、Skills、Subagent 和 Agent Teams 分别解决什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/README.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-006",
+      "originalTitle": "如何给 AI 提供足够但不过量的上下文？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/README.md#L117",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-007",
+      "originalTitle": "AI 修改大仓库时，如何控制变更范围，避免越改越乱？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/README.md#L118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-008",
+      "originalTitle": "多模型协同什么时候有价值？如何避免模型之间互相放大错误？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/README.md#L119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-009",
+      "originalTitle": "AI 生成代码应该如何验收？测试、Diff、代码审查和提交粒度怎么配合？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/README.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-010",
+      "originalTitle": "AI 编程会削弱程序员能力吗？后端开发者应该保留哪些判断力和工程基本功？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/README.md#L121",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-011",
+      "originalTitle": "用过什么 AI 编程 IDE 吗？什么感觉？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/ai-ide.md#L26",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-012",
+      "originalTitle": "AI 编程的核心原则",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/ai-ide.md#L36",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-013",
+      "originalTitle": "⭐ Cursor 实战技巧",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/ai-ide.md#L48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-014",
+      "originalTitle": "⭐Claude Code 使用技巧",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/ai-ide.md#L61",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-015",
+      "originalTitle": "你如何看待 AI 对后端开发的影响",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/ai-ide.md#L74",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-016",
+      "originalTitle": "前后端开发者的核心竞争力已经变了",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/ai-ide.md#L93",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-017",
+      "originalTitle": "AI 会淘汰初级程序员吗",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/ai-ide.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-018",
+      "originalTitle": "AI 带来的最大风险是什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/ai-ide.md#L135",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-019",
+      "originalTitle": "AI 编程正在让程序员更累、更卷？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/ai-ide.md#L204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-020",
+      "originalTitle": "⭐ 未来 3 年后端工程师的核心竞争力是什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/ai-ide.md#L216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-021",
+      "originalTitle": "什么是 CLAUDE.md？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L21",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-022",
+      "originalTitle": "CLAUDE.md 和其他规则文件有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L38",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-023",
+      "originalTitle": "CLAUDE.md 到底该写什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-024",
+      "originalTitle": "怎么写才能让 Claude 真正遵守？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-025",
+      "originalTitle": "CLAUDE.md 放在哪里？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-026",
+      "originalTitle": "项目变大了，CLAUDE.md 怎么管？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-027",
+      "originalTitle": "怎么维护？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-028",
+      "originalTitle": "什么时候添加规则？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L430",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-029",
+      "originalTitle": "什么时候删除规则？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L434",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-030",
+      "originalTitle": "怎么判断规则需要调整？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-031",
+      "originalTitle": "怎么做定期检查？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claude-md-best-practices.md#L444",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-032",
+      "originalTitle": "什么场景适合用",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claudecode-agentview.md#L193",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处指 Claude Code Agent View 中可委派任务的适用条件。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-033",
+      "originalTitle": "哪些场景别硬用",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claudecode-agentview.md#L223",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处指 Claude Code Agent View 中不适合持续委派的任务条件。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-034",
+      "originalTitle": "它怎样处理一份改动",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claudecode-commands.md#L33",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处“它”指来源介绍的代码清理工具。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-035",
+      "originalTitle": "什么时候用 /simplify",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claudecode-commands.md#L162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-036",
+      "originalTitle": "/code-review 如何产出报告",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claudecode-commands.md#L174",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-037",
+      "originalTitle": "/code-review、/review、/security-review 怎么选",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claudecode-commands.md#L197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-038",
+      "originalTitle": "/code-review 和 /simplify 怎么排顺序",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claudecode-commands.md#L215",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-039",
+      "originalTitle": "三种调度方案怎么选",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claudecode-commands.md#L247",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题比较 Cloud 任务、Desktop 任务与会话 /loop。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-040",
+      "originalTitle": "MCP、Skills、Sub-Agent 和插件怎么分",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claudecode-tips.md#L160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-041",
+      "originalTitle": "提示词怎么写",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/claudecode-tips.md#L494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-042",
+      "originalTitle": "先搞清楚：CLI 和 IDE 到底是什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/cli-vs-ide.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-043",
+      "originalTitle": "各有什么产品值得关注",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/cli-vs-ide.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-044",
+      "originalTitle": "CLI 到底强在哪",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/cli-vs-ide.md#L142",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-045",
+      "originalTitle": "到底怎么选",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/cli-vs-ide.md#L166",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-046",
+      "originalTitle": "分层怎么放",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/codex-best-practices.md#L119",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题指 Codex 实践中用户、项目与模块级指令及参考文档的分层。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-047",
+      "originalTitle": "为什么选择 draw.io？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/drawio-chart-skill.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-048",
+      "originalTitle": "为什么不只用图片生成？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/drawio-chart-skill.md#L60",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-049",
+      "originalTitle": "哪些图适合 draw.io？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/drawio-chart-skill.md#L242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-050",
+      "originalTitle": "grilling、grill-me 和 grill-with-docs 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/mattpocock-skills.md#L46",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-051",
+      "originalTitle": "它是什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/oh-my-pi.md#L25",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“它”指来源文章介绍的终端编码 Agent oh-my-pi。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-052",
+      "originalTitle": "怎么选",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/programmer-essential-skills.md#L316",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题指如何根据任务缺口与实际增量收益选择 AI 编程 Skills。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-053",
+      "originalTitle": "强模型时代，AI 编程 Skills 还有必要装吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/skill-selection-and-pruning.md#L2",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-054",
+      "originalTitle": "规则应该放在哪",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/skill-selection-and-pruning.md#L58",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题指长期项目规范、任务流程与局部上下文的放置和加载范围。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-055",
+      "originalTitle": "哪些 Skill 还值得留",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/skill-selection-and-pruning.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-056",
+      "originalTitle": "Spec Coding 到底是什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/spec-coding.md#L81",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-057",
+      "originalTitle": "Spec 在 AI IDE 里怎么落地",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/spec-coding.md#L306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-058",
+      "originalTitle": "Cursor、Claude Code、Copilot 这些是日常写代码的入口，那 Superpowers、Spec-Kit、Open Spec、Kiro、BMAD-METHOD 这些专门围绕 Spec Coding 的工具，到底该怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/spec-coding.md#L320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-059",
+      "originalTitle": "哪些 Spec 每次都注入，哪些按需带上？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/spec-coding.md#L324",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-060",
+      "originalTitle": "三色标签：AI 能干什么、不能干什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/spec-coding.md#L345",
+      "reviewStatus": "confirmed",
+      "reviewNote": "三色标签指来源中的 Always、Ask first、Never。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-061",
+      "originalTitle": "项目大了，Spec 怎么管",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/spec-coding.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-062",
+      "originalTitle": "领域知识为什么这么重要",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/spec-coding.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-063",
+      "originalTitle": "为什么要用 Skill？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/practices/the-cool-tricks-for-vibe-coding.md#L190",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-064",
+      "originalTitle": "窗口里有哪些开销",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-context-management.md#L67",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-065",
+      "originalTitle": "信息怎么进上下文",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-context-management.md#L193",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-066",
+      "originalTitle": "上下文为什么会退化",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-context-management.md#L222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-067",
+      "originalTitle": "Claude Code 怎么治理上下文",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-context-management.md#L240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-068",
+      "originalTitle": "为什么不直接删整条消息？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-context-management.md#L262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-069",
+      "originalTitle": "长任务怎么落地",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-context-management.md#L462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-070",
+      "originalTitle": "日常项目怎么选",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-context-management.md#L501",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-071",
+      "originalTitle": "Hooks 到底是什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-hooks.md#L34",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-072",
+      "originalTitle": "Hooks 到底解决了什么问题",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-hooks.md#L76",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-073",
+      "originalTitle": "Hook 输入输出怎么工作",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-hooks.md#L140",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-074",
+      "originalTitle": "常用生命周期事件怎么理解",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-hooks.md#L236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-075",
+      "originalTitle": "非 command Hook 怎么选",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-hooks.md#L428",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-076",
+      "originalTitle": "Hooks 和 Skills 到底怎么分",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-hooks.md#L440",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-077",
+      "originalTitle": "Hook 没按预期工作，怎么排查",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-hooks.md#L497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-078",
+      "originalTitle": "哪些信息值得长期保存？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-memory.md#L42",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-079",
+      "originalTitle": "保存到哪里，谁能看见？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-memory.md#L43",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题“保存”指本文长期记忆，包含Claude Code规则与经验的文件作用域和可见范围。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-080",
+      "originalTitle": "启动时加载多少，任务中再怎么补？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-memory.md#L44",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题“加载”指本文长期记忆在启动与任务中的读取。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-081",
+      "originalTitle": "记忆过期、冲突或者被代码库推翻时，怎么发现和清理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-memory.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-082",
+      "originalTitle": "哪些东西别放进长期记忆",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-memory.md#L243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-083",
+      "originalTitle": "Auto Memory 怎么读回来，不要写死",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-memory.md#L260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-084",
+      "originalTitle": "Subagent Memory 和 Agent Teams 分别解决什么问题",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-memory.md#L284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-085",
+      "originalTitle": "第三方记忆插件解决了什么问题",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-memory.md#L310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-086",
+      "originalTitle": "如何选择呢？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-memory.md#L330",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“如何选择”承接本地规则/Auto Memory、会话记录插件与跨工具共享记忆服务。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-087",
+      "originalTitle": "如何做一套轻量级记忆系统",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-memory.md#L340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-088",
+      "originalTitle": "Claude Code 为什么需要多个 Agent？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-multi-agent.md#L40",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-089",
+      "originalTitle": "Subagent 是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-multi-agent.md#L97",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-090",
+      "originalTitle": "什么时候需要自定义 Subagent？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-multi-agent.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-091",
+      "originalTitle": "Subagent 怎么跑起来？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-multi-agent.md#L134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-092",
+      "originalTitle": "哪些任务适合交给 Subagent？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-multi-agent.md#L166",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-093",
+      "originalTitle": "/subtask、/fork 和后台 Agent：什么时候继承上下文？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-multi-agent.md#L179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-094",
+      "originalTitle": "/subtask 和普通 Subagent 的区别",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-multi-agent.md#L181",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-095",
+      "originalTitle": "Agent Teams 和 Subagent 的区别",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-multi-agent.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-096",
+      "originalTitle": "实际使用时怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-multi-agent.md#L364",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“怎么选”指单Agent、Subagent和Agent Teams。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-097",
+      "originalTitle": "Skills 解决了什么问题",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-skills.md#L36",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-098",
+      "originalTitle": "SKILL.md 怎么写",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-skills.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-099",
+      "originalTitle": "Claude Code 怎么发现 Skills",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-skills.md#L205",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-100",
+      "originalTitle": "Skill 被调用后发生什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-skills.md#L259",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-101",
+      "originalTitle": "Skills 怎么和 Agent 配合",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/principles/claude-code-skills.md#L386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-102",
+      "originalTitle": "CC GUI 是什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/project/cc-guide.md#L15",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处CC GUI指本文介绍的JetBrains编码Agent图形前端。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-CODING-103",
+      "originalTitle": "CC GUI 和 Qoder 怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding/project/cc-guide.md#L138",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

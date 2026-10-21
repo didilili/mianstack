@@ -1,0 +1,330 @@
+{
+  "id": "COL-AIGC-DL-ESSENCE-03",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 深度学习精华·网络架构",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-001",
+      "originalTitle": "面试问题：什么是权重初始化？核心目的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-002",
+      "originalTitle": "面试问题：常见的初始化方法有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-003",
+      "originalTitle": "面试问题：为什么不能用全0初始化，不合理初始化会导致什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L186",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-004",
+      "originalTitle": "面试问题：介绍一下Xavier/He初始化的核心思想",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L238",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-005",
+      "originalTitle": "面试问题：正交初始化的核心原理是什么，在扩散模型/Transformer的哪些场景中常用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L291",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-006",
+      "originalTitle": "面试问题：扩散模型的噪声预测头为什么常用小方差初始化？初始化过大会导致什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-007",
+      "originalTitle": "面试问题：介绍一下全连接层的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-008",
+      "originalTitle": "面试问题：全连接层和 1×1 卷积有什么区别与联系，分别在什么场景下使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L450",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-009",
+      "originalTitle": "面试问题：扩散模型中的时间嵌入 MLP 为什么用全连接层实现，有什么优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L489",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-010",
+      "originalTitle": "面试问题：什么是归一化，常用的归一化方法都有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-011",
+      "originalTitle": "面试问题：归一化在扩散模型中的具体作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-012",
+      "originalTitle": "面试问题：为什么生成类模型普遍不使用 BatchNorm，会带来什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L645",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-013",
+      "originalTitle": "面试问题：介绍一下激活函数的定义及原理。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L675",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-014",
+      "originalTitle": "面试问题：介绍一下激活函数有哪几类，常用经典激活函数有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L704",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-015",
+      "originalTitle": "面试问题：有哪些激活函数在AIGC时代取得了大量的应用，它们有什么优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-016",
+      "originalTitle": "面试问题：激活函数在使用中有哪些典型的问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1121",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-017",
+      "originalTitle": "面试问题：请详细介绍卷积操作及其核心原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-018",
+      "originalTitle": "面试问题：介绍一下卷积操作中的卷积核、步幅、填充、感受野的定义及作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-019",
+      "originalTitle": "面试问题：常用的卷积层有哪些？请分别详细介绍其结构、原理及适用场景",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-020",
+      "originalTitle": "面试问题：卷积和Transformer在AIGC中各自的优势和适用场景是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-021",
+      "originalTitle": "面试问题：卷积核的大小、数量应如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1249",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-022",
+      "originalTitle": "面试问题：什么是池化层？介绍一下其原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-023",
+      "originalTitle": "面试问题：常用的池化层有哪些？请分别介绍其结构、计算方式及适用场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1287",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-024",
+      "originalTitle": "面试问题：池化操作中，步幅和池化核大小应如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1301",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-025",
+      "originalTitle": "面试问题：介绍ResNet网络及其核心亮点",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-026",
+      "originalTitle": "面试问题：介绍U-Net网络及其核心亮点",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1351",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-027",
+      "originalTitle": "面试问题：Transformer 的提出背景是什么？它为了解决 RNN/LSTM 的哪些核心缺陷（如长距离依赖、梯度问题、无法并行）而设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-028",
+      "originalTitle": "面试问题：相比 CNN 处理序列任务，Transformer 的核心优势和劣势分别是什么？为什么它能实现序列的并行计算？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-029",
+      "originalTitle": "面试问题：自注意力的全局建模能力，相比 RNN 的时序建模和 CNN 的局部建模，在生成类任务上带来了什么本质差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1428",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-030",
+      "originalTitle": "面试问题：请完整介绍 Transformer 的整体架构，简述 Encoder 和 Decoder 的核心区别（输入、注意力类型、输出用途）。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-031",
+      "originalTitle": "面试问题：为什么解码器需要掩码自注意力？请解释 Causal Mask 和 Padding Mask 的作用及实现方式。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-032",
+      "originalTitle": "面试问题：为什么纯解码器架构在 AIGC 时代（如 LLM）成为绝对主流？Encoder-only 和 Encoder-Decoder 架构分别适用于什么场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-033",
+      "originalTitle": "面试问题：Transformer 中为什么要使用残差连接 + 层归一化？Pre-LN（前置）相比 Post-LN（后置）有什么区别？为什么大模型普遍用 Pre-LN？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-034",
+      "originalTitle": "面试问题：Transformer 的 FFN（前馈网络）起什么作用？为什么大模型常用 SwiGLU 替代传统的 ReLU/GELU？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1509",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-035",
+      "originalTitle": "面试问题：详细描述标准自注意力的完整计算流程（从输入 X 到输出），并解释 Q、K、V 的含义以及“为什么需要区分三者”。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-036",
+      "originalTitle": "面试问题：为什么自注意力计算中要除以 $\\sqrt{d_k}$（缩放因子）？如果不除以会发生什么？（考察 Softmax 饱和与梯度）。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-037",
+      "originalTitle": "面试问题：解释多头注意力（MHA）的核心思想，并介绍 MQA（多查询）和 GQA（分组查询）的区别及适用场景（KV Cache 显存优化）。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1557",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-038",
+      "originalTitle": "面试问题：自注意力机制的 $O(N^2)$ 复杂度带来了哪些长序列痛点？有哪些主流的算法级解决方案（如稀疏注意力、线性注意力）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1571",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-039",
+      "originalTitle": "面试问题：批量推理时的计算瓶颈在哪里？请解释 KV Cache 的原理及其加速机制，并介绍 FlashAttention 的核心优化思路（IO 感知）。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-040",
+      "originalTitle": "面试问题：为什么 Transformer 需要位置编码？位置编码为什么要和词嵌入相加而不是拼接？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1603",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-041",
+      "originalTitle": "面试问题：请简述正弦余弦位置编码的原理，并推导说明其为何能表示相对位置关系。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1620",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-042",
+      "originalTitle": "面试问题：为什么现代大模型普遍采用 RoPE（旋转位置编码）？它的核心原理和优势是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1639",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-043",
+      "originalTitle": "面试问题：解释 RoPE 的外推问题。Base 参数的作用是什么？有哪些常见的外推解决方案（如 NTK-aware, YaRN）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1651",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-044",
+      "originalTitle": "面试问题：RoPE 的高低频旋转圈数差异对应什么类型的依赖建模？ALiBi 位置编码与 RoPE 相比有什么优缺点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1666",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-045",
+      "originalTitle": "面试问题：在模型组件层面，LLM 常用 RMSNorm 和 SwiGLU 替代传统组件，原因是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1686",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-046",
+      "originalTitle": "面试问题：什么是 MoE（混合专家模型）？它是如何在不增加推理计算量的前提下扩大模型参数量的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1702",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-047",
+      "originalTitle": "面试问题：在多模态大模型中，Transformer 是如何适配不同模态的？扩散模型中的 Transformer（DiT）有何特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1709",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-048",
+      "originalTitle": "面试问题：大模型训练中，Transformer 的主要计算瓶颈在哪里？有哪些主流的并行训练方案（如 3D 并行）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1719",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-049",
+      "originalTitle": "面试问题：在推理阶段，有哪些关键的系统级优化技术？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1731",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-050",
+      "originalTitle": "面试问题：为什么 Transformer 能支撑模型规模不断放大，成为 AIGC 时代的基石架构？未来的演进方向可能是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-051",
+      "originalTitle": "面试问题：介绍一下图神经网络（GNN）的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1762",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-03-052",
+      "originalTitle": "面试问题：GNN与CNN、RNN的核心区别是什么？为什么GNN更适合处理图数据？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1780",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

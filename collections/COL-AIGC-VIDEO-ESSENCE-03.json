@@ -1,0 +1,217 @@
+{
+  "id": "COL-AIGC-VIDEO-ESSENCE-03",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 03_视频生成与编辑技术路线",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-001",
+      "originalTitle": "4.3.1.1 面试问题：视频生成模型通常按输入输出范式如何分类？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L62",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-002",
+      "originalTitle": "4.3.1.2 面试问题：视频续写、关键帧条件生成、视频修复与视频编辑的任务边界如何划分？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-003",
+      "originalTitle": "4.3.1.3 面试问题：为什么接入一种输入条件，不等于模型真正具备对应的任务能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-004",
+      "originalTitle": "4.3.2.1 面试问题：分析一条视频生成技术路线时，应该抓住哪些决定性设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-005",
+      "originalTitle": "4.3.2.2 面试问题：图像模型视频化与原生时空建模的核心取舍是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L158",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-006",
+      "originalTitle": "4.3.3.1 面试问题：AnimateDiff 的 Motion Module 如何插入图像扩散模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L191",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-007",
+      "originalTitle": "4.3.3.2 面试问题：为什么 AnimateDiff 的运动模块可以迁移到个性化 T2I 模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L214",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-008",
+      "originalTitle": "4.3.3.3 面试问题：MotionLoRA / MotionDirector 解决的本质问题是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-009",
+      "originalTitle": "4.3.3.4 面试问题：AnimateDiff 与 SVD 在图像先验复用和视频训练上有何差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-010",
+      "originalTitle": "4.3.3.5 面试问题：I2VGen-XL 的 cascaded diffusion 为什么适合 I2V？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-011",
+      "originalTitle": "4.3.3.6 面试问题：I2V 模型如何注入图像条件？为什么首帧对齐不等于全程保持？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L307",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-012",
+      "originalTitle": "4.3.4.1 面试问题：Sora 如何通过 spacetime patches 和 Diffusion Transformer 统一建模图像与视频？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-013",
+      "originalTitle": "4.3.4.2 面试问题：Sora 为什么保留原始宽高比和可变时空尺寸训练？工程上如何组织数据？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L373",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-014",
+      "originalTitle": "4.3.4.3 面试问题：如何从模型能力和局限理解 Sora 的 world simulator 叙事？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L396",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-015",
+      "originalTitle": "4.3.4.4 面试问题：Veo 的原生音视频生成和物理真实感说明了什么技术方向？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-016",
+      "originalTitle": "4.3.4.5 面试问题：Veo 的多控制接口为什么体现了视频生成系统化趋势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L440",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-017",
+      "originalTitle": "4.3.4.6 面试问题：Movie Gen 为什么是 media foundation model，而不是单一 T2V 模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L468",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-018",
+      "originalTitle": "4.3.4.7 面试问题：Movie Gen 的大规模 Transformer 和长上下文设计说明了什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-019",
+      "originalTitle": "4.3.4.8 面试问题：闭源前沿视频模型在底层技术上有哪些共同趋势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L524",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-020",
+      "originalTitle": "4.3.5.1 面试问题：Open-Sora 如何把前沿视频模型拆成可复现、可优化的开放训练管线？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L552",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-021",
+      "originalTitle": "4.3.5.2 面试问题：HunyuanVideo 的 systematic framework 包含哪些关键设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L592",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-022",
+      "originalTitle": "4.3.5.3 面试问题：为什么 Wan 是开放视频模型家族？其底层技术路线是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L618",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-023",
+      "originalTitle": "4.3.5.4 面试问题：Step-Video-T2V 如何协调 30B DiT、深压缩 Video-VAE 与 Flow Matching？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L639",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-024",
+      "originalTitle": "4.3.5.5 面试问题：Step-Video-TI2V 如何从 T2V 基座扩展到文本驱动的 I2V？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L673",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-025",
+      "originalTitle": "4.3.5.6 面试问题：CogVideoX 的 3D Causal VAE 与 Expert Transformer 如何协作？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L695",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-026",
+      "originalTitle": "4.3.5.7 面试问题：CogVideoX 如何通过渐进训练、frame pack 与数据管线提升训练效果？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L722",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-027",
+      "originalTitle": "4.3.6.1 面试问题：Seedance 路线如何兼顾多镜头、音视频、多模态控制与推理效率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L746",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-028",
+      "originalTitle": "4.3.6.2 面试问题：Kling-Omni 如何统一视频生成、编辑与多模态推理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L767",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-029",
+      "originalTitle": "4.3.6.3 面试问题：LTX-Video 如何通过高压缩表示和整体去噪实现低延迟生成？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L791",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-030",
+      "originalTitle": "4.3.6.4 面试问题：开放视频基座走向工业系统，还需要补齐哪些环节？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L833",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-031",
+      "originalTitle": "4.3.7.1 面试问题：视频编辑如何从逐帧 V2V 演进到统一的多模态生成与编辑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L866",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-032",
+      "originalTitle": "4.3.7.2 面试问题：视频编辑为什么必须同时处理源视频重建、作用域定位与跨帧保持？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L889",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-ESSENCE-03-033",
+      "originalTitle": "4.3.7.3 面试问题：inversion、attention 控制、时空 mask 与特征传播分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md#L919",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

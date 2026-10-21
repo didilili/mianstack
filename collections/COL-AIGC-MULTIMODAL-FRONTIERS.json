@@ -1,0 +1,344 @@
+{
+  "id": "COL-AIGC-MULTIMODAL-FRONTIERS",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 多模态前沿技术",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的面试题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-001",
+      "originalTitle": "1.多模态思维链（MCoT）的基本定义及其与单模态CoT的区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L18",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-002",
+      "originalTitle": "2.CoT在视频理解任务中的应用及挑战？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L37",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-003",
+      "originalTitle": "3.结构化推理方法在MCoT中的实现方式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L56",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-004",
+      "originalTitle": "4.如何通过提示方法（Prompt-based）引导MCoT生成有效推理链？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-005",
+      "originalTitle": "5.多模态思维链在3D场景理解中的具体应用案例？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-006",
+      "originalTitle": "6.自注释方法在构建MCoT数据集中的作用及局限性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-007",
+      "originalTitle": "7.MCoT在医疗视频分析中的实际应用及效果？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-008",
+      "originalTitle": "8.图拓扑结构（Graph-of-Thought）如何提升MCoT的推理能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-009",
+      "originalTitle": "9.多模态思维链在数学问题解决中的集成方法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-010",
+      "originalTitle": "10.MCoT评估中常用的基准测试及其评价指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L154",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-011",
+      "originalTitle": "1.MRAG 1.0、2.0和3.0在文档解析与索引、检索策略和生成模块设计上有哪些核心差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L178",
+      "reviewStatus": "confirmed",
+      "reviewNote": "MRAG 1.0/2.0/3.0 是本来源对文本中转、联合表示及多模态链路的自定义分类。"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-012",
+      "originalTitle": "2.在MRAG系统中，如何通过双流结构（Dual-stream Structure）和对比学习实现文本-图像跨模态检索的语义对齐？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L196",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-013",
+      "originalTitle": "3.生成式检索（Generative Retrieval）如何通过\"Document Identifiers\"（如GenRet的离散自编码器或ASI的自动化ID分配）解决传统相似性匹配的局限性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-014",
+      "originalTitle": "4.基于提示的重排序方法（Prompting-as-Reranker）在跨模态场景下如何平衡零样本能力与位置偏差（Positional Bias）？举例说明RankGPT的滑动窗口策略和TourRank的锦标赛机制如何优化长文档排序。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L232",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-015",
+      "originalTitle": "5. MRAG的视觉token压缩技术（如LLaVolta的渐进压缩、MustDrop的生命周期重要性评估）如何解决MLLMs输入长度限制？比较这些方法与传统裁剪（Truncation）的ROUGE-L指标差异。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-016",
+      "originalTitle": "6.如何通过\"Augmented Multimodal Output\"子模块实现文本与图像/视频的混合生成？详细说明位置识别（Position Identification）、候选集检索（Candidate Set Retrieval）和匹配插入（Matching and Insertion）三阶段流程。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-017",
+      "originalTitle": "7.对比基于OCR的传统解析（如LayoutLMv3）与MRAG3.0的表示式方法（Representation-based Parsing）：后者如何通过文档截图向量化（DSE）保留结构化信息？分析其在BEIR基准测试中的召回率提升。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-018",
+      "originalTitle": "8.MRAG系统如何通过\"Refiner\"组件（如LLMLingua的困惑度过滤、Prompt-SAW的关系感知图）压缩检索结果？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L290",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-019",
+      "originalTitle": "9.多模态评估方法（如VQA准确率、跨模态检索的mAP@K）是否足以衡量MRAG的幻觉抑制效果？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L305",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-020",
+      "originalTitle": "1.模块化智能体架构如何借鉴人脑功能分区实现类人推理与决策？​",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-021",
+      "originalTitle": "2.智能体的世界模型平衡预测准确性与计算效率的方法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L324",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-022",
+      "originalTitle": "3.情感状态模块如何量化影响智能体决策？​",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L330",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-023",
+      "originalTitle": "4.多模态感知系统是怎么解决跨模态对齐难题的？​​",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-024",
+      "originalTitle": "5.实现智能体的终身学习并避免灾难性遗忘有哪些思路？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-025",
+      "originalTitle": "6.在线学习与离线学习如何“双剑合璧”？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L348",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-026",
+      "originalTitle": "7.基于KL散度的智力度量的依据是什么，怎么在实际场景中做调整？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L352",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题对应 Foundation Agents（arXiv:2504.01990）12.1.1 的 KL 智力度量框架。"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-027",
+      "originalTitle": "8.什么是多智能体通信协议的可扩展性解决方案​？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-028",
+      "originalTitle": "9.Agents中对于神经记忆网络的稀疏激活​的步骤是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L368",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未指定神经记忆网络的结构或稀疏选择算法。"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-029",
+      "originalTitle": "1. LLaVA视觉编码器为何选择CLIP ViT-L/14而非其他视觉骨干？其线性投影层如何实现跨模态特征空间映射？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-030",
+      "originalTitle": "2. LLaVA多模态对齐如何利用CLIP的对比学习先验？其两阶段训练策略如何平衡模态对齐与指令跟随能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-031",
+      "originalTitle": "3. LLaVA-MORE如何实现视觉主干与语言模型的模块化组合？其动态路由机制如何优化多模态特征融合？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L394",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未说明 LLaVA-MORE“动态路由机制”的具体对象。"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-032",
+      "originalTitle": "4. MoE-LLaVA的混合专家架构如何实现稀疏计算？其MoE层替换策略对模型效率有何影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-033",
+      "originalTitle": "5. LLaVA-Video如何处理长视频时序信息？其帧级特征融合机制存在哪些优化瓶颈？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L412",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-034",
+      "originalTitle": "6. LLaVA与扩散模型集成方案如何实现图像生成？其提示词生成机制如何提升生成质量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-035",
+      "originalTitle": "7. Dynamic-LLaVA的动态注意力机制如何实现计算稀疏化？其掩码生成策略如何平衡效率与精度？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-036",
+      "originalTitle": "8. LLaVA量化部署中通道混合精度方案如何分配位宽？其通道显著性度量标准如何设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-037",
+      "originalTitle": "9. LLaVA评估中跨模态一致性度量MIR如何计算？其如何指导训练数据选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L458",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处 MIR 指 Modality Integration Rate。"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-038",
+      "originalTitle": "10. LLaVA-Med在医疗影像分析中的微调路径有何特殊设计？其两阶段训练如何适配医学领域？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L468",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-039",
+      "originalTitle": "1.现有视觉剪枝方法主要分为哪两类？各自的具体实现和局限性是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-040",
+      "originalTitle": "2.VScan的两阶段视觉 token 缩减框架具体如何实现？各阶段的核心策略是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-041",
+      "originalTitle": "3.视觉编码器在处理视觉信息时呈现出怎样的层级规律？这些规律对视觉剪枝有何指导意义？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-042",
+      "originalTitle": "4.为什么语言模型的中间层是进行视觉 token 剪枝的最佳阶段？相关实证研究有哪些关键发现？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-043",
+      "originalTitle": "5.VScan 在效率提升和性能保留方面有哪些具体表现？与其他方法相比有何优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-044",
+      "originalTitle": "1. 为什么 rowspan/colspan 这类复杂表格在多模态 LLM 场景下仍然容易被“拆碎”或“错位”？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-045",
+      "originalTitle": "2. 跨页段落/表格合并任务能否仅靠「文本相似度+启发式规则」解决？其上限在哪里？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L531",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-046",
+      "originalTitle": "3. 在端侧 GPU（如 RTX 3060 6 GB）部署 7 B 级多模态模型几乎不可行，3 B 模型如何做到“精度不降反升”？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-047",
+      "originalTitle": "4. 多模态文档智能与传统OCR在特征表示与任务范式上的本质差异是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L560",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-048",
+      "originalTitle": "5. 如何设计跨模态注意力机制以实现文档中文本、图像与布局的细粒度对齐？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L570",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-049",
+      "originalTitle": "6. 在金融合同结构化解析中，如何通过多模态联合推理验证逻辑一致性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L580",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-050",
+      "originalTitle": "7. 针对低质量扫描文档，如何构建端到端的图像增强与几何校正流水线？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L591",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-051",
+      "originalTitle": "8. 多模态文档理解模型的评估体系应如何设计以全面反映真实业务需求？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L611",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-052",
+      "originalTitle": "9. 如何设计自监督预训练任务以充分利用无标注文档数据？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L623",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-FRONTIERS-053",
+      "originalTitle": "10. 多语言文档处理中，如何解决非拉丁语系的文字布局与语义理解难题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md#L636",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

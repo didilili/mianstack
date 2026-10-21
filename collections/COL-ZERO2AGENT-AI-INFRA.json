@@ -1,0 +1,256 @@
+{
+  "id": "COL-ZERO2AGENT-AI-INFRA",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · AI Infra：训练、推理与 GPU 平台工程",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-001",
+      "originalTitle": "如何用 Roofline 和算术强度指导 CUDA 算子优化？从 GEMM 分块到寄存器压力如何逐层定位？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L16",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-002",
+      "originalTitle": "FlashAttention 为什么更快？Online Softmax、Tiling、重计算和不同版本分别解决什么瓶颈？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L30",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-003",
+      "originalTitle": "KV Cache 占用如何计算，为什么不能只按请求数做容量规划？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-004",
+      "originalTitle": "如何从模型结构估算参数量、FLOPs、训练显存、推理访存与 MFU？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-005",
+      "originalTitle": "如何估算 All-Reduce/All-to-All 通信量并实现计算通信重叠？拓扑和 RDMA 如何影响结果？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L90",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-006",
+      "originalTitle": "GPU 内存层次如何使用？Pinned Memory、Shared Memory、Bank Conflict 与异步 H2D/D2H 分别解决什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L106",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-007",
+      "originalTitle": "vLLM/SGLang 的请求调度与 Continuous Batching 如何工作？请求被抢占后如何恢复？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-008",
+      "originalTitle": "大模型训练吞吐低时，如何用 MFU、Profiler、通信和流水线空泡定位瓶颈？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-009",
+      "originalTitle": "CUDA 的 Thread、Warp、Block、Grid 和 SM 如何映射？SIMT、同步与 Warp 分歧如何影响性能？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-010",
+      "originalTitle": "FP8、NVFP4、INT8 与 W4A16 的数值格式、缩放粒度和硬件执行路径有何不同？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L167",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-011",
+      "originalTitle": "量化后为什么不一定更快？量化 Matmul、反量化、Prefill 和 Decode 的瓶颈如何判断？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L181",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-012",
+      "originalTitle": "流水线并行的 Bubble 从哪里来？1F1B、Zero-Bubble 与 DualPipe 如何调度？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-013",
+      "originalTitle": "如何设计大模型在线推理服务？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-014",
+      "originalTitle": "投机采样中 Draft 与 Target 模型如何交互？什么时候会加速，什么时候反而变慢？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-015",
+      "originalTitle": "MoE 的 Expert Parallel 如何做 Dispatch/Combine、负载均衡和通信优化？DeepEP/EPLB 分别解决什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L247",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-016",
+      "originalTitle": "CPU、GPU 与 NPU 的体系结构和优化目标有什么差异？如何为训练/推理工作负载选硬件？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-017",
+      "originalTitle": "Stride、View/Contiguous 与 NHWC/NCHW 如何影响张量算子的正确性和性能？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-018",
+      "originalTitle": "Prefill 与 Decode 的算子形态和瓶颈为何不同？Matmul、KV 传输和量化应如何分别优化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-019",
+      "originalTitle": "SpMV 和 GEMM 的计算、访存特征有什么不同？优化方向如何选择？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-020",
+      "originalTitle": "Attention 与 FFN 的计算量和参数量谁更大？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-021",
+      "originalTitle": "CUDA Graph 为什么能降低推理开销？为什么可能额外占显存，Prefill 与 Decode 哪个阶段更适合？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L335",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-022",
+      "originalTitle": "PD 分离解决什么问题，Prefill 与 Decode 资源比例怎么定？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L349",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-023",
+      "originalTitle": "模型版本升级如何做到可观测、可灰度、可回滚？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-024",
+      "originalTitle": "CUDA、Triton、CUTE 与 MLIR 分别位于什么抽象层？算子编译链和选型依据是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-025",
+      "originalTitle": "KV Cache 命中率如何评估与优化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-026",
+      "originalTitle": "AIOps 如何结合告警、Metrics、Logs、Trace 和服务拓扑完成证据驱动的 RCA，并安全执行自动处置？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-027",
+      "originalTitle": "DeepSpeed ZeRO 的三个阶段分别做什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-028",
+      "originalTitle": "大模型训练出现 OOM 时，如何定位原因并进行显存优化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L452",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-029",
+      "originalTitle": "训练与推理引擎的核心模块、底层工作与优化方向是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L466",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-030",
+      "originalTitle": "AI Infra 和 Agent Infra 有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L479",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-031",
+      "originalTitle": "如果让你设计一个生产级 AI Infra 平台，你会怎么拆？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-032",
+      "originalTitle": "分布式训练为什么容易失败，如何恢复？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L528",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-033",
+      "originalTitle": "GPU 利用率很低，但请求延迟很高，怎么排查？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L550",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-034",
+      "originalTitle": "GPU 上的同步方法代码可能有哪些问题，如何排查？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L572",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未附具体同步代码。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-035",
+      "originalTitle": "GPU 峰值性能、计算单元与寄存器等硬件参数如何影响算子性能？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-036",
+      "originalTitle": "Nsight Compute（ncu）和 Nsight Systems（nsys）有什么区别？分别适合分析什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-037",
+      "originalTitle": "推测解码中如何生成树状候选草稿？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-038",
+      "originalTitle": "SIMD 与 RVV 向量化计算如何处理尾部元素？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L625",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-INFRA-039",
+      "originalTitle": "GPU 调度和普通 CPU 调度有什么不同？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md#L637",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

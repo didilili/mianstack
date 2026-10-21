@@ -1,0 +1,48 @@
+{
+  "id": "COL-AIGC-DL-ESSENCE-05",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 深度学习精华·框架与工具",
+  "coverage": [
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/05_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%B7%A5%E5%85%B7.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-ESSENCE-05-001",
+      "originalTitle": "面试问题：动态图、图执行与编译执行有什么区别？PyTorch 中应如何选择 eager、torch.compile 与模型导出？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/05_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%B7%A5%E5%85%B7.md#L23",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-05-002",
+      "originalTitle": "面试问题：PyTorch Tensor 的核心特性有哪些？它与 NumPy 数组的本质差异和互转注意事项是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/05_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%B7%A5%E5%85%B7.md#L77",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-05-003",
+      "originalTitle": "面试问题：Autograd 如何构建动态计算图并完成反向传播？requires_grad、detach、no_grad 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/05_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%B7%A5%E5%85%B7.md#L138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-05-004",
+      "originalTitle": "面试问题：model.train()、model.eval()、torch.no_grad() 和 torch.inference_mode() 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/05_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%B7%A5%E5%85%B7.md#L150",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ESSENCE-05-005",
+      "originalTitle": "面试问题：Hugging Face、DeepSpeed 与 Megatron-LM 分别解决什么问题，如何配合使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/05_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%B7%A5%E5%85%B7.md#L276",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

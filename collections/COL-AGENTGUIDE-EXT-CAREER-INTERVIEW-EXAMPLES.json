@@ -1,0 +1,160 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 算法与开发岗位项目追问",
+  "coverage": [
+    "rag",
+    "ai_engineering",
+    "training",
+    "software",
+    "coding",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-001",
+      "originalTitle": "你的算法创新点是什么？为什么这样设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-002",
+      "originalTitle": "有没有考虑过其他方法？为什么选择这个？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-003",
+      "originalTitle": "算法的时间/空间复杂度是多少？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-004",
+      "originalTitle": "做了哪些对比实验？baseline选择的依据是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-005",
+      "originalTitle": "消融实验怎么做的？每个模块的贡献是多少？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-006",
+      "originalTitle": "有没有失败的尝试？为什么失败？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L444",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-007",
+      "originalTitle": "能推导一下这个算法的数学原理吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-008",
+      "originalTitle": "为什么这个loss function有效？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-009",
+      "originalTitle": "如果数据分布变化，算法还有效吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-010",
+      "originalTitle": "你的GraphRAG算法改进点是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-011",
+      "originalTitle": "系统架构是怎么设计的？为什么这样设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-012",
+      "originalTitle": "如果QPS增长10倍，怎么扩展？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L476",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-013",
+      "originalTitle": "如何保证系统的高可用？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-014",
+      "originalTitle": "遇到过什么性能瓶颈？怎么发现和解决的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-015",
+      "originalTitle": "为什么响应时间能从2s降到300ms？具体做了什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-016",
+      "originalTitle": "如何监控和定位性能问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L482",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-017",
+      "originalTitle": "为什么选择这个技术方案？有没有考虑其他方案？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-018",
+      "originalTitle": "业务上遇到的最大挑战是什么？怎么解决的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L486",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-019",
+      "originalTitle": "用户反馈如何？根据反馈做了哪些迭代？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-020",
+      "originalTitle": "系统出现故障怎么办？有什么容错机制？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L490",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-021",
+      "originalTitle": "线上出过什么问题？怎么排查和修复的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-022",
+      "originalTitle": "如何做监控和告警？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES-023",
+      "originalTitle": "RAG系统响应时间怎么从2s优化到300ms的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L496",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

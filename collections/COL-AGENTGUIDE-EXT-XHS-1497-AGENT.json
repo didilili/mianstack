@@ -1,0 +1,1574 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · Agent与工具调用",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-001",
+      "originalTitle": "一共定义了多少个意图? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-002",
+      "originalTitle": "问agent相关，有经验吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-003",
+      "originalTitle": "【Agent基础概念】1. 什么是Agent？Agent与LLM的区别？2. 什么是Function Call？3. 什么是AgentScope？4. 什么是LangChain？什么是LangChain model？5. 什么是Skills？请介绍Agent相关的八股概念，并谈谈你对Agent的理解。 「京东、字节跳动、百度、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-004",
+      "originalTitle": "【Agent Skills理解】讲一下对Agent Skills的理解。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-005",
+      "originalTitle": "【Agent与Workflow对比】Agent vs Workflow：对比Agent和Workflow的区别。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2266",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-006",
+      "originalTitle": "【Agent与工具调用】1. 如果不做后训练，Agent算法岗是否仍属于算法岗？请从算法岗定义角度分析。 2. 在Agent项目中是否使用过Skill？请描述Skill的定义、作用及使用场景。 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2267",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-007",
+      "originalTitle": "【Agent与工具调用综合】请介绍Agent相关概念：1. Agent工作原理与组成部分；2. Agent自主规划；3. Agent应用场景；4. Agent与Pipeline、Workflow、CLI的区别；5. Multi-Agent概念；6. 子Agent任务定义；7. ReAct思路及实现（是否用Python组件）；8. LangChain Agent；9. LangChain vs LangGraph选择；10. MCP协议（定义、作用、框架原理、应用场景）及与Agent关系；11. MCP接口使用；12. MCP工具描述数量；13. Skill内容（是否放代码）；14. 工具编排能力强的模型；15. AI/Agent在数据处理中的应用；16. LLM实际应用经历。 「京东、字节跳动、百度、百度文心、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-008",
+      "originalTitle": "【Agent原理】Agent原理：解释Agent的基本原理。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2269",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-009",
+      "originalTitle": "【Agent外部工具调用】Agent调用了哪些外部工具？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2270",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-010",
+      "originalTitle": "【Agent定义边界】打标签也算一个agent吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2271",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-011",
+      "originalTitle": "【Agent循环流程】Agent的循环流程是怎样的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2272",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-012",
+      "originalTitle": "【Agent效果评估】Agent 在任务上效果提升明显吗？例如开发对话机器人、文本生成工具，效果如何？ 「京东、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-013",
+      "originalTitle": "【Agent数据交互】Agent中数据是怎么交互的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-014",
+      "originalTitle": "【Agent整体流程】Agent整体流程是怎么做的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-015",
+      "originalTitle": "【Agent架构 vs LLMChain】简述Agent的基本架构组成，并解释其与传统LLMChain的区别。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-016",
+      "originalTitle": "【Agent架构演进】现在做的Agent应用开发是新架构还是之前的架构？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2277",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未标明新旧架构的具体结构。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-017",
+      "originalTitle": "【Agent框架工具】用了什么工具去做了这个agent框架？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-018",
+      "originalTitle": "【Agent组件与工作原理】智能体是怎么工作的，有哪些组件？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-019",
+      "originalTitle": "【Agent评估维度】Agent的评估体系通常包括哪些维度？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-020",
+      "originalTitle": "【AI coding使用方式】AI coding一般怎么用？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-021",
+      "originalTitle": "【Codex命令行】Codex用命令行不也是对话么，高级在哪？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-022",
+      "originalTitle": "【Codex提效】Code/Codex提效？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-023",
+      "originalTitle": "【Coze平台】有没有用过市面上比较火的平台比如字节的Coze这种？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-024",
+      "originalTitle": "【Function Call与工具调用】Function call和Agent工具调用的关系是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-025",
+      "originalTitle": "【HANAS模式】有用过HANAS模式吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2286",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未定义 HANAS。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-026",
+      "originalTitle": "【LangChain Agents and Toolkits】LangChain中Agents and Toolkits是什么？ 「百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2287",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-027",
+      "originalTitle": "【LangChain ExampleSelectors】LangChain中ExampleSelectors是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2288",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-028",
+      "originalTitle": "【LangChain特点与功能】LangChain包含哪些特点？支持哪些功能？ 「百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-029",
+      "originalTitle": "【LangChain组件与链】LangChain中Components and Chains是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2290",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-030",
+      "originalTitle": "【LangChain组件链接】LangChain如何链接多个组件处理一个特定的下游任务？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2291",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-031",
+      "originalTitle": "【LangChain调用LLM】LangChain如何调用LLMs生成回复？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2292",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-032",
+      "originalTitle": "【LangGraph vs 自研】LangGraph还是自研？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2293",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-033",
+      "originalTitle": "【MCP架构】MCP三层架构Host/Client/Server各自职责？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-034",
+      "originalTitle": "【OpenClaw】讲讲open claw有什么技术上的创新。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2295",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-035",
+      "originalTitle": "【ReAct思想】讲讲react思想。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-036",
+      "originalTitle": "【README验收流程】现在你的目标是按照README.md进行验收，要求：对照README逐条验收，标出哪些做了哪些没做。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2297",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-037",
+      "originalTitle": "【Superpowers框架】是否了解Superpowers？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-038",
+      "originalTitle": "【代码生成应用场景】AI生成的代码适用于哪些场景？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2299",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-039",
+      "originalTitle": "【工具调用方式与工具类型】工具是如何调用的？有哪些工具？具体某个工具是怎么执行的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2300",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-040",
+      "originalTitle": "【开源Memory框架】询问一些开源的Memory的框架，像MemGPT、Zeta等？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2301",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供 Zeta Memory 的项目定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-041",
+      "originalTitle": "【新型Agent】有没有了解一些新的Agent？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2302",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-042",
+      "originalTitle": "【转人工切换】怎么切换的转人工？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-043",
+      "originalTitle": "【Agentic训练输出token】你的Agentic训练平均输出token是多少？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2308",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供平均输出 Token 的数值或统计口径。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-044",
+      "originalTitle": "【Agent JSON格式错误】你的agent有遇到过json格式错误吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2309",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-045",
+      "originalTitle": "【Agent SFT训练】agent通过SFT如何训练？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-046",
+      "originalTitle": "【Agent Skill开发与使用】是否写过自己的Skill？是否自己写过skill或者用过skill？ 「美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2311",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-047",
+      "originalTitle": "【Agent vs 微调适用场景】Agent和模型微调分别适用于什么问题？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-048",
+      "originalTitle": "【Agent/Workflow搭建】有自己搭过一些小的agent/workflow的demo吗？有没有搭建过workflow或者agent？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2313",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-049",
+      "originalTitle": "【Agent上下文优化】Agent是否做过上下文优化？Agent大模型请求的上下文具体是怎么分层组装的？ 「美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-050",
+      "originalTitle": "【Agent与OpenClaw对比】你的Agent和OpenClaw这类产品本质区别是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2315",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-051",
+      "originalTitle": "【Agent与RAG结合】有没有用到Agent和RAG？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-052",
+      "originalTitle": "【Agent业务应用】最新的Agent技术在具体业务中有哪些运用？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2317",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-053",
+      "originalTitle": "【Agent业务问题模块】你觉得 Agent 哪些模块最容易在真实业务中出问题？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-054",
+      "originalTitle": "【Agent任务规划Prompt】Agent任务规划用的什么Prompt策略？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-055",
+      "originalTitle": "【Agent信息收集与结论输出】Agent是如何判断已经收集了足够的信息，并最终给出输出结论的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-056",
+      "originalTitle": "【Agent协作模式】了解Agent Team、SubAgent这类协作模式吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-057",
+      "originalTitle": "【Agent场景适用性】为什么要用agent解决这个场景？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-058",
+      "originalTitle": "【Agent多轮对话记忆】Agent多轮对话怎么不忘记最开始任务？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-059",
+      "originalTitle": "【Agent工作流与架构】介绍一下你agent的工作流。你之前做的Agent项目用的是什么架构？你做的这个demo有agent，那不同的区块是怎么设计的？ 「字节跳动、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2324",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-060",
+      "originalTitle": "【Agent工具使用】有做过agent tool use的工作吗？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-061",
+      "originalTitle": "【Agent工具设计与调用】结合一个例子讲讲项目里的多工具调用链路；项目中如何设计Agent工具调用流程？工具设计是否是workflow形式？DAG图是怎么构建的？用了LangGraph实现多工具调用链路，相比纯Prompt工程方法有什么核心优势？项目中的Agent思路讲一下？ 「京东、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-062",
+      "originalTitle": "【Agent应用价值】目前做的Agent应用开发解决了哪些之前解决不了的问题？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2327",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-063",
+      "originalTitle": "【Agent开发流程】核心打法分六步，简单说下。先让AI通读README，输出项目目标和功能点，核对理解有没有偏差，先不写代码。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2328",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源只记载“六步”的第一步需求理解核对。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-064",
+      "originalTitle": "【Agent指令矛盾处理】Agent遇到前后指令矛盾的时候怎么处理？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2329",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-065",
+      "originalTitle": "【Agent数据安全】agent里面经常会遇到数据安全的问题，你有没有处理过？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2330",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-066",
+      "originalTitle": "【Agent构建瓶颈】构建 Agent 的时候，遇到过哪些瓶颈？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2331",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-067",
+      "originalTitle": "【Agent构成与实现方法】Agent有哪几部分构成，了解哪些具体的实现方法？核心模块有哪些？核心架构是怎么样的？ai应用(agent)的构建大致讲一下，包含哪些模块？Agent的组成部分及实现方法？ 「字节跳动、百度、百度文心、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-068",
+      "originalTitle": "【Agent架构与工作流】Agentic Workflow和Agentic Architecture的区别是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-069",
+      "originalTitle": "【Agent框架与设计】熟悉哪些Agent框架？如果要设计一个好的Agent，除了大模型，还会设计哪些部分？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2334",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-070",
+      "originalTitle": "【Agent框架对比】了解哪些Agent开发框架（如LangChain、LlamaIndex、LangGraph、MetaGPT）？它们核心应用场景和基础差异是什么？ 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2335",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-071",
+      "originalTitle": "【Agent框架理解】对 Agent 框架的理解(langchain、langgraph) 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-072",
+      "originalTitle": "【Agent模型能力vs框架】Agent中模型能力重要还是设计框架重要？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2337",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-073",
+      "originalTitle": "【Agent模型部署】Agent项目的模型怎么部署的（调用api）？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2338",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-074",
+      "originalTitle": "【Agent横向对比评测】你的Agent有没有去和其他同类优秀的开源项目做过横向的技术对比或指标评测？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-075",
+      "originalTitle": "【Agent死循环解决】Agent死循环问题怎么解决？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-076",
+      "originalTitle": "【Agent流程优化】如果并不需要这么多步就能达到用户要的效果，你要怎么改进? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2341",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-077",
+      "originalTitle": "【Agent状态可控性、可恢复性、可观测性】如何理解Agent的状态可控性、可恢复性、可观测性？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-078",
+      "originalTitle": "【Agent看法与关键】你对Agent有什么看法？做好Agent的关键是什么？ 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2343",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-079",
+      "originalTitle": "【Agent系统Prompt设计迭代】你的Agent系统Prompt是怎么设计和迭代的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2344",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-080",
+      "originalTitle": "【Agent综合理解与设计】对Agent的理解，用过什么Agent框架？快速响应？识别准确率？用户的上下文管理？对LangGraph的理解？对MCP的理解？对业内Agent memory做得好的理解？当前市面上用的多的方案有哪些？对于代码解析有没有前置分析？对于长期记忆，它是怎么处理和存储的？工具Schema怎么写？工具调用怎么调度？工具调用输出格式混乱，有哪些解决手段？工具返回结果很长时，应该裁剪、摘要、丢弃还是压缩？工具链能否Skill化？影响大模型Agent工具调用对齐效果的核心环节是什么？怎么保证Agent准确率高？怎么提升多工具调用效率？怎么用Claude挂Notion MCP？意图规划怎么设计的？拟人化Memory设计技巧，常见memory有哪几种？整体是master+subAgent还是Workflow形式？是做“大脑”决策还是只做“嘴替”解释决策？ 「京东、字节Seed、字节跳动、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2345",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-081",
+      "originalTitle": "【Agent范式对比】Agent范式对比与三节点状态机： - Plan & Execute和ReAct两种范式有什么区别？请分别介绍它们的基本原理和特点。 - Planner → Executor → Replanner三节点状态机如何流转？ 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-082",
+      "originalTitle": "【Agent规划与重规划】是否同时承担判断 + 重规划？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-083",
+      "originalTitle": "【Agent记忆与技能】Agent的memory空间管理？Agent的skills功能原理是什么？Agent的短期长期记忆是怎么实现的？agent记忆功能怎么做的？会话内靠上下文窗口直接记，跨会话靠提取摘要存入长期记忆库、下次检索召回。agent里面memory问题你认为有哪些解决方案？ 「京东、字节跳动、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2348",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-084",
+      "originalTitle": "【Agent输出优化】如果Agent输出的结果不理想怎么办？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2349",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-085",
+      "originalTitle": "【Agent选型考量】为什么不直接用Claude Code或公司内部Agent？为什么考虑LangGraph框架？为什么选择用LangChain？ 「字节跳动、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2350",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-086",
+      "originalTitle": "【Agent长上下文处理能力】Agent长上下文。Agent解决长文本的能力有哪些？ 「百度文心、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2351",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-087",
+      "originalTitle": "【Agent长短期记忆设计】Agent长短期记忆怎么设计？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2352",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-088",
+      "originalTitle": "【AI Agent发展】谈谈对 AI Agent 发展的理解(从纯 LM 到引入 Tools/MCP，思维链思维树，fewshot，RAG，多agent，skill)。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2353",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-089",
+      "originalTitle": "【AI Agent在代码工程中的应用】你怎么看现在用AI agent帮忙写代码、review和梳理工程？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2354",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-090",
+      "originalTitle": "【AI coding工具】AI coding具体过程。Claude Code、Codex等熟悉不？Claude Code在使用中接的什么模型？Claude Code的hook是什么用处？什么场景？Claude Code的记忆机制是怎么设计的？内置工具有哪些？Claude Code和Cursor底层调用大模型的方式有什么区别？ 「字节跳动、百度文心、美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2355",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-091",
+      "originalTitle": "【Coding Agent模式】使用 Coding Agent 时一般有哪些模式? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-092",
+      "originalTitle": "【Coding Agent模式与能力】Coding Agent一般有哪些使用模式，它们之间有什么区别？请描述Coding Agent的能力。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2357",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-093",
+      "originalTitle": "【DeepResearch】DeepResearch了解吗？核心是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2358",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-094",
+      "originalTitle": "【Dify使用问题与优化】使用Dify的时候遇到了什么问题，怎么优化？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2359",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-095",
+      "originalTitle": "【Function Calling vs MCP】比如询问 Function calling 和 MCP 的区别; 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-096",
+      "originalTitle": "【Function Call vs MCP vs Skill】Function Calling、MCP、Skill各自的优势是什么？并说明Function Call到MCP到Skills的区别与优缺点。 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2361",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-097",
+      "originalTitle": "【GUIAgent】GUIAgent。虽然我不知道这个在游戏AI有什么用，但可以面试时候各个游戏厂都在做这个。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-098",
+      "originalTitle": "【LangChain】LangChain包含哪些核心概念？LangChain如何使用？LangChain也有Plan或React框架？为什么不用LangChain？LangChain低效的令牌使用问题。LangChain存在哪些问题及缺点？介绍LangChain和Dify的区别。LangChain和LangGraph的主要区别是什么？你是怎么理解的？ 「字节跳动、百度、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2363",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-099",
+      "originalTitle": "【LangChain对比】相比LangChain的优势与弊端？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2364",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明与 LangChain 比较的框架或自研方案。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-100",
+      "originalTitle": "【LangGraph】LangGraph框架怎么搭建？用什么实现？LangGraph的状态机原理是什么？LangGraph具体有什么动作？（LangGraph具体的拓扑结构）LangGraph相对其他开源智能体编排工具的优点是什么？LangGraph是否存在与其他工具不兼容的问题？如果有，你是如何解决的？ 「百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-101",
+      "originalTitle": "【LangGraph vs LangChain范式】LangGraph这种范式可以代替LangChain(Plan)这种范式吗？请对比两者的设计理念、适用场景及优缺点。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-102",
+      "originalTitle": "【LangGraph中MCP调用】在LangGraph中是怎么让模型调用MCP调用？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-103",
+      "originalTitle": "【LangGraph状态管理必要性】在现有场景中是否需要用到LangGraph的状态管理功能？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-104",
+      "originalTitle": "【LangGraph问答系统构建】基于LangGraph构建一个问答系统需要哪些组件，具体有哪些步骤？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2369",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-105",
+      "originalTitle": "【LLM与Appium联动】LLM和Appium怎么联动？请描述如何利用LLM驱动Appium进行移动端自动化测试或操作。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2370",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-106",
+      "originalTitle": "【Long-term Memory实现】如何理解Long-term Memory的实现方式？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2371",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-107",
+      "originalTitle": "【MCP/Prompt/CLI/Skill/Harness关系】你怎么理解MCP，Prompt，CLI，Skill，Harness这些概念，以及他们之间的关系？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2372",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-108",
+      "originalTitle": "【MCP原理与对比】MCP原理、动态路由、与Function Call/Skill对比： - 讲一下MCP原理。 - MCP动态路由具体是哪些？ - MCP和Function Call有什么区别？介绍MCP，MCP相比Function Call的优点。 - MCP和Skill分别是什么，功能定位有什么区别？ - Skills和MCP的区别？ 「字节跳动、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2373",
+      "reviewStatus": "confirmed",
+      "reviewNote": "MCP“动态路由”未说明路由对象与实现方式。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-109",
+      "originalTitle": "【Mock实现】Mock是怎么实现的？请解释在Agent或工具调用测试中Mock的实现原理和常见方法。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-110",
+      "originalTitle": "【Multi-Agent】Multi-Agent构造、角色分工与通信： - Multi-Agent中各Agent怎么通信？ - Multi-agent协作: planner / executor / critic的角色分工。 - Multi-agent是怎么构造，怎么完成业务需求？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-111",
+      "originalTitle": "【Multi-Agent Reflection与Memory】介绍一下在Multi-Agent中Reflection和Memory机制的作用？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-112",
+      "originalTitle": "【OpenClaw与Skills】OpenClaw有了解吗？有自己写过Skill吗？了解过OpenClaw的Skills吗？请介绍OpenClaw及其Skills机制。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2377",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-113",
+      "originalTitle": "【OpenClaw等Agent框架】有用过像什么openclaw之类的agent吗，结合你的项目来说说用来干什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2378",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-114",
+      "originalTitle": "【RAG工具调用】RAG中Tool Call是怎么做的？请描述在RAG系统中如何集成工具调用。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2379",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-115",
+      "originalTitle": "【React vs Reflection】讲一下智能体React和Reflection范式的区别？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2380",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-116",
+      "originalTitle": "【ReAct原理与对比】ReAct原理、与CoT/Workflow对比、Replan必要性： - ReAct的基本原理是什么？相比CoT的优势是什么？介绍一下ReAct的机制，整个流程是什么？ - ReAct框架里CoT的thinking部分可以自动调用工具吗？ - ReAct和Workflow对比，以及ReAct与其他模式的区别。 - Replan是否必走？ 「京东、字节跳动、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2381",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-117",
+      "originalTitle": "【ReAct循环】请解释ReAct循环的工作原理，包括如何识别action、执行工具、接收observation并继续推理，以及为什么要使用ReAct？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-118",
+      "originalTitle": "【Skills与Function Call】Skills可以代替Function Call么？怎么样可以代替？请分析Skills与Function Call的异同及替代条件。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-119",
+      "originalTitle": "【Skills机制】Skills机制的原理是什么？具体是做什么的？为什么需要有skill？你会如何设计一个好的skill？ 「字节跳动、美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-120",
+      "originalTitle": "【Skills设计与优化】你是怎么设计和实现Skills体系的？有没有自己写过什么Skill，怎么优化Skill？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-121",
+      "originalTitle": "【Skills质量评估】如何评价一个Skills写的好坏？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-122",
+      "originalTitle": "【Skill封装原则】关于Skill的封装，你认为什么样的功能适合封装成Skill? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-123",
+      "originalTitle": "【Skill开发经验】自己写过什么 SKILL？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-124",
+      "originalTitle": "【Subagent设计】Subagent设计是怎样的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-125",
+      "originalTitle": "【Summary节点作用】项目二提到了Summary节点。你觉得这个Summary节点在Agent项目或者整个报告生成的链路中，作用是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2390",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未给出项目二中 Summary 节点的输入与输出。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-126",
+      "originalTitle": "【Token消耗排查】消耗token过快怎么排查？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-127",
+      "originalTitle": "【Tool Calling与ReAct对比】toolcalling和ReAct的区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2392",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-128",
+      "originalTitle": "【Tool Calling实现】你的项目怎么实现toolcalling？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2393",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-129",
+      "originalTitle": "【Tool Schema设计】ToolSchema怎么设计？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-130",
+      "originalTitle": "【Workflow与Agent对比】详细区分Workflow和Agent的核心差异与适用场景；逻辑已经很明确，为什么不用 workflow 而要用复杂架构Agent？workflow和agent的区别是什么？为什么要做成agent而不是直接用workflow？ 「京东、字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-131",
+      "originalTitle": "【专家系统模型与路径匹配】专家里面用的是什么模型，知道路径匹配吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2396",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“专家”模型与“路径匹配”未给出具体定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-132",
+      "originalTitle": "【业务Agent vs 通用LLM】简单介绍你对美团业务Agent的理解，和通用LLM对话机器人有什么核心区别？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2397",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-133",
+      "originalTitle": "【代码喂给LLM的方式】像 Trae 这类工具，项目代码怎么喂给 LLM 的? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2398",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-134",
+      "originalTitle": "【代码生成与工作流约束】写代码用不用工作流约束? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-135",
+      "originalTitle": "【内部模块集成】如果团队内部有一些模块已经封装成pip包，怎么让Agent知道这些函数，并在合适的时候调用？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-136",
+      "originalTitle": "【单Agent与多Agent选择】项目中是单Agent还是多Agent架构？单 Agent vs 多 Agent 如何取舍？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2401",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-137",
+      "originalTitle": "【反思机制作用】反思机制的作用是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-138",
+      "originalTitle": "【反思模块逻辑】讲讲agent中的反思模块逻辑。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-139",
+      "originalTitle": "【外部工具封装原因】外部 tool 接入后为何要再封装一层? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2404",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-140",
+      "originalTitle": "【多Agent技术与主流框架】多Agent相关的技术有哪些？最近比较主流的框架或方法是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-141",
+      "originalTitle": "【多Agent系统中Skill定义与工作模式】在多Agent系统中，Skill是什么？Skill的具体工作模式是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-142",
+      "originalTitle": "【多智能体通信】智能体与智能体之间怎么通信？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-143",
+      "originalTitle": "【多级记忆设计】短期、中期、长期记忆怎么做？短期记忆和长期记忆有什么区别？如何区分与保存？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-144",
+      "originalTitle": "【大模型工具调用实现】大模型工具调用的实现方式。 变体： - 大模型工具调用的实现方式。 - 大模型的工具调用怎么实现？ 「百度、百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2409",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-145",
+      "originalTitle": "【子Agent任务分工】各个子Agent的核心任务和分工是什么? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2410",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-146",
+      "originalTitle": "【子Agent错误处理】如果子agent回复不对怎么办? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-147",
+      "originalTitle": "【对话系统响应速度】如果对话系统需要及时回答?应该怎么做? 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2412",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-148",
+      "originalTitle": "【工具调用准确率计算】模型工具调用的准确率是如何计算的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-149",
+      "originalTitle": "【工具调用失败处理】如果某个工具调用失败，系统如何继续完成任务？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-150",
+      "originalTitle": "【工具调用顺序】不同工具之间的调用顺序是如何确定的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2415",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-151",
+      "originalTitle": "【工具边界】你对工具边界有没有认识？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2416",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-152",
+      "originalTitle": "【工具返回结果Schema校验】如何保证Agent调用外部工具后的返回结果符合业务Schema规范？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-153",
+      "originalTitle": "【开源Agent记忆结构】你怎么看现在一些开源Agent的记忆结构？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-154",
+      "originalTitle": "【思考与工具调用并行】模型可以边思考边调用工具吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-155",
+      "originalTitle": "【自然语言超出流程处理】如果自然语言超出了流程，会怎么样？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2421",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-156",
+      "originalTitle": "【规划与执行交互】规划模块和执行模块之间是如何交互的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-157",
+      "originalTitle": "【记忆召回策略】在使用记忆系统时，哪些记忆应该被召回使用，哪些不需要使用？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-158",
+      "originalTitle": "【Agent Harness】说一下你对 Agent Harness 的理解，包括其可能的设计原则或设计理念。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2428",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-159",
+      "originalTitle": "【Agentic RL】使用Agentic RL的时候，什么时候使用tool？Agentic RL的设计思路是什么？ 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2429",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-160",
+      "originalTitle": "【Agentic训练损失】agentic 训练 loss 是什么？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2430",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明具体训练算法、轨迹监督或奖励目标，无法确定其损失函数。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-161",
+      "originalTitle": "【Agent/RAG压力测试】Agent/RAG系统的压力测试方案，核心关注QPS、响应延迟、吞吐量、错误率、幻觉率、Token消耗等指标。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-162",
+      "originalTitle": "【Agent Sandbox】Agent Sandbox调度和Kubernetes调度有什么关系？调度的核心指标有哪些？调度问题的本质是什么？资源画像应该建模什么？预热怎么做？为什么需要休眠和唤醒？如何设计多级缓存？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2432",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-163",
+      "originalTitle": "【Agent SFT优化选择】如何判断应该对哪个Agent做SFT优化? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2433",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-164",
+      "originalTitle": "【Agent SFT依赖分析】agent训练过程中，工具调用本身和基于工具调用结果的后续内容生成，哪个对于SFT的依赖更大？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2434",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-165",
+      "originalTitle": "【Agent token优化】设计Agent时，怎么在保证效果的前提下减少token消耗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2435",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-166",
+      "originalTitle": "【Agent业务落地】如何落地到业务Agent中？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2436",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-167",
+      "originalTitle": "【Agent人类监督与成本】Agent能帮你干活，但分析问题、拆解问题还是需要人类来把关，因为训推profile的成本问题，是不能像传统开发一样轻易信任agent然后用TDD之类的得到结果 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-168",
+      "originalTitle": "【Agent任务拆分与质量关系】你认为要把一件事情做好，Agent应该怎么拆分。Agent拆分的环节数量，对于最终的交付质量有什么关系？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-169",
+      "originalTitle": "【Agent可观测体系设计】如何设计Agent的可观测体系？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-170",
+      "originalTitle": "【Agent基准测试】有想过Agent的benchmark该怎么做吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2440",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-171",
+      "originalTitle": "【Agent多步推理评估与优化】agent多步推理能力如何评估 如何优化？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2441",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-172",
+      "originalTitle": "【Agent多步规划工程】Agent系统的工程细节：多步规划怎么做？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-173",
+      "originalTitle": "【Agent应用开发趋势】2026年做Agent应用开发，跟去年的变化是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-174",
+      "originalTitle": "【Agent微调与强化学习】是否做过对Agent整体的微调？对Agent整体的微调(包含RL)是否了解？ 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2444",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-175",
+      "originalTitle": "【Agent推理链路优化】Agent 推理链路怎么优化？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2445",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-176",
+      "originalTitle": "【Agent推理链路延迟优化】假设一个Agent推理链路包含3个工具调用，并且请求频率较高，系统整体延迟较高，你会如何优化？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2446",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-177",
+      "originalTitle": "【Agent改进方向】如果要继续做你觉得可以怎么改进(加入skills,mcp之类的,扩充知识库) 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-178",
+      "originalTitle": "【Agent未来核心能力】你觉得未来agent的核心能力是什么? 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-179",
+      "originalTitle": "【Agent架构与多智能体协同】一个完整的Agent包含哪几个核心模块？其工程组成部分有哪些？在项目框架中，工具、memory如何编排？使用什么评价指标？为什么 harness 能提升 agent 能力？为什么要使用多智能体？你是如何利用多Agent协同来提高推理正确率的？ 「字节Seed、字节跳动、百度、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-180",
+      "originalTitle": "【Agent模块设计】如果让你设计一个Agent要考虑哪些模块? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2450",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-181",
+      "originalTitle": "【Agent死循环处理】模型陷入死循环或turn数远超预期时，如何处理？例如一直重复问无关问题、胡言乱语等。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2451",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-182",
+      "originalTitle": "【Agent泛化性与鲁棒性】开放场景下，如何保障大模型Agent的泛化性与工具调用鲁棒性？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2452",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-183",
+      "originalTitle": "【Agent流程设计】如果要做某个功能，你会怎么设计 Agent 流程? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-184",
+      "originalTitle": "【Agent深度研究】agent deepreserch有哪些？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-185",
+      "originalTitle": "【Agent离线评测】项目中如何搭建Agent离线评测体系？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2455",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-186",
+      "originalTitle": "【Agent突破思维链限制】大部分 agent 没有办法突出思维限制，你是如何做到你的 agent 突破原有思维链限制？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2456",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-187",
+      "originalTitle": "【Agent落地瓶颈与模型能力gap】1. 你觉得现阶段Agent落地最大的瓶颈是什么？ 2. 你认为Agent领域现在的模型能力在落地上是否还存在gap？ 「字节Seed、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2457",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-188",
+      "originalTitle": "【Agent规划与恢复机制】在agent是怎么做planning和recovery? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2458",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-189",
+      "originalTitle": "【Agent训练loss mask】Agent训练中哪些token参与loss，哪些token需要mask掉？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-190",
+      "originalTitle": "【Agent记忆与自我改进】Agent 怎么做记忆和自我改进 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2460",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-191",
+      "originalTitle": "【Agent记忆与规划模块】针对你的 Agent 项目：记忆模块和规划模块是怎么设计的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2461",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-192",
+      "originalTitle": "【Agent设计】开放题：让你自己设计一个Agent，你会怎么做，为什么这样做？ 「百度、百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-193",
+      "originalTitle": "【Agent设计与迭代的常见问题】你设计和迭代优化Agent时遇到的让你印象深刻的几个坑是什么? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-194",
+      "originalTitle": "【Agent设计新范式】harness、Hermes这种比较新的agent设计以及讲讲看的最新的论文 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2464",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源提到 Hermes，但未给出所问“最新论文”的题名。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-195",
+      "originalTitle": "【Agent路径震荡避免】你这个产品，怎么避免每一步出现重新规划，导致路径震荡？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-196",
+      "originalTitle": "【Agent链路调度与多轮对话状态维护】你说你们构建了车载Agent平台，Agent链路是怎么调度的？多轮对话怎么做状态维护？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2466",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-197",
+      "originalTitle": "【Agent错误处理与自愈机制】ReAct vs Reflexion：reasoning+acting的循环，错误如何回滚？Reflection机制里，如何判断一个Agent的失败是由知识缺失还是工具调用错误引起的？Retry（重试）与Replan（重规划）是否该做职责隔离？StateGraph是如何设计的？工作流是如何设计？对于复杂交互的agent中自愈如何设计？ 「京东、字节跳动、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-198",
+      "originalTitle": "【Agent问题定位】当出现Badcase时，你怎么快速定位到具体是哪个Agent环节出了问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2468",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-199",
+      "originalTitle": "【API适配】如何适配多类第三方业务API？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2469",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-200",
+      "originalTitle": "【Code Agent挑战与质量】code agent上下文工程，生成代码的挑战，主流agent框架改进的方向，如何保证AI代码生成的质量与掌控性，如何测试生成代码的正确性？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-201",
+      "originalTitle": "【Coding Agent与框架实现】vibe coding理解：用过哪些coding agent，从技术上讲讲他们有什么区别（不要从业务流程上讲）。了解Claudecode的源码实现吗？了解现在的Agent框架（如Cloud、OpenCloud）吗？它们是怎么实现和处理相关问题的？ 「腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2471",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供 Cloud/OpenCloud 的项目链接、版本或定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-202",
+      "originalTitle": "【Function Call泛化性】function call泛化性如何提高，新增函数模型不会调怎么办。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2472",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-203",
+      "originalTitle": "【LangChain memory隔离】LangChain 的 memory 默认机制在多用户并发中怎么做隔离？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2473",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-204",
+      "originalTitle": "【LangGraph框架与源码】有没有了解或对比过LangGraph？看过LangGraph的源码吗？ 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2474",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-205",
+      "originalTitle": "【MCP上下文膨胀】MCP可能会导致上下文膨胀，该怎么解决？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-206",
+      "originalTitle": "【MCP协议与服务器设计】什么是MCP？为什么会出现MCP？详细讲解MCP。你的MCP服务器是如何设计的，设计架构的依据是什么？ 「腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2476",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-207",
+      "originalTitle": "【Modular Agent多步规划】项目里的Modular Agent，你能讲讲它是如何实现多步规划的吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-208",
+      "originalTitle": "【NL2SQL Agent设计】做一个Agent：用户输入自然语言，Agent把自然语言改成SQL语句。怎么设计？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-209",
+      "originalTitle": "【NPC人设一致性评估】如何自动化评估NPC对话的人设一致性？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2479",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-210",
+      "originalTitle": "【Prompt优化评估】你做Prompt优化时，是如何判断优化后的Prompt在Agent推理链路中性能提升的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-211",
+      "originalTitle": "【Skill分层与数据流】谈谈你对 skill 的理解，分层怎么做的？整个数据流写在哪儿？怎么读？读取策略？读之后加在哪儿？用什么方式实现？是通过启动一个线程的方式还是？具体怎么读写存？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-212",
+      "originalTitle": "【Skill渐进式披露机制】大模型Agent的Skill渐进式披露机制如何设计？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2482",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-213",
+      "originalTitle": "【Spec Coding与Harness】聊一下 spec coding 和 harness。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-214",
+      "originalTitle": "【上下文管理】OpenCloud/ClaudeCode类系统的上下文管理大概怎么做？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2484",
+      "reviewStatus": "confirmed",
+      "reviewNote": "OpenCloud 身份未明，本条仅关联已明确的 Claude Code 上下文管理部分。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-215",
+      "originalTitle": "【代码审查系统设计】做一个代码审查系统。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-216",
+      "originalTitle": "【全思考模型与快慢思考切换】全思考模型怎么做，快慢思考怎么切换的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2486",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-217",
+      "originalTitle": "【动态任务路由准确性】动态任务路由分发怎么保证准确性? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-218",
+      "originalTitle": "【双智能体死循环避免】双智能体怎么避免死循环? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2488",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-219",
+      "originalTitle": "【困难代码单测生成】对于那些用AST和LSP都难以生成单测的代码，你会怎么处理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2489",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-220",
+      "originalTitle": "【在线RL与工具调用的必要性】在线rl与工具调用为什么要做? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2490",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-221",
+      "originalTitle": "【复杂任务自动拆解】复杂多步骤任务如何自动拆解？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-222",
+      "originalTitle": "【多Agent协作】对Multi-Agent协作的看法。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-223",
+      "originalTitle": "【多Agent协作与上下文管理】项目二多agent协作流程和上下文超限管理 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-224",
+      "originalTitle": "【多Agent协作与冲突解决】多Agent协作的实现思路，如何解决Agent之间任务冲突、资源抢占？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-225",
+      "originalTitle": "【多智能体无限循环与信息冗余解决】多智能体如何解决“无限循环”或者“信息冗余”/“通信冗余”问题？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2496",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-226",
+      "originalTitle": "【多智能体系统】multi-agent系统怎么实现的？multi-agent通信方式。 「腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-227",
+      "originalTitle": "【多步规划】模块化Agent的多步规划怎么做？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-228",
+      "originalTitle": "【多轮对话系统架构优化】如果让你优化一个多轮对话系统的可维护性，你会从架构上做哪些改动? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2499",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-229",
+      "originalTitle": "【对话系统设计】设计一个基于大模型的对话系统，需考虑哪些因素？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2500",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题是对话应用设计，未要求从头训练或对齐基座模型。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-230",
+      "originalTitle": "【小模型工具调用稳定性】对于qwen3-8b的模型往往工具调用不是特别稳定，是怎么解决的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2501",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-231",
+      "originalTitle": "【工具使用数据合成与训练范式】Toolformer中通过自监督学习生成tool call数据，这个训练范式和RLHF的差别在哪里？tool use 数据合成如何做的？ 「京东、拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-232",
+      "originalTitle": "【工具调用准确性】（追问）你有没有设计过类似的防错机制？如何确保工具调用的准确性？工具调用的准确率是否影响整体模型效果？如何权衡？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-233",
+      "originalTitle": "【工具调用历史丢失与重复调用】压缩过程中会丢失工具调用历史，导致模型重复调用工具，怎么解决? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2504",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-234",
+      "originalTitle": "【工具调用增强与容错】介绍推理时工具增强（如Kimik2.6）。从算法设计角度，该如何解决模型无效调用工具、工具调用参数失败的问题？你做的Agent使用了多少个外部工具，在调用链条上如何保障故障容错和超时机制？ 「百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2505",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-235",
+      "originalTitle": "【工具调用容错与上下文管理】如果Agent在多步推理过程中某一步调用工具失败，你如何设计容错和回滚机制，同时不让上下文窗口膨胀失控？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2506",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-236",
+      "originalTitle": "【工具调用容错与重试】工具调用容错与重试机制设计：包括工具调用失败、参数错误、接口超时、返回脏数据/格式错乱/缺失字段等异常情况下的容错与重试策略；异常处理与延迟优化实践经验；工具调用失败后的feedback策略设计；是否考虑用大模型自身排除API超时和报错？ 「字节跳动、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-237",
+      "originalTitle": "【工具调用对RL训练效率影响】工具/API并发、超时、失败重试如何影响Agentic RL训练效率？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2508",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-238",
+      "originalTitle": "【工具调用校验成本优化】工具调用数量增加、路径变复杂后人工校验成本大幅升高，有哪些优化方案？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2509",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-239",
+      "originalTitle": "【工具调用调度策略】项目提到了多个工具调用链路，调度策略是如何设计的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2510",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-240",
+      "originalTitle": "【搜索推荐Agent分工】如果把二者的能力做成搜索推荐Agent，各自适合做召回决策还是做内容生成？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2511",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“二者”未明确所指的模型；可识别的比较为召回/决策与生成职责。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-241",
+      "originalTitle": "【数字人客服平衡】比如设计数字人客服时，如何平衡语音自然度与语义准确性？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-242",
+      "originalTitle": "【模型工具使用训练】模型具体怎么学会使用Office三件套？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2513",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-243",
+      "originalTitle": "【求助Agent可靠性筛选】如何保证求助Agent的可靠性、可信度筛选机制？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2514",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-244",
+      "originalTitle": "【自注意力架构在Agent中的短板】自注意力在多轮Agent对话里的局限？原生自注意力架构在多轮对话式Agent场景中有哪些短板？ 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2515",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-245",
+      "originalTitle": "【调API Agent的价值】基模能力越来越强的今天大家做agent都调api，那这些调api不训练的agent组真的没有去的价值了吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2516",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-246",
+      "originalTitle": "【链路路由区分实现】首次生成和多轮补充的链路路由是怎么区分和实现的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-247",
+      "originalTitle": "【问答Agent数据集自动化构造】在你的问答Agent项目中，数据集构造的自动化流程是怎么实现的? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2518",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-248",
+      "originalTitle": "【Agent架构设计】设计Planner-Actor-Supervisor三层Agent架构，实现任务拆解、依赖管理、工具路由与并行调度，支持复杂任务的多步自动执行 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-249",
+      "originalTitle": "【Agent系统优化】针对Agent系统的可靠性与并发能力，你具体做了哪些深度优化？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2524",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-250",
+      "originalTitle": "【Agent自主进化技术】Agent自主进化的具体技术实现逻辑 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2525",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-251",
+      "originalTitle": "【Agent重复调用问题】线上用户反馈：美团商家智能Agent偶尔重复调用同一工具、连续多次发起相同接口请求，分析根因并给出完整修复方案与规避策略 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2526",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-252",
+      "originalTitle": "【AI Agent智能运维】场景：如何用 AI Agent 实现系统的智能运维? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2527",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-253",
+      "originalTitle": "【AI面试Agent设计】场景题，如果给你一个假设的需求，比如用agent实现一个ai面试的程序，你会怎么设计？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2528",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明面试程序是提问者、练习工具还是辅助者。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-254",
+      "originalTitle": "【企业级大模型应用技术选型】如果让你从零搭建一个企业级大模型应用，你会如何做技术选型? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2529",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-255",
+      "originalTitle": "【低代码Agent平台】设计低代码大模型Agent平台 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-AGENT-256",
+      "originalTitle": "【视频通话AI主动响应】视频通话AI，怎么做到对话过程中也能主动响应？讲了个multi-agent的思路，分别负责视觉意图和响应板机。又问，如果出现打断用户发言的情况怎么办？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2531",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

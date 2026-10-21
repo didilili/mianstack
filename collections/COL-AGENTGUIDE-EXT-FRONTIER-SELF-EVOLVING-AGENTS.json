@@ -1,0 +1,115 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 自进化 Agent 面试指南",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-001",
+      "originalTitle": "什么才算 Agent 自进化？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-002",
+      "originalTitle": "Self-reflection 和 self-evolution 有什么区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-003",
+      "originalTitle": "为什么“把所有成功轨迹写入 Memory”会失败？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-004",
+      "originalTitle": "Prompt、Skill、Memory 和权重更新如何选？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-005",
+      "originalTitle": "怎样证明系统真的越用越好？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-006",
+      "originalTitle": "自进化闭环里最危险的正反馈是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-007",
+      "originalTitle": "如何给经验建立 lineage，定位某次退化由哪条更新引起？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-008",
+      "originalTitle": "多个 Skill 同时匹配时怎样路由，如何处理依赖和冲突？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-009",
+      "originalTitle": "什么情况下应该删除或降权记忆，而不是继续追加？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-010",
+      "originalTitle": "用户反馈很稀疏且有偏时，如何构建可信评价信号？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-011",
+      "originalTitle": "如何防止 prompt injection 被系统提炼成长期经验？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-012",
+      "originalTitle": "线上任务分布持续变化时，保留集应当怎样更新？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L135",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-013",
+      "originalTitle": "能否让 Agent 修改自己的 Harness？权限边界在哪里？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-014",
+      "originalTitle": "多 Agent 系统中，经验属于个体、角色还是整个团队？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-015",
+      "originalTitle": "怎样区分模型能力提升与脚手架变化带来的提升？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS-016",
+      "originalTitle": "设计一个“会从失败工单中学习”的客服 Agent。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md#L142",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

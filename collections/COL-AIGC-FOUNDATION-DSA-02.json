@@ -1,0 +1,115 @@
+{
+  "id": "COL-AIGC-FOUNDATION-DSA-02",
+  "publisherId": "PUB-WETHINKIN",
+  "sourceKind": "curated_question_set",
+  "title": "AIGC Interview Book · 线性数据结构",
+  "coverage": [
+    "training",
+    "software",
+    "coding"
+  ],
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-001",
+      "originalTitle": "1. 数组为什么是最基础的数据结构？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L33",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-002",
+      "originalTitle": "面试问题：数组和动态数组有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L59",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-003",
+      "originalTitle": "面试问题：字符串为什么可以看作特殊数组？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L87",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-004",
+      "originalTitle": "面试问题：Tensor 与数组有什么关系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-005",
+      "originalTitle": "2. 链表的核心思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-006",
+      "originalTitle": "面试问题：数组和链表如何对比？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-007",
+      "originalTitle": "面试问题：快慢指针为什么能求链表中点和判断环？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L175",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-008",
+      "originalTitle": "面试问题：如何用哈希表 + 双向链表实现 LRU Cache？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-009",
+      "originalTitle": "3. 栈和队列分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L247",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-010",
+      "originalTitle": "面试问题：栈为什么和递归、DFS、表达式解析有关？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L258",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-011",
+      "originalTitle": "面试问题：队列为什么和 BFS、任务调度、DataLoader 有关？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-012",
+      "originalTitle": "面试问题：循环队列和阻塞队列在 AI 工程中有什么用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-013",
+      "originalTitle": "4. 单调栈和单调队列解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-014",
+      "originalTitle": "面试问题：单调栈如何在 $O(n)$ 内找到下一个更大元素？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-015",
+      "originalTitle": "面试问题：单调队列如何优化滑动窗口最大值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-02-016",
+      "originalTitle": "面试问题：线性结构在流式大模型推理中有哪些应用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/02_%E7%BA%BF%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L404",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

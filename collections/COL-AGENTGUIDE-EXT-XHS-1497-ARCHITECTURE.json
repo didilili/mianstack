@@ -1,0 +1,1636 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 预训练与架构",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-001",
+      "originalTitle": "【GPT全称】GPT的全称是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1532",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-002",
+      "originalTitle": "【LLaMA3上下文长度】LLaMA3上下文长度是多少？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1533",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-003",
+      "originalTitle": "【LLaMA激活函数】LLaMA的激活函数是什么？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1534",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-004",
+      "originalTitle": "【MHA定义】MHA是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1535",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-005",
+      "originalTitle": "【Qwen3】你有看对Qwen3的爆料吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1536",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-006",
+      "originalTitle": "【Transformer原论文结构】原论文中编码器和解码器各有几个？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-007",
+      "originalTitle": "【大模型优势】大模型（LLMs）具有什么优点？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1538",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-008",
+      "originalTitle": "【大模型劣势】大模型（LLMs）具有什么缺点？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1539",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-009",
+      "originalTitle": "【大模型概述】请介绍大模型（LLMs）的基本概念、特点以及发展历程。简单介绍一下大模型（LLMs）。 「京东、字节Seed、字节跳动、百度、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1540",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-010",
+      "originalTitle": "【模型使用经验】你使用过哪些AI基座模型？关注过哪些开源大语言模型？哪个模型用得多？ 「京东、字节Seed、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1541",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-011",
+      "originalTitle": "【模型参数量】大模型（LLMs）后面跟的175B、60B、540B等指什么？大模型参数量里的7B、13B、70B这些数字本质代表什么？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1542",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-012",
+      "originalTitle": "【模型结构学习】大模型的模型结构有去学习过吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1543",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-013",
+      "originalTitle": "【语言模型定义】什么是语言模型？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1544",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-014",
+      "originalTitle": "【项目模型结构】你项目中用到的大模型结构是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-015",
+      "originalTitle": "【BERT与BART对比】BERT和BART的区别？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1550",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-016",
+      "originalTitle": "【BERT与Beam Search】了解BERT/beam search吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1551",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-017",
+      "originalTitle": "【BERT与GPT对比】请详细说明BERT、GPT和T5的核心区别，包括模型架构（如BERT的encoder-only、GPT的decoder-only、T5的encoder-decoder）、训练方式（如BERT的MLM和NSP、GPT的自回归语言模型、T5的span corruption）、以及mask的具体使用方式（如BERT的随机mask、GPT的因果mask、T5的sentinel token）。 「字节跳动、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1552",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-018",
+      "originalTitle": "【BERT与LLM对比】BERT和LLM有什么区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1553",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-019",
+      "originalTitle": "【BERT模型介绍】介绍BERT模型：架构（Transformer encoder-only）、原理（双向注意力、预训练+微调）、输入表示（token/segment/position embedding）、预训练任务（MLM和NSP）。 「京东、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1554",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-020",
+      "originalTitle": "【BERT输入表示】用bert做下游任务时，输入有哪些embedding? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1555",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-021",
+      "originalTitle": "【BERT预训练】BERT的两个预训练任务是什么？其中MLM的作用是什么？另外，请说明BERT的embedding层包含哪些部分？ 「字节跳动、美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1556",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-022",
+      "originalTitle": "【Codex与Claude】你有了解过Codex和Claude等用什么实现的吗？以及你觉得Codex和Claude的区别？ 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1557",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-023",
+      "originalTitle": "【Decoder-only优缺点】Decoder-only结构有哪些显著的优势和局限性？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1558",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-024",
+      "originalTitle": "【Decoder-only架构】介绍LLM Decoder-Only架构。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1559",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-025",
+      "originalTitle": "【DeepSeek】了解deepseek吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1560",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-026",
+      "originalTitle": "【Embedding层 vs 输出层】Embedding层和最后一层（输出层）有什么区别？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1561",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-027",
+      "originalTitle": "【Encoder与Decoder区别】Decoder和Encoder在实施时有哪些具体的区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1562",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-028",
+      "originalTitle": "【fluid框架】fluid了解过吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1563",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-029",
+      "originalTitle": "【GME】GME知道吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1564",
+      "reviewStatus": "needs_review",
+      "reviewNote": "GME 未展开全称，也未给出论文、产品或模型版本。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-030",
+      "originalTitle": "【GPT-3.5】介绍gpt3.5。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1565",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-031",
+      "originalTitle": "【GPT与BERT对比】GPT和BERT的结构和参数量对比。GPT自回归生成机制；与BERT本质区别？ 「阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1566",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-032",
+      "originalTitle": "【GQA】GQA（Grouped Query Attention）是什么？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1567",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-033",
+      "originalTitle": "【GQA模型】有哪些大模型使用Grouped-query Attention？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1568",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-034",
+      "originalTitle": "【KV Cache】KVCache怎么算、为什么大模型推理里需要KVCache。KV Cache是什么？为什么要有KV Cache？KV Cache为什么有效？ 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1569",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-035",
+      "originalTitle": "【KV Cache原理】请解释KV Cache的原理及其作用。 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1570",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-036",
+      "originalTitle": "【LLaMA Norm改进】LLAMA中Norm有什么改进？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1571",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-037",
+      "originalTitle": "【Llama全连接层数量】整个Llama中有几个FC全连接层？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1572",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-038",
+      "originalTitle": "【LLaMA架构】LLama架构是怎样的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1573",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-039",
+      "originalTitle": "【LLaMA输入长度限制】LLaMA输入句子长度理论上可以无限长吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1574",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-040",
+      "originalTitle": "【LLM底层原理】LLM的底层原理有没有了解？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1575",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-041",
+      "originalTitle": "【LLM架构】大模型LLM的架构介绍？ 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1576",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-042",
+      "originalTitle": "【LRM与GR对比】LRM和GR有什么倾向嘛？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1577",
+      "reviewStatus": "needs_review",
+      "reviewNote": "LRM 与 GR 未展开，比较维度也未说明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-043",
+      "originalTitle": "【MoE架构】介绍MoE架构。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1578",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-044",
+      "originalTitle": "【MQA模型】有哪些模型是使用Multi-Query Attention？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1579",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-045",
+      "originalTitle": "【NLP与LLM区别】NLP和LLM最大的区别是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1580",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-046",
+      "originalTitle": "【Perplexity】了解Perplexity(PPL)吗？基于PPL做过滤时，PPL是怎么计算的？ 「美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-047",
+      "originalTitle": "【PPL概念与公式】解释PPL的概念和公式。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1582",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-048",
+      "originalTitle": "【Prefill阶段】什么是prefill？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-049",
+      "originalTitle": "【Qwen3-30B-A3B】Qwen3-30B-A3B是个什么样的模型？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-050",
+      "originalTitle": "【Qwen instruct与think模型】Qwen的instruct和think模型有什么区别？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1585",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-051",
+      "originalTitle": "【Qwen注意力机制】qwen用的是什么注意力机制? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1586",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-052",
+      "originalTitle": "【RMSNorm】为什么要使用rms-norm？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1587",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-053",
+      "originalTitle": "【RoPE】为什么要用旋转位置编码？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1588",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-054",
+      "originalTitle": "【RoPE位置编码】请解释RoPE旋转位置编码的原理、作用，以及相对于传统位置编码的优点。 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1589",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-055",
+      "originalTitle": "【Transformer参数更新】在大模型训练过程中，Transformer通常会更新哪些参数？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1590",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-056",
+      "originalTitle": "【Transformer架构对比】比较Encoder-only、Decoder-only、Encoder-Decoder三类模型的优缺点、区别与适用场景；阿里通义千问属于哪种架构？ 「京东、字节跳动、百度、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1591",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-057",
+      "originalTitle": "【代码数据重要性】在代码数据这个环节，什么比较重要？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1592",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-058",
+      "originalTitle": "【位置编码】大模型常用的位置编码方式有哪些？扩展有哪些（如RoPE等）？ 「百度文心、腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1593",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-059",
+      "originalTitle": "【参数量与模型能力】参数量和模型能力之间是什么关系? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1595",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-060",
+      "originalTitle": "【增量预训练】增量预训练中的增量具体指什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1596",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-061",
+      "originalTitle": "【大模型介绍】了解哪些大模型，简要挑一两个介绍一下？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1597",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-062",
+      "originalTitle": "【大模型优势】大模型比传统模型好在哪？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-063",
+      "originalTitle": "【大模型原理】说说大模型的原理 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1599",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-064",
+      "originalTitle": "【大模型基础】讲讲大模型的了解(讲了attention， Transformer， decoder-only结构，SFT，RLHF， DPO，生成式推荐) 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1600",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-065",
+      "originalTitle": "【大模型训练流程】介绍大模型的训练过程：预训练、后训练（包括SFT、RL等）以及推理的流程。 「字节Seed、百度、百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1601",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-066",
+      "originalTitle": "【开源模型】主流的开源模型技术报告看过没？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1602",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-067",
+      "originalTitle": "【开源模型体系】目前主流的开源模型体系有哪些？ 「百度、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1603",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-068",
+      "originalTitle": "【权重共享】输入的embedding层和最后输出的那一层是不是共用一组参数？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1604",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-069",
+      "originalTitle": "【模型对比】Claude和GPT/Codex体验区别？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1605",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-070",
+      "originalTitle": "【模型扩容目的】扩容的目的是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1606",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-071",
+      "originalTitle": "【模型规模扩展】750B模型用于什么场景？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1607",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-072",
+      "originalTitle": "【激活函数】各LLM都使用哪种激活函数？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1608",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-073",
+      "originalTitle": "【灾难性遗忘】大模型灾难性遗忘是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1609",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-074",
+      "originalTitle": "【百度AI大模型】对百度AI大模型的了解。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1610",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-075",
+      "originalTitle": "【知识注入阶段】预训练和微调哪个阶段注入知识的？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1611",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-076",
+      "originalTitle": "【编码与解码】介绍encoding 和 decoding 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-077",
+      "originalTitle": "【自回归】为什么一定要ar？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1613",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-078",
+      "originalTitle": "【训练目标】大模型LLM的训练目标是什么？ 「百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-079",
+      "originalTitle": "【训练阶段】大模型训练阶段？如何理解大模型的预训练和微调过程？请说明预训练与微调的区别及流程。 「字节Seed、字节跳动、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-080",
+      "originalTitle": "【预训练Loss】预训练 loss 用的什么? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1616",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-081",
+      "originalTitle": "【预训练Loss计算】预训练 loss 中 prompt 和 response 都需要计算吗？ 「字节跳动、拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1617",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-082",
+      "originalTitle": "【预训练任务类型】预训练任务有哪些类型？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1618",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-083",
+      "originalTitle": "【预训练差异】与预训练相比有什么差异? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1619",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“与预训练相比”缺少另一比较对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-084",
+      "originalTitle": "【预训练过程】预训练的过程是什么样的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1620",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-085",
+      "originalTitle": "【ALiBi位置编码】解释ALiBi(Attention with Linear Biases)位置编码的原理。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1625",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-086",
+      "originalTitle": "【Bert分类】用Bert做分类任务：如何做？输出怎么处理？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1626",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-087",
+      "originalTitle": "【BERT可解释性】BERT对于关键词激活有哪些分析方法？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-088",
+      "originalTitle": "【BERT改进】BERT如何改进？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1628",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-089",
+      "originalTitle": "【ChatGLM架构】ChatGLM的结构是什么？为什么用GLM-style attention？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1630",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-090",
+      "originalTitle": "【ChatGPT前向传播】ChatGPT单次前向传播完整流程是什么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1631",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-091",
+      "originalTitle": "【Chat Template对比】InternVL和Qwen的chat template有哪些不同？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1632",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-092",
+      "originalTitle": "【CKA】你提到用了CKA你能解释一下它是怎么计算的吗？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1633",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-093",
+      "originalTitle": "【Decoder-only vs Encoder-Decoder】在生成式大模型中，为何通常采用 Decoder-only 架构而非 Encoder-Decoder 结构？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1634",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-094",
+      "originalTitle": "【Decoder-only优势】ChatGPT在模型结构为什么使用decoder only？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1635",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-095",
+      "originalTitle": "【Decoder-only架构】为什么大模型采用Decoder-only架构？相比于Encoder-Decoder架构好在哪里？ 「京东、字节Seed、字节跳动、百度、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1636",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-096",
+      "originalTitle": "【Decoder-only特征提取】Decoder-only的结构在特征提取方面会存在什么问题，如何改进？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1637",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-097",
+      "originalTitle": "【Dense vs MoE】Dense模型和MoE模型有什么区别？怎么评测训练效果？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1638",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-098",
+      "originalTitle": "【ERNIE架构与训练】ERNIE的架构与训练策略有何差异？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1639",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-099",
+      "originalTitle": "【GLM5.2技术报告】看过glm5.2的技术报告吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1640",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-100",
+      "originalTitle": "【GLM5.2理解】讲一下你对glm5.2的理解。 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1641",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-101",
+      "originalTitle": "【GLM模型技术特点】讲讲glm模型的技术特点，架构等？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-102",
+      "originalTitle": "【GPT实现原理】GPT如何实现的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1643",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-103",
+      "originalTitle": "【GPT系列演进】讲一下GPT-1、GPT-2、GPT-3的演进。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1644",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-104",
+      "originalTitle": "【GPT训练推理区别】GPT在训练和推理时的区别？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1645",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-105",
+      "originalTitle": "【GQA修改】改一下GQA。请解释GQA（Grouped Query Attention）的原理，与MHA（Multi-Head Attention）和MQA（Multi-Query Attention）的区别，以及如何修改模型以应用GQA（如调整注意力头分组、共享键值对）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1646",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-106",
+      "originalTitle": "【GQA注意力机制】讲讲GQA。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1647",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-107",
+      "originalTitle": "【KV Cache】KV Cache原理；为什么query不用cache？KV Cache和Flash Attention基本原理。KV Cache怎么省显存？GQA/MQA的区别。了解Page Attention吗？为什么效果好？KV cache会造成显存过大的问题？如何解决？请讲下你理解的KV cache？上下文的特点是什么？为什么使用KV cache优化上下文？ 「字节跳动、小红书、美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1648",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-108",
+      "originalTitle": "【KV Cache与GQA】为了优化推理速度，KV Cache是一个很关键的技术。它的原理是什么？为什么KV cache只缓存K和V，而不缓存Q？为什么RNN不需要KVcache?为什么LLM需要KVcache?了解KVcache吗，GQA的思想是什么？ 「字节跳动、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1649",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-109",
+      "originalTitle": "【KV Cache与注意力机制】KV Cache的原理是什么？MHA的计算复杂度是多少？有哪些加速方法？KV Cache的大小如何计算？如何实现KV Cache？KV Cache的空间优化方法有哪些？MLA与KV Cache的关系？MHA、MQA、GQA的KV Cache显存占比大概是多少？ 「字节跳动、百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1650",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-110",
+      "originalTitle": "【KVCache依赖】有哪些环节强依赖kvcache? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1651",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-111",
+      "originalTitle": "【LLaMA与Decoder-only架构】Llama2的推理流程？LLaMA中的Transformer与普通的有什么改进？LLaMA在模型的decoder层面做了哪些改进？LLM为什么是only-Decoder架构，为什么不采用T5架构？LLM输入维度为b、s的情况下，完整推理过程中Tensor维度的变化逻辑是怎样的？ 「字节跳动、百度、百度文心、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1652",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-112",
+      "originalTitle": "【Long-think推理模型】对Long-think的推理模型有了解过吗？请解释Long-think模型的概念（如Chain-of-Thought、Self-Consistency、Tree-of-Thoughts等），其如何提升复杂推理能力，以及典型应用场景。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1653",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-113",
+      "originalTitle": "【LoRA原理】LoRA的原理，为什么△W是低秩的，具体如何降低计算量？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1654",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-114",
+      "originalTitle": "【MHA/MQA/GQA对比】MHA、MQA、GQA分别是什么？各自的优缺点、适用场景、区别以及推理速度和显存占用上的差异？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1655",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-115",
+      "originalTitle": "【Mid Training】介绍mid train作用是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1656",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-116",
+      "originalTitle": "【MiMo模型】对 MiMo 系列模型了解多少?请介绍MiMo（Mixture of Modalities）或类似多模态模型的核心思想、架构特点（如如何融合文本、图像等模态）、训练方式以及代表性模型（如Flamingo、BLIP-2等）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1657",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-117",
+      "originalTitle": "【MLA】介绍MLA的原理，包括其矩阵吸收是什么，以及prefill和decode阶段是否都要做矩阵吸收。 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-118",
+      "originalTitle": "【MoE】MoE（混合专家模型）是什么？路由如何设置？专家如何选择？MoE与Dense架构相比的核心优势是什么？为什么MoE成为主流？MoE与Pipeline有什么区别？训练过程中容易遇到什么问题？如何训练？MoE通常放在哪一层？为什么要放在FeedForward层而不放在Attention层？ 「京东、百度、美团、腾讯、腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1659",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未明确 Pipeline 指执行流程还是流水线并行。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-119",
+      "originalTitle": "【MoE架构】解释MoE（混合专家模型）架构，包括其基本原理、优缺点，并特别结合DeepSeek MoE的实现进行说明。 「京东、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1660",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-120",
+      "originalTitle": "【MoE架构与路由】请详细讲解MoE架构的运行过程，包括张量维度的变化、路由机制的具体实现，以及MoE的特点；同时分析路由过程中可能遇到的问题（如负载不均衡、专家崩溃等）及其解决方案。 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1661",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-121",
+      "originalTitle": "【MoE训练与SFT区别】你训练 MoE 和普通 SFT 有什么区别吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1662",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-122",
+      "originalTitle": "【M-RoPE位置编码】介绍M-RoPE位置编码，包括其相比原始RoPE的改进和优点，以及实现中低频部分对应的是时间维度还是空间xy维度？ 「京东、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1663",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-123",
+      "originalTitle": "【Packing vs Padding】预训练时packing和padding的区别，packing的优点和缺点有哪些，哪种效果好一些？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1664",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-124",
+      "originalTitle": "【Padding优化】长度不一致的数据如何避免 padding 过长? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1665",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-125",
+      "originalTitle": "【PPL计算与mask】手撕：PPL计算以及mask的代码哪里有问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1666",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供所指的 mask 代码。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-126",
+      "originalTitle": "【PrefixLM与CausalLM】PrefixDecoder、CausalDecoder和Encoder-Decoder的区别是什么？PrefixLM与CausalLM的核心区别，各自适用的生成场景。 「百度、腾讯、腾讯混元、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1667",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-127",
+      "originalTitle": "【Qwen2架构改进】看你实习微调过Qwen2，说说Qwen2的模型结构吧，Qwen2相比Qwen1做了哪些改进？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1668",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-128",
+      "originalTitle": "【Qwen2配置参数】qwen2的configs（给了一张图，回答这些参数是什么意思，还会根据这些参数进行延伸，比如问我最长文本长度时延伸了假如prompt长32767那生成的token有多少） 「小红书」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1669",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供所指的 Qwen2 config 图与字段。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-129",
+      "originalTitle": "【Qwen3 RoPE】qwen3vl位置编码；Qwen3的Rope原理？ 「字节跳动、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1671",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文混有 Qwen3 与 Qwen3-VL 两种模型表述。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-130",
+      "originalTitle": "【Qwen3 think模式】Qwen3 think/non-think模式了解过吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1672",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-131",
+      "originalTitle": "【Qwen3系列】讲讲qwen3/qwen3-next 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1673",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-132",
+      "originalTitle": "【Qwen3选择】选择qwen3的原因 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1674",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-133",
+      "originalTitle": "【Qwen QKV bias】Qwen对QKV bias的处理了解吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1675",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-134",
+      "originalTitle": "【Qwen vs DeepSeek】Qwen和DeepSeek有什么区别？ 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1676",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-135",
+      "originalTitle": "【Qwen与LLaVA】了解Qwen的结构吗；了解过Qwen、LLaVA等大模型吗？它们各自的核心特征是什么？它们是怎么进行微调怎么去训练的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1677",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-136",
+      "originalTitle": "【Qwen模型】说一下你对 Qwen 模型的理解。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1678",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-137",
+      "originalTitle": "【Qwen模型结构对比】Qwen、ChatGLM、Llama 三者架构核心区别是什么？讲一下 qwen 和 chatglm 的区别。 和 llama 有什么区别？Qwen模型结构是怎么样的，相比于LLaMA、DeepSeek有什么区别？Qwen的模型结构是怎么样的？相比于LLaMA、DeepSeek等模型有哪些异同？请详细说明Qwen系列模型的结构特点。介绍一下Qwen系列模型的架构和训练方法。讲一下Qwen架构。 「京东、字节跳动、百度文心、美团、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1679",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-138",
+      "originalTitle": "【Qwen版本对比】Qwen2.5和Qwen3有什么区别？Qwen3比Qwen2.5有什么改进？Qwen3的模型架构做了哪些改进？请详细介绍，并说明相比于Qwen2.5的具体改进点。 「百度文心、腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1680",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-139",
+      "originalTitle": "【Qwen训练packing】qwen训练的时候packing形式和多轮的形式的区别是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1681",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-140",
+      "originalTitle": "【RAG/SFT/RL对比】大模型RAG、SFT、RL区别，分别适用于什么场景？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1682",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-141",
+      "originalTitle": "【Response熵与Thinking熵】同时论文里有response熵和thinking熵，问有没有发现什么区别。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1683",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供所指论文与两种熵的定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-142",
+      "originalTitle": "【Rewarmup】在初始预训练中使用Rewarmup对大模型继续预训练性能影响？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1684",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-143",
+      "originalTitle": "【RoPE】手写RoPE旋转位置编码；RoPE的“旋转”特性在复数域中如何解释？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1685",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-144",
+      "originalTitle": "【RoPE位置编码】解释RoPE旋转位置编码的原理、优点（相对位置、外推性等）及长度外推方法。对比其他常用位置编码（如ALiBi），讨论它们在长上下文外推上的直觉差异。 「字节跳动、美团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1686",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-145",
+      "originalTitle": "【Scaling factor】scaling factor怎么算？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1687",
+      "reviewStatus": "needs_review",
+      "reviewNote": "scaling factor 未说明所指的缩放对象与计算公式。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-146",
+      "originalTitle": "【Scaling范式】这边scaling的范式主要是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1688",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“这边 scaling 范式”未说明项目、阶段与扩展对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-147",
+      "originalTitle": "【Temperature=0差异】temperature = 0的时候为什么会有区别。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1689",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-148",
+      "originalTitle": "【Top-k采样】手撕：实现一个最简单的 top-k采样（给定 logits/概率，取top-k后重新归一化采样），并说明边界情况怎么处理。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1690",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-149",
+      "originalTitle": "【Unified Model】unified model是否了解，主要局限？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1691",
+      "reviewStatus": "needs_review",
+      "reviewNote": "Unified Model 未说明统一的任务、模态与模型版本。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-150",
+      "originalTitle": "【上下文记忆机制】模型能记住上下文的关键是什么？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1692",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-151",
+      "originalTitle": "【主流LLM概览】常见的LLM有哪些，做了哪些改进？当前主流的开源大模型是哪个，其架构具体是怎样的？最新的开源大模型（如Grok、LLaMA3）有哪些优缺点？请列举代表性LLM（如GPT系列、LLaMA、Mistral、Grok等），说明其架构改进（如RoPE、GQA、MoE），重点介绍当前主流开源模型（如LLaMA3）的架构细节（层数、注意力机制、激活函数等），并分析最新模型的优缺点（如性能、效率、开源程度）。 「字节跳动、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1693",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-152",
+      "originalTitle": "【位置编码】说一下大模型常用的位置编码有哪些，各有什么优缺点？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1694",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-153",
+      "originalTitle": "【位置编码与长序列】解释位置编码，如何实现长序列编码? 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1695",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-154",
+      "originalTitle": "【参数量计算】参数量计算:Qwen-14B 的 “14B” 怎么算出来的? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1696",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-155",
+      "originalTitle": "【垂直领域继续预训练】你怎么看待预训练用垂直数据，继续预训练预期达到什么效果？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1697",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-156",
+      "originalTitle": "【基座模型与业务模型差异】做基座大模型以及做业务大模型有什么不同吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1698",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-157",
+      "originalTitle": "【增量预训练】增量预训练使用了多少数据，又该如何评估训练效果？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1699",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-158",
+      "originalTitle": "【大模型与小模型组合选择】是优先大模型还是小模型组合? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1700",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-159",
+      "originalTitle": "【大模型发展史】了解哪些大模型和多模态大模型，然后就聊了大模型这一路是怎么发展过来的，Transformer、BERT、GPT、LLaMA、Qwen这些，以及当时的01推理模型 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1701",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-160",
+      "originalTitle": "【大模型概览与结构差异】从Transformer到现在的大模型有什么变化？介绍一下你了解的大语言模型和多模态大模型有哪些，并详细说明这些模型在结构上的差异。 「字节跳动、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1702",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-161",
+      "originalTitle": "【大模型训练】如何训一个大模型，你们做的产品有用大模型吗？如何训练自己的大模型？请描述训练大模型的完整流程：数据收集与预处理、模型架构设计（如transformer）、训练策略（分布式训练、混合精度）、超参数调优、评估与迭代。同时说明产品中如何应用大模型（如API调用、微调部署）。 「字节跳动、百度、美团、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1703",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-162",
+      "originalTitle": "【大模型过拟合判断】讲一下大模型的过拟合如何判断？请说明过拟合的表现（如训练loss下降但验证loss上升）、检测方法（如观察验证集性能、使用早停法）以及可能的缓解措施（如正则化、数据增强、dropout等）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1704",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-163",
+      "originalTitle": "【小模型训练与蒸馏】小尺寸模型（如8B）的训练特点是什么？是否能够直接蒸馏GPT-5.5等大模型，会存在哪些问题？请说明小模型训练的优势（如计算资源需求低、推理速度快）和挑战（如容量有限），蒸馏大模型时可能遇到的知识迁移不充分、灾难性遗忘、分布偏移等问题。 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1705",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-164",
+      "originalTitle": "【投机解码】这个岗位是投机解码，问我是否有了解这个方向？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1706",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-165",
+      "originalTitle": "【损失函数与计算】大模型的预训练和后训练的损失函数分别是什么？大模型预测token的损失是怎么算的？请说明预训练通常使用自回归语言建模损失（交叉熵），后训练（如微调）可能使用交叉熵或对比学习损失，并解释token级别损失的计算方式（如对每个token预测概率取负对数）。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1707",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-166",
+      "originalTitle": "【推理链路】大语言模型，用户输入query后，大模型推理的完整链路是什么样的？请描述从输入预处理（tokenization、padding）、模型前向传播（transformer层计算）、解码策略（如自回归生成）到输出后处理（detokenization）的完整流程。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1708",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-167",
+      "originalTitle": "【数据Packing】数据 packing 如何做的？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1709",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-168",
+      "originalTitle": "【数据配比】不同领域的数据比例，多任务学习数据比例? 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1710",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-169",
+      "originalTitle": "【模型优化技术】当前优化模型最主要技术手段有哪些？请列举并解释关键技术，如模型剪枝、量化、蒸馏、架构优化（MoE、GQA）、训练技巧（FlashAttention、混合精度）、推理加速（vLLM、TensorRT）等。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1711",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-170",
+      "originalTitle": "【模型多语言适配】怎么让英文大语言模型支持中文？具体到汉化Llama3需要做哪些工作？请说明多语言适配的方法：扩展词表（添加中文token）、继续预训练（中文语料）、指令微调（中文指令数据）、评估与对齐。针对Llama3，具体步骤包括修改tokenizer、准备中文预训练数据、调整训练超参数等。 「字节跳动、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1712",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-171",
+      "originalTitle": "【模型对比】DeepSeek、Qwen等模型比较？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1713",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-172",
+      "originalTitle": "【模型层信息】大模型不同层存什么信息？请详细说明各层（如底层、中层、顶层）通常编码的知识类型（如语法、语义、事实等）。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1714",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-173",
+      "originalTitle": "【模型架构对比】不同厂商在模型规模和架构选择上有什么差异？当前主流LLM（如 Llama、Qwen、ChatGLM）在架构设计上有何异同？现在主流的大模型，像GPT系列，大多都用的是Decoder-only架构。为什么不采用像T5那样的Encoder-Decoder架构呢？现在大模型是什么架构？现在的大模型都是decode-only架构，但是Bert是encode-only，解释一下两者的区别和为什么这么设计？目前大模型的主要结构是怎样的，以你用到的Qwen为例吧，讲讲Decoder-only架构的大模型是怎么构建的？ 「京东、字节跳动、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1715",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-174",
+      "originalTitle": "【模型规模对比】为什么2.5-7B的结果比3-8B的好 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1716",
+      "reviewStatus": "confirmed",
+      "reviewNote": "2.5-7B/3-8B 未明确模型系列。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-175",
+      "originalTitle": "【模型规模扩展】模型规模从0到1扩大到1到10放大的作用是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1717",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-176",
+      "originalTitle": "【模型选型】模型选型：什么情况用Bert模型，什么情况用LLaMA、ChatGLM类大模型，咋选？基座模型选型一般需要考虑哪些因素？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1718",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-177",
+      "originalTitle": "【温度参数】调用大模型时，如果输入固定，把温度调到0，为什么输出还会发散？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1719",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-178",
+      "originalTitle": "【生成与理解的关系】理解怎么帮生成？生成怎么帮理解？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1720",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-179",
+      "originalTitle": "【知识蒸馏与无监督训练】知识蒸馏和无监督样本训练？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1721",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-180",
+      "originalTitle": "【稀疏性】稀疏性有没有得到解决？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1722",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“稀疏性”未说明具体对象与待解决的问题。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-181",
+      "originalTitle": "【继续预训练】继续预训练做过吗？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1723",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-182",
+      "originalTitle": "【自选大模型知识】讲两个自认为掌握比较好的大模型相关知识，模型结构推理训练都行。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1724",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-183",
+      "originalTitle": "【解码策略】大模型的解码策略。生成式任务中，一般decoder有哪些解码方法？目前业内主流大模型的解码策略是什么？请列举常见的解码方法（如贪心搜索、Beam Search、Top-k采样、Top-p采样、Temperature等）并说明其原理和适用场景。 「京东、字节Seed、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1725",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-184",
+      "originalTitle": "【训练性能提升】大模型训练:如何更容易提升模型性能？请列举提升性能的关键技术，如数据质量、模型架构优化（如MoE、GQA）、训练技巧（如学习率调度、梯度裁剪）、分布式训练策略等。 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1726",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-185",
+      "originalTitle": "【训练推理流程与SFT/RLHF】阐述大模型训练与推理的完整流程，重点说明SFT(监督微调)和RLHF(基于人类反馈的强化学习)的具体作用。 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1727",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-186",
+      "originalTitle": "【记忆token设置】注入到模型中的记忆token长度应该如何设置？如何进行限制？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1728",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“记忆 token”未定义表示形式与注入方式。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-187",
+      "originalTitle": "【预测与微调】大模型预测是怎么做的，为什么大模型和标准模型的准确率有什么区别？微调是怎么做的，基座是什么，有用过更高级的模型吗？输入的特征是什么？大模型在场景上的优势？请解释大模型预测的推理过程（自回归生成），比较与标准模型（如传统分类模型）在准确率上的差异原因（如参数量、训练数据、泛化能力），说明微调的方法（全量微调、LoRA等），基座模型的选择，输入特征（如tokenized文本），以及大模型在复杂任务上的优势（如上下文理解、多任务能力）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1730",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-188",
+      "originalTitle": "【预训练Loss实现】预训练 loss，自己实现过吗？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1731",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-189",
+      "originalTitle": "【预训练与SFT Loss】预训练和SFT的loss有什么区别? 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-190",
+      "originalTitle": "【预训练与后训练目标】技术理解：预训练和后训练在构建训练目标上有什么区别？请说明预训练目标（如自回归语言建模、掩码语言建模）与后训练目标（如指令微调、RLHF）的差异，以及各自的目的（预训练学习通用知识，后训练对齐人类偏好）。 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1733",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-191",
+      "originalTitle": "【预训练数据处理】预训练数据处理流程。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1734",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-192",
+      "originalTitle": "【预训练概率公式】预训练阶段还有哪些概率计算公式？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1735",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“还有哪些概率计算公式”缺少前文公式与所求概率量。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-193",
+      "originalTitle": "【预训练目标】为什么用next-token prediction而不是MLM? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1736",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-194",
+      "originalTitle": "【预训练策略】你们预训练的时候，除了有对配比实验的策略，有没有其他策略（比如学习率上的）？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1737",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-195",
+      "originalTitle": "【预训练经验】做过模型的预训练吗？关于预训练有什么经验可以分享吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-196",
+      "originalTitle": "【预训练评估】预训练评估有哪些维度？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1739",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-197",
+      "originalTitle": "【预训练语料构建】如何构建高质量的预训练语料?请说明语料来源（如网页、书籍、代码）、清洗流程（去重、过滤低质量内容、隐私保护）、数据配比（不同领域比例）以及质量评估方法。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1740",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-198",
+      "originalTitle": "【预训练跷跷板效应】pretrain会不会存在跷跷板效应？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1741",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-199",
+      "originalTitle": "【预训练过程与loss】讲一下大模型训练的过程 预训练的 loss 是什么？请描述大模型训练的一般流程（数据准备、前向传播、损失计算、反向传播、参数更新），并说明预训练阶段常用的损失函数（如自回归语言建模的交叉熵损失）。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1742",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-200",
+      "originalTitle": "【预训练重心】预训练阶段的重心会是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1743",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-201",
+      "originalTitle": "【领域知识注入策略】想让模型学习某个领域或行业的知识，是应该预训练还是应该微调?请分析两种方法的适用场景：预训练适合大规模、通用知识注入，但成本高；微调适合特定任务、小规模知识注入，但可能过拟合。建议根据数据量、计算资源和目标任务选择。 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-202",
+      "originalTitle": "【AReaL核心创新】蚂蚁的AReaL核心创新是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1749",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-203",
+      "originalTitle": "【bge-m3模型】bge-m3模型的训练过程、loss设计等 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1750",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-204",
+      "originalTitle": "【Codex技术原理】讲一下Codex的技术原理，和你科研方向相关的。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1751",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-205",
+      "originalTitle": "【Decoder分类改进】如果想让decoder模型做分类任务，要怎么改进模型结构？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1752",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-206",
+      "originalTitle": "【DeepSeek R1】介绍DeepSeek R1，包括重要模块解释。 「字节Seed、字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1753",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-207",
+      "originalTitle": "【DeepSeek-R1 MLA】R1的MLA是如何实现KV-Cache的节约？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1754",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-208",
+      "originalTitle": "【DeepSeek与MoE架构】DeepSeek系列模型结构、创新与训练技术：包括MoE架构（细粒度专家、共享专家、负载均衡、训练不稳定解决）、GRPO、MLA（含RoPE设计）、MTP（Multi-Token Prediction）、token丢弃机制、V3结构伪代码、V4创新；对比ERNIE 4.5 MoE设计；MoE与Dense模型在RL训练中的差异及不稳定性原因。 「京东、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1755",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-209",
+      "originalTitle": "【Embedding更新判断】预训练embedding如果在业务数据训练时是冻结的，在业务数据有比较大的变化时，怎么判断embedding是不是需要更新了？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1756",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-210",
+      "originalTitle": "【GDN架构】解释一下GDN(gated delta attention)架构和背景，为什么qwen3.5这样设计？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1757",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-211",
+      "originalTitle": "【KV Cache优化】KV Cache核心原理、多轮对话命中率优化、量化对生成质量的影响、污染处理方法。 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1758",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未定义“KV Cache 污染”。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-212",
+      "originalTitle": "【KV Cache管理】实现推理时的键值缓存机制，管理与优化长文本生成 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1759",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-213",
+      "originalTitle": "【LLM未来方向】聊聊LLM未来方向，包括量化、Offload、FlashAttention等前沿趋势。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1760",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-214",
+      "originalTitle": "【Loss Spike】预训练过程中出现Loss Spike的原因有哪些？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1761",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-215",
+      "originalTitle": "【Memory策略】介绍一下你的memory策略还有你研究过的主流策略。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1762",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-216",
+      "originalTitle": "【MLA位置损失】长序列下MLA如何减少位置损失？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1763",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“位置损失”未给出度量、现象与对照条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-217",
+      "originalTitle": "【MLA注意力机制】讲讲MLA。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1764",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-218",
+      "originalTitle": "【MoE架构】介绍MoE架构，包括：MoE通常放在哪些层？MoE相比Dense模型有什么好处？MoE架构存在哪些问题？消除MoE模型在RL时对routing replay的依赖，从数学形式的角度来理解上述两项优势。熟悉的开源大模型框架（如LLaMA、HuggingFace）。 「百度、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1765",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-219",
+      "originalTitle": "【MoE架构与优化】大模型中的MoE结构优化是如何实现的？同样是MoE架构，Qwen3的MoE架构和DeepSeek的MoE架构有哪些区别？大模型的MoE结构相比于Dense结构，训练难点主要是什么？DeepSeekMoE为什么效果好，有什么值得我们借鉴创新点？如果一个路由没有到你想要的专家，你的惩罚策略是什么？ 「百度、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1766",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-220",
+      "originalTitle": "【MoE训练不可导】MoE选择了topk的训练过程不可导应该怎么处理？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1767",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-221",
+      "originalTitle": "【MoE负载均衡】MoE架构中若某个Expert的token负载过高，负载均衡策略具体如何实现？具体怎么做负载均衡？ 「百度、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1768",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-222",
+      "originalTitle": "【MoE路由设计】MoE路由设计你有什么看法？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1769",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-223",
+      "originalTitle": "【MTP与Eagle】MTP和Eagle的区别，MTP head的prefill过程，MTP head的kv cache变化 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1770",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-224",
+      "originalTitle": "【OneTrans】介绍OneTrans，它里面异构的token如何处理？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1771",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-225",
+      "originalTitle": "【Qwen3 vs DeepSeek MoE】Qwen3 MoE与DeepSeek MoE区别？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1772",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-226",
+      "originalTitle": "【Qwen3 vs DeepSeek-R1】Qwen3和DeepSeek-R1在架构上有哪些关键差异？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1773",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-227",
+      "originalTitle": "【Qwen与DeepSeek对比】介绍Qwen和DeepSeek系列模型（包括Qwen3、DeepSeek-R1等）在架构上的技术差异，并说明Qwen相比于原始Transformer的结构改动、Qwen2的改进，以及Qwen与LLaMA、DeepSeek的主要区别。同时，涉及Qwen系列如何选型、LoRA与全参微调、后训练模型评价与价值衡量。 「京东、腾讯、腾讯混元、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1774",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-228",
+      "originalTitle": "【RoPE改进】长文本场景下RoPE会出现衰减，有哪些改进手段？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1775",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-229",
+      "originalTitle": "【RoPE适配】奇数维hiddensize还能用RoPE吗？怎么适配？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1776",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-230",
+      "originalTitle": "【Scaling Law】对scaling law的理解，多模态大模型有吗？模型scaling应该往哪个方面做，有什么可以观察的现象，然后得到什么结论？ 「京东、字节Seed、字节跳动、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1777",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-231",
+      "originalTitle": "【Scaling方法】还了解哪些方法做scaling，介绍onetrans。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1778",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-232",
+      "originalTitle": "【TokenMixer vs OneTrans】介绍tokenmixer和onetrans的区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1779",
+      "reviewStatus": "confirmed",
+      "reviewNote": "TokenMixer 未给出对应模型或论文；关联仅覆盖已明确的 OneTrans 部分。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-233",
+      "originalTitle": "【中文大模型训练经验】训练中文大模型有啥经验？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1780",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-234",
+      "originalTitle": "【主流架构对比】主流LLM架构对比：Llama / DeepSeek / Qwen，重点介绍DeepSeek的MoE路由策略、MLA低秩注意力。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1781",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-235",
+      "originalTitle": "【主流架构演变】主流模型架构演变：llama1-3的演变、qwen3的moe怎么做、deepseek的mtp。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1782",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-236",
+      "originalTitle": "【主流模型架构对比】对比Qwen3与DeepSeek-R1的模型架构，包括DeepSeek V3和R1的核心架构差异、训练流程及数据来源，并说明它们在设计上的关键技术路径差异。最近的 Qwen3.5 有没有关注？有用过Qwen系列的模型吗？梳理千问系列的脉络。 「字节跳动、百度、美团、腾讯混元、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1783",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-237",
+      "originalTitle": "【代码LLM仓库级能力】repository-level的code llm能力如何？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1784",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-238",
+      "originalTitle": "【任务平衡】如何选择通用任务和特定任务平衡? 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1785",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-239",
+      "originalTitle": "【位置编码】3D RoPE的原理？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-240",
+      "originalTitle": "【低秩微调】为什么低秩矩阵分解可以近似全量微调的效果？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1787",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-241",
+      "originalTitle": "【前沿趋势】说一下你了解的前沿的吗？介绍一下。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1788",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-242",
+      "originalTitle": "【后训练策略】请谈谈你对开源大模型与自研大模型在后训练策略上可能存在的差异的理解。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1789",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-243",
+      "originalTitle": "【基模评估】业务基模和通用基模有什么区别？业务基模效果应该如何评估？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1790",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-244",
+      "originalTitle": "【增量预训练】（追问）增量预训练如何影响最终模型的训练速度和精度？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1791",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-245",
+      "originalTitle": "【多语言适配】如何适配阿里国际多语言大模型场景? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1792",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-246",
+      "originalTitle": "【大模型底层原理】手撕算法，还疯狂深挖大模型底层原理，像Transformer和微调这些细节问得特别细。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1793",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未给出所指算法的题干。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-247",
+      "originalTitle": "【思维链与推理能力训练】现在大模型的 CoT 和深度思考能力是如何通过训练得来的? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1794",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-248",
+      "originalTitle": "【投机解码】请分析投机解码算法，包括其定义、lookahead、n-gram、medusa、eagle等变体，指出其不足之处、可能的改进方向，以及该范式是否存在固有缺陷。 「字节Seed、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1796",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-249",
+      "originalTitle": "【模型对比】（追问）Deepseek、Llama与当前方案相比，在训练效率和模型表现上有何差异？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1797",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未说明与 DeepSeek、Llama 比较的当前方案。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-250",
+      "originalTitle": "【模型架构改进】比如 low-rank adaptor、LoRA 融合，或者用Mamba替换部分token path? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1798",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-251",
+      "originalTitle": "【模型训练上限】对模型训练的看法，现在 mid train 的上限在哪? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1799",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-252",
+      "originalTitle": "【涌现能力】大模型涌现能力的产生原因，小模型为什么不具备涌现能力？涌现能力是啥原因？ 「百度、腾讯、腾讯混元、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1800",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-253",
+      "originalTitle": "【混合推理】讲一讲你模型的混合推理是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1801",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“混合推理”未说明项目与具体混合维度。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-254",
+      "originalTitle": "【生成式架构】详细讲解尝试过的生成式架构，讲解他们token化的区别，为什么要做这些结构，出发点，参数量及样本量。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1802",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-255",
+      "originalTitle": "【自然语言理解】请描述大模型中自然语言理解模块的具体实现方案，包括语义解析和意图识别的关键技术。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1803",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-256",
+      "originalTitle": "【跨词表知识蒸馏】用到了OPD，但是teacher模型和student词表存在差异，怎么做的跨词表OPD，OPD的优化目标; 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1804",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-257",
+      "originalTitle": "【通义千问对比】通义千问系列模型的技术特点，和开源LLaMA、Qwen模型的关联与区别？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1805",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-258",
+      "originalTitle": "【长序列优化】CoT太长，预训练过的样本如何优化？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1806",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“预训练过的样本如何优化”未说明样本问题与优化目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-259",
+      "originalTitle": "【长文本训练策略】相关长文本是怎么做几阶段训练的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1807",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-260",
+      "originalTitle": "【预训练与SFT问题诊断】怎么判断一个case属于pretrain的问题还是sft的问题? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1808",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-261",
+      "originalTitle": "【预训练与后训练思考】讲了下自己对模型预训练后训练的思考 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1809",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-262",
+      "originalTitle": "【领域继续预训练】领域模型Continue PreTrain，如何让模型在预训练过程中就学习到更多的知识？数据如何选取？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1810",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-263",
+      "originalTitle": "【模型架构优化】如果对一个老汤模型进行架构优化，例如加宽参数层等，怎么样才能让新模型打败老汤模型? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1815",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“老汤模型”未说明具体模型与比较条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-264",
+      "originalTitle": "【知识图谱映射】如何映射知识图谱与大模型之间神经元的关系？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1816",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE-265",
+      "originalTitle": "【统一生成理解模型设计】手写一个输出端生成理解统一的模型，你会怎么设计？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1817",
+      "reviewStatus": "needs_review",
+      "reviewNote": "统一生成与理解模型未说明输入模态、任务与输出接口。"
+    }
+  ]
+}

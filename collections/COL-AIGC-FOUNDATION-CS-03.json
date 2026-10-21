@@ -1,0 +1,93 @@
+{
+  "id": "COL-AIGC-FOUNDATION-CS-03",
+  "publisherId": "PUB-WETHINKIN",
+  "sourceKind": "curated_question_set",
+  "title": "AIGC Interview Book · 数据库高频知识点",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering",
+    "software",
+    "coding"
+  ],
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题与工程练习。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-001",
+      "originalTitle": "1.数据库、DBMS和数据库系统有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-002",
+      "originalTitle": "2.关系型数据库、Redis、向量数据库、对象存储在AIGC系统中如何分工？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L30",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-003",
+      "originalTitle": "3.事务ACID、隔离级别和MVCC在Agent任务系统中有什么价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-004",
+      "originalTitle": "4.数据库索引为什么常用B+树？哈希索引和向量索引有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L79",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-005",
+      "originalTitle": "5.Redis缓存、分布式锁、限流和会话状态如何用于AIGC服务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-006",
+      "originalTitle": "6.向量数据库在RAG系统中如何设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-007",
+      "originalTitle": "7.Agent系统中的长期记忆、短期记忆和状态存储如何落库？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L149",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-008",
+      "originalTitle": "8.海量日志、文档TopK、外排序和bitmap如何支撑RAG与评测？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-009",
+      "originalTitle": "9.数据库高可用、备份恢复和数据一致性在AI服务中如何理解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L205",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-010",
+      "originalTitle": "10.数据库安全、权限和多租户隔离在Agent工具调用中为什么重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-011",
+      "originalTitle": "11.数据库范式、反范式和SQL优化在AI业务中如何取舍？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CS-03-012",
+      "originalTitle": "12.WAL、binlog、checkpoint和恢复机制为什么重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L267",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

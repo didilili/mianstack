@@ -1,0 +1,192 @@
+{
+  "id": "COL-DAILY-AI-NLP",
+  "publisherId": "PUB-DATAWHALE",
+  "title": "Datawhale 每日面试 · NLP 模型与文本表示",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Datawhale daily-interview 的 AI 算法模块原题与追问。",
+  "sourceUrl": "https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-DAILY-AI-NLP-001",
+      "originalTitle": "CNN 有什么好处？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-002",
+      "originalTitle": "CNN 有什么不足？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L54",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-003",
+      "originalTitle": "卷积层输出 size？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L59",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-004",
+      "originalTitle": "LSTM 网络结构？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-005",
+      "originalTitle": "如何解决 RNN 中的梯度消失或梯度爆炸问题？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-006",
+      "originalTitle": "假设输入维度为 m，输出为 n，求 GRU 参数？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L90",
+      "reviewStatus": "confirmed",
+      "reviewNote": "m、n 分别指输入维度和隐藏输出维度；题干未指定偏置约定。"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-007",
+      "originalTitle": "LSTM 和 GRU 的区别？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-008",
+      "originalTitle": "Attention 机制",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-009",
+      "originalTitle": "自注意力中为何要缩放？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-010",
+      "originalTitle": "Transformer 中为什么用 Add 而不是 Concat？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L120",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题中的 Add 承接正文 Embedding 相加的语境。"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-011",
+      "originalTitle": "简单介绍下ELMO",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-012",
+      "originalTitle": "ELMO的缺点",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-013",
+      "originalTitle": "简单介绍下GPT",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L139",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处 GPT 来自早期预训练模型的演进语境。"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-014",
+      "originalTitle": "GPT的缺点",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L145",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处延续早期 GPT 的单向预训练语境。"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-015",
+      "originalTitle": "简单介绍下BERT",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-016",
+      "originalTitle": "BERT缺点",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L157",
+      "reviewStatus": "confirmed",
+      "reviewNote": "正文将本题限定为词元粒度与完整词、短语或实体语义的关系。"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-017",
+      "originalTitle": "ERNIE对BERT进行了哪些优化？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/deep-learning-models.md#L163",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源同时讨论早期 ERNIE 的词或实体遮蔽与 ERNIE 2.0 的多任务预训练。"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-018",
+      "originalTitle": "介绍一下Word2Vec模型。",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-019",
+      "originalTitle": "Word2Vec模型为什么要定义两套词向量？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-020",
+      "originalTitle": "Hierarchial Softmax 和 Negative Sampling对比",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-021",
+      "originalTitle": "HS为什么用霍夫曼树而不用其他二叉树？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-022",
+      "originalTitle": "Word2Vec模型为什么要进行负采样？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-023",
+      "originalTitle": "负采样为什么要用词频来做采样概率？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-024",
+      "originalTitle": "One-hot模型与Word2Vec模型比较？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-025",
+      "originalTitle": "Word2Vec模型在NNLM模型上做了哪些改进？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-026",
+      "originalTitle": "Word2Vec与LSA对比？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L163",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-027",
+      "originalTitle": "Word2Vec的缺点？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-NLP-028",
+      "originalTitle": "怎么从语言模型理解词向量？怎么理解分布式假设？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/nlp/text-representation.md#L175",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

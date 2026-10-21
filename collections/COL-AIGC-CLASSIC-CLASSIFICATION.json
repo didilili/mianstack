@@ -1,0 +1,181 @@
+{
+  "id": "COL-AIGC-CLASSIC-CLASSIFICATION",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 图像分类",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-001",
+      "originalTitle": "1. CNN 经典骨干的演进主线是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L41",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-002",
+      "originalTitle": "面试问题：LeNet-5、AlexNet、VGG 分别解决了什么关键问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L66",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-003",
+      "originalTitle": "面试问题：GoogLeNet / Inception 的核心思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-004",
+      "originalTitle": "面试问题：ResNet 为什么是最重要的 CNN 经典模型之一？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-005",
+      "originalTitle": "面试问题：DenseNet、ResNeXt、SE-Net 分别改进了什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L157",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-006",
+      "originalTitle": "2. 轻量化 CNN 为什么在 AIGC 工程中仍然重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L192",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-007",
+      "originalTitle": "面试问题：MobileNet 的深度可分离卷积为什么能降计算量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-008",
+      "originalTitle": "面试问题：EfficientNet 的复合缩放思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-009",
+      "originalTitle": "面试问题：RepVGG 的结构重参数化为什么适合部署？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L267",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-010",
+      "originalTitle": "3. 从 CNN 到 ViT 的核心变化是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-011",
+      "originalTitle": "面试问题：ViT 如何把图像变成 token 序列？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L308",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-012",
+      "originalTitle": "面试问题：Swin Transformer 为什么适合检测和分割？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L335",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-013",
+      "originalTitle": "面试问题：ConvNeXt 为什么被称为现代化 CNN？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-014",
+      "originalTitle": "4. AIGC 时代哪些视觉骨干最常考？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L381",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-015",
+      "originalTitle": "面试问题：MAE 和 DINOv2 分别代表什么自监督预训练路线？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-016",
+      "originalTitle": "面试问题：CLIP 为什么改变了视觉分类和检索范式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L421",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-017",
+      "originalTitle": "面试问题：DiT 为什么会成为扩散模型中的重要 backbone？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-018",
+      "originalTitle": "面试问题：ViT 如何处理不同分辨率和变长视觉 token 序列？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L482",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-019",
+      "originalTitle": "面试问题：FasterDiT、SiT、LightningDiT 分别从哪些方向改进 DiT？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-020",
+      "originalTitle": "面试问题：DiT 如何注入时间、类别、文本和结构控制条件？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L519",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-021",
+      "originalTitle": "面试问题：DiT Block 为什么常用 AdaLN、RoPE 和 In-Context Conditioning？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L534",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-022",
+      "originalTitle": "面试问题：DINOv3 相比 DINOv2 的价值应如何理解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L542",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-023",
+      "originalTitle": "面试问题：ViT 中的 CLS token 有什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L550",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-024",
+      "originalTitle": "面试问题：DINOv2 如何通过数据去重和检索构建高质量预训练集？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L558",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-025",
+      "originalTitle": "面试问题：图像分类任务中类别不平衡怎么解决？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L574",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-026",
+      "originalTitle": "面试问题：图像分类中的标签噪声如何处理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L597",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-CLASSIFICATION-027",
+      "originalTitle": "面试问题：图像分类常用评估指标有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L632",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

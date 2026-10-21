@@ -1,0 +1,139 @@
+{
+  "id": "COL-AIGC-ML-OPTIMIZATION",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC Interview Book · 机器学习优化方法知识点",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的机器学习问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-001",
+      "originalTitle": "数据类别不平衡怎么处理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-002",
+      "originalTitle": "什么是过拟合，解决过拟合的方法有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L41",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-003",
+      "originalTitle": "什么是欠拟合，解决欠拟合的方法有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L57",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-004",
+      "originalTitle": "正则化的本质以及常用正则化手段？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-005",
+      "originalTitle": "L范数的作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-006",
+      "originalTitle": "Dropout的作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L95",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-007",
+      "originalTitle": "如何找到让F1最高的分类阈值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-008",
+      "originalTitle": "L1正则为什么比L2正则更容易产生稀疏解?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-009",
+      "originalTitle": "梯度爆炸和梯度消失产生的原因及解决方法?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-010",
+      "originalTitle": "数据EDA逻辑（Exploratory Data Analysis）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L194",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-011",
+      "originalTitle": "什么是PEFT技术？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L202",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-012",
+      "originalTitle": "什么是哈达玛积，在AI领域有哪些典型应用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-013",
+      "originalTitle": "什么是机器学习中的鞍点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-014",
+      "originalTitle": "正则化为什么可以防止过拟合？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-015",
+      "originalTitle": "深度学习中正则化作用是什么？正则化方法都有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-016",
+      "originalTitle": "介绍一下深度学习正则化中的L1正则化和L2正则化的区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-017",
+      "originalTitle": "如何在AI模型中加入先验知识？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L538",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-018",
+      "originalTitle": "混合专家模型(MoE)和集成学习有哪些异同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-019",
+      "originalTitle": "稀疏模型和稠密模型有哪些异同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L675",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处“稀疏模型”指条件激活模型，不指权重稀疏。"
+    },
+    {
+      "id": "COL-AIGC-ML-OPTIMIZATION-020",
+      "originalTitle": "在机器学习中降维的方法都有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9.md#L750",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

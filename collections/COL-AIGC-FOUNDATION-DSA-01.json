@@ -1,0 +1,90 @@
+{
+  "id": "COL-AIGC-FOUNDATION-DSA-01",
+  "publisherId": "PUB-WETHINKIN",
+  "sourceKind": "curated_question_set",
+  "title": "AIGC Interview Book · 数据结构与算法总览",
+  "coverage": [
+    "software",
+    "coding"
+  ],
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-001",
+      "originalTitle": "1. 为什么 AI 算法岗仍然必须掌握数据结构与算法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L26",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-002",
+      "originalTitle": "面试问题：数据结构和算法在 AIGC 系统中分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L54",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-003",
+      "originalTitle": "面试问题：如何从 AI 工程场景选择合适的数据结构？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L74",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-004",
+      "originalTitle": "面试问题：算法复杂度为什么会影响模型训练和推理成本？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-005",
+      "originalTitle": "2. 时间复杂度和空间复杂度应该如何分析？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-006",
+      "originalTitle": "面试问题：最好、最坏、平均和摊还复杂度有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-007",
+      "originalTitle": "面试问题：为什么常数、缓存局部性和内存访问在 AI 系统中很重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L157",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-008",
+      "originalTitle": "面试问题：如何理解空间换时间、预计算和缓存？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-009",
+      "originalTitle": "3. 常用数据结构如何分类？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-010",
+      "originalTitle": "面试问题：数组、链表、栈、队列、哈希表、树、图分别适合什么场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L232",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-011",
+      "originalTitle": "面试问题：哪些数据结构在大模型系统中最常见？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-01-012",
+      "originalTitle": "面试问题：刷题中的数据结构如何迁移到真实 AI 项目？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/01_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E8%A7%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L271",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "id": "COL-AIGC-CLASSIC-DETECTION",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 目标检测",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-001",
+      "originalTitle": "1.目标检测中IOU的相关概念与计算",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L185",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-002",
+      "originalTitle": "2.目标检测中NMS的相关概念与计算",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L213",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-003",
+      "originalTitle": "3.One-stage目标检测与Two-stage目标检测的区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-004",
+      "originalTitle": "4.哪些方法可以提升小目标检测的效果？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-005",
+      "originalTitle": "5.Focal Loss的作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L315",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-006",
+      "originalTitle": "为什么上述公式只解决正负样本不均衡问题呢？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L349",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“上述公式”指父节加入类别系数 alpha 的加权交叉熵。"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-007",
+      "originalTitle": "6.什么是Soft-NMS，它与传统NMS的区别是什么?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L369",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-008",
+      "originalTitle": "7.什么是GIoU/DIoU/CIoU_Loss，它们为什么比IoU_Loss更好？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-009",
+      "originalTitle": "8.请介绍下目标检测算法中基于Anchor-based和Anchor-free方法的区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L401",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-010",
+      "originalTitle": "9.YOLOv2中的anchor如何生成？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L416",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-011",
+      "originalTitle": "10.什么是结构重参数化（Structural_Re-parameterization）？以RepVGG为例介绍一下。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L428",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-012",
+      "originalTitle": "11.介绍一下解耦头（Decoupled_Head）是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-013",
+      "originalTitle": "12.什么是任务对齐学习（Task_Alignment_Learning,TAL）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-014",
+      "originalTitle": "13.什么是动态头（Dynamic_Head,DyHead），它解决了什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L695",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-015",
+      "originalTitle": "14.在目标检测训练中，\"硬负样本挖掘（Hard_Negative_Mining）\"为何关键？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L769",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-016",
+      "originalTitle": "怎么做？常见方法",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L791",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-017",
+      "originalTitle": "1.目标检测中AP，AP50，AP75，mAP等指标的含义",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L865",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-018",
+      "originalTitle": "2.准确率(Precision)与召回率(Recall)的含义",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-019",
+      "originalTitle": "1.目标检测中的Test_Time_Augmentation(TTA)是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L900",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-020",
+      "originalTitle": "2.目标检测中常用的多尺度训练（Multi-scale_Training）策略是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L908",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-021",
+      "originalTitle": "3.自适应训练样本分配（ATSS）是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L926",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-022",
+      "originalTitle": "4.介绍一下SimOTA标签分配方法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L944",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-023",
+      "originalTitle": "5.介绍一下DFL？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L960",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-024",
+      "originalTitle": "6.介绍一下WBF？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L983",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-025",
+      "originalTitle": "8.什么是PANet（Path_Aggregation_Network），它如何增强特征融合？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1041",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-026",
+      "originalTitle": "9.什么是Cascade_R-CNN，它解决了什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1084",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-027",
+      "originalTitle": "10.在目标检测中，“少样本／零样本检测（Few-Shot/Zero-Shot_Object_Detection）”是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-028",
+      "originalTitle": "11.旋转目标检测（Oriented_BBox，OBB）为何重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-029",
+      "originalTitle": "12.你知道哪些边缘端部署的方案？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-030",
+      "originalTitle": "13.目标检测模型训练中，为何要使用Warmup策略，它解决了什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-031",
+      "originalTitle": "14.什么是SAHI（Slicing Aided Hyper Inference），它是如何解决高分辨率小目标检测难题的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-032",
+      "originalTitle": "2.介绍下YOLOv5中的CSP结构？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1341",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-033",
+      "originalTitle": "3.介绍下YOLOv5中的SPP结构?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-034",
+      "originalTitle": "4.请介绍下YOLOv5中的Focus操作？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-035",
+      "originalTitle": "5.介绍一下RT-DETR及其与YOLO系列的区别？5.介绍一下 RT-DETR及其与YOLO系列的区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1430",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-036",
+      "originalTitle": "6.介绍一下RTMDet(Real-Time_Model_for_Object_Detection)？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-037",
+      "originalTitle": "7.介绍一下YOLOv9的核心创新：可编程梯度信息（PGI）和GELAN？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-038",
+      "originalTitle": "8.YOLOv10是如何实现NMS-Free（无需非极大值抑制）的端到端检测的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1508",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-039",
+      "originalTitle": "9.介绍一下YOLOv11的核心改进点（相对于YOLOv8/v10）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1520",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-040",
+      "originalTitle": "1.FPN(Feature Pyramid Network)的相关知识",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-041",
+      "originalTitle": "2.SPP(Spatial Pyramid Pooling)的相关知识",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1580",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-042",
+      "originalTitle": "3.FPN网络的主要作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-043",
+      "originalTitle": "1.请介绍一下DETR？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1609",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-044",
+      "originalTitle": "2.请介绍一下DINO？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1647",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处 DINO 指检测器 DETR with Improved DeNoising Anchor Boxes，不是视觉自蒸馏 DINO 系列。"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-045",
+      "originalTitle": "3.请介绍一下Deformable_DETR？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1691",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-046",
+      "originalTitle": "4.什么是DETR中的Hungarian_Matching(匈牙利匹配)?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1733",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-047",
+      "originalTitle": "5.Transformer中的自注意力机制（Self-Attention）与目标检测中的全局特征融合有何关联？为什么说DETR能够实现End-to-End检测？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1766",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-048",
+      "originalTitle": "6.什么是Co-DETR，它是如何利用混合标签分配提升DETR性能的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1774",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-049",
+      "originalTitle": "1.介绍一下DiffusionDet？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1793",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-050",
+      "originalTitle": "2.什么是Sparse R-CNN？它作为连接Dense和Set Prediction的桥梁有何意义？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1818",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-051",
+      "originalTitle": "1.有哪些经典的轻量型人脸检测模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1830",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-052",
+      "originalTitle": "2.LFFD人脸检测模型的结构和特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1842",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-053",
+      "originalTitle": "3.请介绍ROIPooling？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1872",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-054",
+      "originalTitle": "4.请介绍ROIAlign？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1894",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-055",
+      "originalTitle": "5.介绍一下CenterNet的原理，它与传统的目标检测有什么不同点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1913",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-056",
+      "originalTitle": "6.CenterNet中heatmap（热力图）如何生成？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1917",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-057",
+      "originalTitle": "7.介绍一下SSD算法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1925",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-058",
+      "originalTitle": "8.介绍一下FCOS及其核心思想？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1931",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-059",
+      "originalTitle": "FCOS 如何解决 Anchor-Free 带来的新问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1949",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-060",
+      "originalTitle": "9.请简述RetinaNet的主要思想，它是如何有效结合One-stage速度和Two-stage精度优势的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1963",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-061",
+      "originalTitle": "10.在 Faster R-CNN 中，Region Proposal Network (RPN) 的作用是什么？它如何实现端到端训练？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1985",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-062",
+      "originalTitle": "1.介绍一下介绍目标检测中常用的经典CNN_Backbone？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2013",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-063",
+      "originalTitle": "2.介绍一下目标检测中常用的轻量级Backbone？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2021",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-064",
+      "originalTitle": "3.介绍一下目标检测中Transformer-based和新兴Backbone？以及如何选择",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2035",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-065",
+      "originalTitle": "4.除了CNN和Transformer，目标检测领域还有哪些新兴的Backbone设计趋势？请简要介绍一个。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2055",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-066",
+      "originalTitle": "5.视觉Mamba（Vision Mamba/VMamba）相比传统CNN和Transformer在目标检测中有什么潜在优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2065",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-067",
+      "originalTitle": "6.掩码图像建模（MIM，如MAE）预训练为何比分类预训练更适合目标检测？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2076",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-068",
+      "originalTitle": "1.介绍一下GLIP（Grounded Language-Image Pre-training）及其如何将检测重构为短语定位问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2093",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-069",
+      "originalTitle": "2.介绍一下YOLO-World？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-070",
+      "originalTitle": "3.介绍一下Grounding DINO？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-071",
+      "originalTitle": "1.开放词汇检测 (OVD) 与开放世界检测 (OWD) 有什么本质区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-072",
+      "originalTitle": "2.什么是 ORE？它旨在解决什么问题，核心机制是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2212",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-073",
+      "originalTitle": "3.开放世界检测（OWD）中，如何区分“未知目标（Unknown）”和“背景（Background）”？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-074",
+      "originalTitle": "4.介绍一下OW-DETR？它相比于基于Faster_R-CNN的ORE有什么优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2292",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-075",
+      "originalTitle": "5.在开放世界检测中，什么是“灾难性遗忘（Catastrophic_Forgetting）”，通常如何解决？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2308",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-076",
+      "originalTitle": "1.什么是T-Rex模型？它是如何通过“视觉提示（Visual_Prompting）”实现通用物体检测的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-077",
+      "originalTitle": "2.相比于文本提示（如GLIP），视觉提示（Visual_Prompting）在目标检测中有什么独特优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-078",
+      "originalTitle": "3.介绍一下SEEM（Segment_Everything_Everywhere_All_at_Once）？它支持哪些类型的交互提示？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2352",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-079",
+      "originalTitle": "1.什么是增量目标检测？它与普通目标检测的核心区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2369",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-080",
+      "originalTitle": "2.在增量目标检测中，\"背景类语义漂移（Background Shift）\"是什么问题？如何解决？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-081",
+      "originalTitle": "3.增量目标检测中基于知识蒸馏的方法是如何工作的？请介绍代表性工作。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-082",
+      "originalTitle": "4.增量目标检测的主流评估协议有哪些？如何设计实验来衡量一个模型的遗忘程度？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2460",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-083",
+      "originalTitle": "5.如何将 DETR 架构应用于增量目标检测？它相比基于 Faster R-CNN 的方法有什么天然优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-084",
+      "originalTitle": "6.增量目标检测与开放世界检测（OWD）、开放词汇检测（OVD）有什么本质区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-CLASSIC-DETECTION-085",
+      "originalTitle": "1.介绍一下Florence-2？它是如何统一目标检测、分割和图像描述任务的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md#L2559",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

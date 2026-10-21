@@ -1,0 +1,119 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Vibe Coding模拟面试",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "coding"
+  ],
+  "sourceClaim": "AgentGuide 收录的模拟面试材料，署名阿东玩AI，整理于 2026 年 4 月。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf",
+  "sourceAttribution": {
+    "name": "阿东玩AI",
+    "url": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf"
+  },
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-001",
+      "originalTitle": "商家提交商品后，系统自动判断能否上架。请全程使用 AI 工具完成设计与实现，并随时解释你的决策。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=8",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-002",
+      "originalTitle": "你怎么理解这道题?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=8",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-003",
+      "originalTitle": "你为什么要把结果分三类,直接给上架 / 拒绝两类不行吗?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=8",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-004",
+      "originalTitle": "你的任务拆解里 T1 和 T3 你说可以 并行 ,为什么?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=8",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-005",
+      "originalTitle": "你写的 Prompt 里要求耗时 <50ms , AI 能保证这个吗?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=9",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-006",
+      "originalTitle": "如果 AI 生成的代码有 Bug ,你怎么处理?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=9",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-007",
+      "originalTitle": "你整体用 AI 完成了多少,你自己做了多少?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=9",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-008",
+      "originalTitle": "如果让你把这个做到生产级,还缺什么?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=9",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-009",
+      "originalTitle": "你怎么评估审核质量?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=9",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-010",
+      "originalTitle": "你的方案在高并发下能撑住吗?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=10",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-011",
+      "originalTitle": "你的方案有什么缺点?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=10",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-012",
+      "originalTitle": "你为什么选这个方案,有没有考虑过别的?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=10",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-013",
+      "originalTitle": "你让 AI 写的代码你真的看懂了吗?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=10",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-014",
+      "originalTitle": "如果面试时 AI 工具崩了怎么办?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=10",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-015",
+      "originalTitle": "你在整个过程中最担心的⻛险是什么?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=11",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-INTERVIEW-016",
+      "originalTitle": "你整个流程最耗时的是哪一步?",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=11",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

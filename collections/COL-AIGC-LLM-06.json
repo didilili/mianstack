@@ -1,0 +1,200 @@
+{
+  "id": "COL-AIGC-LLM-06",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 模型评估：多维评估大语言模型",
+  "coverage": [
+    "llm",
+    "rag",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的专题面试题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-LLM-06-001",
+      "originalTitle": "面试问题：为什么要评估大语言模型？评估最终要回答哪些问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L61",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-002",
+      "originalTitle": "面试问题：如何设计多维评估矩阵？不同类型模型的评估重点有什么差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L81",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-003",
+      "originalTitle": "面试问题：离线基准、自动评估、人工评估、LLM-as-a-Judge 和线上 A/B 分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-004",
+      "originalTitle": "面试问题：为什么生成质量不能只看流畅度？如何评估相关性、事实性、连贯性和有用性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-005",
+      "originalTitle": "面试问题：开放式任务和有参考答案任务有什么区别？自动指标应该如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L163",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-006",
+      "originalTitle": "面试问题：人工评估和 LLM-as-a-Judge 应该如何设计？如何控制主观性和评审偏差？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L191",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-007",
+      "originalTitle": "面试问题：如何评估模型的知识掌握程度和事实准确性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L233",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-008",
+      "originalTitle": "面试问题：如何将幻觉问题转化为可评估的标签、指标和归因流程？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-009",
+      "originalTitle": "面试问题：如何验证幻觉治理方案是否真的有效？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L292",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-010",
+      "originalTitle": "面试问题：常见综合能力 Benchmark 有哪些？它们分别覆盖什么能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L315",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-011",
+      "originalTitle": "面试问题：Benchmark 评估有哪些局限？如何避免评测集污染和刷榜误导？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-012",
+      "originalTitle": "面试问题：如何评估语言理解和问答能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-013",
+      "originalTitle": "面试问题：大语言模型的推理能力包括哪些类型？如何判断模型是真的会推理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L432",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-014",
+      "originalTitle": "面试问题：如何评估数学推理能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-015",
+      "originalTitle": "面试问题：如何评估代码能力和科学推理能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L460",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-016",
+      "originalTitle": "面试问题：长上下文能力应该评估哪些任务、基准和指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-017",
+      "originalTitle": "面试问题：什么是 Needle In A Haystack 和 lost in the middle？它们分别暴露什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L486",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-018",
+      "originalTitle": "面试问题：如何评估模型是否遵循指令？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-019",
+      "originalTitle": "面试问题：Helpful、Honest、Harmless 和 Fairness 如何落到评估指标上？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L518",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-020",
+      "originalTitle": "面试问题：RLHF、DPO、GRPO 后的模型应该如何评估？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L541",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-021",
+      "originalTitle": "面试问题：如何评估拒答边界和过度拒答？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L554",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-022",
+      "originalTitle": "面试问题：如何系统评估模型的有害性？如何做红队测试？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L574",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-023",
+      "originalTitle": "面试问题：如何评估模型偏见与公平性？BBQ、StereoSet、CrowS-Pairs 分别关注什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L597",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-024",
+      "originalTitle": "面试问题：如何评估对抗鲁棒性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-025",
+      "originalTitle": "面试问题：RAG 系统需要评估哪些部分？为什么不能只看最终答案？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-026",
+      "originalTitle": "面试问题：RAG 检索指标、排序指标和上下文指标如何区分？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L669",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-027",
+      "originalTitle": "面试问题：忠实度（Faithfulness）、答案相关性（Answer Relevance）、上下文相关性（Context Relevance）和 引用准确率（Citation Accuracy）有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L686",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-028",
+      "originalTitle": "面试问题：如何定位 RAG 系统问题发生在解析、分块、检索、重排序还是生成阶段？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L702",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-029",
+      "originalTitle": "面试问题：如何从零设计一个合理的大模型评估方案？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L720",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-LLM-06-030",
+      "originalTitle": "面试问题：为什么业务场景评估比通用榜单更重要？上线后应该监控什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/06_%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%EF%BC%9A%E5%A4%9A%E7%BB%B4%E8%AF%84%E4%BC%B0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md#L749",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

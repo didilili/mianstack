@@ -1,0 +1,232 @@
+{
+  "id": "COL-ZERO2AGENT-AGENT-INFRA",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · Agent Infra：Runtime、Sandbox 与可靠执行",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-001",
+      "originalTitle": "一次 Agent 请求的完整执行链路是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L18",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-002",
+      "originalTitle": "为什么需要 Checkpoint，恢复时从哪里继续？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L46",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-003",
+      "originalTitle": "如果让你设计一个 Agent Runtime，你会怎么拆？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L77",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-004",
+      "originalTitle": "Agent Sandbox 解决什么问题，为什么容器不一定够？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-005",
+      "originalTitle": "如何支撑几十万并发 Agent Task，并把它观测清楚？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L143",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-006",
+      "originalTitle": "如何让 Agent 执行过程可观测、可调试？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L165",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-007",
+      "originalTitle": "Tool 已成功但 Runtime 在写状态前宕机，如何避免重复副作用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L186",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-008",
+      "originalTitle": "Kubernetes Pod/Deployment 从提交到就绪经历哪些控制链路？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L213",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-009",
+      "originalTitle": "Ray 的核心调度链路是什么，节点 OOM 或上游故障后如何恢复？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-010",
+      "originalTitle": "Agentic RL 采用同步还是异步 Rollout，如何权衡吞吐与稳定性？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-011",
+      "originalTitle": "大量本地端 Agent 与云端 Agent 如何协同？身份、状态、离线和任务迁移边界怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-012",
+      "originalTitle": "Agentic RL 的 Rollout、Training 与推理引擎如何编排？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L293",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-013",
+      "originalTitle": "Agent Router 应以什么运行形态存在，请求数据流如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-014",
+      "originalTitle": "Agent 平台或 Runtime 出现新框架时，如何评估迁移收益、兼容老旧服务并决定是否淘汰旧方案？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L328",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-015",
+      "originalTitle": "Agent 如何实现主动向用户推送消息？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L351",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-016",
+      "originalTitle": "Kubernetes 在 Agent Infra 中负责什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-017",
+      "originalTitle": "Kubernetes 的 Request 与 Limit 分别怎样影响调度和资源隔离？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-018",
+      "originalTitle": "Kubernetes Scheduler 的三个队列如何流转？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L400",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“三个队列”指 kube-scheduler 的内部调度队列。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-019",
+      "originalTitle": "Agent Worker 或 Sandbox 滚动发布时，如何逐步切流并保护长任务？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L416",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-020",
+      "originalTitle": "Agent Infra 为什么能提升 Agent 的能力上限和任务成功率？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L432",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-021",
+      "originalTitle": "周期性 Agent 任务如何把 Schedule 与每次 Run 分离，并处理时区、漏跑、并发、幂等和失败通知？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-022",
+      "originalTitle": "如何根据安全性、性能、故障影响范围和成本选择服务隔离层级？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-023",
+      "originalTitle": "Agent 调用 Sandbox 的链路如何容错？Sandbox 运行中崩溃后怎么恢复？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-024",
+      "originalTitle": "Agent Task 适合建模为 Kubernetes CRD 吗？如何权衡声明式管理与高频任务吞吐？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-025",
+      "originalTitle": "verl AgentLoop 的运行模型、状态与扩展点是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L518",
+      "reviewStatus": "confirmed",
+      "reviewNote": "这里的 AgentLoop 指 verl 多轮 Rollout 接口。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-026",
+      "originalTitle": "Agent 状态放在 Sandbox 内、用户状态放在 Sandbox 外时，边界如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L553",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-027",
+      "originalTitle": "Agent 执行过程中如何提供安全停止功能？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L578",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-028",
+      "originalTitle": "用户点击停止后，系统需要完成哪些清理和收尾？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L590",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-029",
+      "originalTitle": "如何降低 Agent 依赖技术人员逐个配置的成本？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L602",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-030",
+      "originalTitle": "Agent Workbench 解决什么问题？应具备哪些核心能力？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-031",
+      "originalTitle": "如何判断一个 Agent 基础设施是否完备？应从哪些能力和质量指标评估？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L628",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-032",
+      "originalTitle": "Agent 文件系统访问边界与工作目录隔离如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-033",
+      "originalTitle": "Agent 工作流框架中的节点抽象如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L656",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-034",
+      "originalTitle": "进程崩溃或退出后，分布式 Lease 如何检测、回收并避免资源被错误占用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L670",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-INFRA-035",
+      "originalTitle": "如何保证同一构建任务在分布式环境中同时只有一个 Worker 执行？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md#L684",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

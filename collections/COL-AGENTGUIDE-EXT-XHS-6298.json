@@ -1,0 +1,336 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-6298",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 数学统计与逻辑",
+  "coverage": [
+    "llm",
+    "training",
+    "coding"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-001",
+      "originalTitle": "【概率分布与几何分布期望】1. 概率分布是什么？2. 一个硬币，摇到正面的期望次数是多少？（几何分布期望） 「字节跳动、拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6305",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-002",
+      "originalTitle": "【二项分布与泊松分布】二项分布和泊松分布的关系。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-003",
+      "originalTitle": "【单位圆内距离期望】单位圆内随机点到圆心距离的期望计算。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6311",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-004",
+      "originalTitle": "【掷骰子集齐六面期望】概率题:怎么扔骰子能扔出不同的六个面，求期望？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6313",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-005",
+      "originalTitle": "【条件概率与贝叶斯】一道条件概率计算。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-006",
+      "originalTitle": "【样本均值的方差】X1,X2,...,Xn是独立同分布的随机变量，服从正态分布，推导X均值的方差。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6315",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-007",
+      "originalTitle": "【熵与KL散度】请解释熵、交叉熵和KL散度的定义、联系与区别，并直观理解KL散度公式所衡量的差异，同时计算KL散度。 「京东、腾讯混元、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6317",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-008",
+      "originalTitle": "【球与篮子分配】概率题：将6个不同的球放到5个不同的篮子里，每个篮子至少一个球，有几种放法？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-009",
+      "originalTitle": "【硬币概率事件】一道概率题:给你一枚硬币，正面朝上概率为p，反面朝上概率为1-p;定义事件组:最终各个事件的发生概率为？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6319",
+      "reviewStatus": "needs_review",
+      "reviewNote": "事件组未保留，无法从硬币概率反推待求事件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-010",
+      "originalTitle": "【轮流抛硬币先手胜率】两个人轮流抛硬币，先抛到正面算赢。计算先手获胜的概率。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-011",
+      "originalTitle": "【连续两次正面期望】投硬币，连续两次为正的数学期望是多少？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-012",
+      "originalTitle": "【顺序统计量期望】A和B是独立同分布的[0,1]均匀分布，求max(A,B)期望值。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-013",
+      "originalTitle": "【骰子点数分布】n个骰子的点数分布。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6323",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“n 个骰子的点数分布”未说明统计单个、联合还是点数和。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-014",
+      "originalTitle": "【高斯分布与零均值】为什么A高斯B零？能不能反过来A零B高斯？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6324",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未定义 A、B 对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-015",
+      "originalTitle": "【不公平硬币公平抛】有一枚质量不均匀的硬币，抛出后正面概率为0.3，背面概率为0.7，如何让两个人通过抛硬币达成公平结果？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6329",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-016",
+      "originalTitle": "【圆周三点锐角三角形概率】数学题: 圆周上随机取三点构成锐角三角形的概率推导。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6330",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-017",
+      "originalTitle": "【条件概率与贝叶斯】概率题: 甲乙做题正确率分别为0.9和0.5，ABC三个选项，他们同时选了A，A是正确答案的概率是多少？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6332",
+      "reviewStatus": "confirmed",
+      "reviewNote": "具体数值后验还依赖选项先验、错误时的选择分布及两人条件独立性；原题未给出完整假设。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-018",
+      "originalTitle": "【连续两个6期望次数】概率题: 给一个骰子，连续投掷两个6为止停下，求投掷的次数期望。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-019",
+      "originalTitle": "【重要性采样与拒绝采样】讲讲重要性采样和拒绝采样？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6334",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-020",
+      "originalTitle": "【卡尔曼滤波】请简要推导卡尔曼滤波的五个公式，并说明在规划中如何利用它进行状态预测？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-021",
+      "originalTitle": "【差分隐私】请解释差分隐私(Differential Privacy)的基本概念和核心机制(如拉普拉斯噪声)，并讨论其在金融数据建模中可能的应用。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-022",
+      "originalTitle": "【p值与置信区间定义】1. 什么是p值？2. 置信区间是什么？ 「京东、拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6348",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-023",
+      "originalTitle": "【p值与样本量关系】样本量增大p值一定更小吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6353",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-024",
+      "originalTitle": "【双重差分法假设】DID需要满足什么假设？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6358",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-025",
+      "originalTitle": "【大样本抽样方法】当日志量比较大的情况下采取什么样的统计学方法能够以尽量少的样本使得不丢失过多信息？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6359",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-026",
+      "originalTitle": "【时间序列突变分析】时间序列不平稳时可能出现陡增突变，如何统计分析以区分机制性改变与偶然事件？请讨论检测方法（如CUSUM、贝叶斯变点检测）、假设检验、模型选择及后续建模策略。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-027",
+      "originalTitle": "【最小二乘与最大似然关系】最小二乘和最大似然的关系，为什么等价？请手推：在线性回归模型误差服从正态分布时，最小二乘估计等价于最大似然估计。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-028",
+      "originalTitle": "【矩阵运算与特征值】矩阵计算：包括矩阵的秩计算、特征值计算。 「百度、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6372",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-029",
+      "originalTitle": "【线性代数综合】1. PCA和SVD的区别？ 2. 求y=Wx+b梯度 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6377",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-030",
+      "originalTitle": "无穷级数？原记录未说明具体问题。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6385",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源只列“无穷级数”，未给出级数与求解目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-031",
+      "originalTitle": "计算自然对数e。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6386",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“自然对数 e”存在 ln(e) 与自然常数 e 的指代歧义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-032",
+      "originalTitle": "请推导笛卡尔坐标系下的量转换到Frenet坐标系下的量(如横向误差、横向变化率)的数学关系。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-033",
+      "originalTitle": "轨迹插值如何保证转向角是连续的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-034",
+      "originalTitle": "边界条件怎么处理？原记录未说明具体场景。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6389",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“边界条件”缺少对应方程与任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-035",
+      "originalTitle": "【优化理论】优化理论综合：包括Max_x对结果的影响、scaling和Hessian矩阵原理、五次多项式拟合选择原因、OSQP求解非线性优化、最小二乘拟合三次曲线、约束条件和目标函数、线搜索与信赖域区别联系、轨迹优化函数推导、运筹学、贝叶斯优化、非线性约束线性化（含KKT条件）。 「京东、百度、美团、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6396",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原条目汇集多个优化问题，其中部分函数与约束未给出。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-036",
+      "originalTitle": "【取石子游戏】逻辑题：100个圆圈涂色，双方只能涂一个或者两个，谁能涂到最后一个？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6412",
+      "reviewStatus": "confirmed",
+      "reviewNote": "按每次处理一个或两个且最后一个获胜理解动作；若涂色还附邻接或位置规则需补原始条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-037",
+      "originalTitle": "【天平找重球】九个球，其中一个重，其余相等，你有一个天平，问最少几次把最重的球称出来？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-038",
+      "originalTitle": "【点与三角形位置】给定一个三角形，一个点，求解点是否在三角形外边？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-039",
+      "originalTitle": "【阶乘末尾零】数字1×2×3×...×100，其结果末尾有多少个零？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6415",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-040",
+      "originalTitle": "【天平找异球】有12个外观相同的小球（或芯片），其中一个重量与其它不一样（但不知道是轻了还是重了），用天平最少称几次能找出那个不同重量的球？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-041",
+      "originalTitle": "【对称策略】圆形无网格、可自由落子棋盘，先手第一步适合下在哪里？后手采取怎样的落子策略，能保证自己一直有棋子可下？中心对称落子策略为什么能保证永远有棋可下？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6421",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文并列先手中心点与后手对称两种表述，未完整给出落子合法规则。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-042",
+      "originalTitle": "【最小包络矩形】给定点以及航向，计算最小包络矩形 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6422",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题给定航向，但未明确航向固定还是待优化，最小包络的解释需先统一方向约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-043",
+      "originalTitle": "【毒药与老鼠】有十瓶药水，以及若干老鼠，喝了药水后24h死亡，问最少需要多少老鼠可以在24h内确定哪瓶药水有毒？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-044",
+      "originalTitle": "【水壶问题】思考题:三个水桶:3L7L10L，只有10L的水桶装满着水，如何在不浪费水的情况下生成一个5L的水？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-045",
+      "originalTitle": "【费米估算】还有个问题是如何估算一个房间能装多少高尔夫球，大概这类的。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6425",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-046",
+      "originalTitle": "【费米估算】请估算以下场景的数值，并说明估算逻辑：1. 京东每日AI推理请求量；2. 抖音每日产生的音视频数据量；3. 抖音直播的峰值流量；4. 抖音直播的带宽需求；5. 抖音直播的并发用户数；6. 抖音短视频的存储需求；7. 抖音短视频的日活用户数；8. 自动驾驶车辆在城市道路中需要多少测试里程才能达到足够的可靠性。 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6430",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-047",
+      "originalTitle": "【运煤问题】煤老板需将3000吨煤运到1000公里外的市场，每辆火车最大载重1000吨，每公里耗煤1吨，如何运输能使最后到达的煤最多？能到达多少煤？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-048",
+      "originalTitle": "【PID控制】PID里的PID分别是什么，调节的参数有哪些，怎么调? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-049",
+      "originalTitle": "【Shapley值】shaply值复杂度体现在哪，怎么计算高纬度特征？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-050",
+      "originalTitle": "【Sinkhorn算法】sinkhorn的原理? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6440",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6298-051",
+      "originalTitle": "【帕累托最优】介绍一下帕累托？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6441",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

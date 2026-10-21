@@ -1,0 +1,199 @@
+{
+  "id": "COL-AIGC-IMAGE-04",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 图像创作 · ControlNet以及AIGC主流可控生成技术基础",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-IMAGE-04-001",
+      "originalTitle": "面试问题：介绍一下ControlNet的最小单元和整体模型架构",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L57",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-002",
+      "originalTitle": "面试问题：ControlNet如何处理条件图？ControlNet是如何在AIGC大模型中起作用的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-003",
+      "originalTitle": "面试问题：在扩散模型中加入ControlNet训练后，训练时间和显存有什么变化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-004",
+      "originalTitle": "面试问题：ControlNet中的Zero Convolution初始权重为什么是0？Zero Convolution为什么有效？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-005",
+      "originalTitle": "面试问题：ControlNet中Balanced、My prompt is more important、ControlNet is more important三种模式有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-006",
+      "originalTitle": "面试问题：ControlNet有多少种控制条件？介绍一下各控制条件的原理与功能",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-007",
+      "originalTitle": "面试问题：多个ControlNet如何组合？多条件控制时如何处理冲突？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L257",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-008",
+      "originalTitle": "面试问题：ControlNet有哪些主流的AIGC应用案例？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-009",
+      "originalTitle": "面试问题：介绍一下ControlNet的训练过程",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-010",
+      "originalTitle": "面试问题：如何设计一个新的ControlNet控制条件？训练数据集应该怎么构建？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-011",
+      "originalTitle": "面试问题：ControlNet的损失函数是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-012",
+      "originalTitle": "面试问题：ControlNet有哪些关键的训练参数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-013",
+      "originalTitle": "面试问题：ControlNet 1.1与ControlNet相比，有哪些改进？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-014",
+      "originalTitle": "面试问题：介绍一下ControlNet-Union的原理和架构",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-015",
+      "originalTitle": "面试问题：从Stable Diffusion到FLUX的迭代中，ControlNet有哪些跨周期的本质价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L534",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-016",
+      "originalTitle": "面试问题：多阶段训练式人像一致性的本质原理和跨周期价值是什么？(进阶)",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L569",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-017",
+      "originalTitle": "面试问题：介绍一下FaceChain的AI写真生成链路和技术原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L621",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-018",
+      "originalTitle": "新版演进：FACT为什么从训练式LoRA走向免训练Adapter",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L648",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-019",
+      "originalTitle": "面试问题：介绍一下EasyPhoto的AI写真生成链路和技术原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L698",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-020",
+      "originalTitle": "面试问题：多阶段训练的人像一致性特征注入技术中，有哪些关键的人脸处理算法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L784",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-021",
+      "originalTitle": "面试问题：免训练人像一致性特征注入的本质原理和跨周期价值是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L848",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-022",
+      "originalTitle": "面试问题：PuLID系列如何通过身份Token和正交投影平衡身份、文本与风格？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L902",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-023",
+      "originalTitle": "面试问题：InstantID如何通过人脸识别特征和关键点控制实现零样本身份保持？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L979",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-024",
+      "originalTitle": "面试问题：EcomID这类电商人像一致性方案补齐了什么工程能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1017",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-025",
+      "originalTitle": "面试问题：IP-Adapter如何把参考图从灵感风格注入AIGC大模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1047",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-026",
+      "originalTitle": "面试问题：LayerDiffuse如何把单张图构建为可组合图层？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1099",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-027",
+      "originalTitle": "1. 为什么不能直接让RGB模型多生成一个Alpha通道？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-028",
+      "originalTitle": "面试问题：SUPIR这类扩散超分修复技术的核心原理是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1167",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-029",
+      "originalTitle": "面试问题：AnyText这类文字渲染技术为什么能提升图像中文字的可控性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-04-030",
+      "originalTitle": "面试问题：IDM-VTON这类虚拟试衣技术如何同时保持人物、服装和结构一致？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/04_ControlNet%E4%BB%A5%E5%8F%8AAIGC%E4%B8%BB%E6%B5%81%E5%8F%AF%E6%8E%A7%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1278",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

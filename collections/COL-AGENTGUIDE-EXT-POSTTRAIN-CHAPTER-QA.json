@@ -1,0 +1,296 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 后训练章节追问",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-001",
+      "originalTitle": "为什么 Pre-training 这么强了，还一定要做 Post-Training？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L244",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-002",
+      "originalTitle": "Alignment Tax 和 Reward Hacking 有什么关系？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-003",
+      "originalTitle": "为什么 SFT 时通常只对 Assistant 部分计算 Loss？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L666",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-004",
+      "originalTitle": "Sequence Packing 的真实难点是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L670",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-005",
+      "originalTitle": "为什么 Reward Model 常用 Bradley-Terry，而不是直接做绝对分数回归？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L976",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-006",
+      "originalTitle": "ORM 和 PRM 到底怎么选？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L980",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-007",
+      "originalTitle": "RLHF 为什么通常要保留 Reference Model？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L1355",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-008",
+      "originalTitle": "RLAIF 能不能彻底替代人类标注？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L1359",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-009",
+      "originalTitle": "为什么 PPO 里一定要有 Advantage，而不是直接拿 reward 更新？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L1678",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-010",
+      "originalTitle": "GAE 的核心直觉是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L1682",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-011",
+      "originalTitle": "DPO 里的 $\\beta$ 到底控制什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L1992",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-012",
+      "originalTitle": "什么时候会优先用 DPO，而不是直接上 RLHF？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L1996",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-013",
+      "originalTitle": "GRPO 相比 PPO 的核心价值是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L2425",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-014",
+      "originalTitle": "怎么一句话区分 DAPO / VAPO / GSPO？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L2429",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-015",
+      "originalTitle": "为什么说 RLVR 不能\"凭空创造知识\"？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L2680",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-016",
+      "originalTitle": "Qwen3 的 Hybrid Thinking 模式为什么重要？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L2684",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-017",
+      "originalTitle": "数据飞轮最容易在哪一步翻车？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L2972",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-018",
+      "originalTitle": "去污染为什么不能只做字符串去重？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L2976",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-019",
+      "originalTitle": "LoRA 里的 `B=0` 初始化为什么这么关键？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L3228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-020",
+      "originalTitle": "什么时候应该 merge LoRA，什么时候不 merge？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L3232",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-021",
+      "originalTitle": "Tool-use RL 最难的地方是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L3808",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-022",
+      "originalTitle": "MCP 为什么会提升 Agent 训练价值？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L3812",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-023",
+      "originalTitle": "为什么 Test-Time Compute 对数学和代码特别有效？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L3988",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-024",
+      "originalTitle": "MCTS 里 LLM 和 PRM 分别扮演什么角色？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L3992",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-025",
+      "originalTitle": "Flash Attention 和标准 Attention 输出完全一样吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L4533",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-026",
+      "originalTitle": "为什么 Speculative Decoding 能保证输出分布不变？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L4537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-027",
+      "originalTitle": "量化后推理速度一定更快吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L4541",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-028",
+      "originalTitle": "PD 分离的核心收益是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L4545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-029",
+      "originalTitle": "ZeRO、TP、PP 的本质区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L4569",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-030",
+      "originalTitle": "为什么 BF16 逐渐取代 FP16 成为训练默认值？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L4573",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-031",
+      "originalTitle": "MoE 的专家会真正\"专业化\"吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L4842",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-032",
+      "originalTitle": "为什么 DeepSeek-V3 要用共享专家？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L4846",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-033",
+      "originalTitle": "Auxiliary-Loss-Free 为什么比辅助损失更好？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L4850",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-034",
+      "originalTitle": "推理时 Expert Parallelism 和训练时有什么区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L4854",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-035",
+      "originalTitle": "YaRN 和 PI 的本质区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5074",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-036",
+      "originalTitle": "为什么长上下文训练必须混合短文档数据？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5078",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-037",
+      "originalTitle": "Needle-in-a-Haystack 评测里，为什么模型在文档中间表现最差？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5082",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-038",
+      "originalTitle": "Ring Attention 和普通张量并行有什么区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5086",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-039",
+      "originalTitle": "为什么说 MoE 是\"参数变大了，但计算不一定变大\"？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5220",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-040",
+      "originalTitle": "多模态模型的 hallucination 为什么比纯文本更棘手？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5224",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-041",
+      "originalTitle": "为什么 LLaVA 比 BLIP-2 更好，尽管 LLaVA 更简单？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5941",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-042",
+      "originalTitle": "SigLIP 和 CLIP 的本质区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5945",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-043",
+      "originalTitle": "2D RoPE 对哪些任务提升最大？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5949",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-044",
+      "originalTitle": "幻觉问题用视觉 CoT 解决的原理是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5953",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-045",
+      "originalTitle": "视频理解和图像理解最大的工程区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5957",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA-046",
+      "originalTitle": "多模态 Verifier 的常见来源有哪些？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md#L5961",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

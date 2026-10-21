@@ -1,0 +1,216 @@
+{
+  "id": "COL-AIGC-DL-ATTENTION",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 注意力机制",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-ATTENTION-001",
+      "originalTitle": "1.Transformer Encoder 有什么子层？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-002",
+      "originalTitle": "2.Transformer self-attention的公式是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-003",
+      "originalTitle": "3.Transformer的优缺点有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L86",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-004",
+      "originalTitle": "4.Encoder端和Decoder端是如何进行交互的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-005",
+      "originalTitle": "5.Transformer中为什么需要线性变换？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-006",
+      "originalTitle": "6.Transformer attention的注意力矩阵的计算为什么用乘法而不是加法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-007",
+      "originalTitle": "7.transformer中的attention为什么scaled?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-008",
+      "originalTitle": "8.Transformer attention计算注意力矩阵的时候如何对padding做mask操作的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-009",
+      "originalTitle": "9.介绍一下Transformer的残差结构及意义",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-010",
+      "originalTitle": "10.Transformer为什么使用LN而不是BN？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-011",
+      "originalTitle": "12.Transformer的并行化体现在哪里，Decoder可以做并行化嘛？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L212",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-012",
+      "originalTitle": "13.Transformer计算量最大的部分是哪里？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-013",
+      "originalTitle": "14.Transformer、LSTM和单纯的前馈神经网络比，有哪些提升？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-014",
+      "originalTitle": "15.有哪些处理超长文本的方法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-015",
+      "originalTitle": "16.Transformer为何不使用一个头而使用多头注意力机制？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-016",
+      "originalTitle": "17.Transformer为什么Q和K使用不同的权重矩阵，不能使用同一个值进行自身的点乘操作？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-017",
+      "originalTitle": "18.深度学习中有哪些常用的注意力机制？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L288",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-018",
+      "originalTitle": "19.注意力机制计算时，QKV的维度必须相同吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-019",
+      "originalTitle": "20.Transformer中的FeedForward模块有什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-020",
+      "originalTitle": "21.什么是Scaling-Law？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L482",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-021",
+      "originalTitle": "23.Transformer的输入包含哪些内容？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L595",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-022",
+      "originalTitle": "24.介绍一下Transformer中的Self-Attention机制",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L667",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-023",
+      "originalTitle": "27.介绍一下TransFormer",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L930",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-024",
+      "originalTitle": "30.Transformer模型中为什么使用Dropout？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L994",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-025",
+      "originalTitle": "32.Transformer模型中学习率调整策略有何特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L1048",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-026",
+      "originalTitle": "33.ROPE（Rotary Position Embedding）位置编码有何特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L1073",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-027",
+      "originalTitle": "35.多头注意力机制MHA是Transformer模型中的核心组件,KVCache和GQA优化的核心思想？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L1262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-028",
+      "originalTitle": "36.请简要介绍下Transformer中的QKV",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L1274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-029",
+      "originalTitle": "37.请简要介绍Layer-Normalization",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L1280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-030",
+      "originalTitle": "38.Transformer训练和部署技巧",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L1286",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-031",
+      "originalTitle": "39.介绍Transformer的Encoder模块和Decoder模块",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L1298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-032",
+      "originalTitle": "40.Transformer和Mamba(SSM)的区别",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L1306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ATTENTION-033",
+      "originalTitle": "42.介绍一下Transformer中KV Cache的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/05_%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md#L1323",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

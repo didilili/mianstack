@@ -1,0 +1,23 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-FRONTIER-WORLD-PROJECT",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 世界模型：浏览器Agent项目练习",
+  "coverage": [
+    "agent"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/world-models.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-WORLD-PROJECT-001",
+      "originalTitle": "为一个浏览器 Agent 构建轻量世界模型，预测点击后的页面状态并用于候选动作筛选。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/world-models.md#L134",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

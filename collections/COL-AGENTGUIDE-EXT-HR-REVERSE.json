@@ -1,0 +1,53 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-HR-REVERSE",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · HR 面试中的候选人反问",
+  "coverage": [
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/10-hr-interview.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-HR-REVERSE-001",
+      "originalTitle": "如果我入职，三个月内您希望我交付的关键成果是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/10-hr-interview.md#L347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-HR-REVERSE-002",
+      "originalTitle": "团队目前最大的挑战是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/10-hr-interview.md#L350",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-HR-REVERSE-003",
+      "originalTitle": "这个岗位过去两位同事的发展轨迹是怎样的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/10-hr-interview.md#L353",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-HR-REVERSE-004",
+      "originalTitle": "绩效考核是怎样的？奖金或调薪节奏如何？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/10-hr-interview.md#L358",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-HR-REVERSE-005",
+      "originalTitle": "团队日常的上下班时间一般是怎样的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/10-hr-interview.md#L361",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-HR-REVERSE-006",
+      "originalTitle": "部门近半年的人员变化情况如何？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/10-hr-interview.md#L364",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

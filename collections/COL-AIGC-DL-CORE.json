@@ -1,0 +1,715 @@
+{
+  "id": "COL-AIGC-DL-CORE",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 深度学习核心概念",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-CORE-001",
+      "originalTitle": "1. 什么是深度学习？它与人工智能、机器学习的关系是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L164",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-002",
+      "originalTitle": "2. 深度学习的\"深度\"具体指的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-003",
+      "originalTitle": "多深的网络才算\"深度学习\"？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-004",
+      "originalTitle": "3. 深度学习与传统机器学习的本质区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-005",
+      "originalTitle": "4. 什么是表示学习（Representation Learning），深度学习如何实现它？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L355",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-006",
+      "originalTitle": "什么是\"好的表示\"？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L377",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-007",
+      "originalTitle": "5. 深度学习的核心假设是什么？为什么分层特征提取是有效的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-008",
+      "originalTitle": "6. 深度学习有哪些核心特征，与浅层模型相比优势体现在哪里？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-009",
+      "originalTitle": "7. 深度学习需要哪些基本条件才能发挥优势（数据、算力、算法）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-010",
+      "originalTitle": "8. 深度学习的局限性和挑战有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L684",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-011",
+      "originalTitle": "9. 深度学习与统计学习、概率模型的联系与区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L784",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-012",
+      "originalTitle": "10. 什么是端到端学习（End-to-End Learning），它的优缺点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L887",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-013",
+      "originalTitle": "端到端 vs 模块化：何时选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L947",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-014",
+      "originalTitle": "11. 深度学习为什么在大数据时代取得突破，小数据场景下如何应对？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L979",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-015",
+      "originalTitle": "12. 深度学习模型的可解释性问题是什么，当前有哪些主流解决思路？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L1100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-016",
+      "originalTitle": "13. 深度学习在不同数据模态（图像、文本、音频、图）上的应用有何异同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L1221",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-017",
+      "originalTitle": "14. 如何客观评估一个深度学习模型的好坏？评估指标有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L1351",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-018",
+      "originalTitle": "15. 大模型时代深度学习的定义是否在发生变化？基础模型（Foundation Model）代表了什么趋势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L1465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-019",
+      "originalTitle": "1. 深度学习的发展历程可以分为哪几个主要阶段？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L1597",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-020",
+      "originalTitle": "2. 感知机（Perceptron）的诞生背景是什么，它奠定了什么基础？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L1691",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-021",
+      "originalTitle": "3. 第一次\"AI冬天\"是如何产生的，Minsky的批判核心是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L1789",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-022",
+      "originalTitle": "4. 反向传播算法的提出（1986年）为什么是深度学习发展的关键转折点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L1917",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-023",
+      "originalTitle": "为什么1986年才产生重大影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2008",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-024",
+      "originalTitle": "5. 第二次\"AI冬天\"的主要原因是什么？为什么神经网络再度沉寂？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2034",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-025",
+      "originalTitle": "为什么神经网络研究得以延续？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2121",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-026",
+      "originalTitle": "6. Hinton等人在2006年提出的\"深度信念网络\"（DBN）有什么历史意义？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-027",
+      "originalTitle": "7. AlexNet（2012年）为何被视为深度学习的\"奇点时刻\"？它带来了哪些创新？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-028",
+      "originalTitle": "8. GPU加速为深度学习的爆发提供了什么支撑？CUDA的作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2410",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-029",
+      "originalTitle": "1. CUDA是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-030",
+      "originalTitle": "9. 从LeNet到ResNet，CNN架构演进的核心脉络是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2560",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-031",
+      "originalTitle": "为什么ResNet可以很深？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2667",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-032",
+      "originalTitle": "10. 注意力机制（Attention）与Transformer（2017年）的提出对深度学习格局有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-033",
+      "originalTitle": "11. BERT和GPT系列分别代表了哪两种预训练范式，各自的核心思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L2881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-034",
+      "originalTitle": "12. 大规模预训练模型（GPT-3、GPT-4等）的出现标志着深度学习进入了什么新阶段？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L3043",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-035",
+      "originalTitle": "13. 生成式AI（AIGC）浪潮的技术基础是什么？扩散模型（Diffusion Model）如何崛起？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L3189",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-036",
+      "originalTitle": "1. 生物神经元与人工神经元的类比关系是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L3378",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-037",
+      "originalTitle": "2. 人工神经元的数学模型是什么？各部分的含义是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L3486",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-038",
+      "originalTitle": "3. 什么是感知机（Perceptron）？其结构和工作原理是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L3627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-039",
+      "originalTitle": "4. 感知机的学习规则（Perceptron Learning Rule）是如何推导的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L3762",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-040",
+      "originalTitle": "5. 感知机为什么无法解决异或（XOR）问题？这说明了什么本质局限？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L3909",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-041",
+      "originalTitle": "6. 什么是线性可分性？感知机的收敛性定理说明了什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L4076",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-042",
+      "originalTitle": "7. 多层感知机（MLP）是如何克服单层感知机局限性的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L4240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-043",
+      "originalTitle": "8. 神经网络中偏置项（Bias）的作用是什么？去掉偏置会有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L4397",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-044",
+      "originalTitle": "9. 什么是通用近似定理（Universal Approximation Theorem）？它的意义与局限是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L4559",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-045",
+      "originalTitle": "10. 神经网络的宽度与深度对模型能力有什么不同的影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L4703",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-046",
+      "originalTitle": "11. 神经网络中的参数初始化为什么重要？全零初始化会导致什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L4862",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-047",
+      "originalTitle": "12. 什么是对称性破坏（Symmetry Breaking）？随机初始化如何解决这个问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5007",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-048",
+      "originalTitle": "1. 前馈神经网络（FNN）的基本结构是什么？各层的作用分别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-049",
+      "originalTitle": "2. 前馈神经网络的前向传播过程是如何计算的？请用数学公式描述。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-050",
+      "originalTitle": "3. 全连接层（Fully Connected Layer）的参数数量如何计算？参数过多会带来什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5272",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-051",
+      "originalTitle": "4. 网络深度与宽度如何影响模型的表达能力和训练难度？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-052",
+      "originalTitle": "5. 什么是过拟合（Overfitting）和欠拟合（Underfitting）？如何诊断？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5357",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-053",
+      "originalTitle": "6. 正则化（Regularization）的本质是什么？L1、L2正则化各有什么特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-054",
+      "originalTitle": "7. Dropout正则化的原理是什么？训练和推理阶段行为有何不同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-055",
+      "originalTitle": "8. 批归一化（Batch Normalization）解决了什么问题？其数学原理是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-056",
+      "originalTitle": "9. 前馈神经网络的损失函数如何选择？回归与分类任务的常用损失函数有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-057",
+      "originalTitle": "10. 交叉熵损失与均方误差损失的本质区别是什么？各自适用什么场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5506",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-058",
+      "originalTitle": "11. 神经网络的训练过程包含哪些核心步骤？Mini-batch SGD的优势是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5534",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-059",
+      "originalTitle": "12. 学习率（Learning Rate）对训练的影响是什么？如何选取合适的学习率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5565",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-060",
+      "originalTitle": "13. 什么是学习率调度（Learning Rate Scheduling）？常见策略有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5588",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-061",
+      "originalTitle": "14. 神经网络训练的计算图（Computation Graph）是什么？它对自动微分有什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5608",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-062",
+      "originalTitle": "15. 为什么深层网络比浅层网络更难训练？梯度消失和梯度爆炸分别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5626",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-063",
+      "originalTitle": "1. 反向传播（Backpropagation）算法的本质是什么？它解决了什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5664",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-064",
+      "originalTitle": "2. 反向传播算法的完整推导过程是什么？请从链式法则出发进行说明。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5684",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-065",
+      "originalTitle": "3. 链式法则（Chain Rule）在反向传播中是如何应用的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5686",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-066",
+      "originalTitle": "4. 反向传播算法中，梯度是如何从输出层逐层传递到输入层的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5688",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-067",
+      "originalTitle": "5. 反向传播中，权重梯度和偏置梯度的计算公式分别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5690",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-068",
+      "originalTitle": "6. 什么是自动微分（Automatic Differentiation）？与符号微分、数值微分有何区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-069",
+      "originalTitle": "7. 正向模式自动微分与反向模式自动微分的区别是什么？神经网络为何通常采用反向模式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5740",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-070",
+      "originalTitle": "8. 在PyTorch或TensorFlow中，反向传播的底层实现机制是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5767",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-071",
+      "originalTitle": "9. 梯度消失（Vanishing Gradient）问题的根本原因是什么？如何从数学上解释？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-072",
+      "originalTitle": "10. 梯度爆炸（Exploding Gradient）问题如何检测，梯度裁剪（Gradient Clipping）的原理是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5788",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-073",
+      "originalTitle": "11. 批大小（Batch Size）对反向传播和梯度更新有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5822",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-074",
+      "originalTitle": "12. 梯度下降的变体有哪些（SGD、Momentum、RMSProp、Adam）？各自的优缺点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5845",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-075",
+      "originalTitle": "13. Adam优化器的原理是什么？为什么它在大多数深度学习任务中表现优异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5847",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-076",
+      "originalTitle": "14. 二阶优化方法（如牛顿法）为什么在深度学习中很少使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5886",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-077",
+      "originalTitle": "15. 损失函数曲面（Loss Landscape）的特性是什么？鞍点、局部最小值对训练有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5906",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-078",
+      "originalTitle": "16. 什么是梯度检验（Gradient Checking）？如何验证反向传播实现的正确性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5924",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-079",
+      "originalTitle": "17. 反向传播在计算图上是如何处理分支（多路输出）节点的梯度累加的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5947",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-080",
+      "originalTitle": "1. 激活函数在神经网络中的核心作用是什么？没有激活函数会发生什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L5974",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-081",
+      "originalTitle": "2. 为什么激活函数必须是非线性的？线性激活函数有什么本质缺陷？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L6068",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-082",
+      "originalTitle": "3. 一个好的激活函数应该具备哪些性质？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L6199",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-083",
+      "originalTitle": "4. 激活函数的饱和性（Saturation）是什么？饱和区域对梯度有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L6341",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-084",
+      "originalTitle": "5. 什么是激活函数的梯度消失问题？哪些激活函数容易引发梯度消失？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L6487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-085",
+      "originalTitle": "6. 激活函数的输出分布对后续层的训练有什么影响？零中心化（Zero-Centered）为何重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L6630",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-086",
+      "originalTitle": "7. 激活函数的计算效率对工业部署有什么影响？如何权衡性能与效率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L6777",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-087",
+      "originalTitle": "1. Sigmoid函数的数学表达式是什么？它的输出范围和梯度特性是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L6926",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-088",
+      "originalTitle": "2. Sigmoid函数为什么会导致梯度消失？从数学上如何推导？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7030",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-089",
+      "originalTitle": "为什么初始化不好会加剧梯度消失？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-090",
+      "originalTitle": "3. Sigmoid函数的非零中心问题是什么？为什么会导致梯度更新低效？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7158",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-091",
+      "originalTitle": "为什么BatchNorm可以缓解这个问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-092",
+      "originalTitle": "4. Sigmoid在深度网络中是否已被完全淘汰？目前仍适用于哪些场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-093",
+      "originalTitle": "为什么用Sigmoid？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-094",
+      "originalTitle": "5. Tanh函数与Sigmoid函数的关系是什么？Tanh解决了Sigmoid的哪些问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-095",
+      "originalTitle": "6. Tanh函数仍然存在什么问题？在什么场景下优于Sigmoid？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7553",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-096",
+      "originalTitle": "7. ReLU函数的数学定义是什么？它为什么能有效缓解梯度消失问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7682",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-097",
+      "originalTitle": "8. ReLU的计算优势体现在哪里？为什么在CNN和MLP中被广泛采用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7809",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-098",
+      "originalTitle": "9. 什么是\"神经元死亡\"（Dying ReLU）问题？它是如何产生的，如何解决？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L7976",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-099",
+      "originalTitle": "10. ReLU的输出非零中心对梯度更新有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L8160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-100",
+      "originalTitle": "11. Leaky ReLU的提出动机是什么？负半轴的斜率参数如何设置？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L8281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-101",
+      "originalTitle": "12. PReLU与Leaky ReLU的区别是什么？PReLU的斜率参数是如何学习的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L8408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-102",
+      "originalTitle": "13. ELU（Exponential Linear Unit）的设计思路是什么？与ReLU系列相比有何优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L8541",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-103",
+      "originalTitle": "14. ELU的超参数α如何影响其行为？ELU的主要缺点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L8689",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-104",
+      "originalTitle": "15. SELU（Scaled ELU）是什么？它如何实现自归一化（Self-Normalizing）特性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L8803",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-105",
+      "originalTitle": "16. 对比Sigmoid、Tanh、ReLU、Leaky ReLU、ELU，在实际选型中如何决策？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L8974",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-106",
+      "originalTitle": "1. GELU（Gaussian Error Linear Unit）的数学定义是什么？其设计直觉来自哪里？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L9123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-107",
+      "originalTitle": "2. GELU为什么在Transformer和大语言模型中被广泛采用？与ReLU相比有何优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L9274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-108",
+      "originalTitle": "3. GELU的近似计算公式是什么？在工程实现中为什么需要近似？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L9420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-109",
+      "originalTitle": "4. Swish（SiLU）激活函数的数学表达式是什么？它是如何被发现的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L9549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-110",
+      "originalTitle": "5. Swish函数的非单调性有什么意义？为什么非单调激活函数可能表现更好？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L9701",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-111",
+      "originalTitle": "6. Swish与GELU在数学形式上有何相似之处？二者在实际应用中有何差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L9858",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-112",
+      "originalTitle": "7. SwiGLU是什么？为什么LLaMA、DeepSeek等大模型选择SwiGLU作为FFN激活函数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L10009",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-113",
+      "originalTitle": "8. Softmax函数的数学定义是什么？它在神经网络中扮演什么角色？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L10151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-114",
+      "originalTitle": "9. Softmax为什么能将任意实数向量转化为概率分布？其数学性质是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L10272",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-115",
+      "originalTitle": "为什么用指数函数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L10329",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-CORE-116",
+      "originalTitle": "10. Softmax的数值稳定性问题是什么？工程实现中如何避免上溢和下溢？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/01_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md#L10376",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

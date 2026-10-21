@@ -1,0 +1,96 @@
+{
+  "id": "COL-AIGC-ML-ENGINEERING",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC Interview Book · 机器学习工程与时序预测知识点",
+  "coverage": [
+    "llm",
+    "ai_engineering"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的机器学习问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-001",
+      "originalTitle": "面试问题：什么是质量软测量，它与普通回归预测有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-002",
+      "originalTitle": "面试问题：工业时序数据为什么不能直接随机切分，如何避免时间泄漏？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-003",
+      "originalTitle": "面试问题：工业过程中的批次、停留时间和化验延迟应该如何建模？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-004",
+      "originalTitle": "面试问题：PLS、正则化回归和梯度提升树如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L90",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-005",
+      "originalTitle": "面试问题：AR/ARIMA、状态空间模型和深度时序模型有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-006",
+      "originalTitle": "面试问题：如何用 Kalman Filter、MHE 或隐马尔可夫模型估计不可直接观测的过程状态？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-007",
+      "originalTitle": "面试问题：多目标质量预测为什么需要多任务学习和联合概率建模？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-008",
+      "originalTitle": "面试问题：分位数回归、预测区间和共形预测分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L180",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-009",
+      "originalTitle": "面试问题：工业异常检测与分布外检测有哪些常用算法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-010",
+      "originalTitle": "面试问题：贝叶斯优化、约束优化和模型预测控制如何协同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-011",
+      "originalTitle": "面试问题：为什么质量预测模型不能直接生成控制动作，如何建立动作响应模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-012",
+      "originalTitle": "面试问题：工业时序预测应该使用哪些评估指标和验证策略？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-ENGINEERING-013",
+      "originalTitle": "面试问题：Champion/Challenger、漂移监控和拒绝策略如何组成可靠的上线闭环？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E7%9F%A5%E8%AF%86%E7%82%B9.md#L289",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

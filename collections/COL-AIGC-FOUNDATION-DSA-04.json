@@ -1,0 +1,138 @@
+{
+  "id": "COL-AIGC-FOUNDATION-DSA-04",
+  "publisherId": "PUB-WETHINKIN",
+  "sourceKind": "curated_question_set",
+  "title": "AIGC Interview Book · 树、堆与图",
+  "coverage": [
+    "llm",
+    "coding"
+  ],
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-001",
+      "originalTitle": "1. 树结构为什么是面试和 AI 系统中的高频基础？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L40",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-002",
+      "originalTitle": "面试问题：二叉树、二叉搜索树和平衡树有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L67",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-003",
+      "originalTitle": "面试问题：二叉树前序、中序、后序遍历的递归模板是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L93",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-004",
+      "originalTitle": "面试问题：层序遍历为什么通常用队列实现？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L140",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-005",
+      "originalTitle": "面试问题：树结构在 AI 场景中有哪些真实应用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L176",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-006",
+      "originalTitle": "2. 堆为什么适合维护最值和 Top K？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L196",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-007",
+      "originalTitle": "面试问题：堆如何用数组表示？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-008",
+      "originalTitle": "面试问题：堆的插入、删除和建堆过程是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L238",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-009",
+      "originalTitle": "面试问题：堆排序、优先队列和 Beam Search 有什么关系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-010",
+      "originalTitle": "3. 图结构解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-011",
+      "originalTitle": "面试问题：邻接矩阵和邻接表如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-012",
+      "originalTitle": "面试问题：BFS 和 DFS 如何对比？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L345",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-013",
+      "originalTitle": "面试问题：如何判断二分图？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-014",
+      "originalTitle": "4. DAG 和拓扑排序为什么在 AI 工程中很重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L410",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-015",
+      "originalTitle": "面试问题：Kahn 算法如何实现拓扑排序？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L427",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-016",
+      "originalTitle": "面试问题：DFS 如何做拓扑排序和环检测？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-017",
+      "originalTitle": "面试问题：Dijkstra、A* 和最短路在 AI 系统中有哪些应用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L513",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-018",
+      "originalTitle": "5. 为什么说大模型系统越来越像图系统？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L539",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-019",
+      "originalTitle": "面试问题：计算图、知识图谱、RAG 图检索和 Agent Workflow 如何对应到图算法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L559",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-04-020",
+      "originalTitle": "面试问题：图算法在模型部署和任务调度中如何落地？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/04_%E6%A0%91%E5%A0%86%E5%9B%BE%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L575",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

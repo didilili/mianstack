@@ -1,0 +1,111 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 数据合成与流水线进阶追问",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-001",
+      "originalTitle": "Self-Instruct 的核心流程是什么？为什么需要多样性过滤？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L292",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-002",
+      "originalTitle": "Evol-Instruct 的 In-Depth 和 In-Breadth 分别怎么做？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L293",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-003",
+      "originalTitle": "Rejection Sampling 和 GRPO 的 online sampling 有什么本质区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-004",
+      "originalTitle": "Constitutional AI 的监督阶段和 RL 阶段各自解决了什么问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L295",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-005",
+      "originalTitle": "DataFlow 的 200+ 算子覆盖了哪些领域？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-006",
+      "originalTitle": "五道防线分别管什么？哪一道是你认为最不可替代的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L299",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-007",
+      "originalTitle": "合成数据的 mode collapse（模式塌缩）怎么检测和防止？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L300",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-008",
+      "originalTitle": "如果教师模型本身生成的轨迹有错误，你怎么处理？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L301",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-009",
+      "originalTitle": "去污染除了 n-gram 重叠检测，还有什么方法？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L302",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-010",
+      "originalTitle": "原子 QA 为什么要求\"答案必须是数值/日期/唯一实体名\"？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L305",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源对纯数值答案的保留或过滤要求不一致。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-011",
+      "originalTitle": "\"不给文档答不出+给文档能答出\"这个双重验证的设计动机是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-012",
+      "originalTitle": "Dependency Irreducibility 怎么实现？只去掉一个文档够吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L307",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-013",
+      "originalTitle": "GoAfar 的 GPT-4o 教师轨迹生成中，过滤比例大概多少？主要被什么条件挡掉？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-014",
+      "originalTitle": "AgentGuide 的\"LLM 自动抽取高频知识点\"算是哪种数据合成方法论的简化版？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L311",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK-015",
+      "originalTitle": "如果让你在 TinyClaw 里用数据合成改进 Skill，你会怎么设计数据 pipeline？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L312",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

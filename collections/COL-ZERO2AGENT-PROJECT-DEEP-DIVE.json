@@ -1,0 +1,170 @@
+{
+  "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · 简历项目拷打：面试官追着你的 Agent 项目问到底",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering",
+    "career"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-001",
+      "originalTitle": "你的 Agent 项目用了什么框架？为什么选它？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L27",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-002",
+      "originalTitle": "你的 Agent 项目有没有真正上线部署？线上效果怎么样？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-003",
+      "originalTitle": "意图识别模块具体怎么做的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-004",
+      "originalTitle": "你的 Agent 有哪些工具？工具是怎么设计的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-005",
+      "originalTitle": "怎么提升工具调用的正确率？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L214",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-006",
+      "originalTitle": "工具调用时怎么保证参数提取准确？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-007",
+      "originalTitle": "知识库是怎么构建的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L287",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-008",
+      "originalTitle": "分块策略是怎么设计的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L345",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-009",
+      "originalTitle": "构建知识库时如何解析上传的表格或图片文件？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L397",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-010",
+      "originalTitle": "知识检索时如何提升模型回答正确率？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L446",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-011",
+      "originalTitle": "你的 Agent 系统还有哪些未充分优化的地方？你的改进路线图是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L500",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-012",
+      "originalTitle": "LangGraph 中的 State 怎么定义和流转？节点多了怎么防止状态膨胀？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L544",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-013",
+      "originalTitle": "项目为什么选择 E2B 沙箱？选型理由和优势是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L591",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-014",
+      "originalTitle": "你的 Agent 和别人开发的相比，核心差异是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L629",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-015",
+      "originalTitle": "开发 Agent 过程中遇到的最大问题是什么？如果重新设计某一模块会怎么做？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L662",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-016",
+      "originalTitle": "你做过的不同 AI 项目之间，核心技术差异是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L689",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-017",
+      "originalTitle": "你的系统有没有用到 ReAct 模式？怎么用的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L717",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-018",
+      "originalTitle": "怎么提升模型回答的性能？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L754",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-019",
+      "originalTitle": "先做自我介绍，然后简单讲一下自己做过的 Agent 项目",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L791",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-020",
+      "originalTitle": "新闻交易 Agent 项目管线如何搭建？Agent 响应延迟是多久？新闻到交易完成需要的时间？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L830",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-021",
+      "originalTitle": "视频 AI Agent 项目主要解决什么业务问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L885",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-022",
+      "originalTitle": "跨机票、地铁与导航的地图 Agent，如何划定 Agent、数据和工具边界？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L904",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-023",
+      "originalTitle": "视频 Agent 的 VideoContext 数据结构应如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L923",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-024",
+      "originalTitle": "表格解析后如何保证结构和数值正确？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L943",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROJECT-DEEP-DIVE-025",
+      "originalTitle": "如何介绍 PPT 自动生成管线的技术栈并说明选型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md#L956",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

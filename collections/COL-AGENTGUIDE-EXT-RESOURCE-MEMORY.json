@@ -1,0 +1,23 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-RESOURCE-MEMORY",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 记忆框架比较问答",
+  "coverage": [
+    "agent"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/memory.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-RESOURCE-MEMORY-001",
+      "originalTitle": "Mem0 和 MemGPT 有什么区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/memory.md#L172",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

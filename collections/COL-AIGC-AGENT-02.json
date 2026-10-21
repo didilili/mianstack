@@ -1,0 +1,266 @@
+{
+  "id": "COL-AIGC-AGENT-02",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 编码Agent与AgentOS工程",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的专题面试题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-AGENT-02-001",
+      "originalTitle": "面试问题：编码 Agent 的工程能力应如何分层？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L59",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-002",
+      "originalTitle": "面试问题：编码 Agent 与传统 IDE Copilot 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L83",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-003",
+      "originalTitle": "面试问题：一个终端/IDE 编码 Agent 的典型架构是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L104",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-004",
+      "originalTitle": "面试问题：为什么编码 Agent 是 Agent 工程落地最快的场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L142",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-005",
+      "originalTitle": "面试问题：你了解哪些 Coding Agent？OpenCode、Gemini CLI、Codex CLI 和 Claude Code 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-006",
+      "originalTitle": "面试问题：怎样组织文件、命令与代码工具的执行接口？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L193",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-007",
+      "originalTitle": "面试问题：FileRead、Edit、Bash、Search、Git、LSP 工具分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L213",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-008",
+      "originalTitle": "面试问题：工具权限模型应该如何设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L238",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-009",
+      "originalTitle": "面试问题：为什么 Bash 和文件写入工具必须强权限控制？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-010",
+      "originalTitle": "面试问题：如何处理远程会话或云端执行中的权限请求？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-011",
+      "originalTitle": "面试问题：Harness 通常需要管理哪些内容？Workspace 和抽象文件系统分别起什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L328",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-012",
+      "originalTitle": "面试问题：代码仓库理解需要哪些信息入口？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-013",
+      "originalTitle": "面试问题：CLAUDE.md / AGENTS.md 这类项目记忆文件有什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-014",
+      "originalTitle": "面试问题：上下文压缩、摘要和恢复在编码 Agent 中如何工作？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-015",
+      "originalTitle": "面试问题：代码索引、ripgrep、LSP、文件缓存如何协同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L429",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-016",
+      "originalTitle": "面试问题：如何避免把无关文件塞满上下文？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-017",
+      "originalTitle": "面试问题：如何组织主 Agent、子 Agent 与技能资源？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L474",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-018",
+      "originalTitle": "面试问题：子 Agent 适合处理哪些任务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-019",
+      "originalTitle": "面试问题：Skills 的本质是什么？与工具有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L514",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-020",
+      "originalTitle": "面试问题：Hooks 在编码 Agent 中有什么价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L526",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-021",
+      "originalTitle": "面试问题：Plan Mode、Todo、任务状态如何提升长任务可靠性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-022",
+      "originalTitle": "面试问题：多入口编码产品如何共享执行能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L579",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-023",
+      "originalTitle": "面试问题：CLI Agent 和 IDE Agent 的体验差异是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L591",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-024",
+      "originalTitle": "面试问题：IDE Bridge 通常需要传递哪些信息？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L607",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-025",
+      "originalTitle": "面试问题：远程编码 Agent 如何处理 session、interrupt、resume 和 reconnect？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L638",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-026",
+      "originalTitle": "面试问题：MCP 在编码 Agent 中通常如何使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-027",
+      "originalTitle": "面试问题：编码 Agent 的效果与成本应如何一起验收？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L695",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-028",
+      "originalTitle": "面试问题：SWE-bench 类评测为什么重要但不够？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L718",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-029",
+      "originalTitle": "面试问题：编码 Agent 的 tracing 和 telemetry 应该记录什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L745",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-030",
+      "originalTitle": "面试问题：编码 Agent 常见失败模式有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L773",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-031",
+      "originalTitle": "面试问题：如何设计企业内可用的编码 Agent？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L793",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-032",
+      "originalTitle": "面试问题：个人助手的入口、执行与数据层如何配合？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L840",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-033",
+      "originalTitle": "面试问题：Gateway 控制平面在 Agent 系统中负责什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L884",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题的 Gateway 指入口、会话与事件控制平面，不是只治理模型 API 调用的 LLM Gateway。"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-034",
+      "originalTitle": "面试问题：Provider、Model、Agent Runtime、Channel 如何解耦？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L896",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-035",
+      "originalTitle": "面试问题：多通道 Agent 如何做会话路由和用户隔离？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L932",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-036",
+      "originalTitle": "面试问题：多 Agent 系统如何做到 workspace、auth、session 隔离？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L970",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-037",
+      "originalTitle": "面试问题：OpenClaw 这类个人助手型 Agent，和普通聊天产品有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L1016",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-038",
+      "originalTitle": "面试问题：执行环境、工具策略与提权机制有哪些不同边界？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L1030",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-039",
+      "originalTitle": "面试问题：Context Engine 的 ingest / assemble / compact / after-turn 生命周期如何理解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L1063",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-040",
+      "originalTitle": "面试问题：Hooks、Cron/Webhook、Background Task 在 AgentOS 中分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L1097",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-02-041",
+      "originalTitle": "面试问题：如何设计支持长任务、断线恢复和事件流的 Agent 运行时？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/02_%E7%BC%96%E7%A0%81Agent%E4%B8%8EAgentOS%E5%B7%A5%E7%A8%8B%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L1139",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

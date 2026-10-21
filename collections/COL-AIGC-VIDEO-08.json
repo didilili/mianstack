@@ -1,0 +1,133 @@
+{
+  "id": "COL-AIGC-VIDEO-08",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 08_训练与微调技术",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-VIDEO-08-001",
+      "originalTitle": "1.目前主流的AI视频生成技术框架有哪几种？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-002",
+      "originalTitle": "2.请详细解释视频生成模型的预训练阶段通常采用哪些数据增强策略？这些策略如何影响模型性能？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L37",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-003",
+      "originalTitle": "3.当针对特定领域（如体育视频）微调生成模型时，应该采用哪些特殊策略？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L62",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-004",
+      "originalTitle": "4.如何有效利用文本-视频对数据进行跨模态训练？请说明关键技术点",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L87",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-005",
+      "originalTitle": "5.针对长视频生成的训练有哪些特殊技术？如何保证前后一致性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-006",
+      "originalTitle": "6.视频编辑模型中'保持原始内容'与'实现编辑目标'如何平衡？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-007",
+      "originalTitle": "7.在有限数据情况下如何有效训练视频编辑模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-008",
+      "originalTitle": "1.基于LLM的视频理解的训练策略有哪些？各有何优劣？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-009",
+      "originalTitle": "2.视频理解的评估方法有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L191",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-010",
+      "originalTitle": "3.分析Vid-LLMs的多阶段训练策略设计，包括预训练对齐、指令微调、特定任务适配等阶段",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-011",
+      "originalTitle": "4.详细分析Video-LLMs中常用的预训练目标函数，对比视频-文本对比学习、掩码建模、生成式预训练的技术差异",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-012",
+      "originalTitle": "5.比较分析不同模态对齐策略在Video-LLMs中的应用，包括早期融合、中期融合、晚期融合的架构设计",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-013",
+      "originalTitle": "6.详细阐述Parameter-Efficient Fine-Tuning（PEFT）技术在Video-LLMs中的具体实现和适用场景",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L257",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-014",
+      "originalTitle": "7.分析指令微调（Instruction-Tuning）在Video-LLMs中的关键作用和技术实现方案",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-015",
+      "originalTitle": "8.详细说明Video-LLMs典型的三阶段训练流程，分析每个阶段的技术目标和实现难点",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L297",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-016",
+      "originalTitle": "9.对比分析监督微调（SFT）与强化学习（RL）在Video-LLMs优化中的互补作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-017",
+      "originalTitle": "10.针对长视频理解的内存挑战，分析Video-LLMs中常用的高效训练技术",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-018",
+      "originalTitle": "11.分析时序建模中的训练技术挑战，包括长期依赖、计算效率、标注稀疏等问题",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L354",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-08-019",
+      "originalTitle": "12.分析Video-LLMs训练中的过拟合问题及其正则化技术",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md#L372",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

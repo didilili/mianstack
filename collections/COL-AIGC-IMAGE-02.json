@@ -1,0 +1,313 @@
+{
+  "id": "COL-AIGC-IMAGE-02",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 图像创作 · Stable Diffusion&FLUX系列大模型基础",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-IMAGE-02-001",
+      "originalTitle": "面试问题：Stable Diffusion相比经典Diffusion model的核心优化是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L74",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-002",
+      "originalTitle": "面试问题：介绍一下Stable Diffusion核心网络结构与训练/推理过程",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-003",
+      "originalTitle": "面试问题：Stable Diffusion中的图生图原理是什么？denoising strength起到什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-004",
+      "originalTitle": "面试问题：介绍一下Stable Diffusion中Inpaint和Outpaint的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L184",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-005",
+      "originalTitle": "面试问题：介绍一下针对Stable Diffusion的模型融合技术",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-006",
+      "originalTitle": "面试问题：Stable Diffusion中的VAE和原生VAE生成模型的区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-007",
+      "originalTitle": "面试问题：从SD 1.x → SDXL → SD 3 → FLUX.1，VAE在通道数、下采样率、训练目标上的演进路线是怎样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-008",
+      "originalTitle": "面试问题：VAE编码后为什么要乘以scale_factor？SD各版本的 scale_factor是如何确定的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L352",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-009",
+      "originalTitle": "面试问题：VAE的Latent空间为什么会影响图像生成质量和训练效率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-010",
+      "originalTitle": "面试问题：介绍一下Stable Diffusion中自注意力机制和交叉注意力机制的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-011",
+      "originalTitle": "4. 为什么 SD U-Net 中 Self-Attention 与 Cross-Attention 主要放在中、低分辨率层？高分辨率层为何以卷积为主？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-012",
+      "originalTitle": "面试问题：为什么使用U-Net作为Stable Diffusion模型的核心Backbone？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-013",
+      "originalTitle": "面试问题：U-Net与DiT在Backbone设计哲学上的本质差异是什么？SD系列从U-Net演进到DiT的根本原因是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-014",
+      "originalTitle": "面试问题：SD Backbone中为什么设计GroupNorm+SiLU+残差连接的组合？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-015",
+      "originalTitle": "面试问题：Text Encoder和VLM条件编码器在扩散模型中起什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L575",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-016",
+      "originalTitle": "面试问题：CLIP Text Encoder的Tokens长度限制对长 Prompt的实际影响是什么？工程上如何突破？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L607",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-017",
+      "originalTitle": "面试问题：Prompt中的权重语法（(word:1.2)、[word]等）的实现原理是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-018",
+      "originalTitle": "面试问题：从 SD 1.x → SDXL → SD 3 → FLUX.1，文本编码器与文本条件注入机制如何演进？这些变化如何影响提示词遵循与生成效果？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L673",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-019",
+      "originalTitle": "面试问题：如何优化Prompt和生成图像不对齐的问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L751",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-020",
+      "originalTitle": "面试问题：Stable Diffusion XL的VAE部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L776",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-021",
+      "originalTitle": "面试问题：Stable Diffusion XL的Backbone部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L801",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-022",
+      "originalTitle": "面试问题：Stable Diffusion XL的Text Encoder部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L825",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-023",
+      "originalTitle": "面试问题：Stable Diffusion XL中使用的训练方法有哪些创新点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L872",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-024",
+      "originalTitle": "1. SDXL 的 micro-conditioning（original_size / crop_top_left / target_size）是什么？为什么是 SDXL 工程化层面最关键的创新之一？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L878",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-025",
+      "originalTitle": "2. 训练 Stable Diffusion XL 时为什么要使用 offset Noise？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-026",
+      "originalTitle": "3. SDXL 的多尺度训练与 Ratio Bucketing 如何协同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L921",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-027",
+      "originalTitle": "4. 尺寸、裁剪、宽高比与 pooled text embedding 如何注入 U-Net？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L929",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-028",
+      "originalTitle": "面试问题：什么是SDXL Refiner？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L949",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-029",
+      "originalTitle": "面试问题：SD 3 的 VAE 部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L995",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-030",
+      "originalTitle": "面试问题：SD 3的Backbone部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1054",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-031",
+      "originalTitle": "面试问题：SD 3的Text Encoder部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-032",
+      "originalTitle": "面试问题：训练Stable Diffusion 3过程中官方使用了哪些训练技巧？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-033",
+      "originalTitle": "Stable Diffusion 3 中数据标签工程的具体流程是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-034",
+      "originalTitle": "Stable Diffusion 3的图像特征和文本特征在训练前缓存策略有哪些优缺点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-035",
+      "originalTitle": "Classifier-Free Guidance 如何参与 SD 3 训练",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-036",
+      "originalTitle": "面试问题：Stable Diffusion 3.5有哪些改进点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-037",
+      "originalTitle": "面试问题：FLUX.1的VAE部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1416",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-038",
+      "originalTitle": "面试问题：FLUX.1的Backbone部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1466",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-039",
+      "originalTitle": "面试问题：FLUX.1的Text Encoder部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-040",
+      "originalTitle": "面试问题：FLUX.1在训练过程中使用了哪些优化技巧？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-041",
+      "originalTitle": "面试问题：介绍一下FLUX.1 Lite与FLUX.1的异同",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1577",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处 Lite 指 Freepik/flux.1-lite-8B-alpha，不是其他同名 FLUX 轻量模型或 F-Lite。"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-042",
+      "originalTitle": "面试问题：介绍一下FLUX.1 Kontext的原理，有哪些创新点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-043",
+      "originalTitle": "面试问题：介绍一下FLUX.1 Krea的原理，有哪些创新点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1887",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-044",
+      "originalTitle": "FLUX.1 Krea如何破除“AI感”",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L1920",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-045",
+      "originalTitle": "面试问题：FLUX.2相比FLUX.1的整体能力边界发生了哪些变化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L2123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-046",
+      "originalTitle": "面试问题：FLUX.2的VAE部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L2140",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-047",
+      "originalTitle": "面试问题：FLUX.2的Backbone部分有哪些创新？详细分析改进意图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L2161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-048",
+      "originalTitle": "面试问题：FLUX.2的Text Encoder为什么从CLIP + T5-XXL切换到VLM？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L2187",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-02-049",
+      "originalTitle": "面试问题：FLUX.2如何用四轴RoPE与注意力机制统一文生图和多参考图编辑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L2205",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

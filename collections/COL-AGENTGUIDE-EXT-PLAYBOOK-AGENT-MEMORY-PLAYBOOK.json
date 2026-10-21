@@ -1,0 +1,120 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Agent Memory专题问答",
+  "coverage": [
+    "llm",
+    "agent"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-001",
+      "originalTitle": "你的四层记忆架构在学术分类体系（Episodic / Semantic / Procedural）中分别对应什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L430",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-002",
+      "originalTitle": "为什么你要自己分四层，而不是直接用学术三分法？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L440",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-003",
+      "originalTitle": "Episodic 和 Semantic 的边界在哪里？一条信息什么时候从 Episodic 变成 Semantic？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L446",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-004",
+      "originalTitle": "你了解 MemGPT 吗？它和你的分层记忆有什么异同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-005",
+      "originalTitle": "MemGPT 的 page-in/page-out 由谁决定？会不会出错？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-006",
+      "originalTitle": "OpenClaw 的 Dreaming 系统怎么工作的？给你什么启发？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L466",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-007",
+      "originalTitle": "Dreaming 每天凌晨跑一次，时效性信息怎么办？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-008",
+      "originalTitle": "Dreaming 和 MORPHEUS 有什么本质区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-009",
+      "originalTitle": "Mem0、Zep、HippoRAG 各有什么特点？你会在什么场景选哪个？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-010",
+      "originalTitle": "你在 KTClaw/TinyClaw 里为什么没用这些？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-011",
+      "originalTitle": "如果你来做小红书 C 端 Agent 的 Memory 系统，从写入、巩固、检索、更新到淘汰，你会怎么设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L509",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-012",
+      "originalTitle": "如果你在 KTClaw 里做过四层，在小红书面向上亿用户，最需要改什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L538",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-013",
+      "originalTitle": "Memory 的冷启动问题怎么解决？新用户没有任何历史数据时怎么办？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-014",
+      "originalTitle": "Titans 的 Neural Memory 和外挂记忆系统有什么本质区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L557",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-015",
+      "originalTitle": "OmniMem 的 MAU 原子化和你的记忆分层有什么异同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L569",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-016",
+      "originalTitle": "你怎么看待 RDSClaw 在 LoCoMo10 上的 +13.90% 提升？最重要的提升来自哪里？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L580",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK-017",
+      "originalTitle": "自进化记忆管线（从 Assistant 消息中抽取 learnings/errors）和 Hermes 的 Skills 闭环有什么异同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md#L595",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

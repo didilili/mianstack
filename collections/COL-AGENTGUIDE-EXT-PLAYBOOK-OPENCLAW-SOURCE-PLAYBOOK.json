@@ -1,0 +1,47 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-OPENCLAW-SOURCE-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · OpenClaw 源码机制专题问答",
+  "coverage": [
+    "agent"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/openclaw-source-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-OPENCLAW-SOURCE-PLAYBOOK-001",
+      "originalTitle": "OpenClaw 的架构核心是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/openclaw-source-playbook.md#L279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-OPENCLAW-SOURCE-PLAYBOOK-002",
+      "originalTitle": "OpenClaw 和 LangChain 的本质区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/openclaw-source-playbook.md#L286",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-OPENCLAW-SOURCE-PLAYBOOK-003",
+      "originalTitle": "你怎么看 OpenClaw 的 JSONL Session 树结构设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/openclaw-source-playbook.md#L293",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-OPENCLAW-SOURCE-PLAYBOOK-004",
+      "originalTitle": "OpenClaw 的\"不做清单\"对你有什么启发？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/openclaw-source-playbook.md#L300",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-OPENCLAW-SOURCE-PLAYBOOK-005",
+      "originalTitle": "KTClaw 和 OpenClaw 是什么关系？你做了什么 OpenClaw 没有的事？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/openclaw-source-playbook.md#L307",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

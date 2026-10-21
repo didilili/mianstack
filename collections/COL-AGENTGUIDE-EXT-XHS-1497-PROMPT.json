@@ -1,0 +1,467 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · Prompt与上下文",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-001",
+      "originalTitle": "【Prompt类型与定义】1. 什么是prompt？2. 还有哪些其他类型的提示词？请列举并简要说明。 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2538",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-002",
+      "originalTitle": "【LangChain组件概念】LangChain中Chat Message History、Components and Chains、Example Selectors、Output Parsers、Prompt Templates and Values分别是什么？如何修改提示模板？ 「百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2543",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-003",
+      "originalTitle": "【Prompt来源】prompt可以从哪里来？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-004",
+      "originalTitle": "【Skill与Prompt区别】skill和prompt区别？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2546",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-005",
+      "originalTitle": "【上下文插入方法】怎么插入上下文？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-006",
+      "originalTitle": "【余弦相似度阈值】余弦相似度的阀值？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2548",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-007",
+      "originalTitle": "【思维链（CoT）原理与设计】请解释思维链（CoT）的原理，并说明它为什么有效？ 「字节跳动、拼多多、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-008",
+      "originalTitle": "【思考模式控制】qwen3如何开启关闭思考模式？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2550",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-009",
+      "originalTitle": "【提示词影响机制】讲一下提示词是怎么改变模型输出的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2551",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-010",
+      "originalTitle": "【提示词本质】写提示词的本质是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2552",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-011",
+      "originalTitle": "【提示词模板构建】提示词模板是怎么构建的？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2553",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-012",
+      "originalTitle": "【提示词编写实践】平时提示词怎么写的？具体是怎么做的？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2554",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-013",
+      "originalTitle": "【用户Query类型】用户对大模型的query大致有哪几种 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2555",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-014",
+      "originalTitle": "【解码参数调优】Temperature、top_k、top_p分别是什么？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2556",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-015",
+      "originalTitle": "【问题描述方式】观察你怎么给AI描述问题？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2557",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-016",
+      "originalTitle": "【CoT数据构建】构建CoT数据的方式？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2562",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-017",
+      "originalTitle": "【CoT质量检验】思维链怎检验其质量？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2563",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-018",
+      "originalTitle": "【CoT长度管理】CoT的平均长度、最长长度，是否需要裁剪？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2564",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-019",
+      "originalTitle": "【Few-shot与CoT对比】Prompt工程Few-shot和Chain-of-Thought在什么场景下分别更有效？两者能否组合使用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2565",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-020",
+      "originalTitle": "【Guidance与正负提示】guidence怎么用的，prompt和negtive prompt怎么用 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2566",
+      "reviewStatus": "needs_review",
+      "reviewNote": "guidence 未说明具体框架、机制与生成对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-021",
+      "originalTitle": "【In-Context Learning采样与场景】In-Context Learning中Zero-Shot/Few-Shot的应用场景与局限性是什么？以及examples的采样方法（random vs retrieval）？ 「阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2567",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-022",
+      "originalTitle": "【Prompt优化与压缩】如何根据模型输出优化提示词？是否使用embedding表示或相似度检索来优化Prompt？是否尝试过Prompt压缩或embedding表示的方式？ 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2568",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-023",
+      "originalTitle": "【Prompt工程设计与优化】请介绍你的Prompt Engineering项目经验，包括Prompt的一般设计方法、构造过程、迭代优化策略、实现方式（如Agent的Prompt实现与优化），以及你有哪些心得、技巧或可分享的insights？ 「京东、字节Seed、字节跳动、百度、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2569",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-024",
+      "originalTitle": "【Prompt改写与设计】deepresearch对prompt的改写怎么样？用deepresearch你是怎么写prompt的？谷歌的Tips里说只需要从简单的prompt开始，所以我的prompt就是:？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2570",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供 Google Tips 的具体出处与原 Prompt。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-025",
+      "originalTitle": "【Prompt效果对比】有对比过prompt直出的效果吗，差距有多少？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2571",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-026",
+      "originalTitle": "【Prompt评估】如何评估prompt好坏？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2572",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-027",
+      "originalTitle": "【Prompt调整依据】Prompt调整的依据? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2573",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-028",
+      "originalTitle": "【Skill与Prompt放置】为什么Claude Code里面的skills要写在system里面而不是user里面query+skill? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2574",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-029",
+      "originalTitle": "【上下文压缩】用React进行多轮对话，有上下文的压缩吗？用什么方式压缩？还是用工具？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2575",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-030",
+      "originalTitle": "【上下文工程与优化】上下文工程实践与优化方案：请介绍上下文工程方面的实践经验，以及常见的上下文优化方案有哪些？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2576",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-031",
+      "originalTitle": "【上下文工程概念与实践】上下文工程是什么？核心问题有哪些？做上下文工程最关键的工作是什么？ 「字节跳动、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2577",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-032",
+      "originalTitle": "【上下文截断策略】对长度做截断，为什么考虑这个截断长度？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2578",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-033",
+      "originalTitle": "【上下文管理结构】上下文怎么管理？上下文结构是不是：SystemPrompt + Memory + Tools Result + Conversation？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2579",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-034",
+      "originalTitle": "【上下文长度与字段放置】上下文长度是多少，这些字段不超长为什么不放进大模型prompt里给大模型。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2580",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未列出所问的具体字段。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-035",
+      "originalTitle": "【多模态Prompt顺序】实验的时候prompt里面文本放在前和视觉token放在前有区别吗，有尝试过吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-036",
+      "originalTitle": "【多轮对话增强】如何增强多轮能力，除了加数据呢？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2582",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-037",
+      "originalTitle": "【多轮对话状态管理】多轮对话上下文状态管理是如何做的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-038",
+      "originalTitle": "【大模型分类 vs Embedding+MLP】直接用大模型做分类，与使用embedding+MLP做分类有什么区别？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-039",
+      "originalTitle": "【对话历史存储】多轮对话历史怎么存储的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2585",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-040",
+      "originalTitle": "【思维链（CoT）原理与设计】思维链（CoT）原理与设计：CoT和ToT的核心原理是什么？CoT强制遵循推理路径，为什么能让转人工率从xx%降到xx%？CoT怎么设计？为什么要用思维链，相比于直接回答，加上思维链有什么好处？你怎么知道这样构造CoT是有效果的，有权威认证吗？分类任务，该不该让模型先输出CoT再给结论？ 「京东、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2586",
+      "reviewStatus": "confirmed",
+      "reviewNote": "转人工率 xx% 为来源占位符，未提供实际数值。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-041",
+      "originalTitle": "【意图名称输出标准化】会不会出现意图名称输出不标准、多字少字的情况？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2587",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-042",
+      "originalTitle": "【意图统一】用户输入语句混乱，如何借助大模型统一用户意图？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2588",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-043",
+      "originalTitle": "【意图补全】当用户提出不完整的请求时，如何补全用户意图的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2589",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-044",
+      "originalTitle": "【提示词设计与JSON引导】怎么设计提示词的？输出的格式是什么？输出的json格式是怎么引导的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2590",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-045",
+      "originalTitle": "【时间窗口对话系统】有没有了解过带有时间窗口/偏移限制的对话系统？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2591",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未定义“时间窗口/偏移”的具体时间语义或数据约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-046",
+      "originalTitle": "【查询改写】多维度的查询改写具体是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2592",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-047",
+      "originalTitle": "【模型对比与选择】有对比过cursor里面不同模型的效果么？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2593",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-048",
+      "originalTitle": "【模型指令理解失败处理】AIGC很大程度上依赖模型能力，万一模型对指令理解有问题怎么办？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2594",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-049",
+      "originalTitle": "【模型适配提示词调整】针对不同模型，如何调整提示词以适应其特点？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2595",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-050",
+      "originalTitle": "【模糊输入处理】如果用户输入的问题极度模糊怎么办？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2596",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-051",
+      "originalTitle": "【生成多样性】如何让大模型的回答更加多样化？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2597",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-052",
+      "originalTitle": "【用户参与补充信息设计】改写的时候遇到需要用户参与补充信息时怎么设计？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-053",
+      "originalTitle": "【短期记忆实现】短期记忆有哪几种方式实现？（除Redis） 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2599",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-054",
+      "originalTitle": "【系统设计与边界情况】你设计的系统是什么样的，提示词中是否有考虑到一些边界情况？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2600",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-055",
+      "originalTitle": "【视角解耦Prompt】用Qwen做视角解耦，具体的Prompt是怎么写的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2601",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“视角解耦”缺少对象与输出约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-056",
+      "originalTitle": "【解码参数调优】温度参数Temperature在模型生成中的作用，高低取值分别对应什么效果？温度系数、Top-P、Top-K参数的作用，业务场景中如何调参？手写解码策略中的Top-k Sampling或Top-p Sampling。 「字节跳动、百度、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2602",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-057",
+      "originalTitle": "【语义关系距离】除了位置距离，还有哪些语义或关系上的距离？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2603",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明位置、语义与关系距离的比较对象、表示和用途。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-058",
+      "originalTitle": "【输出不符合预期处理】如果模型输出不符合预期，应该怎么去解决？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2604",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-059",
+      "originalTitle": "【AI Coding指令设计】如何给AI Coding助手设计合理的优化指令？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2609",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-060",
+      "originalTitle": "【CoT与RAG/SFT选择】为什么用CoT的思路来做，不用RAG或者SFT? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2610",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-061",
+      "originalTitle": "【CoT长度管理】如果CoT太长了怎么办？具体场景：豆包的CoT较长，虽然CoT越长推理效果越好，但存在消耗过多Token、增加用户等待时长的弊端。在保持模型性能不变的前提下，如何压缩CoT的长度？请分析并给出方法。 「京东、字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2611",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-062",
+      "originalTitle": "【Prompt版本管理】Prompt/模板如何管理：如何版本化、如何回滚、如何避免一次改动导致整体波动？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-063",
+      "originalTitle": "【Prompt自动优化】Prompt自动推荐模块用了哪些优化策略？怎么让模型自动迭代改标注prompt？有没有做过Prompt自动优化？ 「百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2613",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-064",
+      "originalTitle": "【Prompt调优冲突解决】Prompt调优过程中，经常会遇到\"修好一类、坏了另一类\"的问题，你是怎么解决的? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-065",
+      "originalTitle": "【信息熵与推理关键节点】逻辑依赖度选用信息熵的理论依据，高熵token为什么是推理关键节点？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-066",
+      "originalTitle": "【多轮对话增强】在京东客服场景中，如何提升多轮对话的流畅性? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2616",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-067",
+      "originalTitle": "【生成内容创新性】技术人员如何在模型生成结果中体现内容的创新性？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2617",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-068",
+      "originalTitle": "【稳定JSON输出方法】让模型稳定输出符合Schema的JSON数据，除了Function Calling，你还用过哪些方法？各有什么适用边界？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2618",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-069",
+      "originalTitle": "【解码多样性优化】批量生成文本容易高度同质化，从模型解码层面如何优化多样性？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2619",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-070",
+      "originalTitle": "【解码阶段约束缓解幻觉与趋同】大模型生成推荐内容容易出现幻觉和内容趋同，解码阶段可以加哪些约束？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2620",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-071",
+      "originalTitle": "【重复生成与解码优化】模型重复生成、复读问题的产生原因，解码层面如何优化解决？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2621",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-072",
+      "originalTitle": "【错误归因分析】如果有代码一直有错误，你怎么评估说是提示词写的有问题还是模型本身能力不够？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2622",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-PROMPT-073",
+      "originalTitle": "【LLM作为评判框架】提到某任务和你的项目相似性:开放问题，怎么定义一个很好的llm-as-judge framework，该怎么保证判断的准确性？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2627",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

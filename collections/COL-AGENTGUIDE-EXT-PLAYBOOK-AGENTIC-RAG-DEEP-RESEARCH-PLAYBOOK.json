@@ -1,0 +1,62 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Agentic RAG 与 Deep Research专题问答",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-001",
+      "originalTitle": "Naive RAG、Advanced RAG、Agentic RAG 的核心区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L199",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-002",
+      "originalTitle": "Self-RAG 和 CRAG 分别是什么？有什么区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L206",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-003",
+      "originalTitle": "通义 DeepResearch 的端到端训练框架和\"通用 LLM + 搜索 API\"有什么本质差别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-004",
+      "originalTitle": "Agentic RAG 和 Deep Research 是什么关系？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-005",
+      "originalTitle": "如果让你设计小红书的 Agentic Search——用户问\"上海有什么好吃的湖南菜\"——请描述核心流程。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L233",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-006",
+      "originalTitle": "小红书的 UGC 内容高度主观、质量参差不齐——这对 Agentic Search 设计有什么特殊挑战？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK-007",
+      "originalTitle": "Deep Research 场景下，Agent 怎么判断\"搜够了\"？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md#L265",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "COL-AIGC-OPEN-TRENDS",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · AI技术与行业趋势开放问题",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的开放讨论题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-001",
+      "originalTitle": "1.Transformer会完全替代CNN吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-002",
+      "originalTitle": "2.深度学习的优势和局限？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L42",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-003",
+      "originalTitle": "3.对AI安全相关技术的发展前景的看法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L52",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-004",
+      "originalTitle": "4.对GAN算法技术的发展前景的看法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L62",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-005",
+      "originalTitle": "5.对CV算法技术的发展前景的看法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-006",
+      "originalTitle": "6.AIGC时代的ToC产品开发流程是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-007",
+      "originalTitle": "7.AIGC时代有哪些可以落地的技术方向？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-008",
+      "originalTitle": "8.谈谈对AIGC时代ToB、ToG、ToC方向落地的理解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-009",
+      "originalTitle": "9.如何看待AIGC时代和传统深度学习时代的异同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-010",
+      "originalTitle": "10.在AIGC时代，什么样的AI产品或者AI解决方案能够持续获得用户和客户青睐？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-011",
+      "originalTitle": "11.就像从传统深度学习时代进入AIGC时代那样，AI行业未来还有哪些潜在爆发时代节点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-012",
+      "originalTitle": "12.AI行业现阶段以及未来能够落地商用的领域有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L142",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-013",
+      "originalTitle": "13.AIGC、传统深度学习、自动驾驶这三个方向在落地模式上有哪些异同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-014",
+      "originalTitle": "14.AIGC、传统深度学习、自动驾驶这三个方向上有哪些可以超越周期沉淀下来的AI技术？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-015",
+      "originalTitle": "15.AIGC、传统深度学习、自动驾驶这三个方向上有哪些可以超越周期沉淀下来的业务逻辑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L180",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-016",
+      "originalTitle": "16.我们如何降低下一个Transformer式技术价值的错判率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L190",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-017",
+      "originalTitle": "17.未来会有新的技术替代Transformer吗？哪种技术的概率最大？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L200",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-018",
+      "originalTitle": "18.如何判断AI业务与AI算法解决方案在未来的价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-019",
+      "originalTitle": "19.AI产品和AI算法解决方案落地需要把握哪些核心关键？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L220",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-020",
+      "originalTitle": "20.如何减少对下一个AIGC式的时代周期的错判率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-021",
+      "originalTitle": "21.如何减少对下一个OpenAI式公司的错判率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-022",
+      "originalTitle": "22.如何及时把握AI行业（AIGC、传统深度学习、自动驾驶）的发展动态？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L250",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-023",
+      "originalTitle": "23.如何评判一个AI公司的未来发展趋势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-024",
+      "originalTitle": "24.如何客观分析一个AI公司当前、中期以及未来的发展趋势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L270",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-025",
+      "originalTitle": "25.在AIGC时代这个AI技术大爆发的时期，如何辨别哪些是跨周期技术，哪些是“苦涩的教训”技术？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-OPEN-TRENDS-026",
+      "originalTitle": "26.在AIGC时代，如何随着时代发展持续沉淀AIGC核心价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E9%97%AE%E9%A2%98.md#L290",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

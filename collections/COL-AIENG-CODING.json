@@ -1,0 +1,214 @@
+{
+  "id": "COL-AIENG-CODING",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · AI 工程编码",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "software",
+    "coding"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-CODING-001",
+      "originalTitle": "Implement a basic RAG pipeline using an embedding model and a vector database.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L895",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-002",
+      "originalTitle": "Build a simple AI agent with tool use (e.g., calculator, web search).",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L896",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-003",
+      "originalTitle": "Implement semantic search using embeddings and cosine similarity.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L898",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-004",
+      "originalTitle": "Write code for different text chunking strategies (fixed-size, recursive, semantic).",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L900",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-005",
+      "originalTitle": "Implement a prompt template system with variable substitution.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L902",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-006",
+      "originalTitle": "Build an evaluation pipeline for LLM outputs using LLM-as-a-judge.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-007",
+      "originalTitle": "Implement streaming responses for an LLM API.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L905",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-008",
+      "originalTitle": "Build a simple vector similarity search from scratch.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L907",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-009",
+      "originalTitle": "Implement a conversation memory system for a chatbot (sliding window, summary, buffer).",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L909",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-010",
+      "originalTitle": "Write code to detect and handle hallucinations in LLM outputs.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L911",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-011",
+      "originalTitle": "Implement a retry mechanism with exponential backoff for LLM API calls.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L912",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-012",
+      "originalTitle": "Write a function calling (tool use) handler for an LLM API.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L913",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-013",
+      "originalTitle": "Implement a simple re-ranker for search results.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L915",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-014",
+      "originalTitle": "Build a basic document parser that extracts text from PDFs and splits it into chunks.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L917",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-015",
+      "originalTitle": "Implement cosine similarity, dot product, and Euclidean distance functions from scratch.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L919",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-016",
+      "originalTitle": "Write code to implement token counting and context window management.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L921",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-017",
+      "originalTitle": "Build a simple prompt versioning system.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L922",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-018",
+      "originalTitle": "Implement a caching layer for LLM responses.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L923",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-019",
+      "originalTitle": "Implement semantic caching for LLM queries (cache responses for semantically similar queries).",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L924",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-020",
+      "originalTitle": "Write code to detect prompt injection attempts in user inputs.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L926",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-021",
+      "originalTitle": "Implement an LLM output guardrails system that checks for off-topic responses and PII leakage.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L928",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-022",
+      "originalTitle": "Build a multi-agent system where agents have different roles and collaborate on a task.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L930",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-023",
+      "originalTitle": "Implement scaled dot-product attention with a causal mask from scratch (NumPy or PyTorch).",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L932",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-024",
+      "originalTitle": "Implement multi-head attention, then convert it to grouped-query attention.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L934",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-025",
+      "originalTitle": "Implement a KV cache and single-step decode for causal multi-head attention.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L936",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-026",
+      "originalTitle": "Implement BPE (Byte Pair Encoding) training and encoding from scratch.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L938",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-027",
+      "originalTitle": "Implement top-k, top-p, and temperature sampling over a logits vector.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L940",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-028",
+      "originalTitle": "Implement an LRU cache with O(1) get/put, then add per-entry TTL.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L941",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-029",
+      "originalTitle": "Implement a token-bucket rate limiter for an LLM API where cost scales with tokens, then make it distributed.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L942",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-030",
+      "originalTitle": "Write an async batch processor that runs an LLM call over 50,000 documents with a concurrency limit, retries with jitter, and error isolation.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L943",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-031",
+      "originalTitle": "Write a streaming SSE parser for LLM token streams that handles arbitrary chunk boundaries.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L944",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-CODING-032",
+      "originalTitle": "Implement a minimal agent loop with tool dispatch, error handling, and a step budget.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L946",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

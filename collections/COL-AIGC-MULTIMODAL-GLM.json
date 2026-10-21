@@ -1,0 +1,80 @@
+{
+  "id": "COL-AIGC-MULTIMODAL-GLM",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · GLM-V系列模型核心考点",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的面试题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-MULTIMODAL-GLM-001",
+      "originalTitle": "1、请阐述GLM-4.5V和GLM-4.1V-Thinking的核心设计目标及其在架构上的关键差异。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-GLM-002",
+      "originalTitle": "2、GLM系列在预训练阶段如何平衡大规模数据覆盖与质量管控？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md#L33",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-GLM-003",
+      "originalTitle": "3、强化学习课程采样（RLCS）如何解决多领域训练中的样本效率问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-GLM-004",
+      "originalTitle": "4、GLM-4.5V在视觉定位任务中如何实现边界框的精确生成？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md#L55",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-GLM-005",
+      "originalTitle": "5、为什么GLM-4.6V需引入原生多模态工具调用能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-GLM-006",
+      "originalTitle": "6、长上下文训练中，GLM-4.5V如何通过128K令牌的序列长度处理复杂文档？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md#L79",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-GLM-007",
+      "originalTitle": "7、GLM-4.1V-Thinking在仅90亿参数规模下，为何能在29个基准上超越720亿参数的Qwen2.5-VL-72B？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md#L90",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-GLM-008",
+      "originalTitle": "8、多模态奖励系统中，奖励黑客（Reward Hacking）可能引发哪些训练崩溃风险？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md#L101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-GLM-009",
+      "originalTitle": "9、GLM-4.6V在“设计到代码”任务中如何实现像素级复现与交互式编辑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md#L112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-GLM-010",
+      "originalTitle": "10、GLM系列在视频理解任务中如何融合时间索引令牌与长序列建模？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/GLM-V%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9.md#L122",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "COL-AIGC-FOUNDATION-DSA-03",
+  "publisherId": "PUB-WETHINKIN",
+  "sourceKind": "curated_question_set",
+  "title": "AIGC Interview Book · 排序、查找与哈希",
+  "coverage": [
+    "coding"
+  ],
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-001",
+      "originalTitle": "1. 排序算法应该从哪些维度分析？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L40",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-002",
+      "originalTitle": "面试问题：稳定排序、原地排序、比较排序分别是什么意思？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L76",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-003",
+      "originalTitle": "面试问题：冒泡、插入、选择排序如何对比？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-004",
+      "originalTitle": "面试问题：为什么实际工程中插入排序常比冒泡排序更有价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-005",
+      "originalTitle": "2. 归并排序、快速排序、堆排序如何对比？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-006",
+      "originalTitle": "面试问题：归并排序为什么是分治思想的典型代表？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L150",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-007",
+      "originalTitle": "面试问题：快速排序为什么平均快但最坏会退化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L187",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-008",
+      "originalTitle": "面试问题：堆排序和优先队列在 Top K 中如何使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L213",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-009",
+      "originalTitle": "3. 桶排序、计数排序、基数排序什么时候能做到 $O(n)$？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L244",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-010",
+      "originalTitle": "面试问题：计数排序为什么要求取值范围不能太大？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-011",
+      "originalTitle": "面试问题：桶排序适合哪些 AI 数据预处理场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-012",
+      "originalTitle": "面试问题：排序在 AIGC 系统中有哪些真实应用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-013",
+      "originalTitle": "4. 二分查找的本质是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L315",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-014",
+      "originalTitle": "面试问题：二分查找为什么要求随机访问和有序性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-015",
+      "originalTitle": "面试问题：二分查找有哪些高频变体？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-016",
+      "originalTitle": "面试问题：二分答案在 AI 工程中有哪些应用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-017",
+      "originalTitle": "5. 哈希表为什么平均可以做到 $O(1)$ 查询？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-018",
+      "originalTitle": "面试问题：如何解决哈希冲突？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-019",
+      "originalTitle": "面试问题：如何设计工业级 HashMap？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L473",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-DSA-03-020",
+      "originalTitle": "面试问题：跳表为什么能替代部分平衡树场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%26%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/03_%E6%8E%92%E5%BA%8F%E6%9F%A5%E6%89%BE%E5%93%88%E5%B8%8C%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L512",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "COL-AIENG-INFRASTRUCTURE",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · AI 基础设施",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-001",
+      "originalTitle": "How do you improve inference speed in production LLM deployments?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L837",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-002",
+      "originalTitle": "LLM optimization techniques",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L839",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-003",
+      "originalTitle": "How do you select GPUs for LLM inference?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L841",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-004",
+      "originalTitle": "How does a GPU work for Deep Learning?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L843",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-005",
+      "originalTitle": "How do CUDA Kernels work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L845",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-006",
+      "originalTitle": "How does a Google TPU work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L847",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-007",
+      "originalTitle": "How does an LPU work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L849",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-008",
+      "originalTitle": "Estimate the GPU memory needed to serve a 70B model (weights, KV cache, activations). Does it fit on a single 80 GB GPU?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L851",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-009",
+      "originalTitle": "Do the roofline math: how many tokens/sec can one H100 produce for a 70B model at batch size 1?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L852",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-010",
+      "originalTitle": "What is model parallelism vs data parallelism in distributed training?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L853",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-011",
+      "originalTitle": "What is tensor parallelism, and how does it help serve large models?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L854",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-012",
+      "originalTitle": "What is pipeline parallelism?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L855",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-013",
+      "originalTitle": "How does continuous batching improve LLM inference throughput?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L856",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-014",
+      "originalTitle": "What is speculative decoding, and how does it speed up inference?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L858",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-015",
+      "originalTitle": "How does Medusa (multi-head speculative decoding) work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L860",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-016",
+      "originalTitle": "How does EAGLE (feature-level speculative decoding) work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L862",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-017",
+      "originalTitle": "What is N-gram Speculation in LLMs, and how does it speed up generation?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L864",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-018",
+      "originalTitle": "What is KV cache, and how do you manage memory for it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L866",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-019",
+      "originalTitle": "What is Paged Attention?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L868",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-020",
+      "originalTitle": "How does GGUF work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L870",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-021",
+      "originalTitle": "How do you optimize inference for edge and mobile deployment?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L872",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-022",
+      "originalTitle": "What is model quantization (INT8, INT4, FP16, BF16), and how does it affect quality?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L874",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-023",
+      "originalTitle": "How do you implement auto-scaling for AI workloads?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L876",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-024",
+      "originalTitle": "What is the role of load balancing in AI serving infrastructure?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L877",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-025",
+      "originalTitle": "How do you manage GPU memory for serving multiple models?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L878",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-026",
+      "originalTitle": "What is model sharding, and when would you use it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L879",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-027",
+      "originalTitle": "How do you implement request queuing and priority scheduling for AI services?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L880",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-028",
+      "originalTitle": "What are the cost trade-offs between self-hosted and API-based AI inference?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-029",
+      "originalTitle": "How do you handle cold start latency for serverless AI deployments?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L882",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-030",
+      "originalTitle": "How do you implement model caching to reduce redundant computations?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L883",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-031",
+      "originalTitle": "What is the difference between synchronous and asynchronous inference, and when do you use each?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L885",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-032",
+      "originalTitle": "What is FSDP (Fully Sharded Data Parallel), and how does it differ from DeepSpeed ZeRO?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L886",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-033",
+      "originalTitle": "What are TTFT, TPOT, and throughput, and how do they trade against each other?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L887",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-034",
+      "originalTitle": "How do you monitor and profile LLM inference in production (TTFT, inter-token latency, GPU utilization)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L889",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-INFRASTRUCTURE-035",
+      "originalTitle": "What is model routing at the infrastructure level, and how do you route requests based on complexity and cost?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L890",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "COL-AIGC-IMAGE-08",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 图像创作 · AIGC图像生成框架基础",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-IMAGE-08-001",
+      "originalTitle": "面试问题：目前主流的AIGC图像创作框架有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-002",
+      "originalTitle": "面试问题：在AIGC图像创作框架中，从Prompt到图像的创作过程通常经历哪些环节？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-003",
+      "originalTitle": "面试问题：介绍一下ComfyUI的节点图和工作流架构原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-004",
+      "originalTitle": "面试问题：ComfyUI为什么适合复杂AIGC图像工作流和商业化场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-005",
+      "originalTitle": "面试问题：ComfyUI的动态显存（Dynamic VRAM）机制是什么？（进阶）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L175",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-006",
+      "originalTitle": "面试问题：Diffusers框架的核心设计思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-007",
+      "originalTitle": "面试问题：除Pipeline外，Diffusers中还有哪些核心组件？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-008",
+      "originalTitle": "面试问题：Stable Diffusion WebUI的核心功能和长期价值是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-009",
+      "originalTitle": "面试问题：Stable Diffusion WebUI Forge、SD.Next和Fooocus有哪些跨周期价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-010",
+      "originalTitle": "面试问题：Variation Seed、Hires.fix和提示词权重控制如何在WebUI中发挥作用？(进阶)",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-011",
+      "originalTitle": "面试问题：Tiled VAE和Tiled Diffusion为什么能降低大分辨率生成的显存压力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-012",
+      "originalTitle": "面试问题：Ultimate SD Upscale的工作原理是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-013",
+      "originalTitle": "面试问题：ADetailer为什么能自动修复脸部、手部和局部细节？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L587",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-08-014",
+      "originalTitle": "面试问题：结构控制、参考图控制、风格/角色注入、局部选择与编辑这些Adapter控制能力的经典插件有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md#L644",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

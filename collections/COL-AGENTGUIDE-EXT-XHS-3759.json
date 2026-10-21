@@ -1,0 +1,2445 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-3759",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 推荐搜索与广告",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software",
+    "coding",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-001",
+      "originalTitle": "【候选集规模】召回后的候选物品数量 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3771",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-002",
+      "originalTitle": "【协同过滤】请解释协同过滤的基本原理，并介绍其概念。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3772",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-003",
+      "originalTitle": "【召回方式与逻辑】召回方式是什么？召回逻辑是什么？如何召回？ 「京东、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3773",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-004",
+      "originalTitle": "【召回触发方式】用户输入进去就直接召回吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3774",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-005",
+      "originalTitle": "【ANN索引】使用了哪种ANN索引结构？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3779",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-006",
+      "originalTitle": "【FastText过滤】用fasttext过滤出的内容取得都只是头部的内容吧？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3780",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-007",
+      "originalTitle": "【K估计】K1 K2 K3估计区别？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3781",
+      "reviewStatus": "needs_review",
+      "reviewNote": "K1/K2/K3 未说明被估计量与公式。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-008",
+      "originalTitle": "【PSM】介绍PSM。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3782",
+      "reviewStatus": "needs_review",
+      "reviewNote": "PSM 未展开全称。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-009",
+      "originalTitle": "【协同过滤】请说明协同过滤的基本原理、主要方法（如基于用户和基于物品的协同过滤），并阐述基于用户和基于物品的协同过滤的区别。 「字节Seed、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3783",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-010",
+      "originalTitle": "【双塔模型】介绍双塔模型及其整体流程。双塔顶层算点击概率是怎么算的？ 「字节Seed、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3784",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-011",
+      "originalTitle": "【召回Embedding训练】召回了解吗，召回的embedding怎么训练的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3785",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-012",
+      "originalTitle": "【召回与排序阶段】召回和粗排/排序的区别是什么？推荐系统的召回和排序两个阶段分别做什么？它在召回和排序阶段分别能带来什么收益？ 「字节跳动、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-013",
+      "originalTitle": "【召回方法】介绍业务背景、整个链路、召回方法（包括召回模型的架构及优化），以及视频如何透出？ 「字节跳动、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3787",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“视频透出”未说明实际接口与展示约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-014",
+      "originalTitle": "【召回方法对比】内容推荐和协同过滤各有什么优缺点？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3788",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-015",
+      "originalTitle": "【召回模型架构】是 Encoder 还是双塔？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3789",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-016",
+      "originalTitle": "【召回流程与负样本】1. 负样本是随机采样还是HardNegative？请结合项目说明。2. 讲一下项目里召回的流程，包括负样本选择策略。 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3790",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-017",
+      "originalTitle": "【召回结果选择】召回结果怎么选择? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3791",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-018",
+      "originalTitle": "【向量检索】向量检索和召回怎么做的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3792",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-019",
+      "originalTitle": "【常用召回模型】推荐系统中常用的召回模型有哪些？请简述其逻辑结构或实现方式。 「字节Seed、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3793",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-020",
+      "originalTitle": "【推荐系统链路】了解推荐算法吗？请介绍推荐系统的整体链路（包括召回、粗排、精排、混排、重排），常见的召回算法（如DIN、SIN），样本如何区分，以及在数据量很少的情况下是否可以不进行召回？ 「百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3794",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文未展开SIN，也未说明样本按什么维度区分；所列模型名称不足以确定其在具体链路中的作用。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-021",
+      "originalTitle": "【标签召回】标签召回的标签数据有多大呢 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3795",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-022",
+      "originalTitle": "【相似度度量】Dense检索中常见的相似度度量方式有哪些？ES向量召回中常用的相似度检索方式是什么？为什么很多系统选择Cosine或Inner Product？ 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3796",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-023",
+      "originalTitle": "【精排后召回】精排后召回的结果是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3797",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“精排后召回”混用了阶段，来源未给实际链路与结果对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-024",
+      "originalTitle": "【负采样策略】有没有用HNM（Hard Negative Mining）？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3798",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-025",
+      "originalTitle": "【ANN索引】IVF了解吗? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3803",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-026",
+      "originalTitle": "【Cross-Encoder召回】在大规模在线系统中为什么Cross-Encoder不适合作为第一阶段召回？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3805",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-027",
+      "originalTitle": "【FM模型】介绍FM的实现方式、目标函数和时间复杂度。 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3806",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-028",
+      "originalTitle": "【i2i与u2i召回】i2i和u2i各自的缺点是什么？如何将两者进行融合？i2i是强个性化还是弱个性化？为什么还在做基础的i2i，现在明明有很多改进的模型，没有去尝试吗？ 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3807",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-029",
+      "originalTitle": "【i2i召回】ranki2i的做法，为什么要增加这一路？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3808",
+      "reviewStatus": "confirmed",
+      "reviewNote": "ranki2i 未给出具体模型与打分定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-030",
+      "originalTitle": "【Query处理与改写】query不规范，导致召回难度大，如何解决？query召回如何更加贴近answer？Query改写之后改写成什么形式去召回？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3809",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-031",
+      "originalTitle": "【SID作用】引入sid就有用嘛？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3810",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未定义 SID 的构造与作用对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-032",
+      "originalTitle": "【Word2Vec召回】skipgram为什么适合于推荐系统？w2v训练的都是用户点击过的物品，那么如果用户点击一些新的文章，这个召回应该怎么处理？Word2Vec召回具体是怎么实现的?训练里的中心词具体指什么,原始输入数据是什么,如何评估Word2Vec训练出的向量好坏? 「字节Seed、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3811",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-033",
+      "originalTitle": "【个性化召回】实习中个性化召回的的想法，向量召回一定需要吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3812",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-034",
+      "originalTitle": "【分层召回】分层召回的结构是什么，低活/沉默用户会不会走双塔？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3813",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未给出分层拓扑与低活用户路由条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-035",
+      "originalTitle": "【协同过滤】ItemCF中物品共现的样本对是如何构造的？共现次数具体如何计算？这样构造有什么问题？除了统计共现次数，还有其他手段衡量ItemCF的物品相似度吗？物品间相似度怎么计算？除了共现次数加衰减系数的方式，有没有其他方法衡量物品相关性？ItemCF怎么做，相比简单的版本，做了哪些改进？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3814",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-036",
+      "originalTitle": "【双塔模型】双塔模型相关：1. 讲一下DAT双塔？2. YouTubeDNN和DSSM的区别是什么？3. 双塔召回优缺点，为什么 serving 不放交叉特征？4. 介绍一下双塔的特征工程连续型特征的处理方式，在你的项目里分桶在。 「拼多多、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3815",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“在你的项目里分桶在”疑似截断。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-037",
+      "originalTitle": "【召回优化】你做过哪些改进来提升Recall？请具体说明优化召回链路和召回率的思路。 「美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3816",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-038",
+      "originalTitle": "【召回失败处理】召回不到数据怎么处理？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3817",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-039",
+      "originalTitle": "【召回方式】除了向量召回和关键词召回，还有哪些召回方式，了不了解全文召回，如何做的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3818",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-040",
+      "originalTitle": "【召回方法对比】ItemCF和Word2Vec用的是相同的共现信息，为什么还要单独做Word2Vec这路召回? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3819",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-041",
+      "originalTitle": "【召回要素重要性】召回的模型、目标、样本哪个更重要？介绍粗精排。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3820",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-042",
+      "originalTitle": "【召回评估】1. 怎么评估召回效果？ 2. 为什么recall不能和新的一天的交互数据来算交集，会有什么不妥？ 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3821",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-043",
+      "originalTitle": "【召回链路设计】怎么设计的召回链路 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3822",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-044",
+      "originalTitle": "【向量检索】你的FAISS是怎么实现的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3823",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-045",
+      "originalTitle": "【多兴趣召回】讲一下MIND的具体实现 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3824",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-046",
+      "originalTitle": "【多样性排序】你的项目里说进行了样本多样性排序，能不能介绍一下你使用的多样性算法？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3825",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-047",
+      "originalTitle": "【多路召回】多路召回合并的问题：每路召回占比怎么确定？项目里的三路召回具体是怎么做的？新闻推荐项目介绍：滑动窗口扩充负样本是怎么做的，DIN如何处理用户历史行为序列，为什么考虑多路召回，不同召回方法比例？ 「字节跳动、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3826",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未给出窗口、曝光与负标签规则。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-048",
+      "originalTitle": "【大规模检索算法】你现在还知道哪些用于大规模检索的场景常见算法？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3827",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-049",
+      "originalTitle": "【搜索数据选品】怎么样结合用户搜索数据进行选品？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3828",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-050",
+      "originalTitle": "【更新策略】全量更新和增量更新的策略设计。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3829",
+      "reviewStatus": "needs_review",
+      "reviewNote": "全量/增量更新未说明更新对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-051",
+      "originalTitle": "【样本使用方式】流式样本和离线样本分别如何使用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3830",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-052",
+      "originalTitle": "【样本训练策略】所有场景样本是一起训练还是分开训练？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3831",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-053",
+      "originalTitle": "【检索优化】检索环节做了哪些优化？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3832",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-054",
+      "originalTitle": "【榜单构建】榜单构建最重要的是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3833",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“榜单”未说明内容对象与用途。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-055",
+      "originalTitle": "【热点召回】热点Post如何处理？热点召回怎么限定时间窗口，如何限定一个合适的时间范围，通过什么来判定？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3834",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-056",
+      "originalTitle": "【语义召回】语义召回怎么做的呢？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3835",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-057",
+      "originalTitle": "【负样本优化】负样本相关：正负样本怎么产生的，负采样规则怎么设计？未曝光出去的样本作为负样本有做过实验吗，加进来你觉得如果有效的话有效在哪里？负样本优化的思路？负样本选取策略？采样不到正确样本怎么办？ 「字节跳动、百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3836",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-058",
+      "originalTitle": "【负样本使用】不可以作为召回阶段负样本？排序可以使用吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3837",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“不可以作为负样本”的对象与前提缺失。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-059",
+      "originalTitle": "【负样本采样】双塔的负样本采样策略，为什么没用batch内？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3838",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-060",
+      "originalTitle": "【负采样与纠偏】batch内怎么纠偏，说出多种方法，热度打压的公式，难负样本是怎么更新的？batch 内负样本增强怎么做？batch内负采样和全采样的区别？in-batch 内负采样作用？ 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3839",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-061",
+      "originalTitle": "【负采样策略】召回阶段采样的方法有哪些？每个目标是否都做了in-batch负采样？每条样本会采样成一个group，采样的策略是什么？ 「京东、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3840",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-062",
+      "originalTitle": "【i2i与u2i召回】怎么做好 u2i 和 i2i 的联合建模？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3845",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-063",
+      "originalTitle": "【i2i召回】怎么在 i2i 加入个性化建模？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3846",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-064",
+      "originalTitle": "【RAG在推荐中的应用】为什么在推荐系统中引入RAG（检索增强生成）？主要是为了解决哪些问题？ 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3847",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-065",
+      "originalTitle": "【RQ-VAE】为什么要在推荐系统引入RQ-VAE？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3848",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-066",
+      "originalTitle": "【SIM模型】SIM模型的实现逻辑是什么？如何改造？线上部署时耗时如何评估？ 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3849",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-067",
+      "originalTitle": "【专家死亡检测】如果某个视觉专家\"死亡”(长期不被选中)，怎么检测和恢复? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3850",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-068",
+      "originalTitle": "【双塔模型】双塔模型的主要问题是什么？在数据空间非常大的情况下如何优化？请列举双塔召回的改进方法。召回双塔与粗排双塔在数据、loss、模型维度上的区别是什么？ 「字节Seed、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3851",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-069",
+      "originalTitle": "【召回去偏】如何去偏:位置偏差(PAL)/ 曝光偏差(IPS)/ 流行度偏差(causal embedding) 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3852",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-070",
+      "originalTitle": "【召回工程实现】召回的时候怎么进行kv查找，线上hive表如何维护的，有什么性能问题，数据多久更新调度一次？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3853",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未明确 Hive 离线索引构建与在线 KV 查询的具体分工。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-071",
+      "originalTitle": "【召回评估】召回评估 HitRate / NDCG / Recall@K:为什么不能直接套排序 AUC，怎么和线上对齐 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3854",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-072",
+      "originalTitle": "【图召回】召回知道什么；知道图模型吗，图召回？后续优化往哪些方向，了解图模型吗？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3855",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-073",
+      "originalTitle": "【垂类视频召回】垂类视频的消费全链路是怎么做的？介绍召回，场景细节提问。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3856",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-074",
+      "originalTitle": "【多兴趣召回】多兴趣召回 MIND / ComiRec:胶囊网络 vs 多头自注意力，兴趣数 K 怎么定？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3857",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-075",
+      "originalTitle": "【多路召回】向量召回、关键词召回、实体召回等不同召回链路（包括Sparse和Dense）的结果如何合并？各链路的优先级如何确定？ 「百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3858",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-076",
+      "originalTitle": "【序列模型对比】生成式推荐 HSTU(Meta 那篇):和 SASRec 的核心差异 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3859",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-077",
+      "originalTitle": "【损失函数对比】说一下NCELoss和Samplesoftmaxloss的区别，Samplesoftmaxloss的消偏是怎么做的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3860",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-078",
+      "originalTitle": "【样本粒度】你认为曝光粒度、request粒度、ug分离粒度的优劣是什么，训练/推理角度？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3861",
+      "reviewStatus": "confirmed",
+      "reviewNote": "ug 分离粒度未展开。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-079",
+      "originalTitle": "【模型架构选择】召回为什么选decoder-only，考虑过encoder-only吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3862",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-080",
+      "originalTitle": "【注意力机制共现】注意力机制怎么能关注一些共现信息（比如纸尿裤与啤酒这样的组合）而不是只是相似信息？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3863",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-081",
+      "originalTitle": "【生成式召回】生成式召回（如OneRec）相关：1. 介绍生成式推荐（OneRec等），包括OneRec v2；为什么用beam search？语义id码本大小如何确定？如何评价语义id的好坏？2. 生成式召回做序列建模与精排用户序列建模的区别；生成式召回与生成式精排的区别。3. 生成式召回如何评估？4. 生成式推荐中还有哪些生成语义id的做法？5. 生成式推荐线上成本高，除了模型蒸馏，还有哪些分层降级策略？6. 生成式检索和双塔召回建模目标有什么区别？ 「字节跳动、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3864",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供 OneRec v2 的论文或版本定位。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-082",
+      "originalTitle": "【索引优化】召回索引表优化相关方案 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3865",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明召回索引表的数据结构与优化目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-083",
+      "originalTitle": "【网点布局优化】网点布局/路径优化的方案，核心考虑了哪些维度的因素? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3866",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-084",
+      "originalTitle": "【负采样与纠偏】数学题，负采样校准，怎么在训练中就校准预估值(改loss)？以及负样本采样 & in-batch negative + logQ correction。 「拼多多、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3867",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-085",
+      "originalTitle": "【路由与负载均衡】Router的负载均衡loss怎么加？route怎么拿到的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3868",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-086",
+      "originalTitle": "【长序列建模哈希检索】长序列建模 ETA / SDIM / TWIN: 哈希检索 + target attention 的工程实现 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3869",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-087",
+      "originalTitle": "【难负样本与动量蒸馏】hard negatives和动量蒸馏的细节是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3870",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-088",
+      "originalTitle": "【多模态特征融合冷启动】针对微信视频号的信息流推荐，如果希望引入多模态大模型来提取短视频的高阶语义特征以大幅提升冷启动效果，你会如何设计这个特征提取与特征融合的完整链路方案？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3875",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-089",
+      "originalTitle": "【生成式召回】生成式召回与精排的统一设计：1. 如何将召回和粗排结合做生成式探索？2. 生成式召回与精排的scaling谁空间更大？为什么？3. 生成式推荐的幻觉问题解决方案？4. 精排多为判别式，召回可为生成式，如何统一设计？ 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3876",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“生成式推荐幻觉”未说明指非法 ID、不存在商品还是偏好不符；本条仅关联已明确的统一建模目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-090",
+      "originalTitle": "【电商召回设计】场景题：设计一个电商系统的商品召回功能 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3877",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-091",
+      "originalTitle": "【排序与重排】1. 现有的精排主模型有多少特征？ 2. 策略和规则还存在吗？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3884",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-092",
+      "originalTitle": "【上下文不足】Ihuc具体是放在哪一层的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3889",
+      "reviewStatus": "needs_review",
+      "reviewNote": "Ihuc 未给出全称、论文或模块定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-093",
+      "originalTitle": "【排序作用】排序在这里起什么作用？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3890",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-094",
+      "originalTitle": "【排序损失函数】讲一下，pointwise和pair-wise。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3891",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-095",
+      "originalTitle": "【排序模型数据】排序模型用的哪些数据？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3892",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-096",
+      "originalTitle": "【模型预估结果应用】模型预估结果是怎么使用的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3893",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未说明具体模型、预估分数含义及下游决策规则，需要结合实际推荐链路解释。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-097",
+      "originalTitle": "【精排v分定义】业务的精排v分是如何定义的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3894",
+      "reviewStatus": "needs_review",
+      "reviewNote": "业务自定义“v 分”未给目标与公式。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-098",
+      "originalTitle": "【融分公式】线上排序的融分公式？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3896",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未给出业务融分目标与系数。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-099",
+      "originalTitle": "【输出粒度】调优之后输出每一行的粒度是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3897",
+      "reviewStatus": "needs_review",
+      "reviewNote": "调优对象与输出表或张量未保留，无法确定每行粒度。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-100",
+      "originalTitle": "【重排序作用】有做rerank吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3898",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-101",
+      "originalTitle": "【LLM与精排关系】有了LLM判别，为什么还要精排？请分析LLM与精排的关系。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-102",
+      "originalTitle": "【上下文不足】OT转换怎么做？请解释其原理和实现步骤。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3904",
+      "reviewStatus": "needs_review",
+      "reviewNote": "OT 未展开，也未说明转换对象与输入输出。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-103",
+      "originalTitle": "【多目标建模与融合】多目标建模怎么做？有哪些多目标模型（如ESSM）？损失函数如何融合（有哪些方式，各自的优缺点）？实习中精排融合公式具体有哪些目标？是否使用动态加权？需要注意什么地方？ 「京东、字节Seed、字节跳动、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3905",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未展开 ESSM。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-104",
+      "originalTitle": "【多目标排序架构】多目标排序的具体实现：share-nothing、share-bottom、MMOE、PLE？请介绍每种架构的原理和适用场景。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3906",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-105",
+      "originalTitle": "【多路结果排序】召回的多个网页搜索结果，是如何进行排序和筛选的？在对多路样本进行排序时，用到了哪些指标？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3907",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-106",
+      "originalTitle": "【工业精排LGBM】在排序模型中，LightGBM和DIN分别起到什么作用？工业场景精排为什么常用LGBM？相比XGBoost或深度模型，LGBM在效果和效率上有什么优势？ 「京东、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3908",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-107",
+      "originalTitle": "【排序与重排】1. 精排的Scaling，主要是在Scaling什么？2. 重排序（Rerank）的作用是什么？为什么向量召回后必须做重排？如果没有Reranker，线上效果会下降在哪些指标？ 「美团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3909",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-108",
+      "originalTitle": "【排序损失函数】请介绍Learning to Rank中的pointwise、pairwise和listwise三种训练方式，并比较它们的优缺点。具体说明：为什么在某些推荐场景下pointwise效果比pairwise好？pairwise margin是否更好？以及listwise loss的特点。 「京东、百度、百度文心、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3910",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-109",
+      "originalTitle": "【校准】Calibration的作用与必要性；常用算法（如保序回归、Platt缩放、温度缩放等）；数据选择策略；提高PCOC的方法。 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3911",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-110",
+      "originalTitle": "【策略与规则】有什么兜底和后处理逻辑？请介绍常见的策略与规则。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3912",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-111",
+      "originalTitle": "【粗排优化】粗排阶段使用Cross-Encoder对top-100重打分（比Bi-Encoder准但慢），除此之外粗排之后还有哪些优化点？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3913",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-112",
+      "originalTitle": "【精排模型优化方向】如果给你一个精排模型，一开始只是一个简单的MLP，你该从哪些方面去考虑提升模型的效果？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3914",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-113",
+      "originalTitle": "【精排模型结构】介绍目前精排模型的主要结构（如DIN、DIEN、DeepFM等）。为什么需要用lite模型作为精排结果的补充？是因为精排打的不准吗？和精排模型有什么区别？在理想情况下，如果不考虑资源问题以及精排的多样性学习，所有item进精排就是最好的结果吗？样本的存储格式是怎么样的？还了解业界的其他精排模型？ 「字节Seed、美团、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3915",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给 lite 模型结构与实际样本存储格式，仅关联已明确的阶段取舍与数据形态。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-114",
+      "originalTitle": "【重排序作用】MMR是什么？在重排序中如何用MMR做多样性过滤？请对比DPP和MMR算法的工作原理。 「京东、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3916",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-115",
+      "originalTitle": "【多任务梯度冲突】多任务建模中梯度冲突（如ESMM中的跷跷板问题）如何解决？除了PCGrad还有什么方法？ 「美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3921",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-116",
+      "originalTitle": "【多目标建模与融合】协同控制：目标函数的设定；如何求解优化问题？公平性如何衡量？智能补贴为什么用 uplift 而不是 CTR？精排稀疏目标和稠密目标之间怎么做平衡？ 「字节跳动、拼多多、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3922",
+      "reviewStatus": "confirmed",
+      "reviewNote": "协同控制未给出对象、变量、约束与公平性定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-117",
+      "originalTitle": "【多目标排序架构】如果点击率和转化率有相关性，PLE怎么优化？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3923",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-118",
+      "originalTitle": "【层次化多标签分类】场景题：京东电商场景下，如何设计层次化的多标签分类，需要考虑到标签和标签之间存在耦合性/层级包含关系等 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3924",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-119",
+      "originalTitle": "【序列特征建模排查】加强对序列特征的建模，但是发现效果没有提升，该怎么排查？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3925",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-120",
+      "originalTitle": "【无CTR信号排序】AI搜索没有点击/CTR信号，排序该怎么做? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3926",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-121",
+      "originalTitle": "【校准】多个媒体的偏差较大，如何进行快速修复，不限于模型、calibration等方式？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3927",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未定义多媒体偏差的统计量。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-122",
+      "originalTitle": "【生成式精排监督信号】怎么让OneRec有排序能力，RL奏效吗，可以替代精排吗？精排虽然用的是生成式，但是他和NTP的训练不一样，监督信号只有target token，会导致监督不充分，怎么解决这个问题？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3928",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-123",
+      "originalTitle": "【生成式重排】如何利用大模型来做生成式重排？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3929",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-124",
+      "originalTitle": "【知识蒸馏】了解Online Distillation（OPD，On-Policy蒸馏）吗？请说明其loss函数、框架设置、训练数据设置，以及为什么训练速度很快？知识蒸馏在精排中，teacher-student的离在线一致性，logits蒸馏与feature蒸馏的区别是什么？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3930",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-125",
+      "originalTitle": "【竞价融入链路】竞价如何融入到前面链路中，介绍PDM模型，还有别的方法吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3931",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供 PDM 模型的全称与论文。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-126",
+      "originalTitle": "【精排Scaling】给你一个Transformer based的精排架构，有哪些可能的堆叠参数思路让他实现scaling? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3932",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-127",
+      "originalTitle": "【精排模型结构】HSTU能不能替换精排模型? 介绍一下RankMixer的结构原理。 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3933",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-128",
+      "originalTitle": "【重排序作用】如果线上只有弱标签甚至没有人工标注，Reranker 如何进行微调或持续优化？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3934",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-129",
+      "originalTitle": "【长序列建模简化】长序列建模，怎么简化长序列建模的线上复杂度？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3935",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-130",
+      "originalTitle": "【预估与调度结合】怎么把预估模型和调度系统结合？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3936",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未给出调度对象、状态与优化约束。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-131",
+      "originalTitle": "CTR和CVR关联性很强，gate是否可以只有一个？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3944",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-132",
+      "originalTitle": "CTR模型用的特征。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3945",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-133",
+      "originalTitle": "CTR预估属于机器学习里的什么任务？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3946",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-134",
+      "originalTitle": "CVR和CTR有什么区别，label依赖怎么办，SSB怎么解决，稀疏怎么解决，ESMM怎么解决这个问题的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3947",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-135",
+      "originalTitle": "ESMM如何解决CVR的SSB？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3948",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-136",
+      "originalTitle": "为什么RQ-VAE优化CTR预估模型提升不那么显著？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3949",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-137",
+      "originalTitle": "为什么不单独预测CVR，CTR的引入为CVR带来了什么信息？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3950",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-138",
+      "originalTitle": "为什么选择CTR和CVR建模呢？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3951",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-139",
+      "originalTitle": "了解延迟反馈吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3952",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-140",
+      "originalTitle": "介绍项目中CTR&CVR相关的信息，包括当前CTR模型、CVR模型的结构。 「字节跳动、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3953",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-141",
+      "originalTitle": "在离线效果不一致是为什么，为什么稀疏目标学的不好？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3954",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“在离线效果不一致”未说明另一比较侧。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-142",
+      "originalTitle": "多任务建模为什么选择CTR和CVR而不是CTR和CPM？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3955",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-143",
+      "originalTitle": "如何通过模型提升商品点击率、物流处理效率？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3956",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-144",
+      "originalTitle": "如果让你优化一个推荐系统的CTR模型，你会从哪些方面入手？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3957",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-145",
+      "originalTitle": "点击率预估问题中，如何使用频次过滤缓解特征稀疏问题？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3958",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-146",
+      "originalTitle": "现在给你一个任务预测CTR，经常会出现正负样本不平衡的问题，如果是你做的话，你怎么选取正负样本？具体说曝光但是未点击的能不能算做负样本？为什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3959",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-147",
+      "originalTitle": "短视频CTR预测任务中，你觉得有哪些特征比较重要？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3960",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-148",
+      "originalTitle": "随机采样负样本对AUC有什么影响？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3961",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-149",
+      "originalTitle": "对推荐系统感兴趣吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3969",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-150",
+      "originalTitle": "对百度的推荐系统有了解吗? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3970",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-151",
+      "originalTitle": "【推荐算法基础】你在机器学习课程中接触过哪些推荐算法？你用什么数据集实现过简单推荐系统？深度推荐模型你了解哪些？问对做推荐算法感不感兴趣。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3975",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-152",
+      "originalTitle": "【AdaTT模型】什么是AdaTT？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3980",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-153",
+      "originalTitle": "【DCN模型】介绍DCN，为什么会用到DNN？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3981",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-154",
+      "originalTitle": "【DIN模型】介绍DIN，并说明能否按照时间截断序列？关于DIN的q/k/v分别是什么？ 「字节Seed、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3982",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-155",
+      "originalTitle": "【FM复杂度】FM模型的计算复杂度是多少？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3983",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-156",
+      "originalTitle": "【Group Embedding】介绍group embedding 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3984",
+      "reviewStatus": "needs_review",
+      "reviewNote": "Group Embedding 未说明分组对象与方法定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-157",
+      "originalTitle": "【MMoE模型】了解MMoE模型吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3985",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-158",
+      "originalTitle": "【哈希表应用】数据结构中的哈希表在推荐系统中有什么应用?请举例说明。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3986",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-159",
+      "originalTitle": "【商品推荐与内容推荐区别】商品推荐和内容推荐有什么不一样的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3987",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-160",
+      "originalTitle": "【多任务学习】除了MMOE还用过其他的多任务学习方案吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3988",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-161",
+      "originalTitle": "【多场景与多任务区别】多场景和多任务的区别、常见的多任务建模方式；多场景建模具体指什么？ 「字节跳动、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3989",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-162",
+      "originalTitle": "【序列建模与多目标优化模型】了解哪些序列建模/多目标优化模型？序列建模了解哪些？ 「拼多多、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3990",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-163",
+      "originalTitle": "【序列注意力类型】目前模型里的序列主要包括什么，self attention 还是 target attention？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3991",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-164",
+      "originalTitle": "【推荐模型】除了DIN和SIM还了解其他的推荐模型吗？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3992",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-165",
+      "originalTitle": "【推荐模型做法】介绍推荐模型相关的做法。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3993",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“推荐模型相关做法”未说明要求介绍的范围。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-166",
+      "originalTitle": "【推荐链路】是否了解推荐整体链路？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3994",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-167",
+      "originalTitle": "【注意力机制混淆】把\"候选广告和历史行为的Attention\"说成\"Transformer的自注意力\" (我也不知道自己怎么混淆的)？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3995",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-168",
+      "originalTitle": "【深度学习搜广推算法】了解深度学习中常用的搜广推算法吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3996",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-169",
+      "originalTitle": "【深转模型】了解深转模型么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3997",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“深转模型”未给出全称与结构。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-170",
+      "originalTitle": "【特征交叉】除了SENet、DCN和你使用的特征交叉方法，你还了解哪些特征选择/特征交叉的方法？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3998",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-171",
+      "originalTitle": "【特征交叉方法】如何做的特征交叉？特征为什么能交叉？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3999",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-172",
+      "originalTitle": "【超长序列长度】超长序列建模的长度是多少？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4000",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-173",
+      "originalTitle": "【BIN网络】讲一讲推荐系统中BIN网络。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4005",
+      "reviewStatus": "needs_review",
+      "reviewNote": "BIN 未给出全称、论文与网络结构。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-174",
+      "originalTitle": "【DCN-v2】DCN-v2的原理是什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4006",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-175",
+      "originalTitle": "【DeepFM与AutoInt】DeepFM结构，FM优势，AutoInt结构进一步追问query具体是什么，有没有序列特征？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4007",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-176",
+      "originalTitle": "【DIN序列融合】把序列先concat过DIN，和先过DIN再进行融合，有啥区别/效果哪个更好？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4008",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-177",
+      "originalTitle": "【DIN模型】介绍DIN模型，包括其原理、如何做特征交叉、target attention机制、用户行为序列处理方式（是否行为间直接计算），并手写实现或简述思路。同时对比DIEN，并说明是否复现过DIN、PPNet、MMoE等推荐模型。 「京东、百度、美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4009",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-178",
+      "originalTitle": "【DIN注意力聚合】精排的din模块中，target item和query对行为序列得出的embedding，加权相加或者逐元素相乘有什么不一样？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4010",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-179",
+      "originalTitle": "【DTRN模型】介绍一下DTRN的几个模块。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4011",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-180",
+      "originalTitle": "【ESMM与ESMM2】介绍一下多目标建模essm的问题essm2的改进能不能用除法。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4012",
+      "reviewStatus": "confirmed",
+      "reviewNote": "essm/essm2 未给版本定义；仅关联可辨认的 ESMM 概率联合目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-181",
+      "originalTitle": "【FM与LR对比】为什么你的场景考虑FM不考虑LR？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4013",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-182",
+      "originalTitle": "【FM模型】请介绍常见的特征交叉网络结构（如FM网络），并手撕实现FM。 「字节跳动、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4014",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-183",
+      "originalTitle": "【HSTU工程实现】HSTU序列长度，GPU型号 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4015",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-184",
+      "originalTitle": "【HSTU建模成本】关于hstu建模的成本 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4016",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-185",
+      "originalTitle": "【Hyformer与MTGR】你提到Hyformer，了解MTGR这类模型吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4017",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-186",
+      "originalTitle": "【MMoE与ESMM对比】说一下mmoe和esmm? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4018",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-187",
+      "originalTitle": "【MMoE实现】手撕代码：实现MMOE 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4019",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-188",
+      "originalTitle": "【MMoE模型】请解释MMoE模型的理解，并手撕MMoE代码（一开始说可能不会，不过基本写出来了）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4020",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-189",
+      "originalTitle": "【PLE与跷跷板问题】知道PLE嘛，PLE是通过什么解决跷跷板问题的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4021",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-190",
+      "originalTitle": "【RAG应用】项目：为什么在推荐系统中引入RAG？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4022",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-191",
+      "originalTitle": "【SDIM结构】你讲讲SDIM的结构呢 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4023",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-192",
+      "originalTitle": "【Transformer2Rec】Transformer2rec的模型有了解过吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4024",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-193",
+      "originalTitle": "【Wide&Deep模型】介绍Wide&Deep模型的设计原理，包括其结构、为什么使用这种组合，以及它相对于线性回归/逻辑回归的改进。同时，对比Wide&Deep、DeepFM、DCN、DIN各自解决的核心问题。 「字节跳动、拼多多、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4025",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-194",
+      "originalTitle": "【XGBoost场景与项目对比】讲讲xgboost现在的使用业务场景？你的实习和实验室项目在构建算法的时候有什么区别吗，在特征选取、调参、模型选型、loss函数方面分别说说？阿里国际搜推？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4026",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-195",
+      "originalTitle": "【两阶段模型特征不匹配】你提到的两阶段模型，特征不匹配的问题是怎么处理的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4027",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“两阶段模型”未说明阶段定义与不匹配特征类型。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-196",
+      "originalTitle": "【主模型效果分析】主模型效果好，好在哪里，有分析过嘛？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4028",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-197",
+      "originalTitle": "【主模型问题分析】主模型建模有什么问题？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4029",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-198",
+      "originalTitle": "【京东零售推荐潜力】在京东零售商品推荐中的应用潜力？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4030",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-199",
+      "originalTitle": "【参数共享策略】独立使用还是全局共享？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4031",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“独立使用还是全局共享”未说明共享对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-200",
+      "originalTitle": "【场景区分】特征或网络层面有没有做场景区分？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4032",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-201",
+      "originalTitle": "【场景建模策略】这些场景是分开建模还是统一建模？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4033",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-202",
+      "originalTitle": "【多任务局部最优】多任务建模陷入局部最优的解决办法。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4034",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-203",
+      "originalTitle": "【多任务建模动机】为什么要进行多目标联合建模（多任务建模），解决了什么问题？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4035",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-204",
+      "originalTitle": "【多任务建模纠偏】介绍一下多任务建模的纠偏方法。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4036",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“纠偏”未说明偏差类型与任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-205",
+      "originalTitle": "【多任务模型对比】介绍CGC、PLE和MMoE的区别？CGC或者PLE有尝试过吗？介绍MMoE，跷跷板现象怎么解决，PLE为什么要划分共享专家和任务特定专家？介绍PLE，做多目标的动机。 「百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4037",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-206",
+      "originalTitle": "【多任务模型迁移】推荐里的多任务模型可以迁移到上面吗? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4038",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“上面”所指的迁移目标缺少前文。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-207",
+      "originalTitle": "【多任务负迁移与跷跷板问题】多任务学习中的负迁移/跷跷板问题怎么解决？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4039",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-208",
+      "originalTitle": "【多场景主场景优化】多场景里面，怎么让模型更关注主场景的优化？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4040",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-209",
+      "originalTitle": "【多目标建模方法】多目标怎么建模的？了解的多目标结构；介绍一下多目标的项目。 「京东、字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4041",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-210",
+      "originalTitle": "【多目标特征融合问题】把所有的目标和特征放到主模型里，有什么问题嘛？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4042",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-211",
+      "originalTitle": "【大模型推荐应用】大模型在推荐相关应用有没有了解？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4043",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-212",
+      "originalTitle": "【大模型结构及特征输入】你用的大模型结构？特征如何喂给大模型？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4044",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-213",
+      "originalTitle": "【序列建模softmax】推荐里序列建模会去掉 softmax 是为什么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4045",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未具名具体序列架构。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-214",
+      "originalTitle": "【序列融合】不同时间段的序列输出如何融合？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4046",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-215",
+      "originalTitle": "【推荐效果影响因素】请以视频网站为例，分析你认为影响推荐效果的因素有哪些。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4047",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-216",
+      "originalTitle": "【推荐模型】DIN处理的是什么类型的数据？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4048",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-217",
+      "originalTitle": "【新闻推荐项目】介绍新闻推荐的项目 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4049",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-218",
+      "originalTitle": "【模型结构对比】独立模型当前的结构是什么样子的？主模型的模型结构？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4050",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-219",
+      "originalTitle": "【模型选型与参数量】这边在线、近线和离线的模型选型和参数量？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4051",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-220",
+      "originalTitle": "【特征一致性】如果特征落盘时刻上下文发生变化，是否会造成线上线下不一致？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4052",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-221",
+      "originalTitle": "【特征拼接方式】特征是直接拼接embedding，还是有独立的场景block？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4053",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-222",
+      "originalTitle": "【生成式推荐多样性优势】如果为了推荐的多样性，生成式有什么优势？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4054",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-223",
+      "originalTitle": "【生成式推荐论文】你了解哪些生成式推荐的论文？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4055",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-224",
+      "originalTitle": "【自动特征交叉】模型里是怎么实现自动特征交叉的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4056",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-225",
+      "originalTitle": "【长序列建模动机与方法】在长序列建模这一块为什么要把序列拉长？原来序列建模怎么做？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4057",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-226",
+      "originalTitle": "【BiasNet】BiasNet的结构是什么？在哪里停止梯度？最后是否过了激活函数？如果不过会不会引起专家塔输出的分布混乱？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4062",
+      "reviewStatus": "needs_review",
+      "reviewNote": "BiasNet 未给出全称、所属模型与模块定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-227",
+      "originalTitle": "【DIN与SIM对比】DIN和SIM之间的演进关系是什么？SIM对比DIN的改善是什么？ 「百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4063",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-228",
+      "originalTitle": "【DIN与树模型对比】为什么DIN模型在这个项目里效果不如树模型? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4064",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-229",
+      "originalTitle": "【DIN改进】对DIN有啥可以改进的地方？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4065",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-230",
+      "originalTitle": "【DIN时间衰减】实现一个time_decay的DIN 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4066",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-231",
+      "originalTitle": "【GMV建模】GMV是如何建模的，怎么做的优化？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4067",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-232",
+      "originalTitle": "【GNN应用】GNN在公司的实现？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4068",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-233",
+      "originalTitle": "【GNN用户分类】场景题：根据用户历史行为序列如何将GNN应用于推荐系统里的用户分类？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4069",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-234",
+      "originalTitle": "【HSTU CTR预估】HSTU里面做CTR预估的方案，输出是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4070",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-235",
+      "originalTitle": "【HSTU与OneRec对比】HSTU和OneRec的区别？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4071",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-236",
+      "originalTitle": "【HSTU与Transformer对比】你们模型是hstu结构，想问一下他和Transformer的差异是哪些，然后哪种效果更好？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4072",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-237",
+      "originalTitle": "【HSTU复杂度】HSTU把FFN砍成门控U(X)降低了多少的时间复杂度？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4073",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-238",
+      "originalTitle": "【HSTU损失优化】HSTU的loss怎么优化美团（到店/推荐）？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4074",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-239",
+      "originalTitle": "【HSTU长序列】HSTU怎么构建长序列？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4075",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-240",
+      "originalTitle": "【LLM4Rec】LLM4Rec: 把item转成token的几种方法；LLM4Rec有哪些微调直接做推荐任务编码器数据增强？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4076",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-241",
+      "originalTitle": "【LLM在搜广推的应用】现在搜广推都在结合LLM，请谈谈你的看法。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4077",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-242",
+      "originalTitle": "【LoRA与全参数微调对比】LoRA 和全参数微调相比，在推荐场景下各自的优缺点是什么? 它们各自更适合什么样的场景？ 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4078",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-243",
+      "originalTitle": "【LoRA微调】如果要用LoRA做电商推荐场景的微调，你会怎么设计数据和标签？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4079",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-244",
+      "originalTitle": "【MMCN模型】MMCN的scaling效果怎么样？MMCN网络和MLP的区别是什么，有什么优势？有对比其他交叉网络嘛？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4080",
+      "reviewStatus": "needs_review",
+      "reviewNote": "MMCN 未给出全称与论文，scaling 的对照条件未说明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-245",
+      "originalTitle": "【MMCN网络】介绍MMCN网络，包括其细挖部分，并解释为什么MMCN不重复对其他头做交叉？另外，介绍scaling的工作。 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4081",
+      "reviewStatus": "needs_review",
+      "reviewNote": "MMCN 未给出可定位的架构，头间交叉与 scaling 的具体机制不明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-246",
+      "originalTitle": "【MMoE模型】MMoE vs PLE，什么时候 negative transfer？MMoE专家网络什么独立什么共享？MMoE和ESMM底层是软共享还是硬共享？MMoE：基本逻辑，怎么处理多个目标不平衡的现象，怎么确定专家数量，极化现象怎么解决？MMoE怎么解决梯度冲突的问题？MMoE的改进？ 「京东、拼多多、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4082",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-247",
+      "originalTitle": "【OneRec与HSTU对比】快手OneRec和HSTU区别在哪？样本组织形式和OneRec和HSTU有什么区别？讲一下OneRec？你们OneRec范式是不是只是讲故事？ 「字节跳动、拼多多、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4083",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-248",
+      "originalTitle": "【OneTrans模型】OneTrans把序列和非序列特征放在一起组织，不同行为特征是怎么组织的？OneTrans的金字塔结构具体怎么做？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4084",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-249",
+      "originalTitle": "【POSO算法】POSO是如何做的？介绍一下POSO算法 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4085",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-250",
+      "originalTitle": "【PO模型】PO的原理和演进过程，更要深入分析为什么在业务场景work。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4086",
+      "reviewStatus": "needs_review",
+      "reviewNote": "PO 未展开全称，原理演进所指对象不明确。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-251",
+      "originalTitle": "【PPNet/POSO/STAR对比】说一下PPNet、POSO和STAR的区别与关系。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4087",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-252",
+      "originalTitle": "【RQ-VAE】RQ-VAE和VQ-VAE之间的区别是什么？RQ-VAE在推荐系统中要解决什么问题？请从离散化的角度说明。 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4088",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-253",
+      "originalTitle": "【STAR负迁移】star的负迁移有了解过么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4089",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-254",
+      "originalTitle": "【TokenMixer与MMCN对比】tokenmixer和MMCN的区别是什么，为什么没有推tokenmixer？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4090",
+      "reviewStatus": "confirmed",
+      "reviewNote": "MMCN没有论文或全称，当前仅可辨认TokenMixer部分。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-255",
+      "originalTitle": "【Token机制特征交叉】为什么token机制能实现特征的自动深度交叉？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4091",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-256",
+      "originalTitle": "【TRM与FiBiNet及特征交叉】你提到的TRM其实是一种软门控机制对吧，有没有看过FiBiNet，动态重要性怎么算，聊了一会两个不同的特征向量，如果我要捕捉细粒度的特征交叉信息，你觉得内积和外积，元素积谁更合适？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4092",
+      "reviewStatus": "confirmed",
+      "reviewNote": "TRM未展开；仅可明确FiBiNet和特征向量交互比较目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-257",
+      "originalTitle": "【Uplift模型】uplift模型如何进一步迭代的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4093",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-258",
+      "originalTitle": "【主模型特征】为什么主模型不能加入相关特征？在主模型上加目标、加特征会怎么样？业务视频的后验均值label有特殊的吗？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4094",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-259",
+      "originalTitle": "【多任务模型对比】对比MMOE、PLE和AdaTT的改进在哪，为什么要这么做？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4095",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-260",
+      "originalTitle": "【多任务跷跷板问题】联合训练的话怎么处理跷跷板问题呢？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4096",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-261",
+      "originalTitle": "【序列条件概率推荐】代码：给定用户历史行为序列，根据历史行为序列算出元组对的条件概率，并根据条件概率进行用户推荐。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4097",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-262",
+      "originalTitle": "【强化学习推荐】请解释一下强化学习在音视频推荐系统中的应用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4098",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-263",
+      "originalTitle": "【推荐系统链路】为什么推荐系统要设计成这个链路? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4099",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-264",
+      "originalTitle": "【新闻推荐算法设计】关于新闻推荐，你提到了使用点击量最高的新闻作为推荐依据，能否具体说明你会如何设计推荐算法来动态调整推荐内容？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-265",
+      "originalTitle": "【特征增量训练】怎么在老汤模型里面加入一个新特征，快速追上老汤模型效果？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4101",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“老汤模型”为来源称呼，此处讨论向已有模型增加新特征。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-266",
+      "originalTitle": "【特征重要性学习】如果通过特征加gate的方式学习特征重要性，你会怎么设计？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-267",
+      "originalTitle": "【独立模型意义与效果分析】独立模型和主模型的目标重合，有什么意义嘛？独立模型实际打过主模型了嘛，为什么没有打过？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-268",
+      "originalTitle": "【生成式推荐】tiger和hstu走什么路线实现生成式推荐？你觉得生成式推荐是讲故事还是有实践价值？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4104",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-269",
+      "originalTitle": "【生成式推荐与HSTU】是否了解生成式推荐，阅读过哪些论文，5分钟简单讲解Meta HSTU论文？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-270",
+      "originalTitle": "【电商推荐流程】介绍一个电商系统完整的推荐流程，例如来了一个用户请求，然后是什么？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4106",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-271",
+      "originalTitle": "【跨场景特征迁移】短视频到直播内怎么做特征的一个迁移，怎么联系外流短视频和直播内流的目标及特征？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-272",
+      "originalTitle": "【集成学习】为什么选择两个Lightgbm和Din一起做集成？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-273",
+      "originalTitle": "【项目框架迁移到生成式推荐】如何把你的这个项目框架迁移到生成式推荐的上游中？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4109",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-274",
+      "originalTitle": "【领域SOTA与推荐结合】在这个领域下，现有的SOTA是怎么做的？如何将你的领域的研究和推荐结合起来？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4110",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“这个领域”缺少研究对象，关联仅覆盖研究与推荐的明确部分。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-275",
+      "originalTitle": "【Transformer+MMoE推荐系统】给定Transformer和MMoE，如何构建一个推荐系统？请说明核心模块、数据流及多任务学习策略。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-276",
+      "originalTitle": "【多模态推荐系统设计】设计一个多模态推荐系统，说明其核心模块和数据流。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-277",
+      "originalTitle": "【新闻推荐系统设计】设计一个新闻推荐系统，主要考虑哪些因素？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4117",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-278",
+      "originalTitle": "【端到端推荐】探索推荐系统端到端建模方法，研究如何统一召回、排序，实现跨阶段统一建模、统一目标与统一优化。进一步，针对端到端生成式推荐，如何设计多目标损失？ 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-279",
+      "originalTitle": "AI 搜索岗位最核心的技术有哪些？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-280",
+      "originalTitle": "Sim怎么search的，具体讲讲？包括如何抽取子序列以及一二阶段如何结合到一起？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-281",
+      "originalTitle": "Soft-search的embedding是怎么生成的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4128",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未说明 Soft-search 所属模型。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-282",
+      "originalTitle": "Sparse 检索和 Dense 检索的基本原理分别是什么？为什么在实际系统中要做混合检索？稀疏检索和稠密检索的结果如何做融合排序？你了解RRF吗？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-283",
+      "originalTitle": "你怎么理解AI搜索和传统搜索最本质的区别？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-284",
+      "originalTitle": "倒排索引与正排索引的区别 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-285",
+      "originalTitle": "前沿的搜索，排序类算法？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-286",
+      "originalTitle": "在你的项目中，Query 改写的核心做法是什么？搜索场景的 query 改写 / 同义词扩展:BERT 双塔 query-doc 匹配怎么训，难负样本从哪来？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-287",
+      "originalTitle": "在搜索的时候，我们进行query，他是怎么与词库进行匹配的呢？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-288",
+      "originalTitle": "在检索优化过程中，你是如何进行数据预处理的？有没有使用特定的检索算法？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4135",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-289",
+      "originalTitle": "场景题：你的这个方案有哪些是能用到微信搜索场景的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-290",
+      "originalTitle": "大模型时代搜推的范式会怎么变，你怎么看生成式搜索对传统搜推的冲击 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-291",
+      "originalTitle": "怎么从亿级url中检索出与查询最相似的url 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-292",
+      "originalTitle": "搜索中RAG的向量检索会受到长尾商品影响，你会如何缓解？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-293",
+      "originalTitle": "搜索的pipeline是什么样的 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4140",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-294",
+      "originalTitle": "讲一下BM25算法原理，包括其输出范围。 「百度、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4142",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-295",
+      "originalTitle": "【ANN索引设计】腾讯云某多模态检索业务需要处理亿级向量，你会如何设计底层的ANN索引？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-296",
+      "originalTitle": "【语义歧义建模】语义歧义(如“苹果”既是品牌也是水果)在搜索链路中通常怎么建模？追问：两种方式在长尾Query上的表现差异如何？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4146",
+      "reviewStatus": "confirmed",
+      "reviewNote": "后半“两种方式”没有定义，需补充具体模型或方法才能比较长尾Query表现。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-297",
+      "originalTitle": "【广告业务指标与推荐广告对比】1. 广告业务指标：take rate（即广告平台从交易中抽取的佣金比例）的计算公式是什么？物流成本计算公式是什么？广告业务的收入细分有哪些？标的相对于竞品的优势是什么？ 2. 推荐和广告的区别：请从目标、用户意图、评估指标、商业模式等方面对比推荐系统与广告系统的区别。 「字节跳动、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4153",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原问未给平台主体、标的、履约或竞争对象，具体物流成本与营收分拆的业务定义缺失。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-298",
+      "originalTitle": "【外投广告特征】外投广告模型预测用到了哪些特征？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4158",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-299",
+      "originalTitle": "【外投广告预算】如何影响外投广告预算？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4159",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“影响外投广告预算”未说明决策变量与优化目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-300",
+      "originalTitle": "【广告定价】从你的认识谈一下广告如何定价。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-301",
+      "originalTitle": "【预算分配】你提到的XX大促项目，预算和流量是怎么分配到各个品类的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-302",
+      "originalTitle": "【LTV计算】如何计算抖音用户的365天LTV，来衡量广告的收益与成本？（存在注册时间不足365天的用户） 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4167",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-303",
+      "originalTitle": "【优惠券投放优化】假设美团数据完全开放，如何优化优惠券投放？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4168",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-304",
+      "originalTitle": "【曝光恢复问题】有一个商品，开始时正常的，突然有点时间因为竞对的品抬高出价拿不到曝光了。等到竞对不加价后发现依旧拿不到曝光，从模型的角度解释原因以及解决方案。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-305",
+      "originalTitle": "【预算平滑】Pacing 算法(PID / LP)，预算 24h 平滑消耗。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4171",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-306",
+      "originalTitle": "【广告竞价与出价系统】设计广告竞价与出价系统，包括召回→粗排→精排→出价→pacing流程，并设计算法促进DSP出价更高以优化媒体平台收入。 「字节跳动、拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4176",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-307",
+      "originalTitle": "【ID特征处理】ID特征是怎么处理的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4183",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-308",
+      "originalTitle": "【序列长度限制】序列最长长度是多少？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4184",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明序列的对象、任务与配置。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-309",
+      "originalTitle": "【用户人群区分】这个区分用户人群的是单独的路径，还是不同人群都有这几种？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4185",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“单独路径”与“这几种”缺少路径、类别及模型结构的定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-310",
+      "originalTitle": "【用户相似度计算】如何计算用户相似度？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4186",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-311",
+      "originalTitle": "【端内端外特征】端内有哪些特征，端外有哪些特征？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4187",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明端内/端外所属平台与具体数据边界，也未提供特征清单。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-312",
+      "originalTitle": "【跨场景用户行为差异】不同场景下用户行为有什么差异？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-313",
+      "originalTitle": "【重要特征识别】什么特征比较重要？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4189",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-314",
+      "originalTitle": "【C-model建模方法】C-model如何建模？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4194",
+      "reviewStatus": "needs_review",
+      "reviewNote": "C-model 未给出定义、论文与结构。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-315",
+      "originalTitle": "【Embedding维度设置】重要特征的embedding维度有没有考虑怎么设置？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-316",
+      "originalTitle": "【优惠券核销概率预测】优惠券核销概率预测的业务场景？优惠券核销概率与优惠力度、投放时间的关系？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4196",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-317",
+      "originalTitle": "【兴趣权重平衡】如何平衡每个时期兴趣的权重？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-318",
+      "originalTitle": "【双塔模型Embedding】双塔模型中的embedding怎么做？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-319",
+      "originalTitle": "【商品ID替代方案】讲一下，为什么不直接用商品ID？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4199",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未说明商品 ID 的替代表示。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-320",
+      "originalTitle": "【垂类视频得分构建】垂类的视频得分是如何构建的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4200",
+      "reviewStatus": "needs_review",
+      "reviewNote": "垂类视频“得分”未给出预测对象、用途与公式。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-321",
+      "originalTitle": "【序列建模方法】序列建模是怎么做的？SID序列建模的方式主要有哪些？在HSTU建模中，如何利用曝光未点击的行为序列？还考虑哪些其他序列？使用的用户行为序列是去重还是不去重序列？如何理解这种选择？ 「字节跳动、美团、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4201",
+      "reviewStatus": "confirmed",
+      "reviewNote": "SID 未在本条展开；HSTU 序列与去重取舍需结合具体监督任务理解。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-322",
+      "originalTitle": "【序列建模有效性分析】序列建模为什么考虑接入某序列，以及为什么序列建模会有效果？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4202",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-323",
+      "originalTitle": "【搜索与推荐序列建模区别】搜索和推荐两个不同方向，用户的行为序列建模有什么核心区别？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4203",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-324",
+      "originalTitle": "【搜索数据挖掘商品趋势】有没有通过用户搜索数据来了解商品趋势的经历？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-325",
+      "originalTitle": "【特征使用】match类特征怎么使用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4205",
+      "reviewStatus": "needs_review",
+      "reviewNote": "match 类特征未说明定义、生成对象与任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-326",
+      "originalTitle": "【特征使用限制】我们为什么不能直接用cspuid去做特征？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4206",
+      "reviewStatus": "needs_review",
+      "reviewNote": "cspuid 未展开，也未给出数据约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-327",
+      "originalTitle": "【特征工程心得】你对推荐算法中特征工程的心得有哪些？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4207",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-328",
+      "originalTitle": "【用户意图识别】你觉得用户意图识别需要识别哪些东西？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4208",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-329",
+      "originalTitle": "【用户行为序列特征提取】对于用户行为序列数据(如点击流、交易序列)，你通常用什么方法进行特征提取和建模？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-330",
+      "originalTitle": "【行为模式识别】是否在行为上有相同的模式，该怎么做？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-331",
+      "originalTitle": "【高维特征处理】如果是用户一个月的数据特征太多了怎么办？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4211",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-332",
+      "originalTitle": "【动态兴趣适应】假如用户的兴趣是动态变化的(比如用户之前喜欢某一类新闻，但现在兴趣转向了另一类新闻)，你会如何调整推荐策略来适应这种变化呢？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-333",
+      "originalTitle": "【发起侧与消费侧建模】想做发起侧和消费侧，两个方向的思路是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4217",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“发起侧/消费侧”未说明业务角色、事件与目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-334",
+      "originalTitle": "【图网络节点设置】图网络的构建和节点设置 (详细battle了一下具体在业务上节点设置)。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-335",
+      "originalTitle": "【外域信息偏差处理】引入外域信息，会不会导致本场景显著高估？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4219",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本条仅关联跨场景信息引入的影响与验证；原文未给具体外域或“高估”的统计口径。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-336",
+      "originalTitle": "【序列建模大脉冲缓解】序列建模中，大脉冲现象如何缓解(比如发生了福岛地震，可能只发生一次)？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4220",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-337",
+      "originalTitle": "【曝光点击偏差处理】如何考虑偏差，比如低曝光高点击/高曝光高点击？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4221",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-338",
+      "originalTitle": "【样本偏差处理】深入讨论实习，推荐用到的样本都是旧模型产出的，这样训练新模型会有偏差，怎么解决？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-339",
+      "originalTitle": "【特征融合】用到的直播和短视频特征怎么融合，及交互。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4223",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-340",
+      "originalTitle": "【用户分类建模】在保险背景中，如果有用户的健康状况和用户一系列的历史订单，该怎么输入分类模型，判断用户是否健康？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4224",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文未定义“健康”标签与预测用途；本条仅关联静态属性与行为序列的分类输入设计。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-341",
+      "originalTitle": "【用户长期记忆设计】若将电商场景中用户的购买、点击、兴趣等信息设计为长期记忆，有什么想法？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4225",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-342",
+      "originalTitle": "【行为序列噪声处理】i2i 里用户行为序列不一定反映用户兴趣，怎么办；比如 i2i，是用每个行为 item 做 trigger 去召回，但是并不是每个 item 都能反映用户兴趣，怎么处理？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-343",
+      "originalTitle": "【跨场景行为序列处理】历史行为如果有来自不同场景的行为，不同场景的行为是拆成不同序列还是把信息放sideinfo好？如果放在sideinfo里，对于不同场景的行为怎么处理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4227",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-344",
+      "originalTitle": "【跨域建模方法】跨域建模可以有哪些方式？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-345",
+      "originalTitle": "【骑手订单分配优化】如果一个区域的骑手数量足够但订单分配不均(有的骑手闲着有的超时)，你怎么优化？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-346",
+      "originalTitle": "【骑手速度衰减预估】怎么预估骑手在恶劣天气下的速度衰减？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-347",
+      "originalTitle": "【高活用户请求平衡】除了按样本量加权，还有什么方法可以平衡高活用户request过多的情况？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4231",
+      "reviewStatus": "needs_review",
+      "reviewNote": "高活用户 request 过多未说明指样本权重、指标聚合还是服务负载。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-348",
+      "originalTitle": "【跨业务联合建模】在蚂蚁这类生态中，如何利用跨业务（如支付、信贷、理财）的数据进行联合风控建模？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-349",
+      "originalTitle": "【冷启动概念】冷启动问题定义与理解：1. 冷启动（cold start）如何定义？通常指新用户、新物品或新系统缺乏历史数据时，推荐系统无法有效进行个性化推荐的难题。2. 你如何理解冷启动问题？包括用户冷启动、物品冷启动和系统冷启动三类，常见解决方案有利用人口统计学信息、内容特征、混合推荐、探索与利用策略等。 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-350",
+      "originalTitle": "【冷启动】冷启动问题：1. 为什么能缓解商品冷启动？2. 冷启动还是滑动？3. 如何利用用户注册信息进行初始推荐？ 「字节跳动、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4248",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“冷启动还是滑动”中的滑动对象没有上下文；仅保留明确的新用户和商品冷启动部分。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-351",
+      "originalTitle": "【冷启动】冷启动问题：1. 你的项目有没有应对物品冷启动的方法？2. 分别介绍user和item侧冷启动如何做？3. 想要让新用户在初次使用App时快速被吸引，你会设计什么推荐策略？模型设计需要注意哪些点？4. 电商场景，如何快速做冷启动？5. 遇到新类别该怎么迭代？6. 那用户冷启动如何解决？ 「字节Seed、字节跳动、拼多多、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4253",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“新类别”未说明指物品类别还是预测标签。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-352",
+      "originalTitle": "【高热样本打压】打压高热样本的做法？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-353",
+      "originalTitle": "【冷启动数据来源与优化】系统还没上线、还没拿标之前，这些数据从哪来？没见过的corner case怎么优化？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4259",
+      "reviewStatus": "confirmed",
+      "reviewNote": "未给出 corner case 的具体任务；关联仅覆盖上线前的数据构造与来源。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-354",
+      "originalTitle": "【多样性不足分析】如果推荐系统上线后用户反馈说\"推的内容都差不多\"，你会怎么分析和改进？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-355",
+      "originalTitle": "【多模态冷启动】你认为多模态模型在电商搜索中的“冷启动”问题如何解决？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-356",
+      "originalTitle": "【探索与利用平衡】推荐系统中的探索和利用(exploration vs exploitation)怎么平衡？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-357",
+      "originalTitle": "【新用户冷启动】新用户冷启动:群体画像 + bandit 探索 + meta-learning 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-358",
+      "originalTitle": "【IPV指标】IPV是什么指标？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4270",
+      "reviewStatus": "needs_review",
+      "reviewNote": "IPV 未展开，也未给出统计口径。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-359",
+      "originalTitle": "【bubble rate】bubble rate怎么算？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4275",
+      "reviewStatus": "needs_review",
+      "reviewNote": "bubble rate 未给出业务事件与分母。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-360",
+      "originalTitle": "【召回指标】hitrate和recall是怎么算的，就告诉分子分母分别是什么？为什么选择Recall@10？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-361",
+      "originalTitle": "【排序模型指标】排序模型关注的指标是什么？精排模型线上线下用的什么指标？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-362",
+      "originalTitle": "【推荐优化目标】推荐业务目前的优化目标是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-363",
+      "originalTitle": "【推荐正确性】答的正确性(如推荐商品是否真符合用户需？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4279",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原问句截断，关联仅覆盖商品与用户需求的相关性评价。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-364",
+      "originalTitle": "【搜推业务指标】搜推业务什么可以当业务指标？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-365",
+      "originalTitle": "【模型AUC差异】这两个模型在测试的时候AUC有什么差异 (无，AUC是排序指标)？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4281",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“这两个模型”缺少模型定义、预测得分与变换关系。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-366",
+      "originalTitle": "【离线指标】离线看什么指标? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-367",
+      "originalTitle": "【线上指标与样本】线上一般看什么指标，样本是怎么寻找的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4283",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“样本”未说明指训练、评测还是实验单位。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-368",
+      "originalTitle": "【AUC与GAUC】解释AUC、GAUC、UAUC、COPC指标的含义、定义、计算方法和粒度（AUC是样本级，GAUC是用户级）。AUC为什么可以判别排序任务？在推荐系统中，AUC描绘的是什么？GAUC效果那么好，为什么上线时也要用到AUC？分requestID计算AUC与全局AUC的区别是什么？为什么要关注GAUC指标？是否考虑过GAUC评估？正样本稀疏时GAUC会有什么问题？比较GAUC和AUC，什么时候GAUC不如AUC？说明为什么推荐场景更关注GAUC，以及AUC在推荐系统中的意义和与GAUC的区别。用户粒度下的AUC还能准确衡量推荐系统吗？如果不能，还有什么更好的指标去衡量？解释AUC和UAUC，是否存在AUC和UAUC跷跷板的情况？如何解决？线上是否看AUC这个指标？为什么？项目中的GAUC是如何设计的？有没有更合理的设计方法？预测值乘一个权重，AUC的值是否改变？GAUC呢？ 「京东、字节跳动、拼多多、美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4288",
+      "reviewStatus": "confirmed",
+      "reviewNote": "COPC 未在来源展开，AUC/GAUC 的分组与权重也未说明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-369",
+      "originalTitle": "【CTR与IPV关系】CTR提升跟IPV下降有联系吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4289",
+      "reviewStatus": "needs_review",
+      "reviewNote": "IPV 未定义，无法确定其与 CTR 的统计关系。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-370",
+      "originalTitle": "【GAUC计算】手撕代码：Request维度的GAUC计算 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4290",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-371",
+      "originalTitle": "【倍速与完播率】视频完播率任务中，用户是否倍速播放对完播率有没有影响？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4291",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未说明完播率的统计口径。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-372",
+      "originalTitle": "【召回指标】召回命中率怎么算的，怎么确认漏召的商品。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4292",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-373",
+      "originalTitle": "【带货直播指标】带货直播你会关注什么指标？除了评论区反馈还关注什么数据？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4293",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-374",
+      "originalTitle": "【换道场景指标】换道场景有哪些指标是特别的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-375",
+      "originalTitle": "【排序指标实现】介绍一下，如何实现的排序结果的指标？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4295",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未指定排序指标与计算接口。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-376",
+      "originalTitle": "【离线与线上指标对应】离线的增长对应线上指标的增长是多少，线上看哪些指标？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-377",
+      "originalTitle": "【预测GMV与新用户】预测GMV为什么不算上新用户的成单？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4297",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未给出预测 GMV 的统计总体与归因口径。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-378",
+      "originalTitle": "【AUC与GMV不一致排查】线上AUC没掉但GMV掉3%，怎么排查？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4302",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-379",
+      "originalTitle": "【onerec成本】又问onerec范式上线后的cost 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-380",
+      "originalTitle": "【uplift模型与随机试验】uplift模型需要注意的是什么，随机试验需要注意什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-381",
+      "originalTitle": "【分人群AUC下降】分人群的auc下降，该怎么做？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4305",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题讨论分人群效果退化，未限定线上或离线。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-382",
+      "originalTitle": "【多样性量化】信息流推荐里\"多样性\"怎么量化？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-383",
+      "originalTitle": "【完播率与CTR矛盾】线上AB测试中，完播率提升但CTR下降是否考虑过有关问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4307",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-384",
+      "originalTitle": "【特征效果负向排查】加新特征后线上效果没甚至负向可能是什么原因？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4308",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-385",
+      "originalTitle": "【留存曲线纠偏】用户留存曲线的纠偏相关问题 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4309",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给留存曲线的具体数据或所指偏差类型。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-386",
+      "originalTitle": "【离在线不一致】模型离在线不一致怎么处理？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-387",
+      "originalTitle": "【离线涨在线负】离线涨了，在线指标打平或者偏负的原因有哪些？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4311",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-388",
+      "originalTitle": "【推荐系统学习路径】作为应届生，你计划如何学习推荐系统相关技术? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-389",
+      "originalTitle": "【推荐算法工程师工作难点】你觉得推荐算法工程师工作中比较困难的地方是啥？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3759-390",
+      "originalTitle": "【LLM与搜广推结合】现在搜广推都在结合LLM，请谈谈你的看法或相关经验。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L4328",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

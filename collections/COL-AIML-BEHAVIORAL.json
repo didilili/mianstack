@@ -1,0 +1,458 @@
+{
+  "id": "COL-AIML-BEHAVIORAL",
+  "publisherId": "PUB-AIMLINTERVIEWS",
+  "title": "AIMLInterviews · 项目表达与团队协作",
+  "coverage": [
+    "ai_engineering",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AIMLInterviews 的英文原题、编码练习与项目追问。",
+  "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIML-BEHAVIORAL-001",
+      "originalTitle": "Tell me about yourself.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md#L10",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-002",
+      "originalTitle": "What's your proudest project?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md#L11",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-003",
+      "originalTitle": "Why do you want to work here?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md#L12",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-004",
+      "originalTitle": "How do you manage projects under pressure?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md#L13",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-005",
+      "originalTitle": "How would you communicate technical challenges to non-technical stakeholders?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md#L14",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-006",
+      "originalTitle": "Tell me about a time you had a conflict with a team member.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md#L15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-007",
+      "originalTitle": "Tell me about a time you made a mistake.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md#L16",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-008",
+      "originalTitle": "How do you stay up-to-date on advances in ML?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-009",
+      "originalTitle": "Tell me about yourself.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C2。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-010",
+      "originalTitle": "Why this company? What are you looking for in your next role?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G2。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-011",
+      "originalTitle": "Why do you want to work here, and why this role?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C3。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-012",
+      "originalTitle": "What do you know about our products? What would you do in your first 90 days?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G3。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-013",
+      "originalTitle": "Why are you leaving your current job?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C4。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-014",
+      "originalTitle": "Why now? What would make you stay?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G4。Why now 和 what would make you stay 接续 Top Questions!C4 的离职原因主问。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-015",
+      "originalTitle": "What are your greatest strengths, and what is one area you are working to improve?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C5。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-016",
+      "originalTitle": "How would your manager or coworkers describe you?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G5。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-017",
+      "originalTitle": "Tell me about a project you led end to end. What was the outcome?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C6。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-018",
+      "originalTitle": "What was the hardest part? What would you do differently?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G6。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-019",
+      "originalTitle": "Tell me about a time you had to step into a leadership role unexpectedly.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C7。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-020",
+      "originalTitle": "How did you handle team members more senior than you? How did you balance this with your own work?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G7。两句追问接续 Top Questions!C7 的临时接任领导角色经历。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-021",
+      "originalTitle": "Tell me about a time you took on work beyond your job responsibilities.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C8。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-022",
+      "originalTitle": "What motivated you? Did your core work suffer? What was the recognition?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G8。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-023",
+      "originalTitle": "Describe a time you took the initiative to fix a problem rather than waiting for someone else.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C9。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-024",
+      "originalTitle": "Why were you the right person? What if you had been wrong?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G9。you/the problem 接续 Top Questions!C9 主动发现并修复问题的经历。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-025",
+      "originalTitle": "Tell me about your most significant professional achievement.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C10。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-026",
+      "originalTitle": "Why is this the most significant? What did others contribute?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G10。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-027",
+      "originalTitle": "Tell me about a time you made a mistake or failed. What did you learn?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C11。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-028",
+      "originalTitle": "How did you communicate it to stakeholders? How did you rebuild trust?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G11。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-029",
+      "originalTitle": "Tell me about a time you were wrong about something you were confident in.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C12。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-030",
+      "originalTitle": "How do you balance confidence vs. humility? How do you decide when to change your mind?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G12。追问接续 Top Questions!C12 自信判断错误的经历。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-031",
+      "originalTitle": "Tell me about a time you made a data-driven decision that turned out to be wrong.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C13。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-032",
+      "originalTitle": "What did the data miss? How did you validate the fix?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G13。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-033",
+      "originalTitle": "Tell me about a time you received difficult feedback. How did you respond?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C14。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-034",
+      "originalTitle": "Have you ever disagreed with feedback you received?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G14。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-035",
+      "originalTitle": "Tell me about a conflict with a coworker. How did you resolve it, and what did you learn?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C15。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-036",
+      "originalTitle": "What if they had refused to compromise? How is your relationship now?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G15。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-037",
+      "originalTitle": "Tell me about a time you disagreed with your manager or leadership. What did you do?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C16。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-038",
+      "originalTitle": "What if you were sure they were wrong? When would you escalate?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G16。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-039",
+      "originalTitle": "Tell me about a time you had to handle a difficult stakeholder or customer.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C17。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-040",
+      "originalTitle": "What trade-offs did you make? How did you maintain the relationship?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G17。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-041",
+      "originalTitle": "Tell me about a time you convinced your team or leadership to adopt something you proposed.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C18。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-042",
+      "originalTitle": "How did you handle those who stayed skeptical? What if the demo had failed?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G18。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-043",
+      "originalTitle": "Tell me about a time you had to deliver difficult feedback or a harsh truth to someone.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C19。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-044",
+      "originalTitle": "Has honesty ever backfired? How do you balance honesty with kindness?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G19。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-045",
+      "originalTitle": "Tell me about a time you had to motivate a team after a setback or demoralizing event.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C20。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-046",
+      "originalTitle": "How did you handle people who stayed demotivated?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G20。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-047",
+      "originalTitle": "Tell me about a time you worked on a project with a tight deadline.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C21。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-048",
+      "originalTitle": "What did you sacrifice? How did you decide what to cut?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G21。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-049",
+      "originalTitle": "Tell me about the most complex problem you have solved. How did you approach it?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C22。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-050",
+      "originalTitle": "What alternatives did you consider? How did you validate the solution?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G22。备选方案与验证接续 Top Questions!C22 的最复杂问题解决经历。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-051",
+      "originalTitle": "Tell me about a time you worked on a problem that was ambiguous or poorly defined.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C23。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-052",
+      "originalTitle": "How did you align stakeholders on your framing? When did you ask for help?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G23。framing 和求助接续 Top Questions!C23 定义不清的问题。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-053",
+      "originalTitle": "How do you prioritize when you have multiple competing tasks or stakeholders?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C24。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-054",
+      "originalTitle": "Tell me about a time you dropped the ball. What if two P0s collide?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G24。两个 P0 指优先级冲突，来源未定义组织内 P0 等级和升级规则。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-055",
+      "originalTitle": "Tell me about a time you took a calculated risk. How did you decide, and how did it turn out?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C25。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-056",
+      "originalTitle": "What data did you rely on? What was your fallback plan?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G25。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-057",
+      "originalTitle": "Tell me about a time you had to make a decision with incomplete information or data.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C26。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-058",
+      "originalTitle": "How did you validate your assumptions? What if you had been wrong?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G26。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-059",
+      "originalTitle": "Tell me about a time you made short-term sacrifices for long-term gains.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C27。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-060",
+      "originalTitle": "How did you justify the cost to leadership? When is the quick fix right?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G27。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-061",
+      "originalTitle": "Tell me about a time you used data to shape a decision or strategy.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C28。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-062",
+      "originalTitle": "What if the data had been ambiguous? How did you communicate the pivot?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G28。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-063",
+      "originalTitle": "How have you been using AI tools in your own workflow?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!C29。"
+    },
+    {
+      "id": "COL-AIML-BEHAVIORAL-064",
+      "originalTitle": "Where did AI tools fail you? How do you verify AI-generated output?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/Behavioral%20%26%20Leadership%20Interview%20Prep%20Template.xlsx",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：Top Questions!G29。本题接续日常 AI 工具工作流，未限定特定产品。"
+    }
+  ]
+}

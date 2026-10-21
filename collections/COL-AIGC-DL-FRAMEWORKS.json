@@ -1,0 +1,248 @@
+{
+  "id": "COL-AIGC-DL-FRAMEWORKS",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 框架工具",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-001",
+      "originalTitle": "1.Pytorch中的view、reshape方法的异同",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-002",
+      "originalTitle": "2.PyTorch矩阵乘法详解",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L238",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-003",
+      "originalTitle": "3.PyTorch维度变化操作详解",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-004",
+      "originalTitle": "4.PyTorch模型构建详解",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L563",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-005",
+      "originalTitle": "5.PyTorch中的Module",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L766",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-006",
+      "originalTitle": "6.PyTorch中常用的随机采样",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1019",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-007",
+      "originalTitle": "7.PyTorch中对梯度计算的控制",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-008",
+      "originalTitle": "8.PyTorch中的多卡训练",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1221",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-009",
+      "originalTitle": "9.DeepSpeed介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1305",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-010",
+      "originalTitle": "10.PyTorch中的模块迭代器",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-011",
+      "originalTitle": "11.PyTorch中的DataLoader介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-012",
+      "originalTitle": "12.PyTorch中的动态图和静态图介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-013",
+      "originalTitle": "13.PyTorch中的compile介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1532",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-014",
+      "originalTitle": "14.AI模型训练过程的可视化实用工具有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1560",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-015",
+      "originalTitle": "15.PyTorch2.0组件TorchDynamo介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1618",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-016",
+      "originalTitle": "16.PyTorch2.0组件AOTAutograd介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1640",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-017",
+      "originalTitle": "17.介绍一下PyTorch中.detach()、.clone()、requires_grad=True、torch.no_grad()的原理与作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1667",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-018",
+      "originalTitle": "18.PyTorch中连续张量和非连续张量有哪些区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1825",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-019",
+      "originalTitle": "19.OpenAI-Triton介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1928",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此 Triton 指编程语言/编译器，与 NVIDIA Triton Inference Server 为不同对象。"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-020",
+      "originalTitle": "20.Triton实现add算子",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1945",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-021",
+      "originalTitle": "21.Triton常用API介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L1991",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-022",
+      "originalTitle": "22.Triton的编译流程",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2025",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-023",
+      "originalTitle": "23.什么是IR表示？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2046",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-024",
+      "originalTitle": "24.计算图优化的常用方法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2073",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-025",
+      "originalTitle": "25.介绍一下AI模型中钩子函数的原理和作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2090",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-026",
+      "originalTitle": "26.介绍一下PyTorch中DataLoader库的底层原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-027",
+      "originalTitle": "27.AIGC时代主流的深度学习框架有哪些？各自有什么特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2334",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-028",
+      "originalTitle": "28.Caffe的depthwise为什么慢，该如何优化?Caffe新加一层需要哪些操作?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-029",
+      "originalTitle": "29.介绍一下torchrun的用法",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2522",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-030",
+      "originalTitle": "2.PyTorch中autograd的工作原理是什么",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-031",
+      "originalTitle": "3.计算图的动态图和静态图有什么区别，PyTorch为何采用动态图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2635",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-032",
+      "originalTitle": "4.PyTorch中in-place操作（如add_）对梯度计算有什么影响",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2654",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-033",
+      "originalTitle": "5.如何将张量在CPU和GPU之间迁移，需要注意什么",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2674",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-034",
+      "originalTitle": "6.什么是contiguous张量，非contiguous张量为何不能使用view",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2709",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-035",
+      "originalTitle": "7.PyTorch中张量的梯度计算需要满足哪些条件",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2745",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-036",
+      "originalTitle": "8.张量的广播机制是什么，PyTorch如何实现广播",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2787",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-037",
+      "originalTitle": "9.requires_grad的作用，梯度如何停止计算（detach、no_grad）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2837",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-FRAMEWORKS-038",
+      "originalTitle": "10.PyTorch中张量的类型有哪些，如何进行类型转换",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/07_%E6%A1%86%E6%9E%B6%E5%B7%A5%E5%85%B7.md#L2887",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

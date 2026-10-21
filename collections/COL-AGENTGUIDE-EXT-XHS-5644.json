@@ -1,0 +1,2500 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-5644",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 系统设计与后端基础",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software",
+    "coding",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-001",
+      "originalTitle": "【Linux命令】Linux命令：1. 查看目录下文件数量（包括子目录？）；2. 递归复制目录 ./aaa 到 ./bbb 的命令。 「百度、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5656",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-002",
+      "originalTitle": "【字节序】小端和大端存储。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5657",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-003",
+      "originalTitle": "【磁盘结构】介绍磁头和磁道。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-004",
+      "originalTitle": "【进程管理】让进程在后台运行的命令行是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5659",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-005",
+      "originalTitle": "异步中进程、协程的认识？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5665",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-006",
+      "originalTitle": "线程与进程的区别是什么？进程/线程区别；进程通信与共享内存API？ 「京东、字节跳动、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5666",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-007",
+      "originalTitle": "【Activity启动模式】介绍安卓的启动模式（standard、singleTop、singleTask、singleInstance），项目中的使用场景。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5669",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-008",
+      "originalTitle": "【Linux命令】Linux常用命令：1. 查询CPU、内存、磁盘情况（如df、du、free、top等）；2. 查看磁盘信息及挂载情况（如lsblk、mount、df -h）；3. 查询端口占用情况（如netstat -tuln、ss -tuln、lsof -i:端口）；4. 查看当前执行的任务（如ps、top、jobs）及终止任务（kill、killall、pkill）；5. 查找文件中字符串（如grep 'road_graph' data.txt）；6. 给字符串中大写字母加上括号（如sed 's/[A-Z]/(&)/g'）；7. 系统卡顿排查（如top、htop、iostat、vmstat、dmesg）；8. 常用命令（如ls、cd、cp、mv、rm、chmod、ps、kill、grep、sed、awk、find、tar、git等）。 「百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5670",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-009",
+      "originalTitle": "【Linux文件系统】Linux中的proc文件夹有什么作用？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5671",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-010",
+      "originalTitle": "【ROS】ROS中Service和Topic的区别？以及param和broadcast的介绍？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5672",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文 broadcast 未给 ROS 版本、包或接口，无法确认是否指 tf 广播。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-011",
+      "originalTitle": "【内存管理】介绍内存布局，并说明内存泄漏如何检测和避免？物理内存和虚拟内存的区别？物理地址和虚拟地址的区别？虚拟内存解决了什么问题？为什么要有虚拟地址？解释内存/显存、物理/虚拟、堆/栈内存的区别，重点说明堆和栈的区别？ 「字节跳动、百度、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5673",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-012",
+      "originalTitle": "【原子性】你怎么理解原子性？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5674",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-013",
+      "originalTitle": "【容器隔离】请解释Namespace和Cgroups机制，并说明cgroupv2的作用。 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5675",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-014",
+      "originalTitle": "【寄存器】寄存器类型和作用？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5676",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-015",
+      "originalTitle": "【指令执行】一条指令执行的过程，比如load指令？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5677",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-016",
+      "originalTitle": "【死锁】死锁的四个必要条件是什么？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5678",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-017",
+      "originalTitle": "【进程管理】如何杀死一个进程？如果kill不掉怎么办？强制kill的原理是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5679",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-018",
+      "originalTitle": "【锁】计算机操作系统里面,怎么理解“锁”的核心概念? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5680",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-019",
+      "originalTitle": "每个 P 有几个队列？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5686",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-020",
+      "originalTitle": "解释 GMP 模型中 G、M、P 分别是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5687",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-021",
+      "originalTitle": "【Activity栈】一个栈里有四个activity，这四个能不能是不同进程的，能不能是不同应用的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5690",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-022",
+      "originalTitle": "【Handler机制】Handler、Looper、MessageQueue的对应关系是什么？Handler是一对一还是一对多的关系？Handler机制在项目中哪里使用了？怎么用的？IdleHandler是干啥用的？一个延时执行的任务，Looper是采取什么策略让它这个任务延时去执行的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5691",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-023",
+      "originalTitle": "【Kubernetes调度】污点Taint和容忍度Toleration？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5692",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-024",
+      "originalTitle": "【Pod】Pod的概念、生命周期及从提交到拉起的全流程。 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5693",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-025",
+      "originalTitle": "【令牌桶算法】介绍令牌桶算法如何根据优先级让高优请求先拿令牌。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5694",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-026",
+      "originalTitle": "【信号量】信号量的底层是怎么实现的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5695",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-027",
+      "originalTitle": "【内存泄漏】内存泄漏：如何检测？如何避免？如何判定一个view有没有内存泄漏？内存泄漏的原因，如何解决？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5696",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-028",
+      "originalTitle": "【内存管理】请解释mmap是什么，并说明在什么情况下mmap会更慢？同时，请讲讲操作系统内存管理的相关内容。 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5697",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-029",
+      "originalTitle": "【函数调用机制】方法调用的原理（栈，汇编）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5698",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-030",
+      "originalTitle": "【容器与虚拟机】VMware和Docker/K8S等虚拟容器有什么本质上的区别？请解释容器原理，并说明容器与虚拟机的区别。 「阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5699",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-031",
+      "originalTitle": "【容器存储与网络】请解释容器网络模型和存储卷挂载，并说明当Pod漂移到不同Node时，挂载emptyDir和hostPath分别会面临什么问题？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5700",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-032",
+      "originalTitle": "【容器技术】会写Dockerfile吗？请解释Docker沙箱机制的原理，并说明你是否使用过容器？ 「美团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5701",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-033",
+      "originalTitle": "【容器运行时】在高版本的k8s里面已经弃用docker，如果希望轻量化容器应该用哪些。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5702",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-034",
+      "originalTitle": "【线上问题排查】有没有查看过线上程序的状态？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5703",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-035",
+      "originalTitle": "【虚拟内存】主存256Mb，外存100GB，25位寄存器，虚拟内存最大是多少？既然虚拟地址空间比物理地址空间大很多，那岂不是物理地址空间终会出现不够用的时候，这个时候怎么办？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5704",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明 25 位“寄存器”是否指地址位宽及其寻址单元，主存 256Mb 的 b/B 口径也不明确。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-036",
+      "originalTitle": "【调度算法】实际的调度算法是怎么做的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5705",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-037",
+      "originalTitle": "【进程与线程调度】进程调度的过程，和线程调度什么区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5706",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-038",
+      "originalTitle": "【进程间通信】进程间通信的手段；进程间如何共享内存，调用的API是什么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5707",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-039",
+      "originalTitle": "【零拷贝】解释零拷贝。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5708",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-040",
+      "originalTitle": "【CPU访存优化】你知道哪些方法可以优化CPU的访存效率？例如数据对齐、缓存预取、循环展开等技术是如何提升性能的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5713",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-041",
+      "originalTitle": "【垃圾回收】在实际应用中，垃圾回收机制可能会对系统性能产生什么样的影响？你会如何优化垃圾回收以减少对性能的影响？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5714",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-042",
+      "originalTitle": "【性能优化】App 在低端机上卡顿严重，用户投诉很多，你打算怎么做。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5715",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-043",
+      "originalTitle": "【进程与线程】解释进程、线程、协程的区别，并结合后端开发场景说明如何选择使用进程还是线程，并举例。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5716",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-044",
+      "originalTitle": "【DNS协议】计网里面的 DNS 协议是做什么用的? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5731",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-045",
+      "originalTitle": "【网络分层模型】介绍计算机网络层级结构，包括OSI七层模型和TCP/IP四层体系结构，并说明TCP、IP、HTTP分别属于哪一层。 「京东、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-046",
+      "originalTitle": "【DNS解析过程】对于DNS的解析，能解释一下它过程大概什么样子的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5737",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-047",
+      "originalTitle": "【HTTP报文】HTTP报文格式是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-048",
+      "originalTitle": "【HTTP状态码】网络请求错误码（HTTP状态码） 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5739",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-049",
+      "originalTitle": "【HTTP长连接】HTTP长连接如何开启？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5740",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-050",
+      "originalTitle": "【PCIe协议层】PCIe有几层协议？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5741",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-051",
+      "originalTitle": "【TCP/UDP对比】TCP和UDP属于哪一层？它们有什么区别？应用场景如何？ 「京东、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5742",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-052",
+      "originalTitle": "【TCP状态】CLOSE_WAIT与TIME_WAIT的区别 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5743",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-053",
+      "originalTitle": "【加解密算法】加解密算法有哪些？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-054",
+      "originalTitle": "【双向通信】客户端和服务端双向通信的方式 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5745",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-055",
+      "originalTitle": "【认证机制】Cookie/Token登录态维持？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5746",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-056",
+      "originalTitle": "【路由器与交换机对比】路由器和交换机的区别是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5747",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-057",
+      "originalTitle": "【HTTPS与加密】HTTPS的加密过程是怎样的？对称加密和非对称加密在HTTPS中如何使用？HTTP和HTTPS的区别是什么？什么是中间人攻击，HTTPS是如何解决的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5752",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-058",
+      "originalTitle": "【HTTP版本对比】HTTP/1.0、HTTP/2.0和HTTP/3.0的区别；重点说明HTTP/2相比于之前协议的优化点，以及HTTP/2和HTTP/3的区别 「百度、腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5753",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-059",
+      "originalTitle": "【TCP半连接队列】TCP半连接队列是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5754",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-060",
+      "originalTitle": "【TCP数据传输】有两台计算机a和b，尽可能的详述一下，如果他们要进行TCP数据传输的话，全过程是什么样的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5755",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-061",
+      "originalTitle": "【TCP连接建立】TCP 建连时还会沟通哪些信息? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5756",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-062",
+      "originalTitle": "【TCP连接管理】TCP为什么需要三次握手和四次挥手？三次握手除了校验可用性，还能解决什么问题？两次握手为什么会有误连？请详细描述四次挥手过程中每次挥手的状态变化。 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5757",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-063",
+      "originalTitle": "【TCP连接问题】对端没有初始化会出现什么问题? 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5758",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“对端没有初始化”未说明具体对象与初始化阶段。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-064",
+      "originalTitle": "【URL输入到页面展示】浏览器输入URL到页面展示全过程 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5759",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-065",
+      "originalTitle": "【WebSocket】为什么用WebSocket不用HTTP、SSE？WebSocket在项目中的具体应用 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5760",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-066",
+      "originalTitle": "【乱序识别】如何识别乱序传输(out-of-order)? 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5761",
+      "reviewStatus": "needs_review",
+      "reviewNote": "out-of-order 未说明所处协议、总线或执行层次。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-067",
+      "originalTitle": "【话题通信底层】话题通信机制中，数据底层是怎么传输的，底层机制？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5762",
+      "reviewStatus": "needs_review",
+      "reviewNote": "话题通信未说明所用中间件与版本。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-068",
+      "originalTitle": "【HTTPS密钥管理】预主密钥被窃取了怎么办，私钥也被窃取了怎么办 (定时换)？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5767",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-069",
+      "originalTitle": "【WebRTC建连】WebRTC建连过程中，ICE、STUN、TURN和SDP分别是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5768",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-070",
+      "originalTitle": "【传输正确性验证】上游64B、下游32B，如何验证传输正确？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5769",
+      "reviewStatus": "needs_review",
+      "reviewNote": "上游 64B、下游 32B 未说明接口、对齐、握手与字节顺序。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-071",
+      "originalTitle": "【大文件传输优化】上传大文件受到网络波动影响，应该怎么处理？大文件传输优化具体是怎么做的？ 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5770",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-072",
+      "originalTitle": "【连接管理对比】Nginx可以维护几十万连接，为什么数据库不能？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5771",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-073",
+      "originalTitle": "【MySQL与Redis】了解mysql和redis吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5787",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-074",
+      "originalTitle": "【MySQL索引】MySQL有哪些索引类型？索引底层是什么数据结构？不创建索引，会默认创建索引吗？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5788",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-075",
+      "originalTitle": "【SQL使用经验】是否使用过SQL？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5789",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-076",
+      "originalTitle": "【SQL连接】SQL里面left join和right join的区别是什么？inner join和outer join的区别是什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5790",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-077",
+      "originalTitle": "【事务ACID与隔离级别】MySQL中事务的特性是什么？四种事务隔离级别是什么？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5791",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-078",
+      "originalTitle": "【数据库知识广度】对大数据技术的掌握情况，了解哪些数据库？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5792",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-079",
+      "originalTitle": "【数据库规模】这个数据库有了解现在是多少的量级的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5793",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-080",
+      "originalTitle": "【Buffer Pool】数据从哪里读到 Buffer Pool? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5798",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-081",
+      "originalTitle": "【B树与B+树对比】B树和B+树有什么区别？B+树相比B树有什么优势？为什么数据库使用B+树而不是B树？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5799",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-082",
+      "originalTitle": "【B+树特点】B+树的特点是什么？为什么只在叶子节点存储数据？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5800",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-083",
+      "originalTitle": "【ES倒排索引】ElasticSearch的原理（倒排索引+TF/IDF） 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5802",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-084",
+      "originalTitle": "【GROUP BY与PARTITION BY】SQL中group by和partition by有什么区别？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5803",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-085",
+      "originalTitle": "【INSERT ON DUPLICATE】MySQL里insert ...on duplicate key update怎么用？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5804",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-086",
+      "originalTitle": "【PostgreSQL与MySQL对比】PostgreSQL和MySQL有哪些区别？为什么认为PostgreSQL的连接和JSON支持更好？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5805",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-087",
+      "originalTitle": "【事务失败处理】如果一个事务中第二条 SQL 执行失败，会发生什么? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5806",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-088",
+      "originalTitle": "【事务隔离级别】读已提交与可重复读的区别？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5807",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-089",
+      "originalTitle": "【幻读与不可重复读】幻读和不可重复读有什么区别？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5808",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-090",
+      "originalTitle": "【幻读示例】举个例子说明一下幻读? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5809",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-091",
+      "originalTitle": "【数据存储方式】问我数据的存储方式 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5810",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-092",
+      "originalTitle": "【数据库连接开销】数据库建连接到底贵在哪里? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5811",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-093",
+      "originalTitle": "【流量数据存储】流量数据是用什么存储的? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5812",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-094",
+      "originalTitle": "【窗口函数】SQL里面row_number、rank、dense_rank的区别是什么? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5813",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-095",
+      "originalTitle": "【索引使用确认】如何确认SQL使用了索引? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5814",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-096",
+      "originalTitle": "【聚簇与非聚簇索引】什么是聚簇索引和非聚簇索引？区别是什么？聚簇索引怎么实现？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5815",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-097",
+      "originalTitle": "【范式与SQL】数据库的第二范式、第三范式，增删改查的语句。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5816",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-098",
+      "originalTitle": "【读写分离】读写分离你了解吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5817",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-099",
+      "originalTitle": "【连接池】为什么需要连接池？连接池真正解决什么？连接池是不是越大越好？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5818",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-100",
+      "originalTitle": "【B+树数据页查询】MySQL中查到叶子节点后，怎么在数据页查询具体数据？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5823",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-101",
+      "originalTitle": "【config_db virtual】config_db中为什么加virtual？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5824",
+      "reviewStatus": "needs_review",
+      "reviewNote": "config_db 中的 virtual 未给出语言、声明与代码。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-102",
+      "originalTitle": "【ES应用场景】项目中使用ES，主要用于什么场景？用于解决什么问题？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5825",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-103",
+      "originalTitle": "【key查询优化】按 key 查询慢怎么优化? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5826",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-104",
+      "originalTitle": "【LSM-Tree】知道LSM-Tree嘛？LSM-Tree容易产生什么问题? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5827",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-105",
+      "originalTitle": "【MongoDB选型】为什么不用MongoDB? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5828",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-106",
+      "originalTitle": "【MySQL优化】MySQL是如何优化的，数据量有多少？ 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5829",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-107",
+      "originalTitle": "【MySQL日志】MySQL的undolog，redolog，binlog区别和场景？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5830",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-108",
+      "originalTitle": "【MySQL索引】谈谈MySQL索引的作用，并考虑什么场景下需要建立索引？建立索引需要考虑哪些因素？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5831",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-109",
+      "originalTitle": "【RDB写时复制】讲一下RDB的bgsave写时复制原理 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5832",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-110",
+      "originalTitle": "【RocksDB】知道RocksDB吗? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5833",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-111",
+      "originalTitle": "【SQL查询设计】多个SQL查询文本设计。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5834",
+      "reviewStatus": "needs_review",
+      "reviewNote": "SQL 任务未提供表结构、输入与查询目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-112",
+      "originalTitle": "【SQL能力】SQL能力怎么样，写过的最复杂语句是什么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5835",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-113",
+      "originalTitle": "【主从一致性读】从库还未更新好数据，这时候读，读不到最新数据怎么办？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5836",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-114",
+      "originalTitle": "【主从延迟】主从同步的延迟你了解吗? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5837",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-115",
+      "originalTitle": "【事务宕机恢复】假如数据库事务执行了一半，服务器宕机了，问重新启动后原来的记录会不会发生变化? 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5838",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-116",
+      "originalTitle": "【分页与key分布】只展示前1000，数据是否仍在一个key? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5839",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“前 1000”与“一个 key”未说明数据结构与分页关系。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-117",
+      "originalTitle": "【历史版本记录】历史版本怎么记录? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5840",
+      "reviewStatus": "needs_review",
+      "reviewNote": "历史版本未说明记录对象、更新语义与恢复要求。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-118",
+      "originalTitle": "【字段兼容性】字段变更时如何兼容? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5841",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-119",
+      "originalTitle": "【数据一致性】修改数据时怎么保证数据一致性? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5842",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-120",
+      "originalTitle": "【数据库对比】讲讲Elasticsearch和MySQL数据库的区别，分别适用什么场景。了解MongoDB吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5843",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-121",
+      "originalTitle": "【数据库性能指标】如果做数据库性能评测，都要测哪些指标? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5844",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-122",
+      "originalTitle": "【数据库恢复】记录变更怎么做恢复？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5845",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-123",
+      "originalTitle": "【数据库选型对比】数据库选型，为什么选PostgreSQL不选MySQL? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5846",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-124",
+      "originalTitle": "【正排与倒排索引】如果用正排倒排去用在你这个场景里,有了解过怎么做吗? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5847",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-125",
+      "originalTitle": "【百万级检索优化】如果数据量达到上百万，你怎么解决检索效率问题? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5848",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-126",
+      "originalTitle": "【索引设计】如何设计索引I? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5849",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-127",
+      "originalTitle": "【ES性能调优】Elasticsearch在AI集群日志检索与异常定位中的使用经验；倒排索引在海量训练日志聚合分析中的性能瓶颈及Segment合并调优。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5854",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-128",
+      "originalTitle": "【SQL留存率计算】写一个SQL，表有三列：user_id, action_time, action_type (pay/click/leave)，求7日留存率，用窗口函数写，不准用子查询套子查询。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5855",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未定义首次活跃/新增批次、pay/click/leave 的返回口径，以及 D+7 还是七日内留存。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-129",
+      "originalTitle": "【大表优化】SQL单表数据量10亿，跑不动，怎么办？包括：分库分表设计考虑；分区键选择（业务方非要按天查但底层是小时级分区）；跨库查询；数据分表策略（用户数据不一定落在固定表）；双写一致性（双写失败不一致问题）；数据迁移方案。 「百度、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5856",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-130",
+      "originalTitle": "【库存表设计】12306火车票抢票：一辆火车，100个座位，有三个站（北京、天津、上海），使用MySQL管理火车票库存，这张库存表如何设计？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5857",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-131",
+      "originalTitle": "【隔离级别与一致性】MySQL的隔离级别及在分布式训练任务状态管理中的一致性保障。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5858",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-132",
+      "originalTitle": "【缓存容量】缓存用到了多大? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5870",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-133",
+      "originalTitle": "【LRU淘汰策略】介绍LRU。请说明LRU淘汰策略的原理、实现方式（如双向链表+哈希表）以及Redis中近似LRU的实现。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5875",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-134",
+      "originalTitle": "【Redis与Memcached对比】为什么使用Redis作为缓存而不使用Memcached？请对比Redis和Memcached在数据结构、持久化、集群、功能等方面的差异。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5876",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-135",
+      "originalTitle": "【Redis优势】如果查询MySQL也很快，为什么还用Redis作缓存？请说明Redis相比MySQL作为缓存的优势（内存速度、数据结构、并发能力等）。 「京东、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5877",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-136",
+      "originalTitle": "【Redis应用场景】Redis还能干什么？什么场景用到过Redis？请列举Redis的典型应用场景（如缓存、分布式锁、计数器、消息队列等）并说明具体用法。 「京东、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5878",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-137",
+      "originalTitle": "【String类型使用】用String存储，key是什么？value是什么？请说明Redis String类型的使用场景、常用命令及设计key的规范。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5879",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-138",
+      "originalTitle": "【TTL设置】TTL怎么确定？请说明Redis中TTL的设置方式、过期策略（定期删除、惰性删除）以及如何合理设置TTL。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5880",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-139",
+      "originalTitle": "【主从复制与哨兵】了解主从复制和哨兵模式？请说明主从复制的原理、哨兵模式的功能（监控、自动故障转移）以及两者如何配合使用。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-140",
+      "originalTitle": "【分布式锁】分布式锁的使用场景？请说明Redis实现分布式锁的原理（SETNX、Redlock）、注意事项（死锁、锁超时）及典型应用场景。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5882",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-141",
+      "originalTitle": "【持久化】Redis有哪些持久化方式？请详细说明RDB和AOF的原理、优缺点及适用场景。 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5883",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-142",
+      "originalTitle": "【数据结构对比】Caffeine和Redis中的数据结构分别是什么？请对比两者的数据结构。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5884",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-143",
+      "originalTitle": "【淘汰策略】你选择哪种淘汰策略？请说明Redis支持的淘汰策略（如LRU、LFU、TTL、随机等）及其适用场景，并给出选择建议。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5885",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-144",
+      "originalTitle": "【缓存击穿与雪崩】缓存击穿和缓存雪崩的区别？请说明缓存击穿、缓存穿透、缓存雪崩的定义、原因及解决方案。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5886",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-145",
+      "originalTitle": "【缓存模式】用了什么缓存模式？请说明常见的缓存模式（Cache Aside、Read/Write Through、Write Behind）及其优缺点。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5887",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-146",
+      "originalTitle": "【连接池】为什么Redis也有连接池？请说明Redis连接池的作用、原理及使用注意事项。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5888",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-147",
+      "originalTitle": "【部署模式】Redis部署在哪？是哨兵模式还是主从模式？请说明主从复制和哨兵模式的区别、工作原理及适用场景。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5889",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-148",
+      "originalTitle": "记忆用什么存储? 项目里面Redis存了什么? 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5895",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-149",
+      "originalTitle": "谈谈MySQL、Redis、本地缓存的使用场景。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5897",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-150",
+      "originalTitle": "【LRU淘汰策略】LRU淘汰策略：1. LRU淘汰不看Key有没有TTL，内存满了照淘不误。所以解决思路不是设永不过期？2. 你选了最近最少使用，那么一个刚刚被淘汰的又被查询了，会发生什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5900",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-151",
+      "originalTitle": "【Redis事务】Redis事务：1. (Hash + ZSet方案) 写入时怎么保证Hash和ZSet的原子性？2. Redis中事务的执行机制是什么？事务失败会回滚吗？执行过程中是否会被其他命令插入？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5901",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-152",
+      "originalTitle": "【Redis应用场景】Redis介绍及其在AI训练任务元数据缓存中的适用场景 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5902",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-153",
+      "originalTitle": "【Redis底层优化】Redis底层做了哪些优化？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-154",
+      "originalTitle": "【Redis必要性】如果不用Redis数据库能不能承受？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5904",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-155",
+      "originalTitle": "【ZSet底层实现】Redis ZSet：1. 底层怎么实现？跳表和压缩列表的使用场景是什么？zset查询和B+树查询是否相似？2. 按分数范围查找的时间复杂度？3. 为什么ZSet不直接设计成Hash+链表？4. 只查某个key是否在ZSet里，时间复杂度是多少？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5905",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-156",
+      "originalTitle": "【内存不足处理】如果有很多商品，Redis内存不足了，怎么办？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5906",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-157",
+      "originalTitle": "【布隆过滤器】怎么使用的布隆过滤器，为什么不直接使用zset，而是使用布隆过滤器的位图数组？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5908",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-158",
+      "originalTitle": "【扩容策略】为什么是1.5倍扩容（空间可重用）？为什么是两倍扩容？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5909",
+      "reviewStatus": "needs_review",
+      "reviewNote": "扩容倍数未说明所属容器、实现与版本。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-159",
+      "originalTitle": "【数据库压力衡量】你说使用Redis减轻MySQL数据库的压力，根据什么衡量MySQL数据库压力大小？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5910",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-160",
+      "originalTitle": "【热Key问题】查询量大时，一个Redis key是否可行？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5911",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-161",
+      "originalTitle": "【缓存一致性】缓存数据库一致性。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5912",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-162",
+      "originalTitle": "【缓存兜底策略】缓存被淘汰后怎么兜底：互斥锁只让一个请求查库重建缓存，其余等待；或者加一层本地缓存，Redis兜不住时本地缓存顶上。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5913",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-163",
+      "originalTitle": "【缓存击穿】缓存击穿介绍一下，除了分布式锁还有其他方法解决吗? 项目中写到了解决缓存雪崩问题，那缓存击穿应当怎么防护？ 「京东、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5914",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-164",
+      "originalTitle": "【缓存更新顺序】先更新db还是先更新redis？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5915",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-165",
+      "originalTitle": "【缓存机制】RecyclerView的缓存机制。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5916",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-166",
+      "originalTitle": "【缓存隔离与清理】你们有做缓存隔离或清理机制吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5917",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-167",
+      "originalTitle": "【缓存预热】三级缓存的缓存预热怎么做的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5918",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-168",
+      "originalTitle": "【限流算法】固定窗口，滑动窗口，漏桶算法，令牌桶算法的优缺点是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5919",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-169",
+      "originalTitle": "【分布式锁】Redission 分布式锁 + 看门狗(为什么用、如何续期/释放)。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5924",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-170",
+      "originalTitle": "【大Key与热Key】Redis大Key与热Key问题是什么，在AI任务队列中的表现及拆分、本地缓存、Proxy层限流等解决方案，以及如何优化？ 「京东、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5925",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-171",
+      "originalTitle": "【排行榜设计】在实际应用中，如果我们需要实现一个实时排行榜功能，你会如何利用SortedSet来设计这个功能？请包括客户端上报、MQ缓冲、实时聚合、批量写数据库、Redis ZSet做排行榜，并说明如何做去重。如果排行榜中某个数据的分数发生变化（比如点击量增加了），你会如何更新Sorted Set中的数据以确保排行榜的准确性？ 「美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5926",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-172",
+      "originalTitle": "【缓存一致性】Redis+DB数据一致性如何保证？在多节点部署的情况下，某个节点先更新Redis缓存，再更新自己的本地缓存，其他节点如何知道该更新本地缓存？ 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5927",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-173",
+      "originalTitle": "【缓存层设计】缓存层设计与优化，为什么要把黑白名单逻辑从在线服务抽离到独立的离线缓存层? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5928",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-174",
+      "originalTitle": "【集群扩容】redis的集群扩容机制 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5929",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-175",
+      "originalTitle": "【Kafka基本概念】请介绍Kafka的作用和基本概念。项目里消息队列做什么的？ 「腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5936",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-176",
+      "originalTitle": "【消息队列基础】消息队列相关问题：1. 不用消息队列用定时任务可以吗？对比优缺点。2. 如果本地队列满了会怎么办？处理策略。3. 消息怎么做推送？消息怎么触发？触发机制。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5941",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-177",
+      "originalTitle": "【延迟消息】延迟消息怎么解决？请说明RocketMQ中延迟消息的实现原理（如延迟级别、ScheduleMessageService），以及如何自定义延迟时间。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5946",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-178",
+      "originalTitle": "【消息可靠性保证】如何保证消息不丢失、不重复且发送成功？如果消息丢失怎么办？请从生产者、Broker、消费者三个层面分析，包括ACK机制、持久化、重试、幂等性等。 「腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5947",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-179",
+      "originalTitle": "【消息堆积处理】消息队列的消息堆积了如何处理？请分析堆积原因（如消费能力不足、生产过快），并给出解决方案（如扩容消费者、调整批量大小、优化消费逻辑、使用死信队列等）。 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5948",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-180",
+      "originalTitle": "【消息队列选型对比】为什么不用Redis的消息队列而用RocketMQ？对比Redis消息队列与RocketMQ的适用场景、可靠性、功能特性（如延迟消息、事务消息）等。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5949",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-181",
+      "originalTitle": "【消息队列综合应用】Kafka在AI训练流水线中解耦数据预处理与训练节点的场景题；Kafka消息积压在特征流转场景下的成因，如何从分区扩容、消费并发、下游算力排查？；RocketMQ事务消息原理及如何保证训练任务下发与资源预留的最终一致性？；怎么设计更可靠的消息投递？ 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5954",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-182",
+      "originalTitle": "【Channel】请解释Channel的概念、与消息队列的区别以及如何使用Channel。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5961",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-183",
+      "originalTitle": "【goroutine与线程对比】goroutine 和线程有什么区别？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5962",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-184",
+      "originalTitle": "【volatile】volatile需要加锁吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5963",
+      "reviewStatus": "needs_review",
+      "reviewNote": "volatile 未说明语言与共享操作。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-185",
+      "originalTitle": "【全局锁】多线程处理是否会受到全局锁的影响？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5964",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-186",
+      "originalTitle": "【多线程应用场景】多线程的使用场景？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5965",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-187",
+      "originalTitle": "【并发上传】支持并发上传吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5966",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-188",
+      "originalTitle": "【并发问题】有并发问题吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5967",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-189",
+      "originalTitle": "【生产者消费者模式】使用生产者消费者为了解决什么问题？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5968",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-190",
+      "originalTitle": "【线程创建】父线程和子线程，如何创建子线程? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5969",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-191",
+      "originalTitle": "【线程同步】线程间同步的机制? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5970",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-192",
+      "originalTitle": "【线程池参数】谈谈线程池的核心参数。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5971",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-193",
+      "originalTitle": "【线程间通信】java里面线程之间通信方式？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5972",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-194",
+      "originalTitle": "【锁类型】多线程的锁都有什么？lock和Rlock有什么区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5973",
+      "reviewStatus": "needs_review",
+      "reviewNote": "原题未说明 Lock/Rlock 所属语言或模块，具体 API 的比较范围无法确定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-195",
+      "originalTitle": "【CAS自旋】CAS自旋会导致耗时增加吗？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5978",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-196",
+      "originalTitle": "【goroutine调度】goroutine创建之后会被放到哪里？goroutine是如何被调度执行的？请详细说明其调度机制。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5979",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-197",
+      "originalTitle": "【Handler消息分发】由一个looper创建了多个handler，那么messageQueue如何确定应该交给哪个handler去执行任务？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5980",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-198",
+      "originalTitle": "【ThreadLocal】谈谈ThreadLocal（包括其作用、为什么会内存泄漏、用来存什么类型的数据）。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5981",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-199",
+      "originalTitle": "【乐观锁】乐观锁实现逻辑？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5982",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-200",
+      "originalTitle": "【单例模式】算法:实现一个线程安全的单例模式(构造方法需要被声明为private类型) 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5983",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-201",
+      "originalTitle": "【并发map】Go 的 map 能否并发读写？sync.Map 和普通 map 有什么区别？如果需要并发读写 map，应该怎么做？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5984",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-202",
+      "originalTitle": "【并发安全】如何保证并发安全？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5985",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-203",
+      "originalTitle": "【异步转同步】质疑:把异步改为同步，没有什么性能下降？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5986",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-204",
+      "originalTitle": "【悲观锁】悲观锁代码怎么写？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5987",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-205",
+      "originalTitle": "【无锁方案】有无不加锁的方案？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5988",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明不加锁所替代的操作、共享状态与一致性需求。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-206",
+      "originalTitle": "【死锁】多线程写一个死锁。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5989",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-207",
+      "originalTitle": "【线程与进程选择】如何选择使用线程或进程？父线程和子线程如何创建子线程？如何通信？线程间同步的机制有哪些？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5991",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-208",
+      "originalTitle": "【线程交替打印】手撕代码：两个线程交替打印0-100 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5992",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-209",
+      "originalTitle": "【线程安全】你是如何保证线程安全的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5993",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-210",
+      "originalTitle": "【线程池】讲一下java线程池？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5994",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-211",
+      "originalTitle": "【读写锁】读写锁具体怎么工作？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5995",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-212",
+      "originalTitle": "【锁性能比较】一定比互斥锁要快吗？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5996",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明与互斥锁比较的锁类型。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-213",
+      "originalTitle": "【锁选择】扣减使用乐观锁还是悲观锁？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5997",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-214",
+      "originalTitle": "【锁释放】如果线程执行过程中异常退出，锁一直不释放怎么办？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5998",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-215",
+      "originalTitle": "【信号量】生产者和消费者模型:10个线程需要先执行taskA，然后执行taskB，设计信号量。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6003",
+      "reviewStatus": "needs_review",
+      "reviewNote": "taskA/taskB 未说明是每线程内顺序还是全局屏障，生产消费资源计数也未给出。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-216",
+      "originalTitle": "【多进程通信】在多进程通信中，如何处理高频的规划数据发布？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6004",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-217",
+      "originalTitle": "【并发控制】性能优化、并发控制怎么做？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6005",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-218",
+      "originalTitle": "【并发数据迁移】如果两个线程最坏情况下迁移了同一行数据，怎么避免重复插入？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6006",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-219",
+      "originalTitle": "【无锁队列】平时用什么方式实现线程安全？看我简历上有延迟优化的部分，解释一下无锁队列的实现，解释一下原子序(一般不考，安心)。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6007",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-220",
+      "originalTitle": "【死锁解决】如何利用行为树(Behavior Tree)或状态机来解决“死锁”问题？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6008",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“死锁”未说明是线程资源、机器人规划还是业务流程中的互等。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-221",
+      "originalTitle": "【线程池参数】创建一个线程池后去设置核心线程数和最大线程数的依据是什么？怎么样设置是友好的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6009",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-222",
+      "originalTitle": "【读写锁】基于互斥锁实现读写锁 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6010",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-223",
+      "originalTitle": "【锁过期问题】如果线程不是异常退出，而是任务太慢导致锁过期，被其他线程抢走，会有什么问题？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6011",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-224",
+      "originalTitle": "【高并发方案选择】一个Agent的应用，想接几百个高并发，应该怎么做？是在Python虚拟机这个层面，应该是多线程还是多进程？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6012",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-225",
+      "originalTitle": "【高并发计数器】算法：实现一个支持高并发的计数器（读写锁/LongAdder/CAS自旋） 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6013",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-226",
+      "originalTitle": "【线程池设计】如果你重新设计一个线程池会怎么设计？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6018",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-227",
+      "originalTitle": "【节点间通信】比如有三台电脑，node间可以进行数据传输吗? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6034",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-228",
+      "originalTitle": "【Kubernetes存储】Kubernetes中如何做数据持久化？请解释PV和PVC是什么。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6039",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-229",
+      "originalTitle": "【Kubernetes架构与原理】K8s 架构中 Master 和 Node 节点组件有哪些？K8S 的原理是什么？ 「阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6040",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-230",
+      "originalTitle": "【MapReduce】Mapreduce介绍 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6041",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-231",
+      "originalTitle": "【上下文不足】什么是outstanding? 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6042",
+      "reviewStatus": "needs_review",
+      "reviewNote": "outstanding 未说明对应协议、事务与设备。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-232",
+      "originalTitle": "【云计算基础】请介绍云基础设施服务，包括对云计算的全面了解，如技术迭代情况以及主要玩家有哪些？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6043",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-233",
+      "originalTitle": "【分布式事务】什么是两阶段提交? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6044",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-234",
+      "originalTitle": "【分布式数据库】分布式数据库介绍一下。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6045",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-235",
+      "originalTitle": "【分片策略】可以考虑按照用户ID或者节点分片吗？比如按用户ID取模，所有服务实例用同一套分片规则，读写都根据规则算出该去哪个小Key。 「京东、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6046",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-236",
+      "originalTitle": "【容器使用场景】为什么不每次开个Docker? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6047",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-237",
+      "originalTitle": "【容器编排调度】有做过容器编排/调度吗？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6048",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-238",
+      "originalTitle": "【流量与聚合】流量规模？聚合策略？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6049",
+      "reviewStatus": "needs_review",
+      "reviewNote": "流量未给出单位、聚合对象与时间或空间分组。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-239",
+      "originalTitle": "【消息推送】同步怎么做推送？用户之间的消息怎么推？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6050",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-240",
+      "originalTitle": "【窗口类型】sliding还是tumbling？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6051",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-241",
+      "originalTitle": "【负载均衡】讲一下负载均衡以及有哪几种类型？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6052",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-242",
+      "originalTitle": "【限流算法】限流有哪些常见算法？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6053",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-243",
+      "originalTitle": "【Kubernetes扩展性】K8s 的横向扩展能力，自定义资源。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6058",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“横向扩展”未说明指 API 扩展还是实例扩容。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-244",
+      "originalTitle": "【Kubernetes控制器与Informer】Kubernetes控制器模式，Informer机制原理。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6059",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-245",
+      "originalTitle": "【Kubernetes网络】kube-proxy 的负载均衡机制。 Service 的网络模型。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6060",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-246",
+      "originalTitle": "【Kubernetes调度器】节点亲和性Affinity调度? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6061",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-247",
+      "originalTitle": "【Spark数据倾斜】Spark里面发生数据倾斜怎么办? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6062",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-248",
+      "originalTitle": "【冲突解决】两人同一位置写入不同内容，怎么合并？多人在线编辑如何解决冲突？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6063",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-249",
+      "originalTitle": "【分布式ID生成】详细介绍sid的生成 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6064",
+      "reviewStatus": "needs_review",
+      "reviewNote": "sid 未说明标识契约、来源组件与生成算法。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-250",
+      "originalTitle": "【分布式事务】事务层:四种请求类型，non-post与post的区别? 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6065",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本条 posted/non-posted 按 PCIe 请求关联，原题分类标签为“分布式事务”。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-251",
+      "originalTitle": "【分布式存储】详细解释OSS、NAS和Longhorn是什么，它们之间的异同？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6066",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-252",
+      "originalTitle": "【分布式数据分片与路由】分布式的话KV怎么散列?怎么决定他在哪个节点? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6067",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-253",
+      "originalTitle": "【分布式系统原理】分布式怎么实现？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6068",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“分布式怎么实现”未说明系统对象、操作目标与一致性约束。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-254",
+      "originalTitle": "【分布式锁】为什么使用分布式锁？请结合项目讲一讲分布式锁的使用场景、锁的对象和范围，以及实施方案。分布式锁你是如何使用的？分布式锁的持有最大时间5s和10s怎么决定？第一个请求一直占用这个分布式锁怎么办？ 「京东、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6069",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-255",
+      "originalTitle": "【分片上传】如何保证分片上传后文件的完整性？分片上传之后还会做文件的拼接吗？ 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6070",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-256",
+      "originalTitle": "【分片策略】在按房间ID分片时，主播、主持人和管理员消息无法仅在一个分片内处理，且所有用户room_id相同导致分片失效；若按用户子房间分片，会有什么问题？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6071",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-257",
+      "originalTitle": "【容器运行时】详细解释容器运行时runtime，讲讲docker、containerd、rkt。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6072",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-258",
+      "originalTitle": "【幂等性】如何保证接口的幂等性？例如在重复点赞场景中，通过user+post去重，保证幂等。 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6073",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-259",
+      "originalTitle": "【序列化】下游序列化/反序列化风险？微服务架构中涉及客户端和服务端的通信，避免不了序列化和反序列化，谈谈你项目中用的什么序列化方式，你还了解哪些不同的序列化方式，它们的差异和应用场景有什么不同？ 「京东、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6074",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-260",
+      "originalTitle": "【异常兜底设计】异常兜底怎么设计？已有定时任务兜底，为什么不能用？ 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6075",
+      "reviewStatus": "needs_review",
+      "reviewNote": "异常兜底未说明时效、一致性要求与现有定时任务的失败点。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-261",
+      "originalTitle": "【接口兼容性】把一个 RPC 接口的返回值从 Map 改成 DTO，下游服务会不会出错？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6076",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-262",
+      "originalTitle": "【消息推送】在消息推送场景中，如果有一百万用户，其中千分之一每秒发言（即一千条/秒），用户是否看得完？如果每秒推送一次，仍然要给一百万用户发一遍，怎么办？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6077",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-263",
+      "originalTitle": "【窗口快照修正】窗口结束后如何修正快照？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6078",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-264",
+      "originalTitle": "【网络地址管理】当前做的工作里有没有碰到更先进一些的地址管理或者互联能力？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6079",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-265",
+      "originalTitle": "【重试与熔断】重试熔断机制（固定次数/指数退避）？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6080",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-266",
+      "originalTitle": "【链路追踪】怎样的结构才能更好地追踪整个Trace? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6081",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-267",
+      "originalTitle": "【高并发处理】在大促高并发场景中如何保证响应速度? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6082",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-268",
+      "originalTitle": "【AI服务高可用设计】如何实现AI服务的高可用？请设计超时重试、熔断、降级、幂等机制，并针对风控系统中的单点故障进行预防和降级方案设计。你提到的限流和熔断具体是如何实施的？比如你是基于什么条件触发熔断的？限流的策略又是如何设计的？ 「美团、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6087",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-269",
+      "originalTitle": "【Kubernetes Operator开发】Kubernetes Operator开发经验，如何设计CRD满足业务需求？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6088",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-270",
+      "originalTitle": "【Kubernetes发布与扩缩容】讲讲k8s容灾机制，蓝绿发布、金丝雀发布，自动扩缩容的HPA和VPA等内容。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6089",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-271",
+      "originalTitle": "【Kubernetes调度器】Kubernetes调度器工作原理，如何扩展调度器满足AI负载需求？你需要实现一个带策略权衡的调度器，而不是纯轮询。 「腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6090",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-272",
+      "originalTitle": "【多频率数据对齐】感知、定位、规划分别运行在不同频率(如10Hz，100Hz，20Hz)，如何保证规划模块拿到的时间戳对齐的数据？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6091",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-273",
+      "originalTitle": "【大key拆分一致性】比如有个hash的大key，某个版本拆开后删掉了，那么怎么保证数据的一致性？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6092",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-274",
+      "originalTitle": "【大规模文件分发】有一个10T的大文件，要发到北上广深、美国、德国、新加坡，大概10万台服务器（类似Linux服务器），要发到它的data Workspace目录下，大概怎么处理？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6093",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-275",
+      "originalTitle": "【节点间通信】说一说节点间的通讯吧，如果让你实现节点间的通讯你可能会采取什么样的方式？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6094",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-276",
+      "originalTitle": "【高并发处理】如何在高并发场景下保证一致性？请描述一个你处理过的AI平台高并发问题的案例，以及你的解决方案。 「京东、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6095",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-277",
+      "originalTitle": "【全局参考线地图】介绍一下全局参考线用的地图。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-278",
+      "originalTitle": "【DTO变更影响】Object改成DTO，下游服务会不会炸？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-279",
+      "originalTitle": "【Feed流架构】百度feed流大概架构？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-280",
+      "originalTitle": "【任务库与查询库分离】随着数据量变大，你们有没有考虑把任务库和在线查询库拆开？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6109",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-281",
+      "originalTitle": "【分片上传设计】分片上传为什么选择50mb，理由是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-282",
+      "originalTitle": "【平台系统架构】平台整体系统架构组成 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-283",
+      "originalTitle": "【拉取与推送对比】在这种大流量场景下，客户端拉取和服务端推送各有什么优缺点？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-284",
+      "originalTitle": "【搜索请求处理流程】假设在百度网页上输入一个词，点了一下搜索，从点击开始到结果出来，中间会经历哪些过程？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-285",
+      "originalTitle": "【模块间协议设计】各个模块之间的协议是怎么设计的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-286",
+      "originalTitle": "【系统搭建方法】现有“积木”已经有了，系统该怎么搭？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6117",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“积木”缺少组件能力、接口与目标任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-287",
+      "originalTitle": "【系统瓶颈分析】怎么分析系统瓶颈？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-288",
+      "originalTitle": "【设计选择理由】你更倾向于使用哪种设计？为什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6120",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未提供待比较的设计方案与约束。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-289",
+      "originalTitle": "【跨Session日志记录】跨Session是否需要记录日志系统？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6121",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-290",
+      "originalTitle": "设计一个系统，支持精确查询（如指定post过去一分钟的点赞数）和近似热门榜（如全局Top-K、按region的Top-K）。要求：精确查询必须准确，热门榜可以近似。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-291",
+      "originalTitle": "设计系统支持：指定post过去一分钟的点赞数、全局Top-K、按region的Top-K。要求精确查询准确，热门榜可以近似。请给出数据模型、存储方案、计算逻辑和接口设计。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-292",
+      "originalTitle": "【TUI视频剪辑工具分层架构】如果让你开发一个带TUI界面的交互式视频剪辑工具(MVP版)，你会怎么设计分层架构？请描述各层职责（如UI层、业务逻辑层、数据层）、模块划分和交互流程。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-293",
+      "originalTitle": "【分段设计问题分析】如果从北京到新疆，分成一百个段，按照你的设计（如视频剪辑或聊天系统），会有什么问题呢？请分析分段带来的延迟、一致性、上下文丢失等问题，并提出解决方案。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6132",
+      "reviewStatus": "needs_review",
+      "reviewNote": "分段类比未说明对应的系统对象与原有设计。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-294",
+      "originalTitle": "【大模型接口重试与降级】你在项目里遇到过大模型接口调用超时或限流的问题吗？怎么设计重试与降级机制？请详细说明重试策略（如指数退避、最大重试次数）、降级方案（如返回缓存结果、默认值、提示用户）以及如何保证用户体验。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-295",
+      "originalTitle": "【子房间与上下文分片】在聊天系统或视频剪辑工具中，可以设计子房间吗？如何通过分片控制每个用户看到的上下文？请设计子房间的分片策略，确保用户只看到相关上下文。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-296",
+      "originalTitle": "【实时排行榜设计】场景题：要做一个实时的歌曲播放量排行榜，怎么设计服务端？请考虑实时性、准确性、可扩展性，包括数据采集、存储、计算和展示方案。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6135",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-297",
+      "originalTitle": "【性能成本可维护性平衡】如何平衡系统的性能、成本和可维护性？请从架构设计、技术选型、运维策略等方面阐述，并给出具体例子。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-298",
+      "originalTitle": "【点对点聊天系统架构】设计点对点聊天系统架构，包括用户注册、登录、好友管理、消息发送与接收、离线消息处理、消息存储等模块。要求支持高并发、低延迟、可靠传输。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-299",
+      "originalTitle": "【自动周报系统设计】设计一个自动周报系统，每周自动整理工作周报并发送到老板邮箱。要求：1）分成至少5个子任务；2）指出哪些子任务需要人工参与，哪些是全自动的；3）如果用户这周没有记录，如何处理这种异常？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-300",
+      "originalTitle": "【限流熔断用户体验保障】在限流和熔断的过程中，如何确保用户体验不会受到过多影响？比如，当用户触发现流或熔断时，你是否设计了备用方案或降级策略？如果有，能具体讲讲是怎么实现的吗？请详细说明降级策略（如返回缓存数据、简化功能、排队等待）和用户体验保障措施。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-301",
+      "originalTitle": "【高并发服务能力】一个并发量比较高的to C业务场景，你的服务应该具备哪些能力？请从高并发、高可用、可扩展、安全性等方面阐述。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6140",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-302",
+      "originalTitle": "【AI Coding系统设计】设计一个AI Coding系统。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-303",
+      "originalTitle": "【多端App Demo设计】设计一个千问App的demo，支持Web端、Android端、iOS端。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-304",
+      "originalTitle": "【实时多模态数据流架构】当需要处理实时多模态数据流时，你的架构设计思路是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-305",
+      "originalTitle": "【实时音视频传输系统】请设计一个实时音视频传输系统，说明其关键技术和挑战？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6148",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-306",
+      "originalTitle": "【智能客服系统架构】设计一个企业内部的智能客服系统，支持多产品线知识库隔离、多租户权限控制，以及回答质量的可观测性监控，请描述整体架构。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6149",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-307",
+      "originalTitle": "【百万级直播间评论系统】设计一个支持百万级用户同时在线的直播间的评论系统。怎么做消息推送？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6150",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-308",
+      "originalTitle": "【群聊系统设计】设计万人级群聊系统。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-309",
+      "originalTitle": "【高并发大模型推理服务架构】设计一个高并发的大模型推理服务（日活百万级），画架构图。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-310",
+      "originalTitle": "amend的作用 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-311",
+      "originalTitle": "golang平时写的多吗? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6164",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-312",
+      "originalTitle": "java掌握到什么程度? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6166",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-313",
+      "originalTitle": "Lua里面那个你用的主要是用哪几个命令？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6167",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题询问实际使用的 Lua 命令，来源未指定 Redis 环境。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-314",
+      "originalTitle": "系统用了什么语言? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-315",
+      "originalTitle": "【C++ const】const关键字 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6176",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-316",
+      "originalTitle": "【C++ STL容器】C++里STL库有哪些常用容器？对STL熟悉吗？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-317",
+      "originalTitle": "【C++能力】了不了解C++，能不能快速的复习重新掌握？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-318",
+      "originalTitle": "【Python元组与列表】Python 元组和列表的区别和相同点？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6181",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-319",
+      "originalTitle": "【命名规范】在命名布尔值变量时，哪种命名方式更好？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6182",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未提供待比较的布尔变量名称。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-320",
+      "originalTitle": "【编程语言熟悉度】优化方法是什么编程语言？会Java吗？会不会C++和Java？写过C++吗？你平常使用什么编程语言？主语言是Python吗？你最熟悉的语言是哪一个？ 「字节Seed、拼多多、百度、美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6183",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-321",
+      "originalTitle": "【Activity启动模式】Activity的四种启动模式：standard、singleTop、singleTask、singleInstance。请分别说明其特点和应用场景。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-322",
+      "originalTitle": "【Android Context】ApplicationContext和ActivityContext的不同和应用场景。ApplicationContext生命周期与应用进程一致，适合全局操作；ActivityContext与Activity绑定，适合UI相关操作。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6189",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-323",
+      "originalTitle": "【C++11新特性】C++11中的新特性有哪些？包括auto、decltype、nullptr、范围for、lambda表达式、右值引用、移动语义、智能指针、unordered容器、正则表达式等。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6190",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-324",
+      "originalTitle": "【C++ const与constexpr】const和constexpr的区别。const表示变量不可修改，但初始化可以在运行时；constexpr表示常量表达式，必须在编译期求值，用于优化和模板元编程。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6191",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-325",
+      "originalTitle": "【C++ static】C++ static关键字的用法：静态局部变量（生命周期延长）、静态全局变量/函数（文件作用域）、静态成员变量（类内声明，类外定义，所有对象共享）、静态成员函数（无this指针，只能访问静态成员）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6192",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-326",
+      "originalTitle": "【C++与Java对比】C++与Java有什么不同？多态方面：C++支持编译时多态（函数重载、模板）和运行时多态（虚函数），Java支持重载和重写（虚方法默认）。其他区别：内存管理、指针、继承机制等。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6193",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-327",
+      "originalTitle": "【C++与Python对比】C++与Python有什么不同？请从内存管理、智能指针等方面进行说明。C++手动管理内存，Python自动垃圾回收；C++有智能指针（shared_ptr, unique_ptr, weak_ptr），Python无指针概念；C++编译型，Python解释型；C++性能高，Python开发快。 「美团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6194",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-328",
+      "originalTitle": "【C++临时对象】C++临时对象产生的时机：值传递参数、函数返回对象、类型转换、表达式求值（如a+b返回临时对象）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-329",
+      "originalTitle": "【C++关键字】C++关键字volatile/const/mutable/explicit的作用。volatile防止编译器优化，每次从内存读取；const定义常量；mutable允许在const成员函数中修改；explicit防止隐式转换。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6196",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-330",
+      "originalTitle": "【C++内存分区】C++内存分区：栈（局部变量）、堆（动态分配）、全局/静态区（全局变量、静态变量）、常量区（字符串常量）、代码区（函数代码）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-331",
+      "originalTitle": "【C++多态】C++多态怎么实现？C++多态分为编译时多态（函数重载、模板）和运行时多态（虚函数）。运行时多态通过虚函数表（vtable）实现：基类指针或引用调用虚函数时，根据实际对象类型动态绑定。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-332",
+      "originalTitle": "【C字符串函数】strcpy函数和strncpy函数的区别？哪个函数更安全？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6199",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-333",
+      "originalTitle": "【C++引用与指针】引用和指针的区别？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6200",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-334",
+      "originalTitle": "【C++性能】C++为什么偏底层，为什么你觉得C++快？C++直接操作内存，无运行时开销（如垃圾回收），零开销抽象，编译优化，适合系统编程。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-335",
+      "originalTitle": "【C++指针与常量】常量指针和指针常量的区别？请解释指针常量、常量指针以及常指针常量的概念。 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6202",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-336",
+      "originalTitle": "【C++指针与智能指针】C++中，指针和智能指针的区别？原始指针需手动管理内存，易泄漏；智能指针自动管理生命周期：unique_ptr独占所有权，shared_ptr共享所有权（引用计数），weak_ptr弱引用避免循环引用。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6203",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-337",
+      "originalTitle": "【C++智能指针】C++智能指针：shared_ptr（引用计数）、unique_ptr（独占所有权）、weak_ptr（弱引用，避免循环引用）。使用make_shared/make_unique创建。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-338",
+      "originalTitle": "【C++模板】C++模板：函数模板和类模板，支持泛型编程。模板特化、偏特化，模板元编程。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6205",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-339",
+      "originalTitle": "【C++类型转换】C++中四种强制类型转换（static_cast、dynamic_cast、const_cast、reinterpret_cast）分别是什么？它们与C语言类型转换的区别是什么？为什么要用static_cast而不用C语言中的转换？static_cast用于相关类型转换，编译时检查；dynamic_cast用于多态类型向下转换，运行时检查；const_cast去除const属性；reinterpret_cast用于不相关类型转换。C风格转换过于强大，易出错。static_cast更安全，意图明确。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6206",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-340",
+      "originalTitle": "【C++编译链接】C++编译链接流程：预处理（宏展开、头文件包含）、编译（生成汇编）、汇编（生成目标文件）、链接（合并目标文件和库，生成可执行文件）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6207",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-341",
+      "originalTitle": "【C++虚析构函数】C++的虚析构函数是什么？当基类指针指向派生类对象时，通过基类指针删除对象，若析构函数非虚，则只调用基类析构，导致派生类资源泄漏。虚析构函数确保正确调用派生类析构。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6208",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-342",
+      "originalTitle": "【Git rebase】git rebase的作用 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-343",
+      "originalTitle": "【Go defer】Go 语言中 defer 是什么时候执行的？多个 defer 的执行顺序是怎样的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-344",
+      "originalTitle": "【Go GC】Go 的垃圾回收机制是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6211",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-345",
+      "originalTitle": "【Java equals与hashCode】重写String的equals方法，通常还会重写一个方法是什么，为什么要重写hashcode()？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6212",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-346",
+      "originalTitle": "【Java字符串对象】String a = new String(\"abc\")会生成几个对象？String a = new String(\"abc\") String b = new String(\"abc\")对于这个，a==b? a.equals(b)? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6213",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-347",
+      "originalTitle": "【JVM GC】JVM垃圾回收机制 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6214",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-348",
+      "originalTitle": "【JVM监控】如何查看JVM进程的内存占用？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6215",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-349",
+      "originalTitle": "【JVM跨平台】JVM跨平台原理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-350",
+      "originalTitle": "【MyBatis vs MyBatis-Plus】mybatis和mybatisplus版本的区别 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-351",
+      "originalTitle": "【new vs malloc】new和malloc的区别？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-352",
+      "originalTitle": "【Python GIL】Python全局解释器锁（GIL）是什么？请解释其作用及对多线程的影响。为什么要有GIL？Python多线程是否了解？为什么说Python的多线程比较鸡肋？ 「字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6219",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-353",
+      "originalTitle": "【Python装饰器】Python装饰器作用。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6220",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-354",
+      "originalTitle": "【RAII】RAII原则和应用 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6221",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-355",
+      "originalTitle": "【ROS】ROS1和ROS2的区别是什么？ROS中的节点和话题是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-356",
+      "originalTitle": "【static关键字】static的用法是什么？关键字static修饰局部变量和全局变量的含义有什么不同？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6223",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-357",
+      "originalTitle": "【std::vector扩容】C++中std::vector的扩容机制是怎样的？当size()==capacity()时，分配新内存（通常为原容量的1.5或2倍），将原元素移动或拷贝到新内存，释放旧内存。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6224",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-358",
+      "originalTitle": "【this指针】介绍this指针。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6225",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-359",
+      "originalTitle": "【内存管理】堆内存和栈内存的区别？用pointer定义一个类型A，它是放在堆上还是栈上？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-360",
+      "originalTitle": "【单例模式】什么情况下用饿汉式，什么情况下用懒汉式？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6227",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-361",
+      "originalTitle": "【多态】多态指的是什么？它是如何实现的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-362",
+      "originalTitle": "【宏计时】timing宏的计时原理是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6229",
+      "reviewStatus": "needs_review",
+      "reviewNote": "timing 宏未给出定义、计时范围与目标平台。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-363",
+      "originalTitle": "【智能指针】介绍智能指针。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-364",
+      "originalTitle": "【架构模式对比】MVP、MVVM对比MVC的理解。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-365",
+      "originalTitle": "【编译过程】介绍编译过程，包括编译分哪些步骤？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6232",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-366",
+      "originalTitle": "【虚函数】虚函数、纯虚函数、虚析构函数的概念及使用场景。什么时候声明纯虚函数？什么时候使用普通虚函数而不是纯虚函数？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6233",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-367",
+      "originalTitle": "【设计模式分类】设计模式使用过嘛，设计模式的三大类是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-368",
+      "originalTitle": "【语言对比】对比一下C++和Python的区别？每个语言的优劣势？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-369",
+      "originalTitle": "【C++ atomic】C++ atomic如何实现的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-370",
+      "originalTitle": "【C++ vector内存管理】简单说说Vector的内存管理逻辑？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-371",
+      "originalTitle": "【C++值类别与移动语义】左值&右值&左值引用&右值引用&move。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-372",
+      "originalTitle": "【C++协程】C++20协程是有栈还是无栈？C++协程(Coroutine)的特点是什么？C++协程有栈和无栈的区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-373",
+      "originalTitle": "【C++多态】C++多态分静态多态和动态多态两种，静态多态一般是指函数重载，其实奇异递归模版CRTP也可看做一种静态多态，动态多态是靠虚函数实现的。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6244",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-374",
+      "originalTitle": "【C++标准库】std forward，move，enable if各有什么作用？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-375",
+      "originalTitle": "【C++模板特化】模板实例化、特例化、偏特化的概念。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6246",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-376",
+      "originalTitle": "【C++重写与C语言调用】说一下重写，c语言中有重写吗？换句话说，你知道在c++中调用c语言用什么声明吗？编译的时候怎么处理重写的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6247",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源混用“重写”、重载及 C/C++ 语言链接，比较对象不明确。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-377",
+      "originalTitle": "【Go空结构体用途】空结构体 struct{} 还有什么用途？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-378",
+      "originalTitle": "【Java GC原理】请你解释一下垃圾回收机制 GC 的基本原理，以及它在 Java 中的作用是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6249",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-379",
+      "originalTitle": "【JVM参数调优】有没有调整过JVM参数？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6250",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-380",
+      "originalTitle": "【JVM类加载机制】怎么把class文件加载到jvm中？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-381",
+      "originalTitle": "【MFC消息处理】MFC消息处理如何封装的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-382",
+      "originalTitle": "【Python GIL】GIL设计的初衷是什么，源码是否了解？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6253",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-383",
+      "originalTitle": "【Python并发编程】Python工程相关(异步/多线程/多进程)经验？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-384",
+      "originalTitle": "【ThreadLocal】ThreadLocal内存泄露 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-385",
+      "originalTitle": "【volatile关键字】volatile关键字在嵌入式中的用法及为什么要加volatile关键字？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-386",
+      "originalTitle": "【事件分发】事件分发机制有了解嘛，嵌套的事件拦截怎么写（比如说子组件消费滑动100px后，父组件来继续消费）？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6257",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-387",
+      "originalTitle": "【代码质量】你如何保证代码质量和可维护性？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6258",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-388",
+      "originalTitle": "【写屏障】写屏障是为了解决什么问题？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6259",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“写屏障”未说明指 GC 引用更新屏障还是内存写入排序屏障。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-389",
+      "originalTitle": "【单例模式】单例模式实现：1. 延迟加载（懒汉式）2. 双重校验锁（DCL）3. 静态内部类。手撕代码。追问：synchronized锁一个静态变量可以吗？getInstance方法用static修饰，锁的是什么？第一个if去掉可以吗？第二个if去掉可以吗？为什么要用volatile修饰单例变量？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-390",
+      "originalTitle": "【单元测试Mock】单元测试中的mock是怎么实现的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-391",
+      "originalTitle": "【左值右值】介绍左值、右值、万能引用和完美转发。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-392",
+      "originalTitle": "【异常安全】业务异常导致remove未执行，怎么确保业务抛异常不会阻止remove？如果业务逻辑抛出异常，会不会导致最后的remove没有执行？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-393",
+      "originalTitle": "【智能指针】智能指针：1. shared_ptr引用计数用什么数据结构实现？可以用static变量吗？可以用int类型吗？shared_ptr何时析构？2. 智能指针是否是线程安全的？vector原理？3. 智能指针有哪些？shared_ptr和unique_ptr使用场景，如何避免循环引用（weak_ptr作用），weak_ptr中如何调用shared_ptr？两个指针引用计数永不下降为0的情况叫什么？4. shared_ptr引用计数可以用int类型吗？ 「字节跳动、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6264",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-394",
+      "originalTitle": "【编程语言选择】你认为公司或者一个项目会出于什么考虑去选择编程语言？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-395",
+      "originalTitle": "【编译优化】编译期优化的一些方法？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6266",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-396",
+      "originalTitle": "【虚函数表】虚函数表：1. 如何确定目标虚函数在虚表中的位置？2. 虚函数表存放在哪里，怎么管理，每个类一个吗？多继承情况下的虚函数表是怎样的？3. 解释virtual的原理。 「字节跳动、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6267",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-397",
+      "originalTitle": "【迭代器失效】容器内部删除一个元素，erase迭代器失效问题。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-398",
+      "originalTitle": "【C++内存操作风险】成员函数里memset(this, 0, sizeof(*this))会发生什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-399",
+      "originalTitle": "【GC排查】GC严重需要如何排查？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-400",
+      "originalTitle": "【Java并发】从hashmap问到concurrentHashmap问到红黑树问到锁，问到CAS问到volatile问到内存屏障。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6275",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文只记追问主题，未给具体断言或代码要求；本条仅关联这些已明确的机制。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-401",
+      "originalTitle": "【Python GIL】讲一下Python的GIL机制，在I/O密集和CPU密集的大模型任务里分别会有什么影响？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-402",
+      "originalTitle": "【垃圾回收器】你如何理解垃圾回收器的选择对性能的影响？比如在什么情况下会选择使用 G1 收集器而不是 CMS 收集器？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-403",
+      "originalTitle": "【运维经验】有运维的经验吗? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-404",
+      "originalTitle": "【API兼容性】API兼容性? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-405",
+      "originalTitle": "【Docker Compose】docker-compose? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6290",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-406",
+      "originalTitle": "【文档系统对比】为什么选notion呢？它和其他的文档系统比，你觉得好在哪里？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6291",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5644-407",
+      "originalTitle": "【Docker与推送策略】1. Docker容器刷盘策略：请解释Docker容器的刷盘策略（如fsync、数据持久化、存储驱动对刷盘的影响等）。 2. 推送策略：在数据传输或日志推送中，是采用每字符推送还是分块推送？请比较两种方式的优缺点及适用场景。 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6296",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

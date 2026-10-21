@@ -1,0 +1,151 @@
+{
+  "id": "COL-AIGC-FOUNDATION-CPP-02",
+  "publisherId": "PUB-WETHINKIN",
+  "sourceKind": "curated_question_set",
+  "title": "AIGC Interview Book · C和C++实战及经典考点",
+  "coverage": [
+    "ai_engineering",
+    "software",
+    "coding"
+  ],
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题与工程练习。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-001",
+      "originalTitle": "1.C++中什么是大端、小端？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-002",
+      "originalTitle": "2.重载函数是否能够通过函数返回值的类型不同来区分？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-003",
+      "originalTitle": "3.在C++ 程序中调用被C 编译器编译后的函数，为什么要加extern “C”？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-004",
+      "originalTitle": "4.进程间如何通信？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L39",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-005",
+      "originalTitle": "5.在网络编程中涉及并发服务器，使用多进程与多线程的区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L47",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-006",
+      "originalTitle": "6.map的底层原理是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L54",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-007",
+      "originalTitle": "7.socket与其他通信方式有什么不同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L61",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-008",
+      "originalTitle": "8.TCP和UDP的区别是什么，TCP什么时候会重传？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-009",
+      "originalTitle": "9.map和unordered_map了解吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L85",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-010",
+      "originalTitle": "10.hashmap和map的区别，底层数据结构算法是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L97",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-011",
+      "originalTitle": "11.介绍一下红黑树",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-012",
+      "originalTitle": "12.介绍一下hash",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-013",
+      "originalTitle": "13.介绍一下二叉树",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L149",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-014",
+      "originalTitle": "14.编程实现LRU",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-015",
+      "originalTitle": "15.编程实现memcopy",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L249",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-016",
+      "originalTitle": "16.在AI行业中，C/C++编程中的动态库和静态库的含义是什么？两者之间什么差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-017",
+      "originalTitle": "17.如何用C++设计一个AI推理SDK的核心接口？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L393",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-018",
+      "originalTitle": "18.C++动态库插件化如何支持多后端推理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L430",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-019",
+      "originalTitle": "19.C++与Python如何通过pybind11、ctypes、C API协作？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-020",
+      "originalTitle": "20.C++高性能网络服务如何支撑LLM推理和流式输出？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L499",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-021",
+      "originalTitle": "21.CMake、ABI兼容和依赖管理在AI SDK交付中为什么重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L521",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-FOUNDATION-CPP-02-022",
+      "originalTitle": "22.C++ AI服务如何用gdb、ASan、Valgrind、perf排查问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md#L550",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,990 @@
+{
+  "id": "COL-ZERO2AGENT-TRAINING-AND-DATA",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · 训练、数据与模型优化：从数据清洗到 LoRA",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training",
+    "career"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-001",
+      "originalTitle": "预训练数据清洗方法？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-002",
+      "originalTitle": "自动标注系统的主要难点是什么？如何设计模型预标注、置信度分流和人工复核闭环？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-003",
+      "originalTitle": "构造数据集遇到过什么难点，怎么解决？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L78",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-004",
+      "originalTitle": "SFT 数据字段如何映射？instruction 与 input 重叠时如何定义清洗和拼接契约？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-005",
+      "originalTitle": "训练数据标注粒度应该越细越好还是按任务适配？如何权衡成本、信息量和泛化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-006",
+      "originalTitle": "Agent 工具调用怎么训练？训练集该包含什么？数据怎么来？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L164",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-007",
+      "originalTitle": "DPO、PPO、GRPO 的区别和优缺点？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-008",
+      "originalTitle": "微调方法有哪些？LoRA 和全参数微调的区别？怎么选？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L350",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-009",
+      "originalTitle": "给定时间序列，如何用 ML 筛选特征，再基于规则建模？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-010",
+      "originalTitle": "XGBoost 相比单棵决策树，在目标函数、正则和集成机制上做了什么改进？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L455",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-011",
+      "originalTitle": "kernel 级别的优化，比如用 CUTE DSL 或手写 CUDA 做 fusion？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-012",
+      "originalTitle": "手撕 Multi-Head Attention",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L510",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-013",
+      "originalTitle": "常用解决过拟合的方法？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-014",
+      "originalTitle": "位置编码的作用是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L616",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-015",
+      "originalTitle": "LayerNorm 和 BatchNorm 的区别？应用场景？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L641",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-016",
+      "originalTitle": "绝对位置编码和相对位置编码的区别？应用场景有什么不同？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L682",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-017",
+      "originalTitle": "大模型推理加速技术有哪些？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L712",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-018",
+      "originalTitle": "多模态是怎么实现的？图片怎么编码？消耗很大怎么缩减 token 使用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L769",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-019",
+      "originalTitle": "有没有了解过端侧部署的模型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L828",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-020",
+      "originalTitle": "OCR、多模态模型、YOLO 与 ONNX 分别处于任务、模型和运行时哪个层次？如何组合？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L861",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-021",
+      "originalTitle": "你了解哪些多模态大模型？各自的特点？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L898",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-024",
+      "originalTitle": "Transformer 中梯度消失/爆炸是怎么解决的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1040",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-025",
+      "originalTitle": "在 Agent 多轮对话任务中，标准 Attention 机制的平方复杂度在工程落地上主要引发了哪些问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1086",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-026",
+      "originalTitle": "Token 过长导致的 Attention 稀释现象为什么会导致 Agent 的指令遵循能力下降？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-027",
+      "originalTitle": "SFT、蒸馏、GRPO 的技术选型——什么时候用什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-028",
+      "originalTitle": "GRPO 的 Loss 函数、Advantages 计算与信用分配机制",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-029",
+      "originalTitle": "vLLM 的 PagedAttention 原理是什么？解决了什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-030",
+      "originalTitle": "DP、DDP、TP、PP——分布式训练并行策略的区别与选型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1501",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-031",
+      "originalTitle": "设计一个训练集构建方案——500 条样本覆盖 200+ 查询模式，如何设计数据生产流？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1574",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-032",
+      "originalTitle": "GQA 和 MLA 的原理是什么？各自解决什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1689",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-033",
+      "originalTitle": "什么是灾难性遗忘？微调时如何缓解？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-034",
+      "originalTitle": "Token 和字符有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1772",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-036",
+      "originalTitle": "BF16 与 FP32 精度差异及训练推理选型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1858",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-038",
+      "originalTitle": "MoE 架构下为什么参数量大但单 Token 推理成本不一定高？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L1961",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-039",
+      "originalTitle": "模型推理慢，排查思路是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2002",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-040",
+      "originalTitle": "QLoRA 的核心设计思想是什么？和标准 LoRA 有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2052",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-041",
+      "originalTitle": "垂直领域指令微调后，模型通用能力出现退化，怎么解决？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2097",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-042",
+      "originalTitle": "Agent 在细分场景（比如法律、医疗）落地时，微调策略和通用场景有什么不同？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2144",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-043",
+      "originalTitle": "超长上下文是怎么实现的？（如 Kimi 这类模型）",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2174",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-044",
+      "originalTitle": "为什么要通过微调模型来做代码生成？为什么不用纯 Prompt 或 Spec Coding？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-045",
+      "originalTitle": "外部模型参数更大，14B 在 Agent 层面会不会不够？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-046",
+      "originalTitle": "对 Rerank 模型进行了蒸馏，蒸馏的数据是什么样的？训练数据大概有多少条？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-047",
+      "originalTitle": "BERT 和 GPT 架构的区别是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-048",
+      "originalTitle": "为什么现在的大模型都是 Decoder-only 架构？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2358",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-049",
+      "originalTitle": "如果训练一个 AI Coding Agent，是端到端训练还是分阶段训练？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-050",
+      "originalTitle": "客服 Agent 的奖励函数有 Reward Hacking、稀疏、区分度太大（只有完全正确和错误）三个问题，请设计新的 reward 解决至少两个。",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2436",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-051",
+      "originalTitle": "多轮 Agent 的 RL reward 怎么设计？Turn 级信用分配怎么做？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-052",
+      "originalTitle": "多轮对话 Agent 没有现成对话数据，如何从 UI 操作流合成 SFT 训练语料？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-053",
+      "originalTitle": "Transformer 的整体架构、核心模块与实现流程是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-054",
+      "originalTitle": "训练后量化的完整流程是什么？粒度、校准方法和离群值如何共同影响精度？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2564",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-055",
+      "originalTitle": "GPTQ、AWQ、SmoothQuant 与 AdaQuant 的核心思路有什么不同？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2582",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未将 AdaQuant 绑定到具体论文或库。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-056",
+      "originalTitle": "为什么 Step-level SFT 之后再进行 GRPO，通常比直接从基座模型开始做 GRPO 稳定？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2600",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-057",
+      "originalTitle": "预训练与 SFT 在数据、目标函数、计算形态和基础设施上有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2647",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-058",
+      "originalTitle": "LoRA 应该挂在哪些层？rank、alpha 和 dropout 如何共同影响效果？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2670",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-059",
+      "originalTitle": "Transformer 自注意力机制的原理、计算过程与作用是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2688",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-060",
+      "originalTitle": "GRPO 中相对奖励是如何计算的？同一组奖励方差接近零时如何处理？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2702",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-061",
+      "originalTitle": "Agent 交互轨迹与普通语言模型语料有什么区别？如何仿真高质量轨迹？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2751",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-062",
+      "originalTitle": "Agentic CPT、SFT、RL 三阶段分别训练什么能力？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2769",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-063",
+      "originalTitle": "Agentic RL 与普通 LLM RL 的核心差异是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2796",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-064",
+      "originalTitle": "长时序任务中的 Agent RL 为什么容易训练失稳？如何缓解？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2808",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-065",
+      "originalTitle": "DAPO 为什么可以不使用额外 KL 惩罚？它如何维持策略更新稳定？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2827",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-066",
+      "originalTitle": "SFT 训练数据如何获取、构造与清洗？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2846",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-067",
+      "originalTitle": "Tool-use 强化学习中的内容奖励应如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2864",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-068",
+      "originalTitle": "KV Cache Block 的哈希和逻辑到物理映射应该怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2886",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-069",
+      "originalTitle": "Agentic RL 数据筛选为什么会排除部分学生错误轨迹？哪些可恢复错误反而值得保留？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2905",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-070",
+      "originalTitle": "Tool-use SFT 训练时，长轨迹采用截断、切分还是掩码？如何避免破坏工具依赖关系？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2930",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-071",
+      "originalTitle": "Tool-use 轨迹长度与任务复杂度有什么关系？训练数据应如何分布？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2971",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-072",
+      "originalTitle": "多工具调用存在依赖关系时，Reward 应如何做信用分配？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L2996",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-073",
+      "originalTitle": "训练实验如何对 YAML 配置做规范化哈希，并保证单变量变化可复现？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3025",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-074",
+      "originalTitle": "如何训练模型做高精度抽取式摘要？数据、目标、Loss 和评测如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3043",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-075",
+      "originalTitle": "LSTM 的核心设计原理是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3072",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-076",
+      "originalTitle": "业界通常如何处理长视频理解？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3087",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-077",
+      "originalTitle": "GRPO 训练如何优化并提升稳定性？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-078",
+      "originalTitle": "Agentic CFT 与 SFT、RL 的目标有何不同？为什么训练时要 Mask Observation Token？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3116",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明 Agentic CFT 的缩写全称。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-079",
+      "originalTitle": "如何处理训练数据中的类别不平衡？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-080",
+      "originalTitle": "决策任务的 label 如何定义？预测任务如何设计监督信号？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3148",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-081",
+      "originalTitle": "为什么选择 AC 自动机、TextCNN、FastText 和 TinyBERT，而不是更深的模型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-082",
+      "originalTitle": "OCR 系统的主要技术难点有哪些？如何分别解决？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3174",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-083",
+      "originalTitle": "OPD（On-Policy Distillation）是什么？与强化学习有什么关系，对教师模型有什么要求？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3190",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-084",
+      "originalTitle": "VLA 和 ViT 的原理分别是什么？二者在视觉语言动作模型中的关系是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-085",
+      "originalTitle": "大模型温度参数的作用是什么？实际使用时如何选择？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-086",
+      "originalTitle": "Prompt Engineering 与模型微调如何结合以提升模型能力？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3232",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-087",
+      "originalTitle": "大模型架构近年来有哪些主要演进方向？各类结构变化解决了什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-088",
+      "originalTitle": "训练大模型时最困难的环节是什么？如何识别数据、优化和工程瓶颈？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3264",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-089",
+      "originalTitle": "监督学习、无监督学习与强化学习分别以什么作为训练信号？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-090",
+      "originalTitle": "多轮对话 RL 如何设计过程奖励与终局奖励，并避免用户模拟器过拟合？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-091",
+      "originalTitle": "为什么 SFT 后继续做 DPO/PPO 等偏好优化可能导致基础能力退化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-092",
+      "originalTitle": "Agent 动作空间过大导致探索低效时，如何裁剪和分层？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3330",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-093",
+      "originalTitle": "TTS 音频如何被离散化为 Token，语义与音色信息如何取舍？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-094",
+      "originalTitle": "LLaMA-Factory 和 TRL 等 SFT / RL 工具如何对比和选型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3358",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-095",
+      "originalTitle": "自研自动驾驶方法与 UniAD 的主要区别应如何比较？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3374",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给出自研自动驾驶方法的细节或所比较的 UniAD 版本。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-096",
+      "originalTitle": "如何把“减速多少”映射为是否碰撞的风险？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-097",
+      "originalTitle": "LightGBM 和 XGBoost 有什么区别，如何选型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3398",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-098",
+      "originalTitle": "树模型需要哪些特征工程？缺失值、初始化、默认值和分桶怎么处理？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3410",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-099",
+      "originalTitle": "连续特征离散化有什么作用和代价？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-100",
+      "originalTitle": "机器学习、LSTM 和大语言模型之间是什么关系？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3434",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-101",
+      "originalTitle": "使用大模型生成标签时，会遇到哪些问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3446",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-102",
+      "originalTitle": "交叉熵损失的数学形式和含义是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3458",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-103",
+      "originalTitle": "若真实标签分布为 P、预测分布为 Q，KL 散度如何表示？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-104",
+      "originalTitle": "图召回主要解决什么问题？如何划分负责环节？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3482",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-105",
+      "originalTitle": "为什么用图召回，而不是用户—物品行为模型、矩阵分解或双塔模型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-106",
+      "originalTitle": "为什么在排序链路中同时使用 LightGBM 和 LambdaRank？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3506",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-107",
+      "originalTitle": "静态分和动态分在推荐链路中分别起什么作用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3518",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-108",
+      "originalTitle": "模型剪枝有哪些方法，如何评估是否值得？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-109",
+      "originalTitle": "序列较稀疏时，建模如何处理稀疏性？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3542",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-110",
+      "originalTitle": "视频没有语音时，视觉与多模态分析如何降级？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3554",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-111",
+      "originalTitle": "一条 VideoSegment 数据结构应保存哪些内容？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3566",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-112",
+      "originalTitle": "持续学习有哪些方法，如何避免旧能力退化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3578",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-113",
+      "originalTitle": "Qwen-VL 的动态分辨率如何实现？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3590",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-114",
+      "originalTitle": "GRPO 训练数据如何构建与筛选？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3604",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-115",
+      "originalTitle": "重要性采样机制的原理、估计偏差与适用场景是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3618",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-116",
+      "originalTitle": "SFT 冷启动有哪些常见问题，如何诊断和解决？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3632",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-117",
+      "originalTitle": "如何进行样本难度分层、课程学习与有效样本选择？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3646",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-118",
+      "originalTitle": "强化学习训练中的 reward、KL 与 clip fraction 等指标如何解读并定位异常？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3660",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-119",
+      "originalTitle": "VLM 中如何减少 vision token？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3674",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-120",
+      "originalTitle": "多模态训练中的模态偏置如何诊断与纠正？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3688",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-121",
+      "originalTitle": "图文对比学习如何训练？InfoNCE 损失与温度系数如何设计和调节？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3702",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-122",
+      "originalTitle": "大模型生成复读和语句冗余的成因是什么？如何从数据、算法和参数侧优化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3716",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-123",
+      "originalTitle": "模块化、端到端与 VLA/VLM 路线在自动驾驶中如何演进和取舍？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3730",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-124",
+      "originalTitle": "数字人或 TTS 生成中如何保证音色一致性？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-125",
+      "originalTitle": "深度学习中的正向传播、反向传播与参数更新是如何工作的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3758",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-126",
+      "originalTitle": "Semantic ID 在内容表示与推荐系统中的作用是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3772",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-127",
+      "originalTitle": "一条完整的 Agent trajectory 数据结构应包含哪些字段？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-128",
+      "originalTitle": "MLP Adapter 和 Q-Former Adapter 有什么区别？为什么 MLP 更常用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3800",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-129",
+      "originalTitle": "什么是模型熵坍塌？如何诊断、定位原因并进行缓解？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3814",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-130",
+      "originalTitle": "SFT 训练阶段不使用测试集时，如何评估训练效果？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3828",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-131",
+      "originalTitle": "传统推荐系统的完整链路是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3842",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-132",
+      "originalTitle": "卷积神经网络和 Transformer 在建模原理、计算方式与适用场景上有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3856",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-133",
+      "originalTitle": "卷积神经网络处理图像有哪些优势？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3870",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-134",
+      "originalTitle": "在视觉模型中引入深度信息有什么作用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3884",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-135",
+      "originalTitle": "知识蒸馏中教师模型如何选择？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3898",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-136",
+      "originalTitle": "特征蒸馏的 Loss 如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3912",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-137",
+      "originalTitle": "模型蒸馏有哪些主要方式？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3926",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-138",
+      "originalTitle": "中间特征蒸馏如何选择蒸馏层？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3940",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-139",
+      "originalTitle": "模型蒸馏后效果不佳如何系统排查与优化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3954",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-140",
+      "originalTitle": "SFT 应如何选择优化器？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3968",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-141",
+      "originalTitle": "MMoE 是什么？如何通过多专家结构解决多任务学习中的任务冲突？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3982",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-142",
+      "originalTitle": "RLVF（基于可验证反馈的强化学习）是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L3996",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-143",
+      "originalTitle": "拉格朗日对偶原理是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4010",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-144",
+      "originalTitle": "KKT 条件是什么？各条件分别有什么含义？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4024",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-145",
+      "originalTitle": "Slater 条件是什么？对凸优化有什么作用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4038",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-146",
+      "originalTitle": "Stackelberg 博弈和 Nash 博弈有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4052",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-147",
+      "originalTitle": "随机傅里叶特征（RFF）的原理是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4066",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-148",
+      "originalTitle": "CLIP 的原理、训练方式和应用是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4080",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-149",
+      "originalTitle": "长思维链与短思维链推理数据分别适合哪些任务？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4094",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-150",
+      "originalTitle": "Adam 和 Muon 优化器有什么区别？分别适合什么场景？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-151",
+      "originalTitle": "SAC 相比其他强化学习算法有什么优势？什么场景适合使用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-152",
+      "originalTitle": "Llama 1、Llama 2 与 Llama 3 在架构、训练数据和能力上有哪些演进？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-153",
+      "originalTitle": "多层网络同时施加 Loss 会带来哪些问题？如何平衡各层损失？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4150",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-154",
+      "originalTitle": "具身智能中如何统一建模 Observation 与 Action？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4164",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-155",
+      "originalTitle": "VLA 模型在真实机器人部署中有哪些工程挑战？如何解决？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-156",
+      "originalTitle": "已有原始数据时，为什么仍需要使用 BERT 等预训练语言模型进行表示或微调？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4192",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-157",
+      "originalTitle": "Action Chunking 的原理及其在机器人策略学习中的应用是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4206",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-158",
+      "originalTitle": "Autoregressive Policy 与 Diffusion Policy 的原理、差异和适用场景是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4220",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-159",
+      "originalTitle": "VLM 与 VLA 的核心架构、能力边界和应用场景有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-160",
+      "originalTitle": "行为克隆（Behavior Cloning）的原理和训练方法是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-161",
+      "originalTitle": "分布偏移（Distribution Shift）的类型、影响和应对方法是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-162",
+      "originalTitle": "Imitation Learning 与 Reinforcement Learning 有什么区别？分别适用于什么场景？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-163",
+      "originalTitle": "梯度提升模型的基本原理、训练过程和常见应用是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4290",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-164",
+      "originalTitle": "Softmax 如何通过数值稳定技巧防止溢出？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TRAINING-AND-DATA-165",
+      "originalTitle": "持续新增翻译数据会让模型输出风格趋于一致还是扩散？如何分析和控制？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md#L4318",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

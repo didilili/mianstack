@@ -1,0 +1,2621 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-3103",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 多模态与计算机视觉",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software",
+    "coding",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-001",
+      "originalTitle": "【IoU计算】IoU是怎么算的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-002",
+      "originalTitle": "【Segment Anything】介绍Segment Anything模型，包括其架构、训练数据、分割能力（如零样本分割、提示分割）及主要应用。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-003",
+      "originalTitle": "【U-Net优势】U-Net相比其他Encoder-Decoder模型的突出优势和亮点在哪儿？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-004",
+      "originalTitle": "【常见视觉模型特点】常用的计算机视觉模型（如YOLO系列、Faster R-CNN、U-Net、Vision Transformer）各有什么特点？请分别说明其架构、优势、适用场景及局限性。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3117",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-005",
+      "originalTitle": "【数据增强方法】训练中使用哪些数据增强的方法？请列举常见的图像数据增强技术，如翻转、旋转、缩放、裁剪、颜色抖动、Cutout、Mixup、CutMix、Mosaic等，并说明其作用。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-006",
+      "originalTitle": "【目标检测发展历程】介绍目标检测的发展历程，包括从传统方法到基于深度学习的方法（如R-CNN系列、YOLO系列、SSD等）的演进，以及关键里程碑。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-007",
+      "originalTitle": "【目标检测损失函数】目标检测一般有哪些损失优化？请列举并解释常用的损失函数，如分类损失（交叉熵、Focal Loss）、回归损失（Smooth L1、IoU Loss、GIoU Loss、DIoU Loss、CIoU Loss）等。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-008",
+      "originalTitle": "【Artifact剔除模型选型】有没有试过用像ResNet这种传统的小模型来做Artifact剔除？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-009",
+      "originalTitle": "【IoU损失实现】手写IoU损失，要求跑通。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-010",
+      "originalTitle": "【NMS实现】手撕NMS（非极大值抑制）代码，要求一次写对，并描述过程。 「字节跳动、拼多多、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-011",
+      "originalTitle": "【U-Net与随机森林对比】U-net模型是图像分割领域比较经典的模型，肯定效果更好，为什么还要用随机森林？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-012",
+      "originalTitle": "【YOLO选型与对比】为什么现在效果始终不如yolo等小模型；为什么要选YOLO而不是别的？ 「京东、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-013",
+      "originalTitle": "【分割偏差优化】图片出现分割偏差，当时如何解决，有哪些优化思路？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-014",
+      "originalTitle": "【复杂场景优化】当视觉模型在复杂场景(如逆光、遮挡)中准确率下降时，你会如何优化？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-015",
+      "originalTitle": "【检测头优化】你说优化检测头提升了16个点，介绍一下吧。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-016",
+      "originalTitle": "【模型泛化与人群差异】你有想做不同人种（比如黄种人白种人肯定不一样要区分开来的），不同地域的嘛？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-017",
+      "originalTitle": "【目标检测模型结构】比较DETR、RT-DETR、YOLOv5的模型结构；回忆YOLOv1/v2/v3的细节。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-018",
+      "originalTitle": "【细粒度识别SOTA对比】模型在6个FGVR数据集SOTA，对比论文指标优势在哪？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3135",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-019",
+      "originalTitle": "【Logo生成】如何生成一些商品/商家logo图？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3140",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-020",
+      "originalTitle": "【光照变化抗干扰方案】某计算机视觉模型在实际部署中因“光照变化”导致效果波动，你会如何从“预处理→模型自适应→后处理”三个维度设计抗干扰方案? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-021",
+      "originalTitle": "【包装缺陷检测背景干扰】针对“零售商品包装缺陷检测”场景，如何解决“复杂背景干扰”问题? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3142",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-022",
+      "originalTitle": "【医学影像病灶分割优化】京东健康的“医学影像病灶分割”模型出现分割精度不足(尤其小病灶)，你会如何从“数据质量→模型结构→损失函数”三级拆解原因并提出优化方案? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3143",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-023",
+      "originalTitle": "【图搜定位】用户给一张图片，怎么做图搜定位图片的真实坐标？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3144",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“真实坐标”按拍摄地点的地理定位理解。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-024",
+      "originalTitle": "【视频审核速度与精度平衡】针对视频内容审核场景，如何平衡检测速度(FPS)与分类精度？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-025",
+      "originalTitle": "【长尾问题】如何应对视觉模型的“长尾问题”(如罕见目标识别准确率低)? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-026",
+      "originalTitle": "【商品货架智能巡检方案】请为京东零售设计“商品货架智能巡检”计算机视觉方案，说明核心任务、模型选型、数据处理、评估指标及落地步骤。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-027",
+      "originalTitle": "【CV资源与Caption方向】你平时关注哪些计算机视觉领域的资源（如CVPR/ICCV论文、开源项目、京东视觉技术案例）？组里caption主要做哪些方向，若进组可能会分配什么方向？ 「京东、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3165",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-028",
+      "originalTitle": "【CV与NLP/大模型差异】你认为“计算机视觉算法工程师”与其他算法工程师(如NLP、大模型)的核心差异是什么? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-029",
+      "originalTitle": "【CV工程师核心能力】你认为未来计算机视觉工程师的核心能力是什么? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3171",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-030",
+      "originalTitle": "【SegFormer】你简历中提到使用了segformer，这个是什么? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3172",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-031",
+      "originalTitle": "【U-Net】U-net网络设计思路。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3173",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-032",
+      "originalTitle": "【图像去噪】如何处理图像数据中的噪声(如模糊、椒盐噪声)? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3174",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-033",
+      "originalTitle": "【图像特征工程】你觉得“图像特征工程”在视觉算法中的具体体现是什么? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3175",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-034",
+      "originalTitle": "【图像细节处理】有了解过哪些处理图像的细节操作？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3176",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-035",
+      "originalTitle": "【机器视觉发展史】给我讲讲机器视觉是怎么发展的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-036",
+      "originalTitle": "【视觉模型工程化】有过视觉模型工程化落地的经历吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-037",
+      "originalTitle": "【视觉编码器】视觉编码器是否了解？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-038",
+      "originalTitle": "【CV技术趋势】你对计算机视觉领域的技术趋势有什么观察? 请列举当前主要趋势（如Transformer、自监督学习、多模态等）并简要说明。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3184",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-039",
+      "originalTitle": "【DINO】DINO是否了解？请介绍DINO的核心思想、训练方式及其在自监督视觉表示学习中的作用。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3185",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-040",
+      "originalTitle": "【Vision Encoder Loss】讲一下 vision encoder 的 loss。请说明常见的视觉编码器损失函数（如对比损失、重构损失等）及其设计动机。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3186",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-041",
+      "originalTitle": "【ViT vs CNN】选择ViT和选择CNN编码图像分别的优势和劣势是什么？请从全局感受野、计算效率、数据需求、迁移能力等方面对比。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3187",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-042",
+      "originalTitle": "【VQVAE Loss与VQ层】讲一下VQVAE的三个loss，以及VQ层如何将encoder得到的向量归到codebook中？commit loss中的beta参数有什么作用，初始化为多少？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-043",
+      "originalTitle": "【不同视觉任务优化侧重点】面对不同视觉任务(如目标检测、图像分割、视频跟踪)，算法优化的侧重点有何不同? 请分别说明各任务的关键优化目标（如检测的定位与分类、分割的像素精度、跟踪的时序一致性）。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3189",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-044",
+      "originalTitle": "【多分辨率输入】多分辨率输入是怎么实现的？它相比固定分辨率有什么优势？请说明实现方式（如图像金字塔、多尺度训练）及优势（如尺度鲁棒性、性能提升）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3190",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-045",
+      "originalTitle": "【插值算法】手撕插值算法。请实现一种插值算法（如最近邻、双线性、双三次插值），并说明其原理和适用场景。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3191",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-046",
+      "originalTitle": "【注意力区域与图像识别】注意力区域，是否用于优化图像识别能力？请解释注意力机制如何帮助模型聚焦于重要区域，并举例说明其在图像识别中的应用。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3192",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未指定注意力结构，本条仅关联空间位置交互的机制。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-047",
+      "originalTitle": "【端侧设备算法选择】为何在AI端侧设备一般不使用传统图像算法？请从计算资源、实时性、精度等角度分析。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3193",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-048",
+      "originalTitle": "【视觉检索 vs 轨迹距离】为什么要用视觉retrieve，不直接用轨迹之间的欧式距离作为retrieve方式? 请分析视觉检索相比轨迹距离的优势。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3194",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-049",
+      "originalTitle": "【BiasNet与PPNet】biasnet的增量在哪里，知道ppnet的gate带来了什么效果吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3199",
+      "reviewStatus": "needs_review",
+      "reviewNote": "BiasNet 与 PPNet 未提供论文、任务与结构定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-050",
+      "originalTitle": "【Grounding DINO】介绍grounding dino，他的几种text和image的融合方式。比如text做query，image是做k和v吗? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3200",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-051",
+      "originalTitle": "【RQ-VAE】请介绍RQ-VAE的原理（包括与VQ-VAE的区别、与RQ-Kmeans的关系与取舍、输入获取方式、码本设计、损失函数、码本坍塌解决方案、超参数重要性、为何采用残差量化而非分布重建）。 「字节Seed、字节跳动、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-052",
+      "originalTitle": "【ScalingUp】scalingup怎么做的？详细介绍。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3202",
+      "reviewStatus": "needs_review",
+      "reviewNote": "ScalingUp 未说明是规模扩展操作还是具体方法。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-053",
+      "originalTitle": "【ViT vs VAE for 生成/重建】用vit和vae做视觉生成和重建各有什么好坏？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3203",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-054",
+      "originalTitle": "【可变形注意力】介绍一下可变形注意力机制(Deformable Attention)。为什么在BEV感知中它比原生Transformer更受欢迎? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-055",
+      "originalTitle": "【图片处理到Attention代码】手撕从图片处理到attention的具体代码 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3205",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-056",
+      "originalTitle": "【表情与ID解耦】如何做表情和id的解耦？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3206",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-057",
+      "originalTitle": "【表情驱动数据表征】猜测米哈游表情驱动的数据表征形式？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3207",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-058",
+      "originalTitle": "【视觉基础模型】对视觉Foundation Model有什么看法，目前的视觉基础模型存在哪些问题？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3208",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-059",
+      "originalTitle": "【轻Lidar融合】轻lidar的方案怎么做融合好一些？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-060",
+      "originalTitle": "【边界能量损失】论文中对于边界的能量损失函数的如何设计的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3210",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未提供论文、边界对象与能量公式。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-061",
+      "originalTitle": "【边缘设备BackBone选择】如果要在边缘计算设备上运行一个多模态分类模型，你会选择哪种BackBone？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3211",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-062",
+      "originalTitle": "【领域自适应】计算机视觉中的“领域自适应”问题如何解决？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3212",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-063",
+      "originalTitle": "【Grid Sampler】给你一个BEV特征图，手写一个Grid Sampler(网格采样器)，把周围视角的特征投影过来。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-064",
+      "originalTitle": "【ViT与LLM损失函数】ViT和LLM的损失函数分别是什么？请分别说明ViT（如图像分类任务）和LLM（如语言建模）常用的损失函数。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3224",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-065",
+      "originalTitle": "【ViT与原始Transformer区别】Vision Transformer和原始Transformer的区别是什么？请从架构、输入处理、位置编码、注意力机制等方面详细说明。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3225",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-066",
+      "originalTitle": "【ViT图像分块与Token化】ViT是如何将图像切分为patch并转换为token序列的？请描述其图像处理机制。图像的token长度由什么参数来控制？具体说明patch大小、图像尺寸与token数量的关系。 「字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-067",
+      "originalTitle": "【ViT相比CNN优势】在图像任务中，ViT相比CNN-based模型的优势在哪里？请从全局感受野、自注意力机制、长距离依赖建模、可扩展性等方面分析。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3227",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-068",
+      "originalTitle": "【BEVFormer注意力机制】BEVFormer的两个attention：包括spatial cross-attention和temporal self-attention。请详细解释其原理、作用及实现细节。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3232",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-069",
+      "originalTitle": "【BEV时序融合】BEV特征时序融合：解释BEVFormer中如何通过temporal self-attention融合历史BEV特征，实现时序信息聚合。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3233",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-070",
+      "originalTitle": "【DiT Transformer实现】DiT的Transformer实现：请详细说明DiT（Diffusion Transformer）中Transformer的结构，包括如何将图像patch作为输入，以及如何与扩散过程结合。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-071",
+      "originalTitle": "【Patch Merging】Patch Merging：解释Swin Transformer中Patch Merging层的具体操作，包括如何将相邻patch合并，以及维度变化。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-072",
+      "originalTitle": "【Swin Transformer原理与对比】Swin Transformer的原理是什么？它与ViT的区别有哪些？请详细对比两者的架构、窗口注意力、移动窗口、层级设计等。 「字节跳动、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-073",
+      "originalTitle": "【ViT [CLS] token与CNN损失计算区别】ViT中[CLS] token的输出与CNN计算Losses的最大区别是什么？请从全局特征提取、损失计算方式等角度分析。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-074",
+      "originalTitle": "【ViT与DiT原理】ViT、DiT原理：请分别讲解Vision Transformer (ViT) 和 Diffusion Transformer (DiT) 的原理，包括架构、输入处理、注意力机制等。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3238",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-075",
+      "originalTitle": "【ViT与LoRA】ViT需要挂LoRA吗？请讨论在ViT上应用LoRA（Low-Rank Adaptation）的可行性、场景及优缺点。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3239",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-076",
+      "originalTitle": "【ViT位置编码类型】ViT位置编码类型：请详细讲解ViT中使用的各种位置编码，包括一维位置编码、二维位置编码、相对位置编码、多模态位置编码的原理和区别。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-077",
+      "originalTitle": "【ViT损失函数实现】手撕ViT损失函数：实现ViTCrossEntropyLoss类，继承自nn.Module，使用import torch和import torch.nn。要求实现交叉熵损失，并考虑ViT中[CLS] token的输出。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-078",
+      "originalTitle": "【ViT架构与原理】请详细讲解ViT（Vision Transformer）的模型架构和原理，包括图像是如何被切块、展平并映射为序列输入到Transformer中的，以及Transformer的具体结构（如自注意力、多头注意力、MLP、LayerNorm等），并说明ViT相比传统CNN的优点。 「字节跳动、拼多多、美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-079",
+      "originalTitle": "【ViT结构与Patch嵌入】ViT具体结构说一下，图像转化为patch输入位置信息会丢失吗，所有patch使用的线性映射层是同一个还是不同？请详细解释ViT的patch嵌入过程，包括如何将图像切分为patch、展平、线性映射，以及位置编码的添加。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-080",
+      "originalTitle": "【ViT计算过程与对齐策略】讲解ViT图像计算过程，现在常用的对齐策略是什么？请详细描述ViT的前向计算流程，并说明常用的对齐策略（如patch对齐、特征对齐等）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3244",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-081",
+      "originalTitle": "【ViT训练方式】现在ViT的训练方式有哪些？请列举并解释常见的ViT训练策略，如预训练+微调、知识蒸馏、自监督学习等。 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-082",
+      "originalTitle": "【动态分辨率】什么是动态分辨率(Dynamic Resolution)处理？请解释在ViT或多模态模型中如何实现动态分辨率，以及其目的和挑战。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3246",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-083",
+      "originalTitle": "【AR与DiT对比】AR+DiT的优势到底是什么？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3251",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明 AR 与 DiT 分别负责哪些表示或输出。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-084",
+      "originalTitle": "【RoPE处理视频方式】原来的RoPE在升级成M-RoPE之前，它是怎么处理视频的？具体来说，对于每一个每一帧或者说每一个patch，是怎么处理的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3252",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未指定 M-RoPE 之前的模型与版本。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-085",
+      "originalTitle": "【RT-DETR与DETR对比】RT-DETR与DETR的优化。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3253",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-086",
+      "originalTitle": "【ViT与Qwen2注意力对比】ViT使用的注意力和Qwen2是一样的吗，为什么这么设计？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-087",
+      "originalTitle": "【ViT细粒度特征提取】VisionTransformer能很好的提取细粒度特征吗？如果想让ViT既提取到语义特征又提取细粒度特征，要怎么改进网络结构？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-088",
+      "originalTitle": "【多模态ViT原理与训练】多模态大模型的ViT，解释原理、如何训练的？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-089",
+      "originalTitle": "【ViT与CNN在商品分类中的对比与混合模型】分析VisionTransformer(ViT)与传统CNN(如ResNet)在“京东零售商品分类”中的优劣，设计混合模型方案(如CNN提取局部特征+Transformer捕捉全局依赖)，说明适用场景与效果预期。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-090",
+      "originalTitle": "【图文对齐与CLIP】1. 你有过图像与文本融合的开发经历吗？请结合具体项目说明。2. 如何衡量图像embedding和文本embedding之间的相似度？常用方法包括余弦相似度、点积等。3. 对多模态数据有什么了解？请介绍多模态数据的特点、常见对齐方法（如CLIP）及应用场景。 「京东、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-091",
+      "originalTitle": "【CLIP模型】请全面讲解CLIP模型，包括：1）模型结构：双塔结构（图像编码器如ViT/ResNet，文本编码器如Transformer）如何分别提取特征；2）训练方式：对比学习（InfoNCE损失）如何将图文映射到同一向量空间，实现图文对齐；3）零样本能力：如何通过提示工程实现zero-shot分类、检索等；4）应用场景：图文检索、商品推荐等跨模态任务，相比单一模态模型的优势；5）其他对比学习方法（如ALIGN、SigLIP）。 「京东、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-092",
+      "originalTitle": "【ALBEF与BLIP模型】简单介绍ALBEF和BLIP这两个模型的核心设计，并说一下ALBEF模型。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-093",
+      "originalTitle": "【ALIGN与CLIP对比】ALIGN和CLIP的主要区别是什么？为什么CLIP在后来的开源生态中更具优势？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-094",
+      "originalTitle": "【BLIP与BLIP2文本生成】BLIP和BLIP2中的文本生成有什么区别？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-095",
+      "originalTitle": "【BLIP创新与CLIP对比】BLIP模型在图文理解中引入了哪些创新机制？它与CLIP在训练目标和架构上的核心区别是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-096",
+      "originalTitle": "【BLIP损失函数与数据清洗】BLIP的三个损失函数分别是什么，数据是怎样清洗的？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-097",
+      "originalTitle": "【BridgeTower模型】简述BridgeTower等模型如何通过跨模态连接层解决视觉与文本信息在深层的丢失。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-098",
+      "originalTitle": "【Caption与图文交错数据】从模型的角度，caption数据和图文交错数据主要的区别是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-099",
+      "originalTitle": "【CLIP与QwenVL对比】CLIP与QwenVL区别：图像分类适用性？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-100",
+      "originalTitle": "【CLIP与T5文本编码器】CLIP和T5两个文本编码器的作用，怎么注入到输入过程中的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3286",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-101",
+      "originalTitle": "【CLIP与ViT代码实现】手撕代码的部分力扣hot100 多模态大模型: CLIP + ViT。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3287",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未列出具体力扣题，也未明确要求手写 CLIP/ViT。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-102",
+      "originalTitle": "【CLIP参数设置】你的参数怎么设置，上clip和下是否起作用？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3288",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“上 clip 和下”未说明参数对象与作用位置。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-103",
+      "originalTitle": "【CLIP后续发展】CLIP之后有哪些新进展？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-104",
+      "originalTitle": "【CLIP损失函数与InfoNCE Loss实现】CLIP的损失函数是什么？请分别详细解释image-to-text和text-to-image两个方向的损失计算过程。实现InfoNCE Loss（CLIP）。为什么需要KL散度/CLIP？Q-Former原理。 「百度、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3290",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-105",
+      "originalTitle": "【CLIP缺点】CLIP模型的缺点或不足在哪里？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3291",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-106",
+      "originalTitle": "【CLIP训练技巧】如何解决的(CLIP higher 限制、小学习率)？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3292",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源缺少原始故障描述，higher 限制与小学习率的含义不明确。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-107",
+      "originalTitle": "【CLIP领域适应性】你如何看待CLIP在处理不同领域数据时的适应性和表现？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3293",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-108",
+      "originalTitle": "【Q-Former动机与模型】为什么用Q-Former？请介绍Q-Former模型，包括其对齐层的作用、Q-Former是什么，以及常见的视觉-语言Adapter有哪些及其具体作用？另外，Q-Former还有哪些其他变体？ 「字节跳动、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-109",
+      "originalTitle": "【Q-Former局限性】现在为什么不用q-former了？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3295",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-110",
+      "originalTitle": "【ViT与LM训练策略】训练vit和lm是一起做还是分开训？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-111",
+      "originalTitle": "【图文对比学习改进】除了CLIP，还有什么图文对比学习方法？以及CLIP有哪些改进模型？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3297",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-112",
+      "originalTitle": "【图文对齐实现】项目细节：你们是怎么把text和image进行对齐的，介绍一下alignment的实现。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-113",
+      "originalTitle": "【图文对齐常见问题】多模态图文特征对齐会遇到哪些常见问题？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3299",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-114",
+      "originalTitle": "【图文对齐训练与评估】图像文本对齐通常如何训练和评估？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3300",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-115",
+      "originalTitle": "【多模态对齐方法】常用的不同模态数据在embedding层面对齐的方法有哪些？常见的视觉-语言Adapter有哪些结构？ 「字节跳动、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3301",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-116",
+      "originalTitle": "【多模态特征融合方式】把多模态特征加到模型里，除了生成SID的方式，还有别的方式吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3302",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-117",
+      "originalTitle": "【微调视觉编码器】你为什么不直接微调整个大模型，而是只微调大模型的视觉编码器部分？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-118",
+      "originalTitle": "【视觉token投影与对齐】为什么视觉token要经过projection之后再进入LLM？vision token输入到对齐层做了哪些操作？为什么不能直接用多模态的embedding（如QWEN-VL的embedding）去训练？ 「字节跳动、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-119",
+      "originalTitle": "【视觉编码器损失】Vision Encoder的loss怎么设计的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3305",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-120",
+      "originalTitle": "【视觉编码器桥接】有没有试过vision encoder的桥接？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-121",
+      "originalTitle": "【跨模态对齐可视化】如何通过可视化分析模型的跨模态对齐效果？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3307",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-122",
+      "originalTitle": "【跨模态注意力机制】比如如何理解“跨模态注意力机制”在融合中的作用？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3308",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-123",
+      "originalTitle": "【CLIP与ConvNext特征交互】CLIP的特征怎么和ConvNext的特征做交互？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3313",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-124",
+      "originalTitle": "【CLIP双塔召回与冷启动】多模态召回:CLIP 风格双塔 + cold start 怎么融合内容向量 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-125",
+      "originalTitle": "【CLIP对比学习采样与计算】详细说明CLIP架构中Contrastive Learning的正负采样策略，如何处理百万级Batch Size下的计算开销？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3315",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-126",
+      "originalTitle": "【CLIP对比损失与DPO】CLIP中的对比损失与DPO损失之间的联系。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-127",
+      "originalTitle": "【CoCa模型】如何评价CoCa模型在Generative与Contrastive任务上的权衡？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3317",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-128",
+      "originalTitle": "【Q-Former与MLP对比】Q-Former与两层MLP的区别是什么？为什么在某些场景下偏好使用两层MLP而非Q-Former？请分别说明Q-Former的原理、两层MLP的设计动机，以及在不同应用场景（如图文对齐、多模态理解）中的选择偏好。 「阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-129",
+      "originalTitle": "【单流双流实现】单流双流代码层次怎么实现的，有没有训练过相关的模型插件？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-130",
+      "originalTitle": "【商品图片描述生成】比如用模型实现“商品图片生成描述”，如何保证内容准确性? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-131",
+      "originalTitle": "【商品搜索匹配优化】比如为618优化商品搜索的多模态模型，如何在短时间内提升匹配精度? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-132",
+      "originalTitle": "【多模态嵌入噪声处理】假如用多模态模型来做Embedding，图片中会引入噪声应该怎么解决？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-133",
+      "originalTitle": "【多模态排序】现在有一个query，排序时如何判断应该把图片排在首位，还是把文本排在首位？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-134",
+      "originalTitle": "【对比学习与掩码预测】在多模态预训练中，跨模态对比学习(Contrastive)与掩码预测(MIM/MLM)各自的优缺点是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3324",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-135",
+      "originalTitle": "【对比学习弱语义问题】如果图像和文本的语义相关性极弱，对比学习的Loss会出现什么问题？如何优化？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-136",
+      "originalTitle": "【开放VQA】如果vqa是开放的问题怎么办？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-137",
+      "originalTitle": "【弱对齐与领域适应】什么是弱对齐（仅有相同的class label）？模型结构、训练方法（开放题）。如果同样是图像数据，自然图像模态的表征效果好，卡通图像的效果不好该怎么处理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3327",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-138",
+      "originalTitle": "【码本序列与重构损失】既要保证两个模态信号映射为同一个码本序列，又要保证各自的重构损失? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3328",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-139",
+      "originalTitle": "【视觉依赖度KL散度】视觉依赖度用KL散度计算的完整流程，原图mask局部特征框的操作逻辑？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3329",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-140",
+      "originalTitle": "【视觉提示工程】如何在不改变LLM权重的前提下，仅通过视觉Prompt Engineering提升模型性能？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3330",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-141",
+      "originalTitle": "【视觉编码器与LLM连接】视觉编码器和LLM连接时，使用BLIP2中Q-Former那种复杂的Adaptor好还是LLaVA中简单的MLP好？说说各自的优缺点，并详细描述视觉编码器和LLM如何连接的过程。 「蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3331",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-142",
+      "originalTitle": "【视频审核正负样本设计】对于视频审核业务，如果自己训一个clip模型来抽取特征，你会如何设计正负样本？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-143",
+      "originalTitle": "【视频文本对齐】应用题:用clip做视频文本的对齐，你有什么方法吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-144",
+      "originalTitle": "【跨模态融合机制对比】(如CLIP、ALBEF、FLAVA)它们的跨模态融合机制(如对比学习、注意力对齐)有何差异？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3334",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-145",
+      "originalTitle": "【音频编码与多模态对齐】音频如何编码？如何对齐多个模态？比如ImageBind具体怎么实现对齐的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3335",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-146",
+      "originalTitle": "【多模态搜索语义不一致定位与解决】如果给你一个多模态搜索场景，用户输入一张图片和一段文字描述，但返回结果中图文语义不一致，你会如何从模型和数据两个层面定位并解决这个问题？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-147",
+      "originalTitle": "【多模态素材质量评估与补全】在腾讯广告业务中，广告主经常提供图文完全不符或者分辨率极低的劣质素材。如果要设计一个多模态素材质量自动评估与补全优化的端到端系统，你的整体架构设计是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3341",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-148",
+      "originalTitle": "【多模态防作弊与语义冲突检测】在微信看一看的图文资讯分发场景中，常常出现极其隐蔽的标题党现象(文本诱导,图片毫无关联)。请设计一个多模态防作弊鉴别系统，核心解决图文深层语义冲突的精准识别问题。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-149",
+      "originalTitle": "【跨模态生成与优化】在商品广告创意生成中如何应用RL优化跨模态生成？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3343",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-150",
+      "originalTitle": "【长尾图文检索对齐】微信朋友圈的图片与短视频内容极具长尾多样性。如果要实现一个基于自然语言的精准相册检索功能，你会选择怎样的图文表征对齐方案，来克服用户口语化查询与复杂图像视觉细节之间的巨大语义鸿沟？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3344",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-151",
+      "originalTitle": "【多模态定义】多模态指的是什么？（介绍多模态） 「百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3351",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-152",
+      "originalTitle": "【Qwen3-VL参数量】Qwen3-VL-4B图像和文本的参数量分别是多少？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-153",
+      "originalTitle": "【多模态大模型介绍】请介绍除Qwen之外的主流多模态大模型，包括但不限于：LLaVA、DeepSeek-VL、苹果MM1、Video-LLaMA、GLM、InternVL、面壁智能的模型等。要求：简要说明每个模型的核心特点或架构。 「字节跳动、百度、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3357",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-154",
+      "originalTitle": "【多模态大模型概述】了解哪些多模态大模型（VLM）？请简要介绍几个。 变体： - 了解多模态模型吗：blip、blip2、GME？ - 介绍ALBEF和BLIP。 - 你关注过开源多模态模型吗？ - 你对“多模态视觉技术”的理解是什么？ - 你是如何使用这些多模态大模型的？ - 你熟悉多模态模型的可视化工具吗？ - 你认为多模态大模型的核心价值是什么？ - 多模态大模型与纯大模型区别？ - 多模态大模型为什么需要模态对齐？ - 多模态大模型的基本架构是什么？通常由哪几个核心部分组成？ - 多模态大模型的视觉编码器是什么？你用过哪些视觉编码器？ - 多模态模型在其中的核心作用是什么？ - 多模态输出是什么？ - 大模型算法那段：为什么要从单模改成多模？ - 它在多模态任务中的应用有哪些优势？ - 怎么使用多模态模型？怎么和多模态做结合？ - 是否了解qwen image，flux？ - 是否熟悉主流的VLM模型架构？ 「京东、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3358",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-155",
+      "originalTitle": "【BEV、VLM、VLA概念】你对 BEV、VLM、VLA 的理解? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3363",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-156",
+      "originalTitle": "【BLIP系列架构与训练】BLIP-2的整体结构是什么？两阶段训练流程是怎样的？用到了哪些损失函数？BLIP2相对于BLIP有哪些改进，BLIP3又有哪些改进？ 「字节跳动、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3364",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未明确 BLIP3 所指版本或理解/生成路线。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-157",
+      "originalTitle": "【Deepseek-VL架构】Deepseek-VL的模型架构padding是如何做的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-158",
+      "originalTitle": "【FLUX模型架构】FLUX中文本模态的condition如何注入的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-159",
+      "originalTitle": "【LLaVA投影层】LLaVA模型如何将视觉编码器与大语言模型进行连接？请描述其视觉-语言投影层的设计思路及训练阶段。介绍一下LLaVA的projection layer有哪几种？并谈谈你对Projection Layer作用的理解，Linear与MLP效果有何差异？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-160",
+      "originalTitle": "【LLaVA版本演进】简述LLaVA-1.5相比于1.0版在输入分辨率和模型架构上的具体提升。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-161",
+      "originalTitle": "【MLLM对齐与训练】MLLM 不做对齐会有什么结果？MLLM 的对齐分别有哪些任务，介绍下(grounding、OCR 这些)？MLLM 训练的时候 vision encoder 也是有一个单独的 loss 吗？ 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3369",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-162",
+      "originalTitle": "【Q-Former机制】解释BLIP-2中Q-Former的核心逻辑，它是如何解决视觉特征与文本LLM维度不匹配问题的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3370",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-163",
+      "originalTitle": "【Qwen2.5-VL架构与改进】Qwen2.5-VL的架构包含什么？其Transformer结构与普通Transformer有何不同？如何处理图像和视频等多模态输入？文本和图像的位置编码分别如何实现？Qwen2.5-VL的grounding机制是怎么变的？Qwen2.5-VL pretrain 阶段用了哪些数据？Qwen2.5 VL相对Qwen 2 VL做了哪些改进？Qwen的max pixels参数是什么？Qwen3 VL的image encoder是什么？Qwen的ViT是怎么处理绝对时间对齐的？介绍Qwen2.5-VL及其视觉编码器。 「京东、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3371",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-164",
+      "originalTitle": "【Qwen3-VL创新点】简单讲下qwen3vl的核心创新点。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3372",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-165",
+      "originalTitle": "【Qwen-Omni模型】你怎么看新出的Qwen-Omni？请讲一下Qwen-Omni。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3373",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-166",
+      "originalTitle": "【Qwen-VL架构与训练】Qwen-VL了解吗，数据处理怎么做？Qwen-VL动态分辨率怎么做？qwen2vl如何实现动态分辨率？QwenVL的动态分辨率怎么实现？Qwen-VL是怎么处理高分辨率图片的？Qwen-VL的三个训练流程分别是什么，有什么作用？讲一下qwenvl的架构。Qwen-VL系列的多模态对齐怎么做？ 「京东、百度、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-167",
+      "originalTitle": "【Qwen-VL版本对比】请对比Qwen-VL1、Qwen-VL2、Qwen-VL2.5和Qwen3-VL（Qwen-VL3）的模型结构、训练流程及主要改进点。 「京东、美团、腾讯、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-168",
+      "originalTitle": "【Transformer多模态应用】Transformer能否直接用于多模态任务？请解释Transformer在音视频多模态任务中的应用及其优势。 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-169",
+      "originalTitle": "【Video-LLaMA结构】讲一下Video-LLaMA的整体结构：视频编码器（如ViT+Temporal Aggregator）→投影层（对齐文本空间）→LLaMA语言模型。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3377",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-170",
+      "originalTitle": "【VLM视觉编码器】VLM中vision encoder如何训练？是否分阶段训练？计算效率如何？请结合具体模型说明。 「腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3378",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-171",
+      "originalTitle": "【VLM训练阶段】介绍一下VLM的训练阶段有哪些？训练阶段的任务是什么？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3379",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-172",
+      "originalTitle": "【多模态伦理风险】你了解多模态模型的伦理风险吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3381",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-173",
+      "originalTitle": "【多模态大模型趋势】你认为多模态大模型的未来趋势是什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-174",
+      "originalTitle": "【多模态大模型问题】了解哪些多模态大模型？目前多模态大模型最大的问题是什么？ 「蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-175",
+      "originalTitle": "【多模态数据与记忆】讲了自己对多模态数据的看法和多模态 memory 数据的利用 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-176",
+      "originalTitle": "【多模态数据分析】你有过用多模态模型进行数据分析的经历吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-177",
+      "originalTitle": "【多模态数据增强】你如何设计多模态数据的增强策略？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-178",
+      "originalTitle": "【多模态数据特点】之前的工作的多模态数据有什么特点和创新点，觉得还可以有什么改进？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-179",
+      "originalTitle": "【多模态数据预处理】电商数据多模态内容如何在大模型处理端预处理？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-180",
+      "originalTitle": "【多模态模型对比】请横向对比多模态大模型LLaVA、BLIP-2、Qwen-VL、InternVL、CLIP、DeepSeek等，说明它们的原理、结构（包括视觉编码器、语言模型、连接方式）、训练方式、特点及差异，并特别指出LLaVA与InternVL除了语言模型、视觉编码器和训练方式不同外还有哪些区别，以及LLaVA与BLIP-2的对比细节。 「京东、字节跳动、美团、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3390",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-181",
+      "originalTitle": "【多模态模型微调】有没有微调过多模态大模型？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-182",
+      "originalTitle": "【多模态模型结构】讲一下主要的多模态模型的模型结构（图像编码器+连接层+LLM）；介绍LLaVA或Qwen-VL的架构：视觉编码器（如ViT）与大语言模型如何连接？最容易踩坑的点通常在哪里？ 「京东、字节跳动、拼多多、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3392",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-183",
+      "originalTitle": "【多模态模型训练策略】训练时候ViT、对齐层、LLM部分学习率一般如何设置？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3393",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-184",
+      "originalTitle": "【多模态模型路线】有没有了解过Nano、Image 2.0、Seedream这些模型，底层大概是什么模型路线？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3394",
+      "reviewStatus": "confirmed",
+      "reviewNote": "Nano 和 Image 2.0 未明确厂商或版本。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-185",
+      "originalTitle": "【多模态海报生成】端到端中英文海报怎么做的？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-186",
+      "originalTitle": "【多模态能耗】你了解多模态模型的能耗问题吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3396",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-187",
+      "originalTitle": "【多模态迁移学习】你了解多模态模型的迁移学习吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3397",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-188",
+      "originalTitle": "【实时多模态特征】直播怎么用的实时多模态特征，有哪些？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3398",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-189",
+      "originalTitle": "【操控信号表征】对于那种“刹车、油门、转向”的操控信号(Action)，在模型里一般是怎么表征的? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-190",
+      "originalTitle": "【数字人开发】你有过数字人相关的开发经历吗? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-191",
+      "originalTitle": "【模型规模选择】为什么会用qwen0.5B做多模态表征，为什么不用更大的？请讨论模型规模选择。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3401",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-192",
+      "originalTitle": "【视频帧冗余处理】视频文本检索(Video-Text Retrieval)中，如何解决视频帧冗余导致的计算浪费？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-193",
+      "originalTitle": "【视频文本融合】视频与文本的融合面临哪些挑战(如时序对齐、信息冗余)? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-194",
+      "originalTitle": "【语音文本融合】你关注过语音与文本的融合技术吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3404",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-195",
+      "originalTitle": "【长多模态数据】长多模态数据如何获取？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-196",
+      "originalTitle": "【音视频对齐】视频与音频的对齐(Audio-Visual)在实际落地中常见的挑战有哪些？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-197",
+      "originalTitle": "【Flamingo模型结构】解释Flamingo模型中的Perceiver Resampler结构及GATED XATTN-DENSE机制。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-198",
+      "originalTitle": "【FLUX模型架构】FLUX-Fill的模型结构，输入维度，具体的shape，怎么拼接的，为什么要先双流后单流？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3412",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-199",
+      "originalTitle": "【MLLM安全对齐】MLLM 做安全对齐你会如何做数据(筛选、过滤、去重、去除简单的数据)？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-200",
+      "originalTitle": "【MLLM定位能力】你觉得 MLLM 能做好 grounding 任务吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-201",
+      "originalTitle": "【MLLM强化学习】你觉得 MLLM 做强化学习有必要吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3415",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-202",
+      "originalTitle": "【MLLM预训练】听了你的 Paper 场景描述，既然 MLLM 在 edited image 上表现不好，为什么不考虑预训练做你的场景？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3416",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-203",
+      "originalTitle": "【Qwen3-VL性能优化】Qwen3VL的应用场景中，模型性能瓶颈表现在哪些方面？你是如何优化的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-204",
+      "originalTitle": "【Qwen-VL架构】QwenVL系列架构详细解析，历代VL有什么改进，mRoPE详解，LoRA基本原理以及两个矩阵怎么初始化以及为何，CLIP架构详解讲解，以及训练方法。介绍Qwen Image以及Qwen Image Edit架构，VAE细节。 「百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3418",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原条目汇集多个模型家族的问法，未给出统一的 VAE 配置。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-205",
+      "originalTitle": "【VLA模型实时性】现在的VLA(Vision-Language-Action)模型火得一塌糊涂，你觉得它在车上真的能实时跑起来吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-206",
+      "originalTitle": "【VLM幻觉与信息完备】VLM的信息完备和幻觉，怎么trade-off？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-207",
+      "originalTitle": "【VLM缩放定律】VLM是否存在scaling law？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3421",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-208",
+      "originalTitle": "【Wan2.1模型架构】Wan2.1的模型架构细节是什么？包括图像特征和文本特征是如何注入进去的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-209",
+      "originalTitle": "【原生多模态理解】讲一下你对原生多模态的理解？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-210",
+      "originalTitle": "【在线视频理解】介绍了一个项目，聊了一下online的视频理解怎么做，目前多模态模型的一些问题以及可能的改进方向。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-211",
+      "originalTitle": "【多模态DPO训练】多模态的DPO的训练是如何做的？如何构造数据？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3425",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-212",
+      "originalTitle": "【多模态token设计】视频、音频、文字混合的复杂多模态场景，如何设计token和位置编码？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3426",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-213",
+      "originalTitle": "【多模态召回】业务场景题。你觉得有哪些信息，除了画面和文本信息，还有哪些信息是可以被用来去召回这些内容商品不符的类别的。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3427",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-214",
+      "originalTitle": "【多模态后训练】在多模态大模型成为趋势的背景下，后训练技术会面临哪些新的机遇和挑战？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3428",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-215",
+      "originalTitle": "【多模态图文一致性评估】多模态场景怎么评估：如何检查“图文一致性/不编造信息”？优先加哪些自动化检查？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3429",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-216",
+      "originalTitle": "【多模态图表理解】多模态场景下，怎么让模型理解图表（比如柱状图、表格）？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3430",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-217",
+      "originalTitle": "【多模态大模型工业落地】多模态大模型(如CLIP、BLIP、LLaVA)在工业界落地时，你认为最大的瓶颈是什么？腾讯CSIG在产业互联网场景下，多模态技术最可能突破的方向是哪个？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-218",
+      "originalTitle": "【多模态安全】我记得有一款显示器，物理外挂(好像是gui agent这种图像操作方式)，这一部分有专门设防御吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3432",
+      "reviewStatus": "needs_review",
+      "reviewNote": "原题未说明外挂名称、受保护系统与防御目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-219",
+      "originalTitle": "【多模态对抗攻击】你了解多模态模型的对抗性攻击吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3433",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-220",
+      "originalTitle": "【多模态强化学习】MLLM做RL会有提升吗？MLLM做RL与SFT的区别是什么？你关注过多模态与强化学习的结合吗？具体到多模态+GRPO有没有结合的想法和思路？ 「京东、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3434",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-221",
+      "originalTitle": "【多模态扩展】新增一个音频模态你会怎么考虑？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3435",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-222",
+      "originalTitle": "【多模态技术进展】多模态领域近两年最让你兴奋的技术进展是什么？你认为腾讯CSIG在其中的机会和挑战分别是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3436",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-223",
+      "originalTitle": "【多模态指令微调数据】如何构建高质量的多模态指令微调数据集(Instruction Tuning Data)？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-224",
+      "originalTitle": "【多模态时间对齐】在多模态任务中，你如何处理不同模态数据的时间对齐问题？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-225",
+      "originalTitle": "【多模态模型对比】Llava、Chameleon模型的结构区别、训练差异，以及不同技术方案的认知问题。llava和llama的区别？ 「字节Seed、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-226",
+      "originalTitle": "【多模态模型瓶颈】这类多模态大模型目前核心瓶颈、缺陷是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3440",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-227",
+      "originalTitle": "【多模态模型评估】如何评估多模态模型/对齐方法/预训练模型的优劣、适用性及实际应用效果？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3441",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-228",
+      "originalTitle": "【多模态特征融合】你如何设计多模态特征的融合策略？具体到Lidar和Camera的融合，在特征层面(Feature-level)融合现在还有什么没解决的痛点？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-229",
+      "originalTitle": "【多模态缩放定律】多模态大模型有什么scaling law吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-230",
+      "originalTitle": "【多模态表征与码本】为什么没用RQVAE？在你的项目中两个模态的信号通过什么约束映射到同一个码本序列中的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3444",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-231",
+      "originalTitle": "【多模态训练数据构建】你了解多模态模型的训练数据构建吗？多模态那边怎么做的SFT数据和RL数据？ 「京东、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3445",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-232",
+      "originalTitle": "【多模态长序列数据】多模态长序列数据如何获取？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3446",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-233",
+      "originalTitle": "【多模态预训练噪声】在大规模多模态数据预训练中，如何缓解文本侧的“叙述噪声”问题？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-234",
+      "originalTitle": "【多语言多模态】在处理多语言多模态任务时，你有哪些技术挑战和解决方案？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-235",
+      "originalTitle": "【大模型自动驾驶】如何看待GPT-4o或者LLaMA这类大模型在autonomous driving中的作用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-236",
+      "originalTitle": "【少样本多模态适配】针对垂直行业(如医疗、工业)，如何利用少量样本完成多模态大模型的适配？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3450",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-237",
+      "originalTitle": "【模态缺失处理】你如何处理多模态任务中的模态缺失问题？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3451",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-238",
+      "originalTitle": "【电商多模态语义】业务场景题，在电商治理过程中，如何设计多模态语义。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3452",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-239",
+      "originalTitle": "【端到端架构】是否有了解一些比较前沿的端到端架构? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-240",
+      "originalTitle": "【端到端语音助手】做端到端模型实际在语音助手场景会有什么问题？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-241",
+      "originalTitle": "【视觉大模型多模态扩展】对于视觉大模型，加入多模态能做吗？原生这样处理token融合处理，视觉模块的处理，这个架构加入的话有纯文本的效果吗？vllm本身有做量化吗？迁移到n卡上有问题吗？第一段实习是描述性的还是做的分类任务，效果如何？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3455",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原条目并列多个项目追问，未明确 n 卡数量与迁移环境。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-242",
+      "originalTitle": "【视觉投影层设计】现在业界的大模型主要都使用两层mlp来做视觉投影，逐渐淘汰了q-former，你认为是为什么？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3456",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-243",
+      "originalTitle": "【视觉编码器移植】如果将Qwen2.5-VL的VIT移植到Qwen3，构建Qwen3-VL，除了tokenlizer需要对齐，其他的还有什么要注意的 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3457",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-244",
+      "originalTitle": "【视觉语言连接件】连接件为什么从CrossAttention或者QFormer变成了MLP，相对于两者MLP有什么缺点 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3458",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-245",
+      "originalTitle": "【负样本构建】你如何设计多模态任务的负样本构建策略？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-246",
+      "originalTitle": "【跨模态参数共享】跨模态参数共享为什么比独立专家好? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3460",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-247",
+      "originalTitle": "【跨模态融合创新】解题思路中体现了哪些跨模态融合创新? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3461",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-248",
+      "originalTitle": "【音画对齐】紧接着提了一个音画caption跟随的问题，让想想怎么在caption中对齐多个人物是谁在说话，可以从数据角度答。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-249",
+      "originalTitle": "【音频视觉多模态】在处理音频-视觉多模态任务时，你有哪些独特的技术考量？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-250",
+      "originalTitle": "【预训练图像Token影响】你觉得预训练引入 image token 会不会对整体训练造成损失？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-251",
+      "originalTitle": "【世界模型】有人说“WorldModel（世界模型）是端到端的终极形态”，你怎么看？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-252",
+      "originalTitle": "【原生多模态对齐瓶颈】GPT-4o实现了原生端到端的多模态音频与视觉交互，去除了传统级联系统(ASR加LLM加TTS)的严重中间延迟。你认为实现这种原生多模态严格对齐的最大技术瓶颈是在高质量数据集层面，还是在模型底层的模态融合架构层面？请详述推演逻辑。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3471",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-253",
+      "originalTitle": "【多图输入处理】如果现有的基座大模型采用主流的视觉扩展架构（如LLaVA路线），但在处理多图交错输入时极容易出现图像位置混淆和指代不明的问题，你会在网络架构的哪个具体部分进行针对性的改造？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3472",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-254",
+      "originalTitle": "【多模态内容审核】假设团队需要在一个月内上线一个多模态内容审核系统，但标注数据只有10万对图文对，且正负样本比例严重失衡，请设计一个从数据增强到模型选型的完整方案。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3473",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-255",
+      "originalTitle": "【多模态基座模型演变】从CLIP跨模态对比学习，到BLIP的引导式对齐，再到目前的生成式统一大模型。你认为下一代真正通用的多模态基座模型的核心技术范式会发生怎样的演变？其背后的驱动力是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3474",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-256",
+      "originalTitle": "【多模态对话系统】请设计一个多模态对话系统，说明其核心算法和流程？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-257",
+      "originalTitle": "【多模态工作流】5G项目：多模态工作流怎么设计？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3476",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未提供 5G 项目与多模态工作流的输入输出及目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-258",
+      "originalTitle": "【多模态情感分析】请设计一个多模态情感分析/识别系统，说明其核心模块和数据流？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-259",
+      "originalTitle": "【多模态数字人】假设你需要为腾讯会议开发一个多模态数字人助手，要求能够实时根据用户的语音情绪和输入的文本指令生成对应的面部表情和肢体动作。在端到端延迟必须控制在50毫秒以内的限制下，你会怎么权衡模型的各个模块结构？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-260",
+      "originalTitle": "【多模态流式注意力】假设视频号带货直播间需要一个自动解说生成模型，要求模型能同时理解画面中的商品物理细节和主播的实时口播音频，并同步生成弹幕互动文本。你如何设计这种多模态流式输入与严格对齐的注意力机制？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3479",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-261",
+      "originalTitle": "【多模态统一】CV和NLP的区别和联系，在Transformer的大背景下，CV、NLP，包括语音等，能否实现大一统？具体到LLM，图像/视频生成与理解如何统一？ 「百度、百度文心、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-262",
+      "originalTitle": "【多模态趋势与业务】你如何看待多模态模型从图文对齐走向视频理解、3D感知的趋势？腾讯CSIG的智慧零售、智慧交通等业务中，哪些场景最需要这种能力升级？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-263",
+      "originalTitle": "【多模态输入安全】的轨迹。在端到端框架下，不引入规则，你怎么解决这种“多模态输入异常”导致的安全问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3482",
+      "reviewStatus": "needs_review",
+      "reviewNote": "原文开头截断，缺少轨迹异常对象与受保护系统。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-264",
+      "originalTitle": "【多模态预训练方案】如果让你从头预训练一个多模态大模型，你会怎么做，会有哪些问题，怎么解决？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-265",
+      "originalTitle": "【多模态高光剪辑】针对QQ音乐的MV与歌词匹配场景，如何利用音、视、文的三模态数据，设计一个能够自动生成音乐高潮片段卡点的短视频高光剪辑算法？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-266",
+      "originalTitle": "【跨文化视觉理解】许多头部开源多模态模型在英文标准的图文问答基准上表现优异，但在中文特色场景(如中国菜系识别、复杂中文谐音梗图图文理解)上表现极差。除了简单粗暴的数据翻译与扩充，还能通过什么机制从模型表征本质上提升其跨文化的视觉理解能力？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-267",
+      "originalTitle": "【OCR基础与必要性】需要做ocr吗? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-268",
+      "originalTitle": "【OCR与文档理解】1. 图片中会有一些文字，打算怎么处理？（OCR基础与必要性） 2. chartQA的方向有了解吗？（图表与结构化文档理解） 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-269",
+      "originalTitle": "【OCR与文档理解】1. OCR如何处理复杂表格？2. 图表类相关的caption又会关注哪些维度？3. 项目中的OCR怎么做的，为什么用大模型做？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-270",
+      "originalTitle": "【OCR大模型应用】多模态大模型进行OCR需要做哪些改进，注意哪些问题？当图片里的文字与周边正文语义强相关时，如何把两者的上下文关联保留下来？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-271",
+      "originalTitle": "【OCR技术趋势】开放问题：怎么看待传统CV比如OCR和深度学习模型未来的关系？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3508",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-272",
+      "originalTitle": "【图表与结构化文档理解】对结构化的图像（例如图表）如何合成相应的数据，应该关注什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3509",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-273",
+      "originalTitle": "【职业动机】为什么以后想要专门做3D视觉？因为研究生期间的研究惯性，有其他原因？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3521",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-274",
+      "originalTitle": "【自动驾驶技能】你熟练掌握哪些与自动驾驶算法相关的专业知识与技能？请结合学习或科研/实习案例说明应用场景与成效。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3522",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-275",
+      "originalTitle": "【路径点间隔】路径点间隔几米一个？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3523",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未提供项目路径规格或具体采样间隔。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-276",
+      "originalTitle": "【3D人体模型】是否了解FLAME、骨骼驱动、混元3D？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3528",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-277",
+      "originalTitle": "【3D语义分割】关于3D语义分割，你了解有哪些基础技术或研究？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3529",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-278",
+      "originalTitle": "【Frenet坐标系】为什么要用Frenet坐标系？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-279",
+      "originalTitle": "【重建基础模型】在重建领域，有哪些基础的、常用的模型或技术？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3531",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-280",
+      "originalTitle": "【高精地图规模】高精地图的文件大小和尺度范围大小大概是多少？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3532",
+      "reviewStatus": "needs_review",
+      "reviewNote": "高精地图未给区域范围、元素密度、坐标精度或文件格式，无法还原所问文件体积与覆盖尺度的实际数字。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-281",
+      "originalTitle": "【3DGS与NeRF对比】3D Gaussian Splatting (3DGS) 与传统方法（如 NeRF、Mesh）相比，具体的差异和优势在哪里？请阐述你对 NeRF 和 3DGS 差异的理解。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-282",
+      "originalTitle": "【3DGS损失函数】3DGS渲染中，如何衡量渲染图和真实值的差距？损失函数是怎么设计的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3538",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-283",
+      "originalTitle": "【3DGS稀疏点云建模】3DGS是如何通过稀疏点云进行建模的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3539",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-284",
+      "originalTitle": "【BEVFormer】介绍一下bevformer。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3540",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-285",
+      "originalTitle": "【PointNet系列】PointNet、PointNet2原理，mlp是什么，点云中的shared-mlp是怎么回事？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3541",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-286",
+      "originalTitle": "【S-T图】什么是S-T图？它如何用来解决动态障碍物避障问题？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3542",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-287",
+      "originalTitle": "【Zero123】Zero123 的原理是什么？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3543",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-288",
+      "originalTitle": "【人头重建模型】关于人头重建，从模型发展历史上看，有哪些系列模型？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3544",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-289",
+      "originalTitle": "【包裹体积识别】如果我们要做包裹体积识别，用到3D应该要怎么做？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-290",
+      "originalTitle": "【坡面地面提取】对于一些坡面地面，应该如何提取？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3546",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-291",
+      "originalTitle": "【局部规划】局部规划怎么做？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-292",
+      "originalTitle": "【点云数据问题】测试中点云因为光照原因没有采集好数据怎么办？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3548",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-293",
+      "originalTitle": "【球面投影】如何通过球面投影（Spherical Projection）将点云转换为距离图像（Range Images）？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-294",
+      "originalTitle": "【距离变换】栅格地图的距离变换方法？可以怎么用于路径规划？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3550",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-295",
+      "originalTitle": "【高斯点体积表示】这一系列的高斯点，最后怎么用体积来表示呢？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3551",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“体积”未说明是体素占据、辐射密度场还是实体体积。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-296",
+      "originalTitle": "【高精地图构建】高精地图的拓扑和几何结构是怎么构建的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3552",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-297",
+      "originalTitle": "【3DGS数字人对比】3DGS数字人对比米哈游数字人，优缺点对比？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3557",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供“米哈游数字人”的具体技术路线。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-298",
+      "originalTitle": "【Hybrid A*算法】Hybrid A*的原理和实际应用中的缺点；维诺图平滑的原理和用法，得到的轨迹能否直接给控制模块跟踪（不能，需说明gap所在）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3558",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-299",
+      "originalTitle": "【ICP算法】icp方法原理，高斯牛顿解法，雅克比矩阵求导。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3559",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-300",
+      "originalTitle": "【iLQR算法】iLQR的原理和理解。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3560",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-301",
+      "originalTitle": "【前景重建精度】先裁剪前景再做重建，怎么能保证重建出来的这些高斯点是准的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3561",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-302",
+      "originalTitle": "【车辆模型】车辆运动学模型和动力学模型，白板手推阿克曼几何，动力学假设，有哪些常用的动力学模型？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3562",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-303",
+      "originalTitle": "【风险预判】如果在感知尚未输出的情况下，通过轻图/导航信息预判到前方盲区可能存在行人，规划层应如何做风险预判？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3563",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-304",
+      "originalTitle": "【决策规划算法】你对自动驾驶决策规划算法有哪些理解？说明常用决策规划算法（如A*、RRT*、模型预测控制MPC等）的核心原理与适用场景，结合干线物流自动驾驶路径规划需求，谈谈你的算法设计思路？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3568",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-305",
+      "originalTitle": "【数字人表情驱动】围绕游戏内可实时交互的3D数字人表情驱动进行初步方案设计（可聚焦数据、训练或评测任一环节）。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3569",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-306",
+      "originalTitle": "【视频理解与生成】你有过处理视频数据的经验吗？文生视频有了解过哪些，最近用过什么？ 「京东、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3576",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-307",
+      "originalTitle": "【Wan系列视频生成模型】有关注Wan2.7-Video吗？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-308",
+      "originalTitle": "【视频分析vs图像分析】你认为“视频分析”与“单张图像分析”的核心差异是什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3582",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-309",
+      "originalTitle": "【视频帧采样方法】视频帧采样方法：包括动态帧率采样（与3D采样编码方式的不同）、vt采样纵向上的模态数、是否固定采样帧数、帧采样数量等。 「字节Seed、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-310",
+      "originalTitle": "【视频生成vs图像生成】视频生成模型和图片生成模型的区别？个人怎么看待视频生成和图像生成，更倾向于哪种？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-311",
+      "originalTitle": "【视频生成评估基准】介绍VBench（视频生成评估基准）。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3585",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-312",
+      "originalTitle": "【ASR辅助关键帧提取】在短视频摘要任务中，如何利用ASR（语音转文字）信息来辅助视觉关键帧提取？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3590",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-313",
+      "originalTitle": "【多模态大模型视频处理】Qwen-VL系列如何处理视频？请说明其视频处理流程。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3591",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-314",
+      "originalTitle": "【多模态视频分析应用】多模态视频分析应用：比如通过“物流视频+文本日志”分析分拣错误原因，效果如何？请讨论。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3592",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-315",
+      "originalTitle": "【多目标跟踪算法】多目标跟踪算法：包括DeepSORT代码解析、数据关联代码实践、卡尔曼滤波原理。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3593",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-316",
+      "originalTitle": "【视频Caption生成】怎么用模型做视频Caption生成？请介绍方法。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3594",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-317",
+      "originalTitle": "【视频帧采样方法】视频帧采样方法：介绍稀疏帧采样和长视频采样的方法，包括对论文C中稀疏帧采样的了解。 「百度、百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3595",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-318",
+      "originalTitle": "【视频时空特征提取】视频时空特征提取：介绍TimeSformer或VideoMAE的核心思路；说明SlowFast网络如何模拟人类视觉系统的双流机制。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3596",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-319",
+      "originalTitle": "【轨迹预测与规划】轨迹预测与规划：使用MotionLM这种形式？请介绍其原理。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3597",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-320",
+      "originalTitle": "【音视频噪声处理】如何解决音视频数据中的噪声问题？请列举具体方法。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-321",
+      "originalTitle": "【CogVideoX架构与训练】CogVideoX的模型结构（包括3DVAE的压缩率、MM-DiT的优势、4f+1中+1的含义）是怎样的？训练过哪些插件？用了多少数据量和多少卡？ 「腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3603",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-322",
+      "originalTitle": "【Wan系列视频生成模型】Wan系列视频生成模型：Wan2.1的详细架构和训练细节；Wan2.2 MoE模型的步数蒸馏如何设计？Wan2.2的模型架构细节，高噪专家和低噪专家根据信噪比划分，具体实现及转换选择。 「字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3604",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-323",
+      "originalTitle": "【多模态大模型视频处理】介绍一下多模态长视频扩展方法，如何在现有模型上改，比如llava？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3605",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-324",
+      "originalTitle": "【多模态视频分析应用】如何利用多模态信息进行视频情感识别(Multimodal Emotion Recognition)？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3606",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-325",
+      "originalTitle": "【多目标跟踪算法】MOTR范式在训练的时候需要加哪些约束？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3607",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-326",
+      "originalTitle": "【文生视频人物ID保持】文生视频过程中当人物的移动速度过快情况下id很难保持，针对这个问题你有什么解决方案？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3608",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-327",
+      "originalTitle": "【视频大模型技术探讨】视频大模型技术探讨：动态分辨率策略/帧采样率设定/最大上下文窗口设计。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3609",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-328",
+      "originalTitle": "【视频帧采样方法】多模态大模型在处理视频理解任务时，如何高效采样帧序列，以平衡计算成本与时序信息？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3610",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-329",
+      "originalTitle": "【视频物体时间轴提取】一个带货博主的视频，怎么得到重要物体出现的时间轴以及对应的描述。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3611",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-330",
+      "originalTitle": "【视频生成一致性】怎么保证长视频中的背景一致性？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-331",
+      "originalTitle": "【视频音频预训练】讲一下视频/音频预训练，如何构建网络，如何训练？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3613",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-332",
+      "originalTitle": "【轨迹预测与规划】有没有了解过轨迹预测、博弈和预测规划一体化?如何理解? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-333",
+      "originalTitle": "【长视频关键帧提取与语义连贯】对于分钟级长视频，如何设计多模态模型以提取关键帧并保持语义连贯性？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-334",
+      "originalTitle": "【长视频理解关键问题】问long video understanding有什么关键的问题？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3616",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-335",
+      "originalTitle": "【视频生成模型资源受限优化】如果让你主导研发一款类似于Sora的视频生成模型，应用在腾讯互娱(IEG)的游戏NPC过场动画自动生成中，在可调用的计算资源只有业界头部企业三分之一的情况下，你会优先在哪些网络结构或采样模块上做工程妥协与剪枝？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3621",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-336",
+      "originalTitle": "【视频生成模型路线对比】目前Diffusion Transformer在视频生成领域证明了巨大的潜力，但自回归(Autoregressive)离散Token模型在图像和视频生成上也有强劲的追赶势头。你如何看待这两种底层路线在未来多模态生成终局上的博弈？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3622",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-337",
+      "originalTitle": "【超长视频时序建模优化】当多模态大模型需要支持超长视频序列(如两小时完整的腾讯长视频电影)理解时，基础Transformer的全局注意力机制会导致显存瞬间爆炸。请给出三种解决长视频时序建模的架构级优化方案，并详细对比其优劣。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3623",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-338",
+      "originalTitle": "【音频驱动数字人重建】如果现在要你做音频驱动的数字人重建，你觉得有哪些亟待解决的问题，有哪些可以发论文的点？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3624",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-339",
+      "originalTitle": "【CFG】CFG设置的scale过高会发生什么？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3636",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-340",
+      "originalTitle": "【图像生成基础】了不了解图像生成，DiT和flow matching等 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3637",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-341",
+      "originalTitle": "【扩散模型分类】diffusion model有哪些？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3638",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-342",
+      "originalTitle": "【扩散模型概述】介绍你对扩散模型的理解 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3639",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-343",
+      "originalTitle": "【文生图架构】文生图模型的架构是否了解？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3640",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-344",
+      "originalTitle": "【生成任务】对文生图、图生图、图生视频的了解 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3641",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-345",
+      "originalTitle": "【DDPM训练】DDPM在训练的时候为什么不是先加噪1000步然后再去噪，而是随机选一个时间步加噪再学习去噪过程？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3647",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-346",
+      "originalTitle": "【DiT】为什么dit更主流？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3648",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-347",
+      "originalTitle": "【Flow Matching】flow matching的训练和推理流程？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3649",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-348",
+      "originalTitle": "【LoRA】LoRA为什么能实现单模型多风格的一个生成作用在SD哪里（交叉注意力层）？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3650",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-349",
+      "originalTitle": "【Prompt处理】AIGC绘图项目中，模糊意图怎么处理？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3651",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-350",
+      "originalTitle": "【Stable Diffusion】Stable diffusion与DDPM的区别，Stable diffusion为什么要将图像嵌入到隐空间，有何优势？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3652",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-351",
+      "originalTitle": "【Stable Diffusion损失】Stable diffusion的损失函数是什么，具体由哪几部分构成？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3653",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-352",
+      "originalTitle": "【Textual Inversion】解释一下Textual Inversion。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3654",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-353",
+      "originalTitle": "【扩散模型基础】Diffusion模型的原理是什么，如何实现训练和推理？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3655",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-354",
+      "originalTitle": "【扩散模型模块】DM模块的具体输入是基于什么的，里面做了什么操作？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3656",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处 DM 位于 Diffusion 与图像生成部分，指扩散模块。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-355",
+      "originalTitle": "【数据准备】AIGC绘图项目用了哪些数据，怎么来的，是否有做预处理？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3657",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-356",
+      "originalTitle": "【时间步采样】训练diffusion model或flow matching model时，timestep采样使用什么分布？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-357",
+      "originalTitle": "【模型路线】是否了解Nano、Image 2.0、Seedream这类图像生成模型，它们底层大概是什么模型路线？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3659",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未说明 Nano/Image 2.0 的厂商与版本。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-358",
+      "originalTitle": "【生成质量】1. AIGC的“美感”是怎么体现的？ 2. 如何缓解DT生成中的过饱和现象？ 「腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3660",
+      "reviewStatus": "confirmed",
+      "reviewNote": "DT 未展开，原题也未给出过饱和时的采样条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-359",
+      "originalTitle": "【FLUX位置编码】FLUX-Kontext和FLUX-Fill在模型结构上的区别，FLUX-Kontext的位置编码和FLUX-Fill的区别，在时间维度上什么区别，空间维度上有没有区别？FLUX中的RoPE是怎么工作的？ 「腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3665",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-360",
+      "originalTitle": "【FLUX对比】介绍一下FLUX和SD1.5、SDXL的区别？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3666",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-361",
+      "originalTitle": "【SD3】SD3的架构，生成原理Flow matching。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3667",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-362",
+      "originalTitle": "【加速方法】讲一下nunchaku/teacache的原理。文生图模型的feature cache。 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3668",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-363",
+      "originalTitle": "【可控生成】AIGC怎么做可控图生成？ControlNet的原理是什么？如何输入控制信息，控制信息在哪个位置加入？ControlNet的结构原理是怎样的，有没有训练过，训练时用了多少数据多少卡，为什么有零卷积层？ 「腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3669",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-364",
+      "originalTitle": "【噪声调度】你觉得FLUX的噪声调度和传统的DDPM有什么区别？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3670",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-365",
+      "originalTitle": "【扩散模型对比】DDPM和Flow Matching的区别是什么？Flow Matching相比DDPM有哪些优势？请解释DDPM、DDIM和flow-matching的原理，并重点说明DDPM与DDIM的区别。 「百度、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3671",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-366",
+      "originalTitle": "【架构对比】mmdit和flux架构区别？介绍FLUX的整体架构、原理、结构（包括双流Block和单流Block），说明其作为生成模型的优势，并解释为什么要先双流再单流。请详细讲解DiT的原理和具体实现，包括其架构（如AdaLN-Zero等），并说明Flux扩散模型的架构。 「百度、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3672",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-367",
+      "originalTitle": "【模型对比】说一下FLUX实现和WANs的实现有什么区别？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3673",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-368",
+      "originalTitle": "【生成质量】AIGC生图不符合物理世界的客观规律怎么办？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3674",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-369",
+      "originalTitle": "【CV模型概述】请介绍CV领域的模型，包括但不限于：GUIAgent与游戏风控、端到端自动驾驶等方向。 「百度、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3681",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-370",
+      "originalTitle": "【VLA与具身智能】对VLA、具身智能的了解 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3686",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-371",
+      "originalTitle": "【京东物流监控应用】在京东物流监控中的应用？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3687",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“物流监控中的应用”未说明所用技术、目标与输入输出。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-372",
+      "originalTitle": "【人驾数据训练】是否加入了人驾数据进行训练？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3688",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-373",
+      "originalTitle": "【仿真测试】请解释一下自动驾驶中的仿真测试及其重要性。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3689",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-374",
+      "originalTitle": "【多模态技术发展趋势】请分享你对多模态技术未来发展趋势的看法。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3690",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-375",
+      "originalTitle": "【多模态音频融合】有考虑音频融合吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3692",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-376",
+      "originalTitle": "【智能体轨迹预测与坐标参考】其他智能体的预测轨迹如何得到、坐标相对于？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3693",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未指定其他参与者预测所用的坐标系。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-377",
+      "originalTitle": "【泊车突变行为数据】泊车过程中可能存在一些突变的行为(例如因为一些障碍物导致泊车中断)，训练数据中是否包括这样的数据？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3694",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-378",
+      "originalTitle": "【运动学模型与动力学模型选择】规划中常用的是运动学模型还是动力学模型？为什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3695",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-379",
+      "originalTitle": "【RSS模型应用】如何将RSS模型应用于换道场景？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3700",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-380",
+      "originalTitle": "【SLAM技术及测试】请解释一下自动驾驶中的SLAM技术及其测试挑战。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3701",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-381",
+      "originalTitle": "【V2X通信测试】请解释一下自动驾驶中的V2X通信测试方法。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3702",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-382",
+      "originalTitle": "【冗余系统测试】请解释一下自动驾驶中的冗余系统测试方法。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3703",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-383",
+      "originalTitle": "【决策规划算法测试】请解释一下自动驾驶中的决策规划算法测试方法。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3704",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-384",
+      "originalTitle": "【功能安全测试】请解释一下自动驾驶中的功能安全测试标准。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3705",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-385",
+      "originalTitle": "【图搜技术及badcase处理】图搜方面的细节，以及这么做的想法和动机。针对badcase怎么处理？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3706",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-386",
+      "originalTitle": "【场景生成测试】请解释一下自动驾驶中的场景生成测试方法。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3707",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-387",
+      "originalTitle": "【场景覆盖测试】请解释一下自动驾驶中的场景覆盖测试方法。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3708",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-388",
+      "originalTitle": "【多传感器标定测试】请解释一下自动驾驶中的多传感器标定测试方法。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3709",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-389",
+      "originalTitle": "【多模态数据增强】请分享一个你在多模态数据增强中的实践经验？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3710",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-390",
+      "originalTitle": "【多模态数据处理】请描述你使用过的最复杂的多模态数据处理流程。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3711",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-391",
+      "originalTitle": "【多模态数据对齐】请分享一个你在多模态数据对齐中的优化案例？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3712",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-392",
+      "originalTitle": "【多模态预训练模型】请分享一个你在多模态预训练模型中的实践经验？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3713",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-393",
+      "originalTitle": "【多目标跟踪测试】请解释一下自动驾驶中的多目标跟踪测试方法。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3714",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-394",
+      "originalTitle": "【多设备影像质量处理】不同设备产生的影像质量可能不一样，你是怎么处理的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3715",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-395",
+      "originalTitle": "【智能体历史信息与参考线mask】智能体的历史信息是否mask住参考线的输入信息：x、y、heading、边界、硬隔离？请解释。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3716",
+      "reviewStatus": "needs_review",
+      "reviewNote": "历史信息与参考线未说明所属模型、使用位置及可见性约定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-396",
+      "originalTitle": "【模态选择与规则兜底】如何选出最佳的模态？模型输出的轨迹无法保证一定安全，为什么基于规则的轨迹能够兜底？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3717",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-397",
+      "originalTitle": "【深度学习在自动驾驶中的应用】请简述深度学习在自动驾驶中的核心应用场景(如目标检测、语义分割、轨迹预测等)，结合具体算法模型(如YOLO、Transformer、PointNet等)，谈谈你对模型优化的核心思路。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3718",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-398",
+      "originalTitle": "【生成模型评估】怎么评估RQ-VAE生成SID效果的好坏？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3719",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-399",
+      "originalTitle": "【用户上传图片质量处理】我们现在业务场景中会遇到用户上传的数据图片质量相差非常大的情况，你有什么思路？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3720",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-400",
+      "originalTitle": "【端到端架构对比】现在行业内说的“一段式”和“两段式”(如感知+规划分开训)到底有什么区别？请对比分析。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3721",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-401",
+      "originalTitle": "【端到端模仿学习缺陷】现在的端到端大都是模仿学习，它最大的“遗传病”是什么？请详细说明。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3722",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-402",
+      "originalTitle": "【背景车辆拟人性建模】如何考虑背景车辆的拟人性？背景车辆应该具有自己的目标，如到达终点？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3723",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-403",
+      "originalTitle": "【脑机接口与时序数据处理】脑机接口是如何做的，如何处理时序数据的？请解释。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3724",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-404",
+      "originalTitle": "【自动驾驶仿真场景与评价指标】自动驾驶仿真平台：考虑了哪些场景？评价指标包括哪些？请列举并说明。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3725",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-405",
+      "originalTitle": "【自动驾驶测试方法】请解释一下自动驾驶中的以下测试方法：定位算法测试、实时性测试、感知算法测试、控制算法测试、故障注入测试、模型在环测试、深度学习模型测试、硬件在环测试、端到端测试、系统级测试、行为预测算法测试、路径规划算法及其测试、软件在环测试、高精度地图测试、传感器融合技术及其在测试中的重要性。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3726",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-406",
+      "originalTitle": "【自动驾驶算法兼容性评估】请描述你如何评估一个自动驾驶算法的兼容性? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3727",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-407",
+      "originalTitle": "【自动驾驶算法工作流程】请简述你倾向的自动驾驶算法方向(如感知/决策规划等)的核心工作流程，并说明各环节的核心工作及关键注意事项。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3728",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-408",
+      "originalTitle": "【自动驾驶算法评估】请描述你如何评估一个自动驾驶算法的可扩展性、可维护性、安全性、实时性能和鲁棒性？分别说明评估方法和关键指标。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3729",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-409",
+      "originalTitle": "【规划算法对比】Lattice Planner和EM Planner的核心区别是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3730",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-410",
+      "originalTitle": "【规控端到端与planning接入】如何理解规控端到端、如何接入planning？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3731",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-411",
+      "originalTitle": "【语音级联方案中DM不感知语音】语音级联方案中DM不感知语音会有什么问题？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-412",
+      "originalTitle": "【音视频分割实践】请分享一个你在音视频分割技术中的实践经验？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3733",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“音视频分割”未说明是时间切分、声源分离还是对象分割。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-413",
+      "originalTitle": "【音视频同步实践】请分享一个你在音视频同步技术中的实践经验？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3734",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-414",
+      "originalTitle": "【音视频处理挑战与解决】请分享一个你在音视频处理项目中遇到的挑战，以及你是如何解决的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3735",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-415",
+      "originalTitle": "【音视频目标检测优化】请分享一个你在音视频目标检测中的优化案例？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3736",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-416",
+      "originalTitle": "【音视频编解码优化】请分享一个你在音视频编解码中的优化案例？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3737",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-417",
+      "originalTitle": "【音视频质量评估优化】请分享一个你在音视频质量评估中的优化案例？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-418",
+      "originalTitle": "【Diffusion模型在轨迹预测中的应用】Diffusion模型最近很火，你觉得它在轨迹预测/规划里到底是有真本事，还是在“大力出奇迹”? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3743",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-419",
+      "originalTitle": "【多传感器融合】请说明多传感器融合(摄像头、激光雷达、毫米波雷达)在自动驾驶中的核心作用，结合京东自动驾驶业务场景，谈谈多传感器融合的关键技术点与实现思路? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-420",
+      "originalTitle": "【多模态异常检测】请描述你处理过的最具挑战性的多模态异常检测案例。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3745",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-421",
+      "originalTitle": "【多模态数据融合】请分享一个你在多模态数据融合中的创新实践？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3746",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-422",
+      "originalTitle": "【多模态预训练梯度稳定】在进行大规模分布式多模态预训练时，经常遇到不同模态(例如高维图像和离散文本)梯度规模差异巨大且收敛速度不一致的问题，导致训练极不稳定甚至完全崩塌。你会引入怎样的损失函数设计或梯度缩放机制来稳定训练过程？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3747",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-423",
+      "originalTitle": "【理论收敛界】理论收敛界有何不同？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3748",
+      "reviewStatus": "needs_review",
+      "reviewNote": "理论收敛界缺少比较算法、目标与假设。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-424",
+      "originalTitle": "【端到端架构对比】对比一下UniAD和VAD(Visual Autonomous Driving)的架构差异。VAD去掉了很多繁琐的显式表示，真的不会导致性能下降吗? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3749",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-425",
+      "originalTitle": "【自动驾驶感知算法设计】请说明自动驾驶感知算法的核心任务与常用方法，结合京东仓储物流自动驾驶场景(如动态障碍物识别、货架定位、狭窄通道避障)，谈谈你如何设计高效的感知算法? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3750",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-426",
+      "originalTitle": "【自动驾驶模型失败案例】跑过那么多仿真/实车，你有没有遇到过那种“人类司机闭着眼都能过，但你的模型就是死也过不去”的Case？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3751",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-427",
+      "originalTitle": "【语音翻译中人声与模型声overlap处理】语音翻译场景下，人声和模型声如果出现overlap怎么去调整模型架构解决？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3752",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-3103-428",
+      "originalTitle": "【音视频系统设计】请设计一个实时音视频特效系统（核心算法和流程）；实时音视频降噪系统（核心算法和流程）；实时音视频风格迁移系统（核心模块和数据流）；音视频内容审核系统（核心算法和流程）；音视频内容检索系统（核心模块和数据流）；音视频内容生成与编辑系统（核心算法和流程）；音视频内容生成系统（核心模块和数据流）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3757",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

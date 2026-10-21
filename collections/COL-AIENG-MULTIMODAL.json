@@ -1,0 +1,200 @@
+{
+  "id": "COL-AIENG-MULTIMODAL",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · 多模态 AI",
+  "coverage": [
+    "llm",
+    "rag",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-MULTIMODAL-001",
+      "originalTitle": "What are Multimodal AI models, and how do they process different types of data?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L793",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-002",
+      "originalTitle": "How do vision-language models process images?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L795",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-003",
+      "originalTitle": "How do Image Embeddings work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L797",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-004",
+      "originalTitle": "How does CLIP work, and why is it important for multi-modal AI?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L799",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-005",
+      "originalTitle": "What are the key architectures for multi-modal models?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L801",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-006",
+      "originalTitle": "How does image generation work with diffusion models (Stable Diffusion, DALL-E, Flux)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L803",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-007",
+      "originalTitle": "What is text-to-speech (TTS), and what models are used for it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L805",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-008",
+      "originalTitle": "How does speech-to-text (Whisper) work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L806",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-009",
+      "originalTitle": "Budget the end-to-end latency for a real-time voice agent (VAD, ASR, LLM, TTS, network). Where does the time go?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L807",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-010",
+      "originalTitle": "How do you handle barge-in (user interruptions) in a voice agent?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L809",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-011",
+      "originalTitle": "Cascaded ASR + LLM + TTS vs native speech-to-speech models: what are the trade-offs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L811",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-012",
+      "originalTitle": "What is multi-modal RAG, and how does it differ from text-only RAG?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L813",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-013",
+      "originalTitle": "How do you build a system that processes both images and text?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L814",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-014",
+      "originalTitle": "What are multi-modal embeddings, and how are they used for cross-modal search?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L816",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-015",
+      "originalTitle": "How do you evaluate multi-modal AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L818",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-016",
+      "originalTitle": "What are the challenges of real-time multi-modal AI processing?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L819",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-017",
+      "originalTitle": "How do you handle video understanding with AI?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L820",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-018",
+      "originalTitle": "What is visual question answering (VQA)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L821",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-019",
+      "originalTitle": "What is document understanding, and how do models parse documents with layouts?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L822",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-020",
+      "originalTitle": "How do you fine-tune a vision-language model?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L823",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-021",
+      "originalTitle": "What are the latency and cost considerations for multi-modal AI in production?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L824",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-022",
+      "originalTitle": "How do you handle multi-modal content moderation?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L825",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-023",
+      "originalTitle": "What is text-to-video generation, and what are the current state-of-the-art approaches?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L826",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-024",
+      "originalTitle": "Explain Multimodal Fusion Techniques: Early Fusion vs Late Fusion.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L827",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-025",
+      "originalTitle": "Your vision-language model generates factually incorrect image descriptions. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L828",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-026",
+      "originalTitle": "Your VLM answers single-image questions but fails on multi-page documents. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L829",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-027",
+      "originalTitle": "Your multimodal LLM ignores the image and generates descriptions from text alone. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L830",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-028",
+      "originalTitle": "Your diffusion model ignores precise control requirements in text prompts. How do you improve controllability?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L831",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-029",
+      "originalTitle": "Your diffusion model generates sharp but repetitive images. How do you balance quality vs diversity?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L832",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-MULTIMODAL-030",
+      "originalTitle": "Your diffusion model takes too long per image. How do you speed up sampling?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L833",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

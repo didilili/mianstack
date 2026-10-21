@@ -1,0 +1,216 @@
+{
+  "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · Prompt 工程与框架原理：模板构建、Skills 机制",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-001",
+      "originalTitle": "提示词模板是怎么构建的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-002",
+      "originalTitle": "Skills 的原理有没有了解过？怎么实现的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-003",
+      "originalTitle": "Claude Code 的架构有什么比较创新的设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-004",
+      "originalTitle": "如果让你从零设计一个 Skill 系统，需要实现哪些核心能力？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L184",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-005",
+      "originalTitle": "为什么已经有了 MCP，Anthropic 还要做 Skill？Skill 里面有没有工具？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-006",
+      "originalTitle": "一个好的 Prompt 和一个差的 Prompt 的区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-007",
+      "originalTitle": "LobeChat 的插件和 Claude Code 的 Skills 有什么本质区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-008",
+      "originalTitle": "Harness Engineering 是什么？它如何演进的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-009",
+      "originalTitle": "Skill 的渐进式披露（Progressive Disclosure）怎么实现？Skill 之间的沙箱隔离和通信机制是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-010",
+      "originalTitle": "什么是一个好的提示词？如何做好提示词的评估？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L539",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-011",
+      "originalTitle": "通常 Prompt 包含哪些结构？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-012",
+      "originalTitle": "在调优 Prompt 时，你有哪些实战经验？如何利用 AI 辅助自己优化 Prompt？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L644",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-013",
+      "originalTitle": "用户的某个需求，你会沉淀为 Skill 还是长期记忆？判断标准是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L688",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-014",
+      "originalTitle": "DSPy 是什么？它在 Agent 提示词优化和流程构建上有什么优势？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L723",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-015",
+      "originalTitle": "你觉得一个 Skill 写得好不好，应该看哪些标准？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L764",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-016",
+      "originalTitle": "单看 Prompt 层面，有哪些办法能让模型回答更快、更稳定？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L795",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-017",
+      "originalTitle": "团队里的 Skill 数量持续膨胀，如何治理重复能力、路由冲突和上下文占用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L822",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-018",
+      "originalTitle": "如何让大模型从混乱的非结构化文档中稳定提取结构化 JSON？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L841",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-019",
+      "originalTitle": "Skill 和 Agent 的关系，为什么不用 Skill 而用子 Agent？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L858",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-020",
+      "originalTitle": "OpenSpec/Spec 驱动开发与普通开发流程有什么区别？如何治理 Spec 过期？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L924",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-021",
+      "originalTitle": "如果 Agent 挂 100 个 Skill，如何提升召回率、准确度、F1 综合值？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L938",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-022",
+      "originalTitle": "Skill 分层体系怎么设计？为什么这么分层？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1001",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-023",
+      "originalTitle": "如果让你设计一个代码审查的 Skill，你会如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-024",
+      "originalTitle": "如何给 Agent 工具系统设计动态 Skill，而不让版本升级破坏历史任务？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1225",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-025",
+      "originalTitle": "Skill 的多后端可插拔加载应该如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1295",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-026",
+      "originalTitle": "为什么 Coding Agent 的 Skills 通常放在 System 上下文，而不是用户 Query 中？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-027",
+      "originalTitle": "异构 Coding Agent 如何共享和兼容项目级指令配置？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-028",
+      "originalTitle": "Skill 的 Prompt 配置上线后出错，如何快速止损和修复？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-029",
+      "originalTitle": "如何让 Agent 自动沉淀 Skill，同时保证生成的 Skill 准确、无害且不会无限膨胀？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1371",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-030",
+      "originalTitle": "可演进能力为什么应封装为 Skill，而不是不断塞进 Prompt？Skill 的知识进化流水线如何治理？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-031",
+      "originalTitle": "动态 Prompt 和静态 Prompt 有什么区别？各自在什么场景下用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-032",
+      "originalTitle": "为什么一个很短的 Skill 也可能有效？如何验证效果来自哪里？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1505",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-PROMPT-ENGINEERING-033",
+      "originalTitle": "已知正确结果但不确定实现方案时，如何让大模型辅助探索和验证实现策略？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md#L1517",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

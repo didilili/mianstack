@@ -1,0 +1,351 @@
+{
+  "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · 架构选型：ReAct、Plan-and-Execute 与 ToT 怎么选",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-001",
+      "originalTitle": "你用 ReAct 还是 Plan-and-Execute？为什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-002",
+      "originalTitle": "Tree of Thoughts (ToT) 在线上系统里能用吗？成本不高？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-003",
+      "originalTitle": "Agent 的架构设计？从系统角度来拆分",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-004",
+      "originalTitle": "了解过 Agent 的设计范式吗？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-005",
+      "originalTitle": "Agent 在学术上由哪些部分组成？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-006",
+      "originalTitle": "如果让你设计一个 Agent 的规划器，怎么避免它每一步都重新规划，导致路径震荡？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-007",
+      "originalTitle": "如果模型特别擅长生成，但不擅长严格遵守流程，你会怎么把它放进一个强约束工作流里？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L257",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-008",
+      "originalTitle": "什么时候该做 Agent？和 Workflow 的边界在哪？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-009",
+      "originalTitle": "生产级 Agent 的执行循环包含哪些阶段？哪些必须显式状态化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L324",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-010",
+      "originalTitle": "设计一个 AI Agent 爬取短视频平台内容，如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-011",
+      "originalTitle": "现在的 Agent 架构和之前有什么本质不同？渐进式披露是什么思路？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-012",
+      "originalTitle": "Agent 系统里，模型和系统代码的职责边界怎么划？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L460",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-013",
+      "originalTitle": "如果面试官说“Agent 本质上就是套壳调用工具”，你怎么反驳？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-014",
+      "originalTitle": "为什么很多团队做到最后是“Workflow + Agent 节点”的混合架构？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L513",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-015",
+      "originalTitle": "什么样的任务适合先全局规划再执行，什么样的任务更适合边走边决策？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-016",
+      "originalTitle": "Agent 的任务规划是怎么做的？规划由模型完成还是规则实现？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-017",
+      "originalTitle": "如何保证规划 Agent plan 的结果正确？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L651",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-018",
+      "originalTitle": "Skill、MCP、Rule 三者有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L696",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-019",
+      "originalTitle": "微服务怎么接入一个 Agent 系统？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L785",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-020",
+      "originalTitle": "规划完成后需要人工介入修改大纲，SSE 怎么实现这种 Human-in-the-Loop？前端怎么让用户输入？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L844",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-021",
+      "originalTitle": "LangChain 和 LangGraph 有什么区别？分别适合什么场景？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L924",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-022",
+      "originalTitle": "模型和 Agent 的区别到底是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L974",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-023",
+      "originalTitle": "场景题——如果有一个监控日志，给 Agent 分析，需要得到分析结果，怎么设计这个 Agent？怎么设计工具？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1028",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-024",
+      "originalTitle": "如果设计一个科研辅助 Agent，整体流程应该怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-025",
+      "originalTitle": "Agent 的 Self-Reflection 机制是什么？它怎么识别输出中的逻辑错误？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1182",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-026",
+      "originalTitle": "设计一个智能导购助手 Agent，描述其感知、规划、记忆和执行四大模块在分布式架构下的协同逻辑",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-027",
+      "originalTitle": "多角色智能客服场景（B/C/D 端），用 RAG 还是 Skill？怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-028",
+      "originalTitle": "在“推理-行动”循环中，如何设计来纠正逻辑塌缩或无效工具调用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1369",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-029",
+      "originalTitle": "如何保障自然语言任务描述能精准转化为稳定、可靠的执行路径？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-030",
+      "originalTitle": "Skill 和 Workflow 的区别是什么？什么场景该用 Skill 而不是 Workflow？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-031",
+      "originalTitle": "DAG 与含循环图在 Agent 编排中的区别和适用场景",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-032",
+      "originalTitle": "基于强化学习的 Agent 与传统基于 Prompt 的 Agent 有何区别？各自的适用场景？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1575",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-033",
+      "originalTitle": "AI 系统该做单域工具还是跨团队通用平台？怎么选？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1609",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-034",
+      "originalTitle": "讲一讲 Agent 的 Middleware（中间件）是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1650",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-035",
+      "originalTitle": "Coding Agent 的完整链路是怎么运转的？从用户输入到代码产出的全流程",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1697",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-036",
+      "originalTitle": "只有模型 API 和 VS Code，如何从零搭建一套可用的 Agent 应用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1753",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-037",
+      "originalTitle": "用拓扑排序（规则式）管理任务依赖 vs 让大模型自己推理决策执行顺序，各有什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1771",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-038",
+      "originalTitle": "Agent 如何判断已经收集了足够的信息，最终给出输出结论？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1840",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-039",
+      "originalTitle": "Agent 的 thinking 阶段怎么决定是调用工具还是直接回复？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1877",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-040",
+      "originalTitle": "设计一个内部的多源文档问答 AI，架构设计是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1914",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-041",
+      "originalTitle": "什么时候需要自研或改造方案，而不是直接采用开源实现？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1964",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-042",
+      "originalTitle": "ReAct 在工程实现中，消息和状态协议应该怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L1983",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-043",
+      "originalTitle": "Agent 如何持续推进 Goal，并避免行为漂移和目标漂移？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2012",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-044",
+      "originalTitle": "Agent 组件拆解为什么适合责任链模式？与状态机、DAG 的边界是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2031",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-045",
+      "originalTitle": "如何设计多用户 AI 服务接入、配置隔离与模型路由？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2067",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-046",
+      "originalTitle": "在 AI/Agent 辅助编码时代，为什么 DDD 和清晰的领域边界反而更重要？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2084",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-047",
+      "originalTitle": "AI Coding Agent 的 Solo 模式和 Plan 模式应该如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-048",
+      "originalTitle": "自研业务 Agent 与基于通用 Base Agent 开发插件，如何进行架构选型？各有什么优缺点？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-049",
+      "originalTitle": "LangGraph 条件边与异常分支如何设计和实现？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-050",
+      "originalTitle": "如何在架构重构与业务需求之间进行技术资源和交付优先级取舍？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-051",
+      "originalTitle": "架构演进中如何判断是否移除分类器等中间组件？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-052",
+      "originalTitle": "设计一个预订机票的 Agent，如何处理澄清、支付确认和失败补偿？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-053",
+      "originalTitle": "交易系统如何选择直连第三方支付还是统一支付抽象层？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2190",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-054",
+      "originalTitle": "如何利用 AI 辅助技术方案选型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ARCHITECTURE-DESIGN-055",
+      "originalTitle": "技术工单如何进行前置分类分流与多字段协同过滤？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md#L2218",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

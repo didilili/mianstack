@@ -1,0 +1,169 @@
+{
+  "id": "COL-AIGC-DIGITAL-HUMAN-04",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 04_ID保持换脸与虚拟换衣高频考点",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-001",
+      "originalTitle": "1. ID 保持生成的核心目标是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-002",
+      "originalTitle": "面试问题：ID 保持生成、个性化生成、换脸有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L64",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-003",
+      "originalTitle": "面试问题：IP-Adapter、InstantID、PuLID、PhotoMaker 的技术路线如何对比？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L78",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-004",
+      "originalTitle": "面试问题：UniPortrait、ConsistentID 如何处理多人或细粒度 ID？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L91",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-005",
+      "originalTitle": "面试问题：InfiniteYou、FlashFace、InstantCharacter 代表了什么新趋势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-006",
+      "originalTitle": "2. 为什么高保真身份注入很难？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-007",
+      "originalTitle": "面试问题：Q-Former 注入和 ReferenceNet 注入有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-008",
+      "originalTitle": "面试问题：如何在 ID 相似度和文本可编辑性之间平衡？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-009",
+      "originalTitle": "面试问题：Copy-Paste 现象如何评估和缓解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-010",
+      "originalTitle": "面试问题：多人 ID 数据集如何构建？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-011",
+      "originalTitle": "3. 换脸任务的核心挑战是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L214",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-012",
+      "originalTitle": "面试问题：SimSwap、HiFiFace、Face-Adapter、ReFace 的思路有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L224",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-013",
+      "originalTitle": "面试问题：视频换脸为什么比图像换脸难？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-014",
+      "originalTitle": "面试问题：HiFiVFS、VividFace 如何提升视频换脸的一致性和细节？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-015",
+      "originalTitle": "面试问题：换脸如何结合 3DMM 和背景处理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-016",
+      "originalTitle": "4. 虚拟换衣为什么是数字人商业化重要方向？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-017",
+      "originalTitle": "面试问题：视频换衣和图像换衣的核心差异是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L307",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-018",
+      "originalTitle": "面试问题：Mask-based、Mask-free、蒸馏式虚拟换衣有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-019",
+      "originalTitle": "面试问题：如何处理 mask 引入的形状泄露问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L349",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-020",
+      "originalTitle": "面试问题：如何构造成品模特试穿视频生成链路？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-021",
+      "originalTitle": "5. ID 保持、换脸和换衣如何做数据与评估？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L378",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-022",
+      "originalTitle": "面试问题：虚拟换衣如何构造和筛选三元组数据？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-023",
+      "originalTitle": "面试问题：虚拟换衣常用数据集有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-024",
+      "originalTitle": "面试问题：如何通过文本控制衣服尺寸、宽松度和袖长？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-04-025",
+      "originalTitle": "面试问题：线上发现纹理糊、头发遮挡、服饰动作冲突如何处理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/04_ID%E4%BF%9D%E6%8C%81%E6%8D%A2%E8%84%B8%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%8D%A2%E8%A1%A3%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L450",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

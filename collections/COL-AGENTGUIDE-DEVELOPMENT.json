@@ -1,0 +1,292 @@
+{
+  "id": "COL-AGENTGUIDE-DEVELOPMENT",
+  "publisherId": "PUB-AGENTGUIDE",
+  "title": "AgentGuide · 开发岗专项面试题",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AgentGuide 的开发岗专项面试题。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-001",
+      "originalTitle": "设计一个支持日均 100 万查询的企业级 RAG 系统",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-002",
+      "originalTitle": "设计一个 Multi-Agent 协作系统（智能客服场景）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L60",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-003",
+      "originalTitle": "设计一个支持流式输出的 RAG 系统",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-004",
+      "originalTitle": "设计一个 Agent 工作流引擎（类似 LangGraph）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L84",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-005",
+      "originalTitle": "设计一个分布式 Agent 调度系统",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-006",
+      "originalTitle": "设计一个 LLM Gateway（API 网关）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-007",
+      "originalTitle": "设计一个 Memory 管理系统（长期记忆）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-008",
+      "originalTitle": "设计一个 Function Calling 微调数据生成系统",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-009",
+      "originalTitle": "设计一个 Agent 评估平台",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L143",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-010",
+      "originalTitle": "设计一个多租户 RAG SaaS 平台",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L155",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-011",
+      "originalTitle": "设计一个 Agent 调试与可观测性系统",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L167",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-012",
+      "originalTitle": "设计一个支持语音交互的 Agent",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-013",
+      "originalTitle": "设计一个 Agent 知识库更新系统",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L191",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-014",
+      "originalTitle": "设计一个 Prompt 管理与版本控制系统",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L203",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-015",
+      "originalTitle": "设计一个混合检索系统（向量 + BM25 + 图检索）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L215",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-016",
+      "originalTitle": "如何将 RAG 系统的 P99 延迟从 2s 降低到 300ms？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-017",
+      "originalTitle": "如何将 Agent 系统的 API 成本降低 70%？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L244",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-018",
+      "originalTitle": "如何优化向量检索的召回速度？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-019",
+      "originalTitle": "如何处理 Agent 的长对话场景（> 10 轮）？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-020",
+      "originalTitle": "如何优化 LLM 的推理吞吐量？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-021",
+      "originalTitle": "如何实现 Agent 的异常重试机制？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L292",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-022",
+      "originalTitle": "如何实现 RAG 的增量索引更新？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-023",
+      "originalTitle": "如何实现 Agent 的并发控制？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-024",
+      "originalTitle": "如何实现 LLM 响应的流式处理？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L328",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-025",
+      "originalTitle": "如何实现跨模型的统一 API？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-026",
+      "originalTitle": "如何实现 Agent 的状态持久化？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L352",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-027",
+      "originalTitle": "如何实现 RAG 的多语言支持？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-028",
+      "originalTitle": "LangChain vs LlamaIndex vs AutoGen，如何选择？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L378",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-029",
+      "originalTitle": "向量数据库选型：Milvus vs Weaviate vs Pinecone vs Chroma",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-030",
+      "originalTitle": "Memory 框架选型：Mem0 vs Zep vs LangChain Memory",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L397",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-031",
+      "originalTitle": "Embedding 模型选型：OpenAI vs BGE vs M3E",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-032",
+      "originalTitle": "LLM 选型：GPT-4 vs Claude vs Llama vs 国产大模型",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L415",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-033",
+      "originalTitle": "Agent 框架选型：LangGraph vs CrewAI vs AutoGen",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L427",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-034",
+      "originalTitle": "文档解析框架选型：LlamaParse vs Unstructured vs PyMuPDF",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L433",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-035",
+      "originalTitle": "异步任务队列选型：Celery vs RQ vs Dramatiq",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-036",
+      "originalTitle": "API 框架选型：FastAPI vs Flask vs Django",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L445",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-037",
+      "originalTitle": "监控方案选型：Prometheus + Grafana vs LangSmith vs LangFuse",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L451",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-038",
+      "originalTitle": "如何证明 Agent 比人工客服更好？设计评估方案",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-039",
+      "originalTitle": "如何设计 Agent 的灰度发布策略？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L473",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-040",
+      "originalTitle": "如何设计 RAG 系统的 A/B 测试？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L479",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-041",
+      "originalTitle": "如何处理 Agent 的幻觉问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-042",
+      "originalTitle": "如何设计 Agent 的权限控制？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-043",
+      "originalTitle": "如何处理用户数据隐私？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L515",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-044",
+      "originalTitle": "如何设计 Agent 的个性化能力？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L527",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-DEVELOPMENT-045",
+      "originalTitle": "如何量化 Agent 的业务价值（ROI 计算）？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md#L539",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

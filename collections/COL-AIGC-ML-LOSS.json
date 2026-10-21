@@ -1,0 +1,120 @@
+{
+  "id": "COL-AIGC-ML-LOSS",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC Interview Book · 损失函数知识点",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的机器学习问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-ML-LOSS-001",
+      "originalTitle": "Softmax的定义和作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L22",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-002",
+      "originalTitle": "交叉熵定义和作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L34",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-003",
+      "originalTitle": "格拉姆矩阵的相关概念？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-004",
+      "originalTitle": "感知损失的相关概念?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-005",
+      "originalTitle": "KL散度相关概念",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-006",
+      "originalTitle": "JS散度相关概念",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L97",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-007",
+      "originalTitle": "什么是机器学习中的局部最优与全局最优？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-008",
+      "originalTitle": "介绍一下机器学习中的目标函数、代价函数和损失函数的概念",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L142",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-009",
+      "originalTitle": "常用的距离度量方法",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-010",
+      "originalTitle": "KL散度和交叉熵的区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-011",
+      "originalTitle": "介绍一下总变分损失的概念与作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L361",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-012",
+      "originalTitle": "机器学习中将余弦相似度作为损失函数有哪些优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-013",
+      "originalTitle": "介绍一下机器学习中的L2损失函数",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L529",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-014",
+      "originalTitle": "介绍一下机器学习中的MSE损失函数",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L596",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-015",
+      "originalTitle": "介绍一下机器学习中的Huber Loss损失函数",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L649",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-016",
+      "originalTitle": "介绍一下机器学习中的Dice Loss损失函数",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L729",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-LOSS-017",
+      "originalTitle": "介绍一下机器学习中的三元组损失函数",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9.md#L793",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

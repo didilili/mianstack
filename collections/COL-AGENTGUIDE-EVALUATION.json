@@ -1,0 +1,78 @@
+{
+  "id": "COL-AGENTGUIDE-EVALUATION",
+  "publisherId": "PUB-AGENTGUIDE",
+  "title": "AgentGuide · 模型与 Agent 评估面试题",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AgentGuide 的模型与 Agent 评估面试题。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EVALUATION-001",
+      "originalTitle": "为什么传统的 NLP 评估指标（如 BLEU, ROUGE）对于评估现代 LLM 的生成质量来说，存在很大的局限性？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md#L27",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EVALUATION-002",
+      "originalTitle": "请介绍几个目前行业内广泛使用的 LLM 综合性基准测试，并说明它们各自的侧重点。（例如：MMLU, Big-Bench, HumanEval）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md#L36",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EVALUATION-003",
+      "originalTitle": "什么是\"LLM-as-a-Judge\"？使用 LLM 来评估另一个 LLM 的输出，有哪些优点和潜在的偏见？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EVALUATION-004",
+      "originalTitle": "如何设计一个评估方案来衡量 LLM 的特定能力，比如\"事实性/幻觉水平\"、\"推理能力\"或\"安全性\"？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md#L54",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EVALUATION-005",
+      "originalTitle": "评估一个 Agent 为什么比评估一个基础 LLM 更加困难和复杂？评估的维度有哪些不同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md#L65",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EVALUATION-006",
+      "originalTitle": "你了解哪些专门用于评估 Agent 能力的基准测试？这些基准通常如何构建测试环境和任务？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md#L74",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EVALUATION-007",
+      "originalTitle": "在评估一个 Agent 的任务完成情况时，除了最终结果的正确性，还有哪些过程指标是值得关注的？（例如：效率、成本、鲁棒性）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md#L83",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EVALUATION-008",
+      "originalTitle": "什么是红队测试？它在发现 LLM 和 Agent 的安全漏洞与偏见方面扮演着什么角色？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EVALUATION-009",
+      "originalTitle": "在进行人工评估时，如何设计合理的评估准则和流程，以保证评估结果的客观性和一致性？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md#L103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EVALUATION-010",
+      "originalTitle": "如何持续监控和评估一个已经部署上线的 LLM 应用或 Agent 服务的表现，以应对可能出现的性能衰退或行为漂移？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md#L112",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}
