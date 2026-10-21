@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="860" viewBox="0 0 390 860" role="img" aria-labelledby="title desc">
+  <title id="title">重排链表：先断开，再接线</title>
+  <desc id="desc">五节点例子：断为1、2、3和4、5；反转后半为5、4；分两轮合并为1、5、2、4、3。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#173042" />
+    </marker>
+    <marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#176b99" />
+    </marker>
+    <marker id="red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b63f44" />
+    </marker>
+    <marker id="orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b05b19" />
+    </marker>
+  </defs>
+  <style>text{font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif} .mono{font-family:"SFMono-Regular",Menlo,monospace}</style>
+  <rect x="0" y="0" width="390" height="860" rx="0" fill="#f8fafb" stroke="none" />
+  <text x="24" y="38" font-size="22" fill="#173042" font-weight="600" text-anchor="start">重排链表：先断开，再接线</text>
+  <text x="24" y="65" font-size="15" fill="#536877" font-weight="400" text-anchor="start">同一批节点，只改变 next 连接</text>
+  <rect x="16" y="88" width="358" height="268" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="119" font-size="18" fill="#173042" font-weight="600" text-anchor="start">① 找中点，断开 3 → 4</text>
+  <rect x="25" y="132" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="43" y="157" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">1</text>
+  <rect x="101" y="132" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="119" y="157" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">2</text>
+  <rect x="177" y="132" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="195" y="157" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">3</text>
+  <rect x="253" y="132" width="36" height="36" rx="9" fill="#fff0de" stroke="#b05b19" />
+  <text x="271" y="157" font-size="20" fill="#b05b19" font-weight="600" text-anchor="middle">4</text>
+  <rect x="329" y="132" width="36" height="36" rx="9" fill="#fff0de" stroke="#b05b19" />
+  <text x="347" y="157" font-size="20" fill="#b05b19" font-weight="600" text-anchor="middle">5</text>
+  <line x1="63" y1="150" x2="98" y2="150" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="139" y1="150" x2="174" y2="150" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="215" y1="150" x2="250" y2="150" stroke="#b63f44" stroke-width="2" marker-end="url(#red)" stroke-dasharray="5 4" />
+  <line x1="291" y1="150" x2="326" y2="150" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="233" y="157" font-size="26" fill="#b63f44" font-weight="700" text-anchor="middle">×</text>
+  <text x="30" y="192" font-size="15" fill="#536877" font-weight="400" text-anchor="start">先保存 second=4，再令 3.next=空</text>
+  <rect x="25" y="220" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="43" y="245" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">1</text>
+  <rect x="101" y="220" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="119" y="245" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">2</text>
+  <line x1="63" y1="238" x2="98" y2="238" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="177" y="220" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="195" y="245" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">3</text>
+  <line x1="139" y1="238" x2="174" y2="238" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="215" y1="238" x2="253" y2="238" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="259" y="243" font-size="14" fill="#536877" font-weight="400" text-anchor="start">空</text>
+  <rect x="25" y="293" width="36" height="36" rx="9" fill="#fff0de" stroke="#b05b19" />
+  <text x="43" y="318" font-size="20" fill="#b05b19" font-weight="600" text-anchor="middle">4</text>
+  <rect x="101" y="293" width="36" height="36" rx="9" fill="#fff0de" stroke="#b05b19" />
+  <text x="119" y="318" font-size="20" fill="#b05b19" font-weight="600" text-anchor="middle">5</text>
+  <line x1="63" y1="311" x2="98" y2="311" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="139" y1="311" x2="177" y2="311" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="183" y="316" font-size="14" fill="#536877" font-weight="400" text-anchor="start">空</text>
+  <text x="252" y="316" font-size="15" fill="#227653" font-weight="400" text-anchor="start">两段已分离</text>
+  <rect x="16" y="372" width="358" height="137" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="403" font-size="18" fill="#173042" font-weight="600" text-anchor="start">② 反转后半段</text>
+  <rect x="25" y="423" width="36" height="36" rx="9" fill="#fff0de" stroke="#b05b19" />
+  <text x="43" y="448" font-size="20" fill="#b05b19" font-weight="600" text-anchor="middle">5</text>
+  <rect x="101" y="423" width="36" height="36" rx="9" fill="#fff0de" stroke="#b05b19" />
+  <text x="119" y="448" font-size="20" fill="#b05b19" font-weight="600" text-anchor="middle">4</text>
+  <line x1="63" y1="441" x2="98" y2="441" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="139" y1="441" x2="177" y2="441" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="183" y="446" font-size="14" fill="#536877" font-weight="400" text-anchor="start">空</text>
+  <text x="30" y="488" font-size="15" fill="#536877" font-weight="400" text-anchor="start">前半段仍为 1 → 2 → 3 → 空</text>
+  <rect x="16" y="525" width="358" height="249" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="556" font-size="18" fill="#173042" font-weight="600" text-anchor="start">③ 保存 next 后，交替接线</text>
+  <text x="30" y="580" font-size="15" fill="#536877" font-weight="400" text-anchor="start">第一轮：接入 5</text>
+  <rect x="25" y="599" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="43" y="624" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">1</text>
+  <rect x="126" y="599" width="36" height="36" rx="9" fill="#fff0de" stroke="#b05b19" />
+  <text x="144" y="624" font-size="20" fill="#b05b19" font-weight="600" text-anchor="middle">5</text>
+  <line x1="63" y1="617" x2="123" y2="617" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="227" y="599" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="245" y="624" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">2</text>
+  <line x1="164" y1="617" x2="224" y2="617" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="328" y="599" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="346" y="624" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">3</text>
+  <line x1="265" y1="617" x2="325" y2="617" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="30" y="660" font-size="15" fill="#b05b19" font-weight="400" text-anchor="start">后半段剩余 4 → 空</text>
+  <text x="30" y="694" font-size="15" fill="#536877" font-weight="400" text-anchor="start">第二轮：接入 4</text>
+  <rect x="25" y="715" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="43" y="740" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">1</text>
+  <rect x="101" y="715" width="36" height="36" rx="9" fill="#fff0de" stroke="#b05b19" />
+  <text x="119" y="740" font-size="20" fill="#b05b19" font-weight="600" text-anchor="middle">5</text>
+  <line x1="63" y1="733" x2="98" y2="733" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="177" y="715" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="195" y="740" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">2</text>
+  <line x1="139" y1="733" x2="174" y2="733" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="253" y="715" width="36" height="36" rx="9" fill="#fff0de" stroke="#b05b19" />
+  <text x="271" y="740" font-size="20" fill="#b05b19" font-weight="600" text-anchor="middle">4</text>
+  <line x1="215" y1="733" x2="250" y2="733" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="329" y="715" width="36" height="36" rx="9" fill="#e3f1f8" stroke="#176b99" />
+  <text x="347" y="740" font-size="20" fill="#176b99" font-weight="600" text-anchor="middle">3</text>
+  <line x1="291" y1="733" x2="326" y2="733" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="24" y="807" font-size="14" fill="#173042" font-weight="400" text-anchor="start">覆盖指针前，保存 first_next / second_next</text>
+  <text x="24" y="834" font-size="15" fill="#227653" font-weight="400" text-anchor="start">最终 3.next=空；五个节点各出现一次</text>
+</svg>

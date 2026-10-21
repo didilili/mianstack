@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="644" viewBox="0 0 360 644" role="img" aria-labelledby="title desc">
+  <title id="title">容量2的LRU：移动原节点，淘汰时删除两处</title>
+  <desc id="desc">哈希表保存key到节点的引用。依次put(1,10)、put(2,20)后，head、节点2、节点1、tail相连；get(1)后，同一个节点1移到头部，字典仍指向原节点。put(3,30)后，淘汰尾部节点2，同时删除字典中的key2。上侧向右的箭头是next，下侧向左的箭头是prev。head与tail是哨兵节点。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#4e6479"/></marker>
+    <style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;font-size:18px;fill:#17293d;text-anchor:middle}.title{font-size:22px;font-weight:700}.stage{font-size:20px;font-weight:700;text-anchor:start}.bold{font-weight:700}.edge{fill:none;stroke:#4e6479;stroke-width:1.8;marker-end:url(#arrow)}.sentinel{fill:#f2f4f7;stroke:#9ba9b6}.n1{fill:#fff0d8;stroke:#b98a3f}.n2{fill:#e5f1ff;stroke:#739bc7}.n3{fill:#e6f6ee;stroke:#79ac91}.red{fill:#b54335}</style>
+  </defs>
+  <rect width="360" height="644" rx="12" fill="#fff"/>
+  <text x="180" y="29" class="title">LRU：移动原节点</text>
+  <text x="180" y="57">容量 2；头部最近，尾部最久</text>
+  <text x="180" y="84">上侧 next →；下侧 prev ←</text>
+
+  <rect x="8" y="99" width="344" height="144" rx="10" fill="#fafbfd" stroke="#d9e1e8"/>
+  <text x="18" y="124" class="stage">① put(1,10)、put(2,20)</text>
+  <rect x="18" y="137" width="62" height="57" rx="7" class="sentinel"/><text x="49" y="160">head</text><text x="49" y="184">哨兵</text>
+  <rect x="105" y="137" width="62" height="57" rx="7" class="n2"/><text x="136" y="160" class="bold">节点 2</text><text x="136" y="184">值 20</text>
+  <rect x="192" y="137" width="62" height="57" rx="7" class="n1"/><text x="223" y="160" class="bold">节点 1</text><text x="223" y="184">值 10</text>
+  <rect x="279" y="137" width="62" height="57" rx="7" class="sentinel"/><text x="310" y="160">tail</text><text x="310" y="184">哨兵</text>
+  <path d="M80 150H103" class="edge"/><path d="M105 180H82" class="edge"/>
+  <path d="M167 150H190" class="edge"/><path d="M192 180H169" class="edge"/>
+  <path d="M254 150H277" class="edge"/><path d="M279 180H256" class="edge"/>
+  <text x="180" y="226">nodes：1 → 节点 1，2 → 节点 2</text>
+
+  <rect x="8" y="258" width="344" height="167" rx="10" fill="#fafbfd" stroke="#d9e1e8"/>
+  <text x="18" y="283" class="stage">② get(1)：返回 10，移到头部</text>
+  <rect x="18" y="296" width="62" height="57" rx="7" class="sentinel"/><text x="49" y="319">head</text><text x="49" y="343">哨兵</text>
+  <rect x="105" y="296" width="62" height="57" rx="7" class="n1"/><text x="136" y="319" class="bold">节点 1</text><text x="136" y="343">值 10</text>
+  <rect x="192" y="296" width="62" height="57" rx="7" class="n2"/><text x="223" y="319" class="bold">节点 2</text><text x="223" y="343">值 20</text>
+  <rect x="279" y="296" width="62" height="57" rx="7" class="sentinel"/><text x="310" y="319">tail</text><text x="310" y="343">哨兵</text>
+  <path d="M80 309H103" class="edge"/><path d="M105 339H82" class="edge"/>
+  <path d="M167 309H190" class="edge"/><path d="M192 339H169" class="edge"/>
+  <path d="M254 309H277" class="edge"/><path d="M279 339H256" class="edge"/>
+  <text x="180" y="383">nodes：1 → 节点 1，2 → 节点 2</text>
+  <text x="180" y="410" class="bold">只改链接，字典仍指向原节点</text>
+
+  <rect x="8" y="440" width="344" height="168" rx="10" fill="#fafbfd" stroke="#d9e1e8"/>
+  <text x="18" y="465" class="stage">③ put(3,30)：超容量，淘汰 2</text>
+  <rect x="18" y="478" width="62" height="57" rx="7" class="sentinel"/><text x="49" y="501">head</text><text x="49" y="525">哨兵</text>
+  <rect x="105" y="478" width="62" height="57" rx="7" class="n3"/><text x="136" y="501" class="bold">节点 3</text><text x="136" y="525">值 30</text>
+  <rect x="192" y="478" width="62" height="57" rx="7" class="n1"/><text x="223" y="501" class="bold">节点 1</text><text x="223" y="525">值 10</text>
+  <rect x="279" y="478" width="62" height="57" rx="7" class="sentinel"/><text x="310" y="501">tail</text><text x="310" y="525">哨兵</text>
+  <path d="M80 491H103" class="edge"/><path d="M105 521H82" class="edge"/>
+  <path d="M167 491H190" class="edge"/><path d="M192 521H169" class="edge"/>
+  <path d="M254 491H277" class="edge"/><path d="M279 521H256" class="edge"/>
+  <text x="180" y="560">nodes：1 → 节点 1，3 → 节点 3</text>
+  <text x="180" y="589" class="red bold">链表删节点 2；del nodes[2]</text>
+  <text x="180" y="634">head / tail 不存业务数据</text>
+</svg>
