@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="901" viewBox="0 0 390 901" role="img" aria-labelledby="title desc">
+  <title id="title">先受伤后回血：第一秒开无敌才能存活</title>
+  <desc id="desc">初始3，伤害4/1/5，回血0/10/0，技能1秒。第一秒同时跳过伤害回血保持3；第二秒先伤到2后回到12；第三秒先伤到7后保持7。若技能留到第三秒，第一秒3减4已死亡。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#173042" />
+    </marker>
+    <marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#176b99" />
+    </marker>
+    <marker id="red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b63f44" />
+    </marker>
+    <marker id="orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b05b19" />
+    </marker>
+  </defs>
+  <style>text{font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif} .mono{font-family:"SFMono-Regular",Menlo,monospace}</style>
+  <rect x="0" y="0" width="390" height="901" rx="0" fill="#f8fafb" stroke="none" />
+  <text x="24" y="37" font-size="21" fill="#173042" font-weight="600" text-anchor="start">先受伤，再回血：中途不能死</text>
+  <text x="24" y="66" font-size="17" fill="#536877" font-weight="400" text-anchor="start">初始 m=3；无敌 k=1 秒</text>
+  <rect x="16" y="89" width="358" height="153" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="120" font-size="18" fill="#173042" font-weight="600" text-anchor="start">第 1 秒 · 开启无敌</text>
+  <text x="30" y="146" font-size="17" fill="#173042" font-weight="400" text-anchor="start">伤害 4、回血 0：同时跳过</text>
+  <rect x="48" y="169" width="294" height="47" rx="10" fill="#e2f2e9" stroke="none" />
+  <text x="195" y="200" font-size="24" fill="#227653" font-weight="600" text-anchor="middle">血量 3 → 3</text>
+  <rect x="16" y="259" width="358" height="193" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="290" font-size="18" fill="#173042" font-weight="600" text-anchor="start">第 2 秒 · 正常结算</text>
+  <text x="75" y="324" font-size="15" fill="#536877" font-weight="400" text-anchor="middle">开始</text>
+  <rect x="44" y="340" width="62" height="46" rx="8" fill="#e3f1f8" stroke="none" />
+  <text x="75" y="371" font-size="24" fill="#176b99" font-weight="600" text-anchor="middle">3</text>
+  <text x="195" y="324" font-size="15" fill="#536877" font-weight="400" text-anchor="middle">受伤后</text>
+  <rect x="164" y="340" width="62" height="46" rx="8" fill="#fff0de" stroke="none" />
+  <text x="195" y="371" font-size="24" fill="#b05b19" font-weight="600" text-anchor="middle">2</text>
+  <text x="315" y="324" font-size="15" fill="#536877" font-weight="400" text-anchor="middle">回血后</text>
+  <rect x="284" y="340" width="62" height="46" rx="8" fill="#e3f1f8" stroke="none" />
+  <text x="315" y="371" font-size="24" fill="#176b99" font-weight="600" text-anchor="middle">12</text>
+  <line x1="108" y1="364" x2="160" y2="364" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="228" y1="364" x2="280" y2="364" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="134" y="351" font-size="15" fill="#b63f44" font-weight="500" text-anchor="middle">−1</text>
+  <text x="254" y="351" font-size="15" fill="#227653" font-weight="500" text-anchor="middle">+10</text>
+  <text x="30" y="424" font-size="16" fill="#227653" font-weight="400" text-anchor="start">2 &gt; 0，活着才有机会接受回血</text>
+  <rect x="16" y="469" width="358" height="193" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="500" font-size="18" fill="#173042" font-weight="600" text-anchor="start">第 3 秒 · 正常结算</text>
+  <text x="75" y="534" font-size="15" fill="#536877" font-weight="400" text-anchor="middle">开始</text>
+  <rect x="44" y="550" width="62" height="46" rx="8" fill="#e3f1f8" stroke="none" />
+  <text x="75" y="581" font-size="24" fill="#176b99" font-weight="600" text-anchor="middle">12</text>
+  <text x="195" y="534" font-size="15" fill="#536877" font-weight="400" text-anchor="middle">受伤后</text>
+  <rect x="164" y="550" width="62" height="46" rx="8" fill="#fff0de" stroke="none" />
+  <text x="195" y="581" font-size="24" fill="#b05b19" font-weight="600" text-anchor="middle">7</text>
+  <text x="315" y="534" font-size="15" fill="#536877" font-weight="400" text-anchor="middle">回血后</text>
+  <rect x="284" y="550" width="62" height="46" rx="8" fill="#e3f1f8" stroke="none" />
+  <text x="315" y="581" font-size="24" fill="#176b99" font-weight="600" text-anchor="middle">7</text>
+  <line x1="108" y1="574" x2="160" y2="574" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="228" y1="574" x2="280" y2="574" stroke="#173042" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="134" y="561" font-size="15" fill="#b63f44" font-weight="500" text-anchor="middle">−5</text>
+  <text x="254" y="561" font-size="15" fill="#227653" font-weight="500" text-anchor="middle">+0</text>
+  <text x="30" y="634" font-size="16" fill="#227653" font-weight="400" text-anchor="start">7 &gt; 0，完成战斗</text>
+  <text x="195" y="701" font-size="22" fill="#227653" font-weight="600" text-anchor="middle">最终血量 7，成功存活</text>
+  <rect x="16" y="726" width="358" height="145" rx="14" fill="#fff0f0" stroke="none" />
+  <text x="30" y="760" font-size="18" fill="#b63f44" font-weight="600" text-anchor="start">若把技能留到第 3 秒</text>
+  <text x="30" y="797" font-size="18" fill="#b63f44" font-weight="600" text-anchor="start">第 1 秒：3−4=−1，立即死亡</text>
+  <text x="30" y="830" font-size="16" fill="#173042" font-weight="400" text-anchor="start">之后不再结算回血或开启技能</text>
+  <text x="30" y="855" font-size="15" fill="#536877" font-weight="400" text-anchor="start">不能只检查最终净变化或最大伤害</text>
+</svg>

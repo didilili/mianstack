@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="826" viewBox="0 0 390 826" role="img" aria-labelledby="title desc">
+  <title id="title">rand7 到 rand10：49格中接受40格</title>
+  <desc id="desc">两次独立均匀rand7生成49格，1到40接受，各输出出现4次；41到49拒绝重试。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#173042" />
+    </marker>
+    <marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#176b99" />
+    </marker>
+    <marker id="red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b63f44" />
+    </marker>
+    <marker id="orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b05b19" />
+    </marker>
+  </defs>
+  <style>text{font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif} .mono{font-family:"SFMono-Regular",Menlo,monospace}</style>
+  <rect x="0" y="0" width="390" height="826" rx="0" fill="#f8fafb" stroke="none" />
+  <text x="24" y="37" font-size="22" fill="#173042" font-weight="600" text-anchor="start">rand7 → rand10：裁出 40 格</text>
+  <text x="24" y="65" font-size="16" fill="#536877" font-weight="400" text-anchor="start">a、b 独立均匀，均取 1…7</text>
+  <text x="24" y="96" font-size="19" fill="#173042" font-weight="500" text-anchor="start">x = (a−1)×7+b</text>
+  <text x="24" y="123" font-size="15" fill="#536877" font-weight="400" text-anchor="start">格内：状态 x ／ 输出结果</text>
+  <text x="31" y="153" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">a↓</text>
+  <text x="362" y="153" font-size="15" fill="#536877" font-weight="500" text-anchor="start">b→</text>
+  <text x="81" y="153" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">1</text>
+  <text x="123" y="153" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">2</text>
+  <text x="165" y="153" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">3</text>
+  <text x="207" y="153" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">4</text>
+  <text x="249" y="153" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">5</text>
+  <text x="291" y="153" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">6</text>
+  <text x="333" y="153" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">7</text>
+  <text x="31" y="196" font-size="16" fill="#536877" font-weight="500" text-anchor="middle">1</text>
+  <rect x="60" y="165" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="80" y="189" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">1</text>
+  <text x="80" y="212" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→1</text>
+  <rect x="102" y="165" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="122" y="189" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">2</text>
+  <text x="122" y="212" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→2</text>
+  <rect x="144" y="165" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="164" y="189" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">3</text>
+  <text x="164" y="212" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→3</text>
+  <rect x="186" y="165" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="206" y="189" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">4</text>
+  <text x="206" y="212" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→4</text>
+  <rect x="228" y="165" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="248" y="189" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">5</text>
+  <text x="248" y="212" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→5</text>
+  <rect x="270" y="165" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="290" y="189" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">6</text>
+  <text x="290" y="212" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→6</text>
+  <rect x="312" y="165" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="332" y="189" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">7</text>
+  <text x="332" y="212" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→7</text>
+  <text x="31" y="258" font-size="16" fill="#536877" font-weight="500" text-anchor="middle">2</text>
+  <rect x="60" y="227" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="80" y="251" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">8</text>
+  <text x="80" y="274" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→8</text>
+  <rect x="102" y="227" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="122" y="251" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">9</text>
+  <text x="122" y="274" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→9</text>
+  <rect x="144" y="227" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="164" y="251" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">10</text>
+  <text x="164" y="274" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→10</text>
+  <rect x="186" y="227" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="206" y="251" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">11</text>
+  <text x="206" y="274" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→1</text>
+  <rect x="228" y="227" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="248" y="251" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">12</text>
+  <text x="248" y="274" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→2</text>
+  <rect x="270" y="227" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="290" y="251" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">13</text>
+  <text x="290" y="274" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→3</text>
+  <rect x="312" y="227" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="332" y="251" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">14</text>
+  <text x="332" y="274" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→4</text>
+  <text x="31" y="320" font-size="16" fill="#536877" font-weight="500" text-anchor="middle">3</text>
+  <rect x="60" y="289" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="80" y="313" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">15</text>
+  <text x="80" y="336" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→5</text>
+  <rect x="102" y="289" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="122" y="313" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">16</text>
+  <text x="122" y="336" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→6</text>
+  <rect x="144" y="289" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="164" y="313" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">17</text>
+  <text x="164" y="336" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→7</text>
+  <rect x="186" y="289" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="206" y="313" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">18</text>
+  <text x="206" y="336" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→8</text>
+  <rect x="228" y="289" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="248" y="313" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">19</text>
+  <text x="248" y="336" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→9</text>
+  <rect x="270" y="289" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="290" y="313" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">20</text>
+  <text x="290" y="336" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→10</text>
+  <rect x="312" y="289" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="332" y="313" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">21</text>
+  <text x="332" y="336" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→1</text>
+  <text x="31" y="382" font-size="16" fill="#536877" font-weight="500" text-anchor="middle">4</text>
+  <rect x="60" y="351" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="80" y="375" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">22</text>
+  <text x="80" y="398" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→2</text>
+  <rect x="102" y="351" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="122" y="375" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">23</text>
+  <text x="122" y="398" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→3</text>
+  <rect x="144" y="351" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="164" y="375" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">24</text>
+  <text x="164" y="398" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→4</text>
+  <rect x="186" y="351" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="206" y="375" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">25</text>
+  <text x="206" y="398" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→5</text>
+  <rect x="228" y="351" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="248" y="375" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">26</text>
+  <text x="248" y="398" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→6</text>
+  <rect x="270" y="351" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="290" y="375" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">27</text>
+  <text x="290" y="398" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→7</text>
+  <rect x="312" y="351" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="332" y="375" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">28</text>
+  <text x="332" y="398" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→8</text>
+  <text x="31" y="444" font-size="16" fill="#536877" font-weight="500" text-anchor="middle">5</text>
+  <rect x="60" y="413" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="80" y="437" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">29</text>
+  <text x="80" y="460" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→9</text>
+  <rect x="102" y="413" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="122" y="437" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">30</text>
+  <text x="122" y="460" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→10</text>
+  <rect x="144" y="413" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="164" y="437" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">31</text>
+  <text x="164" y="460" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→1</text>
+  <rect x="186" y="413" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="206" y="437" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">32</text>
+  <text x="206" y="460" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→2</text>
+  <rect x="228" y="413" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="248" y="437" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">33</text>
+  <text x="248" y="460" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→3</text>
+  <rect x="270" y="413" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="290" y="437" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">34</text>
+  <text x="290" y="460" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→4</text>
+  <rect x="312" y="413" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="332" y="437" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">35</text>
+  <text x="332" y="460" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→5</text>
+  <text x="31" y="506" font-size="16" fill="#536877" font-weight="500" text-anchor="middle">6</text>
+  <rect x="60" y="475" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="80" y="499" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">36</text>
+  <text x="80" y="522" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→6</text>
+  <rect x="102" y="475" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="122" y="499" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">37</text>
+  <text x="122" y="522" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→7</text>
+  <rect x="144" y="475" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="164" y="499" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">38</text>
+  <text x="164" y="522" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→8</text>
+  <rect x="186" y="475" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="206" y="499" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">39</text>
+  <text x="206" y="522" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→9</text>
+  <rect x="228" y="475" width="40" height="60" rx="5" fill="#e2f2e9" stroke="#fff" />
+  <text x="248" y="499" font-size="16" fill="#227653" font-weight="600" text-anchor="middle">40</text>
+  <text x="248" y="522" font-size="14" fill="#227653" font-weight="400" text-anchor="middle">→10</text>
+  <rect x="270" y="475" width="40" height="60" rx="5" fill="#fce6e7" stroke="#fff" />
+  <text x="290" y="499" font-size="16" fill="#b63f44" font-weight="600" text-anchor="middle">41</text>
+  <text x="290" y="522" font-size="14" fill="#b63f44" font-weight="400" text-anchor="middle">重试</text>
+  <rect x="312" y="475" width="40" height="60" rx="5" fill="#fce6e7" stroke="#fff" />
+  <text x="332" y="499" font-size="16" fill="#b63f44" font-weight="600" text-anchor="middle">42</text>
+  <text x="332" y="522" font-size="14" fill="#b63f44" font-weight="400" text-anchor="middle">重试</text>
+  <text x="31" y="568" font-size="16" fill="#536877" font-weight="500" text-anchor="middle">7</text>
+  <rect x="60" y="537" width="40" height="60" rx="5" fill="#fce6e7" stroke="#fff" />
+  <text x="80" y="561" font-size="16" fill="#b63f44" font-weight="600" text-anchor="middle">43</text>
+  <text x="80" y="584" font-size="14" fill="#b63f44" font-weight="400" text-anchor="middle">重试</text>
+  <rect x="102" y="537" width="40" height="60" rx="5" fill="#fce6e7" stroke="#fff" />
+  <text x="122" y="561" font-size="16" fill="#b63f44" font-weight="600" text-anchor="middle">44</text>
+  <text x="122" y="584" font-size="14" fill="#b63f44" font-weight="400" text-anchor="middle">重试</text>
+  <rect x="144" y="537" width="40" height="60" rx="5" fill="#fce6e7" stroke="#fff" />
+  <text x="164" y="561" font-size="16" fill="#b63f44" font-weight="600" text-anchor="middle">45</text>
+  <text x="164" y="584" font-size="14" fill="#b63f44" font-weight="400" text-anchor="middle">重试</text>
+  <rect x="186" y="537" width="40" height="60" rx="5" fill="#fce6e7" stroke="#fff" />
+  <text x="206" y="561" font-size="16" fill="#b63f44" font-weight="600" text-anchor="middle">46</text>
+  <text x="206" y="584" font-size="14" fill="#b63f44" font-weight="400" text-anchor="middle">重试</text>
+  <rect x="228" y="537" width="40" height="60" rx="5" fill="#fce6e7" stroke="#fff" />
+  <text x="248" y="561" font-size="16" fill="#b63f44" font-weight="600" text-anchor="middle">47</text>
+  <text x="248" y="584" font-size="14" fill="#b63f44" font-weight="400" text-anchor="middle">重试</text>
+  <rect x="270" y="537" width="40" height="60" rx="5" fill="#fce6e7" stroke="#fff" />
+  <text x="290" y="561" font-size="16" fill="#b63f44" font-weight="600" text-anchor="middle">48</text>
+  <text x="290" y="584" font-size="14" fill="#b63f44" font-weight="400" text-anchor="middle">重试</text>
+  <rect x="312" y="537" width="40" height="60" rx="5" fill="#fce6e7" stroke="#fff" />
+  <text x="332" y="561" font-size="16" fill="#b63f44" font-weight="600" text-anchor="middle">49</text>
+  <text x="332" y="584" font-size="14" fill="#b63f44" font-weight="400" text-anchor="middle">重试</text>
+  <text x="24" y="637" font-size="19" fill="#227653" font-weight="600" text-anchor="start">40 格接受：1…40</text>
+  <text x="24" y="669" font-size="19" fill="#b63f44" font-weight="600" text-anchor="start">9 格拒绝：41…49</text>
+  <text x="24" y="707" font-size="16" fill="#173042" font-weight="400" text-anchor="start">每个输出 1…10，都恰好对应 4 格</text>
+  <text x="24" y="738" font-size="16" fill="#173042" font-weight="400" text-anchor="start">接受后返回：(x−1)%10+1</text>
+  <text x="24" y="770" font-size="16" fill="#536877" font-weight="400" text-anchor="start">拒绝后重新调用两次 rand7</text>
+  <text x="24" y="801" font-size="14" fill="#536877" font-weight="400" text-anchor="start">均匀性来自等概率格数，不靠随机抽样</text>
+</svg>

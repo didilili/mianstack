@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="791" viewBox="0 0 390 791" role="img" aria-labelledby="title desc">
+  <title id="title">布隆过滤器：可能存在不等于真实存在</title>
+  <desc id="desc">八位数组0到7，A置位1和4、B置位2和6；未插入C查询1和6假阳性，D查询0和6被0位排除。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#173042" />
+    </marker>
+    <marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#176b99" />
+    </marker>
+    <marker id="red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b63f44" />
+    </marker>
+    <marker id="orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b05b19" />
+    </marker>
+  </defs>
+  <style>text{font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif} .mono{font-family:"SFMono-Regular",Menlo,monospace}</style>
+  <rect x="0" y="0" width="390" height="791" rx="0" fill="#f8fafb" stroke="none" />
+  <text x="24" y="37" font-size="22" fill="#173042" font-weight="600" text-anchor="start">布隆过滤器：共享位会误判</text>
+  <text x="24" y="65" font-size="16" fill="#536877" font-weight="400" text-anchor="start">8 位数组，位下标 0…7</text>
+  <text x="24" y="102" font-size="17" fill="#173042" font-weight="500" text-anchor="start">已插入 A → 1、4</text>
+  <text x="24" y="131" font-size="17" fill="#173042" font-weight="500" text-anchor="start">已插入 B → 2、6</text>
+  <text x="49" y="166" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">0</text>
+  <rect x="29" y="179" width="40" height="44" rx="6" fill="#edf1f3" stroke="none" />
+  <text x="49" y="209" font-size="23" fill="#536877" font-weight="600" text-anchor="middle">0</text>
+  <text x="91" y="166" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">1</text>
+  <rect x="71" y="179" width="40" height="44" rx="6" fill="#dcedf7" stroke="none" />
+  <text x="91" y="209" font-size="23" fill="#176b99" font-weight="600" text-anchor="middle">1</text>
+  <text x="133" y="166" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">2</text>
+  <rect x="113" y="179" width="40" height="44" rx="6" fill="#dcedf7" stroke="none" />
+  <text x="133" y="209" font-size="23" fill="#176b99" font-weight="600" text-anchor="middle">1</text>
+  <text x="175" y="166" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">3</text>
+  <rect x="155" y="179" width="40" height="44" rx="6" fill="#edf1f3" stroke="none" />
+  <text x="175" y="209" font-size="23" fill="#536877" font-weight="600" text-anchor="middle">0</text>
+  <text x="217" y="166" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">4</text>
+  <rect x="197" y="179" width="40" height="44" rx="6" fill="#dcedf7" stroke="none" />
+  <text x="217" y="209" font-size="23" fill="#176b99" font-weight="600" text-anchor="middle">1</text>
+  <text x="259" y="166" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">5</text>
+  <rect x="239" y="179" width="40" height="44" rx="6" fill="#edf1f3" stroke="none" />
+  <text x="259" y="209" font-size="23" fill="#536877" font-weight="600" text-anchor="middle">0</text>
+  <text x="301" y="166" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">6</text>
+  <rect x="281" y="179" width="40" height="44" rx="6" fill="#dcedf7" stroke="none" />
+  <text x="301" y="209" font-size="23" fill="#176b99" font-weight="600" text-anchor="middle">1</text>
+  <text x="343" y="166" font-size="15" fill="#536877" font-weight="500" text-anchor="middle">7</text>
+  <rect x="323" y="179" width="40" height="44" rx="6" fill="#edf1f3" stroke="none" />
+  <text x="343" y="209" font-size="23" fill="#536877" font-weight="600" text-anchor="middle">0</text>
+  <rect x="16" y="250" width="358" height="188" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="281" font-size="18" fill="#173042" font-weight="600" text-anchor="start">查询 C：映射到 1、6</text>
+  <rect x="40" y="301" width="136" height="42" rx="8" fill="#dcedf7" stroke="none" />
+  <text x="108" y="329" font-size="18" fill="#176b99" font-weight="600" text-anchor="middle">位 1 = 1</text>
+  <rect x="214" y="301" width="136" height="42" rx="8" fill="#dcedf7" stroke="none" />
+  <text x="282" y="329" font-size="18" fill="#176b99" font-weight="600" text-anchor="middle">位 6 = 1</text>
+  <text x="30" y="379" font-size="18" fill="#173042" font-weight="600" text-anchor="start">两位均为 1 → 可能存在</text>
+  <text x="30" y="413" font-size="17" fill="#b05b19" font-weight="600" text-anchor="start">但 C 未插入：这是假阳性</text>
+  <rect x="16" y="454" width="358" height="188" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="485" font-size="18" fill="#173042" font-weight="600" text-anchor="start">查询 D：映射到 0、6</text>
+  <rect x="40" y="505" width="136" height="42" rx="8" fill="#fce6e7" stroke="none" />
+  <text x="108" y="533" font-size="18" fill="#b63f44" font-weight="600" text-anchor="middle">位 0 = 0</text>
+  <rect x="214" y="505" width="136" height="42" rx="8" fill="#dcedf7" stroke="none" />
+  <text x="282" y="533" font-size="18" fill="#176b99" font-weight="600" text-anchor="middle">位 6 = 1</text>
+  <text x="30" y="583" font-size="18" fill="#173042" font-weight="600" text-anchor="start">有一位为 0 → 未被插入</text>
+  <text x="30" y="618" font-size="15" fill="#227653" font-weight="400" text-anchor="start">过滤器完整且同步正确时，可排除</text>
+  <text x="24" y="680" font-size="17" fill="#173042" font-weight="600" text-anchor="start">可能存在 → 继续查缓存或数据库</text>
+  <text x="24" y="714" font-size="14" fill="#536877" font-weight="400" text-anchor="start">假设映射用于解释碰撞，不是哈希实测</text>
+  <text x="24" y="744" font-size="15" fill="#b63f44" font-weight="400" text-anchor="start">新增记录尚未同步时，不可据此拦截</text>
+  <text x="24" y="774" font-size="14" fill="#536877" font-weight="400" text-anchor="start">普通布隆过滤器也不能随意清除共享位</text>
+</svg>
