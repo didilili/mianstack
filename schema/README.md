@@ -150,6 +150,7 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 | `id`                | 题集编号       | string   | 与文件名一致，格式 `COL-*`                |
 | `publisherId`       | 整理者编号     | string   | 必须指向 `publishers.json` 中的现有整理者 |
 | `title`             | 题集名称       | string   | Web 展示标题                              |
+| `readingUrl`        | 面栈阅读链接   | URL      | 可选；根据题集 ID 自动生成                |
 | `sourceUrl`         | 原题集链接     | URL      | 必须是 HTTP(S) 地址                       |
 | `sourceAttribution` | 来源署名       | object   | 可选；署名、角色、适用范围及其链接        |
 | `sourceKind`        | 题集类型       | enum     | 取值见 schema 的 `collectionKind`         |
@@ -161,6 +162,8 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 | `sourceClaim`       | 来源声明       | string   | 记录发布者声明及本站核验边界              |
 | `coverage`          | 覆盖方向       | string[] | 可选；非空、无重复，引用现有知识分类 ID   |
 | `items`             | 题集条目       | object[] | 按原题顺序保存                            |
+
+`readingUrl` 指向本站题集阅读页，例如 `https://mianstack.com/collection/col-agentguide-ext-xhs-1497-rag`；`sourceUrl` 继续指向第三方原题集。该可选字段由生成流程补齐，兼容缺少该字段的旧记录。
 
 `sourceAttribution.name` 必填且非空，只保存人名或品牌名；`url` 为可选 HTTP(S) 链接。可选的 `role` 取值和中文名称统一定义在 schema 的 `collectionAttributionRole` 中，区分原文作者、题目来源、整理与回答。可选的 `scope` 为非空的读者范围说明；`itemIds` 如提供，必须是非空、无重复且仅引用本题集条目的数组，省略时适用于全题集。只有 `name` 或 `name`、`url` 的旧署名对象继续有效。来源署名与题集的收录整理者区分。
 
