@@ -1,0 +1,277 @@
+{
+  "id": "COL-AIGC-DL-LAYERS",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 网络层",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-LAYERS-001",
+      "originalTitle": "1.卷积有什么特点",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L695",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-002",
+      "originalTitle": "2.不同层次的卷积都提取什么类型的特征",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L705",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-003",
+      "originalTitle": "3.卷积核大小如何选取",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L713",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-004",
+      "originalTitle": "4.卷积感受野的相关概念",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L722",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-005",
+      "originalTitle": "5.网络每一层是否只能用一种尺寸的卷积核",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L746",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-006",
+      "originalTitle": "6.1*1卷积的作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L753",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-007",
+      "originalTitle": "7.转置卷积的作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L771",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-008",
+      "originalTitle": "8.空洞卷积的作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L797",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-009",
+      "originalTitle": "11.分组卷积的相关知识",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L833",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-010",
+      "originalTitle": "12.什么是可变形卷积？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L852",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-011",
+      "originalTitle": "14.分析一下卷积层的时间复杂度和空间复杂度",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L977",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-012",
+      "originalTitle": "15.AIGC时代一共有多少种主流卷积类型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1029",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-013",
+      "originalTitle": "16.卷积神经网络的本质是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1154",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-014",
+      "originalTitle": "1.CNN中池化的作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1246",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-015",
+      "originalTitle": "2.全局池化的作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1250",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-016",
+      "originalTitle": "3.池化的分类",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1290",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-017",
+      "originalTitle": "4.池化的进阶使用---SPP结构介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-018",
+      "originalTitle": "5.介绍一下CLIP pooled embedding的作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-019",
+      "originalTitle": "6.AI模型的池化层包含可学习参数吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1436",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-020",
+      "originalTitle": "7.常见的池化类型有哪些？它们之间的主要区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1472",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-021",
+      "originalTitle": "8.池化层为什么能防止过拟合？请从原理角度解释。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-022",
+      "originalTitle": "9.假设输入特征图大小为8×8，池化窗口大小为2×2，步长为2，经过最大池化后，输出特征图的大小是多少？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-023",
+      "originalTitle": "10.全局平均池化（GAP）在网络结构设计中的优势是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-024",
+      "originalTitle": "11.池化层的步长对输出特征图有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-025",
+      "originalTitle": "12.如何理解池化层的平移不变性？请举例说明。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-026",
+      "originalTitle": "13.如果在池化操作中，池化窗口大小大于步长，会出现什么情况？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-027",
+      "originalTitle": "14.在实际应用中，如何选择合适的池化类型和参数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-028",
+      "originalTitle": "1.全连接层的作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-029",
+      "originalTitle": "2.介绍一下MLP网络",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1535",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-030",
+      "originalTitle": "3.简述全连接层的定义与结构",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1605",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-031",
+      "originalTitle": "4.全连接层的工作原理是什么，涉及哪些数学运算？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1608",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-032",
+      "originalTitle": "5.在图像识别任务中，全连接层通常在卷积神经网络（CNN）的什么位置，起到什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1611",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-033",
+      "originalTitle": "6.全连接层的参数数量如何计算？以输入层有 512 个神经元，隐藏层（全连接层）有 256 个神经元为例说明。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-034",
+      "originalTitle": "7.如何缓解全连接层带来的过拟合问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1617",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-035",
+      "originalTitle": "8.全连接层与卷积层在连接方式上有何区别？这种区别对它们的功能和应用场景有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1625",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-036",
+      "originalTitle": "9.在一个多层全连接神经网络中，随着层数增加，会出现哪些问题？如何解决这些问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1628",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-037",
+      "originalTitle": "10.全连接层的输出维度是由什么决定的？若要将全连接层的输出维度从100调整为50，需要改变哪些参数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1631",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-038",
+      "originalTitle": "11.在训练全连接层时，如何选择合适的学习率？过大或过小的学习率会有什么影响？.如何缓解全连接层带来的过拟合问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1634",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题尾部另含“如何缓解全连接层带来的过拟合问题”，按完整原文保留两个目标。"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-039",
+      "originalTitle": "12.全连接层在自然语言处理任务（如文本分类）中是如何应用的？与在图像识别任务中的应用有何不同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1637",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-040",
+      "originalTitle": "13.请解释全连接层中的偏置（bias）的作用是什么？去掉偏置会对模型产生什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1640",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-041",
+      "originalTitle": "14.全连接层在生成对抗网络（GAN）中扮演什么角色？在生成器和判别器中，全连接层的设计有何不同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1643",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-042",
+      "originalTitle": "15.如何评估全连接层在一个深度学习模型中的重要性？有没有一些指标或方法可以用来量化这种重要性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1646",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-LAYERS-043",
+      "originalTitle": "16.全连接层有哪些主流变体？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/03_%E7%BD%91%E7%BB%9C%E5%B1%82.md#L1651",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

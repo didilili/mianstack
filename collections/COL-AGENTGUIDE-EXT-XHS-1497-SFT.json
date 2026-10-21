@@ -1,0 +1,1195 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · SFT与指令微调",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-001",
+      "originalTitle": "【微调经验】做过微调吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1868",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-002",
+      "originalTitle": "【LoRA与PEFT】1. LoRA（Low-Rank Adaptation）的核心原理是什么？请解释其基本思想、公式（包括AB矩阵与W矩阵的关系）、参数冻结方式。2. LoRA加在了哪些层？为什么这样加？3. LoRA的作用和应用场景是什么？4. 什么是PEFT（Parameter-Efficient Fine-Tuning）？请概述。5. 微调为什么要用LoRA？说一下LoRA的公式。（追问）LoRA插入在哪些层？除了LoRA，还有哪些PEFT方法？ 「京东、字节Seed、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1873",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-003",
+      "originalTitle": "【SFT与微调基础】1. 什么是SFT（Supervised Fine-Tuning）？请说明其动机、目的、流程、损失函数计算方式、训练时长、计算阶段（prefill还是decode）、与RLHF的动机区别、与后训练的区别、与预训练的区别、与直接使用主模型预测的区别。2. 什么是后训练（Post-training）？常见方法有哪些？3. 什么是灾难性遗忘？如何缓解？4. 你之前使用过哪些后训练方法？微调过哪些大小的模型？ 「京东、字节跳动、拼多多、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1874",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-004",
+      "originalTitle": "【SFT学习内容】大模型LLM进行SFT操作的时候在学习什么？ 「字节跳动、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1875",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-005",
+      "originalTitle": "【全量微调经验】有没有全量微调？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1876",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-006",
+      "originalTitle": "【后训练概述】后训练了解吗？有什么看法？有没有做过模型的后训练？ 「百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1877",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-007",
+      "originalTitle": "【对齐阶段】对齐任务一般放在哪个阶段进行？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1878",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-008",
+      "originalTitle": "【微调数据结构与规模】微调数据集的结构是怎样的，有多少条数据？ 「腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1879",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-009",
+      "originalTitle": "【微调方式选择】大模型微调项目用的是什么方式？如何做微调（SFT）？ 「京东、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1880",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-010",
+      "originalTitle": "【微调框架】在微调大模型时，你使用过哪些框架？请具体说明基于PyTorch的框架。 「京东、拼多多、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-011",
+      "originalTitle": "【指令微调优势】指令微调的好处？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1882",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-012",
+      "originalTitle": "【训练模块选择】需训练哪些模块？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1883",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-013",
+      "originalTitle": "LoRA的前向传播公式是什么？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1889",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-014",
+      "originalTitle": "项目里微调Qwen，选择的训练阶段和Loss函数是如何决定的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1890",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-015",
+      "originalTitle": "预训练和SFT操作有什么不同？ 「字节跳动、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1891",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-016",
+      "originalTitle": "领域模型微调指令&数据输入格式要求？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1892",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-017",
+      "originalTitle": "【CoT数据影响】你们出CoT的训练数据会对不出CoT的结果有增益吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1895",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-018",
+      "originalTitle": "【COT数据构造】怎么构造cot数据 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1896",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-019",
+      "originalTitle": "【Epoch数量选择】为什么是两三轮Epoch？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1897",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-020",
+      "originalTitle": "【InstructGPT】介绍InstructGPT的内容。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1898",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-021",
+      "originalTitle": "【LLM训练建议】LLMs训练时有哪些有用的建议？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1899",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-022",
+      "originalTitle": "【LoRA与PEFT】解释LoRA的原理、训练方法、低秩矩阵更新的优势，以及使用LoRA前后参数量的变化；说明为什么在资源限制之外还选择LoRA（例如在LLaMA Factory框架中）。讨论LoRA rank值的选择经验。解释低秩假设的合理性。LoRA是否只能在Linear层插入？什么时候用LoRA，什么时候用全量参数微调？请谈谈你对参数高效微调技术的理解和应用经验。还有哪些PEFT方法？Prefix-tuning和P-tuning有何区别？请解释QLoRA的核心原理，以及它与标准LoRA的区别。 「京东、字节跳动、百度、美团、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1900",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-023",
+      "originalTitle": "【LoRA与Prefix Tuning对比】LoRA和Prefix Tuning的区别？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1901",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-024",
+      "originalTitle": "【LoRA与QLoRA对比】LoRA，了解过QLoRA吗？两者有什么区别？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1902",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-025",
+      "originalTitle": "【LoRA与全参微调对比】LoRA与全参数微调的区别、优缺点及LoRA的基本概念和相比全量微调的优势是什么？ 「字节跳动、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-026",
+      "originalTitle": "【LoRA初始化】LoRA中可训练矩阵A和B分别如何初始化？为什么采用不同的初始化方式（A用高斯随机初始化，B用零初始化）？是否可以将A或B初始化为0？你了解过其他初始化方法吗？ 「京东、字节跳动、百度、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1904",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-027",
+      "originalTitle": "【LoRA初始化与秩设置】讲一下 LoRA 微调的原理 A、B 矩阵怎么初始化的 LoRA 微调秩设置的是多少？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1905",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-028",
+      "originalTitle": "【LoRA原理】了解LoRA吗？请介绍LoRA的原理，包括低秩假设的合理性、两个矩阵的初始化方式、三个关键参数（rank、alpha、dropout）的定义，以及LoRA解决了什么问题（大模型高效微调）。另外，现在有哪些对LoRA的改进方法？ 「京东、字节跳动、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1906",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-029",
+      "originalTitle": "【LoRA原理与推理速度】LoRA的数学原理是什么？其目的是什么？使用LoRA进行推理时推理速度会如何变化？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1907",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-030",
+      "originalTitle": "【LoRA应用位置】llm的mlp层要挂lora吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1908",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-031",
+      "originalTitle": "【LoRA微调与其它方法】LoRA微调原理，好处，除了LoRA还知道哪些微调？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1909",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-032",
+      "originalTitle": "【LoRA微调实践】5000条数据进行LoRA微调时，重点关注哪些指标与参数？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1911",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-033",
+      "originalTitle": "【LoRA推理融合】LoRA的原理，LoRA在推理的时候怎么与原参数融合不带来时间成本？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1912",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-034",
+      "originalTitle": "【LoRA数据构造】LoRA正负样本构造 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1913",
+      "reviewStatus": "needs_review",
+      "reviewNote": "LoRA“正负样本”未说明所属任务与标签含义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-035",
+      "originalTitle": "【LoRA省显存原理】LoRA微调原理解释，为什么省显存？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1914",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-036",
+      "originalTitle": "【LoRA秩与任务关系】微调逻辑推理任务，秩(r)应该比对话任务大还是小？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1915",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-037",
+      "originalTitle": "【LoRA秩选择】对LoRA的秩设置有什么理解? 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1916",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-038",
+      "originalTitle": "【LoRA设置与改进】lora怎么设置的，有试过更好的lora吗？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1917",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-039",
+      "originalTitle": "【LoRA超参数影响】LoRA alpha特别强/特别弱会有什么情况？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1918",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-040",
+      "originalTitle": "【LoRA超参数设置】LoRA微调中，秩(rank)和Alpha参数如何设置？rank一般选多少？为什么选这个值？rank和Alpha对模型的影响分别是什么？LoRA初始化怎么做？训练时LoRA权重是否与原始权重一起训练？LoRA是否会增加训练时间？是否了解其他类似LoRA的方法？ 「京东、字节跳动、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1919",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-041",
+      "originalTitle": "【LoRA超参数选择】LoRA训练时超参怎么选择，学习率、批次大小依据是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1920",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-042",
+      "originalTitle": "【PEFT LoRA使用】如何使用PEFT库中LoRA? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1921",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-043",
+      "originalTitle": "【Post-Training方法】SFT之后常见的Post-Training方法有哪些，目的有何不同？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1922",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-044",
+      "originalTitle": "【Prefix-tuning vs P-tuning】Prefix-tuning和P-tuning有什么区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1923",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-045",
+      "originalTitle": "【Pretrain vs SFT vs LoRA】Pretrain、SFT和LoRA的区别？Pretrain和SFT的loss区别？讲一下QLoRA和LoRA的不同。 「百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1924",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-046",
+      "originalTitle": "【PRM】你了解PRM吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1925",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-047",
+      "originalTitle": "【Prompt调优后策略】当Prompt调优到极限后，你会优先选择换模型、调参数还是上SFT？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1926",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-048",
+      "originalTitle": "【QLoRA】介绍QLoRA。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1927",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-049",
+      "originalTitle": "【QwenReranker训练】QwenReranker怎么训练的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1928",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-050",
+      "originalTitle": "【SFT+DPO数据组织】SFT+DPO训练怎么组织这部分数据的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1929",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-051",
+      "originalTitle": "【SFT vs Continued SFT】SFT和continued SFT的区别是什么，什么时候该进入RL？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1930",
+      "reviewStatus": "confirmed",
+      "reviewNote": "关联覆盖何时从 SFT 转入 RL；Continued SFT 的定义未提供。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-052",
+      "originalTitle": "【SFT vs RL】SFT和RL的区别是什么？为什么先SFT后RL，能否跳过SFT直接RL，或者只SFT不RL？Prompt few shot和SFT是如何影响模型输出的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1931",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-053",
+      "originalTitle": "【SFT与RL场景选择】讲一下什么场景下用SFT，什么场景下用RL？ 「京东、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1932",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-054",
+      "originalTitle": "【SFT与RL数据合成】SFT数据和RL数据都是怎么合成的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1933",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-055",
+      "originalTitle": "【SFT与RL数据集共用】SFT和RL能使用一套数据集吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1934",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-056",
+      "originalTitle": "【SFT与预训练Loss差异】大模型SFT和预训练的loss差异是什么？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1935",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-057",
+      "originalTitle": "【SFT冷启动】R1在SFT时冷启动的目的是什么？SFT冷启动时数据集构造需要注意哪些因素？ 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1936",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-058",
+      "originalTitle": "【SFT冷启动Agent能力】大模型SFT冷启动对Agent工具调用能力的提升效果如何？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1937",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-059",
+      "originalTitle": "【SFT副作用】为什么SFT之后感觉LLM傻了？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1938",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-060",
+      "originalTitle": "【SFT基座模型选择】进行SFT操作的时候，基座模型选用Chat还是Base？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1939",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-061",
+      "originalTitle": "【SFT实践细节】SFT阶段用的什么模型，数据来源，如何做数据处理，用的什么框架？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1940",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-062",
+      "originalTitle": "【SFT局限性】仅依赖SFT能否满足业务需求？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1941",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-063",
+      "originalTitle": "【SFT必要性】现在基座能力越来越强，为什么还要SFT？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1942",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-064",
+      "originalTitle": "【SFT必要性讨论】如果不考虑资源受限的情况，你会不会使用SFT? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1943",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-065",
+      "originalTitle": "【SFT提升准确率手段】若通过SFT进一步提升模型准确率，常用的手段有哪些？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1944",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-066",
+      "originalTitle": "【SFT效果判断】怎么判断sft做到位了? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1945",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-067",
+      "originalTitle": "【SFT数据packeting】SFT的数据packeting如何做，有了解吗？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1946",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源的 packeting 按 SFT 样本语境理解为 packing。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-068",
+      "originalTitle": "【SFT数据优化】比如有没有做过to do list这类优化，为什么它能让模型更聚焦？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1947",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-069",
+      "originalTitle": "【SFT数据分布选择】SFT数据分布一般怎么取？为什么选择该分布而非其他分布？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1948",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-070",
+      "originalTitle": "【SFT数据应用】你们说做了14B的车端模型，你们是怎么用SFT数据去做微调的？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1949",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-071",
+      "originalTitle": "【SFT数据特征】sft数据长什么样，困难case是什么样？假设在SFT阶段，你觉得数据应该长什么样？ 「字节Seed、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1950",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-072",
+      "originalTitle": "【SFT数据配比】SFT数据怎么配监督微调？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1951",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-073",
+      "originalTitle": "【SFT数据集规模】SFT的数据集是越大越好吗？理想数据量是多少？如何确定？ 「京东、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1952",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-074",
+      "originalTitle": "【SFT方法与效果评估】SFT有哪些方法，如何判断SFT效果已经达标了？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1953",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-075",
+      "originalTitle": "【SFT方法分类】有哪几种SFT方法？你还知道其他SFT方法吗？ 「京东、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1954",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-076",
+      "originalTitle": "【SFT标签清洗】SFT过程中是否对类别标签做了清洗或修正？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1955",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-077",
+      "originalTitle": "【SFT样本挖掘与更新频率】sft是怎么做的，样本是如何挖掘的？模型的更新频率？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1956",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-078",
+      "originalTitle": "【SFT流程与数据构建】介绍SFT的核心流程与完整执行流程，以及数据集的构建策略与搭建构造方法。 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1957",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-079",
+      "originalTitle": "【SFT训练方式】你论文SFT统一训练还是分开的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1958",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“SFT 统一还是分开”未说明论文、任务与联合训练方式。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-080",
+      "originalTitle": "【SFT超参数调优】SFT微调超参数怎么选？请分享调参经验。 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1959",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-081",
+      "originalTitle": "【SFT难易任务平衡】SFT训练过程中如何平衡简单任务与复杂任务的训练权重？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1961",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-082",
+      "originalTitle": "【Skill有效性】那skill有没有用呢? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1962",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“那 skill 有没有用”缺少前文中的 Skill 定义与比较对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-083",
+      "originalTitle": "【Thinking机制影响】是否开thinking对训练的区别？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1963",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-084",
+      "originalTitle": "【全量SFT vs LoRA】手里资源够的话为什么不做全量sft，lora参数为什么这么选择？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1964",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-085",
+      "originalTitle": "【分类任务优化】大模型分类任务效果不佳，有哪些优化提升方案？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1965",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-086",
+      "originalTitle": "【单轮SFT原因】模型训练为什么只用单轮SFT，不训多轮？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1966",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“单轮/多轮”未说明指 epoch、训练阶段还是对话轮次。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-087",
+      "originalTitle": "【参数调整策略】不同的数学题类型需要调不同的参数吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1967",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“调不同的参数”未说明所指参数与调整阶段。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-088",
+      "originalTitle": "【后训练必要性】为什么SFT之后还要进行后训练？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1968",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-089",
+      "originalTitle": "【后训练阶段】Qwen3后训练有哪些阶段？R1的训练阶段。 「阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1969",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-090",
+      "originalTitle": "【增量预训练】你有考虑你的场景下（我的论文）做增量预训练吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1970",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-091",
+      "originalTitle": "【多任务数据构造】统一生成理解模型下游微调各个任务的数据是怎么构造的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1971",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-092",
+      "originalTitle": "【多轮反馈数据处理】有多轮用户反馈，你会怎么处理这类数据？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1972",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-093",
+      "originalTitle": "【多轮对话微调】多轮对话任务如何微调模型？如何稳定保持模型的输出格式一致性？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1973",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-094",
+      "originalTitle": "【多轮对话训练】怎么去进行多轮对话训练？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1974",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-095",
+      "originalTitle": "【多阶段SFT】为什么需要多阶段 SFT？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1975",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-096",
+      "originalTitle": "【对话与推理模型对比】对话模型和推理模型在训练目标和能力上有什么区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1976",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-097",
+      "originalTitle": "【对话数据作用】你认为对话数据在提升模型泛化能力方面的作用如何？能否举一个增强后成功的例子？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1977",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-098",
+      "originalTitle": "【对齐原理】对齐的原理是什么，你怎么看待？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1978",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-099",
+      "originalTitle": "【小模型数据来源】你说训一个小模型，那小模型数据如何来？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1979",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-100",
+      "originalTitle": "【微调关键点】介绍微调负责的工作，大模型微调最重要的是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1980",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-101",
+      "originalTitle": "【微调参数调优经验】调过哪些参数，有什么经验？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1981",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-102",
+      "originalTitle": "【微调后优化】微调大模型后，有哪些优化方案？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1982",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-103",
+      "originalTitle": "【微调方式与层选择】常见的大模型微调方式，以及他们微调那一层是怎么确定的。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1983",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-104",
+      "originalTitle": "【微调方法对比】完整参数微调、LoRA低秩微调、QLoRA量化低秩微调三者核心差异对比？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1984",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-105",
+      "originalTitle": "【微调方法对比与选型】全参微调、LoRA、QLoRA、PrefixTuning的核心区别是什么？在阿里业务中如何选型？全量微调和LoRA微调的优缺点分别是什么？是否有全量微调经验？对比LoRA和全量微调的两种微调方式的性能表现。公司做的微调大模型怎么做的，调了哪些参数？后训练中你一般调哪些块？在LoRA微调时需要调整哪些参数？LoRA的可调参数有哪些？在京东业务场景（如智能客服）中，如何选择适合的微调策略（如LoRA、全参数微调）？在什么场景下选择LoRA？原理 & 为什么它能高效微调大模型？基座模型是什么（Qwen），不同基座的区别，怎么微调？ 「京东、拼多多、百度、腾讯、腾讯混元、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1985",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-106",
+      "originalTitle": "【微调方法选择理由】模型微调用的是全参微调还是lora微调，为什么这么选？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1986",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-107",
+      "originalTitle": "【微调模型选择】为什么微调全是用的小模型？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1987",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-108",
+      "originalTitle": "【微调策略对比】是否尝试过不同微调策略进行对比？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1988",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-109",
+      "originalTitle": "【微调评价】微调完之后怎么对大模型进行评价？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1989",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-110",
+      "originalTitle": "【微调超参数设置】微调的超参数如何设置的，全参微调和LoRA微调的超参设置有何经验？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1990",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-111",
+      "originalTitle": "【微调需求溯源】怎么溯源的问题，发现需要微调了？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1991",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-112",
+      "originalTitle": "【意图分类模型训练】用什么模型、什么方式训练的意图分类模型？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1992",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-113",
+      "originalTitle": "【指令数据构建】在指令微调阶段，如何构建高质量、多样化的指令数据？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1993",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-114",
+      "originalTitle": "【指令验证】指令正确性如何验证？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1994",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-115",
+      "originalTitle": "【数据层面缓解遗忘】除调整损失、模型结构外，还有哪些数据层面手段缓解灾难性遗忘？具体包括：领域数据训练后通用能力下降，如何缓解模型遗忘通用能力？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1995",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-116",
+      "originalTitle": "【数据筛选方法】你提到的二分类筛选流程，这个二分类也是通过Qwen做的吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1996",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题追问二分类数据筛选是否使用 Qwen；来源未记录分类标签及具体实现。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-117",
+      "originalTitle": "【数据质量分类转SFT】做数据质量分类模型的时候，人工标注数据如何转为sft数据？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1997",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-118",
+      "originalTitle": "【方法选择】那要是做的话，你觉得用什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1998",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“要是做的话用什么”缺少前文任务与候选对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-119",
+      "originalTitle": "【框架对比】为什么要用 metragon-swift 和一般 ms-swift 区别是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1999",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源的 metragon-swift 按训练后端语境理解为 Megatron-SWIFT。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-120",
+      "originalTitle": "【灾难性遗忘与缓解】大模型灾难性遗忘是什么？如何解决？如何理解模型灾难性遗忘、通用能力降低，以及微调后出现能力劣化（灾难性遗忘）是怎么回事？如何缓解？ 「字节跳动、百度、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2000",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-121",
+      "originalTitle": "【灾难性遗忘防止】追问2：如何防止微调过程中的灾难性遗忘？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2001",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-122",
+      "originalTitle": "【答案生成优化】答案生成环节做了哪些优化？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2003",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-123",
+      "originalTitle": "【蒸馏教师模型选择】在大模型蒸馏中，如何选择合适的TeacherModel？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2004",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-124",
+      "originalTitle": "【蒸馏轨迹使用】模型蒸馏时所有轨迹都用于SFT吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2005",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-125",
+      "originalTitle": "【训练推理流程与SFT/RLHF】讲一下大模型训练和推理的流程，SFT和RLHF的作用分别是什么？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2006",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-126",
+      "originalTitle": "【训练样本选择】微调 Llama2 你是怎么选择训练样本的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2007",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-127",
+      "originalTitle": "【训练策略选择】从0开始还是微调？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2008",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-128",
+      "originalTitle": "【训练阶段选择】中微调Qwen时，选择的训练阶段是如何确定的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2009",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-129",
+      "originalTitle": "【超参数设置】你在微调训练过程中，batch_size，seq_len怎么设定的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2010",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-130",
+      "originalTitle": "【通用对齐数据】通用对齐阶段你用了哪些数据？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2011",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-131",
+      "originalTitle": "【通用数据混合】是否要混通用数据？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2012",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-132",
+      "originalTitle": "【通用能力下降缓解】如果模型微调后通用能力下降，除了数据配比和继续使用LoRA，还有哪些方案？ 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2013",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-133",
+      "originalTitle": "【领域数据特性】比如用通用模型微调适配京东生鲜商品的识别，需要注意哪些数据特性？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2014",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-134",
+      "originalTitle": "【领域数据集准备】追问1：你会如何准备领域数据集？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2015",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-135",
+      "originalTitle": "【COT数据构建链路】构建5000条COT数据完整链路是什么，分工如何？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2020",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-136",
+      "originalTitle": "【CoT蒸馏错误处理】在CoT蒸馏中，如何处理TeacherModel生成的错误推理链？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2021",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-137",
+      "originalTitle": "【LongLoRA与LoRA对比】LongLoRA和LoRA的区别是什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2022",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-138",
+      "originalTitle": "【LoRA vs ControlNet】为什么用LoRA微调，为什么不用ControlNet？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2023",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-139",
+      "originalTitle": "【LoRA与AdaLora】解释一下LoRA、AdaLora，如何初始化矩阵？延伸问题:是否了解LORA的其他初始化策略(如高斯分布初始化、稀疏初始化等)及对微调效果的影响。 「字节跳动、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2024",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-140",
+      "originalTitle": "【LoRA低秩假设】为什么用LoRA，而不用全量微调？如何理解LoRA的核心假设：模型针对特定任务做下游微调时，权重矩阵更新具有极低的内在秩？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2025",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-141",
+      "originalTitle": "【LoRA变体】介绍几种LoRA的变体，如QLoRA、DoRA、LoRA+：它们分别解决了什么问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2026",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-142",
+      "originalTitle": "【LoRA应用位置差异】LoRA作用在Q、K和作用在FFN上有什么差异？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2027",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-143",
+      "originalTitle": "【LoRA问题诊断】使用LoRA微调，有没有遇到模型不收敛或指令输出格式损失不符合预期？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2028",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-144",
+      "originalTitle": "【Pretrain vs SFT 资源分配】Pretrain和SFT分别解决什么问题？在资源有限时，优先做SFT还是继续堆预训练，判断依据是什么？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2029",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-145",
+      "originalTitle": "【SFT/RL训练细节】项目细节：SFT数据的合成细节、SFT/RL的训练细节，奖励函数。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2030",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-146",
+      "originalTitle": "【SFT与RL数据配比与验证】SFT和RL的数据量配比、数据生产过程，验证模型标准？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2031",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-147",
+      "originalTitle": "【SFT后通用数据重要性】SFT之后不用通用数据会出现哪些问题（general能力下降、指令跟随能力下降）？实际使用经验。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2032",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-148",
+      "originalTitle": "【SFT完整训练流程】详细描述，如果给一个txt存储的文本，从预处理到SFT的训练流程，要包括对数据的预处理、tokenize、forward、loss计算、参数更新，越细越好。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2033",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-149",
+      "originalTitle": "【SFT局限性】比较难接的一问：SFT不够用吗？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2034",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-150",
+      "originalTitle": "【SFT数据业务适配与去重】SFT数据如何更贴近业务：如何避免过度模板化？如何做基础的train/test去重来避免评测失真？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2035",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-151",
+      "originalTitle": "【SFT数据构建】SFT数据如何构建？缺数据怎么办？请说明SFT的核心流程与数据构建策略。如何构造数据使得SFT的收益尽可能大？ 「京东、字节跳动、百度、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2037",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-152",
+      "originalTitle": "【SFT数据配比与动态调整】后面还问到了SFT的数据配比，比如高质量数据和普通数据应该怎么混合，要不要根据训练效果做动态调整。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2038",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-153",
+      "originalTitle": "【SFT负样本比例控制】在构建SFT数据集时，如何控制“负样本”的比例，以提升模型的抗干扰能力？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2039",
+      "reviewStatus": "needs_review",
+      "reviewNote": "原题未说明“负样本”所属任务或训练目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-154",
+      "originalTitle": "【Skill训练方式】针对上述问题，训练Skill的具体方式是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2040",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“上述问题”缺少前文，Skill 的定义与训练任务未说明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-155",
+      "originalTitle": "【ToolCall数据构建与幻觉控制】说只build过一个关于crop image toolcall的SFT数据集，怎么控制crop的坐标，LLM在这个坐标上面会引入幻觉吗（导致toolcall的代码崩溃），怎么控制。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2041",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-156",
+      "originalTitle": "【专业能力微调方案】如果让你去训练Doubao的专业输出能力，会怎么做？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2042",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-157",
+      "originalTitle": "【全参训练灾难性遗忘】全参训练对于其他的任务影响比较大怎么解决：比如图像理解，如果全参训练，在测试的时候会提升这个任务的精度但是其他任务的精度会掉点。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2043",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-158",
+      "originalTitle": "【后训练业务应用】几个场景题（怎么用后训练解决某个业务相关问题）。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2044",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未提供所指的业务场景与具体问题。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-159",
+      "originalTitle": "【后训练技术对比】请解释指令微调、人类反馈强化学习、价值观对齐等后训练技术的区别、联系及其各自的目标。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2045",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-160",
+      "originalTitle": "【后训练数据分层】后训练数据如何分层，适配不同游戏角色人设？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2046",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-161",
+      "originalTitle": "【后训练架构】你整套后训练训练架构是怎么搭建的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2047",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-162",
+      "originalTitle": "【回答质量判断】针对合适长度的回答怎么判断模型不是在凑字数钻空子得到的。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2048",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-163",
+      "originalTitle": "【垂域微调通用能力保持】垂域指令微调后通用能力下降，如何解决？具体包括：如何在垂直领域训练之后保持通用领域能力？如何平衡大模型在通用能力与特定领域（如金融风控、客服）性能之间的关系？ 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2049",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-164",
+      "originalTitle": "【垂直领域微调保留通用能力】项目：如果要微调你们这个模型到某些垂直领域，但是要保留多模态的这种通用能力，应该用什么办法来尽量保留模型的能力？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2050",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-165",
+      "originalTitle": "【多任务Loss权重平衡】在SFT阶段，如何平衡多任务（代码、数学、通用对话）的Loss权重？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2051",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-166",
+      "originalTitle": "【多任务微调灾难性遗忘】使用LoRA进行多任务微调时，如何解决任务之间的灾难性遗忘或负迁移问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2052",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-167",
+      "originalTitle": "【多段SFT策略实验】多段SFT的策略怎么做的，对比了哪些实验得到了什么结论？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2053",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-168",
+      "originalTitle": "【多轮对话Loss计算】多轮对话中对 tool 和 think 的 loss 如何计算的？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2054",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-169",
+      "originalTitle": "【多轮对话能力提升】开放题：如果要提升大模型的多轮对话能力，你有哪些可以改进的点？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2055",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-170",
+      "originalTitle": "【多轮对话训练难点】多轮对话训练在infra/算法上难点在哪里？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2056",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-171",
+      "originalTitle": "【多领域数据融合】后训练中如何融合 math、code、中文、agent等多个领域或方向的数据？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2057",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-172",
+      "originalTitle": "【多领域混训能力平衡】多领域数据混训时，如何避免某个能力提升导致其他能力下降？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2058",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-173",
+      "originalTitle": "【大规模数据处理后训练】在面对工业界百亿规模数据，如何合理的处理数据用于完整的后训练。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2059",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-174",
+      "originalTitle": "【安全对齐后训练】如何针对“拒绝回答有害问题”这一能力进行专项的后训练优化请描述技术思路。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2060",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-175",
+      "originalTitle": "【小模型蒸馏thinking模型】边缘场景下用小模型去蒸馏带thinking的模型可以怎么做？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2061",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-176",
+      "originalTitle": "【微调方法选择】对于不同的任务，如何选择最合适的微调方法或框架？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2062",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-177",
+      "originalTitle": "【性能下降诊断】当后训练导致模型在某个下游任务上性能下降时，如何进行诊断和归因？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2063",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-178",
+      "originalTitle": "【指令微调数据构造】Base model已经具备一定Agentic能力时，为什么还需要构造业务Agentic数据继续训练？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2064",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-179",
+      "originalTitle": "【摘要提取微调】如何训练一个大模型，让它能更好地精确提取摘要？（场景题：如何训练一个大模型，可以做到精确的提取摘要？） 「百度、百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2065",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-180",
+      "originalTitle": "【数据切分策略】会话滑窗切分，怎么既防数据泄露又保证角色对话连贯？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2066",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-181",
+      "originalTitle": "【权重泛化调整】那我换一批数据来测试，这个权重应该就不适用了啊，怎么改？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2067",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“这个权重”与上一批测试数据未说明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-182",
+      "originalTitle": "【模型蒸馏与垂域适配】假设有一个推理能力强的大模型，如何用较小的模型在垂域去获得一个类似的效果？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2068",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-183",
+      "originalTitle": "【混合微调策略】有没有试过局部模型LoRA，局部full全参？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2069",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-184",
+      "originalTitle": "【灾难性遗忘缓解】LLM的SFT阶段防止灾难性遗忘有哪些策略？具体到LoRA增量训练遇到灾难性遗忘如何解决？ 「京东、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2070",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-185",
+      "originalTitle": "【结构化输出训练】Tool use & function calling: 怎么训练让 LLM 稳定输出 JSON schema？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2071",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-186",
+      "originalTitle": "【训练阶段合并】在你场景中用的是二阶段的训练如何调整成一阶段的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2072",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明两个阶段各自的目标与依赖关系。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-187",
+      "originalTitle": "【评估方法比较】Zero-shot、Few-shot和微调怎么比较才公平？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2073",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-188",
+      "originalTitle": "【词表增删后训练影响】大规模对词表做增删之后，有没有遇到后训练时无法修正模型某些能力的现象？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2074",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-189",
+      "originalTitle": "【长CoT数据构造】长cot数据怎么构造，介绍完整流程？COT的训练是如何做的，数据如何构造？ 「美团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2075",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-190",
+      "originalTitle": "【长尾知识数据构造】针对长尾知识(冷门历史事件、特定领域术语)，如何构造数据以确保模型能够记住且不遗忘？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2076",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-191",
+      "originalTitle": "【非推理模式微调】你用的是Qwen3的小模型SFT，它分为推理/非推理模式，你怎么实现的非推理微调？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2077",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-192",
+      "originalTitle": "【领域大模型微调策略】假设你需要训练一个领域大模型，如何选择预训练模型和设计微调策略？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2078",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SFT-193",
+      "originalTitle": "【后训练项目流程与端到端方案设计】请描述一个典型的大模型后训练项目从需求分析到上线的完整工作流程。 变体：给定电商商品文案生成场景，设计端到端方案（输入→模型→策略→输出→监控），并说明各环节关键点。 「拼多多、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2083",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

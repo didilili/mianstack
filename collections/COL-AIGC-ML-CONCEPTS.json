@@ -1,0 +1,201 @@
+{
+  "id": "COL-AIGC-ML-CONCEPTS",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC Interview Book · 机器学习基础概念知识点",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的机器学习问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-001",
+      "originalTitle": "什么是机器学习？机器学习一共有哪些学习方式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-002",
+      "originalTitle": "机器学习有哪些学习方式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-003",
+      "originalTitle": "什么是模型的偏差和方差？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-004",
+      "originalTitle": "训练集/验证集/测试集划分",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L140",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-005",
+      "originalTitle": "什么是奥卡姆剃刀原理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-006",
+      "originalTitle": "什么是没有免费的午餐定理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L200",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-007",
+      "originalTitle": "判别式模型和生成式模型的本质区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-008",
+      "originalTitle": "如何理解：“数据和特征决定了机器学习的上限，而模型和算法只是逼近这个上限”这个行业基本认知？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L302",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-009",
+      "originalTitle": "什么是AutoML？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-010",
+      "originalTitle": "什么是熵？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-011",
+      "originalTitle": "什么是交叉熵？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-012",
+      "originalTitle": "什么是KL散度？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-013",
+      "originalTitle": "耦合和解耦的思想如何在机器学习中实践？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-014",
+      "originalTitle": "什么是代价函数及其意义？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L544",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-015",
+      "originalTitle": "什么是二次代价函数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L551",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-016",
+      "originalTitle": "什么是交叉墒代价函数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L570",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题的“交叉墒”指交叉熵。"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-017",
+      "originalTitle": "什么是对数似然代价函数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L590",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-018",
+      "originalTitle": "介绍一下机器学习中的特征编码与特征解码的概念",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-019",
+      "originalTitle": "机器学习中的Embeddings特征的本质是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L735",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-020",
+      "originalTitle": "AI行业主要有哪些核心的数据模态？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L757",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-021",
+      "originalTitle": "机器学习中数据增强的本质是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L809",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-022",
+      "originalTitle": "机器学习中音频数据有哪些特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L820",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-023",
+      "originalTitle": "什么是机器学习中的全局最优和局部最优问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L858",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-024",
+      "originalTitle": "什么是机器学习中的对比学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L927",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-025",
+      "originalTitle": "机器学习中训练集、验证集、测试集之间有哪些区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1006",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-026",
+      "originalTitle": "介绍一下机器学习中热插拔式和冷启动的相关概念",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1089",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处“冷启动”指服务或模型初始化。"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-027",
+      "originalTitle": "介绍一下机器学习中TopK的概念",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1166",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本条为 Top-K 概念题，正文的实现示例不另作手写要求。"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-028",
+      "originalTitle": "介绍一下模型预训练和模型微调之间的区别",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1238",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-029",
+      "originalTitle": "什么是迁移学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1300",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-ML-CONCEPTS-030",
+      "originalTitle": "介绍一下数据集在机器学习中的本质作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9F%A5%E8%AF%86%E7%82%B9.md#L1362",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

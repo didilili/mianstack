@@ -1,0 +1,128 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 数据与评测面试指南",
+  "coverage": [
+    "llm",
+    "rag",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-001",
+      "originalTitle": "如何从业务目标设计数据集？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-002",
+      "originalTitle": "高质量数据等于人工精标数据吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L95",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-003",
+      "originalTitle": "如何做去重和防污染？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-004",
+      "originalTitle": "训练 / 验证 / 测试怎样切？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-005",
+      "originalTitle": "Agent 应该评什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L104",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-006",
+      "originalTitle": "LLM judge 有哪些偏差？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-007",
+      "originalTitle": "如何评估 RAG？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-008",
+      "originalTitle": "离线提升、线上下降，先查什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-009",
+      "originalTitle": "两个标注者一致率很低，说明 rubric 差还是任务本身模糊？怎样区分？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-010",
+      "originalTitle": "合成数据比例越高越好吗？如何检测模式塌缩和模型自嗨？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-011",
+      "originalTitle": "怎样构造 hard negative，避免只提高简单样本分数？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-012",
+      "originalTitle": "Benchmark 已被广泛训练，继续使用它还有什么价值？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L121",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-013",
+      "originalTitle": "线上反馈只有点赞 / 点踩，怎样处理选择偏差和延迟反馈？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-014",
+      "originalTitle": "如何对一次 prompt 更新做回归测试与故障定位？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-015",
+      "originalTitle": "多轮 Agent 的失败该归因给模型、工具、检索、Harness 还是环境？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-016",
+      "originalTitle": "指标涨了但用户价值不变，如何检查代理指标是否失真？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-017",
+      "originalTitle": "如何设计一个会随着系统迭代而不过时的评测集？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION-018",
+      "originalTitle": "高风险任务中，平均分和最差切片哪个更重要？为什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md#L127",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

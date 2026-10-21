@@ -1,0 +1,128 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Agent 评测与 Benchmark进阶追问",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-001",
+      "originalTitle": "Transcript 和 Outcome 的区别？为什么不能只看 Transcript？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-002",
+      "originalTitle": "pass@k 和 pass^k 分别表示什么？各适合什么场景？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-003",
+      "originalTitle": "Capability Eval 和 Regression Eval 的区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L396",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-004",
+      "originalTitle": "Code-based Grader 最适合做什么？不适合做什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-005",
+      "originalTitle": "LLM Judge 的三大最佳实践是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-006",
+      "originalTitle": "为什么 LLM Judge 必须有不确定逃生门（Uncertain Escape Hatch）？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L401",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-007",
+      "originalTitle": "你怎么校准 LLM Judge？Cohen's Kappa 低于多少需要重写 prompt？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-008",
+      "originalTitle": "150 task benchmark 的四个 bucket 怎么划分？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-009",
+      "originalTitle": "四级 Ship Gate 分别是什么？为什么 primary metric 不能做 early stop？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-010",
+      "originalTitle": "三层质量门（Safety/Business/Offline Quality）各自的频率和指标？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-011",
+      "originalTitle": "Agent 评测最大的坑是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-012",
+      "originalTitle": "KTClaw 的 15%→3% 是怎么测的？每个指标的精确定义？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-013",
+      "originalTitle": "GoAfar 的路线可行率 60%→92% 是怎么测的？baseline 是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L412",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-014",
+      "originalTitle": "LoCoMo 的核心评测维度是什么？你参考了哪几个？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-015",
+      "originalTitle": "VQA11y-Score 的三个权重各是多少？为什么 Hard 类权重最高？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-016",
+      "originalTitle": "小红书 C 端 Agent 的离线评测和在线评测各怎么设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-017",
+      "originalTitle": "推荐类 Agent 的排序指标有哪些？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK-018",
+      "originalTitle": "怎么防止 Agent 在评测集上学到了\"看起来对\"的捷径？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L419",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

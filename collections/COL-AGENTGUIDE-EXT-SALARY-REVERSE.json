@@ -1,0 +1,47 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-SALARY-REVERSE",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 薪酬福利反问",
+  "coverage": [
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/09-salary-negotiation.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-SALARY-REVERSE-001",
+      "originalTitle": "能否简单介绍一下这个岗位的薪资构成？比如固定部分、绩效部分是如何设置的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/09-salary-negotiation.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-SALARY-REVERSE-002",
+      "originalTitle": "咱们薪资里，绩效占比多少？考核标准是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/09-salary-negotiation.md#L36",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-SALARY-REVERSE-003",
+      "originalTitle": "公司一年有几次调薪机会？调薪时大致能调整多少比例？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/09-salary-negotiation.md#L37",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-SALARY-REVERSE-004",
+      "originalTitle": "除了工资，还有哪些补贴或者福利项目？比如住房补贴、交通补贴等",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/09-salary-negotiation.md#L38",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-SALARY-REVERSE-005",
+      "originalTitle": "试用期的薪资是转正薪资的多少比例？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/09-salary-negotiation.md#L39",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "id": "COL-AIGC-IMAGE-09",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 图像创作 · AIGC图像生成领域的基础知识",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-IMAGE-09-001",
+      "originalTitle": "1.数字图像在计算机中是如何表示的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-002",
+      "originalTitle": "2.图像尺寸、分辨率、宽高比、PPI和DPI有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L119",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-003",
+      "originalTitle": "3.位深、色深、每像素位数、数据类型和动态范围有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L158",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-004",
+      "originalTitle": "4.灰度、RGB、BGR、RGBA以及HWC、CHW分别表示什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-005",
+      "originalTitle": "5.常见色彩空间如何选择？色域、白点和Gamma为什么不能忽略？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-006",
+      "originalTitle": "6.RAW图像和RGB图像有什么区别？ISP完成了哪些处理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L266",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-007",
+      "originalTitle": "7.透明图与普通图像有什么区别？Alpha合成有哪些常见陷阱？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-008",
+      "originalTitle": "8.JPEG、PNG、WebP、AVIF、TIFF和OpenEXR应该如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-009",
+      "originalTitle": "1.压缩如何改变模型数据",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L355",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-010",
+      "originalTitle": "9.图像采样、缩放与混叠是什么？为什么缩小图像前要低通滤波？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-011",
+      "originalTitle": "10.图像中的低频与高频信息分别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-012",
+      "originalTitle": "11.什么是图像信噪比？SNR高是否一定代表视觉质量好？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-013",
+      "originalTitle": "1.没有干净参考图时如何估计",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L458",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-014",
+      "originalTitle": "12.什么是图像畸变？径向畸变、切向畸变和透视变形有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L472",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-015",
+      "originalTitle": "13.AIGC图像模型的输入预处理为什么必须保持训练与推理一致？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L515",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-016",
+      "originalTitle": "3.如何建立可验证的预处理契约",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-017",
+      "originalTitle": "1.图像卷积与互相关的区别是什么？卷积核、步幅、填充方式和边界处理如何影响输出？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L563",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-018",
+      "originalTitle": "2.图像点运算如何调整亮度、对比度和Gamma？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L602",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-019",
+      "originalTitle": "3.什么是图像直方图？直方图均衡化与CLAHE有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L638",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-020",
+      "originalTitle": "3.彩色图像如何处理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-021",
+      "originalTitle": "4.图像二值化的原理是什么？全局阈值、Otsu和自适应阈值如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L664",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-022",
+      "originalTitle": "3.二值化之后还要验证什么",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L703",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-023",
+      "originalTitle": "5.图像噪声有哪些主要类型？如何根据成像机制建立噪声模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L707",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-024",
+      "originalTitle": "6.均值、高斯、中值、双边和引导滤波有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L734",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-025",
+      "originalTitle": "7.NLM、小波、BM3D、全变分和维纳滤波如何进行图像去噪？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L768",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-026",
+      "originalTitle": "8.图像模糊的退化模型是什么？逆滤波、维纳反卷积和Richardson-Lucy如何恢复图像？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L788",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-027",
+      "originalTitle": "3.恢复结果如何判断",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L819",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-028",
+      "originalTitle": "9.Roberts、Prewitt、Sobel和Scharr一阶梯度算子有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L823",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-029",
+      "originalTitle": "2.为什么梯度图不等于最终边缘图",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L853",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-030",
+      "originalTitle": "10.拉普拉斯、LoG和DoG算子的原理与局限是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L857",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-031",
+      "originalTitle": "3.为什么要显式选择尺度",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-032",
+      "originalTitle": "11.Canny边缘检测为什么要经过平滑、非极大值抑制和双阈值连接？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L885",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-033",
+      "originalTitle": "12.空间域与频率域滤波有什么关系？低通、高通、带通和陷波滤波器如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L915",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-034",
+      "originalTitle": "13.膨胀、腐蚀、开闭运算、形态学梯度、顶帽和黑帽分别有什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L942",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-035",
+      "originalTitle": "14.连通域、轮廓、距离变换、骨架化和分水岭如何分析目标结构？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L990",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-036",
+      "originalTitle": "3.分水岭为什么既能分实例也会过分割",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1005",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-037",
+      "originalTitle": "15.最近邻、双线性、双三次、Area和Lanczos插值如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1011",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-038",
+      "originalTitle": "16.仿射变换、透视变换和通用重映射有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1041",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-039",
+      "originalTitle": "17.高斯金字塔、拉普拉斯金字塔和多尺度处理有什么价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1071",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-040",
+      "originalTitle": "18.Alpha融合、羽化、多频段融合和泊松融合有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-041",
+      "originalTitle": "19.经典图像处理算法在AIGC数据、控制、编辑和交付链路中承担什么职责？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-042",
+      "originalTitle": "1.什么是AIGC图像创作？它与传统图像处理和判别式视觉任务有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1174",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-043",
+      "originalTitle": "2.像素空间、连续潜空间和离散视觉Token分别如何表示图像？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-044",
+      "originalTitle": "3.一个AIGC图像生成系统从条件输入到最终图像通常经历哪些环节？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-045",
+      "originalTitle": "4.Diffusion、VAE、GAN、Flow和自回归模型在图像生成中有什么异同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-046",
+      "originalTitle": "5.什么是自回归图像生成模型？它为什么又重新成为主流技术路线？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1288",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-047",
+      "originalTitle": "6.AIGC图像创作中的Low-Level任务包括哪些方向？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-048",
+      "originalTitle": "7.AIGC图像创作中的可控性、多样性、真实性和原图保持为什么经常相互制约？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-049",
+      "originalTitle": "8.Scaling Law在AIGC图像创作领域成立吗？它有哪些适用边界？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-050",
+      "originalTitle": "1.AI生成图像的常用评价指标",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-051",
+      "originalTitle": "2.什么是REAL评价指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1451",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-052",
+      "originalTitle": "3.介绍一下Aesthetic Score Predictor、Aesthetic Predictor V2.5评价指标的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-053",
+      "originalTitle": "4.介绍一下FID指标的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1506",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-054",
+      "originalTitle": "5.介绍一下CLIP-score指标的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1546",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-055",
+      "originalTitle": "6.介绍一下PartiPrompts指标的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1563",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-056",
+      "originalTitle": "7.什么是SSIM图像评估指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-057",
+      "originalTitle": "8.什么是PSNR图像评估指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-058",
+      "originalTitle": "9.为什么AIGC图像生成不能只用一个指标评估？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1641",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-059",
+      "originalTitle": "10.GenEval、DPG-Bench、TIFA、VQAScore等如何评价复杂提示词遵循？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1674",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-060",
+      "originalTitle": "11.ImageReward、PickScore、HPS v2与Aesthetic Predictor有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1736",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-061",
+      "originalTitle": "12.如何评价中文、多语言文字和版式生成能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-062",
+      "originalTitle": "13.如何评价AIGC图像编辑模型的编辑成功率与原图保持能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1849",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-063",
+      "originalTitle": "14.个性化生成和参考图生成如何评价主体与身份一致性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1908",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-064",
+      "originalTitle": "2.为什么必须裁剪或分割主体",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1934",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-09-065",
+      "originalTitle": "15.人工成对评测、胜率、Elo和Bradley-Terry的原理与局限是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/09_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#L1968",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

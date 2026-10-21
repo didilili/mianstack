@@ -1,0 +1,187 @@
+{
+  "id": "COL-AIGC-IMAGE-05",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 图像创作 · 主流AIGC图像生成编辑大模型汇总系列",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-IMAGE-05-001",
+      "originalTitle": "面试问题：AIGC图像创作领域未来的技术发展趋势是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L37",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-002",
+      "originalTitle": "面试问题：AIGC图像创作大模型的主流技术范式有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L78",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-003",
+      "originalTitle": "面试问题：AIGC图像创作涵盖哪些典型任务？（进阶）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-004",
+      "originalTitle": "面试问题：AIGC图像创作领域的模型训练与优化趋势是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-005",
+      "originalTitle": "1. 如何构造更有效的训练监督？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-006",
+      "originalTitle": "2. 如何让同一个底座模型学习多种创作任务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-007",
+      "originalTitle": "3. 如何把人类偏好转化为可学习的信号？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-008",
+      "originalTitle": "4. 如何利用失败样本持续修正模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L168",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-009",
+      "originalTitle": "5. 如何通过更少的采样并步数进行高质量生成？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L185",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-010",
+      "originalTitle": "面试问题：AIGC图像创作大模型的效果应该如何评估？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-011",
+      "originalTitle": "面试问题：Google在AIGC图像创作领域形成了怎样的技术演进主线？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-012",
+      "originalTitle": "面试问题：Imagen系列模型有什么跨周期技术价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-013",
+      "originalTitle": "第一，语义约束没有落实时，应该改哪里？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L315",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-014",
+      "originalTitle": "第二，级联生成怎样分配计算，又怎样处理上游误差？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-015",
+      "originalTitle": "第三，为什么训练好的模型还需要精心设计采样策略？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L331",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-016",
+      "originalTitle": "面试问题：Nano Banana系列有哪些优秀特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-017",
+      "originalTitle": "面试问题：OpenAI在AIGC图像创作领域形成了怎样的技术演进主线？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-018",
+      "originalTitle": "面试问题：DALL-E系列模型跨周期的创新点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-019",
+      "originalTitle": "面试问题：GPT-4o图像生成系统和GPT-Image系列的优秀特点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L500",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-020",
+      "originalTitle": "面试问题：Seedream系列的技术演进主线是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L543",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-021",
+      "originalTitle": "面试问题：Seedream系列的模型架构和关键创新点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L575",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-022",
+      "originalTitle": "面试问题：SeedEdit系列模型解决了什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L626",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-023",
+      "originalTitle": "面试问题：Seedream系列公开的训练流程包括哪些关键阶段？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L652",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-024",
+      "originalTitle": "面试问题：Midjourney系列模型有哪些优秀特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L697",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-025",
+      "originalTitle": "面试问题：HiDream-I1的技术原理和模型架构是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L773",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-026",
+      "originalTitle": "面试问题：GLM-Image的创新点有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L818",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-027",
+      "originalTitle": "面试问题：Qwen-Image系列的创新点有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L870",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-05-028",
+      "originalTitle": "面试问题：Z-Image系列的创新点有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md#L915",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

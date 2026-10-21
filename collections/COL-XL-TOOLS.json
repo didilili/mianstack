@@ -2,6 +2,12 @@
   "id": "COL-XL-TOOLS",
   "publisherId": "PUB-XL",
   "title": "LLM 工具调用面试题",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
   "sourceUrl": "https://xiaolinnote.com/ai/tools/tools_info.html",
   "sourceKind": "curated_question_set",
   "access": "public",
@@ -9,7 +15,7 @@
   "capturedAt": "2026-09-13",
   "lastCheckedAt": "2026-09-13",
   "verification": "publisher_claim",
-  "sourceClaim": "小林 Coding 表示这些题目整理自公开面经；本站未逐题核对原帖。",
+  "sourceClaim": "小林 Coding 的面试题单。",
   "items": [
     {
       "id": "COL-XL-TOOLS-001",

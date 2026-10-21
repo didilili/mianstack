@@ -1,0 +1,42 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-ALGORITHM-TOP10",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 算法岗精选复习题",
+  "coverage": [
+    "rag",
+    "agent"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-ALGORITHM-TOP10-001",
+      "originalTitle": "如何优化 RAG 的检索召回率？（必考）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L363",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-ALGORITHM-TOP10-002",
+      "originalTitle": "Agent Memory 设计方案？（必考）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-ALGORITHM-TOP10-003",
+      "originalTitle": "GraphRAG vs Naive RAG 的理论分析？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L369",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-ALGORITHM-TOP10-004",
+      "originalTitle": "针对某个问题，如何设计消融实验？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L372",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

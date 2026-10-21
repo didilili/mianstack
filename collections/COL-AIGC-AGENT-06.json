@@ -1,0 +1,186 @@
+{
+  "id": "COL-AIGC-AGENT-06",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · Agent安全评测与AgentOps",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的专题面试题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-AGENT-06-001",
+      "originalTitle": "面试问题：Agent 的行动能力如何改变风险与评测对象？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-002",
+      "originalTitle": "面试问题：Agent 的风险边界和 Chatbot 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L70",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-003",
+      "originalTitle": "面试问题：Agent 评测为什么不能只看最终答案对不对？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-004",
+      "originalTitle": "面试问题：AgentOps 和 MLOps / LLMOps 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-005",
+      "originalTitle": "面试问题：Guardrails 应如何分层覆盖执行过程？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L168",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-006",
+      "originalTitle": "面试问题：输入、输出、工具、状态四类 Guardrails 如何设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L194",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-007",
+      "originalTitle": "面试问题：Prompt Injection 在 Agent 系统中为什么更危险？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L206",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-008",
+      "originalTitle": "面试问题：工具权限、沙箱和人工审批如何协同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-009",
+      "originalTitle": "面试问题：如何设计 Agent 的最小权限体系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-010",
+      "originalTitle": "面试问题：如何同时衡量 Agent 的结果、过程和代价？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-011",
+      "originalTitle": "面试问题：SWE-bench、SWE-bench Verified、SWE-bench Pro 分别说明什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-012",
+      "originalTitle": "面试问题：WebArena、OSWorld、GAIA、τ-bench 分别评估什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L337",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-013",
+      "originalTitle": "面试问题：为什么公开 Benchmark 不能替代企业自建评测集？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L363",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-014",
+      "originalTitle": "面试问题：如何构建一个企业内部 Agent Eval Harness？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-015",
+      "originalTitle": "面试问题：Agent 运行轨迹应包含哪些可诊断信息？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L452",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-016",
+      "originalTitle": "面试问题：如何通过 trace 定位 Agent 失败原因？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-017",
+      "originalTitle": "面试问题：Agent 线上监控应该看哪些指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L529",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-018",
+      "originalTitle": "面试问题：LLM-as-Judge 在 Agent 评测中如何使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L564",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-019",
+      "originalTitle": "面试问题：如何建立失败样本回流机制？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L596",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-020",
+      "originalTitle": "面试问题：从小范围试用到生产开放应如何推进？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L631",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-021",
+      "originalTitle": "面试问题：只读、建议、受控写入、自动执行四个阶段如何划分？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L667",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-022",
+      "originalTitle": "面试问题：Agent 发布、灰度、回滚应该如何设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L690",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-023",
+      "originalTitle": "面试问题：Agent 成本、延迟和可靠性如何治理？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L726",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-024",
+      "originalTitle": "面试问题：如何设计 Agent 事故响应和审计体系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L742",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-025",
+      "originalTitle": "面试问题：不同 Agent 场景应如何设定风险重点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L799",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-026",
+      "originalTitle": "面试问题：编码 Agent 安全评测应重点覆盖什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L822",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-027",
+      "originalTitle": "面试问题：浏览器 / GUI Agent 安全评测应重点覆盖什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L859",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-AGENT-06-028",
+      "originalTitle": "面试问题：企业客服 / 办公 Agent 安全评测应重点覆盖什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/06_Agent%E5%AE%89%E5%85%A8%E8%AF%84%E6%B5%8B%E4%B8%8EAgentOps%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L894",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

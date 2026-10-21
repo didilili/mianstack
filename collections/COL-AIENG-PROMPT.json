@@ -1,0 +1,200 @@
+{
+  "id": "COL-AIENG-PROMPT",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · 提示工程",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 维护的 AI Engineering Interview Questions 英文题目，部分条目为技术主题。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-PROMPT-001",
+      "originalTitle": "What is prompt engineering, and why is it critical for AI applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L225",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-002",
+      "originalTitle": "Explain zero-shot, one-shot, and few-shot prompting with examples.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-003",
+      "originalTitle": "What is chain-of-thought (CoT) prompting, and when should you use it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-004",
+      "originalTitle": "Explain self-consistency prompting and how it improves reasoning.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-005",
+      "originalTitle": "What is tree-of-thought prompting?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-006",
+      "originalTitle": "What is ReAct (Reasoning + Acting) prompting, and how does it work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L233",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-007",
+      "originalTitle": "What is a system prompt, and how does it influence model behavior?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-008",
+      "originalTitle": "How do you structure prompts for consistent structured output (JSON, XML)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-009",
+      "originalTitle": "What is prompt injection, and how do you defend against it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-010",
+      "originalTitle": "What is jailbreaking in LLMs, and what are common jailbreak techniques?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L239",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-011",
+      "originalTitle": "How do you optimize prompts for cost and latency?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-012",
+      "originalTitle": "What is the difference between prompt engineering and prompt tuning?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-013",
+      "originalTitle": "What is a prompt template, and how do you design one for production use?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-014",
+      "originalTitle": "How do you handle multi-turn conversations with LLMs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L244",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-015",
+      "originalTitle": "What is role prompting, and when is it effective?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-016",
+      "originalTitle": "What is prompt chaining, and how do you design a chain of prompts for complex tasks?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L246",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-017",
+      "originalTitle": "How do you evaluate and iterate on prompt quality?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-018",
+      "originalTitle": "What are meta-prompts, and how can they be used to generate prompts?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L249",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-019",
+      "originalTitle": "What are the common failure modes in prompting, and how do you debug them?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L250",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-020",
+      "originalTitle": "How do you handle edge cases and adversarial inputs in prompt design?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-021",
+      "originalTitle": "What is the \"lost in the middle\" problem in long-context prompting?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-022",
+      "originalTitle": "What are output parsers, and why are they needed for production applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-023",
+      "originalTitle": "How do you handle multi-language prompting effectively?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-024",
+      "originalTitle": "Your few-shot prompting gives inconsistent results across similar inputs. How do you stabilize it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-025",
+      "originalTitle": "Your LLM classification system is too sensitive to prompt wording changes. How do you reduce prompt sensitivity?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L257",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-026",
+      "originalTitle": "Your chatbot's system prompt containing proprietary business logic is being leaked by users. How do you prevent it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L258",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-027",
+      "originalTitle": "Your LLM agent is vulnerable to prompt injection that reveals the system prompt. How do you defend it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L259",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-028",
+      "originalTitle": "Your chain-of-thought prompting is not improving LLM accuracy on reasoning tasks. What do you fix?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-029",
+      "originalTitle": "Your AI system works in English but fails for other languages. How do you add multilingual support?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-PROMPT-030",
+      "originalTitle": "Your zero-shot cross-lingual transfer from English fails on other languages. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L263",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

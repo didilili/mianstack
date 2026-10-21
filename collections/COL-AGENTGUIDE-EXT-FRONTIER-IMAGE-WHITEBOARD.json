@@ -1,0 +1,25 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-FRONTIER-IMAGE-WHITEBOARD",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 图像生成：白板实现练习",
+  "coverage": [
+    "llm",
+    "training",
+    "coding"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/image-generation.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-FRONTIER-IMAGE-WHITEBOARD-001",
+      "originalTitle": "请写出一个高层训练循环，并明确哪些组件冻结、如何采样时间步、条件 dropout 在哪里发生：",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/image-generation.md#L136",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

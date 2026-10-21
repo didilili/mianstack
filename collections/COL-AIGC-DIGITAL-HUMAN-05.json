@@ -1,0 +1,210 @@
+{
+  "id": "COL-AIGC-DIGITAL-HUMAN-05",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 05_3D数字人与可微渲染高频考点",
+  "coverage": [
+    "llm",
+    "ai_engineering"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-001",
+      "originalTitle": "1. 为什么 AIGC 时代仍然需要 3D 数字人？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L55",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-002",
+      "originalTitle": "面试问题：2D 数字人与 3D 数字人的核心差异是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-003",
+      "originalTitle": "面试问题：3D 数字人的典型技术链路是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L87",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-004",
+      "originalTitle": "面试问题：3D 先验如何提升数字人生成的可控性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-005",
+      "originalTitle": "2. 3DMM 是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-006",
+      "originalTitle": "面试问题：3DMM 的形状、表情和纹理参数如何理解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L154",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-007",
+      "originalTitle": "面试问题：3DMM 有哪些典型应用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L173",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-008",
+      "originalTitle": "面试问题：BFM 和 FLAME 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-009",
+      "originalTitle": "面试问题：DECA、EMOCA、MICA、3DDFA、Deep3DFaceRecon 的路线如何区分？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-010",
+      "originalTitle": "面试问题：单张图像做人脸 3D 重建的难点有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L239",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-011",
+      "originalTitle": "3. SMPL 模型是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-012",
+      "originalTitle": "面试问题：SMPL 的形状参数、姿态参数和输出网格如何理解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-013",
+      "originalTitle": "面试问题：Blend Shape 和 LBS 在 SMPL 中分别解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L331",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-014",
+      "originalTitle": "面试问题：SMPL、SMPL-H、SMPL-X、MANO、FLAME 如何对比？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L363",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-015",
+      "originalTitle": "面试问题：单目 RGB 图像重建 3D 人体为什么困难？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-016",
+      "originalTitle": "面试问题：参数化人体模型为什么难以表示宽松衣物？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-017",
+      "originalTitle": "4. 3D 数据表示为什么会影响算法设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L445",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-018",
+      "originalTitle": "面试问题：点云、Mesh、体素、RGB-D、多视角图像如何对比？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L461",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-019",
+      "originalTitle": "面试问题：SDF 和 Occupancy Field 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-020",
+      "originalTitle": "面试问题：NeRF 的核心思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L520",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-021",
+      "originalTitle": "面试问题：3D Gaussian Splatting 为什么适合实时数字人？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L554",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-022",
+      "originalTitle": "面试问题：Mesh Avatar、NeRF Avatar、3DGS Avatar 各自适合什么场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L585",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-023",
+      "originalTitle": "5. 传统渲染管线包括哪些核心步骤？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L601",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-024",
+      "originalTitle": "面试问题：局部光照和全局光照有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L648",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-025",
+      "originalTitle": "面试问题：光栅化和 Z-buffer 为什么会带来不可微问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L679",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-026",
+      "originalTitle": "面试问题：可微渲染是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L701",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-027",
+      "originalTitle": "面试问题：可微渲染有哪些主流实现思路？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L734",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-028",
+      "originalTitle": "面试问题：可微渲染如何用于 3DMM/SMPL 参数优化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L761",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-029",
+      "originalTitle": "6. 3D 数字人与生成式模型如何结合？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L800",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-030",
+      "originalTitle": "面试问题：如何设计一个可控 3D 数字人生成系统？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L830",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-031",
+      "originalTitle": "面试问题：3D 数字人如何评估质量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L870",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-05-032",
+      "originalTitle": "面试问题：线上 3D 数字人系统常见问题如何排查？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L887",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

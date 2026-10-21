@@ -1,0 +1,1426 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-7287",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 行为面试与HR",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "software",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-001",
+      "originalTitle": "请做自我介绍。变体：1. 然后挑一个项目。2. 然后挑一段经历展开。3. 然后说他一会儿敲键盘是记录面试情况。4. 然后进行项目拷打。5. 然后问为什么要面百度。6. 由于没有互联网实习，为了表现优势，强调是大模型资深用户。7. 简历项目提问，是否了解推荐算法？8. 简洁突出核心竞争力和适配性。9. 重点突出项目成果和产品能力。10. 项目询问。11. 师傅你是做什么工作的？12. 请快速吟唱自我介绍。13. 请用中文做自我介绍。 「字节跳动、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7295",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-002",
+      "originalTitle": "请做自我介绍。变体包括：1. 介绍性格、MBTI、毕业时间、实习时长等。2. 介绍所学技术、学习方法、是否有博客。3. 时长要求：2分钟、3分钟、5分钟、15分钟（含项目介绍）、简短。4. 重点内容：智驾相关经历、背景与实习项目、个人及部门业务、核心优势、小红书实习经历、base地、离职原因、看机会原因、大模型相关经历、RLHF相关工作、论文在投/发表、多模态推理中的RL部分、实习项目及多模态/视觉八股、实习工作场景。5. 形式：可用英文、需总结核心优势、结合简历、简短、部分场次要求熟练、不用开摄像头。6. 其他：日常被问专业跨度大、根据JD微调细节、然后他也会。 「京东、字节Seed、字节跳动、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-003",
+      "originalTitle": "【自我介绍】请做自我介绍。变体：1. 重点分享与多模态大模型相关的经历（如跨模态项目、图像/语音算法开发、开源项目贡献）。2. 重点分享与大语言模型相关的经历（如LLM微调项目、论文研究、开源项目贡献）。3. 包括个人背景、大学经历或实习经历；同时说明AI大模型这类新工具如何融入学习和实践。4. 突出与计算机视觉相关的优势。5. 询问学校专业、是否保研、研究方向（与深度学习/机器学习的关系）。 「京东、字节Seed、字节跳动、快手、拼多多、百度、百度文心、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7301",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-004",
+      "originalTitle": "【offer选择与权衡】目前有没有其他offer？为什么优先考虑百度Apollo？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7308",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-005",
+      "originalTitle": "【专业背景与方向选择】本科硕士都不是cs，为什么选推荐不选大模型，agent？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7309",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-006",
+      "originalTitle": "【业务与技术关系】如何看待业务和技术？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-007",
+      "originalTitle": "【个人方法论】你过往的个人方法论是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7311",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-008",
+      "originalTitle": "【个人贡献】如果拿到Offer，你能为团队做出什么贡献？ 「百度、百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-009",
+      "originalTitle": "【主动学习经历】请分享一次你为了学习一项新技术或新算法，而主动投入大量时间和精力的经历。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7313",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-010",
+      "originalTitle": "【企业文化了解】你对百度Apollo的企业文化有什么了解？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-011",
+      "originalTitle": "【企业特质与个人契合】你认为京东的实体经济根基、自动驾驶业务布局优势、完善的校招培养体系、“以信赖为基础，以客户为中心的价值创造”的企业使命等特质，哪些契合你的职业发展需求？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7315",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-012",
+      "originalTitle": "【入职初期贡献】如果我有幸加入，在初的3-6个月，您希望我优先在哪个方面为团队创造价值? 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-013",
+      "originalTitle": "【公司意向】后续秋招考虑字节的意向大不大？对字节的看法？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7317",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-014",
+      "originalTitle": "【其他岗位投递情况】除京东外，你还投递了哪些计算机视觉岗位? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-015",
+      "originalTitle": "【其他求职进展】最近有无其他投递的公司？面试进展如何？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-016",
+      "originalTitle": "【内在驱动力】在整个人生中，什么驱动着你，因素是什么，动力来源是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-017",
+      "originalTitle": "【前沿跟踪途径】跟踪领域前沿是研究员的必备技能。你通常通过哪些途径保持对基础算法领域最新进展的敏感度? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-018",
+      "originalTitle": "【匹配度考量】如果可以培养，那为什么在面试完筛选阶段如此考虑match程度? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-019",
+      "originalTitle": "【团队招聘期望】这个团队希望招到什么样的人？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7324",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-020",
+      "originalTitle": "【学习与信息获取】你平时怎么学习新的算法和技术，通过哪些渠道获取技术信息，如何保持技术敏感度？最近在学什么？ 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-021",
+      "originalTitle": "【学习方法】你平时如何学习AI知识，包括LLM算法和多模态算法？ 「京东、字节Seed、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-022",
+      "originalTitle": "【学习方法与平衡】学习成绩这么好有什么方法吗，研究生是怎么平衡学业和科研的？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7327",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-023",
+      "originalTitle": "【学校课题情况】问学校那边的情况，在学校做的课题是什么等等 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7328",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-024",
+      "originalTitle": "【实习动机】出来实习为了什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7329",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-025",
+      "originalTitle": "【实习研究方向】实习期间希望研究的方向 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7330",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-026",
+      "originalTitle": "【实习经历解释】前两段实习较短原因。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7331",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-027",
+      "originalTitle": "【实习获取途径】实习都是自己找的吗，还是导师推荐？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-028",
+      "originalTitle": "【岗位了解】在之前两轮面试后，对于我们部门和岗位的了解是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-029",
+      "originalTitle": "【岗位优势】有什么好处？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7334",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“有什么好处”缺少具体选择或方案。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-030",
+      "originalTitle": "【岗位意向】你对这个岗位的意向如何？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7335",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-031",
+      "originalTitle": "【岗位技术方向】这个岗位未来是更偏 Agent 系统研发，还是大模型底层调优？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-032",
+      "originalTitle": "【岗位方向询问】提问:岗位的具体方向 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7337",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-033",
+      "originalTitle": "【岗位期待与目标】你对这个岗位有什么期待、想做的事情或目标？如果未来来这里工作，你对工作有什么展望或期待？ 「字节跳动、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7338",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-034",
+      "originalTitle": "【岗位职责与能力要求】如果我有幸加入，我主要负责方向，以及您觉得胜任本岗位需要哪些方面的能力？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-035",
+      "originalTitle": "【岗位职责理解】请谈谈你对蚂蚁集团基础算法研究员岗位核心职责的理解。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-036",
+      "originalTitle": "【岗位选择动机】动机问题很多：为什么是tiktok shop？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7341",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-037",
+      "originalTitle": "【工作偏好】喜欢研究还是应用还是业务？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-038",
+      "originalTitle": "【工作内容接受度】如果入职后让你做一些纯Agent链路开发，或者纯Prompt调优的工作（不怎么涉及大模型本身的训练），你能接受吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7343",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-039",
+      "originalTitle": "【工作方式偏好】假设后面来这边实习，面对工作安排，你会选择直接独立去做一个项目，还是前期先做一些基础性的工作？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7344",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-040",
+      "originalTitle": "【技术方向差异】安全技术和技术研究、应用研究有什么差别吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7345",
+      "reviewStatus": "needs_review",
+      "reviewNote": "安全技术、技术研究与应用研究未说明所属组织与领域。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-041",
+      "originalTitle": "【技术栈了解】你有什么问题想了解关于京东多模态团队的技术栈（如模型架构、落地场景）？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-042",
+      "originalTitle": "【技术栈优势】最擅长的技术栈是什么？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-043",
+      "originalTitle": "【抗压能力】你能接受11-11-6的工作强度和高压力的算法迭代吗？ 「京东、拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7348",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-044",
+      "originalTitle": "【提前入职意愿】高兴提前来我们这边一起做点好玩的东西吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7349",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-045",
+      "originalTitle": "【新人培养机制】这边对新人的培养机制是怎样的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7350",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-046",
+      "originalTitle": "【核心竞争力】你认为的核心竞争力在哪？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7352",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-047",
+      "originalTitle": "【求职动机】你现在主要看机会的原因是什么？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7353",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-048",
+      "originalTitle": "【求职动机与岗位匹配】1. 对新人（非科班转码、有经验差异者）的期待与建议？2. 对游戏的热爱（举例说明游戏优点、NPC等）。3. 对美团了解（如美团打车）？4. 将来研究方向是否明确？5. 岗位业务职责与协作情况？6. 岗位是否匹配？7. 工作体验、如何landing、有无老师带及后续流程？8. 工程性和理论性对实习生哪个更重要？9. 希望实习生具体参与哪块工作或方向？10. 希望工作环境？11. 希望通过实习提升哪些能力？12. 平常刷力扣到什么程度？13. 平时用AI编程工具吗？具体用什么？14. 面试官对候选人的定位？15. 想去做工程还是research（倾向搭开源框架还是做research，来这里做科研还是业务，组内业务还是research）？16. 未来职业方向/领域倾向？17. 找工作比较在意的点（除薪资外）？18. 技术上哪个了解最多？哪些与申请实习相关性最高？ 「京东、字节Seed、字节跳动、拼多多、百度、百度文心、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7354",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-049",
+      "originalTitle": "【求职意向】你的未来求职意向是什么？你想找什么样的工作？ 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7355",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-050",
+      "originalTitle": "【研究方向匹配】你的研究方向和团队是否匹配？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-051",
+      "originalTitle": "【秋招进度与城市偏好】目前还在推荐的秋招进度、比较倾向的城市。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7357",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-052",
+      "originalTitle": "【竞品投递与选择理由】除了京东，你还投递了哪些企业的自动驾驶算法相关校招岗位?为什么最终更倾向于加入京东自动驾驶算法工程师团队? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7358",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-053",
+      "originalTitle": "【综合问题】其他：包括未来的职业规划和求学规划。用三个词介绍自己的优点。手头有没有别的offer，如何权衡？可实习时长、到岗时间。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7359",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-054",
+      "originalTitle": "【职业规划与大厂意向】你未来规划，对大厂的意向。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-055",
+      "originalTitle": "【能力提升可能性】能不能往上提到他们要求的程度? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7361",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明需提升的能力、团队要求与现有水平。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-056",
+      "originalTitle": "【自学方法】你现在是自学推荐系统吗，有去找网上对应的一些资料或者说视频来看吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-057",
+      "originalTitle": "【自我介绍与求职动机】简单介绍一下自己，以及为什么想做智驾PM、想加入百度Apollo? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7363",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-058",
+      "originalTitle": "【角色认知与行业趋势】你认为校招算法工程师在京东推进自动驾驶技术研发落地、提升自动驾驶系统安全性与可靠性、实现2026年自动驾驶业务战略目标过程中扮演什么角色？结合当前自动驾驶行业算法工程师发展趋势，谈谈你的看法？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-059",
+      "originalTitle": "【课程与大模型关联】本专业的课程涉及大模型方面吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-060",
+      "originalTitle": "【跳槽动机与合理性】看机会的原因？你觉得经常跳槽合理吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-061",
+      "originalTitle": "【转正意向】有没有考虑在现实习单位转正？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-062",
+      "originalTitle": "【转行动机】动机考察:之前都是战略相关，为什么想来做电商策略?/依旧为什么要从战略转电商业务? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-063",
+      "originalTitle": "【适应与学习能力】你如何快速适应京东的技术研发氛围、熟悉自动驾驶业务场景、掌握新技术/新业务的经历？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7369",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-064",
+      "originalTitle": "【专业选择与转行动机】为什么本科选择当前专业？为什么研究生改变了专业？为什么本硕期间有间断？为什么没保研？为什么要读研而不是本科就业？为什么专业不相关却想做算法？为什么想转行？ 「京东、字节跳动、百度、美团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-065",
+      "originalTitle": "【个人背景与岗位匹配】请介绍你的专业、研究方向、技术背景，并阐述为什么你认为自己适合蚂蚁集团大模型后训练算法工程师这个岗位？同时，请明确你的岗位定位是开发还是算法？ 「字节跳动、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-066",
+      "originalTitle": "【公司选择与方向动机】为什么要来腾讯，为什么想做大模型 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-067",
+      "originalTitle": "【公司选择动机】为什么选择我们公司/岗位？请结合具体公司特点和个人职业规划回答。 变体： - 字节跳动：为什么想来字节，最吸引你的点是什么？为什么对字节和这个岗位感兴趣？ - 京东：为什么选择京东？为什么选择京东而不是纯AI大模型初创公司？为什么选择京东金融？ - 实习：为什么选择去这个实习？为什么选择我们这里？ - 百度Apollo：为什么选择百度Apollo，而不是其他智驾公司（Momenta、华为等）？ - 蚂蚁集团：为什么选择蚂蚁集团？ 「京东、字节Seed、字节跳动、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7377",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-068",
+      "originalTitle": "【学业与职业选择思考】之前在学业工作上的一些选择，是怎么考虑的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7378",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-069",
+      "originalTitle": "【学习路径规划】你会从哪些基础课程入手？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7379",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“从哪些基础课程入手”未说明学习领域。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-070",
+      "originalTitle": "【岗位申请动机】你为什么申请京东TET多模态大模型算法开发方向或大语言模型算法开发方向？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7380",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-071",
+      "originalTitle": "【岗位选择动机】为什么选择这个岗位？为什么匹配？为什么是策略运营岗？为什么要应聘那个岗位？为啥想来做算法？以后想要从事什么样的工作？你为什么想做这个岗位？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7381",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-072",
+      "originalTitle": "【工作价值观】你下一份工作最看重的是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-073",
+      "originalTitle": "【技术学习与竞争力保持】你如何保持对AI领域新技术的跟进，包括使用AI工具、关注新技术趋势以及学习一门新技术（如AI Infra前沿技术）？同时，如何在使用AI工具的情况下保持自身竞争力？ 「百度、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-074",
+      "originalTitle": "【推荐算法方向选择】为什么选择推荐算法方向？结合你的背景（如大模型、CV经历）说明动机，并解释为何从之前领域转向推荐（包括传统推荐与基于大模型的推荐）。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-075",
+      "originalTitle": "【方向选择动机】你为什么选择多模态算法方向？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-076",
+      "originalTitle": "【校招培养体系了解】你了解的京东校招算法工程师培养体系有哪些？（如系统化岗前技术培训、资深导师带教机制、核心项目实战历练、跨团队技术交流、专业技能提升课程等）你对该体系有哪些期待？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-077",
+      "originalTitle": "【离职与实习变动原因】为什么不在当前公司留用？为什么不继续在原来的公司实习？为什么不继续干？为什么从滴滴离开或者说对下段实习的期待？为什么出来看机会？为什么想换实习？为什么想离职？为什么考虑离开当前公司？为什么过年了要出来实习？之前是在百度哪个部门啊，咋不继续去那边实习？之前那个组情况如何？ 「京东、字节跳动、百度、美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-078",
+      "originalTitle": "【转行动机】你为什么想转行做智驾PM(若有转行经历)？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-079",
+      "originalTitle": "【岗位选择与方向偏好】为什么申请京东计算机视觉/算法工程师（自动驾驶校招）岗位？请说明职业选择逻辑，以及对京东“以技术创新驱动自动驾驶落地，构建高效智能物流生态”战略的理解。京东自动驾驶算法工作涵盖感知、决策规划、控制、数据驱动算法优化、仿真测试等多个方向，你更倾向于哪个方向？为什么？请结合自身优势说明适配性。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7393",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-080",
+      "originalTitle": "【部门选择与业务理解】为什么选择腾讯CSIG而不是其他BG（如WXG、PCG）做多模态？你对我们部门在产业互联网中的技术定位和业务目标了解多少？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-081",
+      "originalTitle": "个人未来规划。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-082",
+      "originalTitle": "为什么想来这个岗位实习，职业规划？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-083",
+      "originalTitle": "之后会考虑读博吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7404",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-084",
+      "originalTitle": "之后是怎么规划的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-085",
+      "originalTitle": "介绍工作规划。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-086",
+      "originalTitle": "以后是想做产品经理还是走算法工程师路线？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-087",
+      "originalTitle": "你两段实习经历都偏视觉和当前大模型岗位好像不是很符合，你是怎么想的，对未来的职业规划是什么样的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-088",
+      "originalTitle": "你对加入京东后的职业规划是什么？希望通过算法工程师一自动驾驶校招岗位，在专业能力（如核心算法设计能力、工程化落地能力、业务场景适配能力）、行业认知、技术视野上实现哪些突破？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7409",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-089",
+      "originalTitle": "你对自己的规划是怎么样的？后续想做哪些方向有想过吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7410",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-090",
+      "originalTitle": "你未来3-5年的职业规划是怎样的? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-091",
+      "originalTitle": "你未来想往前端还是后端发展？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7412",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-092",
+      "originalTitle": "你现在是研一，那你后面打算考虑往哪方面发展？在研究和业务方面你更偏向于哪一块？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-093",
+      "originalTitle": "你的职业规划是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-094",
+      "originalTitle": "你认为一名优秀的基础算法研究员，除了扎实的理论功底，还应具备哪些对岗位的认知？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7415",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-095",
+      "originalTitle": "后续打算做什么？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7416",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-096",
+      "originalTitle": "在你未来的职业发展中，最希望实现的目标是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-097",
+      "originalTitle": "在你看来，如何保持技术的前沿性和创新性？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-098",
+      "originalTitle": "在工作中，如何保持对自动驾驶技术趋势、算法创新方向、京东自动驾驶业务发展动态的敏感度？当长期面临重复的基础工作（如数据标注审核、模型调参、常规测试验证）时，你会如何调整？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-099",
+      "originalTitle": "更关注你想做什么、志趣方向到底在哪里？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-100",
+      "originalTitle": "未来3-5年的职业规划是什么？和百度Apollo的发展匹配度如何？未来怎么提升自己？未来想做的方向（图像-文本、语音-文本还是视频-文本融合？）。未来的工作规划。最希望提升哪方面的能力？畅想五年后的你自己；希望是什么状态？简单阐述个人职业发展规划。组里晋升节奏？聊天，包括职业规划等等。职业发展与学习方式如何跟进AI前沿？后面想做什么方向的事情？职业规划中，计算机视觉经历能为你带来什么帮助？职业规划/工作方向。意向城市，毕业时间。第一份工作的考量因素/多段实习经历的整体感受。介绍一下自己的研究和未来规划。转向大模型/Agent，你是怎么思考与选择的？ 「京东、字节Seed、字节跳动、拼多多、百度、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7421",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-101",
+      "originalTitle": "请描述你职业规划中与蚂蚁集团基础算法研究相关的部分，以及你希望在未来3-5年达成什么目标？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-102",
+      "originalTitle": "【他人评价与改进建议】同事或导师通常用哪三个词评价你的计算机视觉能力？同学觉得自己在工作上还有哪些需要提升的吗？你的mt/导师有对你提过什么建议吗？ 「京东、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-103",
+      "originalTitle": "【优缺点】你的优势是什么？你的优缺点各是什么？请分别说出至少一个优点和一个缺点。你认为自己最大的优点和缺点分别是什么？这些特质将如何影响你在本岗位的工作？另外，有什么劣势？ 「京东、字节跳动、百度、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-104",
+      "originalTitle": "【兴趣爱好】有什么兴趣爱好？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-105",
+      "originalTitle": "【失败与放弃经历】请举例说明你主动放弃的一件事，以及如何从失败中学习，并分享一个从失败或挫折中学习的经历，它对你后续的工作产生了什么影响？ 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7440",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-106",
+      "originalTitle": "【对面试官的评价与建议】你觉得我还有哪些地方需要改进？对我个人评价？ 「京东、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7441",
+      "reviewStatus": "needs_review",
+      "reviewNote": "题签与正文中的说话人指向不明确，缺少可判断由谁评价谁的上下文。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-107",
+      "originalTitle": "【成就感来源】你认为自动驾驶算法工程师工作中最能让你产生成就感的部分是什么？（如通过算法优化提升自动驾驶系统性能、解决复杂场景技术难题、推动自动驾驶技术落地应用、助力业务效率提升等）请结合自身经历举例说明。另外，在实习中，哪项工作让你最有成就感？为什么？ 「京东、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-108",
+      "originalTitle": "【技术热情与学习能力】你如何保持自己的技术热情和持续学习的能力？怎么证明你的自驱力和学习能力比较好？请分享一次你快速学习新技术的经历。 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-109",
+      "originalTitle": "【擅长领域与短板弥补】更擅长哪一块：数据/训练/评测/工程/业务沟通？短板准备怎么补？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7444",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-110",
+      "originalTitle": "【文科背景的优势】本科学的是文科；这块知识让你受益的部分是什么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7445",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-111",
+      "originalTitle": "【最大成就】介绍一下你目前为止觉得最大的成就或最骄傲的一件事。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7446",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-112",
+      "originalTitle": "【班级水平】在班级的水平处于什么程度？身边同学的情况如何？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-113",
+      "originalTitle": "【算法工程师特质】你认为算法工程师（如京东自动驾驶、蚂蚁大模型后训练、基础算法研究等方向）需具备哪些核心素质或最重要的个人特质？请结合自身情况举例说明。 「京东、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-114",
+      "originalTitle": "【自我评价与性格】请介绍你的性格，包括用三个词语形容你自己，以及如果分裂出另一个你来描述自己，哪些词比较贴切？同时请对自己的性格和家乡进行评价。另外，平常做决定的方式是怎样的？ 「京东、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-115",
+      "originalTitle": "后面就是ai数字人对你进行常规面试，不过会深挖一些业务场景，比如说如何达成业绩，如何和团队沟通 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7457",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-116",
+      "originalTitle": "【上下级关系】介绍一下大老板和小老板 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-117",
+      "originalTitle": "【主动沟通达成事项】在过去的实习经历里边的话，有什么是你个人主动通过沟通就能达成的吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-118",
+      "originalTitle": "【价值观与行为事例】京东的核心价值观是‘客户为先’，分享一个你为满足他人需求牺牲个人利益的例子。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-119",
+      "originalTitle": "【合作看法】如何看待和他人合作完成一件工作？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7466",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-120",
+      "originalTitle": "【团队分工与协作】团队一般怎么分工协作？团队之间是怎么协作的？ 「百度文心、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-121",
+      "originalTitle": "【团队合作关键要素】在你看来，团队合作中最重要的是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7468",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-122",
+      "originalTitle": "【团队奖励分配】组内奖励差异大吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7469",
+      "reviewStatus": "needs_review",
+      "reviewNote": "原题未说明组内奖励是绩效奖金、学业奖励还是项目激励，缺少比较口径。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-123",
+      "originalTitle": "【团队工作内容与业务】团队平时的工作内容和主要业务是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-124",
+      "originalTitle": "【团队工作节奏与沟通方式】平时团队的工作节奏和沟通方式是怎样的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7471",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-125",
+      "originalTitle": "【团队构成】团队构成是怎样的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7472",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-126",
+      "originalTitle": "【团队氛围与工作强度】团队的工作氛围、工作强度及生活与工作的兼顾情况如何？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7473",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-127",
+      "originalTitle": "【实习交流与人际关系】实习中和其他人交流如何，和mentor/leader关系如何，和运营产品交流多吗，实验室人际关系如何 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7474",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-128",
+      "originalTitle": "【实习生探索支持】能否支持实习生做一些探索？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-129",
+      "originalTitle": "【实验室分工】你跟实验室同学合作的时候，怎么分工的? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7476",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-130",
+      "originalTitle": "【期望团队角色】在团队中希望承担什么样的角色，为什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-131",
+      "originalTitle": "【经历感受与MBTI】问经历问感受，还有mbti 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-132",
+      "originalTitle": "【自我评价沟通协作】你如何评价自己的沟通能力和协作精神？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7479",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-133",
+      "originalTitle": "【赛马机制与跨部门合作】会不会赛马，不同部门之间合作多吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-134",
+      "originalTitle": "【跨方向交流】实习过程与其他方向的有没有交流，如工程和产品？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-135",
+      "originalTitle": "【需求沟通矛盾】和开发/运营沟通需求时出现过矛盾吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7482",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-136",
+      "originalTitle": "【与产品经理沟通】你如何与产品经理有效沟通技术实现方案？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-137",
+      "originalTitle": "【与导师意见分歧处理】当你的想法和mentor不一致时，你会怎么处理？当你的研究思路或算法设计与团队主流意见或导师的建议相左时，你会如何处理? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7488",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-138",
+      "originalTitle": "【代码可读性与沟通】你写的代码如果同事看不懂，或者觉得逻辑太复杂，你会怎么处理？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7489",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-139",
+      "originalTitle": "【任务分工冲突处理】任务分工师弟不满意的时候，你怎么处理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7490",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-140",
+      "originalTitle": "【任务执行与框架学习】借助人工智能如何处理领导分配的任务，使用什么方法来确保自己一定能够去掌握相关的开源框架？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-141",
+      "originalTitle": "【优秀与出色同事的区别】您觉得在这个岗位上，做得好的同事和做得特别出色的同事，主要的区别是什么？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-142",
+      "originalTitle": "【发现同事疏漏的处理】在团队合作中，如果你发现同事的工作存在疏漏（如算法逻辑有偏差、代码存在漏洞、数据处理不规范、测试验证不全面等），你会如何提醒和帮助对方？请结合过往案例说明。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-143",
+      "originalTitle": "【团队角色与价值创造】在团队合作中，你通常扮演什么角色?你认为在算法研究团队中，你的角色如何为团队创造价值? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-144",
+      "originalTitle": "【实习经历与离职原因】问实习相关，相处方式，离职原因 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7495",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-145",
+      "originalTitle": "【工作被误解处理】如果在团队中你的工作被其他成员误解，你会如何处理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7496",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-146",
+      "originalTitle": "【应对不情愿的任务】师兄/导师安排不想做的事情时，你怎么应对？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-147",
+      "originalTitle": "【应对不熟悉业务需求】当面对不熟悉的业务需求时，你的应对策略是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-148",
+      "originalTitle": "【意见分歧处理与推动共识】在团队讨论中，你如何表达不同意见？当和团队出现意见分歧时，你是怎么推动共识、落地执行的？在项目中遇到大家意见不合时候，如何去处理？ 「京东、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7499",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-149",
+      "originalTitle": "【意见分歧经历】有没有遇到意见不一致的情况? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7500",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-150",
+      "originalTitle": "【技术方案分歧与质疑应对】在团队合作开发一个模型时，你和同事对技术方案有分歧，通常怎么处理？如果方案与团队主流意见或上级决策不一致，你会如何处理？如果在团队中，你的技术方案被质疑，你会如何应对？ 「京东、字节跳动、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7501",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-151",
+      "originalTitle": "【技术方案分歧达成共识】当团队成员对技术方案有分歧时，如何沟通并达成共识？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-152",
+      "originalTitle": "【测试结果分歧解决】如果你与开发团队在测试结果上存在分歧，你会如何解决？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-153",
+      "originalTitle": "【矛盾处理】工作中如果和同事、领导产生矛盾，你会怎么处理？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7504",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-154",
+      "originalTitle": "【组织与领导经历】你在大学期间是否组织过自动驾驶算法相关活动、技术分享会、算法竞赛等活动，或担任科研项目小组负责人、学生干部？请说明你在其中的角色、遇到的困难及解决措施？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7505",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-155",
+      "originalTitle": "【跨角色协作】怎么和工程方向的同事合作？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7506",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-156",
+      "originalTitle": "【跨角色协同与沟通】作为校招新人，如何高效开展跨角色协同工作（如对接工程、测试、业务、硬件团队）？在跨部门沟通中，如何确保信息准确传递？ 「京东、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-157",
+      "originalTitle": "【入职适应计划沟通】情景模拟:你刚加入京东自动驾驶算法工程师团队，需要快速熟悉团队技术栈、核心研发项目、业务场景需求及近期重点任务，你需要向导师汇报你的适应计划与学习安排，你会如何组织沟通内容? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-158",
+      "originalTitle": "【团队项目角色与贡献】请描述一次你带领团队或参与团队项目解决复杂技术问题的经历，你在其中扮演了什么角色? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7513",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-159",
+      "originalTitle": "【平衡短期与长期、个人与团队】你在过往的学习和科研/实习中，如何平衡“短期项目任务完成”与“长期技术能力提升”的关系？如何平衡“个人工作节奏”与“团队协作要求及项目进度压力”的关系？请结合具体案例说明你的做法与思考？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7514",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-160",
+      "originalTitle": "【技术债处理】如果你发现团队的技术栈存在严重技术债，你会如何处理？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7515",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-161",
+      "originalTitle": "【技术领导的人才需求】假如你作为一个技术领导，那你在团队发展过程中，你觉得需要什么样的人才来配合你？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7516",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-162",
+      "originalTitle": "【指导新同事技术入门】情景模拟:新加入实习团队的校招同事对自动驾驶算法研发流程、深度学习框架使用、数据处理方法不熟悉，向你请教相关问题，你需要结合自身经验为他详细解释并指导使用方法，你会如何沟通? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-163",
+      "originalTitle": "【指导校招同事成长】情景模拟:同为京东自动驾驶算法工程师的校招同事向你请教如何提升算法设计能力、如何快速理解业务场景需求及校招初期的职业成长建议，你会如何结合自身理解与经验为他提供指导? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7518",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-164",
+      "originalTitle": "【推动技术创新】在你看来，如何推动团队的技术创新？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7519",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-165",
+      "originalTitle": "【推动技术升级】请分享一个你在团队中推动技术升级的经历。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7520",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-166",
+      "originalTitle": "【推动项目进展】请举例说明你在团队协作时如何推动项目进展？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7521",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-167",
+      "originalTitle": "【有效沟通解决协作问题】请分享一次你通过有效沟通解决复杂协作问题的经历（如与团队成员对齐算法设计方案、向导师/领导汇报项目进展、向工程团队讲解算法逻辑、向测试团队反馈技术要点），你运用了哪些沟通技巧？最终成效如何？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7522",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-168",
+      "originalTitle": "【算法方案分歧推动共识】当团队成员对某一算法方案(如模型选型、参数设置、算法优化方向、工程化落地路径)存在分歧时，你会如何基于技术可行性与业务需求推动达成共识?请结合过往团队协作案例说明你在其中的作用? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-169",
+      "originalTitle": "【解决团队冲突】请分享一个你在团队协作中解决冲突的经历？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7524",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-170",
+      "originalTitle": "【说服上级采用技术路线】工作中如何说服上级采用自己的技术路线？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7525",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-171",
+      "originalTitle": "【说服他人经历】请分享一次你成功说服他人的经历。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7526",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-172",
+      "originalTitle": "【跨团队分歧解决】项目中如果和算法、测试团队有分歧，你会怎么解决? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7527",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-173",
+      "originalTitle": "【跨团队合作挑战】请描述一个你在跨团队合作中遇到的挑战，以及你是如何解决的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7528",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-174",
+      "originalTitle": "【跨团队方案分歧沟通】在跨团队合作中，工程团队认为你的算法方案过于复杂，难以在现有系统上实现和维护，希望采用一个更简单但效果稍差的方法。你将如何沟通与推进？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7529",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-175",
+      "originalTitle": "【针对不同对象的沟通调整】在工作中，你需要向不同类型的对象（如向领导汇报算法研发规划、向团队成员同步技术难点、向工程同学讲解算法实现逻辑、向测试同学说明验证重点）进行沟通，你会如何调整沟通方式以适配不同对象的需求？请举例说明。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-176",
+      "originalTitle": "【多任务统筹与优先级管理】请分享一次你在学习、科研项目或实习中统筹多个自动驾驶算法相关任务(如同时推进模型训练与数据处理、兼顾算法设计与测试验证、配合团队完成项目攻坚、参与场景适配优化)的经历，你是如何合理安排时间、划分任务优先级、确保各项任务顺利完成的? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7535",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-177",
+      "originalTitle": "【技术选型分歧沟通】当团队成员对分布式存储选型（如JuiceFS vs Alluxio vs Lustre）意见不一致时如何沟通并说服举例？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7536",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-178",
+      "originalTitle": "【竞赛团队分歧协调】情景模拟：学校组织自动驾驶算法竞赛，你作为小组负责人需要带领团队完成一款自动驾驶车辆的核心算法设计，小组内成员对算法选型、模型设计、分工安排存在分歧，部分成员积极性不高，你需要组织小组讨论推进项目，你会如何沟通协调？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-179",
+      "originalTitle": "【算法方案争议沟通】情景模拟:团队讨论某干线自动驾驶决策规划算法方案时，你倾向于采用模型预测控制(MPC)提升路径跟踪精度，另一位同事倾向于采用PID控制降低工程实现难度，双方争议较大，你需要在团队会议上阐述自己的观点及理由，你会如何沟通? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7538",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-180",
+      "originalTitle": "【跨团队协作解决技术问题】请分享一个你通过跨团队协作解决复杂技术问题的经历。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7539",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-181",
+      "originalTitle": "【跨团队指标对齐沟通】情景模拟：你在算法测试中发现，业务团队提出的某算法性能指标要求与实际技术可行性存在偏差，若按此推进可能导致项目延期，需要进一步沟通确认并优化指标要求，你会如何与业务团队负责人对接沟通？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7540",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-182",
+      "originalTitle": "【面对专家质疑的沟通】在项目评审中，有资深专家强烈质疑你采用的某项后训练技术路线，认为其理论依据不足，而你基于实验数据坚信其有效性。你该如何进行沟通和推进？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7541",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-183",
+      "originalTitle": "【团队管理与技术路线权衡】怎么管理AI Infra团队成员及技术路线规划，如何权衡自研调度器与开源方案的债务？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7546",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-184",
+      "originalTitle": "【团队文化适应】会不会很toxic? 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7553",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“会不会很 toxic”未明确所指对象与关系。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-185",
+      "originalTitle": "【对待基础性工作】你在日常实习期间有遇到过难以接受的工作吗（dirty work）？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7554",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-186",
+      "originalTitle": "【面试反馈与改进】我面试有什么要调整？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7556",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-187",
+      "originalTitle": "【多任务优先级管理】你如何平衡多个项目的时间分配？请说明你评估工作优先级的方法，特别是在团队同时有多个高优先级的研究项目需要你参与、时间资源紧张的情况下，你将如何评估和分配自己的精力，确保整体产出最大化？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7561",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-188",
+      "originalTitle": "【应对方案被否定】如果在一次重要汇报中，你的技术方案被资深同事当场否定，你会怎么办？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7562",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-189",
+      "originalTitle": "【应对质疑与自信表达】为什么你比面试官懂的多？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7563",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-190",
+      "originalTitle": "【持续努力实现目标】请分享一次你为实现某个自动驾驶算法相关目标(如完成核心算法研发项目、掌握关键算法技能、在算法竞赛中获奖、解决技术研发关键难点)而持续努力的经历，你是如何坚持下来的?最终结果如何? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7564",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-191",
+      "originalTitle": "【持续改进解决重复问题】请分享一个你通过持续改进过程来解决重复出现的问题的例子，具体情况是怎么样的?怎么解决的? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7565",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-192",
+      "originalTitle": "【挫折应对与成长反思】请分享一次你在学习、科研或实习中遇到的最大挫折（如算法项目失败、技术方案多次不通过、团队协作矛盾、核心技术难点突破不了等），你是如何克服的？这次经历让你有哪些成长与收获？另外，这种事会让你很挫败吗？ 「京东、字节跳动、百度、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7566",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-193",
+      "originalTitle": "【时间紧与质量权衡】在时间紧张的情况下，你如何保证工作质量？特别是当项目时间很紧，但模型还需要进一步调优时，你会怎么做？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7567",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-194",
+      "originalTitle": "【进度落后应对】如果在团队中你的工作进度落后于计划，你会如何处理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7568",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-195",
+      "originalTitle": "【项目瓶颈与心态调整】在ieg实习的过程中，有遇到项目进展不太理想或者是遇到瓶颈的情况吗，当时是怎么调整心态的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7569",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-196",
+      "originalTitle": "【预期不达标应对】预期不达标，你会怎么做？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7570",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-197",
+      "originalTitle": "【高压快速解决问题】请分享一个你在高压下快速解决问题的经历。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7571",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-198",
+      "originalTitle": "【高压环境自我管理】在快节奏、高压力、高强度、高密度的研究或研发环境中，你如何保持高效产出和心态平衡，并调整自己的状态？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7572",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-199",
+      "originalTitle": "【多任务优先级管理】压力测试: 你同时对接四项紧急任务，一是完成某自动驾驶感知算法的性能优化报告，二是处理一批实车测试数据并完成异常分析，三是协助撰写算法研发技术文档，四是准备项目技术评审会议的材料，且四项任务都要求今天内完成关键节点，你会如何协调推进？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7577",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-200",
+      "originalTitle": "【新领域快速调研】压力测试：导师交给你一个全新的任务，要求你在1周内完成对大模型在自动驾驶决策规划中应用的调研与分析，输出详细的调研简报，而你此前对大模型与自动驾驶融合了解较少，你会如何回应和开展工作？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7578",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-201",
+      "originalTitle": "【紧急Bug处理】如果在项目deadline临近时发现重大bug，你会怎么做？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7579",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-202",
+      "originalTitle": "【紧急性能优化】压力测试: 你负责协助的某自动驾驶感知算法在实车测试中发现，复杂天气(如雨天、雾天)场景下目标检测精度严重下降，距离下一轮测试仅剩3天，导师要求你紧急优化算法并完成验证，你会如何紧急应对？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7580",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-203",
+      "originalTitle": "【紧急项目推进】压力测试: 京东计划在3个月后完成某仓储自动驾驶车辆的感知算法迭代优化，你负责协助完成核心模型的训练与优化，而当前数据采集尚未完成，导师要求你在2周内完成数据预处理、模型初步训练并输出性能评估报告，你会如何紧急推进？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-204",
+      "originalTitle": "【能力提升与进度追赶】你在实习期间，因对自动驾驶业务场景理解不足、算法工程化经验欠缺，提交的算法优化方案多次未通过审核，被导师提醒需要加强专业能力和严谨性，同时项目进度也受到影响，你会如何制定应对策略，提升能力并赶上研发进度？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7582",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-205",
+      "originalTitle": "【跨团队协作分歧】压力测试: 你与工程开发团队对接某算法的工程化落地工作时，因双方对算法部署逻辑理解偏差，导致开发进度滞后，距离项目里程碑仅剩2周，导师要求你牵头对接解决协作分歧，确保按时推进，你会如何紧急协调？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-206",
+      "originalTitle": "【需求变更应对】当项目需求频繁变更时，你如何应对？变体1：你正在负责一个核心算法的研发，项目中期，业务方因市场变化突然提出重大需求变更，这可能导致算法架构重构和延期。作为负责人，你会如何应对？变体2：如果项目deadline很紧，但需求还在变动，你会怎么做？ 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-207",
+      "originalTitle": "【高压场景应对】当你面临算法性能不达标、项目进度紧急、复杂技术难题无法突破、跨团队协作受阻等高压场景时，你会如何进行压力调节与工作推进?请结合自身经历举例说明? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7585",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-208",
+      "originalTitle": "【高风险需求沟通】当业务提出一个紧急的风控需求，但你觉得现有方案风险很高，你会怎么沟通? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7586",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-209",
+      "originalTitle": "【紧急问题处理】压力测试: 你参与的自动驾驶算法研发项目在上线前1天，测试团队反馈仍有多个未解决的性能问题，且部分问题影响系统安全性，项目负责人要求你协助协调相关资源，确保按时上线，你会如何紧急处理？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7591",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-210",
+      "originalTitle": "【到岗与实习安排】综合到岗与实习安排问题：1. 为什么做完项目/实习后离职？2. 毕业时间？3. 何时能到岗？能实习多久？base地偏好（北京/深圳/总部）？是否接受提前实习？实习时长、到岗时间、入职时间？4. 学校工作如何处理？导师是否同意？毕业要求（小论文、大论文）是否达成？能否快速到岗？是否需往返学校？5. 何时签三方？6. 能接受的加班强度？能否适应快节奏（如百度Apollo）？7. 入职后希望多久上手？8. 香港上学在深圳实习是否可行？9. 周末工作频率？正常下班时间？10. 团队方向？实习生工作内容？是否有其他实习生？tech report是否挂名？实习生权限？转正预期？后续流程？是否接受轮岗（如物流一线）？11. 实习薪资、餐补、加班费、房补？ 「京东、字节跳动、拼多多、百度、百度文心、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-211",
+      "originalTitle": "【Offer与薪资综合】1. 你的薪资期望是多少？为什么会有这个期望？2. 你目前有哪些offer？是否还在看其他工作机会或正在面试其他公司？3. 如何看待美团、蚂蚁、腾讯、字节等公司的offer？如果同时收到这些offer，你会怎么选？请说明你的意向排序，并解释如何比较和选择这些公司。4. 已有的offer情况？对级别和薪资有什么想法？5. 请问是否愿意接受此offer？6. 面试结果大概多久反馈？ 「京东、字节跳动、拼多多、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7605",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-212",
+      "originalTitle": "【Offer与薪资】你目前有哪些offer？对这些offer如何排序？你是怎么考虑去哪里的？你的意向是什么？什么时候能入职？ 「京东、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7610",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-213",
+      "originalTitle": "【实习与学业情况】聊了一下之前实习时长为啥不长，以及学业/实习等问题。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7617",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-214",
+      "originalTitle": "【工作地点与家庭情况】1. 上课是在香港还是在深圳？我未来会在哪里办公？ 2. 你家住哪？父母工作情况？爸妈同意你来上海吗？ 3. 你的base地点意向是哪里？请说明个人目前所在地，以及是否接受北京、上海、杭州等城市？如果只能选一个，选哪里？另外，你能否接受京东的地点（离市区较远，需租房）？同时，请告知你意向的岗位。 「京东、字节跳动、拼多多、百度、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7618",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-215",
+      "originalTitle": "【AI工具使用】平常用不用AI？用哪些AI工具？平时写代码、数据分析怎么用Claude？用过AI写代码吗，CodingAgent呢？ 「美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7625",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-216",
+      "originalTitle": "【任务管理】有没有做过to do list？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7626",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-217",
+      "originalTitle": "【博客与技术学习】你写个人博客的目的是什么？用什么写博客？学习技术的来源是什么？后面怎么写的频率越来越低了？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-218",
+      "originalTitle": "【学习方法】进入一个新领域/新技术方向，你一般怎么学习、快速上手? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7630",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-219",
+      "originalTitle": "【学历确认】Q:是在上研吧 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7631",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-220",
+      "originalTitle": "【工作生活平衡】你如何看待工作与生活的平衡？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7632",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-221",
+      "originalTitle": "【成就感来源】在你过往的工作中，什么样的事情最能让你产生成就感？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7633",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-222",
+      "originalTitle": "【招聘标准】不希望招到什么样的人？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7634",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-223",
+      "originalTitle": "【时间管理】怎么平衡课业和实习？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7635",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-224",
+      "originalTitle": "【消费习惯】一天花多少钱、什么订阅? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7636",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-225",
+      "originalTitle": "【游戏经历】你的游戏经历是什么？具体包括：是否玩游戏？玩什么游戏（如LOL、王者荣耀等）？王者荣耀玩什么分路、什么英雄、什么段位？LOL什么段位？ 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7637",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-226",
+      "originalTitle": "【科研经历来源】你是怎么找到这么多课外科研经历的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7638",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-227",
+      "originalTitle": "【绩点询问】本科和研究生期间的绩点。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7639",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-228",
+      "originalTitle": "【编程语言背景】本科有没有学过C++？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7640",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-229",
+      "originalTitle": "【职级询问】你现在什么职级？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7641",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-230",
+      "originalTitle": "【问题处理】迟到事件如何处理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7643",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明迟到者、场景与影响。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-231",
+      "originalTitle": "【面试反馈】觉得前面几轮面试怎么样？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7644",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-232",
+      "originalTitle": "【面试表现】你是不是准备了一份讲稿？我感觉你是在读什么东西。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7647",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-7287-233",
+      "originalTitle": "【面试评价】请您对本次面试进行评价 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L7648",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

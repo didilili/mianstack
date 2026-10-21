@@ -1,0 +1,46 @@
+{
+  "id": "COL-AIGC-CAREER-TECHNICAL",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 求职答疑中的技术例问",
+  "coverage": [
+    "llm",
+    "training",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的求职答疑技术提问。3 条问题来自 Amusi 整理并回答的上游答疑，提问者为咨询读者；WeThinkIn 为收录与改编整理项目。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E7%BB%8F%E9%AA%8C%E6%8C%87%E5%8D%97/AI%E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%26%E7%BB%8F%E5%85%B8%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91%E6%B1%87%E6%80%BB.md",
+  "sourceAttribution": {
+    "name": "Amusi",
+    "url": "https://github.com/amusi/AI-Job-Notes/blob/c5d4dbd4a7eb4f11cd894960d408e30ee78baf83/Q%26A.md",
+    "role": "compiler_responder",
+    "scope": "本题集的 3 道技术提问来自 Amusi 整理并回答的求职答疑，问题由咨询读者提出。"
+  },
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-CAREER-TECHNICAL-001",
+      "originalTitle": "8.107 你好，可不可以展示下写个反向传播这样的问题的过程，不清楚这样的题该怎么做？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E7%BB%8F%E9%AA%8C%E6%8C%87%E5%8D%97/AI%E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%26%E7%BB%8F%E5%85%B8%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91%E6%B1%87%E6%80%BB.md#L598",
+      "reviewStatus": "confirmed",
+      "reviewNote": "[上游答疑原文](https://github.com/amusi/AI-Job-Notes/blob/c5d4dbd4a7eb4f11cd894960d408e30ee78baf83/Q%26A.md#L651)"
+    },
+    {
+      "id": "COL-AIGC-CAREER-TECHNICAL-002",
+      "originalTitle": "8.120 学长您好，因为我是cv小白，现在仅能跟着别人代码跑像faster rcnn模型的水平。每次看人说用一大堆tricks能够提升精度，看了一些tricks理论但是也不太知道有什么经典管用的。所以想请问您一下tricks对跑模型的意义是什么？常用操作有哪些？谢谢您~",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E7%BB%8F%E9%AA%8C%E6%8C%87%E5%8D%97/AI%E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%26%E7%BB%8F%E5%85%B8%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91%E6%B1%87%E6%80%BB.md#L697",
+      "reviewStatus": "confirmed",
+      "reviewNote": "[上游答疑原文](https://github.com/amusi/AI-Job-Notes/blob/c5d4dbd4a7eb4f11cd894960d408e30ee78baf83/Q%26A.md#L760)"
+    },
+    {
+      "id": "COL-AIGC-CAREER-TECHNICAL-003",
+      "originalTitle": "什么是以及怎么检查内存泄露",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E7%BB%8F%E9%AA%8C%E6%8C%87%E5%8D%97/AI%E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%26%E7%BB%8F%E5%85%B8%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91%E6%B1%87%E6%80%BB.md#L714",
+      "reviewStatus": "confirmed",
+      "reviewNote": "[上游答疑原文](https://github.com/amusi/AI-Job-Notes/blob/c5d4dbd4a7eb4f11cd894960d408e30ee78baf83/Q%26A.md#L777)"
+    }
+  ]
+}

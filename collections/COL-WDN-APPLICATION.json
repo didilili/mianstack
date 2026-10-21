@@ -1,0 +1,140 @@
+{
+  "id": "COL-WDN-APPLICATION",
+  "publisherId": "PUB-WDNDEV",
+  "title": "LLM 面试笔记 · 应用框架与提示",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "wdndev/llm_interview_note 对应专题的问题与具名考点。",
+  "sourceUrl": "https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-WDN-APPLICATION-001",
+      "originalTitle": "1.什么是 LangChain?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.langchain/1.langchain.md#L5",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-002",
+      "originalTitle": "2. LangChain 包含哪些核心模块",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.langchain/1.langchain.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-003",
+      "originalTitle": "4.什么是 LangChain Agent?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.langchain/1.langchain.md#L193",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-004",
+      "originalTitle": "5.  什么是 LangChain model?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.langchain/1.langchain.md#L197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-005",
+      "originalTitle": "6.  LangChain 包含哪些特点?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.langchain/1.langchain.md#L207",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-006",
+      "originalTitle": "7.1 LangChain 如何调用 LLMs 生成回复？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.langchain/1.langchain.md#L227",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-007",
+      "originalTitle": "7.2 LangChain 如何修改 提示模板？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.langchain/1.langchain.md#L251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-008",
+      "originalTitle": "7.3 LangChain 如何链接多个组件处理一个特定的下游任务？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.langchain/1.langchain.md#L281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-009",
+      "originalTitle": "7.4 LangChain 如何Embedding & vector store？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.langchain/1.langchain.md#L310",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-010",
+      "originalTitle": "1.什么是思维链提示？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L6",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-011",
+      "originalTitle": "2.思维链提示本质是什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L14",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-012",
+      "originalTitle": "3.思维链提示 与 标准的提示学习方法有什么不同?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L20",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-013",
+      "originalTitle": "4.思维链提示 为什么可以提高语言模型的复杂推理能力?它的优势在哪里?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L28",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-014",
+      "originalTitle": "5.思维链提示 适用场景 有 哪些？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-015",
+      "originalTitle": "6.思维链提示 目前还存在哪些不足点？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L56",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-016",
+      "originalTitle": "7.思维链提示 对推动语言模型复杂推理能力研究有哪些启发和影响?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-017",
+      "originalTitle": "8.如何通过增加模型规模来获得语言模型强大的思路链推理能力的?这与模型获得的哪些能力有关?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L93",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-018",
+      "originalTitle": "9.你认为可以在哪些其他方面应用“思路链提示”这一思路来提升语言模型的能力?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-019",
+      "originalTitle": "10.这篇论文仍有哪些可以改进之处",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-APPLICATION-020",
+      "originalTitle": "11.你认为关键的未来研究方向是什么?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89/1.%E6%80%9D%E7%BB%B4%E9%93%BE%EF%BC%88cot%EF%BC%89.md#L132",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

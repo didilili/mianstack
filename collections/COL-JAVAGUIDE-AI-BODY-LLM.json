@@ -1,0 +1,317 @@
+{
+  "id": "COL-JAVAGUIDE-AI-BODY-LLM",
+  "publisherId": "PUB-JAVAGUIDE",
+  "title": "JavaGuide · 模型接口与评测问答",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "JavaGuide AI 正文中的独立技术问答与面试清单。",
+  "sourceUrl": "https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-001",
+      "originalTitle": "一次生产级 LLM 调用包含哪些阶段？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-002",
+      "originalTitle": "同步返回和流式返回有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L67",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-003",
+      "originalTitle": "为什么 Streaming 能降低 TTFT？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-004",
+      "originalTitle": "SSE、WebSocket 和 HTTP chunked 这三种流式协议怎么选",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L89",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-005",
+      "originalTitle": "模型正文包含换行时怎么处理",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-006",
+      "originalTitle": "哪些错误能重试，哪些不能重试？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-007",
+      "originalTitle": "为什么要限流？如何限流？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-008",
+      "originalTitle": "为什么 Token 预算比请求数更重要",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-009",
+      "originalTitle": "收到 429 应该怎么处理",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-010",
+      "originalTitle": "为什么要结构化返回？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L432",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-011",
+      "originalTitle": "JSON Mode、JSON Schema 和 Structured Output 的区别",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-012",
+      "originalTitle": "结构化输出失败后如何兜底",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L496",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-013",
+      "originalTitle": "Java 后端怎么落地 LLM 调用？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L551",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-014",
+      "originalTitle": "为什么公开 benchmark 不够用？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L21",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-015",
+      "originalTitle": "一条评测用例里有什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-016",
+      "originalTitle": "Golden Set 怎么构建？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L58",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-017",
+      "originalTitle": "数据从哪来？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L64",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-018",
+      "originalTitle": "无法穷举 Case，怎么扩展覆盖？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-019",
+      "originalTitle": "多少条够用？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L105",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“多少条”指起步评测集的样本条数。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-020",
+      "originalTitle": "评测工具怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-021",
+      "originalTitle": "LLM-as-Judge 怎么用才可靠？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L183",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-022",
+      "originalTitle": "Judge Prompt 怎么写？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-023",
+      "originalTitle": "RAG 应用怎么评测？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-024",
+      "originalTitle": "Agent 应用怎么评测？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L409",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-025",
+      "originalTitle": "时间和外部环境一直变化，怎么评？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L539",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-026",
+      "originalTitle": "Skill 怎么单独评？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L564",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-027",
+      "originalTitle": "评测 Harness 怎么搭？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L579",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-028",
+      "originalTitle": "结构化输出怎么评测？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L616",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-029",
+      "originalTitle": "怎么评判灰度组输出？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L742",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-030",
+      "originalTitle": "阈值怎么定？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L799",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“阈值”指评测指标的发布门槛。"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-031",
+      "originalTitle": "速度和覆盖度怎么平衡？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L807",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-032",
+      "originalTitle": "Token 和上下文为什么决定成本与效果？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-operation-mechanism.md#L16",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-033",
+      "originalTitle": "采样参数如何影响输出稳定性？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-operation-mechanism.md#L167",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-034",
+      "originalTitle": "落地时保留哪些数据",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-operation-mechanism.md#L324",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-035",
+      "originalTitle": "为什么“请返回 JSON”不可靠？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-036",
+      "originalTitle": "怎样把 JSON 从格式要求变成工程契约？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-037",
+      "originalTitle": "JSON Mode 只能保证什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-038",
+      "originalTitle": "JSON Schema 负责定义什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-039",
+      "originalTitle": "Structured Outputs 能前移哪些约束？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L206",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-040",
+      "originalTitle": "Function Calling 到底调用了什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-041",
+      "originalTitle": "为什么需要工具调用意图？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L308",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-042",
+      "originalTitle": "Function Calling、MCP Tool、HTTP API、Agent Skill 是什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-043",
+      "originalTitle": "Function Calling 如何映射到 HTTP API？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-044",
+      "originalTitle": "MCP Tool 解决的是哪一层标准化？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-045",
+      "originalTitle": "Agent Skill 为什么不是 Function Calling 的语法糖？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-046",
+      "originalTitle": "什么时候该用 Structured Outputs，什么时候该上工具？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L401",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-047",
+      "originalTitle": "结构化输出怎么工程化落地？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-048",
+      "originalTitle": "工具调用安全怎么保证？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L630",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-BODY-LLM-049",
+      "originalTitle": "上线前应该检查哪些工程细节？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L955",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 大模型手写代码练习路线",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "coding"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-001",
+      "originalTitle": "Implement ReLU· 简单 🟢 简单 — 最基础，理解梯度截断",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L20",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-002",
+      "originalTitle": "Sigmoid 激活函数· 简单 🟢 简单 — 二分类基础，注意数值稳定性",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L21",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-003",
+      "originalTitle": "GELU Activation· 简单 🟢 简单 — BERT/GPT 标配，理解 erf 近似",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L22",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-004",
+      "originalTitle": "Tanh 激活函数· 简单 🟢 简单 — RNN 时代经典",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L23",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-005",
+      "originalTitle": "LeakyReLU 激活函数· 简单 🟢 简单 — 解决 dying ReLU 问题",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L24",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-006",
+      "originalTitle": "Implement LayerNorm· 中等 🟡 中等 — Transformer 核心组件，必须手写",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L28",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-007",
+      "originalTitle": "Implement RMSNorm· 中等 🟡 中等 — LLaMA 系列标配，比 LayerNorm 更轻量",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-008",
+      "originalTitle": "Implement BatchNorm· 中等 🟡 中等 — 理解 running stats 的训练/推理差异",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L30",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-009",
+      "originalTitle": "Implement Softmax· 简单 🟢 简单 — 数值稳定 trick（减 max）是考点",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L34",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-010",
+      "originalTitle": "Embedding Layer· 简单 🟢 简单 — 词表映射，理解 weight tying",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-011",
+      "originalTitle": "Kaiming Initialization· 简单 🟢 简单 — 正确初始化是训练稳定的第一步",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L36",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-012",
+      "originalTitle": "Implement Dropout· 简单 🟢 简单 — 训练/推理行为不同，逐 token 实现",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L37",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-013",
+      "originalTitle": "Simple Linear Layer· 中等 🟡 中等 — 手实现 nn.Linear，理解矩阵乘法",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L38",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-014",
+      "originalTitle": "因果注意力掩码· 简单 🟢 简单 — 理解为什么 GPT 需要 mask",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L56",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-015",
+      "originalTitle": "Softmax Attention· 简单 🟢 简单 — 所有注意力的基础，QKV 计算",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L57",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-016",
+      "originalTitle": "Causal Self-Attention· 中等 🟡 中等 — 在 Softmax Attention 上加 mask",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L58",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-017",
+      "originalTitle": "Multi-Head Attention· 困难 🔴 困难 — 多头拆分与合并，完整实现",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L59",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-018",
+      "originalTitle": "Sinusoidal Position Encoding· 简单 🟢 简单 — 原始 Transformer 位置编码",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-019",
+      "originalTitle": "Rotary Position Embedding (RoPE)· 中等 🟡 中等 — LLaMA/Qwen 标配，旋转矩阵实现",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L64",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-020",
+      "originalTitle": "Multi-Head Cross-Attention· 中等 🟡 中等 — Encoder-Decoder 架构基础",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-021",
+      "originalTitle": "Grouped Query Attention· 困难 🔴 困难 — LLaMA-2/3 优化，减少 KV 参数量",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-022",
+      "originalTitle": "ALiBi Attention· 中等 🟡 中等 — 位置偏置的另一种思路",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L70",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-023",
+      "originalTitle": "Sliding Window Attention· 中等 🟡 中等 — Mistral 局部注意力，降低复杂度",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-024",
+      "originalTitle": "Flash Attention (Tiled)· 困难 🔴 困难 — IO 感知的分块计算，必须理解",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-025",
+      "originalTitle": "GLU 门控线性单元· 简单 🟢 简单 — 门控机制基础，sigmoid 作门",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L90",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-026",
+      "originalTitle": "SwiGLU Activation· 中等 🟡 中等 — LLaMA FFN 标配，SiLU 门控",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L91",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-027",
+      "originalTitle": "SwiGLU MLP· 中等 🟡 中等 — 完整 FFN 实现，gate/up/down 三矩阵",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-028",
+      "originalTitle": "Adaptive LayerNorm Zero (adaLN-Zero)· 中等 🟡 中等 — DiT 条件归一化，扩散模型必考",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-029",
+      "originalTitle": "GPT-2 Transformer Block· 困难 🔴 困难 — 完整 GPT Block，理解残差连接顺序",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L97",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-030",
+      "originalTitle": "ViT Patch Embedding· 中等 🟡 中等 — 图像分块到 token，多模态基础",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-031",
+      "originalTitle": "ViT Transformer Block· 困难 🔴 困难 — 视觉 Transformer 完整 Block",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L106",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-032",
+      "originalTitle": "Cross-Entropy Loss· 简单 🟢 简单 — 语言模型预训练的核心损失",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-033",
+      "originalTitle": "困惑度（Perplexity）· 简单 🟢 简单 — LM 标准评估指标，PPL = exp(CE)",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-034",
+      "originalTitle": "KL 散度· 中等 🟡 中等 — 知识蒸馏、VAE、RLHF 中都用到",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-035",
+      "originalTitle": "Label Smoothing Loss· 简单 🟢 简单 — 防过拟合的正则化技巧",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-036",
+      "originalTitle": "Contrastive Loss (InfoNCE)· 中等 🟡 中等 — 对比学习基础，CLIP 前身",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-037",
+      "originalTitle": "Triplet Loss· 中等 🟡 中等 — 三元组损失，嵌入模型训练",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-038",
+      "originalTitle": "Token 准确率· 简单 🟢 简单 — 序列预测准确率，注意 ignore_index",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L135",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-039",
+      "originalTitle": "BLEU 评分· 中等 🟡 中等 — 机器翻译标准评估，n-gram 精度",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-040",
+      "originalTitle": "知识蒸馏损失· 中等 🟡 中等 — 软标签蒸馏，KL + CE 加权",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-041",
+      "originalTitle": "MoE Load Balancing Loss· 中等 🟡 中等 — 防止 expert collapse 的辅助损失",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-042",
+      "originalTitle": "Focal Loss· 中等 🟡 中等 — 解决类别不平衡，检测模型常用",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L142",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-043",
+      "originalTitle": "Multi-Token Prediction Loss· 中等 🟡 中等 — Meta LLaMA-3 的 MTP 预训练目标",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L143",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-044",
+      "originalTitle": "Adam Optimizer· 中等 🟡 中等 — 现代 LLM 训练标配，一阶+二阶矩",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-045",
+      "originalTitle": "AdamW 优化器· 中等 🟡 中等 — 解耦权重衰减，比 Adam+L2 更正确",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-046",
+      "originalTitle": "线性学习率预热· 简单 🟢 简单 — 训练初期防梯度爆炸",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L165",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-047",
+      "originalTitle": "Cosine LR Scheduler with Warmup· 中等 🟡 中等 — LLM 训练标配调度策略",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L166",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-048",
+      "originalTitle": "EMA 指数移动平均· 简单 🟢 简单 — 模型权重平滑，推理性能更稳定",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L167",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-049",
+      "originalTitle": "Gradient Norm Clipping· 简单 🟢 简单 — 防梯度爆炸，稳定训练必备",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L171",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-050",
+      "originalTitle": "Gradient Accumulation· 简单 🟢 简单 — 模拟大 batch size，显存受限时必用",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L172",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-051",
+      "originalTitle": "Activation Checkpointing· 中等 🟡 中等 — 用计算换内存，训练大模型必备",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L176",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-052",
+      "originalTitle": "Mixed Precision Training Step· 中等 🟡 中等 — FP16 前向 + FP32 权重，loss scaling",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L177",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-053",
+      "originalTitle": "LoRA (Low-Rank Adaptation)· 中等 🟡 中等 — 低秩分解微调，最重要的 PEFT 方法",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L193",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-054",
+      "originalTitle": "QLoRA· 困难 🔴 困难 — 量化 + LoRA，4-bit 显存运行大模型",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L194",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-055",
+      "originalTitle": "Prefix Tuning 前缀微调· 中等 🟡 中等 — 软提示词，冻结主干只训 prefix",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-056",
+      "originalTitle": "INT8 Quantized Linear· 困难 🔴 困难 — 量化基础，理解 scale/zero-point",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L196",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-057",
+      "originalTitle": "Bradley-Terry Reward Model Loss· 中等 🟡 中等 — 偏好对比损失，RLHF 奖励模型训练",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-058",
+      "originalTitle": "KL 惩罚（RLHF）· 简单 🟢 简单 — 防止策略偏离参考模型",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-059",
+      "originalTitle": "PPO Clipped Loss· 中等 🟡 中等 — ratio clip 目标，RLHF 阶段经典算法",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-060",
+      "originalTitle": "DPO Loss· 中等 🟡 中等 — 无需奖励模型的偏好对齐，简洁优雅",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-061",
+      "originalTitle": "GRPO Loss· 困难 🔴 困难 — DeepSeek-R1 使用，组相对策略优化",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-062",
+      "originalTitle": "NTK-aware RoPE Scaling· 简单 🟢 简单 — 长上下文外推，YaRN/LongRoPE 基础",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L272",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-063",
+      "originalTitle": "2D 旋转位置编码· 困难 🔴 困难 — ViT/多模态场景的 2D RoPE",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-064",
+      "originalTitle": "Differential Attention· 困难 🔴 困难 — Microsoft 提出，双头相减抵消噪声",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-065",
+      "originalTitle": "Multi-Head Latent Attention (MLA)· 困难 🔴 困难 — DeepSeek-V2 核心，KV Cache 压缩",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-066",
+      "originalTitle": "Paged Attention· 困难 🔴 困难 — vLLM 核心，分页管理 KV Cache",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-067",
+      "originalTitle": "Mixture of Experts (MoE)· 困难 🔴 困难 — Qwen-3/DeepSeek-V3 基础架构",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-068",
+      "originalTitle": "Mamba SSM Step· 困难 🔴 困难 — 线性复杂度序列模型，替代 Attention 的挑战者",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L287",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-069",
+      "originalTitle": "Temperature Scaling· 简单 🟢 简单 — 控制生成多样性，temperature=0 退化为贪婪",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-070",
+      "originalTitle": "Top-k / Top-p Sampling· 中等 🟡 中等 — 截断词表的采样策略",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-071",
+      "originalTitle": "Beam Search Decoding· 中等 🟡 中等 — 保留 k 个最优序列，翻译任务常用",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-072",
+      "originalTitle": "KV Cache Attention· 困难 🔴 困难 — 自回归推理必备，理解 cache 的 append 逻辑",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-073",
+      "originalTitle": "Speculative Decoding· 困难 🔴 困难 — 小模型草稿 + 大模型验证，加速推理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-074",
+      "originalTitle": "向量检索打分（RAG）· 简单 🟢 简单 — 余弦相似度 Top-K 检索，RAG 基础",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L331",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-075",
+      "originalTitle": "Byte-Pair Encoding (BPE)· 困难 🔴 困难 — GPT/LLaMA tokenizer 算法，自底向上合并",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L335",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-076",
+      "originalTitle": "CLIP 对比学习损失· 中等 🟡 中等 — 多模态对齐的奠基之作，对称 CE 损失",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L353",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-077",
+      "originalTitle": "图文匹配打分· 简单 🟢 简单 — cosine similarity + sigmoid，最简单的对齐",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L354",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-078",
+      "originalTitle": "跨模态注意力· 中等 🟡 中等 — 视觉 token 作 K/V，文本 token 作 Q",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L355",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-079",
+      "originalTitle": "Swin Patch Merging· 简单 🟢 简单 — 层级视觉特征，Swin Transformer 关键操作",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-080",
+      "originalTitle": "Diffusion Noise Schedules· 简单 🟢 简单 — DDPM 噪声调度，linear/cosine schedule",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-081",
+      "originalTitle": "DDIM Sampling Step· 中等 🟡 中等 — 确定性采样，加速扩散模型推理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-082",
+      "originalTitle": "Flow Matching Loss· 简单 🟢 简单 — 比 DDPM 更简单的生成框架，Flux 使用",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-083",
+      "originalTitle": "Ring Attention· 困难 🔴 困难 — 序列并行，多设备分布式注意力计算",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-084",
+      "originalTitle": "Tensor Parallel MLP· 困难 🔴 困难 — 列并行 + 行并行，Megatron-LM 核心",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-085",
+      "originalTitle": "FSDP Training Step· 困难 🔴 困难 — 全参数分片训练，PyTorch FSDP 原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L390",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-086",
+      "originalTitle": "Linear Self-Attention· 困难 🔴 困难 — O(N) 复杂度注意力，核函数近似",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE-087",
+      "originalTitle": "MCTS for Reasoning 🔴 困难 — 蒙特卡洛树搜索，o1/R1 推理扩展基础",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md#L392",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

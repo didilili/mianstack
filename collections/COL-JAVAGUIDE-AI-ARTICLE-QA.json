@@ -1,0 +1,404 @@
+{
+  "id": "COL-JAVAGUIDE-AI-ARTICLE-QA",
+  "publisherId": "PUB-JAVAGUIDE",
+  "title": "JavaGuide · AI 机制与工程问答",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "JavaGuide AI 专题中的项目自测、正文问答与导读题。",
+  "sourceUrl": "https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-001",
+      "originalTitle": "大模型 API 调用的完整链路是什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L803",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-002",
+      "originalTitle": "Streaming 为什么能改善体验",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L809",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-003",
+      "originalTitle": "SSE 和 WebSocket 怎么选",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L813",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-004",
+      "originalTitle": "哪些大模型 API 错误可以重试",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L817",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-005",
+      "originalTitle": "哪些大模型调用需要做幂等",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L821",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-006",
+      "originalTitle": "限流为什么不能只按 QPS",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L825",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-007",
+      "originalTitle": "JSON Mode 和 Structured Outputs 有什么区别",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L829",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-008",
+      "originalTitle": "流式结构化返回怎么处理",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-api-engineering.md#L833",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-009",
+      "originalTitle": "为什么不能只靠公开 benchmark 评估 AI 应用质量？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L872",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-010",
+      "originalTitle": "Golden Set 应该怎么构建？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L876",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-011",
+      "originalTitle": "LLM-as-Judge 有哪些主要偏差，怎么缓解？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L880",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-012",
+      "originalTitle": "RAG 评测为什么必须分检索和生成两段？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L884",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-013",
+      "originalTitle": "Agent 评测为什么比 RAG 更复杂？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L888",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-014",
+      "originalTitle": "离线评测、Trace 回放、线上灰度分别解决什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L892",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-015",
+      "originalTitle": "CI 里的评测如何平衡速度和覆盖度？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L896",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-016",
+      "originalTitle": "如果 LLM-as-Judge 和人工评测结果不一致怎么办？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L900",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-017",
+      "originalTitle": "Agent eval 里的 task、trial、grader、transcript 分别是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L906",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-018",
+      "originalTitle": "Skill 应该怎么单独评测？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L910",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-019",
+      "originalTitle": "评测 Harness 在 AI 应用里负责什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L921",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-020",
+      "originalTitle": "时间和 Web Search 结果一直变化，怎么评？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L925",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-021",
+      "originalTitle": "出现 Badcase 后，怎么区分模型、第三方系统、架构和代码问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/llm-evaluation.md#L931",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-022",
+      "originalTitle": "为什么只写“请返回 JSON”不可靠",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L1013",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-023",
+      "originalTitle": "JSON Mode 和 Structured Outputs 有什么区别",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L1017",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-024",
+      "originalTitle": "JSON Schema 在大模型应用里解决什么问题",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L1021",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-025",
+      "originalTitle": "Function Calling 的完整链路是什么",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L1025",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-026",
+      "originalTitle": "Function Calling 和 MCP 有什么区别",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L1029",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-027",
+      "originalTitle": "MCP Tool 和普通 HTTP API 有什么关系",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L1033",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-028",
+      "originalTitle": "Agent Skill 和 Function Calling 是一回事吗",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L1037",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-029",
+      "originalTitle": "结构化输出失败后怎么处理",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L1041",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-030",
+      "originalTitle": "工具调用为什么必须做安全治理",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis/structured-output-function-calling.md#L1045",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-031",
+      "originalTitle": "为什么 AI 系统需要工作流？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L432",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-032",
+      "originalTitle": "Workflow、Graph、Loop 三者什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L433",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-033",
+      "originalTitle": "Graph Loop 和 Agent Loop 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L434",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-034",
+      "originalTitle": "Loop 如何防止死循环？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L435",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-035",
+      "originalTitle": "State 的更新策略怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L436",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-036",
+      "originalTitle": "条件边和动态路由的区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-037",
+      "originalTitle": "怎么理解 Graph 的抽象设计？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-038",
+      "originalTitle": "工作流中断后怎么恢复？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-039",
+      "originalTitle": "节点内的错误怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-040",
+      "originalTitle": "Spring AI Alibaba 和 LangGraph 的循环实现有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L444",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-041",
+      "originalTitle": "工作流有哪些特有的安全风险？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent/workflow-graph-loop.md#L445",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-042",
+      "originalTitle": "Prompt Demo 到生产系统最大的差距是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-043",
+      "originalTitle": "为什么需要模型网关？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L527",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-044",
+      "originalTitle": "同步、流式、异步怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L531",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-045",
+      "originalTitle": "Prompt 为什么要做版本管理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L535",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-046",
+      "originalTitle": "Tool Calling 的安全边界在哪里？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L539",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-047",
+      "originalTitle": "RAG 和 Memory 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L543",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-048",
+      "originalTitle": "AI 应用可观测要看哪些指标？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-049",
+      "originalTitle": "LLM-as-Judge 能不能替代人工评测？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-application-architecture.md#L551",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-050",
+      "originalTitle": "AI 可观测性和传统可观测性最大的区别是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L708",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-051",
+      "originalTitle": "为什么只有 Metrics 和日志还不够？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L712",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-052",
+      "originalTitle": "Agent Trace 应该如何拆 Span？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L716",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-053",
+      "originalTitle": "如何定位一次 RAG 错误回答？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L720",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-054",
+      "originalTitle": "多 Agent 并行执行时如何保持调用链？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L724",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-055",
+      "originalTitle": "Prompt 和模型回答应该全部写入 Trace 吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L728",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-056",
+      "originalTitle": "头部采样和尾部采样怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-057",
+      "originalTitle": "Trace 和 Evaluation 是什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-observability.md#L736",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-058",
+      "originalTitle": "Prompt Injection 应该怎么防？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L712",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-059",
+      "originalTitle": "为什么 Function Calling 有 Schema 仍然不安全？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L716",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-060",
+      "originalTitle": "Agent 可以退款时，完整执行链是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L720",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-061",
+      "originalTitle": "MCP 使用 OAuth 后是否就安全了？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L724",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-062",
+      "originalTitle": "Docker 能否完全解决代码执行风险？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L728",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-063",
+      "originalTitle": "Agent Trace 为什么也有安全风险？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/llm-security.md#L732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AI-ARTICLE-QA-064",
+      "originalTitle": "你怎么设计一个实时语音 Agent？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design/ai-voice.md#L1069",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

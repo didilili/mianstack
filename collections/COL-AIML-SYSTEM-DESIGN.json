@@ -1,0 +1,267 @@
+{
+  "id": "COL-AIML-SYSTEM-DESIGN",
+  "publisherId": "PUB-AIMLINTERVIEWS",
+  "title": "AIMLInterviews · AI 与机器学习系统设计",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AIMLInterviews 的英文原题、编码练习与项目追问。",
+  "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-001",
+      "originalTitle": "RAG document Q&A / \"chat with your docs\" (retrieval + grounded generation)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L351",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-002",
+      "originalTitle": "LLM-powered customer-support chatbot (with guardrails, fallback to human)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L352",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-003",
+      "originalTitle": "Agentic workflow / AI assistant (planning, tool use, memory)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L353",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-004",
+      "originalTitle": "Enterprise / semantic search with LLM answers (retrieval + synthesis + citations)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L354",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-005",
+      "originalTitle": "Code assistant / coding agent (RAG over repo + tool use + verification)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L355",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-006",
+      "originalTitle": "Content generation / summarization at scale (batch + safety filtering)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-007",
+      "originalTitle": "LLM-based recommendation / personalization (LLM as ranker or feature generator)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L357",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-008",
+      "originalTitle": "Video/Movie recommendation(Netflix, Youtube)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-009",
+      "originalTitle": "Friends / follower recommendation(Facebook, Twitter, LinkedIn)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L361",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-010",
+      "originalTitle": "Event recommendation system (Eventbrite)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-011",
+      "originalTitle": "Game recommendation",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L363",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-012",
+      "originalTitle": "Replacement product recommendation (Instacart)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-013",
+      "originalTitle": "Rental recommendation (Airbnb)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-014",
+      "originalTitle": "Place recommendation",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-015",
+      "originalTitle": "Document search",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L369",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-016",
+      "originalTitle": "Text query search (full text, semantic),",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L370",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-017",
+      "originalTitle": "Image/Video search,",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L371",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-018",
+      "originalTitle": "Multimodal search (MM Query)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L372",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-019",
+      "originalTitle": "Newsfeed system (ranking)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-020",
+      "originalTitle": "Ads serving system (retrieval, ranking)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-021",
+      "originalTitle": "Ads click prediction (ranking)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L377",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-022",
+      "originalTitle": "Named entity linking system (NLP tagging, reasoning)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L380",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-023",
+      "originalTitle": "Autocompletion / typeahead suggestion system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L381",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-024",
+      "originalTitle": "Sentiment analysis system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-025",
+      "originalTitle": "Language identification system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L383",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未明确语言识别的输入是文本还是音频。"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-026",
+      "originalTitle": "Chatbot system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-027",
+      "originalTitle": "Question answering system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L385",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明问答系统的知识来源、答案类型或技术方案。"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-028",
+      "originalTitle": "Image blurring system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L388",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明全图或局部模糊、区域选择规则及业务用途。"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-029",
+      "originalTitle": "OCR/Text recognition system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-030",
+      "originalTitle": "Self-driving car",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L392",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-031",
+      "originalTitle": "Pedestrian jaywalking detection",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L394",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给出道路边界、信号信息或违规判定口径。"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-032",
+      "originalTitle": "Ride matching system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-033",
+      "originalTitle": "Proximity service / Yelp",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L398",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-034",
+      "originalTitle": "Food delivery time  approximation",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-035",
+      "originalTitle": "Harmful content / Spam detection system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-036",
+      "originalTitle": "Multimodal harmful content detection",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L401",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-037",
+      "originalTitle": "Fraud detection system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-038",
+      "originalTitle": "Healthcare diagnosis system",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/ml-system-design.md#L403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-039",
+      "originalTitle": "what if we only have a query and personal (item, provider) history?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/mlsd-game-recom.md#L312",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此追问位于游戏推荐的 Other Extensions；personal (item, provider) history 的字段语义未展开，后文 query-aware attention 的说明在 computes 处截断。"
+    },
+    {
+      "id": "COL-AIML-SYSTEM-DESIGN-040",
+      "originalTitle": "what if we only have a query and personal (item, provider) history?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLSD/mlsd-video-recom.md#L278",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此追问位于视频推荐的 Other Extensions；personal (item, provider) history 的字段语义未展开，后文说明不完整。"
+    }
+  ]
+}

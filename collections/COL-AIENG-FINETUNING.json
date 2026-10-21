@@ -1,0 +1,211 @@
+{
+  "id": "COL-AIENG-FINETUNING",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · 模型微调与适配",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-FINETUNING-001",
+      "originalTitle": "What is fine-tuning, and when should you fine-tune an LLM?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L435",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-002",
+      "originalTitle": "Explain the difference between full fine-tuning and parameter-efficient fine-tuning (PEFT).",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-003",
+      "originalTitle": "What is LoRA (Low-Rank Adaptation), and how does it work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-004",
+      "originalTitle": "What is QLoRA, and how does it enable fine-tuning on consumer hardware?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L441",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-005",
+      "originalTitle": "How does fine-tuning work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-006",
+      "originalTitle": "Explain Prefix Tuning and Prompt Tuning. How are they different from LoRA?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L445",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-007",
+      "originalTitle": "What is adapter-based fine-tuning?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-008",
+      "originalTitle": "Explain the difference between pre-training, supervised fine-tuning (SFT), and preference optimization (RLHF/DPO).",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-009",
+      "originalTitle": "What is RLHF (Reinforcement Learning from Human Feedback), and how is it used to align LLMs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L451",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-010",
+      "originalTitle": "What is Deep RL from Human Preferences, the paper that started RLHF?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-011",
+      "originalTitle": "Why did DPO displace PPO-based RLHF at many labs? When is online RL still better?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L455",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-012",
+      "originalTitle": "What is instruction tuning, and why is it important for chat models?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L457",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-013",
+      "originalTitle": "How do you prepare a dataset for fine-tuning an LLM?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-014",
+      "originalTitle": "What is catastrophic forgetting, and how do you prevent it during fine-tuning?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L460",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-015",
+      "originalTitle": "When should you choose fine-tuning over RAG over prompt engineering?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-016",
+      "originalTitle": "How do you evaluate a fine-tuned model's performance?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-017",
+      "originalTitle": "What is synthetic data generation, and how do you use it for fine-tuning?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L466",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-018",
+      "originalTitle": "What are the key hyperparameters for fine-tuning (learning rate, epochs, batch size, LoRA rank)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-019",
+      "originalTitle": "Do the GPU memory math for full fine-tuning a 7B model in bf16 with Adam. Now with LoRA and QLoRA.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L469",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-020",
+      "originalTitle": "How do you fine-tune a model for a specific domain (legal, medical, finance)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-021",
+      "originalTitle": "What is continual pre-training, and when would you use it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L471",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-022",
+      "originalTitle": "How do you merge multiple LoRA adapters?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L472",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-023",
+      "originalTitle": "What is the difference between SFT (Supervised Fine-Tuning) and alignment training?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L474",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-024",
+      "originalTitle": "What is RLAIF (RL from AI Feedback), and how does it differ from RLHF?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L476",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-025",
+      "originalTitle": "What is Constitutional AI, and how does it differ from RLHF?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-026",
+      "originalTitle": "What is RLVR (Reinforcement Learning with Verifiable Rewards), and when does it beat a learned reward model?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-027",
+      "originalTitle": "What is knowledge distillation for fine-tuning, and what are the legal considerations?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-028",
+      "originalTitle": "Your fine-tuned LLM produces factually wrong outputs due to training data quality issues. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L482",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-029",
+      "originalTitle": "You must choose between LoRA and full fine-tuning for a domain-specific assistant. How do you decide?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-030",
+      "originalTitle": "Your fine-tuned model memorized training data verbatim instead of learning patterns. How do you fix overfitting?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-031",
+      "originalTitle": "Your fine-tuned LLM forgot its general capabilities after domain-specific fine-tuning. How do you fix catastrophic forgetting?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L486",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-FINETUNING-032",
+      "originalTitle": "Your RLHF preference data has low annotator agreement. How do you ensure data quality?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L488",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "COL-AIGC-MULTIMODAL-OUTPUT-MAPPER",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 多模态输出映射器",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的面试题。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E8%BE%93%E5%87%BA%E6%98%A0%E5%B0%84%E5%99%A8.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-MULTIMODAL-OUTPUT-MAPPER-001",
+      "originalTitle": "1.输出映射器在多模态模型中的职责是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E8%BE%93%E5%87%BA%E6%98%A0%E5%B0%84%E5%99%A8.md#L8",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-OUTPUT-MAPPER-002",
+      "originalTitle": "3.什么是指令跟随对齐？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E8%BE%93%E5%87%BA%E6%98%A0%E5%B0%84%E5%99%A8.md#L23",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题的“指令跟随对齐”指多模态预训练与视觉指令微调。"
+    },
+    {
+      "id": "COL-AIGC-MULTIMODAL-OUTPUT-MAPPER-003",
+      "originalTitle": "4.图像输出映射的具体过程是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E8%BE%93%E5%87%BA%E6%98%A0%E5%B0%84%E5%99%A8.md#L31",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

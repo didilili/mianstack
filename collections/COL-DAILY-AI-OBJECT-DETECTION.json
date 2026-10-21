@@ -1,0 +1,407 @@
+{
+  "id": "COL-DAILY-AI-OBJECT-DETECTION",
+  "publisherId": "PUB-DATAWHALE",
+  "title": "Datawhale 每日面试 · 目标检测与文本检测",
+  "coverage": [
+    "llm",
+    "training",
+    "coding"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Datawhale daily-interview 的 AI 算法模块原题与追问。",
+  "sourceUrl": "https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-001",
+      "originalTitle": "请介绍一下faster R-CNN网络的原理（注: 需要能够详细画出网络结构图）<顺丰-一面(2018)、腾讯-一面(2018)、旷视-三面（2018）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L50",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-002",
+      "originalTitle": "请简要叙述一下\"R-CNN——faster R-CNN\"",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L56",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-003",
+      "originalTitle": "faster R-CNN是经典的two-stage 检测器，请简单说明其中two-stage的含义。",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L79",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-004",
+      "originalTitle": "请简要说明一下RPN（Region Proposal Network）网络的作用、实现细节<上交苏研院-二面（2020）、旷视-交叉面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L83",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-005",
+      "originalTitle": "RPN损失中的回归损失部分输入变量是怎么计算的？(注意回归的不是坐标和宽高，而是由它们计算得到的偏移量)",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-006",
+      "originalTitle": "RPN中的anchor box是怎么选取的？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-007",
+      "originalTitle": "为什么提出anchor box？<蘑菇街-一面（2018）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-008",
+      "originalTitle": "为什么使用不同尺寸和不同长宽比？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-009",
+      "originalTitle": "说一下RoI Pooling是怎么做的？有什么缺陷？有什么作用<顺丰-一面(2018)>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L151",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-010",
+      "originalTitle": "ROI Pooling与ROI Align(Mask R-CNN)的区别 <字节跳动-二面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L186",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-011",
+      "originalTitle": "Faster R-CNN是如何解决正负样本不平衡的问题？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L233",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-012",
+      "originalTitle": "Faster RCNN怎么筛选正负anchor",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-013",
+      "originalTitle": "faster-rcnn中bbox回归用的是什么公式，说一下该网络是怎么回归bbox的？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-014",
+      "originalTitle": "为什么要做Bounding-box regression？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L269",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-015",
+      "originalTitle": "简述faster rcnn的前向计算过程并简述faster rcnn训练步骤",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-016",
+      "originalTitle": "介绍faster rcnn这个流程，faster rcnn有哪些缺点？如何改进？<商汤-一面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-017",
+      "originalTitle": "阐述一下Mask RCNN网络，这个网络相比于Faster RCNN网络有哪些改进的地方",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-018",
+      "originalTitle": "比较FasterRCNN在RCNN系列中的改进点",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-019",
+      "originalTitle": "YOLOV1、YOLOV2、YOLOV3复述一遍  YOLOv1到v3的发展历程以及解决的问题。<云从科技-一面（2020）、旷视-三面（2018）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-020",
+      "originalTitle": "yolo的预测框是什么值:",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L364",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题位于 YOLO 系列段，未指定具体版本。"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-021",
+      "originalTitle": "YOLOv2中如何通过K-Means得到anchor boxes？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-022",
+      "originalTitle": "请叙述一下YOLOv3中k-means聚类获得anchor boxes过程详解",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L371",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-023",
+      "originalTitle": "YOLO系列anchor的设计原理，kmeans的原理，anchor距离如何度量，如何改进k-means原理？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-024",
+      "originalTitle": "YOLOv3框是怎么得到的？ YOLOv3有什么致命问题？<长虹AI lab-一面（2020）、阿里实习-一面（2018）、中兴-一面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L392",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-025",
+      "originalTitle": "简要阐述一下SSD网络，有哪些优点缺点？<商汤-一面（2019）、蘑菇街-一面（2018）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-026",
+      "originalTitle": "SSD有什么致命缺点，如何改进？<长虹AI lab-一面(2020)>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-027",
+      "originalTitle": "简述SSD网络前向是如何计算的",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-028",
+      "originalTitle": "简要阐述一下RetinaNet",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-029",
+      "originalTitle": "简单叙述一下RetinaNet中的FPN代码运行流程，P6、P7的作用是什么？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-030",
+      "originalTitle": "简单介绍下cascade rcnn<字节跳动-三面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-031",
+      "originalTitle": "简要介绍一下FPN<百度实习-一面（2019）、字节跳动-二面（2019）、云从科技-二面(2019)>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L451",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-032",
+      "originalTitle": "FPN的特征融合为什么是相加操作呢？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L457",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-033",
+      "originalTitle": "阐述一下FPN为什么能提升小目标的准确率?",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L461",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-034",
+      "originalTitle": "基于FPN的RPN是怎么训练的？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-035",
+      "originalTitle": "阐述一下ssd和retinanet的区别",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L471",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-036",
+      "originalTitle": "faster rcnn和yolo，ssd之间的区别和联系<上交苏研院-二面（2020）、云从科技-二面（2020）、旷视-一面（2018）、阿里实习-一面（2018）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-037",
+      "originalTitle": "分析一下SSD,YOLO,Faster rcnn等常用检测网络对小目标检测效果不好的原因",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-038",
+      "originalTitle": "请列举目标检测中常见的Loss（回归的，分类的）<海康-一面（2020）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-039",
+      "originalTitle": "focal loss解决什么问题，如何写，每个参数有什么作用?<云从科技-二面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L557",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-040",
+      "originalTitle": "训练过程中loss一致无法收敛，可能的原因<虹软-一面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L573",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-041",
+      "originalTitle": "手撕IOU<华为-一面（2020）、作业帮-一面（2019）、腾讯-一面(2018)>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L597",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-042",
+      "originalTitle": "anchor设置的意义",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L641",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-043",
+      "originalTitle": "如何理解concat和add这两种常见的feature map特征融合方式",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L645",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-044",
+      "originalTitle": "介绍一下目标检测的主要评测指标",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L650",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-045",
+      "originalTitle": "FLOPs计算",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L669",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-046",
+      "originalTitle": "参数量paras计算 （*参数与FLOPs中一致*）",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L710",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-047",
+      "originalTitle": "简单介绍一下kmeans算法<小米-一面（2020）、腾讯-一面(2018)>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L728",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-048",
+      "originalTitle": "说一下非极大值抑制（NMS）（non maximum suppression） NMS实现细节，手撕NMS<小米-二面（2020）、<百度实习-一面（2019）、商汤-一面（2019）、腾讯-一面(2018)>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-049",
+      "originalTitle": "假设两个目标靠的很近，则会识别成一个bbox，会有什么问题，怎么解决？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L751",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题位于 NMS 段，讨论重叠候选框被误抑制的情况。"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-050",
+      "originalTitle": "讲一下目标检测优化的方向<百度实习-一面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L799",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-051",
+      "originalTitle": "如果只能修改RPN网络的话，怎么修改可以提升网络小目标检出率",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L806",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-052",
+      "originalTitle": "阐述一下如何检测小物体",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L811",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-053",
+      "originalTitle": "阐述一下目标检测任务中的多尺度",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L824",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-054",
+      "originalTitle": "如果有很长，很小，或者很宽的目标，应该如何处理目标检测中如何解决目标尺度大小不一的情况  小目标不好检测，有试过其他的方法吗？比如裁剪图像进行重叠",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L837",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-055",
+      "originalTitle": "检测的框角度偏移了45度，这种情况怎么处理?<海康-一面（2020）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L852",
+      "reviewStatus": "confirmed",
+      "reviewNote": "正文讨论 RRPN 及倾斜文本；原题“角度偏移”未明确是目标旋转还是预测角度错误。"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-056",
+      "originalTitle": "为什么提出旋转的提议框呢？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L855",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-057",
+      "originalTitle": "讲一下two-stage和one-stage的异同<百度实习-一面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L862",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-058",
+      "originalTitle": "讲一下Faster RCNN的两阶段训练和END TO END训练的不一样？<百度实习-一面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L864",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题及正文未界定“分阶段训练”的具体方案。"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-059",
+      "originalTitle": "讲一下你所知道的插值方式<百度实习-一面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L866",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-060",
+      "originalTitle": "一阶段SSD，YOLO之间的区别是什么？<Tencent AI lab-一面（2020）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L868",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-061",
+      "originalTitle": "R-CNN系列和SSD本质有啥不一样吗？<Tencent AI lab-一面（2020）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L870",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-062",
+      "originalTitle": "讲一下目标检测的发展历程，从传统到深度<百度实习-一面（2019）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L872",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-063",
+      "originalTitle": "近年来，一些新的目标检测的backbone有哪些，各有什么特点？<小米-一面（2020）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L874",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-OBJECT-DETECTION-064",
+      "originalTitle": "为选择用YOLOv3，这个网络真的好吗？<长虹AI lab-一面（2020）>",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/computer-vision/object-detection.md#L876",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

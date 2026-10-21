@@ -1,0 +1,67 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Agent 评测与 Benchmark专题问答",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK-001",
+      "originalTitle": "Agent 评测和 LLM 评测有什么区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK-002",
+      "originalTitle": "你说 Code-based Grader 做守门员，LLM Judge 做艺术评委——能举一个具体例子吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK-003",
+      "originalTitle": "你怎么判断一个 Agent 版本能不能上线？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L292",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK-004",
+      "originalTitle": "你说的\"150 task 基准\"是怎么构建的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK-005",
+      "originalTitle": "你在 KTClaw / GoAfar 里是怎么做评测的？和这个框架有什么关系？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK-006",
+      "originalTitle": "你怎么看 Agent benchmark 被 reward hack 这件事？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L331",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK-007",
+      "originalTitle": "如果让你为小红书 C 端 Agent 设计评测体系，你会怎么设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK-008",
+      "originalTitle": "你怎么看待\"读 Transcript\"这件事？为什么不能只靠分数？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md#L365",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

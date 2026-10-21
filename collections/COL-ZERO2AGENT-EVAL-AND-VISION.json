@@ -1,0 +1,354 @@
+{
+  "id": "COL-ZERO2AGENT-EVAL-AND-VISION",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · 评估与全局观：怎么量化 Agent 好坏、落地最大挑战",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "career"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-001",
+      "originalTitle": "如何量化评估一个上线的 Agent 好坏？除了准确率。",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-002",
+      "originalTitle": "在你看来，当前阻碍 Agent 大规模落地的最大挑战是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L47",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-003",
+      "originalTitle": "如何对 Agent 记忆系统的效果进行量化评估？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L65",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-004",
+      "originalTitle": "你觉得 Agent 在线上最难监控的指标是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-005",
+      "originalTitle": "从开发者角度，做 Agent 最难的部分是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-006",
+      "originalTitle": "有没有遇到过 AI 应用或者工具无法解决的场景？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L156",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-007",
+      "originalTitle": "你觉得 AI 工具最大的帮助场景是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L176",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-008",
+      "originalTitle": "你觉得 Agent 框架（如 Claude Code）还有哪些地方可以改进？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-009",
+      "originalTitle": "你会怎么给 Agent 建立评测体系？只看最终成功率为什么不够？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-010",
+      "originalTitle": "RAG 系统（如 oncall 机器人）的回答准确率怎么计算？用知识问答对比还是文档相似度？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L287",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-011",
+      "originalTitle": "如何从真实 Issue 构建可复现的缺陷修复 Agent Benchmark，并防止污染和假修复？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-012",
+      "originalTitle": "如果线上反馈“这个 Agent 有时候很好，有时候很差”，你第一步会看什么指标和日志？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-013",
+      "originalTitle": "了解最近 AI 的新方向吗？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-014",
+      "originalTitle": "2026 年做 Agent 应用开发，跟去年相比最大的变化是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-015",
+      "originalTitle": "要把 Agent 真正上线到生产环境，你认为最容易被低估的三个风险点是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L489",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-016",
+      "originalTitle": "通过什么方式去验证 Skill 的提升效果，指标是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-017",
+      "originalTitle": "RAG 系统如何评测？有哪些评测维度和指标？评测数据集怎么构建？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L570",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-018",
+      "originalTitle": "Agent 的端到端成功率和工具误调用率怎么量化？怎么改进？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L675",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-019",
+      "originalTitle": "Ragas 评测框架是什么？Answer Relevance 偏低时，怎么区分是检索问题还是模型问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-020",
+      "originalTitle": "如何为 Word、PDF、Markdown 等文档生成与编辑能力设计通用自动评测框架？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L784",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-021",
+      "originalTitle": "怎么理解 Vibe Coding？你有哪些实践经验？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L817",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-022",
+      "originalTitle": "如何衡量 Agent 的 Planning 能力 vs Hallucination Rate？请列举具体的量化评估指标或自动化评估框架",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L849",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-023",
+      "originalTitle": "设计一个电商客服 Agent 的评测方案——商品咨询、售后处理、投诉安抚三类任务如何分别评估？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L939",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-024",
+      "originalTitle": "用户在线反馈怎么收集？不同模型和 Prompt 的 AB 测试怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1017",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-025",
+      "originalTitle": "AI 写代码越来越强，算法工程师的角色会怎么变？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1077",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-026",
+      "originalTitle": "哪些类型的 Agent 产品在未来 2 年内最可能被淘汰？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-027",
+      "originalTitle": "线上 log 是海量的，怎么转化成有限的线下评测集？随机抽样为什么不行？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-029",
+      "originalTitle": "RAG 召回链路的监控怎么做？怎么判断召回漂移？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-030",
+      "originalTitle": "你怎么看 Agent 后续的发展？哪些场景你觉得更容易落地？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-031",
+      "originalTitle": "面试最后的反问环节，怎么提出有深度的问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1352",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本条讨论准备反问的方法，未记录候选人的具体反问。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-032",
+      "originalTitle": "Text2SQL 系统的准确性怎么评测？用户反馈 SQL 不可用时，系统怎么回流优化？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-033",
+      "originalTitle": "Agent 自进化闭环如何设计？怎样判断沉淀出的经验值得进入系统？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-034",
+      "originalTitle": "如何通过两套 Harness 的同任务对照与组件消融定位效果差异？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1468",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-035",
+      "originalTitle": "Skill 路由应该如何构造测试集并评估？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-036",
+      "originalTitle": "如何证明 Agent 的最终答案真正使用了工具或检索证据，而不是凭模型常识猜中？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1527",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-037",
+      "originalTitle": "树形意图识别和逐层路由应该如何设计，并构造评测集避免误差级联？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-038",
+      "originalTitle": "Multi-Agent 出现 Badcase 时，如何定位责任 Agent，并判断是否需要 SFT？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1567",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-039",
+      "originalTitle": "什么是 AI-native 团队？如何判断团队离 AI-first 还有多远？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1592",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-040",
+      "originalTitle": "如何实现基于 VLM 的 Benchmark 系统，并避免评测模型自说自话？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1610",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-041",
+      "originalTitle": "生成内容常见的质量 Bad Case 有哪些，如何分类与评估？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1630",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-042",
+      "originalTitle": "独立 Verifier 和 LLM-as-Judge 应该如何分工？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1647",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-043",
+      "originalTitle": "如何判断用户反馈真的让 Agent 变好，而不是噪声或选择偏差？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1661",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-044",
+      "originalTitle": "哪些业务场景不适合引入 Agent？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1675",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-045",
+      "originalTitle": "如何设计消融实验并判断模块贡献？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1688",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-046",
+      "originalTitle": "串行链路修改一个节点后，如何做精确归因？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1703",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-047",
+      "originalTitle": "供应商不返回 usage 时，如何核算 Agent 的 Token 和成本？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1722",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题的 Token 指模型计量词元，而非身份认证凭据。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-048",
+      "originalTitle": "评审 Agent 为什么要左移？应该左移到需求、设计还是编码阶段？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1734",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-049",
+      "originalTitle": "Skill 的调用量、Token 成本和效果埋点应该放在哪一层？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1746",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-050",
+      "originalTitle": "如何为跨任务重复出现的安全或质量问题生成稳定 Fingerprint，并安全接入自动修复 Agent？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1762",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-051",
+      "originalTitle": "智能问数结果出现误差时，如何区分数据链路问题与模型数值理解问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1783",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-052",
+      "originalTitle": "如何搭建微调任务的效果评估体系，并量化模型优化收益？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1797",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-053",
+      "originalTitle": "如何设计一个通用的图像质量评估模型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1811",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-054",
+      "originalTitle": "故障诊断系统如何降低误报率并平衡漏报率？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1825",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-055",
+      "originalTitle": "如何通过统计显著性和重复实验排除实验结果的随机波动？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1839",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-EVAL-AND-VISION-056",
+      "originalTitle": "如何理解当前 LLM 推理能力的上限、瓶颈与评估边界？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md#L1853",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

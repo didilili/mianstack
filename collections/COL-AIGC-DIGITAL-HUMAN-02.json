@@ -1,0 +1,133 @@
+{
+  "id": "COL-AIGC-DIGITAL-HUMAN-02",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 02_可控人体生成与角色动画高频考点",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-001",
+      "originalTitle": "1. 可控人体生成的核心目标是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-002",
+      "originalTitle": "面试问题：人体驱动常见输入条件有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L56",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-003",
+      "originalTitle": "面试问题：Pose、DensePose、Depth、Normal、SMPL/SMPL-X 各自适合什么场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L75",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-004",
+      "originalTitle": "面试问题：基于图像扩散模型做人像视频动画的典型结构是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L90",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-005",
+      "originalTitle": "2. Animate Anyone 类方法为什么成为可控人体动画的经典范式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-006",
+      "originalTitle": "面试问题：ReferenceNet 如何保持人物外观一致？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-007",
+      "originalTitle": "**为什么比 CLIP 全局 embedding 更强？**",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L149",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本追问比较 ReferenceNet 与 CLIP 的全局 embedding。"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-008",
+      "originalTitle": "面试问题：Pose Guider / Pose Encoder 如何影响动作跟随能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-009",
+      "originalTitle": "面试问题：Motion Module 如何提升帧间一致性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L175",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-010",
+      "originalTitle": "面试问题：为什么人体驱动中的脸部 ID 最容易崩？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-011",
+      "originalTitle": "3. OmniHuman、StableAnimator、SkyReels-A1、Wan-Animate 代表了什么趋势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-012",
+      "originalTitle": "面试问题：OmniHuman 的多条件混合训练为什么有效？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-013",
+      "originalTitle": "面试问题：StableAnimator 如何解决身份一致性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-014",
+      "originalTitle": "面试问题：SkyReels-A1 如何用表达感知关键点做肖像动画？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L266",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-015",
+      "originalTitle": "面试问题：Wan-Animate 的整体复制和角色替换如何理解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-016",
+      "originalTitle": "4. 可控人体动画如何设计训练数据和损失？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L305",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-017",
+      "originalTitle": "面试问题：自重构和交叉重构分别训练什么能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L309",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-018",
+      "originalTitle": "面试问题：如何避免条件冗余和 Copy-Paste？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L335",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-02-019",
+      "originalTitle": "面试问题：如何处理体型差异、手部动作和遮挡？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/02_%E5%8F%AF%E6%8E%A7%E4%BA%BA%E4%BD%93%E7%94%9F%E6%88%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8A%A8%E7%94%BB%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L348",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "id": "COL-AIGC-DIGITAL-HUMAN-06",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 06_GAN数字人与AIGC前沿高频考点",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-001",
+      "originalTitle": "1. GAN 在数字人发展中解决过什么核心问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L60",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-002",
+      "originalTitle": "面试问题：GAN、Diffusion、DiT/Flow 在数字人生成中的差异是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L84",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-003",
+      "originalTitle": "面试问题：为什么现在仍然需要学习 GAN 数字人？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-004",
+      "originalTitle": "面试问题：GAN 数字人的典型模块有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-005",
+      "originalTitle": "2. 基于 GAN 的 2D 数字人有哪些主流方向？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-006",
+      "originalTitle": "面试问题：StyleGAN 系列为什么是人脸生成的重要基础？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L173",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-007",
+      "originalTitle": "面试问题：StyleGAN 的 latent space 为什么适合做人脸编辑和数字人定制？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L193",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-008",
+      "originalTitle": "面试问题：GAN Inversion 在数字人里有什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L223",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-009",
+      "originalTitle": "面试问题：FOMM、Monkey-Net、TPSMM 这类一阶运动模型如何驱动肖像？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L259",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-010",
+      "originalTitle": "面试问题：LivePortrait 为什么仍采用 GAN/隐式关键点路线也能获得强实时效果？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L305",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-011",
+      "originalTitle": "面试问题：GAN Talking Head 如何做音频驱动口型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-012",
+      "originalTitle": "3. 基于 GAN 的换脸为什么长期占据实时应用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L353",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-013",
+      "originalTitle": "面试问题：DeepFakes、FaceSwap、FaceShifter、SimSwap、HiFiFace 的核心差异是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L371",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-014",
+      "originalTitle": "面试问题：ArcFace 身份特征如何注入 GAN 换脸网络？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-015",
+      "originalTitle": "面试问题：GAN 换脸如何处理姿态、表情、遮挡和边界融合？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-016",
+      "originalTitle": "面试问题：GAN 视频数字人如何保证时序一致性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-017",
+      "originalTitle": "面试问题：GAN 换脸相比 Diffusion 换脸还有哪些优势和短板？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-018",
+      "originalTitle": "4. 什么是 3D-aware GAN？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L504",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-019",
+      "originalTitle": "面试问题：HoloGAN、pi-GAN、GIRAFFE、StyleNeRF、EG3D 如何演进？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L524",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-020",
+      "originalTitle": "面试问题：EG3D 的 tri-plane 表示为什么重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L541",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-021",
+      "originalTitle": "面试问题：3D-aware GAN 如何实现人脸视角一致性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L566",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-022",
+      "originalTitle": "面试问题：3D-aware GAN 与 NeRF/3DGS Avatar 有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L596",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-023",
+      "originalTitle": "面试问题：GAN 如何用于 3D 数字人的纹理、材质和细节增强？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L611",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-024",
+      "originalTitle": "5. AIGC 数字人从 GAN 走向了哪些新范式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L649",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-025",
+      "originalTitle": "面试问题：扩散式人体动画和 GAN 人体动画的本质差别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L679",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-026",
+      "originalTitle": "面试问题：OmniHuman、Wan-Animate、StableAnimator、SkyReels-A1 代表什么趋势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L693",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-027",
+      "originalTitle": "面试问题：Hallo/Hallo2/Hallo3、Sonic、InfiniteTalk、EMO、VASA、MuseTalk 如何分类？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L728",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-028",
+      "originalTitle": "面试问题：DiT、Flow Matching、多模态大视频模型对数字人有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L751",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-029",
+      "originalTitle": "面试问题：AIGC 数字人为什么越来越强调多条件混合训练？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L783",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-030",
+      "originalTitle": "面试问题：实时交互数字人与离线高保真数字人的技术路线如何取舍？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L815",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-031",
+      "originalTitle": "6. 面试中如何系统回答“设计一个数字人生成系统”？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L834",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-032",
+      "originalTitle": "面试问题：如何评估 GAN/Diffusion 数字人的质量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L870",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-033",
+      "originalTitle": "面试问题：GAN 数字人线上常见问题如何排查？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L891",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-034",
+      "originalTitle": "面试问题：数字人安全、版权和反滥用为什么越来越重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L912",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-035",
+      "originalTitle": "面试问题：当前 AI 数字人论文和 GitHub 项目可以如何分层跟踪？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L952",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-036",
+      "originalTitle": "面试问题：HeyGen、Synthesia、Tavus、D-ID、Akool 等产品体现了哪些落地方向？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L976",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DIGITAL-HUMAN-06-037",
+      "originalTitle": "面试问题：如何建立 AI 数字人方向的持续学习清单？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/06_GAN%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8EAIGC%E5%89%8D%E6%B2%BF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md#L1001",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

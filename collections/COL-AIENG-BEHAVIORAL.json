@@ -1,0 +1,153 @@
+{
+  "id": "COL-AIENG-BEHAVIORAL",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · 项目复盘与行为面试",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-BEHAVIORAL-001",
+      "originalTitle": "What is AI Engineering, and how does it differ from Machine Learning Engineering?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L951",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-002",
+      "originalTitle": "How do you decide whether a problem needs AI or a traditional software solution?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L952",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-003",
+      "originalTitle": "How do you measure the ROI of an AI feature?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L953",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-004",
+      "originalTitle": "How do you handle hallucinations when they occur in a production AI system?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L954",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-005",
+      "originalTitle": "How do you decide between using an LLM API vs self-hosting an open-source model?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L955",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-006",
+      "originalTitle": "How do you manage stakeholder expectations for AI projects?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L956",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-007",
+      "originalTitle": "Describe your approach to debugging a poor-performing RAG system.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L957",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-008",
+      "originalTitle": "How do you stay current with the rapidly evolving AI landscape?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L958",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-009",
+      "originalTitle": "How do you balance innovation with reliability in AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L959",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-010",
+      "originalTitle": "Tell me about a challenging AI project you worked on. What was the problem? What approach did you take? What trade-offs did you make? What was the outcome?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L960",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-011",
+      "originalTitle": "How would you handle a situation where an AI model produces biased or harmful outputs in production?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L961",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-012",
+      "originalTitle": "How do you approach cost optimization for an AI system that's exceeding budget?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L962",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-013",
+      "originalTitle": "Describe a time when you had to choose between model accuracy and latency. How did you make the decision?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L963",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-014",
+      "originalTitle": "How would you handle a situation where your AI system's quality degrades over time?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L964",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-015",
+      "originalTitle": "How do you communicate AI limitations to non-technical stakeholders?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L965",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-016",
+      "originalTitle": "How would you approach building an AI feature with limited labeled data?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L966",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-017",
+      "originalTitle": "Describe your experience working with cross-functional teams on AI projects.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L967",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-018",
+      "originalTitle": "Where do you see AI engineering heading in the next 3-5 years?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L968",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-019",
+      "originalTitle": "Why are you interested in this AI engineering role?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L969",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-020",
+      "originalTitle": "Your PM wants to ship an AI feature with a 15% hallucination rate on edge cases. How do you communicate the risk?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L970",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-021",
+      "originalTitle": "A non-technical executive asks why your AI feature cannot be 100% accurate. How do you explain LLM limitations?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L971",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-BEHAVIORAL-022",
+      "originalTitle": "You need to choose between a complex agentic system that scores 15% better on benchmarks, or a simpler RAG pipeline that is easier to maintain. How do you decide?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L972",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

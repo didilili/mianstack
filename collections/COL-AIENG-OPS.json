@@ -1,0 +1,336 @@
+{
+  "id": "COL-AIENG-OPS",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · LLMOps 与生产应用",
+  "coverage": [
+    "llm",
+    "ai_engineering"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-OPS-001",
+      "originalTitle": "How does Prompt Caching work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-002",
+      "originalTitle": "Prefill vs Decode",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L600",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-003",
+      "originalTitle": "Why is prefill compute-bound and decode memory-bandwidth-bound?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L602",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-004",
+      "originalTitle": "What is chunked prefill, and why does it improve tail latency under mixed traffic?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L604",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-005",
+      "originalTitle": "What is Prefill-Decode Disaggregation, and when does it pay off?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L606",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-006",
+      "originalTitle": "Explain the AI product lifecycle from ideation to production.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L608",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-007",
+      "originalTitle": "What is LLMOps, and how does it differ from traditional MLOps?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L609",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-008",
+      "originalTitle": "How do you serve LLMs in production?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L610",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-009",
+      "originalTitle": "What is model quantization?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-010",
+      "originalTitle": "Explain post-training quantization (PTQ) vs quantization-aware training (QAT). What breaks when you push weights to 2-4 bits?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-011",
+      "originalTitle": "How do you monitor LLM applications in production?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L616",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-012",
+      "originalTitle": "What is LLM observability?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L618",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-013",
+      "originalTitle": "What are guardrails for LLMs, and how do you implement them?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L620",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-014",
+      "originalTitle": "How do you implement content filtering for AI outputs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L622",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-015",
+      "originalTitle": "How do you estimate the cost of running an AI-powered feature in production?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L624",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-016",
+      "originalTitle": "How do you optimize LLM inference costs in production?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L625",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-017",
+      "originalTitle": "How do you implement A/B testing for LLM systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-018",
+      "originalTitle": "What is CI/CD for AI applications, and how does it differ from traditional CI/CD?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L628",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-019",
+      "originalTitle": "How do you version and manage prompts in production?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L629",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-020",
+      "originalTitle": "What is model versioning, and how do you handle model rollbacks?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L630",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-021",
+      "originalTitle": "How do you implement rate limiting and throttling for LLM APIs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L631",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-022",
+      "originalTitle": "How do you handle model updates and migrations without downtime?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L632",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-023",
+      "originalTitle": "What is the role of feature flags in AI deployments?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L633",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-024",
+      "originalTitle": "How do you implement logging and tracing for LLM applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L634",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-025",
+      "originalTitle": "How do you handle PII and sensitive data in LLM inputs and outputs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L636",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-026",
+      "originalTitle": "What is a gateway pattern for LLM API management?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L637",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-027",
+      "originalTitle": "How does Token Streaming work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L638",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-028",
+      "originalTitle": "How do you implement streaming responses for real-time AI applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L640",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-029",
+      "originalTitle": "How does vLLM work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-030",
+      "originalTitle": "How does SGLang work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L644",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-031",
+      "originalTitle": "How does TensorRT-LLM work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L646",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-032",
+      "originalTitle": "How does llama.cpp run LLMs on everyday hardware?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L648",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-033",
+      "originalTitle": "How does Ollama work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L650",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-034",
+      "originalTitle": "When would you choose vLLM vs SGLang vs TensorRT-LLM?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L652",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-035",
+      "originalTitle": "What are the key SLAs and metrics for production AI systems (latency, throughput, availability)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L654",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-036",
+      "originalTitle": "Cloud vs on-device Model Deployment for AI applications.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L655",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-037",
+      "originalTitle": "How do you implement fallback strategies when the primary model is unavailable or rate-limited?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L657",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-038",
+      "originalTitle": "How do you implement structured output from LLMs reliably in production?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-039",
+      "originalTitle": "How do you handle long contexts efficiently in production (context compression, prefix caching)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L660",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-040",
+      "originalTitle": "What is semantic routing, and how do you implement it in a multi-model system?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L662",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-041",
+      "originalTitle": "How do you manage secrets and API keys securely in LLM applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L664",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-042",
+      "originalTitle": "Your LLM API has latency spikes during peak hours. How do you stabilize it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L665",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-043",
+      "originalTitle": "Your LLM endpoint's p99 latency doubled after a deploy with no model change. How do you diagnose it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L666",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-044",
+      "originalTitle": "Your LLM costs are too high in production. How do you reduce costs without degrading quality?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L667",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-045",
+      "originalTitle": "Your application is hitting LLM provider rate limits during peak hours. How do you handle it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L669",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-046",
+      "originalTitle": "Your application depends on one LLM provider. How do you switch providers without downtime?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L670",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-047",
+      "originalTitle": "Your AI system handles 100 requests/sec but crashes at 5000. How do you scale for concurrent requests?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L671",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-048",
+      "originalTitle": "A traffic spike brings down your AI system. How do you handle peak traffic?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L672",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-049",
+      "originalTitle": "One LLM provider outage took down your entire system. How do you eliminate single points of failure?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L673",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-050",
+      "originalTitle": "Your multi-LLM pipeline fails when one model in the chain breaks. How do you handle orchestration failure?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L674",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-051",
+      "originalTitle": "Your AI pipeline has zero visibility into which step is failing. How do you add observability?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L676",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-052",
+      "originalTitle": "You quantized your LLM, but accuracy dropped significantly. How do you minimize quantization loss?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L678",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-OPS-053",
+      "originalTitle": "One failing AI component can take down your entire platform. How do you design graceful degradation?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L680",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

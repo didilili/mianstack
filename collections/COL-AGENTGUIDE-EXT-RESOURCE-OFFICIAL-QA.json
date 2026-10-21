@@ -1,0 +1,36 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-RESOURCE-OFFICIAL-QA",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Agent 核心概念问答",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/official-guides.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-RESOURCE-OFFICIAL-QA-001",
+      "originalTitle": "在何种场景下应该选择使用 Agent？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/official-guides.md#L270",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-RESOURCE-OFFICIAL-QA-002",
+      "originalTitle": "一个典型的 AI Agent 系统由哪些核心组件构成？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/official-guides.md#L278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-RESOURCE-OFFICIAL-QA-003",
+      "originalTitle": "如何对 AI Agent 的性能进行评估与优化？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/official-guides.md#L288",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

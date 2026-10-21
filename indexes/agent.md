@@ -4,7 +4,7 @@
 
 运行循环、规划、上下文、记忆、工具协议、工作流与多 Agent。
 
-共 813 道题，分为 12 个专题。
+共 959 道题，分为 12 个专题。
 
 ## 页内导航
 
@@ -73,6 +73,10 @@
 - [Q-3946 如何判断一个系统只是调用 LLM 功能，还是构成了 Agent？](../questions/Q-3946.md)
 - [Q-3965 如何自行实现 ReAct，框架实现与手写实现的边界是什么？](../questions/Q-3965.md)
 - [Q-4100 为什么先抽象用户表达再做意图识别，效果可能更好？](../questions/Q-4100.md)
+- [Q-4741 用 Python 实现支持工具调用的 ReAct Agent。](../questions/Q-4741.md)
+- [Q-4839 反应式 Agent 与主动式 Agent 有什么区别，分别适合什么任务？](../questions/Q-4839.md)
+- [Q-4896 会话型 Agent 与任务型 Agent 有什么区别？](../questions/Q-4896.md)
+- [Q-5711 什么是具身智能，感知、行动与环境反馈如何形成闭环？](../questions/Q-5711.md)
 
 <a id="topic-2"></a>
 ## Agent 应用架构与场景设计
@@ -209,6 +213,25 @@
 - [Q-4439 设计处理用户退款请求的 Agent。](../questions/Q-4439.md)
 - [Q-4444 设计一个帮助用户点外卖的 Agent。](../questions/Q-4444.md)
 - [Q-4446 Agent 项目如何接入外部知识库？](../questions/Q-4446.md)
+- [Q-4488 设计电商 Agent 时，如何选择文本、图像、视频和用户行为等输入模态？](../questions/Q-4488.md)
+- [Q-4539 如果自由探索，你最想设计什么 Agent 来解决什么问题？](../questions/Q-4539.md)
+- [Q-4953 如何设计能检索、整合证据并生成报告的 Deep Research Agent？](../questions/Q-4953.md)
+- [Q-4962 如何设计能理解、整理和处理邮件的 AI 助手？](../questions/Q-4962.md)
+- [Q-4966 如何设计能适应学习者需求的个性化 AI 学习助手？](../questions/Q-4966.md)
+- [Q-5089 如何设计支持澄清、支付确认和失败补偿的机票预订 Agent？](../questions/Q-5089.md)
+- [Q-5176 Prompt Pattern、Agent Pattern 与 Workflow Pattern 有何区别？](../questions/Q-5176.md)
+- [Q-5190 企业 Agent 平台如何划分控制面与执行面？](../questions/Q-5190.md)
+- [Q-5192 Tool Registry、MCP Registry 与 Agent Registry 如何分工？](../questions/Q-5192.md)
+- [Q-5578 如何为知识问答与智能客服选择 RAG 或 Agent 架构？](../questions/Q-5578.md)
+- [Q-5581 如何设计从网站信息生成宣发内容的 Agent？](../questions/Q-5581.md)
+- [Q-5582 如何设计自动驾驶行为评估 Agent？](../questions/Q-5582.md)
+- [Q-5585 智能评审系统如何划分大模型、规则与人工的职责？](../questions/Q-5585.md)
+- [Q-5592 本地与云端 Agent 如何协同管理身份、离线状态和任务迁移？](../questions/Q-5592.md)
+- [Q-5681 类脑启发的 Agent 如何划分认知功能模块并组织决策闭环？](../questions/Q-5681.md)
+- [Q-5712 如何设计从自然语言指令到机器人动作的具身智能系统？](../questions/Q-5712.md)
+- [Q-6799 编写 Deep Research 的检索、证据整合与报告生成伪代码。](../questions/Q-6799.md)
+- [Q-6824 Summary 节点在 Agent 报告生成链路中应承担什么职责？](../questions/Q-6824.md)
+- [Q-6828 如何设计基于 Agent 的 AI 面试系统？](../questions/Q-6828.md)
 
 <a id="topic-3"></a>
 ## 规划、推理与任务执行
@@ -284,6 +307,23 @@
 - [Q-3821 Agent 的规划器与执行器应如何解耦？](../questions/Q-3821.md)
 - [Q-3973 全局目标动态变化、初始计划易失效时，如何组合 Plan-and-Execute 与 ReAct？](../questions/Q-3973.md)
 - [Q-4365 为什么 Todo List 能让 Agent 聚焦任务，如何实现？](../questions/Q-4365.md)
+- [Q-4745 用 Python 实现 Agent 的自我评估与修正机制。](../questions/Q-4745.md)
+- [Q-4764 如何在保持任务成功率的前提下减少 Agent 规划与执行步数？](../questions/Q-4764.md)
+- [Q-4816 什么是递归自我改进 RSI？](../questions/Q-4816.md)
+- [Q-4835 Plan-and-Execute Agent 模式如何规划、执行并根据反馈调整任务？](../questions/Q-4835.md)
+- [Q-5177 ReAct 与 Self-consistency 如何组合，适用边界是什么？](../questions/Q-5177.md)
+- [Q-5178 Plan-and-Solve 与 Plan-and-Execute 有何区别？](../questions/Q-5178.md)
+- [Q-5179 ReWOO 如何解耦推理规划与工具观察？](../questions/Q-5179.md)
+- [Q-5180 Graph-of-Thought 如何组织并组合推理状态，与树结构有何不同？](../questions/Q-5180.md)
+- [Q-5181 LATS 或 MCTS 式 Agent 如何结合行动反馈与树搜索？](../questions/Q-5181.md)
+- [Q-5432 实现分离规划与执行的任务流水线。](../questions/Q-5432.md)
+- [Q-5515 如何设计层级意图路由并评估错误级联？](../questions/Q-5515.md)
+- [Q-5675 多模态思维链如何结合感知证据与分步推理，与纯文本 CoT 有何不同？](../questions/Q-5675.md)
+- [Q-5682 Agent 世界模型如何权衡预测准确性与计算效率？](../questions/Q-5682.md)
+- [Q-5683 Agent 的情感状态如何表示，并量化其对决策的影响？](../questions/Q-5683.md)
+- [Q-5719 具身系统中的符号规划与反应式行为控制有何区别，如何协作？](../questions/Q-5719.md)
+- [Q-6100 实现面向推理候选的蒙特卡洛树搜索。](../questions/Q-6100.md)
+- [Q-6113 世界模型如何表示和校准多种可能的未来？](../questions/Q-6113.md)
 
 <a id="topic-4"></a>
 ## 上下文工程
@@ -349,6 +389,17 @@
 - [Q-4355 压缩多轮对话后，如何拼接用户消息、模型消息与摘要？](../questions/Q-4355.md)
 - [Q-4385 同一会话连续切换相关话题时，如何保持上下文连贯？](../questions/Q-4385.md)
 - [Q-4415 如何通过同步或异步设计减少记忆压缩的用户等待？](../questions/Q-4415.md)
+- [Q-4455 长任务上下文不足时，如何选择 Compaction、结构化笔记和子 Agent？](../questions/Q-4455.md)
+- [Q-4638 如何估算并分配输入、输出、对话历史和 RAG 证据的 Token 预算？](../questions/Q-4638.md)
+- [Q-4814 递归语言模型 RLM 如何通过外部环境和递归调用处理长输入？](../questions/Q-4814.md)
+- [Q-4844 OKF（Open Knowledge Format）是什么，如何组织供人和 Agent 使用的知识？](../questions/Q-4844.md)
+- [Q-5054 实现 Token 计数与上下文窗口管理。](../questions/Q-5054.md)
+- [Q-5080 裁剪 Agent 工具结果时，如何保留调用关联和消息链完整性？](../questions/Q-5080.md)
+- [Q-5126 Agent 应何时全量加载上下文，何时通过工具逐步按需获取信息？](../questions/Q-5126.md)
+- [Q-5152 Agent 的任务运行状态与发送给模型的上下文有什么区别？](../questions/Q-5152.md)
+- [Q-5159 一次请求中如何协同使用 RAG 共享知识与个性化 Memory？](../questions/Q-5159.md)
+- [Q-5508 Coding Agent 与普通对话 Agent 的上下文工程有什么不同？](../questions/Q-5508.md)
+- [Q-6280 对话系统如何表示和使用时间信息及时间约束？](../questions/Q-6280.md)
 
 <a id="topic-5"></a>
 ## 记忆系统
@@ -424,6 +475,21 @@
 - [Q-4405 历史对话的时间游标定位如何实现？](../questions/Q-4405.md)
 - [Q-4416 Agent 短期记忆应使用什么方式存储？](../questions/Q-4416.md)
 - [Q-4427 短期、中期和长期记忆的表结构与字段如何设计？](../questions/Q-4427.md)
+- [Q-4452 Agent 的 Auto Memory 是什么，如何限制自动写入以保证记忆质量？](../questions/Q-4452.md)
+- [Q-4453 团队共享 Agent 记忆应采用 Git 与 Code Review，还是数据库？](../questions/Q-4453.md)
+- [Q-4489 LangChain 的记忆在多用户并发下如何隔离并保证线程安全？](../questions/Q-4489.md)
+- [Q-4743 用 Python 实现短期对话历史与长期向量记忆。](../questions/Q-4743.md)
+- [Q-4837 Agent 记忆有哪些类型，短期、长期与情景记忆如何区分？](../questions/Q-4837.md)
+- [Q-5049 实现支持窗口、摘要或缓冲策略的聊天对话记忆。](../questions/Q-5049.md)
+- [Q-5084 子 Agent 的长期记忆与 Agent Teams 的协作状态各解决什么问题？](../questions/Q-5084.md)
+- [Q-5123 如何删除 Agent 记忆中的敏感信息及其向量、图谱和派生数据？](../questions/Q-5123.md)
+- [Q-5147 Agent 记忆有哪些表示与存储形式，各有什么特点？](../questions/Q-5147.md)
+- [Q-5148 如何从任务经历中反思并合成可复用的长期记忆？](../questions/Q-5148.md)
+- [Q-5507 Agent 记忆中的偏见、事实错误和幻觉如何识别并纠正？](../questions/Q-5507.md)
+- [Q-5685 神经记忆网络如何通过稀疏激活完成记忆编码与召回？](../questions/Q-5685.md)
+- [Q-6106 如何追踪 Agent 经验更新的来源与版本，并定位导致退化的更新？](../questions/Q-6106.md)
+- [Q-6128 Agent 记忆中的时序知识图谱如何表示变化并支持历史查询？](../questions/Q-6128.md)
+- [Q-6130 如何用自动实验闭环优化 Agent 记忆系统？](../questions/Q-6130.md)
 
 <a id="topic-6"></a>
 ## 工具调用与 Function Calling
@@ -488,6 +554,17 @@
 - [Q-3989 Agent 如何表示并校验工具之间的依赖与前置条件？](../questions/Q-3989.md)
 - [Q-4200 Agent 项目中定义了哪些工具，各自的能力边界是什么？](../questions/Q-4200.md)
 - [Q-4390 较弱模型的工具调用不准确时，如何定位和改进？](../questions/Q-4390.md)
+- [Q-4490 工具调用失败后，应如何向 Agent 提供反馈并驱动纠错？](../questions/Q-4490.md)
+- [Q-4494 Function Calling 与 Toolformer 在训练和推理机制上有什么区别？](../questions/Q-4494.md)
+- [Q-4581 模型以普通文本输出命令请求而未使用 Tool Call 时，系统应如何处理？](../questions/Q-4581.md)
+- [Q-4742 用 Python 实现工具注册、查询和调用系统。](../questions/Q-4742.md)
+- [Q-4836 大模型结构化输出与 Function Calling 有什么区别和联系？](../questions/Q-4836.md)
+- [Q-4840 生成并执行代码的 Agent 与调用预定义工具的 Agent 有什么区别？](../questions/Q-4840.md)
+- [Q-5588 Function Calling 与 RAG 分别解决什么问题，如何配合使用？](../questions/Q-5588.md)
+- [Q-5660 原生多模态工具调用如何传递视觉输入输出，与文本中转有何区别？](../questions/Q-5660.md)
+- [Q-6034 Toolformer 如何以自监督信号筛选工具调用，与奖励优化有何区别？](../questions/Q-6034.md)
+- [Q-6102 如何为 Coding Agent 设计可靠的代码编辑工具？](../questions/Q-6102.md)
+- [Q-6307 工具原始结果与模型输入契约不一致时，如何设计格式映射？](../questions/Q-6307.md)
 
 <a id="topic-7"></a>
 ## MCP、A2A 与工具协议
@@ -539,6 +616,17 @@
 - [Q-4245 Agent 如何发现 MCP Server 工具并完成一次调用？](../questions/Q-4245.md)
 - [Q-4246 设计 MCP Server 时，如何限制危险工具的调用？](../questions/Q-4246.md)
 - [Q-4247 一个新 MCP 工具从注册到被 Agent 调用的完整链路是什么？](../questions/Q-4247.md)
+- [Q-4456 MCP 的 Tools、Resources 和 Prompts 分别是什么，职责有何区别？](../questions/Q-4456.md)
+- [Q-5092 外部能力通过 API、CLI 或 MCP 接入 Agent 时如何选择？](../questions/Q-5092.md)
+- [Q-5093 如何管理多个 MCP Server 连接，并隔离用户与会话？](../questions/Q-5093.md)
+- [Q-5130 MCP、A2A 与 ANP 的职责边界如何比较，如何在同一智能体系统中组合使用？](../questions/Q-5130.md)
+- [Q-5132 智能体通信协议与多 Agent 框架的职责有何不同，如何实现跨框架互通？](../questions/Q-5132.md)
+- [Q-5133 如何为多 Agent 通信设计端到端加密、身份认证与访问控制？](../questions/Q-5133.md)
+- [Q-5183 MCP 的 Roots、Sampling 与 Elicitation 分别解决什么问题？](../questions/Q-5183.md)
+- [Q-5184 A2A 的 Agent Card 有什么作用，应如何使用？](../questions/Q-5184.md)
+- [Q-5185 A2A 的 Message、Task、Part 与 Artifact 有何区别？](../questions/Q-5185.md)
+- [Q-5186 A2A 如何组织流式任务更新、异步通知与产物交付？](../questions/Q-5186.md)
+- [Q-5187 如何设计统一接入工具与远程 Agent 的企业协议平台？](../questions/Q-5187.md)
 
 <a id="topic-8"></a>
 ## Skills 能力系统
@@ -601,6 +689,9 @@
 - [Q-4238 如何设计可在本机执行文件写入和删除的 Skill？](../questions/Q-4238.md)
 - [Q-4269 Skill 误路由有哪些原因，Skill 数量增长后如何做大规模路由优化？](../questions/Q-4269.md)
 - [Q-4411 如何通过 Skill 优化已有项目？](../questions/Q-4411.md)
+- [Q-4457 Skill 路由与 RAG 检索有哪些相似机制，目标和评价标准有何区别？](../questions/Q-4457.md)
+- [Q-5085 如何让 Skill 在子 Agent 中执行，哪些任务适合隔离上下文？](../questions/Q-5085.md)
+- [Q-6121 没有历史轨迹时，如何通过生成与验证闭环构建 Agent Skill？](../questions/Q-6121.md)
 
 <a id="topic-9"></a>
 ## 工作流、状态与执行恢复
@@ -663,6 +754,28 @@
 - [Q-4277 有依赖关系的工具如何并行执行并处理失败？](../questions/Q-4277.md)
 - [Q-4282 PPT 自动化评测 Workflow 应如何设计？](../questions/Q-4282.md)
 - [Q-4356 消息会话中断时，后端应如何处理 Agent 执行？](../questions/Q-4356.md)
+- [Q-4460 AI 系统中的 Workflow、Graph 和 Loop 有什么关系？](../questions/Q-4460.md)
+- [Q-4461 Graph Loop 与 Agent Loop 的控制主体和适用场景有何区别？](../questions/Q-4461.md)
+- [Q-4462 Agent 的外层循环应如何选择 CI、定时任务、目标检查或人工审批作为触发方式？](../questions/Q-4462.md)
+- [Q-4463 外层任务循环与单次任务内部的 Agent Loop 如何划分并交接状态和验证结果？](../questions/Q-4463.md)
+- [Q-4464 图工作流中的条件边与动态路由有什么区别？](../questions/Q-4464.md)
+- [Q-4485 大规模 Agent 系统如何在多线程和多进程下进行资源调度？](../questions/Q-4485.md)
+- [Q-4491 多轮对话如何管理上下文状态，并保证高并发下的一致性？](../questions/Q-4491.md)
+- [Q-4495 Agent 如何回溯决策依据，并向用户解释推荐理由？](../questions/Q-4495.md)
+- [Q-4576 Agent 状态机卡死、悬停或死循环时，如何排查并熔断？](../questions/Q-4576.md)
+- [Q-4577 工具调用失败后，哪些异常处理可交给大模型，哪些必须由确定性程序控制？](../questions/Q-4577.md)
+- [Q-4578 Agent 无法继续任务时，如何设计求助与升级状态机？](../questions/Q-4578.md)
+- [Q-4579 Agent Workflow 如何保证节点原子性，并在部分成功后安全回滚？](../questions/Q-4579.md)
+- [Q-4838 什么是 Agent 的图式工作组织（Graph Engineering），节点、边与状态如何协同？](../questions/Q-4838.md)
+- [Q-5072 Spring AI Alibaba 与 LangGraph 如何实现循环控制？](../questions/Q-5072.md)
+- [Q-5151 传统工作流与包含大模型节点的 AI 工作流有什么区别？](../questions/Q-5151.md)
+- [Q-5175 多通道 Agent 如何把消息路由到正确会话并保持用户隔离？](../questions/Q-5175.md)
+- [Q-5182 Workflow 与 Agent Runtime 如何划分编排和执行职责？](../questions/Q-5182.md)
+- [Q-5509 Agent Checkpoint 如何选择存储，并加速会话初始化加载？](../questions/Q-5509.md)
+- [Q-5526 Agent 框架如何组织子任务并行执行与流式结果交付？](../questions/Q-5526.md)
+- [Q-5597 周期性 Agent 任务如何区分 Schedule 与 Run 并可靠执行？](../questions/Q-5597.md)
+- [Q-6026 实现一个用显式状态与事件管理 Agent 执行的有限状态机。](../questions/Q-6026.md)
+- [Q-6313 Agent 任务进行中切换模型时，如何安全迁移状态并衔接执行？](../questions/Q-6313.md)
 
 <a id="topic-10"></a>
 ## 多 Agent 编排与协作
@@ -753,6 +866,17 @@
 - [Q-4387 为什么自研 Agent 间通信设施，而不采用现成 A2A 协议？](../questions/Q-4387.md)
 - [Q-4397 多 Agent 项目中，用户的第一条消息如何路由？](../questions/Q-4397.md)
 - [Q-4398 多个 Agent 的代码与评审意见差异很大时，如何收敛？](../questions/Q-4398.md)
+- [Q-4492 如何通过多 Agent 协作提高推理正确率，并设计相应的调度策略？](../questions/Q-4492.md)
+- [Q-4493 多 Agent 系统如何保证异步任务的稳定执行和结果一致性？](../questions/Q-4493.md)
+- [Q-4842 Sakana Fugu 如何动态编排不同大模型协作完成任务？](../questions/Q-4842.md)
+- [Q-5059 实现具有角色分工和协作流程的多 Agent 系统。](../questions/Q-5059.md)
+- [Q-5076 主会话委派的 Subagent 与独立 Agent Teams 有何区别，如何选择？](../questions/Q-5076.md)
+- [Q-5134 如何根据历史行为、协作质量和评价建立 Agent 动态信任系统？](../questions/Q-5134.md)
+- [Q-5519 Agent Handoff 如何交接任务、状态与权限边界？](../questions/Q-5519.md)
+- [Q-5520 业务模块变化时，如何治理多 Agent 的能力拓扑和路由配置？](../questions/Q-5520.md)
+- [Q-5579 多 Agent 客服如何保持连贯的用户体验？](../questions/Q-5579.md)
+- [Q-5914 预测融合、多模型分工与多 Agent 工具协作有什么区别？](../questions/Q-5914.md)
+- [Q-6116 多 Agent 世界模型需要如何表示其他参与者及交互？](../questions/Q-6116.md)
 
 <a id="topic-11"></a>
 ## Agent 框架与 Harness
@@ -859,6 +983,20 @@
 - [Q-4294 LangGraph 是否已经过时，如何判断它的适用性？](../questions/Q-4294.md)
 - [Q-4388 切换模型时，Harness 需要怎样适配？](../questions/Q-4388.md)
 - [Q-4421 为什么 OpenClaw 可能随着使用逐渐改善效果？](../questions/Q-4421.md)
+- [Q-4458 JavaGuide 归纳的 Harness 六层检查框架分别检查哪些系统职责？](../questions/Q-4458.md)
+- [Q-4923 LangChain 中的 LLM、Chat Model 和 Embedding 模型抽象有何区别？](../questions/Q-4923.md)
+- [Q-4924 如何通过 LangChain 接入语言模型并生成回复？](../questions/Q-4924.md)
+- [Q-4925 如何在 LangChain 中创建、修改并填充提示模板？](../questions/Q-4925.md)
+- [Q-5075 Hooks 与 Skills 的触发、执行职责和适用场景有何区别？](../questions/Q-5075.md)
+- [Q-5078 Agent 插件与 Skills、MCP 等扩展能力有何关系？](../questions/Q-5078.md)
+- [Q-5087 Agent Middleware 如何在执行链路中组织横切能力？](../questions/Q-5087.md)
+- [Q-5170 OpenAI Agents SDK 有哪些核心抽象，分别承担什么职责？](../questions/Q-5170.md)
+- [Q-5171 Workspace 与抽象文件系统在 Agent Runtime 中分别起什么作用？](../questions/Q-5171.md)
+- [Q-5172 Agent Gateway 与 Runtime 如何分工并共享多入口执行能力？](../questions/Q-5172.md)
+- [Q-5173 编码 Agent 与 IDE 桥接时应传递哪些上下文与控制信息？](../questions/Q-5173.md)
+- [Q-5174 Agent 的 Channel、Runtime、Model 与 Provider 如何解耦？](../questions/Q-5174.md)
+- [Q-5191 Agent Builder 应提供哪些构建、验证与交付能力？](../questions/Q-5191.md)
+- [Q-5589 Deep Agents 如何组织长任务执行，有哪些工程收益和限制？](../questions/Q-5589.md)
 
 <a id="topic-12"></a>
 ## GUI、Computer Use 与多模态 Agent
@@ -881,3 +1019,11 @@
 - [Q-3603 如何用 Agent 根据图片定位对应代码？](../questions/Q-3603.md)
 - [Q-3798 真实或模拟环境 Agent 与纯软件工具型 Agent 有什么区别？](../questions/Q-3798.md)
 - [Q-3987 图片识别结果与文本审核结果冲突时如何处理？](../questions/Q-3987.md)
+- [Q-4487 模块化多模态 Agent 如何协调视觉问答模块与动作执行模块？](../questions/Q-4487.md)
+- [Q-4536 LLM 如何赋能机器人和具身智能，会带来哪些挑战？](../questions/Q-4536.md)
+- [Q-4841 多模态 Agent 如何衔接输入感知、推理决策与多模态输出？](../questions/Q-4841.md)
+- [Q-4843 Browser Agent 如何观察网页、定位元素并执行浏览器任务？](../questions/Q-4843.md)
+- [Q-5996 如何将语言定位、分割和跟踪组合成对象级视觉工具链？](../questions/Q-5996.md)
+- [Q-6042 Computer Use 如何通过桌面观察、动作执行与反馈形成操作闭环？](../questions/Q-6042.md)
+- [Q-6043 Computer Use 应选择本地电脑还是云端隔离桌面执行？](../questions/Q-6043.md)
+- [Q-6115 如何为 Web 或 GUI Agent 设计并验证动作条件环境模型？](../questions/Q-6115.md)

@@ -1,0 +1,185 @@
+{
+  "id": "COL-DAILY-AI-RECOMMENDATION",
+  "publisherId": "PUB-DATAWHALE",
+  "title": "Datawhale 每日面试 · 推荐系统",
+  "coverage": [
+    "llm"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Datawhale daily-interview 的 AI 算法模块原题与追问。第 001–013 条来自 Summer 署名的协同过滤文档，署名仅适用于这 13 条，Datawhale 为收录与整理项目。",
+  "sourceUrl": "https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms",
+  "sourceAttribution": {
+    "name": "Summer",
+    "url": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L1",
+    "role": "author",
+    "scope": "其中第 1—13 题来自 Summer 编写的协同过滤文档。",
+    "itemIds": [
+      "COL-DAILY-AI-RECOMMENDATION-001",
+      "COL-DAILY-AI-RECOMMENDATION-002",
+      "COL-DAILY-AI-RECOMMENDATION-003",
+      "COL-DAILY-AI-RECOMMENDATION-004",
+      "COL-DAILY-AI-RECOMMENDATION-005",
+      "COL-DAILY-AI-RECOMMENDATION-006",
+      "COL-DAILY-AI-RECOMMENDATION-007",
+      "COL-DAILY-AI-RECOMMENDATION-008",
+      "COL-DAILY-AI-RECOMMENDATION-009",
+      "COL-DAILY-AI-RECOMMENDATION-010",
+      "COL-DAILY-AI-RECOMMENDATION-011",
+      "COL-DAILY-AI-RECOMMENDATION-012",
+      "COL-DAILY-AI-RECOMMENDATION-013"
+    ]
+  },
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-001",
+      "originalTitle": "在协同过滤中，常用的相似度函数有哪些，简要说明",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-002",
+      "originalTitle": "有了相似度测量后，那么基于邻域的推荐思路是怎样的呢？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L47",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-003",
+      "originalTitle": "协同过滤算法具有特征学习的特点，试解释原理以及如何学习",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L54",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处“特征学习”由正文限定为用户—物品评分的潜因子矩阵分解。"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-004",
+      "originalTitle": "如何简单计算user偏差以及item偏差？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L67",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-005",
+      "originalTitle": "如何选择协同过滤算法是基于user还是基于item",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-006",
+      "originalTitle": "使用协同过滤算法之前，数据应该如何进行预处理？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-007",
+      "originalTitle": "协同过滤的方式有哪些？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-008",
+      "originalTitle": "如何通过相似度计算设计协同过滤推荐系统？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-009",
+      "originalTitle": "请谈谈你对协同过滤中特征学习的理解？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-010",
+      "originalTitle": "如何将协同过滤用于推荐系统？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L102",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-011",
+      "originalTitle": "FUNK SVD相对于SVD有哪些优势？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-012",
+      "originalTitle": "如何求解FUNK SVD？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L104",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-013",
+      "originalTitle": "请描述下协同过滤的优缺点？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/collaborative_filtering.md#L105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-014",
+      "originalTitle": "Wide&Deep与DeepFM的区别？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/deepfm.md#L80",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-015",
+      "originalTitle": "DeepFM的Wide部分与Deep部分分别是什么？Embedding内容是否共享",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/deepfm.md#L86",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-016",
+      "originalTitle": "在线学习的学习率如何设置",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/gbdt_lr.md#L19",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处在线学习率指 GBDT+LR 文章中的增量 LR 更新。"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-017",
+      "originalTitle": "lr的权重个数和gbdt的什么有关?",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/gbdt_lr.md#L46",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-018",
+      "originalTitle": "负样本欠采样之后会对模型有什么影响，怎么解决?",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/gbdt_lr.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-019",
+      "originalTitle": "GBDT特征的重要性是如何评估的?",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/gbdt_lr.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-020",
+      "originalTitle": "gbdt+lr如何训练",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/gbdt_lr.md#L59",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-021",
+      "originalTitle": "为什么建树采用ensemble决策树?",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/gbdt_lr.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-022",
+      "originalTitle": "为什么建树采用GBDT而非RF?",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/gbdt_lr.md#L66",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题的 GBDT 与 RF 选型位于 GBDT+LR 特征生成语境。"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-023",
+      "originalTitle": "GBDT与LR融合方案",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/gbdt_lr.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-RECOMMENDATION-024",
+      "originalTitle": "为什么建树采用GBDT而非RF?",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/recommendation/gbdt_lr.md#L80",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

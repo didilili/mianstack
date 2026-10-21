@@ -1,0 +1,315 @@
+{
+  "id": "COL-AIENG-SYSTEM-DESIGN",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · AI 系统设计",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-001",
+      "originalTitle": "Design a Real-Time Voice AI Agent",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L535",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-002",
+      "originalTitle": "Design ChatGPT: Training to Serving (End to End)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-003",
+      "originalTitle": "Design a RAG System (Chat with Your Documents)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L538",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-004",
+      "originalTitle": "Design an enterprise RAG assistant over 10M documents with per-user permissions.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L539",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-005",
+      "originalTitle": "Design Memory for a Personal AI Assistant",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L540",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-006",
+      "originalTitle": "Design a Deep Research Agent",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L542",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-007",
+      "originalTitle": "Design a Multi-Agent Customer Support System",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L543",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-008",
+      "originalTitle": "Design an On-Device AI Assistant",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-009",
+      "originalTitle": "Design a Multimodal Search System (Text, Image, Video)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-010",
+      "originalTitle": "Design an LLM Inference Platform (vLLM-as-a-Service)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L548",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-011",
+      "originalTitle": "Design an LLM Evaluation Platform",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L550",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-012",
+      "originalTitle": "Design a Text-to-Image Generation Service (Midjourney-like)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L552",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-013",
+      "originalTitle": "Design a Music Generation Service (Suno-like)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L553",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-014",
+      "originalTitle": "Design a Video Generation Service (Sora-like)",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L554",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-015",
+      "originalTitle": "Design an AI Coding Agent.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L555",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-016",
+      "originalTitle": "Design a code generation and review system.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L557",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-017",
+      "originalTitle": "Design a content moderation system using AI.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L558",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-018",
+      "originalTitle": "Design a real-time AI recommendation system.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L559",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-019",
+      "originalTitle": "Design an AI-powered email assistant.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L560",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-020",
+      "originalTitle": "Design a medical diagnosis assistant using AI.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L561",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-021",
+      "originalTitle": "Design a fraud detection system powered by LLMs.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L562",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-022",
+      "originalTitle": "Design an AI-powered data extraction pipeline from unstructured documents.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L563",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-023",
+      "originalTitle": "Design a Text-to-SQL system over a data warehouse with thousands of tables.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L564",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-024",
+      "originalTitle": "Design a personalized learning assistant.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L565",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-025",
+      "originalTitle": "Design an AI system for automated code migration.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L566",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-026",
+      "originalTitle": "Design an AI-powered legal document review system.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L567",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-027",
+      "originalTitle": "Design a conversational AI system with memory across sessions.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L568",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-028",
+      "originalTitle": "How do you design for latency vs quality trade-offs in AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L570",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-029",
+      "originalTitle": "How do you implement caching strategies for LLM applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L571",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-030",
+      "originalTitle": "How do you design rate limiting and cost management for AI APIs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L573",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-031",
+      "originalTitle": "How do you handle failover and fallback strategies for AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L574",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-032",
+      "originalTitle": "How do you design an AI system for high availability and fault tolerance?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L575",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-033",
+      "originalTitle": "How do you design an AI system that gracefully degrades when the model is unavailable?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L576",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-034",
+      "originalTitle": "What are the key considerations for multi-region deployment of AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L577",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-035",
+      "originalTitle": "Design an AI-powered search engine for an e-commerce platform.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L578",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-036",
+      "originalTitle": "Design an AI gateway/proxy for managing LLM access across an organization.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L579",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-037",
+      "originalTitle": "How do you design a RAG system that handles conflicting information across sources?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L580",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-038",
+      "originalTitle": "How do you approach capacity planning for an AI system?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-039",
+      "originalTitle": "Design a multi-tenant AI chatbot platform where each business gets a custom chatbot.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L582",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-040",
+      "originalTitle": "Design an AI meeting summarizer system for thousands of meetings daily.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-041",
+      "originalTitle": "Design an AI notification system that prioritizes instead of broadcasting.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-042",
+      "originalTitle": "Design an AI-powered anomaly detection system for cloud infrastructure.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L585",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-043",
+      "originalTitle": "Design an AI-powered document processing pipeline for financial institutions.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L586",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-044",
+      "originalTitle": "Design an AI dynamic pricing engine.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L587",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-045",
+      "originalTitle": "Design an AI resume screening system that handles 100K applications per week.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L588",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-046",
+      "originalTitle": "Design an AI voice assistant architecture.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L589",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-047",
+      "originalTitle": "Design a multi-agent workflow system where agents collaborate on complex tasks.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L591",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-048",
+      "originalTitle": "Design a real-time AI transcription system for concurrent audio streams.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L593",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SYSTEM-DESIGN-049",
+      "originalTitle": "Design an AI-powered live streaming content moderation system.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L594",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

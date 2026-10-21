@@ -1,0 +1,169 @@
+{
+  "id": "COL-ZERO2AGENT-AGENT-CONCEPTS",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · 概念考察：Harness Engineering、Context Engineering 与前沿范式",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-001",
+      "originalTitle": "Harness Engineering 是什么？如果让你构建一个 Harness 体系，你会做哪些工作？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-002",
+      "originalTitle": "Prompt Engineering、Context Engineering、Harness Engineering 三者有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-003",
+      "originalTitle": "你的项目中体现了哪些 Harness Engineering 的思想？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-004",
+      "originalTitle": "讲一讲 Agent 的发展路线——从以前的架构到现在的 Harness Engineering",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-005",
+      "originalTitle": "Vibe Coding 和 Harness，你更偏向哪种路线？为什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L201",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-006",
+      "originalTitle": "你会关注 Harness、Context Engineering 这类行业热点吗？你觉得它们有什么优势劣势？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-007",
+      "originalTitle": "Harness、Hermes 这种比较新的 Agent 设计了解吗？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L267",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处 Hermes 指 Nous Research 的 Hermes Agent。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-008",
+      "originalTitle": "MCP 是什么？它解决了 Function Calling 的什么根本问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-009",
+      "originalTitle": "MCP 和 A2A 分别解决什么层面的问题？为什么需要两个协议？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L372",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-010",
+      "originalTitle": "Skills 是什么？为什么有了 MCP 和 Function Calling，还需要 Skills？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-011",
+      "originalTitle": "Skill、MCP、Rule 三者在 Agent 系统中各自扮演什么角色？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L474",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-012",
+      "originalTitle": "Hermes、OpenCode、Claude Code、OpenClaw 等热门 Coding Agent 工具的核心差异和适用场景？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L519",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-013",
+      "originalTitle": "如何比较 Coding Agent、通用助手与办公 Agent？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L556",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-014",
+      "originalTitle": "使用 LangChain 构建 Agent 时有哪些核心模块？各模块如何协作？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-015",
+      "originalTitle": "知识库与 Skills 如何分工承载业务知识？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L597",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-016",
+      "originalTitle": "Hooks 在 Agent 系统中应该拦截哪些阶段，和 Prompt 约束有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-017",
+      "originalTitle": "Coding Agent 如何通过规则和 Skills 治理代码规范？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-018",
+      "originalTitle": "Dify/Coze 这种低代码工作流平台和 Codex/Claude Code 这类 Coding Agent 的本质区别是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L646",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-019",
+      "originalTitle": "Function Calling 和 RAG 分别解决什么问题？如何配合使用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L710",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-020",
+      "originalTitle": "Agent 和 Siri 这种传统助手的核心差别在哪？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L723",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-021",
+      "originalTitle": "LangChain 的传统 Chain 和 LCEL 有什么区别？LCEL 解决了哪些工程问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-022",
+      "originalTitle": "Computer Use Agent 如何感知并操作本地电脑？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L760",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-023",
+      "originalTitle": "DeepAgents 的核心难点、设计亮点及其解决的 Agent 工程痛点是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L774",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-024",
+      "originalTitle": "Self-Consistency 是什么？如何通过多次采样提升大模型输出的可靠性？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L787",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AGENT-CONCEPTS-025",
+      "originalTitle": "Agent 开发与传统前后端开发有哪些核心区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md#L801",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "COL-ZERO2AGENT-AI-CODE-TESTING",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · AI 代码分析与测试：覆盖率、插桩、代码过滤",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "software"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-001",
+      "originalTitle": "对于代码解析有没有前置分析？有效性判断怎么实现的？未来让你来优化这些指标你会怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L16",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-002",
+      "originalTitle": "分支覆盖率是怎么统计的？原理有没有了解过？代码插桩具体是怎么实现的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-003",
+      "originalTitle": "有没有思考过哪些代码会让模型生成的准确度和覆盖率降低？这些用 AST 和 LSP 都生成不了单测的代码如何过滤？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-004",
+      "originalTitle": "如何测试 AI 生成代码的正确性？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L121",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-005",
+      "originalTitle": "AI 生成的代码线下测试没问题，上线后出了问题怎么办？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L196",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-006",
+      "originalTitle": "如何用 Agent 自动化测试一个现有软件项目，并划分规划、执行、Oracle 与人工门禁？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-007",
+      "originalTitle": "AI 生成代码在哪些场景更具落地价值？应用边界在哪？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-008",
+      "originalTitle": "工程级 Code Agent 处理项目上下文、生成代码时有哪些核心挑战？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-009",
+      "originalTitle": "Coding Agent 如何做增量代码审查，避免大仓库全量逐行扫描？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L328",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-010",
+      "originalTitle": "Coding Agent 能否自举开发自身？如何避免生成器与验证器同源导致循环确认？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-011",
+      "originalTitle": "Coding Agent 如何执行人工交互测试，例如操作浏览器并验证页面行为？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-012",
+      "originalTitle": "AI 测试平台中，人和 AI 的职责边界如何划分？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-013",
+      "originalTitle": "AI Coding 如何完成多来源账单分析应用，并证明交付结果可信？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-014",
+      "originalTitle": "如何评估并保证 AI Code Reviewer 的审查正确性？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-015",
+      "originalTitle": "TDD 如何接入 Coding Agent？测试门禁应该放在生成流程的哪个阶段？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L436",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-016",
+      "originalTitle": "什么是 AST，代码测试中如何使用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L452",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-017",
+      "originalTitle": "污点分析通常包含哪三类核心节点？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-018",
+      "originalTitle": "请举例说明业务中的污点源和污点汇。",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-019",
+      "originalTitle": "代码 Agent 评测中，worktree 对照实验解决什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-020",
+      "originalTitle": "如何用工程手段治理代码规范，而不是只依赖模型提醒？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L504",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-AI-CODE-TESTING-021",
+      "originalTitle": "HumanEval、MBPP、APPS 的数据集结构与评估方式是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md#L520",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

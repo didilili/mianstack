@@ -1,0 +1,1006 @@
+{
+  "id": "COL-AIGC-DL-ARCHITECTURE",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 深度网络架构",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-001",
+      "originalTitle": "1.卷积在CNN中的核心作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L194",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-002",
+      "originalTitle": "2.卷积操作的数学定义是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-003",
+      "originalTitle": "3.CNN中的卷积与传统信号处理中的卷积有何区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-004",
+      "originalTitle": "4.卷积操作如何实现局部连接特性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L249",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-005",
+      "originalTitle": "5.权值共享在卷积操作中是如何体现的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L269",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-006",
+      "originalTitle": "6.局部连接和权值共享对CNN的性能有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-007",
+      "originalTitle": "7.卷积操作输出特征图尺寸的计算公式是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L313",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-008",
+      "originalTitle": "8.什么是步幅（Stride），步幅增大对输出特征图有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L334",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-009",
+      "originalTitle": "9.什么是填充（Padding），填充的主要目的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-010",
+      "originalTitle": "10.常见的Padding模式有哪些，它们的区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-011",
+      "originalTitle": "11.卷积操作中为什么通常使用奇数尺寸的卷积核？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-012",
+      "originalTitle": "12.3×3卷积核相比1×1、5×5卷积核有什么优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L415",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-013",
+      "originalTitle": "13.卷积层的感受野是什么意思，如何计算？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-014",
+      "originalTitle": "14.感受野的大小对CNN特征提取有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L469",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-015",
+      "originalTitle": "15.什么是互相关（Cross-Correlation），它与卷积的关系是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-016",
+      "originalTitle": "16.CNN训练中实际使用的是卷积还是互相关，为什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L516",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-017",
+      "originalTitle": "17.多通道输入/输出时，卷积操作是如何进行的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L551",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-018",
+      "originalTitle": "18.卷积操作的计算复杂度与哪些因素有关，如何降低？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L586",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-019",
+      "originalTitle": "19.卷积操作对图像的平移不变性有什么贡献？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L619",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-020",
+      "originalTitle": "20.卷积的稀疏交互特性及其对泛化能力的影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L643",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-021",
+      "originalTitle": "21.卷积层可以学习到哪些类型的特征，深浅层有何区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L673",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-022",
+      "originalTitle": "22.如果输入通道数为3，输出通道数为64，需要多少个卷积核？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L704",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-023",
+      "originalTitle": "23.卷积操作的线性特性，结合激活函数后有何变化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L733",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-024",
+      "originalTitle": "24.卷积层的输出特征图数量与模型表达能力的关系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L766",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-025",
+      "originalTitle": "25.卷积操作在处理高分辨率图像时会面临什么挑战？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L799",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-026",
+      "originalTitle": "26. 卷积核的基本组成部分有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L827",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-027",
+      "originalTitle": "27. 卷积核的深度与输入输出通道数的关系是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L853",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-028",
+      "originalTitle": "28. 卷积核的大小选择需要考虑哪些因素？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L880",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-029",
+      "originalTitle": "29. 为什么 CNN 中很少使用大于 7×7 的卷积核？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L905",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-030",
+      "originalTitle": "30. 1×1 卷积核的主要作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L928",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-031",
+      "originalTitle": "31. 使用 1×1 卷积核如何实现通道数的调整？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L950",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-032",
+      "originalTitle": "32. 卷积层的参数数量如何计算？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L973",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-033",
+      "originalTitle": "33. 偏置项是否计入卷积层参数，如何计算？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1000",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-034",
+      "originalTitle": "34. Padding、Stride 会影响卷积层参数数量吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1018",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-035",
+      "originalTitle": "35. 为什么卷积核不能全部初始化为 0 或相同值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1035",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-036",
+      "originalTitle": "36. He 初始化和 Xavier 初始化有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1053",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-037",
+      "originalTitle": "37. 分组卷积的卷积核如何设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1072",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-038",
+      "originalTitle": "38. 深度卷积的参数数量与普通卷积有何差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1096",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-039",
+      "originalTitle": "39. 两个 3×3 堆叠感受野等于一个 5×5 吗？为什么更优？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-040",
+      "originalTitle": "40. 卷积核剪枝是什么？依据是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-041",
+      "originalTitle": "41. 卷积核量化是什么？对部署有什么影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1156",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-042",
+      "originalTitle": "42. 轻量级网络在卷积核设计上有什么特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-043",
+      "originalTitle": "43. ViT-CNN 混合模型中卷积核的作用发生了什么变化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-044",
+      "originalTitle": "44. 转置卷积与双线性插值等上采样方式有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-045",
+      "originalTitle": "45. 空洞卷积与多尺度池化在扩大感受野上有什么差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-046",
+      "originalTitle": "46. 变形卷积是否会增加模型的计算复杂度？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-047",
+      "originalTitle": "47. 不同卷积类型组合使用有什么效果？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1299",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-048",
+      "originalTitle": "48. 轻量级网络中常用的卷积组合策略有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-049",
+      "originalTitle": "49. 未来卷积的创新方向可能是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1345",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-050",
+      "originalTitle": "50. 大模型时代卷积层会被完全取代吗，为什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-051",
+      "originalTitle": "51. 什么是有效感受野？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-052",
+      "originalTitle": "52. 什么是转置卷积的棋盘效应？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-053",
+      "originalTitle": "53. 什么是 3D 卷积？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-054",
+      "originalTitle": "54. 卷积层的时间复杂度与空间复杂度如何分析？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-055",
+      "originalTitle": "55. AIGC 时代一共有多少种主流卷积？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1496",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-056",
+      "originalTitle": "56.什么是深度可分离卷积（depthwise-separable-convolution）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1519",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-057",
+      "originalTitle": "57. 深度可分离卷积具体分为哪两个步骤，各自的操作过程是怎样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1541",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-058",
+      "originalTitle": "58. 深度卷积（Depthwise Convolution）与逐点卷积（Pointwise Convolution）的核心区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1572",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-059",
+      "originalTitle": "59. 深度可分离卷积与普通卷积的参数数量比是多少，如何推导？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1599",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-060",
+      "originalTitle": "60. 深度可分离卷积是如何减少计算量的，计算量降低比例如何计算？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1647",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-061",
+      "originalTitle": "61. 深度可分离卷积的优点和缺点分别是什么，2026年有哪些优化方案？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1694",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-062",
+      "originalTitle": "62. 深度可分离卷积在主流网络中具体有哪些应用，不同网络中的改进点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1745",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-063",
+      "originalTitle": "63. 为什么深度可分离卷积更适合移动端/端侧部署，核心优势是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1803",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-064",
+      "originalTitle": "64. 深度可分离卷积在训练时容易出现什么问题，如何解决？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1834",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-065",
+      "originalTitle": "65. 分组深度可分离卷积（Grouped Depthwise Separable Convolution）是什么，与普通深度可分离卷积有何区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1907",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处“分组深度可分离卷积”指对逐点通道混合施加分组。"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-066",
+      "originalTitle": "1.池化操作的核心目的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1945",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-067",
+      "originalTitle": "2.池化层在深度学习模型中主要解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1962",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-068",
+      "originalTitle": "3.池化操作为什么能提高模型的平移不变性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1979",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-069",
+      "originalTitle": "4.池化层是否会改变特征图的通道数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L1997",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-070",
+      "originalTitle": "5.池化操作是否需要训练参数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2018",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-071",
+      "originalTitle": "6.池化层能否缓解过拟合，为什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2035",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-072",
+      "originalTitle": "7.最大池化与平均池化在计算上的主要区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2055",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-073",
+      "originalTitle": "8.什么是全局平均池化（GAP），它在网络结构设计中的优势是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2079",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-074",
+      "originalTitle": "9.池化层的核心参数有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2104",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-075",
+      "originalTitle": "10.如何计算池化后输出特征图的大小？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-076",
+      "originalTitle": "11.为什么池化操作通常在卷积层之后使用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-077",
+      "originalTitle": "12.池化原理与下采样有什么区别和联系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2197",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-078",
+      "originalTitle": "13.最大池化在反向传播时梯度是如何分配的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-079",
+      "originalTitle": "14.池化操作对小目标检测任务有什么影响，该如何优化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-080",
+      "originalTitle": "15.当前轻量化深度学习网络中，传统池化层的使用趋势是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-081",
+      "originalTitle": "1. Transformer为何使用多头注意力机制？（为什么不使用一个头？）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-082",
+      "originalTitle": "2. Transformer为什么Q和K使用不同的权重矩阵生成，为何不能使用同一个值进行自身的点乘？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-083",
+      "originalTitle": "3. Transformer计算attention的时候为何选择点乘而不是加法？两者计算复杂度和效果上有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-084",
+      "originalTitle": "4. 为什么在进行softmax之前需要对attention进行scaled（为什么除以dk的平方根），并使用公式推导进行讲解？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-085",
+      "originalTitle": "5. 在计算attention score的时候如何对padding做mask操作？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-086",
+      "originalTitle": "6. 为什么在进行多头注意力的时候需要对每个head进行降维？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2518",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-087",
+      "originalTitle": "7. 大概讲一下Transformer的Encoder模块？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2559",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-088",
+      "originalTitle": "8. 为何在获取输入词向量之后需要对矩阵乘以 embedding size 的开方？意义是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2589",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-089",
+      "originalTitle": "9. 简单介绍一下Transformer的位置编码？有什么意义和优缺点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2616",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-090",
+      "originalTitle": "10. 你还了解哪些关于位置编码的技术，各自的优缺点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2647",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-091",
+      "originalTitle": "11. 简单讲一下Transformer中的残差结构以及意义？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2678",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-092",
+      "originalTitle": "12. 为什么Transformer块使用 LayerNorm 而不是 BatchNorm？LayerNorm 在 Transformer 的位置是哪里？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2708",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-093",
+      "originalTitle": "13. 简要讲一下BatchNorm技术，以及它的优缺点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2737",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-094",
+      "originalTitle": "14. 简单描述一下Transformer中的前馈神经网络？使用了什么激活函数？相关优缺点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2769",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-095",
+      "originalTitle": "15. Encoder端和Decoder端是如何进行交互的？（可结合seq2seq的attention知识说明）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2801",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-096",
+      "originalTitle": "16. Decoder阶段的多头自注意力和Encoder的多头自注意力有什么区别？（为什么Decoder自注意力需要进行 sequence mask）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2832",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-097",
+      "originalTitle": "17. Transformer的并行化体现在哪个地方？Decoder端可以做并行化吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2869",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-098",
+      "originalTitle": "18. 简单描述一下wordpiece model 和 byte pair encoding，有实际应用过吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2902",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-099",
+      "originalTitle": "19. Transformer训练的时候学习率是如何设定的？Dropout是如何设定的，位置在哪里？Dropout 在测试时需要有什么注意事项？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2931",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-100",
+      "originalTitle": "20. BERT的mask为何不学习Transformer在attention处进行屏蔽score的技巧？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2958",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处的 BERT mask 指 MLM 输入替换，不是 BERT 不使用注意力 padding 掩码。"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-101",
+      "originalTitle": "21. Transformer模型中自注意力机制的数学表达式是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L2984",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-102",
+      "originalTitle": "22. Transformer模型中的位置编码如何数学上表示？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3012",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-103",
+      "originalTitle": "23. 如何数学上表达编码器和解码器中的前馈神经网络（FFN）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3041",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-104",
+      "originalTitle": "24. Transformer模型中Layer Normalization的数学原理是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3067",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-105",
+      "originalTitle": "25. Transformer模型训练中的梯度裁剪是如何数学定义的，它为何重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3096",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-106",
+      "originalTitle": "26. 如何数学描述Transformer模型中的学习率预热策略？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-107",
+      "originalTitle": "27. Transformer模型中的残差连接如何数学表达，它们解决的问题是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3154",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-108",
+      "originalTitle": "28. 解释Transformer模型输出序列中的概率分布是如何计算的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3185",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-109",
+      "originalTitle": "29. 如何数学地表达Transformer中的“缩放点积注意力”机制？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3214",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-110",
+      "originalTitle": "30. Transformer模型中多头注意力机制的维度拆分是如何实现的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-111",
+      "originalTitle": "31. Transformer的位置编码如何使得模型具有顺序感知能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-112",
+      "originalTitle": "32. 如何理解Transformer模型中的“编码器-解码器注意力”机制？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3300",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-113",
+      "originalTitle": "33. Transformer的前馈网络（FFN）在模型中承担什么角色？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-114",
+      "originalTitle": "34. Transformer模型中的“注意力权重”是如何通过训练学习到的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3350",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-115",
+      "originalTitle": "35. Transformer模型中的参数共享策略具体是指什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-116",
+      "originalTitle": "36. 如何理解Transformer中的自回归属性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3398",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-117",
+      "originalTitle": "37. 为什么Transformer模型能够有效处理长距离依赖问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-118",
+      "originalTitle": "38. Transformer中的“负面注意力”（Negative Attention）是什么意思？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3448",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未给出 Negative Attention 对应的论文、模型或算子。"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-119",
+      "originalTitle": "39. Transformer中如何实现序列到序列的映射？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3474",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-120",
+      "originalTitle": "40. Transformer模型如何处理不同长度的输入序列？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-121",
+      "originalTitle": "41. 在Transformer模型中，如何优化内存使用以处理大型数据集？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3525",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-122",
+      "originalTitle": "42. Transformer模型训练完成后，如何评估其生成能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-123",
+      "originalTitle": "43. 什么是Transformer模型，它在哪一年被提出？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3577",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-124",
+      "originalTitle": "44. Transformer模型在哪些NLP任务中展现了显著的性能提升？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3601",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-125",
+      "originalTitle": "45. 相较于RNN和LSTM，Transformer模型的哪些特性使其更适合处理NLP任务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3631",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-126",
+      "originalTitle": "46. Transformer模型是如何被应用到非NLP任务中的？请举例说明。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3659",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-127",
+      "originalTitle": "47. Transformer的哪些变体或改进模型在工业界得到了广泛应用？（如BERT、GPT、T5等）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3687",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-128",
+      "originalTitle": "48. Transformer计算量最大的部分是哪里？如何优化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3711",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-129",
+      "originalTitle": "49. Transformer、LSTM和单纯的前馈神经网络相比，有哪些提升？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3737",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-130",
+      "originalTitle": "50. 有哪些处理超长文本的Transformer改进方法？各自的核心思路是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3763",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-131",
+      "originalTitle": "51. 深度学习中有哪些常用的注意力机制？与Transformer的自注意力有何区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3792",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-132",
+      "originalTitle": "52. 注意力机制计算时，QKV的维度必须相同吗？为什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3820",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-133",
+      "originalTitle": "53. Softmax在Transformer中起到什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3849",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-134",
+      "originalTitle": "54. 什么是Scaling-Law？Transformer的Scaling-Law有什么特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3874",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-135",
+      "originalTitle": "55. 为什么Transformer的Scaling能力比CNN强？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-136",
+      "originalTitle": "56. Transformer的输入包含哪些内容？各部分的作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3930",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-137",
+      "originalTitle": "57. ROPE（Rotary Position Embedding）位置编码有何特点？与原生位置编码相比有什么优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3957",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-138",
+      "originalTitle": "58. 多头注意力机制MHA是Transformer模型中的核心组件，KVCache和GQA优化的核心思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L3985",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-139",
+      "originalTitle": "59. 简要介绍下Transformer中的QKV，三者的关系是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4010",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-140",
+      "originalTitle": "60. Transformer训练和部署有哪些关键技巧？（结合工业界实际应用）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4037",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-141",
+      "originalTitle": "61. 简要介绍Transformer的Encoder模块和Decoder模块，两者的核心差异是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4062",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-142",
+      "originalTitle": "62. Transformer和Mamba(SSM)的区别是什么？各自的适用场景有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4091",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-143",
+      "originalTitle": "63. 介绍一下Transformer中KV Cache的原理，它能解决什么问题？有什么局限性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4118",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-144",
+      "originalTitle": "64. 工业界中，Transformer模型的量化、剪枝优化思路是什么？能带来什么收益？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4144",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-145",
+      "originalTitle": "65. 大模型时代，Transformer的架构优化方向有哪些？（如MoE、FlashAttention等）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-146",
+      "originalTitle": "66. Transformer中的Embedding层有什么作用？如何缓解词表稀疏问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-147",
+      "originalTitle": "67. 为什么Transformer在长序列任务中容易出现性能下降？如何改进？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-148",
+      "originalTitle": "68. 简要说明FlashAttention的核心原理，它如何优化Transformer的注意力计算效率？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4258",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-149",
+      "originalTitle": "69. Transformer模型中的Label Smoothing是什么？有什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4287",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-150",
+      "originalTitle": "70. 对比Transformer和CNN，两者在特征提取方式上有什么本质区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4317",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-151",
+      "originalTitle": "71. 请简要介绍 Transformer 模型以及它与传统的神经网络架构（如 RNN 和 LSTM）之间的主要区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4345",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-152",
+      "originalTitle": "72. Transformer 模型中的自注意力机制是如何工作的？可以解释一下“缩放点积注意力”吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-153",
+      "originalTitle": "73. 在 Transformer 中，位置编码的作用是什么？为什么要引入位置编码？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-154",
+      "originalTitle": "74. 请解释 Transformer 的多头注意力是如何实现并同时处理不同的信息子空间的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4434",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-155",
+      "originalTitle": "75. 在 Transformer 模型中，层归一化（Layer Normalization）和残差连接（Residual Connection）的目的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4466",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-156",
+      "originalTitle": "76. 为什么 Transformer 模型在处理序列数据方面比传统的 RNN 和 LSTM 模型有效率得多？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-157",
+      "originalTitle": "77. 可以描述一下在 Transformer 模型训练中常用的优化方法和训练技巧吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4535",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-158",
+      "originalTitle": "78. 请讨论一下 Transformer 模型用于序列生成任务（如机器翻译、文本生成）时，输出序列是如何生成的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4565",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-159",
+      "originalTitle": "79. 在深度学习中，过拟合是一个常见问题。在实际工作中，你是如何防止 Transformer 模型过拟合的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4594",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-160",
+      "originalTitle": "80. 使用 Transformer 模型时可能会遇到的内存和计算问题有哪些？又是如何解决的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4619",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-161",
+      "originalTitle": "81. Transformer 模型对于输入序列的长度有什么限制？如果要处理很长的序列，你会采取什么措施？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4648",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-162",
+      "originalTitle": "82. 在某些情况下，Transformer 模型可能并不是最佳选择。可以讨论一下在什么类型的任务或场景中可能会偏好其他模型而不是 Transformer 吗？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4677",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-163",
+      "originalTitle": "83. Transformer 模型的解释性通常被认为是一个挑战，你是否有什么见解或方法来理解模型的决策过程？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4699",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ARCHITECTURE-164",
+      "originalTitle": "84. 设想你需要在不同的硬件配置上部署 Transformer 模型。你会考虑哪些因素以及可能采用的优化策略？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md#L4725",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

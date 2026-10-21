@@ -1,0 +1,1239 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-2754",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 强化学习与对齐",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training",
+    "coding"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-001",
+      "originalTitle": "【强化学习基础】强化学习（RL）相关经验与理解：1. 是否了解RL？说说你的理解。2. 是否有大模型训练、RL训练经验？用过什么框架？3. 是否接触过SFT、RL训练等？4. 会考虑RL算法吗？5. 对Agent和RL了解如何？6. RL在博弈环境中的应用场景？项目中哪些问题适合用RL解决？7. RL的样本量是多少？ 「字节Seed、字节跳动、百度、美团、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2766",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-002",
+      "originalTitle": "【Action设计】State和action的设计：特征是否直接作为state？action是如何定义的？请结合具体设计方法说明。 「京东、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2771",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-003",
+      "originalTitle": "【DQN】介绍Q-learning和DQN 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2772",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-004",
+      "originalTitle": "【GAE】知道 GAE 吗? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2773",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-005",
+      "originalTitle": "【MDP】介绍贝尔曼方程；介绍马尔可夫决策过程；理解马尔可夫过程概念；计算马尔可夫决策过程的折扣因子γ阈值。 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2774",
+      "reviewStatus": "confirmed",
+      "reviewNote": "缺少状态转移、奖励与策略比较条件，无法计算阈值。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-006",
+      "originalTitle": "【PPO】问强化学习ppo/dpo/GRPO。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2775",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-007",
+      "originalTitle": "【RL vs SFT】强化学习和SFT的区别是什么？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2776",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-008",
+      "originalTitle": "【RL vs 模仿学习】强化学习和模仿学习的特点，两者的优劣？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2777",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-009",
+      "originalTitle": "【RL基础概念】对强化学习算法本身的认知，对其研究和落地怎么看？常用的有限状态机在决策中有何局限性？强化学习的损失函数是什么？怎么看待强化学习的未来？ 「百度文心、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2778",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-010",
+      "originalTitle": "【RL应用场景】1. 什么时候做强化学习？对游戏中的AI bot的了解。 2. 闭环条件是什么？ 「字节跳动、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2779",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“闭环”未说明指观测控制、训练评测还是部署反馈。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-011",
+      "originalTitle": "【RL算法概述】LLM中的强化学习了解吗？当前主流的强化学习算法有哪些？除了PPO、DPO和GRPO，还有哪些其他经典强化学习算法？DeepSeek用的是哪种？ 「字节Seed、百度、腾讯、腾讯混元、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2780",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-012",
+      "originalTitle": "【RL算法比较】请比较value-based方法（如Q-learning）和policy-based方法（如策略梯度）的优劣，并简述它们的主要区别，各举一个在金融领域的应用场景。 「腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2781",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-013",
+      "originalTitle": "【RL训练经验】强化学习有哪些常用技巧？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2782",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-014",
+      "originalTitle": "【多智能体RL】多智能体有哪些形式？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2783",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-015",
+      "originalTitle": "【奖励函数设计】强化训练中奖励函数如何起作用的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2784",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-016",
+      "originalTitle": "【策略梯度】策略梯度算法的公式？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2785",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-017",
+      "originalTitle": "【采样方法】rollout引擎在RL里到底干什么？强化学习的训练数据是怎么构建的？真实采样数量一定等于rollout数量吗？ 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-018",
+      "originalTitle": "介绍强化学习场景生成 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2792",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-019",
+      "originalTitle": "聊了在coding任务上的泛化性，小模型用RL训练做coding任务，是否会被Claude Code取代？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2793",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-020",
+      "originalTitle": "【Agentic RL】了解Agentic RL吗？针对你的Agent RL项目，Agent RL和普通的SFT有什么区别和难点？ 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2796",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-021",
+      "originalTitle": "【DQN】DQN相关问题：1. 写一下DQN的伪代码。2. 强化学习中的Q值是怎么学习的，讲解TD loss。 「字节跳动、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2797",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-022",
+      "originalTitle": "【GAE】GAE的原理是什么？它有哪些参数（如λ）？一般如何调参？为什么λ经常设置成0.95？ 「字节Seed、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2798",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-023",
+      "originalTitle": "【On-policy vs Off-policy】请解释on-policy和off-policy的区别、各自的优缺点以及适用场景；能否混搭policy/Off-policy？ 「腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2799",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-024",
+      "originalTitle": "【PPO】为什么策略更新幅度大了就会不好？以及为什么clip比trust region更实用？ 「京东、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2800",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-025",
+      "originalTitle": "【RL vs 模仿学习】为什么要分为模仿学习和强化学习两个阶段？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2801",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-026",
+      "originalTitle": "【RL算法概述】了解AGI相关的强化学习算法吗(RLHF/PPO等)? 传统强化了解多少？reinforce++了解吗？有提到借鉴了Transformer的作为强化学习的编码器，那么Transformer在其中起到了什么作用？和提到的LSTM的优劣是什么？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2802",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-027",
+      "originalTitle": "【RL算法选型】RL算法选型要考虑哪些因素? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2803",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-028",
+      "originalTitle": "【RL训练经验】RL训练经验相关问题：1. 做到什么程度可以进行RL？2. 同步RL的代价？3. 同轨迹策略版本不一致？4. 如何理解RL初期可能出现reward先下降，然后逐步上升的状态？5. 强化学习梯度传播的问题，有没有用detach？6. 强化学习的灾难性遗忘的问题。7. RL训练前期学不动怎么办？8. 为什么使用强化学习会存在训练不稳定问题？9. 做RL时同组内样本差别不大怎么处理？ 「京东、字节跳动、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2804",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-029",
+      "originalTitle": "【优势函数】RL中为什么要用优势函数(advantage)，而不直接用原始奖励？ratio、advantage、returns分别如何理解？V_target怎么来的？为什么要使用多步时序估计优势？ 「字节跳动、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2805",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-030",
+      "originalTitle": "【信用分配】RL的信用分配是怎么做的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2806",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-031",
+      "originalTitle": "【分层RL】为什么设计分层强化学习的框架？上下层的奖励维度一致吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2807",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-032",
+      "originalTitle": "【奖励函数设计】奖励函数设计相关问题：1. RL过程中有没有遇到reward hacking问题？如何解决？2. 可不可以直接把reward作为loss？3. 对于你做过的xxx项目，为什么不做RL，如果用RL，reward怎么设计？ 「字节Seed、字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2808",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-033",
+      "originalTitle": "【熵坍塌】熵坍塌是什么现象，如何判断，以及在RL训练中如何解决？ 「百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2809",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-034",
+      "originalTitle": "【采样方法】采样方法相关问题：1. 在强化学习训练中，样本量的选择是否影响到模型的收敛速度？如果有，如何应对？2. 如何做reject sampling？3. 模型出的轨迹是直接执行还是用作启发？4. 模型的anchor，如何得到质量更好的轨迹？ 「字节跳动、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2810",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未定义轨迹类型、anchor含义及质量目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-035",
+      "originalTitle": "【重要性采样】OffPolicy策略要求采样的策略(旧策略)和训练的策略(新策略)差异不能过大，否则会导致采样数据不准确，影响训练效果。为什么需要重要性采样？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2811",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-036",
+      "originalTitle": "【Agentic RL】Agentic RL相关问题：1. 为什么多轮Agentic RL会存在信用分配（credit assignment）问题？2. 使用RL训练Agentic模型需要处理哪些问题？3. 比较Agentic RL与传统RL的异同。4. 给定一个query，描述Agentic RL的完整训练流程，包括Agent loop如何运行：模型输出、工具调用、工具返回、上下文拼接、继续生成等步骤如何衔接？5. 在异步Agentic RL中，如何补偿策略滞后（policy lag）或离策略（off-policy）问题？ 「字节跳动、拼多多、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2816",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-037",
+      "originalTitle": "【DeepSeek-R1】了解DeepSeek-R1吗？请介绍其训练阶段。 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2817",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-038",
+      "originalTitle": "【RL应用场景】RL应用场景相关问题：1. 假如你对 grounding 任务做 rl，需要注意什么。(grounding 专门的奖励，可以用 IOU)？2. 在论文中，使用强化学习算法，如何考虑部署到真实场景中，如何解决这个gap？3. 开放问答，不知道那些关键要点在哪里，要从海量数据里面得到，实际业务中要怎么设计强化学习？4. 谈谈你对端到端规划或基于强化学习的决策的看法？现阶段它能否完全替代规则式规划？ 「字节跳动、百度、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2818",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给业务反馈或可验证条件，无法确定具体奖励函数。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-039",
+      "originalTitle": "【RL算法概述】RLEP算法的核心特性与工作原理是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2819",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-040",
+      "originalTitle": "【RL算法选型】MoE 你用什么 rl 算法，讲解原理？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2820",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-041",
+      "originalTitle": "【RL训练经验】和使用强化学习训练大模型相比，使用强化学习训练小模型需要做出哪些改变？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2821",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-042",
+      "originalTitle": "【多智能体RL】多智能体RL相关问题：1. 介绍局部博弈算法。2. 问QMIX，具体怎么做的，介绍RiskQ论文。问RiskQ论文中，针对场景中需要变化风险策略的怎么做。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2822",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明所问算法、参与者信息或博弈设定。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-043",
+      "originalTitle": "【奖励函数设计】Reward的梯度是怎么传到车辆的位移上的？手写奖励模型与策略梯度更新。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2823",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-044",
+      "originalTitle": "【采样方法】如果某些轨迹rollout特别长,应该丢弃、截断、异步处理,还是复用?各有什么代价? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2824",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-045",
+      "originalTitle": "【重要性采样】手撕:sequence importance sampling和token importance sampling 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2825",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-046",
+      "originalTitle": "【RLHF了解程度】对RLHF了解的多吗？我看你简历上没写RLHF，平常有用过RLHF吗？是否做了SFT或强化学习相关工作？有没有做人类偏好对齐？ 「百度、腾讯、腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2832",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-047",
+      "originalTitle": "【Agentic RL】是否了解Agentic RL？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2837",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-048",
+      "originalTitle": "【RLHF】RLHF整体流程与原理：包括Reference模型作用、偏好数据收集与奖励模型训练、SFT与RL目标对比、RLHF引入条件、RLHF相比SFT成本与提升幅度、非技术解释、对齐整体思路与SFT差别。具体变体：1. Reference模型的作用是什么？2. 讲一下RLHF的基本流程，并说明之前是否用RLHF做过模型对齐。3. RLHF相比SFT，训练成本高多少？4. RL阶段提升多少？5. 作为项目核心成员，你如何向非技术背景的产品经理或业务方清晰地解释RLHF的原理？6. 偏好数据集怎么收集，reward model怎么训？7. 后训练中SFT和RL的目标有什么不同？8. 在什么情况下需要引入RLHF或DPO？9. 在做对齐时，为什么SFT之后还要做RLHF？只用SFT可以吗？请说明RLHF的训练流程。10. 对齐（RLHF/DPO等）整体思路是什么：为什么需要偏好对/奖励信号？相对纯SFT主要差别在哪里？ 「字节跳动、拼多多、百度、百度文心、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2838",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-049",
+      "originalTitle": "【Advantage计算】大模型中的advantage如何计算？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2843",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-050",
+      "originalTitle": "【Agentic RL rollout停止条件】多轮Agentic RL里，什么时候停止rollout？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2844",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-051",
+      "originalTitle": "【Critic模型】Critic模型的作用是什么？它是如何训练的？为什么有了reward model还需要critic model？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2845",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-052",
+      "originalTitle": "【KL散度在RLHF中的作用】KL散度在RLHF的训练目标中扮演什么角色？如何直观理解其公式所衡量的差异？KL散度前的系数有什么含义，应该怎么设置？ 「腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2846",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-053",
+      "originalTitle": "【KL系数β影响】实际训练中，KL系数β太大 / 太小分别会出现什么现象？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2847",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-054",
+      "originalTitle": "【R1冷启动】R1在SFT时冷启动的目的是什么？ 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2848",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-055",
+      "originalTitle": "【RLHF流程与原理】请完整阐述RLHF（基于人类反馈的强化学习）的实施流程，包括预训练模型、SFT（监督微调）、奖励模型构建（训练目标及方法）、强化学习优化（如PPO算法原理）等环节，并说明PPO中的value model和reward model如何训练，以及RLHF的三个主要阶段。同时，详细说明RLHF的做法，包括PPO算法的原理，以及DPO和PPO的区别。 「字节Seed、字节跳动、百度、百度文心、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2849",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-056",
+      "originalTitle": "【RLHF符合人类偏好原理】为什么能让模型更符合人的偏好？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2850",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-057",
+      "originalTitle": "【RLHF算法对比】讲一下RLHF的流程，写一下PPO和DPO的LOSS表达式。在RLHF中，目前主流的强化学习算法有哪几个，写一下损失函数的表达式。 「腾讯、腾讯混元、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2851",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-058",
+      "originalTitle": "【RLVR奖励设计】方法中提到的RLVR，reward怎么设计和计算的，单单是二元？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2852",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-059",
+      "originalTitle": "【RL数据设计】rl的数据怎么设计，可以复用sft的数据吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2853",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-060",
+      "originalTitle": "【RL格式崩溃原因】在RL的时候，格式崩溃的原因是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2854",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-061",
+      "originalTitle": "【RL监控指标】rl过程需要监控哪些指标？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2855",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-062",
+      "originalTitle": "【RL相比SFT的收益】RL相比SFT的收益体现在哪里？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2856",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-063",
+      "originalTitle": "【RL阶段数据与环境】RL阶段会需要什么样的数据和环境？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2857",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-064",
+      "originalTitle": "【RL阶段概率分布偏置】还是RL阶段把概率分布训偏了？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2858",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“还是”追问缺少所指现象与分布。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-065",
+      "originalTitle": "【Rollout采样任务完成保证】怎么保证 Rollout 采样时模型能成功完成预期任务？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2859",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-066",
+      "originalTitle": "【SFT与RL关系】SFT冷启动和后续RL的关系是什么？为什么很多RL任务前需要SFT冷启动？是否有证明Cold-Start SFT后再RL的模型比只RL的模型效果更好？为什么要做SFT，有什么好处？SFT训练达到何种效果指标或阶段后，才适合进入RL优化阶段？为什么构造了推理类Reasoning训练数据后，还需要接入RL训练？只SFT可以吗？为什么要做RL而不做SFT？介绍SFT与RL（如GRPO、PPO）的关系，为什么SFT之后还需要进行RLHF/DPO等对齐训练？仅使用SFT存在哪些局限性？只SFT可以吗？ 「字节Seed、字节跳动、美团、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2860",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-067",
+      "originalTitle": "【SFT与RL区别】SFT和RL（包括RLHF）最大的区别是什么？分别适用于什么场景？如果要改变一个模型的人设（例如对自身的认知），应该使用哪种训练方式？ 「字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2861",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-068",
+      "originalTitle": "【SFT与RL实现方式】追问1：分别用SFT和RL怎么实现上述想法？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2862",
+      "reviewStatus": "needs_review",
+      "reviewNote": "被引用的“想法”没有对应的前文。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-069",
+      "originalTitle": "【Value Model必要性】能不能不用 Value Model？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2863",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-070",
+      "originalTitle": "【Verifier的作用】为什么要用verifier？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2864",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-071",
+      "originalTitle": "【价值观对齐技术路径】在进行大模型价值观对齐时，除了RLHF，还有哪些技术路径？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2865",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-072",
+      "originalTitle": "【正向KL与反向KL区别】正向KL和反向KL在大模型RL里有什么不同？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2866",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-073",
+      "originalTitle": "【负向奖励权重系数确定】在RLHF中引入负向奖励Penalty时，如何确定惩罚项的权重系数? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2867",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-074",
+      "originalTitle": "【防止堆字数刷奖励】在RLHF训练中，如何防止模型通过单纯增加输出长度（堆字数）来刷高奖励分数？ 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2869",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-075",
+      "originalTitle": "【Agentic RL训练效率与长尾轨迹优化】Agentic RL中影响训练效率的因素有哪些？工具调用、API请求、沙箱执行成为瓶颈时，可以怎么优化？多轮Agentic RL是否遇到过推理耗时和长尾轨迹？有哪些优化方法？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2874",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-076",
+      "originalTitle": "【Agent评测指标与RL目标对齐】大模型Agent自动化评测指标与RL训练目标如何实现对齐？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2875",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-077",
+      "originalTitle": "【DAPO训练框架】介绍自己在快手的工作，我讲了如何训练reward model，如何在rl时进行信用分配，被问到训练框架，让我介绍dapo？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2876",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-078",
+      "originalTitle": "【GRPO奖励函数设计】SFT效果怎么评估，为什么还要做GRPO，GRPO奖励函数设计，为什么要这么设计，为什么不直接SFT做到底？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2877",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-079",
+      "originalTitle": "【R1参考模型选择】R1流程里为什么在冷启动+RL后得到那个80W数据集后重头用V3做reference model，而不是冷启动+RL后的model？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2878",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-080",
+      "originalTitle": "【Reward Hacking及解决方案】RLHF训练中容易出现reward hacking，请解释其原因，并特别说明只用用户点击作为奖励信号时，为什么会产生分布偏移？如何发现并解决reward hacking问题？同时，还有哪些其他潜在风险（如过拟合等）？ 「字节跳动、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2879",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-081",
+      "originalTitle": "【RLHF流程与算法对比】请详细讲解RLHF的流程，并对比PPO、DPO、GRPO、KTO等后训练方法的原理、Loss形式、优缺点、适用场景及落地场景；特别说明PPO与DPO的区别、PPO与GRPO的区别、DPO的数据构造方式及优势函数、如何平衡PPO的探索性与确定性；同时介绍NF4量化、双重量化、分页优化器等创新点。请详细说明你使用过的人类反馈强化学习框架，并阐述其在数据收集、奖励模型训练、策略优化等环节的关键技术点。 「京东、百度、腾讯、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2880",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-082",
+      "originalTitle": "【RLVR缺陷】了解RLVR的缺陷吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-083",
+      "originalTitle": "【RL训练异常定位】遇到 reward 异常、熵崩溃、显存不足或吞吐下降时，能不能定位原因？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2882",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-084",
+      "originalTitle": "【反向KL在对齐中的应用】为什么对齐几乎都用反向KL? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2883",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-085",
+      "originalTitle": "【多轮对话Reward Shaping】在多轮对话的RL训练中，如何设计Reward Shaping，以平衡单轮回复质量与全局任务达成率? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2884",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-086",
+      "originalTitle": "如果落到代码实现，GRPO的流程原理是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2897",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-087",
+      "originalTitle": "【GRPO基本认知】是否了解GRPO？GRPO听说过吗？GRPO是什么？用过GRPO么？ 「美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-088",
+      "originalTitle": "【DeepSeek-V3强化学习方法】DeepSeek-V3使用的强化学习方法是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2908",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-089",
+      "originalTitle": "【GRPO/DAPO on/off-policy】GRPO/DAPO是on-policy还是off-policy思路? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2909",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-090",
+      "originalTitle": "【GRPO与PPO对比】相比PPO省略了哪一步? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2910",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-091",
+      "originalTitle": "【GRPO与SFT关系】GRPO跟SFT的关系 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2911",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-092",
+      "originalTitle": "【GRPO动机】论文里为什么用GRPO？直接用GRPO不行吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2912",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未提供论文身份及被比较的训练路线。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-093",
+      "originalTitle": "【GRPO奖励设计】GRPO的reward是每一条序列一个还是每个token一个？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2913",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-094",
+      "originalTitle": "【PPO returns定义】大模型里面的PPO，returns是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2914",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-095",
+      "originalTitle": "【PPO损失组成】抛开实际应用场景，PPO算法的损失包含哪几部分？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2915",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-096",
+      "originalTitle": "【PPO裁剪系数】你说用了PPO，那具体的clip系数设置多少？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2916",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-097",
+      "originalTitle": "【DAPO KL散度】DAPO 如何处理 KL 散度惩罚？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2921",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-098",
+      "originalTitle": "【DAPO动态采样】DAPO的动态采样为什么能提升训练效率？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2922",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-099",
+      "originalTitle": "【DecoupledPPO】DecoupledPPO？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2923",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-100",
+      "originalTitle": "【GRPO】GRPO原理、公式推导、优势计算、损失函数、奖励设计、熵与样本理解、group大小影响、改进点、细节、初始loss为0原因、batch size影响、采样与相对优势。详细讲解GRPO的公式、原理和训练流程，包括KL散度的计算方法。 「京东、字节Seed、字节跳动、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2924",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-101",
+      "originalTitle": "【GRPO/DAPO组处理】DAPO/GRPO 如何处理全对（全1）或全错（全0）的 group？ 「字节Seed、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2925",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-102",
+      "originalTitle": "【GRPO/DPO/PPO比较】GRPO、DPO、DAPO区别是什么？GRPO与DPO、PPO的区别、优劣势，以及是否了解GRPO并有相关训练经验？GRPO与PPO在RLHF中的核心区别是什么？GRPO相比PPO有哪些改进和优缺点？为什么GRPO可以不单独使用Critic？GRPO在稳定性或样本效率上有什么区别？什么情况下使用GRPO效果会不好？GRPO相比PPO、DPO的优势是什么？DAPO相比GRPO的核心改进是什么？GRPO相比传统RL或SFT的优势在哪里？ 「京东、字节Seed、字节跳动、百度、美团、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2926",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-103",
+      "originalTitle": "【GRPO与PPO稳定性对比】GRPO和PPO哪个训练更稳定？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2927",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-104",
+      "originalTitle": "【GRPO优势基线】GRPO在计算Advantage时，Baseline是如何选取的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2928",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-105",
+      "originalTitle": "【GRPO公式】GRPO公式是什么? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2929",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-106",
+      "originalTitle": "【GRPO冷启动】GRPO前有没有冷启动过程。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2930",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-107",
+      "originalTitle": "【GRPO原理与模型】DeepSeek的GRPO（Group Relative Policy Optimization）是如何实现的？为什么能进行组优化？GRPO用到了哪些模型？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2931",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-108",
+      "originalTitle": "【GRPO均值计算】GRPO 均值怎么算的? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2932",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-109",
+      "originalTitle": "【GRPO无需价值模型】GRPO为什么不需要价值模型（value model）和单独训练的奖励模型（reward model）？ 「字节跳动、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2933",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-110",
+      "originalTitle": "【GRPO权重粒度】GRPO了解嘛？GRPO目前函数的权重是token level的还是序列level的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2934",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-111",
+      "originalTitle": "【GRPO模型角色】GRPO中 old policy、reference model、policy model分别起什么作用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2935",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-112",
+      "originalTitle": "【GRPO裁剪与KL散度】GRPO中clip和kl散度约束作用和区别。GRPO中 KL或reference penalty的作用是什么? 「字节跳动、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2936",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-113",
+      "originalTitle": "【GRPO适用任务】GRPO为什么更适合数学/代码类任务？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2937",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-114",
+      "originalTitle": "【PPO】PPO公式、clip机制与KL约束区别、clip原因、epsilon衰减、优势计算与Critic更新、重要性采样作用、算法流程与训练实践。追问：PPO相比其他强化学习算法的优势具体体现在什么方面？ 「京东、字节跳动、百度、百度文心、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2938",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-115",
+      "originalTitle": "【PPO/DPO/GRPO对比】PPO、DPO、GRPO三种算法的不同之处、原理公式、区别。 「京东、字节跳动、百度、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2939",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-116",
+      "originalTitle": "【PPO与GRPO对比与细节】GRPO与PPO在RLHF中的核心区别、优化思想、奖励迁移、优势计算、重要性采样、技术选型、框架改动、异步rollout、样本效率、GRPO问题、监控指标、奖励来源与超参调整、数据构造、算法消融。 「字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2940",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-117",
+      "originalTitle": "【PPO流程与计算】分析PPO算法各部分在流程中的位置以及具体计算方式。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2941",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-118",
+      "originalTitle": "【PPO裁剪机制】Clip机制如何起到Trust Region的约束效果？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2942",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-119",
+      "originalTitle": "【损失函数计算】MSE损失，GAE损失，大模型里面怎么算 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2943",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-120",
+      "originalTitle": "Token在PPO和GRPO当中是如何被计算的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2949",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-121",
+      "originalTitle": "VAPO（Value-based Alignment PPO）去掉Reference Model后，如何防止模型Collapse？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2950",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-122",
+      "originalTitle": "verl框架中，你关心GRPO的什么指标？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2951",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-123",
+      "originalTitle": "两个指标如何融合成权重调制token优势值，修改发生在GRPO哪个步骤？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2952",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未给出两个指标的定义、融合公式与所属方法。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-124",
+      "originalTitle": "为什么DAPO去掉了？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2953",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明所指的 KL 项、模块或配置。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-125",
+      "originalTitle": "为什么PPO不是离线的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2954",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-126",
+      "originalTitle": "为什么PPO公式中除了Clip之外，还需要再计算一次mean？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2955",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-127",
+      "originalTitle": "为啥PPO叫PPO？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2956",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-128",
+      "originalTitle": "什么场景下会回退使用PPO？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2957",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-129",
+      "originalTitle": "什么是staleness？Staleness-Aware Decoupled PPO如何兜住？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2958",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-130",
+      "originalTitle": "介绍DAPO、GRPO的目标函数。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2959",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-131",
+      "originalTitle": "介绍实习中用到的蒙特卡罗树，对比GRPO呢？它本身也可以thinking，cot的数据是怎么构造的，最初的是哪来的？模型自己生成，为什么不用更高维的模型生成数据？原有模型会有固定的思考方式，会影响效果，这种方式是自己想的还是改进的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2960",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题没有给出个人方法的定义，无法确认是否涉及独立的新算法。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-132",
+      "originalTitle": "写出PPO的算法公式，解释损失函数各部分（如clip、ratio、advantage、returns等），核心思想是什么？比较TRPO和PPO。解释PPO在RLHF中的应用原理，讨论训练稳定性问题及解决方案。强化学习的发展历程，详细介绍PPO各个流程以及损失函数，GAE主要解决什么问题？ 「字节跳动、百度、美团、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2961",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-133",
+      "originalTitle": "【GRPO】GRPO相关问题：1. 在训练GRPO时是否应该更新rollout的mllm？2. 多轮、长轨迹场景下GRPO可能存在的问题。3. 如何判断GRPO训练正常收敛，是否有Reward hacking？4. 如何在GRPO提升输出的可解释性？5. 如果强行用GRPO，奖励函数应如何设计？6. 代码实现GRPO全流程：如何组织rollout、reward、logprob、advantage、loss和update？7. 推导GRPO公式，重点说明Advantage的计算方式；为什么GRPO不需要Critic模型？8. 消除GRPO算法的高方差和不稳定性问题。9. 用GRPO做后训练过程中遇到的典型或较难的问题。10. 用GRPO训练MoE模型经常效果不好，为什么？11. 基于DAPO：为什么对于长CoT加更多权重就会有用？12. 改GRPO的工作和OPD的区别是什么？13. 怎么造高质量数据？怎么改GRPO？ 「京东、字节Seed、字节跳动、百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2964",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未提供“改GRPO的工作”的算法或实现细节。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-134",
+      "originalTitle": "【GRPO/DAPO/GSPO对比】GRPO、DAPO、GSPO的对比与改进：1. DAPO相比GRPO做了哪些改进？列举创新点，并说明GRPO的缺陷及DAPO如何改进。2. DAPO把零奖励样本剔除后，会不会限制模型学习困难样本？解决思路？3. GRPO和GSPO分别做了什么优化？区别是什么？4. GSPO和GRPO的gap怎么理解？实际训练时为什么GSPO效果更优？两者显存占用如何？5. GSPO相比GRPO，在长序列推理任务（数学证明、代码生成）中如何缓解方差过大？6. 了解GRPO、DAPO、GSPO的详细改进。 「字节Seed、字节跳动、拼多多、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2965",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-135",
+      "originalTitle": "【GRPO公式推导】共享屏幕写出来GRPO的每个计算步骤(大致公式)，并解释其中kl散度怎么计算的，adv函数怎么计算，token级别的损失怎么计算的。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2966",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-136",
+      "originalTitle": "【GRPO对比与调优】谈论下GRPO相比DPO的优缺点，什么情况下二者几乎等同。（追问）你认为GRPO的局限性有哪些？如何克服？（追问）如何调优GRPO的超参数来改善训练效果？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2967",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-137",
+      "originalTitle": "【GRPO损失与张量形状】GRPO损失计算细节：1. 手撕GRPO loss，讲各个tensor的shape。2. GRPO公式中已有clip，为什么还需要mean计算？mean如何计算？如何改进？3. GRPO和PPO计算KL散度的区别，KL散度的几种估计方法，放在reward里和loss里有什么区别？4. GRPO的重要性采样为什么是p1/p0？为什么不是其他形式？ 「京东、字节跳动、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2968",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-138",
+      "originalTitle": "【GRPO改进】你改进的GRPO是怎么改的，希望达到什么效果？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2969",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-139",
+      "originalTitle": "【GRPO训练现象】GRPO训练问题与现象：1. GRPO中当某个问题的所有采样都正确或错误时优势为0，导致梯度消失，降低样本效率。2. GRPO信用分配问题。3. GRPO样本级损失计算，在长CoT场景中对长序列的token贡献分配不均导致高质量样本学习不足、低质量样本惩罚不足。4. GRPO每次用组最优的行为会有什么问题？5. GRPO的rollout没多样性，怎么办？6. GRPO训练为什么loss会先上升再下降？7. GRPO训练出来的模型倾向于输出很长的response是为什么？8. GRPO训练出现熵崩怎么办？做GRPO遇到熵崩没有？9. GRPO训练过程中，如果Group内所有样本的Reward都非常低，即全负样本，算法会如何更新？ 「字节跳动、百度、美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2971",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-140",
+      "originalTitle": "【GRPO训练问题】你怎么解决GRPO训练里出现reward全0的情况？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2972",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-141",
+      "originalTitle": "【GRPO长文本倾向】从GRPO公式角度来看，为什么会倾向于生成长篇大论？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2973",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-142",
+      "originalTitle": "【PPO clip机制】PPO的clip机制如何工作？它解决什么问题？分情况讨论哪些token会在实际训练中贡献梯度？ 「百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2974",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-143",
+      "originalTitle": "【PPO KL散度替代】PPO的KL散度可以改成交叉熵吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2975",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-144",
+      "originalTitle": "【PPO与DPO实现】手撕PPO和DPO。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2976",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-145",
+      "originalTitle": "【PPO与GRPO对比】PPO、DPO、GRPO、DAPO的改进与区别？PPO和GRPO的核心区别？PPO和GRPO用的什么KL（有偏/无偏），作为reward shaping和trust region约束的本质区别？PPO计算过程，GRPO计算过程，Value是什么？PPO里GAE如何估计，和MC区别？RL中rollout采样次数如何设置？RL的loss是什么，奖励怎么设计？奖励是最后统一计算还是分摊到每一步token？rollout很贵时能否一批数据多次更新？off-policy问题？Token-Level Policy Gradient Loss（针对长CoT的token级损失优化，直接对所有token损失求平均，确保每个token贡献更均衡）。On-policy蒸馏和GRPO比，什么时候用蒸馏更合适？SFT、RL、OPD区别和使用场景？什么是熵坍缩？改进方法？GRPO相较于PPO的改进？GRPO训练过程？GRPO存在的问题及后续改进？为什么选择GRPO而不是PPO？介绍GRPO的原理。 「京东、字节跳动、百度、百度文心、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2977",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-146",
+      "originalTitle": "【PPO原理与细节】详细介绍PPO的原理，包括整体训练流程、数据、如何训练奖励模型、每个模型的损失函数、在几张卡上训练？解释PPO里重要性采样、clip函数的作用，DAPO对clip做了什么优化？输入和输出是什么？PPO的训练的loss是怎么融入到PPO的训练过程中的？为什么论文都是这种数据组织方式？和联网搜索相比有什么优点？轨迹新旧混杂情况怎么解决的？（追问）PPO中的奖励函数设计对最终模型表现有什么影响？ 「字节Seed、字节跳动、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2978",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未说明比较的是训练数据、部署工具还是任务求解。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-147",
+      "originalTitle": "【PPO模型与价值函数】PPO中优势函数（advantage）如何计算？价值函数如何进行价值估计？PPO整体训练流程中，critic model和reward model的区别？PPO的critic model怎么训练？作用是什么？PPO训练时需要哪几个模型（Actor、Reward、Critic、Ref）？各自作用？哪些模型可以共用？哪些模型更新时不变，哪些需要更新？ 「京东、字节Seed、字节跳动、百度、美团、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2979",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-148",
+      "originalTitle": "【RLHF算法对比】请对比PPO、DPO、GRPO、DAPO、GSPO这五种RLHF算法，包括：各自的基本原理、目标函数/损失函数、优势函数公式、发展流程（如需要几个模型）、主要区别、各自的优缺点、为什么PPO的上限比DPO高、为什么要用GRPO、以及在实际工程中分别适合什么场景？ 「字节跳动、百度、百度文心、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2981",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-149",
+      "originalTitle": "【VERL框架适配DAPO】你觉得VERL框架如果用DAPO该改哪些地方？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2982",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-150",
+      "originalTitle": "【CoT长度控制】追问3：增加惩罚项会导致无差别缩短平均CoT长度，但复杂场景下需要CoT更长才能保证推理效果，怎么办？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2987",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-151",
+      "originalTitle": "【DAPO完整实现】手撕DAPO整个过程，包括奖励函数、组内均值、优势函数以及loss，外部套一层动态采样；原记录未说明是否包含Soft IoU计算。部分场次要求手撕DAPO，未写出则需打开论文对着公式详细讲并提问clip的作用。 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2988",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-152",
+      "originalTitle": "【GRPO训练流程设计】针对推理链BadCase，如果想用GRPO来解决，完整的训练流程应该如何设计？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2989",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-153",
+      "originalTitle": "【DPO原理与应用】介绍DPO（Direct Preference Optimization）的原理、适用任务及与SFT的关系。变体：1. 为什么要用DPO，只做SFT不行么？2. 什么任务适合DPO？3. 介绍DPO。4. 在项目中你用过DPO吗？ 「京东、字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2996",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-154",
+      "originalTitle": "【强化学习算法对比】介绍并对比DPO、PPO、GRPO、REINFORCE等强化学习算法。变体：1. 介绍DPO、PPO、GRPO算法。2. 除DPO外了解的强化学习算法：如PPO、GRPO、REINFORCE等。 「百度、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2997",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-155",
+      "originalTitle": "【Bradley-Terry模型】Bradley-Terry模型怎么推导的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3002",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-156",
+      "originalTitle": "【DPO与其他算法对比】DPO与其他算法对比：DPO相比SFT有哪些优劣？分别适合什么场景，解决什么问题？DPO、GRPO、SFT三者核心区别是什么？DPO算不算对比学习？GRPO与DPO对比：区别是什么？GRPO比DPO少了哪个模块？PPO与DPO在大模型对齐中的主要区别是什么？DPO训练注意事项有哪些？为什么一些团队会从PPO转向DPO？为什么不用GRPO训练，而是用DPO训练？为什么用GRPO不用DPO？在业务中如何使用DPO？为什么这样设计？在不同项目中应用DPO有哪些区别？为什么不用一些经典的强化学习方法如PPO？ 「京东、字节跳动、百度、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3003",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-157",
+      "originalTitle": "【DPO原理】DPO原理：DPO为什么不需要单独训练一个奖励模型？DPO是怎么做的？DPO是怎么训练的？DPO有KL散度吗？它是如何去掉奖励函数的？DPO的流程是怎样的，有什么作用，为什么不能和参考模型分布相差太远？DPO算法是怎么实现的，和其他强化学习有什么区别？请介绍DPO（Direct Preference Optimization）算法的原理。你了解其他强化学习吗？介绍一下DPO的流程和损失函数的细节。请描述DPO的流程。 「京东、字节Seed、字节跳动、百度、百度文心、美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3004",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-158",
+      "originalTitle": "【DPO在线采样】DPO为什么不用在线采样？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3005",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-159",
+      "originalTitle": "【DPO奖励类型】DPO-reward用pointwise还是pairwise？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3006",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-160",
+      "originalTitle": "【DPO局限性】DPO有什么不足？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3007",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-161",
+      "originalTitle": "【DPO损失函数推导】DPO损失函数公式是什么？其中π/π_ref比值具体如何写？如何构造偏好对？与基于人类真实反馈的RLHF有什么区别？DPO的原理、损失函数如何计算？优缺点和相关变种有哪些？请手撕DPO损失函数实现：dpo_loss(policy_chosen_logps, policy_rejected_logps, ref_chosen_logps, ref_rejected_logps, beta=0.1) -> Tensor，其中参数为策略模型和参考模型对选中/拒绝回复的对数概率(B,)，beta为温度缩放因子，返回标量损失，约束为L = -log(sigmoid(beta * ((pi_c - ref_c) - (pi_r - ref_r)))).mean()。 「京东、字节Seed、字节跳动、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3008",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-162",
+      "originalTitle": "【DPO数据构造】DPO的数据如何构造正负样本（偏好对）？如果数据量不够，有什么构造方法？请结合你的实际数据集构造过程进行介绍。 「字节跳动、百度、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3009",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-163",
+      "originalTitle": "【DPO训练技巧】DPO训练技巧：DPO训练涉及的trick有哪些？DPO与SFT在训练上有什么不同？训练了几个模型？DPO训练过程中和结束后，通常看哪些指标来判断模型是否训练好？DPO训练过程涉及的模型及各自的作用。DPO训练通常有哪些注意事项？ 「百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3010",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-164",
+      "originalTitle": "【GDPO】GDPO解决的问题：如梯度对齐、偏好噪声等。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3012",
+      "reviewStatus": "needs_review",
+      "reviewNote": "GDPO存在Geometric-Averaged Preference Optimization、Group reward-Decoupled Normalization Policy Optimization、Group Diffusion Policy Optimization等同简称方法；来源没有给出区分线索。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-165",
+      "originalTitle": "【GSPO算法】介绍GSPO算法。 「字节跳动、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3013",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-166",
+      "originalTitle": "【ATPO算法】ATPO算法的核心特性、工作原理是什么？其与RLEP的差异有哪些？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3018",
+      "reviewStatus": "confirmed",
+      "reviewNote": "同简称方法存在Agentic Turn-based、Adaptive Tree医疗对话、Adaptive Trajectory扩散模型等路线；原文只有简称和公司，无法唯一确定所指。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-167",
+      "originalTitle": "【DAPO与GSPO】DAPO和GSPO的改进是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3019",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-168",
+      "originalTitle": "【DPO与其他算法对比】请详细比较DPO、PPO、GRPO、DAPO、GSPO等算法的原理、损失函数、优势函数设计、区别、优势与劣势，并解释DPO的探索如何体现；为什么PPO效果可能比DPO强，多轮DPO为何有提升；同时使用DPO和GRPO的设计原因及实验验证合理性；理论推导DPO的目标函数；介绍tag level与DAPO的区别；项目为什么不用DPO而用GRPO？ 「京东、字节跳动、百度、百度文心、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3020",
+      "reviewStatus": "confirmed",
+      "reviewNote": "tag 未说明对应 token、turn、任务或其他粒度。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-169",
+      "originalTitle": "【DPO变种与KL散度】DPO变种了解嘛，DPO的KL散度是如何定义的？DPO是如何choose和reject的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3021",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-170",
+      "originalTitle": "【DPO局限性】DPO离线更新、SFT以及DPO过程本身存在哪些局限性或卡点？ 「百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3022",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-171",
+      "originalTitle": "【DPO应用与设计】在DPO偏好对齐中，如何选择不同的reward或其他层面的偏好对齐依据？为什么选择DPO而非PPO，为什么选择Qwen而非其他模型？数据如何构建，实验如何对比？ 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3023",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-172",
+      "originalTitle": "【DPO损失函数推导】推导DPO的Loss：它如何从Bradley-Terry模型推导出来？DPO loss和GRPO loss有什么区别？ 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3024",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-173",
+      "originalTitle": "【DPO改进方法】DPO如何改进？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3025",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-174",
+      "originalTitle": "【DPO数据构造】多分类做DPO，偏好对怎么构造？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3026",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-175",
+      "originalTitle": "【DPO训练技巧】DPO训练技巧：为什么DPO会出现正样本reward也降低的情况？有没有可能DPO训练后choosen和reject的概率都提升了？应该怎么办？你做DPO时为什么搭配0.2权重的SFT loss，防止什么问题？ 「京东、字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3027",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-176",
+      "originalTitle": "【DSPO】DSPO算法：理解其创新点（如动态采样、偏好排序等）。 「美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3028",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-177",
+      "originalTitle": "【GSPO与GRPO区别】GSPO与GRPO有什么区别？为什么实际训练中GSPO效果更好？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3029",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-178",
+      "originalTitle": "【KL散度选择】为什么使用reversed KL而非forward KL：reverse KL mode-seeking，避免生成低概率样本；forward KL mass-covering，可能产生无效输出。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3030",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-179",
+      "originalTitle": "【SAPO】SAPO在GSPO基础上优化：引入自适应采样或奖励归一化等。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3031",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-180",
+      "originalTitle": "【奖励定义】你的Reward具体指什么？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3043",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-181",
+      "originalTitle": "【奖励模型角色】Reward Model在训练中扮演了什么角色？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3048",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-182",
+      "originalTitle": "奖励函数设计、训练、评估与迭代：包括GRPO奖励设计；Reward Model与RLVR定义及数学reward计算；Reward Model是否需要持续迭代；Reward Model训练方法、损失函数（如RankLoss）及训练经验；训练数据构建；RLHF/RL奖励函数设计维度与逻辑；固定GT数据计算reward的问题；Reward Model训练集准确率评估；reward设计调整策略；SFT/RL中奖励函数设定与定期调整；Rule-based与Model-based奖励设计区别、规则细节及场景选择；多样性reward窗口设置；reward hacking判断与解决办法；奖励动态调整方法；强化学习奖励函数定义（含定价算法、促销策略结合）；换道场景对抗性与合理性奖励定义及安全攸关场景比例；轨迹奖励细粒度打分；如何训练reward模型。 「京东、字节Seed、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3054",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-183",
+      "originalTitle": "奖励模型的设计与训练：包括裁判模型（reward model）的构建、打分偏好（如输入顺序偏好）的解决、通用reward model设计、最新范式（如基于大模型打分 vs 规则）、不同任务（数学、代码、字段提取、长对话、agent RL）的reward设计、训练流程、扩充优化、避免堆字数刷奖励、GSPO的reward计算、代码生成引入静态分析指标（如Pass@k）、字段提取业务维度、模型规模选择等。 「字节Seed、字节跳动、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3055",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-184",
+      "originalTitle": "【奖励不增长问题】Reward一直上不去该怎么办？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3060",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-185",
+      "originalTitle": "【奖励函数与模型设计】RL奖励函数的设计方法有哪些？规则奖励带来的问题？训练后模型是否对输出存在某种偏好？是否存在bad case？是否发生了reward hacking？实际怎么解决的？如果出现主观类问题该怎么判断好坏？奖励模型的设计还有哪些可以改进的部分？例如在奖励中加权重，数据方面如何考虑不删除难例？去做RL时，模型偏向通用，回答需针对不同维度设计不同reward函数，如何设计这个过程？多个Reward function的系数怎么调？多目标优化中，如果不同奖励函数之间发生冲突，例如在某一个reward上越来越高，但在其他reward上呈现波动，应如何解决？奖励模型的设计原理和方法是什么？为什么要用72b的模型？如果想引入一些规则信息，该如何在模型上改动？如何评估reward model的作用？ 「京东、字节跳动、拼多多、美团、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3061",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-186",
+      "originalTitle": "【奖励黑客】Reward hacking是什么现象？请举例说明其成因和解决办法。从reward设计或reward model的角度，如何缓解reward hacking？如何避免奖励坍缩（reward collapse）和熵崩溃/熵爆炸？如果RewardModel打分出现奖励作弊（如模型生成重复或无意义但高分的内容），应如何排查和解决？另外，reward冲突和稀疏奖励问题如何解决？ 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3062",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-187",
+      "originalTitle": "【无奖励模型获取奖励】RL中我们不训练reward model，还有什么方法获取reward？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3063",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-188",
+      "originalTitle": "【过程奖励模型】Process reward的优势是什么？可以从哪些维度设计？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3064",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-189",
+      "originalTitle": "【奖励系统设计】如何设计奖励系统（reward system）？与一般LLM的奖励系统有何区别？如何设计专业的奖励系统？同时考虑大模型Agent自动化评测的奖励体系设计。 「字节跳动、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3069",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-190",
+      "originalTitle": "【MCTS实现方式】你这个MCTS是自己实现的还是用的现成框架？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3076",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-191",
+      "originalTitle": "【MCTS与Rejection Sampling对比】如果不用MCTS，直接用rejection sampling效果怎么样？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3081",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-192",
+      "originalTitle": "【UCB参数调优】UCB的C参数怎么调的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3082",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-193",
+      "originalTitle": "【探索增强方法】如何让强化学习的模型更有探索性？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3083",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-194",
+      "originalTitle": "【探索增强与任务平衡】1. CLIP-Higher: 解耦上下剪切范围(e_low和e_high)，提高e_high的值，允许低概率token有更大的增长空间，从而提升策略多样性，防止过早确定化。 2. 如何平衡难易任务，增强模型对难任务的探索？ 「百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3088",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-195",
+      "originalTitle": "on-policy蒸馏、软蒸馏和我用的方法之间有什么区别和联系？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3096",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供具体训练数据、教师反馈与更新方式。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-196",
+      "originalTitle": "你强化学习除了Openrlhf还用过swift吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3097",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-197",
+      "originalTitle": "多智能体系统与单智能体系统相比，是否有提升项目效率的作用？举个例子说明。多智能体系统的协作是否依赖于共享环境？如果是，如何处理不同智能体之间的冲突？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3098",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-198",
+      "originalTitle": "对齐优化的判断标准 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3099",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-199",
+      "originalTitle": "有没有在离线不一致的问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3100",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明哪两个阶段或环节不一致。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-2754-200",
+      "originalTitle": "除了你项目里面用到的DAPO，还有什么Agentic RL的算法？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L3101",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

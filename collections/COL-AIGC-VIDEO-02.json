@@ -1,0 +1,138 @@
+{
+  "id": "COL-AIGC-VIDEO-02",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 02_视频生成核心基础架构模型",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-VIDEO-02-001",
+      "originalTitle": "1.请讲一讲T5模型的原理,以及在视频生成领域的作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-002",
+      "originalTitle": "2.T5对原始Transformer做了哪些简化修改（如层归一化位置、位置编码）？这些修改如何影响训练效率和稳定性？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-003",
+      "originalTitle": "3.T5的文本到文本框架如何适配多模态任务（如视频描述生成）？需对架构或训练策略做哪些调整？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-004",
+      "originalTitle": "4.视频生成中需解决“文本-视频语义对齐”问题，T5如何参与这一过程？关键技术是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L165",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-005",
+      "originalTitle": "5.视频编辑任务（如“将视频中白天的街道改为夜晚”）中，T5如何辅助实现可控编辑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L173",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-006",
+      "originalTitle": "6.T5在文本到视频生成（Text-to-Video Generation）中扮演什么角色？其核心优势是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L186",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-007",
+      "originalTitle": "1.请讲一讲CLIP模型的原理及其应用场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L194",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-008",
+      "originalTitle": "2.请介绍下什么是对比学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L208",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-009",
+      "originalTitle": "3.请介绍下对比学习有哪些常见的方法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-010",
+      "originalTitle": "4.请讲一讲BLIP2模型的原理及其优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-011",
+      "originalTitle": "5.在BLIP2中的Q-Former作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-012",
+      "originalTitle": "6.BLIP2中的Q-Former有什么缺点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-013",
+      "originalTitle": "1.请讲一讲StableDiffusion模型的原理及其应用场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L329",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-014",
+      "originalTitle": "2.请介绍下StableDiffusion和latent-diffusion什么关系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-015",
+      "originalTitle": "1.位置编码在Transformer中的作用?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L344",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-016",
+      "originalTitle": "2.为什么Transformer适合多模态任务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L357",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-017",
+      "originalTitle": "3.Transformer的并行化体现在哪个地方？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-018",
+      "originalTitle": "4.为什么Transformer一般使用LayerNorm？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-019",
+      "originalTitle": "5.Transformer为什么使用多头注意力机制？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L372",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-02-020",
+      "originalTitle": "6.Transformer训练的Dropout是如何设定的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/02_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%9E%8B.md#L377",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

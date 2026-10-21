@@ -1,0 +1,273 @@
+{
+  "id": "COL-AIML-FUNDAMENTALS",
+  "publisherId": "PUB-AIMLINTERVIEWS",
+  "title": "AIMLInterviews · 机器学习原理",
+  "coverage": [
+    "llm",
+    "rag",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AIMLInterviews 的英文原题、编码练习与项目追问。",
+  "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIML-FUNDAMENTALS-001",
+      "originalTitle": "What is machine learning and how does it differ from traditional programming?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-002",
+      "originalTitle": "What are different types of machine learning techniques?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L246",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-003",
+      "originalTitle": "What is the difference between supervised and unsupervised learning?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L247",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-004",
+      "originalTitle": "What is semi-supervised learning?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-005",
+      "originalTitle": "What are stages of building machine learning models?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L249",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-006",
+      "originalTitle": "Can you explain the bias-variance trade-off in machine learning?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L250",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-007",
+      "originalTitle": "What is overfitting and how do you prevent it?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-008",
+      "originalTitle": "Why and how do you split data into train, test, and validation set?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-009",
+      "originalTitle": "What is cross-validation and why is it important?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L253",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-010",
+      "originalTitle": "Can you explain the concept of regularization and its types (L1, L2, etc.)?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-011",
+      "originalTitle": "How Do You Handle Missing or Corrupted Data in a Dataset",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-012",
+      "originalTitle": "What is a decision tree and how does it work?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-013",
+      "originalTitle": "Can you explain logistic regression?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L257",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-014",
+      "originalTitle": "Can you explain the K-Nearest Neighbors (KNN) algorithm?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L258",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-015",
+      "originalTitle": "Compare K-means and KNN algorithms.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L259",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-016",
+      "originalTitle": "Explain decision-tree based algorithms (random forest, GBDT)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-017",
+      "originalTitle": "What is gradient descent and how does it work?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-018",
+      "originalTitle": "Can you explain the support vector machine (SVM) algorithm? what is Kernel SVM?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-019",
+      "originalTitle": "Can you explain neural networks and how they work?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-020",
+      "originalTitle": "What is deep learning and how does it differ from traditional machine learning?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L264",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-021",
+      "originalTitle": "Can you explain the backpropagation algorithm and its role in training neural networks?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-022",
+      "originalTitle": "What is a convolutional neural network (CNN) and how does it work?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L266",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-023",
+      "originalTitle": "What is transfer learning and how is it used in practice?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L267",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-024",
+      "originalTitle": "Walk through a transformer block. Why divide attention scores by √dₖ?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L271",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-025",
+      "originalTitle": "What is the KV cache and why does it matter for inference? How does its memory scale?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L272",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-026",
+      "originalTitle": "Compare MHA, MQA, and GQA. Why did Llama adopt GQA?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-027",
+      "originalTitle": "What is RoPE and why are rotary embeddings preferred over learned positional embeddings?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-028",
+      "originalTitle": "When would you choose RAG vs fine-tuning vs long-context?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-029",
+      "originalTitle": "Compare SFT, DPO, GRPO, and RLVR — data requirements, what extra models each needs, and when to use each.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-030",
+      "originalTitle": "Why does GRPO drop the critic network, and how does it estimate advantage?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-031",
+      "originalTitle": "What is LoRA / QLoRA and when would you use PEFT over full fine-tuning?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-032",
+      "originalTitle": "Explain quantization (INT8/INT4, FP8) and KV-cache quantization. What's the accuracy/latency tradeoff?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-033",
+      "originalTitle": "How does speculative decoding speed up generation?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-034",
+      "originalTitle": "How do you evaluate an LLM / RAG system? What is the RAG triad and LLM-as-judge?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-035",
+      "originalTitle": "How does a VLM combine a vision encoder with an LLM? (e.g., LLaVA / PaliGemma)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-036",
+      "originalTitle": "What is a VLA model? Contrast discrete action tokens (RT-2, OpenVLA) vs flow-matching action heads (π0).",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-037",
+      "originalTitle": "Diffusion vs autoregressive generation — how do they differ and when is each used (image/video/audio/text)?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-038",
+      "originalTitle": "What is classifier-free guidance? What is flow matching / rectified flow?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-039",
+      "originalTitle": "What is a Mixture-of-Experts model? Distinguish active vs total parameters.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L286",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-040",
+      "originalTitle": "how do you choose among these? (imbalanced datasets)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L72",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“these”承接上级提纲中的 Accuracy、Precision、Recall/Sensitivity、Specificity 和 F-score；场景限定为类别不平衡的数据集。"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-041",
+      "originalTitle": "k-fold cross validation (what's a good k value?)",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L80",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-FUNDAMENTALS-042",
+      "originalTitle": "how to apply dropout to LSTM?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/ml-fundamental.md#L126",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

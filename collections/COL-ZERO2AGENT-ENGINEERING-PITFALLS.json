@@ -1,0 +1,448 @@
+{
+  "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · 工程化踩坑：死循环、状态丢失与成本控制",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "software",
+    "coding",
+    "career"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-001",
+      "originalTitle": "如何评审 AI 生成的技术方案并进行重点提炼与技术取舍？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L16",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-002",
+      "originalTitle": "Agent 的成本怎么控制？线上烧钱太快怎么办？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L30",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-003",
+      "originalTitle": "开发 Agent 时踩过什么坑？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-004",
+      "originalTitle": "为什么很多 Agent Demo 很惊艳，但一上线就不稳定？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-005",
+      "originalTitle": "平时用过哪些 AI Agent 工具？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-006",
+      "originalTitle": "你熟悉的 Agent 框架，在架构设计上有什么优势？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-007",
+      "originalTitle": "平时写的代码有多少是 AI 生成的？怎么保证质量？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L189",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-008",
+      "originalTitle": "用过哪些 Code Agent？优缺点？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-009",
+      "originalTitle": "自己做 Agent 时，踩过最大的坑是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-010",
+      "originalTitle": "如何保证 AI 代码生成的质量与掌控性？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-012",
+      "originalTitle": "AI Coding 产品怎么测试？从 Demo 到生产可交付还差什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L444",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-013",
+      "originalTitle": "什么是 SDD（Spec-Driven Development）？它和 Skills 有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-014",
+      "originalTitle": "数据库索引失效的常见场景？LIKE 查询会不会导致索引失效？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L533",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-015",
+      "originalTitle": "分布式限流算法——令牌桶、漏桶、滑动窗口的区别和实现？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-016",
+      "originalTitle": "大规模数据处理场景设计——从千条到百万级如何扩展？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L668",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-017",
+      "originalTitle": "LangGraph 定义的搜索节点做不到并发执行吗？怎么做？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L726",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-018",
+      "originalTitle": "PostgreSQL 的索引结构是什么？索引如何优化查询速度？在 Checkpoint 场景下如何用索引加速？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L804",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-019",
+      "originalTitle": "用 Claude Code 做一个比较长的任务，如果遇到单次 session 跑不完、中间断网怎么办？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L874",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-020",
+      "originalTitle": "布隆过滤器的原理？会出现什么问题？如何控制误判率？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L928",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-021",
+      "originalTitle": "AI 应用中 SSE 流式数据怎么处理？数据格式是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L998",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-022",
+      "originalTitle": "开发 Agent 的时候，你用的是什么开发流程？为什么选这个流程？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1077",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-023",
+      "originalTitle": "针对包含 3 个以上工具调用且高频请求的任务，通过什么方式可以压低系统整体的端到端延迟？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-024",
+      "originalTitle": "AI 应用的前端资源缓存怎么配的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1267",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-025",
+      "originalTitle": "任务执行远大于单次 Token 限制时，如何设计以支持断点继续生成？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-026",
+      "originalTitle": "用 AI Coding 工具写代码达不到预期怎么办？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-027",
+      "originalTitle": "Agent 系统的缓存选型——本地缓存 vs Redis，怎么选？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-028",
+      "originalTitle": "使用 LangGraph 开发 Agent，遇到最大的困难是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1513",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-029",
+      "originalTitle": "AI Coding 检查错误的时间比自己写还长，怎么提效？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1575",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-030",
+      "originalTitle": "模型离线 AUC 很高但上线后效果暴跌，怎么排查？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1616",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-031",
+      "originalTitle": "数据量和 QPS 增大后，Agent 架构怎么改进？需要什么硬件？RT 要求高时怎么部署？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1669",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-032",
+      "originalTitle": "Agent 异步任务管线中引入消息中间件（如 Kafka），会不会反而变慢或成为瓶颈？扫表和消息驱动各有什么优缺点？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1713",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-033",
+      "originalTitle": "LangGraph 的 State Snapshot（状态快照）机制是怎么实现的？解决什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1763",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-034",
+      "originalTitle": "高并发场景下同时调 10 个 Embedding 接口，asyncio.gather 相比多线程有什么资源优势？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1826",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-035",
+      "originalTitle": "Agent 系统可观测性设计——怎样的结构才能更好地追踪整个 Trace？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1926",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-036",
+      "originalTitle": "SSE 流式输出中断后如何保证之前的输出不丢失？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1959",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-037",
+      "originalTitle": "产品的用户量、每日 token 消耗和底层模型选型怎么估算？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L1983",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-038",
+      "originalTitle": "Agent 如何做版本管理与灰度？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2033",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-040",
+      "originalTitle": "如何设计 Agent 的流式输出以提升用户体验，特别是包含工具调用和多次大模型交互时？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2077",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-042",
+      "originalTitle": "Claude Code 用久了感觉响应越来越慢，这是什么原因？怎么解决？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2158",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-043",
+      "originalTitle": "流式返回时，如何插入非文本事件（工具调用标记、思考过程、错误提示、分段标识），且不影响前端渲染？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-044",
+      "originalTitle": "SSE 和 WebSocket、单次调用的区别是什么？Agent 场景该怎么选？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-045",
+      "originalTitle": "AgentState 的作用是什么？为什么不使用全局变量？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-046",
+      "originalTitle": "多模型如何动态路由？根据视频特征、任务特征、成本、延迟和效果选模型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-047",
+      "originalTitle": "系统里多租户隔离是怎么实现的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2393",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-048",
+      "originalTitle": "Redis 在 Agent 系统中适合承担哪些职责，哪些数据不应只放 Redis？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2428",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-049",
+      "originalTitle": "在浏览器输入一个 URL 到页面显示，完整经历了哪些过程？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-050",
+      "originalTitle": "如何记录 Agent 的非确定性边界，实现可重复的故障回放？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-051",
+      "originalTitle": "多模型供应商如何抽象统一 Provider，而不丢失差异能力？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-052",
+      "originalTitle": "进程、线程、协程有什么区别？什么场景下协程更有优势？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-053",
+      "originalTitle": "LangGraph 图状态机里，怎么捕获每个节点的执行结果并实时推前端？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2542",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-054",
+      "originalTitle": "如何统计 Agent 各模块耗时并定位瓶颈？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2611",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-055",
+      "originalTitle": "如何设计同时兼顾吞吐、首 Token 延迟和租户公平性的推理调度器？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2626",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-056",
+      "originalTitle": "自动回滚阈值如何设置，避免固定阈值误杀或放过回归？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-057",
+      "originalTitle": "如何设计类似 LangFlow 的 Agent 工作流可视化编排画布？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2654",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-058",
+      "originalTitle": "接入多个外部 Agent 时，如何用 Adapter 统一异构事件、工具调用和生命周期协议？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2684",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-059",
+      "originalTitle": "大型项目重构如何规划，如何处理模块正交与冗余？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2711",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-060",
+      "originalTitle": "从原始诉求到可执行 PRD/Spec，谁负责清洗？如何判断需求完备，质量门禁放在哪层？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2735",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-061",
+      "originalTitle": "了解 Kubernetes 吗？在 Agent 项目里有没有实际用到？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2764",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-062",
+      "originalTitle": "多个子 Agent 延迟退出，同时更新同一对话的 Token 统计数据，线程竞争怎么解决？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2789",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-063",
+      "originalTitle": "Agent 框架如何实现流式并行？了解 Claude Code 的流式并行是怎么做的吗？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-064",
+      "originalTitle": "什么是死锁？死锁产生的条件、检测和解决方法是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2965",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-065",
+      "originalTitle": "编译器从源代码到可执行程序经历哪些阶段？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L2988",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-066",
+      "originalTitle": "云端 Agent 的沙盒应该常驻还是按任务创建？如何优化启动和通信开销？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L3012",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-067",
+      "originalTitle": "Agent 的中间与最终交付物应该如何版本化、校验和交接？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L3028",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-068",
+      "originalTitle": "如何可靠采集 Coding Agent 轨迹，避免崩溃或异步退出时丢数据？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L3040",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-069",
+      "originalTitle": "如何估算 Agent 使用模型的月度成本？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L3053",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-070",
+      "originalTitle": "子 Agent 和工具调用的 Token 用量统计缺失，怎么做容错补偿？（用户断连、子 Agent 延迟退出场景）",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L3066",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-071",
+      "originalTitle": "如何保证 AI 生成内容的版权合规并避免侵权？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L3138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-072",
+      "originalTitle": "语音 Agent 如何处理噪声、用户打断与多轮对话？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L3152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-073",
+      "originalTitle": "如何设计面向用户的 AI 服务用量配额、限流与容量规划？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L3166",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-ENGINEERING-PITFALLS-074",
+      "originalTitle": "本地持久化配置和会话数据时，如何防止敏感信息泄露？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md#L3180",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

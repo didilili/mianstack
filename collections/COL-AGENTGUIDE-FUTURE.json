@@ -1,0 +1,74 @@
+{
+  "id": "COL-AGENTGUIDE-FUTURE",
+  "publisherId": "PUB-AGENTGUIDE",
+  "title": "AgentGuide · 大模型未来趋势讨论题",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AgentGuide 的大模型未来趋势讨论题。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-FUTURE-001",
+      "originalTitle": "你认为当前 LLM 距离通用人工智能（AGI）还有多远？最关键的缺失能力是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md#L26",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-FUTURE-002",
+      "originalTitle": "从 GPT-4 到未来的模型，你认为多模态的融合会走向何方？仅仅是文本、图像的结合，还是会拓展到更多感官维度？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md#L40",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-FUTURE-003",
+      "originalTitle": "你如何看待开源模型和闭源模型生态系统的竞争与共存？它们各自的优势是什么，未来将如何演进？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md#L54",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-FUTURE-004",
+      "originalTitle": "随着模型能力的增强，LLM 的\"世界模型\"或内在模拟能力也备受关注。你如何理解这个概念？它对实现更高阶的推理和规划有何意义？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-FUTURE-005",
+      "originalTitle": "你认为 Transformer 架构会长久地统治这个领域吗？还是你看到了像状态空间模型（SSM, 如 Mamba）等新架构的潜力？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-FUTURE-006",
+      "originalTitle": "\"数据\"是训练 LLM 的燃料。你认为高质量的人工合成数据在未来的模型训练中将扮演什么样的角色？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-FUTURE-007",
+      "originalTitle": "具身智能（Embodied AI），即 LLM 与机器人的结合，被认为是 AI 的下一个浪潮。你认为 LLM 将如何赋能机器人，并会带来哪些挑战？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-FUTURE-008",
+      "originalTitle": "个性化是 LLM 应用的重要方向。在实现高度个性化的 Agent 或助手的过程中，我们应如何平衡效果、隐私和安全？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-FUTURE-009",
+      "originalTitle": "展望未来 3-5 年，你认为 LLM 和 Agent 技术最有可能在哪个行业或领域率先实现颠覆性的应用？为什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md#L142",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

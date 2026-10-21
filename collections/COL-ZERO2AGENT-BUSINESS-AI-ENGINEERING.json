@@ -1,0 +1,214 @@
+{
+  "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · 业务 AI 工程分析：业务场景与 AI 系统的结合面试题",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "software",
+    "career"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-001",
+      "originalTitle": "时间紧张，“快速上线规则方案”和“训练一个更智能的 AI 方案”之间怎么选？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L16",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-002",
+      "originalTitle": "设计一个能根据用户行为自适应调整策略的 AI 系统，从技术架构上怎么做？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L61",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-003",
+      "originalTitle": "如何验证 AI 方案确实提升了业务指标，而不是带来了副作用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-004",
+      "originalTitle": "业务方反馈“AI 效果差”，你怎么系统性定位问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-005",
+      "originalTitle": "知识库 RAG 和智能客服 Agent 系统的成熟方案有哪些？标准方案的优点和局限性？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-006",
+      "originalTitle": "面向客户的 Multi-Agent 客服系统，怎么保证用户体验良好？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-007",
+      "originalTitle": "Agent 项目如何从 Demo 进行企业级落地？从原型到生产需要补全哪些工程能力？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-008",
+      "originalTitle": "面向 C 端的 Agent 应用应该包含哪些架构和模块？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L398",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-009",
+      "originalTitle": "生成内容哪些环节需要人工审核，如何设计人机协同闭环？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-010",
+      "originalTitle": "设计订单客服 Agent 时，如何处理转人工和意图识别调优？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-011",
+      "originalTitle": "长文本内容安全审核如何区分“引用有害内容”与“表达有害立场”？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L460",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-012",
+      "originalTitle": "设计一个“输入网站、输出宣发内容”的 Agent，完整链路是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L479",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-013",
+      "originalTitle": "网站访问量激增时，如何设计系统承载？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L500",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题仅给出通用流量突增场景，未给出库存或秒杀约束。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-014",
+      "originalTitle": "设计一个群聊 Agent，如何同时处理权限、上下文和并行请求？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L516",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-015",
+      "originalTitle": "如何设计会议转写 Agent 的端到端链路并评估质量？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-016",
+      "originalTitle": "音视频 Agent 如何保护隐私并提供可验证删除？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L561",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-017",
+      "originalTitle": "医疗 Skill 如何与 HIS 系统协同，同时满足权限和审计要求？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L573",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-018",
+      "originalTitle": "如何设计一个自动驾驶行为评估 Agent？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L585",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-019",
+      "originalTitle": "什么时候接入 MCP 是合理设计，什么时候属于过度设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-020",
+      "originalTitle": "20K 流式长文本安全审核如何兼顾增量响应与全文语义？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-021",
+      "originalTitle": "有害内容安全改写如何兼顾风险控制与用户真实诉求，并验证语义保持？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L639",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-022",
+      "originalTitle": "内容安全误杀后，如何通过申诉、分层策略和回归集持续治理？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L657",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-023",
+      "originalTitle": "浏览器端运行小模型有什么价值？隐私、算力和能力边界是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L675",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-024",
+      "originalTitle": "如何设计批量 PDF 转 HTML 并与知识库核对的 LLM Workflow？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L693",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-025",
+      "originalTitle": "如何预测车辆未来一段时间的网络强弱？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L712",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-026",
+      "originalTitle": "智能评审系统如何落地，大模型承担什么职责？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L725",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-027",
+      "originalTitle": "如何说明一个 AI 系统在信审链路中的位置和职责？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-029",
+      "originalTitle": "如何生成既有吸引力又不重复的推荐理由？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L767",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-030",
+      "originalTitle": "如何设计一个具备情绪识别与情感响应能力的 Agent？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L781",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-031",
+      "originalTitle": "视频处理系统如何设计？从上传到转码、存储和分发",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L795",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-032",
+      "originalTitle": "前端手动入口与 Agent Chat 入口如何划分职责和交互边界？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L811",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING-033",
+      "originalTitle": "如何设计可信的业务分析 Agent，避免取数口径错误、计算错误和无证据结论？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md#L824",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

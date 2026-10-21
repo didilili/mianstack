@@ -1,0 +1,116 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Agent 开发实战追问",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-001",
+      "originalTitle": "Supervisor规划任务后直接update，还是子Agent执行完再callback？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L760",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-002",
+      "originalTitle": "日常对话中大量无用信息，如何判断是否存入Memory？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L761",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-003",
+      "originalTitle": "长对话上下文如何处理？总结后如何存储？多少轮后不支持回溯？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L762",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-004",
+      "originalTitle": "Embedding模型选择（如何确定业务最适合的模型？）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L765",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-005",
+      "originalTitle": "多意图并发识别（用户真实意图是什么？）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L766",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-006",
+      "originalTitle": "意图识别准确性（知识库检索和意图识别都需要）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L767",
+      "reviewStatus": "needs_review",
+      "reviewNote": "原题只列出意图识别准确性，未说明具体任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-007",
+      "originalTitle": "中途任务强行结束怎么办？如何撤销？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L770",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-008",
+      "originalTitle": "多工具分布调用如何解决？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L771",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-009",
+      "originalTitle": "如何规划任务流程？（Orchestration策略）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L772",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-010",
+      "originalTitle": "单/多模态RAG检索怎么做？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L775",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-011",
+      "originalTitle": "如何提高检出率？如何评价检出质量？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L776",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-012",
+      "originalTitle": "知识库文档怎么切片合适？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L777",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-013",
+      "originalTitle": "多工具多Prompt下，消融实验怎么展开？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L778",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-014",
+      "originalTitle": "如何评价Agent解决问题的质量？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L781",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-015",
+      "originalTitle": "走完用户指定任务 vs 各个任务节点完成质量？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L782",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE-016",
+      "originalTitle": "如何设计自动化评估流程？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md#L783",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

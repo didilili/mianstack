@@ -1,0 +1,419 @@
+{
+  "id": "COL-WDN-RL",
+  "publisherId": "PUB-WDNDEV",
+  "title": "LLM 面试笔记 · 强化学习与对齐",
+  "coverage": [
+    "llm",
+    "agent",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "wdndev/llm_interview_note 对应专题的问题与具名考点。",
+  "sourceUrl": "https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-WDN-RL-001",
+      "originalTitle": "1.简单介绍强化学习？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L3",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-002",
+      "originalTitle": "2.简单介绍一下 RLHF？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-003",
+      "originalTitle": "3.奖励模型需要和基础模型一致吗？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-004",
+      "originalTitle": "4.RLHF 在实践过程中存在哪些不足？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-005",
+      "originalTitle": "5.如何解决 人工产生的偏好数据集成本较高，很难量产问题？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L65",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-006",
+      "originalTitle": "6.  如何解决三个阶段的训练（SFT->RM->PPO）过程较长，更新迭代较慢问题？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L77",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-007",
+      "originalTitle": "7.  如何解决 PPO 的训练过程同时存在4个模型（2训练，2推理），对计算资源的要求较高 问题？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L89",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-008",
+      "originalTitle": "8.基于人类反馈的强化学习流程",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-009",
+      "originalTitle": "9. 什么是 LLM Agent?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L122",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-010",
+      "originalTitle": "10. LLM Agent 有什么关键能力？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-011",
+      "originalTitle": "11. 怎样构建基于 LLM 的 Agents？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L137",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-012",
+      "originalTitle": "12. LLM Agents 有哪些类型？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-013",
+      "originalTitle": "13. 是什么让Agent有了自制的能力？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L154",
+      "reviewStatus": "confirmed",
+      "reviewNote": "题名中的“自制”指正文通过审查与反馈纠正行为的能力。"
+    },
+    {
+      "id": "COL-WDN-RL-014",
+      "originalTitle": "14.如何给LLM注入领域知识？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md#L158",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-015",
+      "originalTitle": "1-1 QA: 用一句话谈一下你对于强化学习的认识吗？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L5",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-016",
+      "originalTitle": "1-2 QA: 请问，你认为强化学习、监督学习和无监督学习三者有什么区别呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L9",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-017",
+      "originalTitle": "1-3 QA: 根据你的理解，你认为强化学习的使用场景有哪些呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-018",
+      "originalTitle": "1-4 QA: 请问强化学习中所谓的损失函数与深度学习中的损失函数有什么区别呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L21",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-019",
+      "originalTitle": "1-5 QA: 你了解有模型和免模型吗？两者具体有什么区别呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-020",
+      "originalTitle": "2-1 QA：请问马尔可夫过程是什么？马尔可夫决策过程又是什么？其中马尔可夫最重要的性质是什么呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-021",
+      "originalTitle": "2-2 QA：请问我们一般怎么求解马尔可夫决策过程？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L39",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-022",
+      "originalTitle": "2-3 QA：请问如果数据流不具备马尔可夫性质怎么办？应该如何处理？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-023",
+      "originalTitle": "2-4 QA：请分别写出基于状态价值函数的贝尔曼方程以及基于动作价值函数的贝尔曼方程。",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-024",
+      "originalTitle": "2-5 计算贝尔曼方程的常见方法有哪些，它们有什么区别？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L60",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-025",
+      "originalTitle": "2-6 马尔可夫奖励过程与马尔可夫决策过程的区别是什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L66",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-026",
+      "originalTitle": "2-7 QA：请问最佳价值函数 $V^*$ 和最佳策略 $\\pi^**$ 为什么等价呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-027",
+      "originalTitle": "2-8 QA：能不能手写一下第n步的价值函数更新公式呀？另外，当 n越来越大时，价值函数的期望和方差是分别变大还是变小呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L78",
+      "reviewStatus": "confirmed",
+      "reviewNote": "题名写“期望和方差”，附带正文写“期望偏差”。"
+    },
+    {
+      "id": "COL-WDN-RL-028",
+      "originalTitle": "3-1 QA：同学，能否简述同策略和异策略的区别呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-029",
+      "originalTitle": "3-2 QA：能否细致地讲一下Q学习算法，最好可以写出其 $Q(s,a)$ 的更新公式。另外，它是同策略还是异策略，原因是什么呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L97",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-030",
+      "originalTitle": "3-3 QA：能否讲一下与Q学习算法类似的Sarsa算法呢，最好也可以写出其对应的 $Q(s,a)$ 更新公式。另外，它是同策略还是异策略，为什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-031",
+      "originalTitle": "3-4 QA：请问基于价值的方法和基于策略的方法的区别是什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L117",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-032",
+      "originalTitle": "3-5 QA：请简述一下时序差分方法。",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-033",
+      "originalTitle": "3-6 QA：请问蒙特卡洛方法和时序差分方法是无偏估计吗？另外谁的方差更大呢？为什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-034",
+      "originalTitle": "3-7 QA：能否简单说一下动态规划方法、蒙特卡洛方法和时序差分方法的异同点？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-035",
+      "originalTitle": "4-1 QA：请问深度Q网络是什么？其两个关键性的技巧分别是什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L150",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-036",
+      "originalTitle": "4-2 QA：深度Q网络中的两个技巧————目标网络和经验回放，其具体作用是什么呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L156",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-037",
+      "originalTitle": "4-3 QA：深度Q网络和Q学习有什么异同点？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-038",
+      "originalTitle": "4-4 QA：请问，随机性策略和确定性策略有什么区别吗？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-039",
+      "originalTitle": "4-5 QA：请问不打破数据相关性，神经网络的训练效果为什么就不好？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L173",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-040",
+      "originalTitle": "4-6 QA：深度Q网络都有哪些变种？引入状态奖励的是哪种？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L177",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题“状态奖励”承接正文的 V(s) 状态价值，所指为 Dueling DQN。"
+    },
+    {
+      "id": "COL-WDN-RL-041",
+      "originalTitle": "4-7 QA：请简述双深度Q网络原理。",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-042",
+      "originalTitle": "4-8 QA：请问竞争深度Q网络模型有什么优势呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L192",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“竞争深度 Q 网络”是此处 Dueling DQN 的译法。"
+    },
+    {
+      "id": "COL-WDN-RL-043",
+      "originalTitle": "5-1 QA：如何理解策略梯度的公式呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-044",
+      "originalTitle": "5-2 QA：同学来吧，给我手动推导一下策略梯度公式的计算过程。",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-045",
+      "originalTitle": "5-3 QA：可以说一下你所了解的基于策略梯度优化的技巧吗？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L266",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-046",
+      "originalTitle": "5-4 QA：请详细描述REINFORCE算法的计算过程。",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-047",
+      "originalTitle": "6-1 QA：请简述一下异步优势演员-评论员算法（A3C），另外A3C是同策略还是异策略的模型呀？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-048",
+      "originalTitle": "6-2 QA：请问演员-评论员算法有何优点呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-049",
+      "originalTitle": "6-3 QA：请问异步优势演员-评论员算法具体是如何异步更新的？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-050",
+      "originalTitle": "6-4 QA：演员-评论员算法中，演员和评论员两者的区别是什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-051",
+      "originalTitle": "6-5 QA：演员-评论员算法框架中的评论员起了什么作用？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-052",
+      "originalTitle": "6-6 QA：简述异步优势演员-评论员算法的优势函数。",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-053",
+      "originalTitle": "7-1 QA：请简述一下深度确定性策略梯度算法。",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-054",
+      "originalTitle": "7-2 QA：请问深度确定性策略梯度算法是同策略算法还是异策略算法？请说明具体原因并分析。",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L345",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-055",
+      "originalTitle": "7-3 QA：你是否了解过分布的分布式深度确定性策略梯度算法（distributed distributional deep deterministic policy gradient，D4PG）呢？请描述一下吧。",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L352",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-056",
+      "originalTitle": "8-1 QA：请问什么是重要性采样呀？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-057",
+      "originalTitle": "8-2 QA：请问同策略和异策略的区别是什么？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-058",
+      "originalTitle": "8.3 QA：近端策略优化（proximal policy optimization，PPO）",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-059",
+      "originalTitle": "8-4 QA：请简述一下近端策略优化算法。其与信任区域策略优化算法有何关系呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-060",
+      "originalTitle": "9-1 QA：解决稀疏奖励的方法有哪些？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L393",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-061",
+      "originalTitle": "9-2 QA：设计奖励存在什么主要问题？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L401",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-062",
+      "originalTitle": "9-3 QA：内在好奇心模块是什么？我们应该如何设计内在好奇心模块？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-063",
+      "originalTitle": "10-1 QA：具体的模仿学习方法有哪些？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L415",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-064",
+      "originalTitle": "10-2 QA：行为克隆存在哪些问题呢？对应的解决方法有哪些？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-065",
+      "originalTitle": "10-3 QA：逆强化学习是怎么运行的呢？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-RL-066",
+      "originalTitle": "10-4 QA：逆强化学习方法与生成对抗网络在图像生成中有什么异曲同工之处？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md#L435",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

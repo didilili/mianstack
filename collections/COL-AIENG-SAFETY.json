@@ -1,0 +1,289 @@
+{
+  "id": "COL-AIENG-SAFETY",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · 安全与可信 AI",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-SAFETY-001",
+      "originalTitle": "What are hallucinations in LLMs, and how do you mitigate them?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-002",
+      "originalTitle": "What is prompt injection, and what are the different types (direct, indirect)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L740",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-003",
+      "originalTitle": "How do you implement input and output guardrails for AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L742",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-004",
+      "originalTitle": "What is AI alignment, and why is it important?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-005",
+      "originalTitle": "How do you detect and mitigate bias in AI systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L746",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-006",
+      "originalTitle": "What are the key data privacy considerations (GDPR, CCPA) when building AI applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L747",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-007",
+      "originalTitle": "How do you handle PII in LLM inputs and outputs?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L748",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-008",
+      "originalTitle": "What is explainability in AI, and why does it matter?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L749",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-009",
+      "originalTitle": "What is the difference between interpretability and explainability?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L750",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-010",
+      "originalTitle": "What is mechanistic interpretability, and why do AI labs invest in it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L751",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-011",
+      "originalTitle": "How do you build trust with users in AI-powered applications?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L752",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-012",
+      "originalTitle": "What are adversarial attacks on AI systems, and how do you defend against them?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L753",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-013",
+      "originalTitle": "What is data poisoning, and how can it affect AI models?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L754",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-014",
+      "originalTitle": "How do you implement content safety filters for AI-generated content?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L755",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-015",
+      "originalTitle": "What is responsible AI, and what frameworks exist for implementing it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L757",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-016",
+      "originalTitle": "How do you handle copyright and intellectual property concerns with AI-generated content?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L758",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-017",
+      "originalTitle": "What is the EU AI Act, and how does it affect AI engineering?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L759",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-018",
+      "originalTitle": "How do you implement audit trails and logging for AI decisions?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L760",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-019",
+      "originalTitle": "What is model card documentation, and why is it important?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L761",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-020",
+      "originalTitle": "How do you handle misuse and abuse of AI systems in production?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L762",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-021",
+      "originalTitle": "What is differential privacy, and how can it be applied during model training?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L763",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-022",
+      "originalTitle": "How would you design an AI incident response plan?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L764",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-023",
+      "originalTitle": "What is the NIST AI Risk Management Framework (AI RMF)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L765",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-024",
+      "originalTitle": "Your healthcare chatbot gives medical diagnoses it should not make. How do you add safety guardrails?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L766",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-025",
+      "originalTitle": "Your AI system is reproducing copyrighted material verbatim. How do you prevent this?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L768",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-026",
+      "originalTitle": "Your resume screening AI rejects more female candidates for engineering roles. How do you fix gender bias?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L769",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-027",
+      "originalTitle": "Your AI model passes bias checks by gender and race separately, but fails for intersectional groups. How do you handle it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L770",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-028",
+      "originalTitle": "Your AI denied a loan, and the customer demands a GDPR explanation. How do you provide one?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L771",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-029",
+      "originalTitle": "A user invokes the right to be forgotten, but their data is in your model weights. How do you comply?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L772",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-030",
+      "originalTitle": "The EU AI Act may classify your AI system as high-risk. How do you comply?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L773",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-031",
+      "originalTitle": "Your differentially private model lost significant accuracy. How do you balance privacy and utility?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L774",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-032",
+      "originalTitle": "One malicious participant is poisoning your federated learning model. How do you defend against it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L775",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-033",
+      "originalTitle": "Your AI hiring model uses proxy features for protected attributes. How do you eliminate proxy discrimination?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L776",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-034",
+      "originalTitle": "Your predictive model creates a feedback loop of biased outcomes. How do you break it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L777",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-035",
+      "originalTitle": "Your AI generates fake news images. How do you implement watermarking for AI-generated content?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L778",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-036",
+      "originalTitle": "Your AI denies a service, and the user has no way to challenge it. How do you design an appeals process?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L780",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-037",
+      "originalTitle": "An auditor asks why your AI rejected a request 6 months ago, and you have no logs. How do you build audit trails?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L781",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-038",
+      "originalTitle": "You removed PII, but users were re-identified from anonymized data. How do you prevent re-identification?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L782",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-039",
+      "originalTitle": "A pre-trained model from an open-source repo may contain a hidden backdoor. How do you detect it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L783",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-040",
+      "originalTitle": "Your LLM's training data was deliberately poisoned by an adversary. How do you respond?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L784",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-041",
+      "originalTitle": "Your AI mental health chatbot gave harmful advice to a user in crisis. How do you mitigate harm?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L785",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-042",
+      "originalTitle": "Your AI system caused incorrect critical decisions. How do you run a blameless post-mortem?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-043",
+      "originalTitle": "Radiologists agree with AI 98% of the time, even when it is wrong. How do you prevent human over-reliance on AI?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L787",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-044",
+      "originalTitle": "Your content moderation flags normal cultural expressions as offensive in other markets. How do you adapt cross-culturally?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L788",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-SAFETY-045",
+      "originalTitle": "Your AI training produces massive carbon emissions. How do you reduce environmental impact?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L789",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

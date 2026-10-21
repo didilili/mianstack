@@ -1,0 +1,247 @@
+{
+  "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · 工具管理：参数校验、工具路由与百级工具库",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "software"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-001",
+      "originalTitle": "工具描述写得再好，模型也瞎传参数怎么办？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-002",
+      "originalTitle": "你们工具库有上百个工具，怎么让模型快速选对？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-003",
+      "originalTitle": "多工具场景下的调度策略？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L89",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-004",
+      "originalTitle": "工具多导致 token 数过多，怎么解决？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-005",
+      "originalTitle": "如果工具调用是成功的，但返回结果语义不完整，模型很容易误判，你怎么设计中间层？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L167",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-006",
+      "originalTitle": "Mock 是怎么实现的？在自动化生成测试的场景下",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-007",
+      "originalTitle": "MCP 和 Skills 的本质区别是什么？都是工具调用，为什么需要两套机制？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L284",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-008",
+      "originalTitle": "大模型的 Function Call 是什么？Tool Use 一般怎么用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L353",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-009",
+      "originalTitle": "MCP Server 是怎么构建的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L469",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-010",
+      "originalTitle": "大厂开源的 CLI 工具（如 lark-cli）和 MCP 有什么区别？它们跟直接调 API 又有什么不同？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L513",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-011",
+      "originalTitle": "Function Calling 的本质价值是什么？它解决的是“模型能力问题”还是“系统约束问题”？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L578",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-012",
+      "originalTitle": "同一个能力是做成“一个大而全工具”还是“多个小工具”，怎么权衡？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L622",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-013",
+      "originalTitle": "手撕一个 ReAct 架构的 Agent，实现文件操作（找文件、删除文件）",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L657",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-014",
+      "originalTitle": "你会如何设计工具 schema，才能降低模型传错参数、漏参数、乱调用的问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L765",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-015",
+      "originalTitle": "MCP 协议的完整调用过程是怎样的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L816",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-016",
+      "originalTitle": "LLM 是怎么从用户意图匹配到具体工具参数的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L899",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-017",
+      "originalTitle": "如何在多智能体环境中实现动态发现并注册跨协议工具？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L963",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-018",
+      "originalTitle": "Agent 做多轮工具调用和单轮调用相比，会面临哪些额外挑战？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1046",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-019",
+      "originalTitle": "为什么将 Agent 工具注册到微服务注册中心（如 Nacos）而不是用 MCP？工具的自动注入怎么实现？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-020",
+      "originalTitle": "多工具场景下怎么定工具调用的优先级？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1148",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-021",
+      "originalTitle": "推理模型（如 o1/DeepSeek-R1）为什么不支持工具调用？技术原因是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-022",
+      "originalTitle": "开源模型的 Function Calling 能力较弱，如何通过微调或 Prompt Engineering 提升？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1189",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-023",
+      "originalTitle": "对于边界不好定义的场景，Skill 形式不能很好区分场景披露工具，怎么办？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-024",
+      "originalTitle": "工具返回了非常大的数据超出了大模型的上下文窗口，怎么办？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1269",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-025",
+      "originalTitle": "你们有没有用 MCP？为什么要把 OAuth2.1 接到 MCP 里？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1301",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-026",
+      "originalTitle": "多 Skill 串行/嵌套时，依赖冲突、参数不兼容怎么做容错？有无编排优先级调度？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-028",
+      "originalTitle": "CLI、Skill 和 sub-agent 应该如何划分职责？CLI 直接调用 LLM 与 Skill 拉起 sub-agent 有什么差异？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-029",
+      "originalTitle": "Agent 调用启动较慢的外部工具时，如何设计异步任务和结果回调？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1460",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-031",
+      "originalTitle": "一个 Agent 如何同时连接多个 MCP Server，并保证用户与会话隔离？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1521",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-032",
+      "originalTitle": "Tool Result 回写模型时，消息契约应该包含哪些字段？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1542",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-033",
+      "originalTitle": "如何评测 MCP Server / Tool 自身的契约、可用性和效果，并用轨迹 Badcase 持续迭代？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1558",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-035",
+      "originalTitle": "跨平台工具授权即将过期时，Agent 如何调整调用顺序并安全续权？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1628",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-036",
+      "originalTitle": "MCP 工具治理为什么需要审计？应该审计哪些证据？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1643",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-037",
+      "originalTitle": "Agent 中 Skill 与 Tool 的职责边界和选型标准是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-038",
+      "originalTitle": "MCP 有哪些接入方式？分别适用于什么场景？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1672",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-039",
+      "originalTitle": "如何不用多智能体方案让 1000 个 Tools 正常工作？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1687",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-040",
+      "originalTitle": "当治理规则需要修改服务代码时，如何安全落地？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1734",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TOOL-MANAGEMENT-041",
+      "originalTitle": "工具调用结果如何在 Agent 工作流中直接传递？什么情况下需要 LLM 参与中转？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md#L1750",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

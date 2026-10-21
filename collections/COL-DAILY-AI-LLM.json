@@ -1,0 +1,383 @@
+{
+  "id": "COL-DAILY-AI-LLM",
+  "publisherId": "PUB-DATAWHALE",
+  "title": "Datawhale 每日面试 · 大语言模型",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Datawhale daily-interview 的 AI 算法模块原题与追问。",
+  "sourceUrl": "https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-DAILY-AI-LLM-001",
+      "originalTitle": "仅编码器（BERT类）、仅解码器（GPT类）和完整的编码器-解码器架构各有什么优缺点？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L3",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-002",
+      "originalTitle": "自注意力机制如何使大模型能够捕捉长距离依赖关系，它跟RNN有什么区别？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L7",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-003",
+      "originalTitle": "大模型为什么有上下文长度的概念？为什么它是指输入和输出的总长度？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-004",
+      "originalTitle": "大模型的分词器和传统的中文分词有什么区别？对于指定的词表，一句话是不是只有唯一的分词方式？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L21",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-005",
+      "originalTitle": "大模型是如何区分聊天历史中用户说的话和 AI 说的话的？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L27",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-006",
+      "originalTitle": "传统的静态词嵌入（如 word2vec）与大模型产生的上下文相关的嵌入相比，有什么区别？有了 与上下文相关的嵌入，静态词嵌入还有什么价值？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-007",
+      "originalTitle": "在 word2vec 等词嵌入空间中，存在 king – man + woman ≈ queen 的现象，这是为什么？大模型 的词元嵌入空间是否也有类似的属性？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L41",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-008",
+      "originalTitle": "注意力机制是如何计算上下文各个词元之间的相关性的？每个注意力头只关注一个词元吗？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-009",
+      "originalTitle": "如果需要通过修改尽可能少的参数值，让模型忘记某一特定知识，应该修改注意力层还是前馈神经网络层的参数。",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L55",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-010",
+      "originalTitle": "为什么注意力机制需要多个头？跟简单地减少注意力头的数量相比，多查询注意力和分组查询 注意力优化有什么不同？它们优化的是训练阶段还是推理阶段？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-011",
+      "originalTitle": "Flash Attention 并不能减少计算量，为什么能提升推理速度？ Flash Attention 是如何实现增量计算 softmax 的？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L76",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-012",
+      "originalTitle": "跟原始 Transformer 论文中的绝对位置编码相比，RoPE（旋转位置嵌入）有什么优点？ RoPE 在长上下文外推时会面临什么挑战？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L86",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-013",
+      "originalTitle": "嵌入模型 + 逻辑回归的分类方式获得了 0.85 的 F1 分数，而零样本分类方式获得了 0.78 的 F1 分数。如果有标注数据，什么情况下会选择零样本分类？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-014",
+      "originalTitle": "与 BERT 的掩蔽策略相比，掩码语言建模有何不同？这种预训练方式如何帮助模型在下游的文本分类任务中获得更好的性能？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-015",
+      "originalTitle": "假设你有一个包含 100 万条客户评论的数据集，但只有 1000 条带有标签的数据，请同时利用有标签和无标签的数据，结合表示模型和生成模型的优势，构建一个分类系统。",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-016",
+      "originalTitle": "有了强大的生成式大模型，嵌入模型还有什么用？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-017",
+      "originalTitle": "词袋法和文档嵌入在实现原理上有什么区别？词袋法是不是一无是处了？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-018",
+      "originalTitle": "BERTopic 中的 c-TF-IDF 与传统的 TF-IDF 有何不同？这种差异如何帮助改进主题表示的质量？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-019",
+      "originalTitle": "基于质心和基于密度的文本聚类算法有什么优缺点？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-020",
+      "originalTitle": "在一个主题建模项目中，你发现生成的主题中有大量重叠的关键词，如何使用本章介绍的技术来提高主题之间的区分度？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L175",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-021",
+      "originalTitle": "针对翻译类、创意写作类、头脑风暴类任务，分别如何设置 temperature 和 top_p ？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L184",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-022",
+      "originalTitle": "一个专业的提示词模板由哪几部分构成？为什么提示词中需要描述角色定义？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-023",
+      "originalTitle": "为了尽可能防止提示词注入，如何设计提示词模板？如何在系统层面检测提示词注入攻击？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L200",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-024",
+      "originalTitle": "在没有推理模型之前，如何让模型先思考后回答？思维链、自洽性、思维树等几种技术各有什么优缺点？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L214",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-025",
+      "originalTitle": "如何保证模型的输出一定是合法的 JSON 格式？将大模型用于分类任务时，如何保证其输出一定是几个类别之一，而不会输出无关内容？如果开发一个学习英语的应用，如何确保其输出的语言始终限定在指定的词汇表中？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L225",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-026",
+      "originalTitle": "如果我们需要生成小说的标题、角色描述和故事梗概，当单次模型调用生成效果不佳时，如何分步生成？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L247",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-027",
+      "originalTitle": "如果用户跟模型对话轮次过多，超出了模型的上下文限制，但我们又希望尽可能保留用户的对话信息，该怎么办？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L264",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-028",
+      "originalTitle": "如何编写一个智能体，帮助用户规划一次包含机票预订、酒店安排和景点游览的旅行？需要配置哪些工具？如何确保系统在面对不完整或矛盾的信息时仍能提供合理建议？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L271",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-029",
+      "originalTitle": "如果单一智能体的提示词过长，导致性能下降，如何将其拆分为多个智能体，并在合适的时机调用不同的智能体？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L285",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-030",
+      "originalTitle": "在 RAG 中，为什么要把文档划分成多个块进行索引？如何解决文档分块后内容上下文缺失的问题？如何处理跨片段的依赖关系？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-031",
+      "originalTitle": "向量相似度检索不能实现关键词的精确匹配，基于倒排索引的关键词检索不能匹配语义相近的词，如何解决这对矛盾？为什么需要重排序模型？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L311",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-032",
+      "originalTitle": "为什么要在向量相似度检索前，对用户输入的话进行改写？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-033",
+      "originalTitle": "如果需要根据某长篇小说的内容回答问题，而小说的长度远远超出了上下文限制，应该如何综合利用摘要和 RAG 技术，使其能同时回答故事梗概和故事细节？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L330",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-034",
+      "originalTitle": "在 CLIP 训练过程中，为什么需要同时最大化匹配图文对的相似度和最小化非匹配图文对的相似度？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-035",
+      "originalTitle": "BLIP-2 为何不直接将视觉编码器的输出连接到语言模型，而要引入 Q-Former 这一中间层结构",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L351",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-036",
+      "originalTitle": "现有一个能力较弱的多模态模型和一个能力较强的文本模型（如 DeepSeek-R1），如何结合两者的能力来回答与多模态相关的问题？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L359",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-037",
+      "originalTitle": "如何构建一个 AI 照片助手，能够对用户的上万张照片进行索引，根据用户的查询高效地检索相关照片？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-038",
+      "originalTitle": "相比交叉编码器，为什么双编码器在大规模相似度搜索中更受欢迎？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-039",
+      "originalTitle": "在训练嵌入模型时，MNR（多负例排序）损失、余弦相似度损失和 softmax 损失各有哪些优缺点？在哪些场景下，余弦相似度损失可能比 MNR 损失更合适？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L397",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-040",
+      "originalTitle": "如何生成负例以提升模型性能？如何构建高质量的难负例？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-041",
+      "originalTitle": "为什么 TSDAE 选择使用特殊词元而非平均池化作为句子表征？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-042",
+      "originalTitle": "相比 STSB，MTEB 有哪些改进？其中包括哪些类别的嵌入任务？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-043",
+      "originalTitle": "如果标注的训练数据很少，如何扩增训练数据的数量？（提示：SetFit）",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L458",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-044",
+      "originalTitle": "在继续预训练时，如何在保证模型获得特定领域知识的同时，最大限度地保留其通用能力？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-045",
+      "originalTitle": "请比较以下三种方案在医疗领域文本分类任务上的优缺点：(a) 直接使用通用 BERT 模型微调； (b) 在医疗文本上继续预训练 BERT 后再微调；(c) 从头开始用医疗文本预训练模型再微调。",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-046",
+      "originalTitle": "在命名实体识别任务中，当 BERT 将单词拆分成多个词元时，如何解决标签对齐问题？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-047",
+      "originalTitle": "假设一个嵌入模型的训练语料主要由英文构成，在中文任务上表现不佳，如何用较低的继续预训练成本提升其中文能力？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L505",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-048",
+      "originalTitle": "有人声称一篇文章是用 DeepSeek-R1 生成的，并给了你生成所用的完整提示词，如何证实或证伪这个说法？（提示：利用困惑度）",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-049",
+      "originalTitle": "如何微调一个 Llama 开源模型，使其输出风格更简洁、更像微信聊天，并保证输出的内容符合国内的大模型安全要求？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L527",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-050",
+      "originalTitle": "QLoRA 中的分块量化如何解决普通量化导致的信息损失问题？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-051",
+      "originalTitle": "现有一个由若干篇文章组成的企业知识库，如何将其转换成适合 SFT 的数据集？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-052",
+      "originalTitle": "PPO 和 DPO 相比有什么优缺点？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L555",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-053",
+      "originalTitle": "在 PPO 中，如何防止模型在微调数据集以外的问题上泛化能力下降？如何防止模型收敛到单一类型的高奖励回答？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L570",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-054",
+      "originalTitle": "设想一个网站上都是 AI 生成的内容，我们统计了每篇文章的平均用户停留时长，如何将其转化为 DPO 所需的偏好数据？对于小红书和知乎两种类型的网站，处理方式有什么区别？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-055",
+      "originalTitle": "提示工程、RAG、SFT、RL、RLHF 应该分别在什么场景下应用？例如：快速迭代基本能力（提示工程）、用户个性化记忆（提示工程）、案例库和事实知识（RAG）、输出格式和语言风格 （SFT）、领域深度思考能力和工具调用能力（RL）、根据用户反馈持续优化（RLHF）",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L597",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-056",
+      "originalTitle": "DeepSeek-R1 （简称 R1）与 DeepSeek-R1-Zero（简称 R1-Zero）的训练过程有什么区别，各自有什么优缺点？既然 R1-Zero 生成的推理过程可读性差，在非推理任务上的表现也不如 R1，那么 R1-Zero 存在的价值是什么？ R1 训练过程是如何解决 R1-Zero 的上述问题的？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L629",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-057",
+      "originalTitle": "DeepSeek 是如何把 R1 的推理能力蒸馏到较小的模型中的？如果我们要自己蒸馏一个较小的垂直领域模型，如何尽可能保留 R1 在特定领域的能力？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L660",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-058",
+      "originalTitle": "R1-Zero 的方法主要适用于有明确验证机制的任务（如数学、编程），如何将这一方法扩展到更主观的领域（如创意写作或战略分析）？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L677",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-059",
+      "originalTitle": "如果要在一个非推理型模型的基础上通过强化学习（RL）训练出一个 1000 以内的整数四则运算错误率低于 1% 的模型，预计基座模型至少需要多大？ RL 过程需要多少张 GPU 和多少训练时长？ （提示：TinyZero）",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L687",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给全算术任务分布、训练数据、验证规则、基座能力和硬件执行配置。"
+    },
+    {
+      "id": "COL-DAILY-AI-LLM-060",
+      "originalTitle": "在 QwQ-32B 推理模型的基础上，通过 RL 在类似 OpenAI Deep Research 的场景中强化垂直领域能力，如何构建训练数据集？预计需要多少张 GPU 和多少训练时长？",
+      "sourceUrl": "https://github.com/datawhalechina/daily-interview/blob/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms/llm/llm-interview-questions.md#L705",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给出训练轨迹长度、采样与更新配置、硬件及吞吐数据。"
+    }
+  ]
+}

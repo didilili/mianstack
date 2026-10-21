@@ -1,0 +1,220 @@
+{
+  "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · OpenClaw 教程面试题",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "software"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "ranxi2001/zero2Agent 教程中的面试题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-001",
+      "originalTitle": "为什么用 EventStream 而不是直接返回结果？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/02-node-to-agent/index.md#L248",
+      "reviewStatus": "confirmed",
+      "reviewNote": "EventStream 在此指运行时结构化事件序列。"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-002",
+      "originalTitle": "为什么默认并行执行工具？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/02-node-to-agent/index.md#L252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-003",
+      "originalTitle": "Agent 和 Chatbot 的本质区别是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/02-node-to-agent/index.md#L256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-004",
+      "originalTitle": "RAG 和 Fine-tuning 什么时候选哪个？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/03-rag/index.md#L191",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-005",
+      "originalTitle": "向量检索的 Top-K 设多少合适？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/03-rag/index.md#L200",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-006",
+      "originalTitle": "Embedding 模型和生成模型用同一个可以吗？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/03-rag/index.md#L204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-007",
+      "originalTitle": "为什么 Coding Agent 的工具不能太多？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/04-tools/index.md#L316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-008",
+      "originalTitle": "MCP 相比直接函数调用的优劣？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/04-tools/index.md#L320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-009",
+      "originalTitle": "如何设计一个安全的 Bash 工具？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/04-tools/index.md#L324",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-010",
+      "originalTitle": "Agent 的\"记忆\"和\"上下文\"有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/05-memory/index.md#L442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-011",
+      "originalTitle": "为什么 OpenClaw 用文件（MEMORY.md）而不是数据库存记忆？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/05-memory/index.md#L446",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-012",
+      "originalTitle": "Context Engine 的 assemble() 方法为什么重要？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/05-memory/index.md#L450",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-013",
+      "originalTitle": "压缩摘要的弊端是什么？怎么缓解？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/05-memory/index.md#L454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-014",
+      "originalTitle": "主从调度（Orchestrator + Worker）架构的问题是什么？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/06-multi-agent/index.md#L287",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-015",
+      "originalTitle": "SubAgent 和 MCP Server 的区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/06-multi-agent/index.md#L291",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-016",
+      "originalTitle": "如何设计多 Agent 间的通信协议？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/06-multi-agent/index.md#L295",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-017",
+      "originalTitle": "Agent 和 Chatbot 的区别",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L24",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-018",
+      "originalTitle": "为什么 Agent 不稳定",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-019",
+      "originalTitle": "Memory 怎么做",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L26",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-020",
+      "originalTitle": "你的 Agent 用什么执行模型？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-021",
+      "originalTitle": "工具是串行还是并行执行的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L36",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-022",
+      "originalTitle": "上下文溢出怎么处理？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L40",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-023",
+      "originalTitle": "MCP 协议解决什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-024",
+      "originalTitle": "设计一个支持 10,000 文件代码库的 Coding Agent",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L50",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-025",
+      "originalTitle": "如何让 Agent 在多用户间安全隔离",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L58",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-026",
+      "originalTitle": "为什么不用 LangChain？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L85",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-027",
+      "originalTitle": "为什么选 EventStream 模式？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L86",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-028",
+      "originalTitle": "为什么用文件（MEMORY.md）存记忆而不是数据库？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L87",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-029",
+      "originalTitle": "OpenClaw 的 Compaction 和 Claude Code 的 Compaction 有什么区别？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L142",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-030",
+      "originalTitle": "OpenClaw 的 Dreaming 系统解决什么问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-031",
+      "originalTitle": "为什么 OpenClaw 用文件锁做 per-session 串行化，而不是消息队列？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L150",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-032",
+      "originalTitle": "SKILL.md 格式为什么能跨 Agent 通用？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L154",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-TUTORIAL-OPENCLAW-033",
+      "originalTitle": "GBrain 为什么用\"确定性操作优先于 LLM 判断\"的原则？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md#L158",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

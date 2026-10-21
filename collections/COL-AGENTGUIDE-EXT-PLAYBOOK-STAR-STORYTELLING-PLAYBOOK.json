@@ -1,0 +1,142 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · STAR 项目表达专题问答",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-001",
+      "originalTitle": "为什么用 GRPO 而不是 PPO？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L70",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-002",
+      "originalTitle": "如果让你重新做一次，你会怎么改进？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L76",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-003",
+      "originalTitle": "KTClaw 和 OpenClaw 是什么关系？你为什么要基于 OpenClaw 而不是从零做？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L103",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-004",
+      "originalTitle": "三进程架构为什么比单进程好？你测过性能差异吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L106",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-005",
+      "originalTitle": "TinyClaw 和 Hermes Agent 的 Skills 系统有什么本质区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-006",
+      "originalTitle": "你怎么证明没有负迁移？怎么测的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-007",
+      "originalTitle": "你说提升了 X%，怎么确定不是数据泄漏？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L187",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-008",
+      "originalTitle": "offline 涨了 online 就涨吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L190",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-009",
+      "originalTitle": "你为什么不用 XX 方法？现在最新论文都用那个。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-010",
+      "originalTitle": "如果用 GPT-5 直接做，你的方案还存在吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-011",
+      "originalTitle": "你这个项目花了不少算力，ROI 怎么算？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L203",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-012",
+      "originalTitle": "如果预算砍到 1/3，你还能做吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L206",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-013",
+      "originalTitle": "你的 reward 怎么设计的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L211",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-014",
+      "originalTitle": "格式奖励一开始就加了吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L212",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-015",
+      "originalTitle": "0.1 这个数怎么定的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L213",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-016",
+      "originalTitle": "格式奖励太大会不会导致模型只会写格式不会解题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L214",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-017",
+      "originalTitle": "你觉得这个项目最大的问题是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L220",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-018",
+      "originalTitle": "你遇到过最大的技术困难是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-019",
+      "originalTitle": "你如何平衡研究深度和工程交付？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L249",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK-020",
+      "originalTitle": "你为什么选择小红书 AI Agent 算法岗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L253",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

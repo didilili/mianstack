@@ -1,0 +1,174 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · Tokenizer与Embedding",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-001",
+      "originalTitle": "【Embedding维度】Embedding维度是多少？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1824",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-002",
+      "originalTitle": "【分词方式】大模型一般使用的是什么分词方式？你还知道哪些分词方式？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1825",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-003",
+      "originalTitle": "【BERT编码融合】Bert三种编码代表不同的信息为什么可以被加在一起（信息会不会被混淆）？请简述Bert三种编码。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1830",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-004",
+      "originalTitle": "【Embedding与向量化】1. embedding怎么做的，从id到embedding有哪些实现方式？2. embedding有没有特殊处理？3. Token向量化具体怎么计算？4. 介绍一下你了解的embedding模型（包括常见的向量模型）及其发展现状。5. 信息被压缩的程度有什么不同？6. 同一个token在不同位置的向量是一样的吗？7. 怎么理解词与词之间的距离？ 「字节Seed、字节跳动、百度、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1831",
+      "reviewStatus": "confirmed",
+      "reviewNote": "Embedding 未说明特殊处理方式与压缩度量。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-005",
+      "originalTitle": "【Tokenizer与Embedding综合】1. 简单描述一下BPE算法。2. 说一下向量化的过程。3. 项目中使用的Embedding模型结构是什么？4. 项目里重构的词表是什么量级的，基模是什么？ 「京东、百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1832",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-006",
+      "originalTitle": "【分词与词表】1. BPE和WordPiece的区别与异同点是什么？2. Byte-Pair Encoding (BPE) 如何构建词典？3. 介绍一下SentencePiece思路？4. Transformer模型的分词过程是怎样的？5. 为什么不能只用一个向量来表示? 6. 举例并介绍不同大模型LLMs的分词方式及其区别？7. 大模型的编码方式有哪些？8. 大模型的词表是怎么生成和使用的？9. 讲一下文本分词的pipeline。10. 目前中国大模型和国外大模型在词表这方面有什么区别。 「字节跳动、百度、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1833",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“只用一个向量来表示”未说明表示对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-007",
+      "originalTitle": "【序列处理与Padding】1. 左padding还是右padding？2. 序列做了什么相关处理？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1834",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-008",
+      "originalTitle": "【Embedding向量处理】Embedding 向量在实际使用中是如何做归一化、存储和索引的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1839",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-009",
+      "originalTitle": "【Embedding模型选择】Embedding模型怎么选的和微调过吗？用的是什么模型，为什么选择它？如果选的是BGE，请说明原因。 「字节跳动、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1840",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-010",
+      "originalTitle": "【Embedding模型部署】embedding模型是线上?为什么没考虑线下部署? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1841",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-011",
+      "originalTitle": "【OOV对SFT影响】预训练阶段如果使用BPE分词，SFT阶段遇到OOV时，模型表现会如何? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1843",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-012",
+      "originalTitle": "【Tokenizer实现】讲下tokenizer具体怎么实现的？有哪些tokenizer的实现方式？ 「字节Seed、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1844",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-013",
+      "originalTitle": "【上下文不足】有对单条assistant做压缩吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1845",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-014",
+      "originalTitle": "【多语言Tokenizer】多语言训练里tokenizer一般怎么做？中英文混训时常见问题有哪些（比如分词颗粒度、混比、符号处理）？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1846",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-015",
+      "originalTitle": "【截断语义丢失】在你的项目过程中，截断导致语义丢失的问题出现多吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1847",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-016",
+      "originalTitle": "【旋转位置编码 vs 正余弦】旋转位置编码相比于传统正余弦位置编码的区别？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1848",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-017",
+      "originalTitle": "【词表扩增必要性】领域模型词表扩增是不是有必要的？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1849",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-018",
+      "originalTitle": "【词表评估】重构词表之后有没有评估词表训得好坏的方式？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1850",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-019",
+      "originalTitle": "【语义切分 vs 子词切分】为什么不用基于 embedding 的语义切分? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1851",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此处按 Tokenizer 与 Embedding 的模型输入语境理解分词粒度。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-020",
+      "originalTitle": "【连续与非连续数据处理】连续数据的处理方式，非连续数据的处理方式。如何得到具体他要求的分词情况？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1852",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“连续/非连续数据”未说明数据类型与分词规则。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-021",
+      "originalTitle": "【Tokenizer实现】代码：实现一个Tokenizer，只能用PyTorch基础语法。 「百度、百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1857",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-022",
+      "originalTitle": "【Tokenizer问题】如果用 Qwen3 做代码补全 Agent，你负责 tokenizer，会遇到什么问题？怎么处理？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1858",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-023",
+      "originalTitle": "【多向量与Embedding训练】多向量模型、embedding模型如何训练？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1859",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-024",
+      "originalTitle": "【矩阵数据转Token】矩阵数据如何转换成token（相当细节）？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1860",
+      "reviewStatus": "needs_review",
+      "reviewNote": "矩阵的轴、元素含义与 Token 输出约定未说明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER-025",
+      "originalTitle": "【词表扩展与训练】词表扩展:品牌词被BPE切太碎，怎么扩词表+把新token训好? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L1861",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

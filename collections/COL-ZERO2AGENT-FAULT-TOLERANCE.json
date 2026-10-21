@@ -1,0 +1,248 @@
+{
+  "id": "COL-ZERO2AGENT-FAULT-TOLERANCE",
+  "publisherId": "PUB-ONEFLY",
+  "title": "zero2Agent · 容错与鲁棒性面试题",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering",
+    "software"
+  ],
+  "sourceKind": "course_question_set",
+  "sourceClaim": "zero2Agent 面试通关模块的《容错与鲁棒性：超时、报错、误操作的工程化处理》专题。",
+  "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-001",
+      "originalTitle": "Agent 如何减少幻觉？在工业场景下怎么做？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-002",
+      "originalTitle": "执行到一半，比如调支付接口超时了，Agent 怎么处理？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L54",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-003",
+      "originalTitle": "你怎么设计 Agent 的失败恢复机制？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L77",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-004",
+      "originalTitle": "如果 Agent 的决策出错了，比如错误删除了数据，系统设计上怎么防范？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L123",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-005",
+      "originalTitle": "你会如何限制 Agent 的思考深度、工具调用次数和递归层级，避免无限循环？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L148",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-006",
+      "originalTitle": "幻觉的各种治理手段，优缺点分别是什么？行为限制在什么阶段做？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L221",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-007",
+      "originalTitle": "如果 Agent 在中间步骤已经偏了，但表面上还能继续执行，你怎么尽早发现？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-008",
+      "originalTitle": "Agent 执行 shell 命令怎么保证安全？还有哪些安全问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-009",
+      "originalTitle": "Prompt 注入攻击如何防御？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-010",
+      "originalTitle": "工具调用的安全控制是怎么实现的？如何限制模型调用敏感接口？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L473",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-011",
+      "originalTitle": "资源紧张怎么处理？资源紧张时候的用户排队机制怎么实现？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-012",
+      "originalTitle": "Skill 间需要传递敏感信息时，如何做到内部可用、对用户不可见？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L605",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-013",
+      "originalTitle": "Agent 系统的安全护栏怎么设计？敏感词拦截的工程方案有哪些？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L645",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-014",
+      "originalTitle": "高风险在线环境中，Agent 的异常管控方案怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L698",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-015",
+      "originalTitle": "为什么在复杂的 Agent 闭环场景中，仅靠 RAG 无法彻底解决幻觉问题？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L761",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-016",
+      "originalTitle": "支付等高敏感操作场景下，Human-in-the-Loop 流程怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L848",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-017",
+      "originalTitle": "Agent 的 Self-Reflection 机制怎么识别输出中的逻辑错误？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L887",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-018",
+      "originalTitle": "金融系统不能让 Agent 真实操作（钱放出去就是大问题），怎么设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L943",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-019",
+      "originalTitle": "Agent 系统中网络抖动 vs 真实故障，如何区分判断？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L989",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-020",
+      "originalTitle": "NL2SQL 场景下的 SQL 安全防护怎么做？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1008",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-021",
+      "originalTitle": "如果上下文爆炸或工具循环调用，你是怎么解决的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1032",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-022",
+      "originalTitle": "Agent 系统的 fallback 是怎么做的？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1070",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-023",
+      "originalTitle": "介绍下整体的失败重试机制——node、RAG 链、tools 分别怎么做？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-024",
+      "originalTitle": "Agent 用状态机编排时，状态机卡死悬停、死循环怎么排查和熔断？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1136",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-025",
+      "originalTitle": "工具调用返回结果为空或调用失败，Agent 应该怎么处理？是直接重试还是换策略？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1174",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-026",
+      "originalTitle": "页面结构变化导致 Skill 失效时，如何检测、降级与修复？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-027",
+      "originalTitle": "在跨境汇款等金融业务场景下，Agent 超时/失败如何应对，并保证资金安全？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-028",
+      "originalTitle": "Agent 失败通常有哪些原因？如何快速定位责任层？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1308",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-029",
+      "originalTitle": "所有模型超时或故障时怎么兜底？什么时候用规则引擎，什么时候转人工，服务恢复后怎么回切？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1341",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-030",
+      "originalTitle": "工具失败后，哪些异常处理应由大模型参与，哪些必须由确定性程序控制？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-031",
+      "originalTitle": "Agent 无法处理任务时，“求助 / 升级”状态机应该如何设计？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-032",
+      "originalTitle": "Agent Workflow 如何保证节点原子性，并在部分成功后安全回滚？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-033",
+      "originalTitle": "为什么安全攻击检测不能只依赖大模型？规则、专用模型和 LLM 应该如何分工？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-034",
+      "originalTitle": "LLM 没有走标准 Tool Call，而是在文本里直接输出命令请求，系统如何识别、执行并拦截风险？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-035",
+      "originalTitle": "长时间运行的 Coding Agent 等待用户决策时，如何避免任务永久卡住？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1510",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-036",
+      "originalTitle": "如何对自己的 Agent 做系统化红队测试，而不是只测 Prompt Injection？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1533",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-037",
+      "originalTitle": "Coding Agent 看到 .env 文件会怎样？如何设计安全边界？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-ZERO2AGENT-FAULT-TOLERANCE-038",
+      "originalTitle": "如何设计可靠的 Webhook 投递保障？",
+      "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md#L1590",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

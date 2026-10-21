@@ -1,0 +1,43 @@
+{
+  "id": "COL-AGENTGUIDE-RESUME",
+  "publisherId": "PUB-AGENTGUIDE",
+  "title": "AgentGuide · 简历与项目证据追问",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AgentGuide 的简历与项目追问。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/20-resume-guide.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-RESUME-001",
+      "originalTitle": "你这个项目到底是不是自己做的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/20-resume-guide.md#L239",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-RESUME-002",
+      "originalTitle": "为什么不用现成平台，比如 Dify / Coze？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/20-resume-guide.md#L256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-RESUME-003",
+      "originalTitle": "你的指标怎么来的？可信么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/20-resume-guide.md#L264",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-RESUME-004",
+      "originalTitle": "简历中最容易被追问的点有哪些？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/20-resume-guide.md#L278",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

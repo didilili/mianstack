@@ -1,0 +1,97 @@
+{
+  "id": "COL-AIGC-VIDEO-06",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 06_人体视频生成专题",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-VIDEO-06-001",
+      "originalTitle": "1.请解释什么是人体视频生成？它在哪些领域有应用前景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L18",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-002",
+      "originalTitle": "2.人体视频生成面临哪些主要挑战？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-003",
+      "originalTitle": "3.请详细解释人体视频生成与传统视频生成的主要区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L40",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-004",
+      "originalTitle": "4.人体视频生成中的「时间一致性」具体指什么？有哪些技术手段可以保证？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L66",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-005",
+      "originalTitle": "5.请分析人体视频生成技术在虚拟数字人领域的应用前景与挑战",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-006",
+      "originalTitle": "6.人体视频生成中的「运动-外观解耦」为什么重要？如何实现？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-007",
+      "originalTitle": "7.请阐述人体视频生成技术从GAN到扩散模型的发展脉络",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-008",
+      "originalTitle": "8.请比较文本驱动人体视频生成的两种主要方法",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L183",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-009",
+      "originalTitle": "9.音频驱动人体视频生成有哪些子任务？各自的技术难点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-010",
+      "originalTitle": "10.姿势引导的人体视频生成中，不同类型的姿势条件各有什么特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L211",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-011",
+      "originalTitle": "11.列举几个常用的人体视频生成数据集并说明其特点",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L224",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-012",
+      "originalTitle": "12.人体视频生成常用的评估指标有哪些？如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L245",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-VIDEO-06-013",
+      "originalTitle": "13.未来人体视频生成的可能发展方向有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/06_%E4%BA%BA%E4%BD%93%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%93%E9%A2%98.md#L269",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-DATA-SYNTHESIS-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 数据合成与流水线专题问答",
+  "coverage": [
+    "rag",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-DATA-SYNTHESIS-PLAYBOOK-001",
+      "originalTitle": "Self-Instruct 和 Evol-Instruct 的区别是什么？各适合什么场景？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L223",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-DATA-SYNTHESIS-PLAYBOOK-002",
+      "originalTitle": "Rejection Sampling 在整个后训练流程中处于什么位置？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-DATA-SYNTHESIS-PLAYBOOK-003",
+      "originalTitle": "你在 GoAfar 里用 GPT-4o 生成纠错轨迹，你怎么保证这些轨迹的质量？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L243",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-DATA-SYNTHESIS-PLAYBOOK-004",
+      "originalTitle": "AgenticRAGTracer 的 Dependency Irreducibility 是什么意思？为什么那么重要？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-DATA-SYNTHESIS-PLAYBOOK-005",
+      "originalTitle": "如果在小红书为 C 端 Agent 合成训练数据，你的种子数据从哪来？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-DATA-SYNTHESIS-PLAYBOOK-006",
+      "originalTitle": "DataFlow 和传统逐个写脚本的数据处理方式有什么本质不同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md#L278",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

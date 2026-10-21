@@ -1,0 +1,291 @@
+{
+  "id": "COL-AIML-CODING",
+  "publisherId": "PUB-AIMLINTERVIEWS",
+  "title": "AIMLInterviews · 模型与 Agent 编程",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "coding"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AIMLInterviews 的英文原题、编码练习与项目追问。其中第 042 条为 Matthew Lamm 署名的 CS224N Word Window Classification Notebook 练习；该署名仅适用于此条，AIMLInterviews 为收录项目。",
+  "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md",
+  "sourceAttribution": {
+    "name": "Matthew Lamm",
+    "url": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/notebooks/ww_classifier.ipynb",
+    "role": "author",
+    "scope": "其中第 42 题来自 Matthew Lamm 编写的 CS224N Word Window Classification Notebook 练习。",
+    "itemIds": [
+      "COL-AIML-CODING-042"
+    ]
+  },
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIML-CODING-001",
+      "originalTitle": "Numerically stable softmax and cross-entropy",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L38",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-002",
+      "originalTitle": "Linear regression with gradient descent",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L39",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-003",
+      "originalTitle": "Logistic regression with gradient descent",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L40",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-004",
+      "originalTitle": "k-nearest neighbors",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L41",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-005",
+      "originalTitle": "k-means clustering",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L42",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-006",
+      "originalTitle": "Decision-tree split",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L43",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-007",
+      "originalTitle": "Principal component analysis",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L44",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-008",
+      "originalTitle": "2D convolution",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-009",
+      "originalTitle": "Binary metrics and ROC-AUC",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L46",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-010",
+      "originalTitle": "Reservoir sampling",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L47",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-011",
+      "originalTitle": "Linear SVM and hinge loss",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-012",
+      "originalTitle": "Perceptron learning rule",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-013",
+      "originalTitle": "Feedforward neural network and backpropagation",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L50",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-014",
+      "originalTitle": "Multiclass metrics and macro averaging",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L51",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-015",
+      "originalTitle": "Multinomial Naive Bayes for text",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L52",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-016",
+      "originalTitle": "Matrix factorization for recommendations",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-017",
+      "originalTitle": "Gradient-boosting residual step",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L54",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-018",
+      "originalTitle": "Train/validation/test split without leakage",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L55",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-019",
+      "originalTitle": "Feature standardization with training statistics",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L56",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-020",
+      "originalTitle": "Missing values and unseen categories",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L57",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-021",
+      "originalTitle": "Uniform, weighted, and stratified sampling",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L58",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-022",
+      "originalTitle": "Sample-weighted losses and streaming metrics",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L59",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-023",
+      "originalTitle": "TF-IDF",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L67",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-024",
+      "originalTitle": "Scaled dot-product attention",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-025",
+      "originalTitle": "Learn and apply byte-pair encoding",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-026",
+      "originalTitle": "Build a causal attention mask",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L70",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-027",
+      "originalTitle": "Sinusoidal positional encoding",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-028",
+      "originalTitle": "Temperature, top-k, and top-p sampling",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-029",
+      "originalTitle": "Append-only KV cache",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-030",
+      "originalTitle": "Pad variable-length token batches",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L74",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-031",
+      "originalTitle": "LoRA update for a linear layer",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-032",
+      "originalTitle": "Symmetric contrastive loss",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L83",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-033",
+      "originalTitle": "Exact cosine top-k retrieval for RAG",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L84",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-034",
+      "originalTitle": "Direct Preference Optimization loss",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L85",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-035",
+      "originalTitle": "Classifier-free guidance combination",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L86",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-036",
+      "originalTitle": "Validate JSON tool arguments",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-037",
+      "originalTitle": "Permission-aware tool registry",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L95",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-038",
+      "originalTitle": "Planner/executor boundary",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-039",
+      "originalTitle": "Retry with idempotency",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L97",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-040",
+      "originalTitle": "Sliding-window conversation memory",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-041",
+      "originalTitle": "Bounded agent tool-use loop",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md#L99",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-CODING-042",
+      "originalTitle": "The task at hand is to assign a label of 1 to words in a sentence that correspond with a LOCATION, and a label of 0 to everything else. \n\nIn this simplified example, we only ever see spans of length 1.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/notebooks/ww_classifier.ipynb",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：markdown cell 3。此条为 CS224N 课程背景的单词跨度 LOCATION 二分类练习。"
+    },
+    {
+      "id": "COL-AIML-CODING-043",
+      "originalTitle": "# Implement LoRA on a Linear Layer\n\n**Difficulty**: 🟡 Medium\n\n\n---\n\n### Problem Statement\n\nLow-Rank Adaptation (LoRA) is one of the most important parameter-efficient fine-tuning techniques in modern deep learning. Instead of fine-tuning all parameters of a pretrained model, LoRA freezes the original weights and injects small, trainable low-rank matrices into each layer. This dramatically reduces the number of trainable parameters while maintaining model quality.\n\nThe key idea: instead of learning a full weight update ΔW (d_in × d_out), LoRA decomposes it into two low-rank matrices: ΔW = B × A, where A is (d_in, r) and B is (r, d_out), with rank r << min(d_in, d_out).\n\nThe forward pass becomes: output = Wx + (α/r) × x @ A @ B\n\nYour task is to implement LoRA from scratch, apply it to an existing model, and merge the adapted weights back.\n\n---\n\n### Requirements\n\n1. **LoRALinear** — A module that wraps an existing `nn.Linear`, adds low-rank matrices A and B, and freezes the original weights.\n2. **apply_lora** — A function that injects LoRA into specified layers of an existing model.\n3. **merge_lora** — A function that merges LoRA weights back into the original linear layer (W_new = W + (α/r) × BᵀAᵀ transposed appropriately).\n4. **Parameter Efficiency** — Show that trainable parameters are much fewer than total parameters.\n5. **Training** — Train a simple model with LoRA on synthetic data.\n\n---\n\n### Constraints\n\n- A should be initialized with Kaiming uniform; B should be initialized to zeros (so ΔW starts at zero).\n- Original weights must be frozen (requires_grad=False).\n- Merged model must produce identical outputs to the LoRA model.\n- Do **not** use any existing LoRA libraries (peft, loralib, etc.).\n\n---",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/v3/alignment-training/lora/lora.ipynb",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源定位：markdown cell 2。该 Notebook 标注来自 TorchLeet 的派生练习。"
+    }
+  ]
+}

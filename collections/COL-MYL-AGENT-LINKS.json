@@ -2,6 +2,14 @@
   "id": "COL-MYL-AGENT-LINKS",
   "publisherId": "PUB-MYL",
   "title": "Agent开发面试题",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software"
+  ],
   "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/zizeehc2qzhfy4xw",
   "sourceKind": "curated_question_set",
   "access": "public",

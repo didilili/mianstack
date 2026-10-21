@@ -1,0 +1,2024 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-6444",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 项目论文与经历",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training",
+    "software",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-001",
+      "originalTitle": "请介绍你的实习项目，包括：项目背景、数据格式、业务场景、团队规模与分工、个人贡献与参与方式、项目来源与协作方式、使用的模型与AI工具（如编程语言、代码量、常用模型、AI辅助开发工具及使用感受）、研究方向与工作内容（如实验室方向、代码与AI比例）、竞赛贡献、量化方法学习途径、个人背景与项目匹配（如基础架构或模型压缩方向）、相关工作了解（如小米的work）、项目展示（如PPT）。 「字节Seed、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-002",
+      "originalTitle": "请介绍你的项目经历（挑一个），说明你承担的角色（例如在Agent协作平台中你是主导吗？）、个人职责（负责的部分、工作内容、边界、角色和工作占比）、团队分工及依据、项目团队规模（两个项目各有多少人参与？）、项目基础（base在哪里？）、项目概述（大概说下，不要说细节）、主要业务（做什么业务）、业务任务举例、主要模型/使用模型、微调经验（你之前的经历中有做过微调吗？）、技术方向熟悉度（CV/LLM/多模态哪个更熟？）、Python技能（精通么？）、未做原因（为什么你没做？）、项目贡献和成果、项目收获、综合经历与绩效（QA及其他在校经历，现在的绩效职级等）、自我介绍与简历（介绍自己并聊简历）、PPT+论文几个介绍。 「京东、字节Seed、字节跳动、拼多多、百度、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-003",
+      "originalTitle": "请介绍你的项目经历，重点包括：1. 自我介绍，重点介绍Agent相关项目经历。2. 做了什么工作？3. 讲一下做了哪些内容，穿插提问。4. 先用一两句话讲清楚这个项目解决什么问题。5. 具体介绍项目，项目规模，是否上线，具体应用？6. 具体作用是什么？7. 具体分哪些步骤？8. 具体是怎么用的？9. 关于这些都怎么做的？10. 分析自己的简历。11. 八股简历深挖。12. 做这个项目有对标产品吗？13. 做过工程向的项目有哪些？14. 讲一下包含哪些模块？15. 包括但不限于，使用的数据集，是在什么情景下？16. 刚才听到你最开始说上下文存在噪声，对吧？17. 前端做起来有没有什么收获？18. 剩下的10%哪来的？19. 做日志或者审计了吗？20. 入职后工作内容，for数据or训练or评测。 「京东、字节Seed、字节跳动、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6464",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“剩下的 10%”等追问缺少对应前文。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-004",
+      "originalTitle": "项目介绍综合题：请介绍你最喜欢/最有成就感的项目，包括项目背景与动机、团队人数与个人角色（是否有带队经验）、工作量与个人贡献、是否落地、预训练经验等。 「字节跳动、百度、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-005",
+      "originalTitle": "【Agent项目来源】你做的这个agent项目是基于开源项目二次开发的吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6468",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-006",
+      "originalTitle": "【AI产品开发经验】你参与或者独立开发过AI产品或功能吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6469",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-007",
+      "originalTitle": "【AI使用方式】你让AI怎么做？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6470",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“让 AI 怎么做”未给出任务、输入与期望行为。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-008",
+      "originalTitle": "【AI编程】有没有过ai coding过? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6471",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-009",
+      "originalTitle": "【AI编程使用经验】你平时学习或者做简历上这些项目的时候用过ai编程吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6472",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-010",
+      "originalTitle": "【AI编程感想】询问 AI coding 的感想 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6473",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-011",
+      "originalTitle": "【与KSM的关系】和KSM的关系？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6474",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未定义 KSM 所指的系统。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-012",
+      "originalTitle": "【业务介绍】组内主要业务/工作是什么？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-013",
+      "originalTitle": "【代码文档】有没有必要的注释/文档? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-014",
+      "originalTitle": "【任务输出描述】在校项目任务的输出可以简单描述并举例吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-015",
+      "originalTitle": "【优化方向偏好】更倾向于做哪方面的优化? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6479",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-016",
+      "originalTitle": "【关键算法了解程度】你简历里提到了好几个方向的关键算法，这些你都了解吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-017",
+      "originalTitle": "【其他项目工作】在我的另一个项目中，我做了哪些工作？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-018",
+      "originalTitle": "【团队分工与协作】方向有几个人在做？模型组和策略组的关系？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6482",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-019",
+      "originalTitle": "【团队变动】后面客户负责这个的团队裁了？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6483",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题询问合作项目中客户团队的情况，未确认已发生裁撤，也未要求分析其原因。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-020",
+      "originalTitle": "【团队规模与分工】你所在的团队规模和分工是怎样的? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-021",
+      "originalTitle": "【在校经历】在校经历，成绩、竞赛、科研等 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-022",
+      "originalTitle": "【基座模型选择】基座用没用大模型？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6486",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-023",
+      "originalTitle": "【基线工作】在oppo的话主要是做些基线的工作吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-024",
+      "originalTitle": "【多智能体数量】实习中多智能体系统包含几个智能体？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6488",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-025",
+      "originalTitle": "【大模型实践】大模型的实践还做过什么实践嘛？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6489",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-026",
+      "originalTitle": "【大模型经历】有没有大模型经历 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6490",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-027",
+      "originalTitle": "【大模型运行经验】你提到的这些大模型你自己跑过哪些？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-028",
+      "originalTitle": "【学术背景】询问学校专业方向、讲学校课题 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-029",
+      "originalTitle": "【实习工作】讲一下实习期间做的工作。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-030",
+      "originalTitle": "【实习职责】实习生的职责和任务。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-031",
+      "originalTitle": "【实施环节】在哪个环节做的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6495",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-032",
+      "originalTitle": "【实验室项目】你们实验室做过哪些横向项目？具体有没有做过目录解析？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6496",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-033",
+      "originalTitle": "【客户业务】你过往合作客户的业务是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-034",
+      "originalTitle": "【导师职责】你几个导师都是干嘛的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-035",
+      "originalTitle": "【岗位匹配度】请结合你的学术背景和研究经历，谈谈你为什么认为自己适合蚂蚁集团基础算法研究员这个岗位？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6499",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-036",
+      "originalTitle": "【应用场景】使用场景分别是什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6500",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-037",
+      "originalTitle": "【开源贡献】有没有开源社区主要贡献？讲一下你给contribution给nips哪个仓库是什么？ 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6501",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-038",
+      "originalTitle": "【技术方案成就感】请描述你做过的最有成就感的技术方案。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-039",
+      "originalTitle": "【技术栈】使用哪种编程语言？涉及到的技术栈大概有哪些？ 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-040",
+      "originalTitle": "【数据类型】实习处理文本数据还是数值型数据？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6504",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-041",
+      "originalTitle": "【最了解/最佳模型】你对哪个模型最了解？你平常做的项目中，你觉得哪个模型最好？ 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6505",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-042",
+      "originalTitle": "【最大收获】在上一段实习/项目经历中，最大的收获是什么。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6506",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-043",
+      "originalTitle": "【最有应用价值的项目】你大学期间做过最有实际应用价值的算法项目是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-044",
+      "originalTitle": "【最有收获的项目】哪一段项目经历最有收获？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6508",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-045",
+      "originalTitle": "【模型参数量】实习中Qwen3VL模型是多少B的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6509",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-046",
+      "originalTitle": "【模型架构】训练的模型是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6510",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-047",
+      "originalTitle": "【模型调研】调研过哪些模型? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6511",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-048",
+      "originalTitle": "【模型调试经验】你有调试模型的经验吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-049",
+      "originalTitle": "【研究方向】研究方向？研究方向大致介绍一下; 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6513",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-050",
+      "originalTitle": "【研究生经历】研究生期间经历 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6514",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-051",
+      "originalTitle": "【科研项目概述】科研项目概诉。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6515",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-052",
+      "originalTitle": "【简历介绍】简历介绍（30分钟）。讲一下简历里的经历。 「京东、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6516",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-053",
+      "originalTitle": "【简历叙述框架】浅挖简历。用“自己承担的角色-做了什么-取得的成果”来叙述？请用STAR法则介绍项目经历。 「字节Seed、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-054",
+      "originalTitle": "【职业方向】简历里都是推荐的内容，想做搜索吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6519",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-055",
+      "originalTitle": "【自我介绍】自我介绍，重点介绍技术栈、大模型相关项目、实习经历、核心产出与落地成果，可准备PPT展示。需涵盖论文和近期工作，挑选一个做得较好的论文或实习详细讲解，并深度考察项目细节（包括上线情况、数据、优化点、评估及相关八股），无八股无coding。同时说明看机会原因，简历深挖，项目问得很细，时间约5-35分钟。 「京东、字节Seed、字节跳动、拼多多、腾讯、腾讯混元、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6520",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-056",
+      "originalTitle": "【训练基座】训练基座有的是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6521",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-057",
+      "originalTitle": "【训练时长】训练时长多久? 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6522",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-058",
+      "originalTitle": "【训练框架】你训练用的什么框架? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-059",
+      "originalTitle": "【跨部门合作】参与了哪些部门之间的合作？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6524",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-060",
+      "originalTitle": "【转行动机】科研经历离落地比较远，数学专业为什么做AI？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6525",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-061",
+      "originalTitle": "【输入特征】输入特征包含什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6526",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-062",
+      "originalTitle": "【迭代周期】多长时间一次迭代？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6527",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-063",
+      "originalTitle": "【项目Owner】有没有明确owner方向？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-064",
+      "originalTitle": "【项目亮点】你做的项目有什么亮点？你觉得还有其他亮点可以说说吗？ 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6531",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-065",
+      "originalTitle": "【项目分工】在离线多智能体这个项目中，项目的背景是什么？大家是如何分工的，包括自己负责的部分以及其他模块负责什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6532",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-066",
+      "originalTitle": "【项目反思】跑下来你自己有什么感受和想法？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6533",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-067",
+      "originalTitle": "【项目意义】这个项目的意义？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6534",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-068",
+      "originalTitle": "【项目或实习】讲一个项目或一段实习；讲实习，讲论文，讲科研项目；讲讲你的研究生毕业设计？ 「京东、字节跳动、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6535",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-069",
+      "originalTitle": "【项目熟悉程度】你对自己简历上的项目能倒背如流吗？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6536",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-070",
+      "originalTitle": "【项目目标与改进】你这个具体是希望做什么改进？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6538",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-071",
+      "originalTitle": "【项目类型】这两个项目都是从0到1的项目?有没有做过能迭代的项目? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6539",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-072",
+      "originalTitle": "【项目选择与详述】可以挑一个你觉得最有意思的实习、论文或者科研项目详细讲讲。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6540",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-073",
+      "originalTitle": "介绍项目。介绍项目，我先介绍小红书的业务基模的数据相关工作，被问到做ppl过滤的时候是否有测试不同阈值的效果？优化方案的框架、逻辑以及贡献价值动作是什么？你之前做的智驾相关项目，核心解决什么问题？你之前的项目，和百度 Apollo 的智驾业务有什么关联？你写过比较复杂的、给别人用的Skill吗？你写过的最复杂的Skill流程是什么？你在学校做过什么和运筹优化、强化学习相关的项目？你在支持Skill机制这方面具体做了哪些开发工作？介绍一下你当时做的业务。你当时有没有考虑pipeline？你搭过哪些Infra?你有写道解决了30+的bug具体是哪些问题?介绍一下你的第一个项目，具体做了什么工作？你的算法改进的背景是什么？介绍一下你的背景和项目经历，重点说说你在在大模型应用方向做了哪些事。你的项目中如何解决？你简历里\"某历史影像项目处理效率提升99%\"是怎么做的?你自己做过哪些优化？你认为项目未来价值是什么?你说的高频和低频为什么要弄这两个？你过往的项目经验，能给百度Apollo带来什么价值? 「京东、字节跳动、拼多多、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6546",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“高频和低频”未说明具体对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-074",
+      "originalTitle": "挑一个你觉得做得比较好的、最有代表性的或有趣的项目讲一下，包括做了什么、怎么做的、最后结果是什么。 「京东、拼多多、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-075",
+      "originalTitle": "简历上的项目都讲了一遍。简历上这个大模型推理优化的项目，负责哪部分工作? 简历提问:实习，搜推项目，强化学习项目。简历提问：强化学习项目。简历提问:搜推项目。讲论文项目，拷打简历。详细介绍实习项目整体背景与目的。该项目偏向研究还是落地，落地场景有什么限制？算力/数据量规模？编程能力怎么样，有没有工程项目？能给一两个 case 吗? 自己生成的，还是人工强行配的？补齐README.md文档中要求的所有交付物，并将项目所需的所有文档放在docs文件夹下。介绍一下计算方式。讨论之前的ai coding题，这个ai(longcat)写代码好用吗。训练会关注哪些重要参数和指标？训练前后区别在哪？举一个具体的例子。讲一个轨迹优化项目。讲讲你简历中什么是“感知、规划、执行、反思”？讲讲讲，每个模块都怎么实现的？ 「京东、字节Seed、字节跳动、百度、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6548",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“自己生成的，还是人工强行配的”未说明所指数据。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-076",
+      "originalTitle": "请介绍你的代表性工作，包括项目背景、动机、目标、为什么做？它主要解决了什么问题？它是怎么起作用的？怎么编辑的？怎么评估输入和输出的？成本和耗时大概多少？平均处理一张的耗时？怎么得到的这个向量？训练数据怎么来的？最终几个评测集怎么用？训练用的什么卡？用了多少张卡？训练数据集规模？训练了多少个Epoch？训练了多长时间？扮演的角色，最具挑战性的环节，企业实习和自己做科研感受的区别。你的小车项目和组里做的落地相差大吗？我看你是分开的为什么分开？我看你简历上没写RLHF，平常有用过RLHF吗？平常有尝试过训练过大模型吗，规模小一点的也没关系？对大模型的应用情况？如何将理论知识应用到实际项目中？如果项目提到某些名词会追问一下概念理解。就是你讲到什么，他就继续问什么。我看你在oppo有做过一些独立的模型的训练，当时是属于自己主动做一些调研并尝试不同模型的工作吗？当时是什么驱动你主动去调研这些不同的模型？ 「字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-077",
+      "originalTitle": "请介绍你的项目整体架构设计、迭代过程、全栈流程设计、具体实现方案、训练方式（分开还是联合）、特定模块的作用及原因、创新点及来源、单智能体可行性、参数配置对比、路径点距离（参考线上和插值后）、方案可行性（反过来行不行）、后续优化思路、Vibe编码注意事项、部署方式、实验验证情况、对话数据增强原因、车端选型依据、大模型/小模型训练经验、仿真场景库、决策依据及效果。 「京东、字节跳动、快手、拼多多、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6550",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-078",
+      "originalTitle": "请介绍你的项目/研究经历，包括：模型应用场景与研发进展；模型如何训练、升级迭代、是否基于开源模型；每一步的出发点和落脚点；毕设项目的意义和应用场景；是否使用过Qwen及经验；当前研究；生成完成后是否直接上线；使用的backbone、方法、数据量；完成过的任务类型（如预训练、微调）；模型介绍；百度特殊实践；未来计划；项目终止原因（如Agent设施工程）；研究背景；项目输出；实习经历及另一段大模型经历。 「京东、字节跳动、百度、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6551",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-079",
+      "originalTitle": "请介绍你的项目经历，包括：1. 项目背景、场景、数据集如何构建？2. 模型架构如何设置？3. 模块为什么这样设计？4. 真值系统介绍。5. 元素定位Agent是什么及用途？6. 方法动机是什么？7. 多域建模前是否有探索性数据分析？8. 项目任务类型（如指代分割等）。9. 遇到过什么问题（如上线导致的问题）？10. 用了多少AI coding，如何提问（直接提问还是先写需求文档）？11. LLM用在哪？12. 工作内容是否涉及训练大模型？13. 这段经历与投递TET方向的能力匹配点。14. 追问之前一段研究经历。15. 针对PPT提问。16. 针对项目细节提问。17. 实习项目怎么做的，数据啥样，怎么设计？18. 实习公司团队和项目背景，细问其中几个项目。 「京东、字节跳动、百度、百度文心、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6552",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-080",
+      "originalTitle": "请介绍你的项目经历，包括但不限于以下方面： - Agent协作平台项目：背景、是否基于开源二次开发、追问细节。 - AICoding项目：使用的模型及对比、简单展开。 - Base模型、Benchmark与训练模型。 - DeepLocals创业项目：背景、解决的用户问题。 - GitHub上贡献的开源项目介绍。 - MMOE项目：来源、动机与实现细节。 - NLP相关模型经验。 - RAG项目亮点。 - Rewrite模型：具体输入输出。 - 前沿技术了解：是否看过技术报告。 - 下游额外处理。 - 不同板块的区别。 - 不同方向模型的区别。 - 预训练数据工作：兴趣和迁移基础。 - 项目异同点。 「京东、字节跳动、百度、百度文心、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6553",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-081",
+      "originalTitle": "项目背景、实际落地、主要功能、团队规模、开发周期、基于规则、设备信息；项目落地实施的具体做法；项目中迁移学习的具体应用。 「字节跳动、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6554",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-082",
+      "originalTitle": "【FSM模块组成】整个FSM通过几个模块来完成？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6557",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-083",
+      "originalTitle": "【关键差异对比】有哪些关键差异？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6558",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“哪些关键差异”缺少比较对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-084",
+      "originalTitle": "【换道模型与学校工作联系】换道模型和学校工作的联系是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6559",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-085",
+      "originalTitle": "【数据集介绍】介绍一下你的数据集，是否使用过工业数据集？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6560",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-086",
+      "originalTitle": "【文本分析竞赛】文本分析竞赛经历。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6561",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-087",
+      "originalTitle": "【核心功能实现】核心功能如何实现？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6563",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-088",
+      "originalTitle": "【核心变量】核心变量是什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6564",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“核心变量”未给出所属模型、公式与业务对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-089",
+      "originalTitle": "【自适应机制】有没有自适应机制？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6566",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“自适应机制”未说明适应对象、触发信号与所属组件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-090",
+      "originalTitle": "【近期工作】最近在做什么工作？介绍最近在做的研究工作。 「腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6567",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-091",
+      "originalTitle": "【音视频数据增强】请描述一个你曾经处理过的音视频数据增强案例。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6568",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-092",
+      "originalTitle": "【项目介绍与反思】介绍你的项目经历（包括实验室项目、小论文项目、实习项目、快手实习、推荐系统相关项目、Agent相关经历等），说明项目动机、主要工作、做法原因、处理方式原因、项目必要性、收获、评价反馈，以及为什么选择强化学习作为研究方向。同时，回顾之前aicoding笔试，指出改进点。介绍组内情况。 「京东、字节跳动、快手、拼多多、百度、百度文心、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6569",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-093",
+      "originalTitle": "【项目优化经验】有做过优化吗？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6570",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-094",
+      "originalTitle": "【项目模型使用】整个项目用了哪些模型？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6571",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-095",
+      "originalTitle": "【项目流程】整个项目的流程是怎样的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6572",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-096",
+      "originalTitle": "【项目背景与SFT动机】整体项目背景，其中第一个SFT工作的motivation、目标要求。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6573",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-097",
+      "originalTitle": "【5G项目】解释一下5G项目? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6578",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-098",
+      "originalTitle": "【Agent效果评测】项目里agent效果评测 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6579",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-099",
+      "originalTitle": "【Agent设计与创新】问之前实习的Agent的设计逻辑，问创新方法的实现。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6580",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-100",
+      "originalTitle": "【Chatbot评估】如何评估chatbot的效果(自己的项目)？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6581",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-101",
+      "originalTitle": "【GMV优化】GMV优化如何做的，最终上线了哪个？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6582",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-102",
+      "originalTitle": "【ICP G-N解法】项目介绍，根据项目提问，“挑选一个你最熟悉的项目” 介绍的ICP的G-N解法。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-103",
+      "originalTitle": "【LoRA项目部署】LoRA项目有做过推流吗，什么容器？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-104",
+      "originalTitle": "【Memory模块设计】Memory模块怎么设计的，为什么这样设计？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6585",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-105",
+      "originalTitle": "【ModalityAdapter设计】ModalityAdapter模态适配器这个模块你是怎么设计的？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6586",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-106",
+      "originalTitle": "【PD解耦分离实现】之前实习做的PD解耦分离是怎么实现的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6587",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-107",
+      "originalTitle": "【Pipeline设计】Pipeline怎么设计的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6588",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-108",
+      "originalTitle": "【RAG应用】项目你负责的是哪一部分，为什么要用RAG（或为什么训练后要用RAG）？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6589",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-109",
+      "originalTitle": "【RAG项目与核心思想】介绍第一个项目，我的是一个rag的项目，先介绍了大概思路，然后问我rag的核心思想是什么 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6590",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-110",
+      "originalTitle": "【ROS开发经验】除了用ROS自带的，还实现了哪些功能？在ROS开发中学到了哪些？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6591",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-111",
+      "originalTitle": "【Router介绍】介绍你的 router。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6592",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-112",
+      "originalTitle": "【RSS模型】采用RSS模型的初衷、实现过程。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6593",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-113",
+      "originalTitle": "【ViT多阶段训练】改了一个ViT，你如何多阶段训练？用了多少数据？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6594",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-114",
+      "originalTitle": "【下游任务效果提升】下游任务介绍，效果为什么会有提升？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6595",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-115",
+      "originalTitle": "【业务pipeline与训练阶段】问之前的业务，整体的pipeline，cpt和sft有什么不同，然后问知识蒸馏一般是在哪个阶段做。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6596",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-116",
+      "originalTitle": "【代码实现与职业规划】手撕代码和个人规划。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6597",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-117",
+      "originalTitle": "【代码展示】看了我平时项目的一些代码，并且让我现场展示了一个项目。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-118",
+      "originalTitle": "【任务拆解】如果交给你，你来如何拆解？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6599",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“交给你如何拆解”缺少待拆解的任务与目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-119",
+      "originalTitle": "【分阶段原因】为什么需要分阶段？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6600",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明分阶段的对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-120",
+      "originalTitle": "【图像视频生成与AIGC】项目，然后说主要还是think with image相关的工作，了解图像、视频生成模型吗，有无AIGC经验？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6601",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-121",
+      "originalTitle": "【基座模型数学能力提升】为什么你只对基座模型的数学能力做提升？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6602",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-122",
+      "originalTitle": "【多传感器融合测试】请分享一个你在测试中使用的多传感器融合测试方法。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6603",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-123",
+      "originalTitle": "【多模态框架】项目中多模态框架具体是怎么做的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6604",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-124",
+      "originalTitle": "【多模态算法优化案例】描述一个你曾经优化过的多模态算法案例，具体采取了哪些技术手段？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6605",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-125",
+      "originalTitle": "【大规模AI项目】详细描述你参与过的大规模AI训练或推理项目（用STAR法则）。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6606",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-126",
+      "originalTitle": "【字节项目介绍】直接聊字节项目：简单介绍字节实习，业务背景，业务指标，介绍独立模型的搭建。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6607",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-127",
+      "originalTitle": "【学术与实习经历】介绍一下本科毕设、硕士的研究课题和之前的一段实习，然后追问一些细节。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6608",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-128",
+      "originalTitle": "【实习经历挖掘】简历挖掘：过往实习经历（讲了项目背景、卡点&解决、以及反思还有待提升的地方） 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6610",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-129",
+      "originalTitle": "【实习项目与业务理解】介绍实习中项目，体现业务理解。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6611",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-130",
+      "originalTitle": "【实习项目与基础知识】讲实习项目，创新点、数据挖掘、应用场景，auc怎么算，了解哪些分类模型和回归模型？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-131",
+      "originalTitle": "【实习项目介绍与拷问】挑一个项目讲，选择了实习的项目，拷打了实习的项目。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6613",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-132",
+      "originalTitle": "【实习项目全流程】详细介绍实习项目，问其中每个阶段具体的工作内容，项目的应用场景，每一步的原因和应用，成果，是否有上线。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-133",
+      "originalTitle": "【实习项目引申提问】介绍实习和项目，问的东西都基本引申于项目。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-134",
+      "originalTitle": "【实用技巧】有哪些实用trick/技巧? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6616",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源没有说明技巧用于哪项任务或哪个组件，需先补充对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-135",
+      "originalTitle": "【对比学习应用】个人项目中如何使用对比学习？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6617",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-136",
+      "originalTitle": "【工作串联】结合工作路线把自己的工作串起来讲一下。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6618",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-137",
+      "originalTitle": "【意图识别】科研项目中的意图识别是怎么做的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6619",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-138",
+      "originalTitle": "【打分模型选择】为什么你用72b模型单独训打分模型？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6620",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-139",
+      "originalTitle": "【技术原理】背后的技术原理是什么? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6621",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源只写“背后的技术原理”，没有交代所指技术，需补充项目上下文。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-140",
+      "originalTitle": "【探索方向与问题】主要用了什么方向的探索，解决什么探索？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6622",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明探索方向与研究目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-141",
+      "originalTitle": "【推荐项目改进】详细介绍下推荐项目，自己主要做了什么，如何改进？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6623",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-142",
+      "originalTitle": "【数据与评测设计】详细拷打项目，数据是怎么生成，怎么配比，评测方案为什么这样设计。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6624",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-143",
+      "originalTitle": "【数据分析优化模型案例】描述一个你通过数据分析优化模型性能的案例。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6625",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-144",
+      "originalTitle": "【数据集构建与业务】讲一下项目，其中一个项目涉及到了数据集构建，结合他们那边的具体业务抛出相关的问题，并提问有没有可行的解决方案。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6626",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-145",
+      "originalTitle": "【文心项目贡献】介绍一下文心项目，你在其中的具体贡献是什么? 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-146",
+      "originalTitle": "【新想法与替代方法】最近有尝试什么新想法吗？有什么别的方法？ 「美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6628",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-147",
+      "originalTitle": "【新特征获取方法】新加的特征具体是怎么得到的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6629",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-148",
+      "originalTitle": "【智能NPC模型影响】问我实习相关的，我实习是一个智能npc相关的，然后介绍了一下背景，他问哪些对模型影响比较大。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6630",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“哪些对模型影响比较大”缺少因素指代。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-149",
+      "originalTitle": "【智能体筛选与轨迹打分】重要智能体筛选、轨迹特征打分是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6631",
+      "reviewStatus": "needs_review",
+      "reviewNote": "重要智能体与轨迹特征未给出定义、输入与打分用途。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-150",
+      "originalTitle": "【最熟悉项目介绍】介绍你自己最熟悉的一项工作/项目（涉及到以下八股），项目中做了什么？ 「字节Seed、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6632",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-151",
+      "originalTitle": "【最终结构与scaling】最后采用的结构是怎么样的，如何scaling的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6633",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-152",
+      "originalTitle": "【有效性判断实现】有效性判断怎么实现的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6634",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明判断“有效”的对象与标准。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-153",
+      "originalTitle": "【有限状态机】有限状态机的完善过程是什么样的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6635",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-154",
+      "originalTitle": "【模型对比原因】项目中为什么对比随机森林和U-net模型？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6636",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-155",
+      "originalTitle": "【模型架构与指标】模型架构详细介绍，结果的输出，指标。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6637",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-156",
+      "originalTitle": "【模型设计与训练】有没有自己从头设计和训练过一个模型?调超参数的经验?训练集和测试集怎么划分? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6638",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-157",
+      "originalTitle": "【模型部署】模型在车上的工作模式? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6639",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-158",
+      "originalTitle": "【模型部署与场景适配】如何将训练的模型接入仿真平台、如何只适配换道场景？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6640",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-159",
+      "originalTitle": "【比赛项目与算法】了解比赛项目，问强化学习和xgboost。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6641",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-160",
+      "originalTitle": "【比赛/项目内容与结果】介绍之前比赛或项目的具体工作内容和结果？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-161",
+      "originalTitle": "【沙尘模拟】沙尘模拟具体是怎么实现的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6643",
+      "reviewStatus": "needs_review",
+      "reviewNote": "沙尘模拟未说明模拟对象、平台与目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-162",
+      "originalTitle": "【消费侧策略】第二个项目的消费侧策略的主要做法是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6644",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-163",
+      "originalTitle": "【物流优化项目】XX物流优化项目，你是从哪几个环节做降本提效的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6645",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-164",
+      "originalTitle": "【特征构建逻辑】个特征的构建逻辑是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6646",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-165",
+      "originalTitle": "【独立模型工作】独立模型做了什么工作：样本、特征、label？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6647",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-166",
+      "originalTitle": "【独立精排模型】为什么要建立一个独立精排模型，样本占比多少？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6648",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-167",
+      "originalTitle": "【端到端换道模型】端到端换道模型：模型的出发点、输入输出、结构概述 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6650",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-168",
+      "originalTitle": "【第一个项目细节追问】介绍第一个项目，打断问一些细节 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6651",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-169",
+      "originalTitle": "【算法与网络结构】介绍一下算法和网络结构。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6652",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-170",
+      "originalTitle": "【算法支撑业务】基础算法研究如何支撑蚂蚁集团的各项业务(如支付、风控、信贷、理财)?请举例说明。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6653",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-171",
+      "originalTitle": "【算法选择理由】XXX实习里面某个部分为什么要选这个算法，它有什么优点，怎么解决这个问题的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6654",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-172",
+      "originalTitle": "【系统架构】系统整体架构是什么? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6655",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-173",
+      "originalTitle": "【脑机接口实现】介绍脑机接口具体是如何做的。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6656",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-174",
+      "originalTitle": "【自动化评分项目】介绍一下自动化评分的背景、所用手段、解决的问题以及达到的效果。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6657",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-175",
+      "originalTitle": "【视频时间点输出】问项目，视频如何处理能输出准确时间点？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-176",
+      "originalTitle": "【计算方式解释】为什么是这样算的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6659",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“为什么这样算”缺少对应公式与计算对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-177",
+      "originalTitle": "【训练方法选择】打算用有监督还是无监督？具体打算怎么训练？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6660",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-178",
+      "originalTitle": "【训练流程】训练流程是什么？不是只问它们分别是什么，还会问整个训练流程是怎么样的。 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6661",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-179",
+      "originalTitle": "【训练设计】练在其中如何设计? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6662",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“练在其中如何设计”疑有缺字，所属模型与环节不明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-180",
+      "originalTitle": "【训练配置与学习率选择】什么平台上训练的？训练多久？学习率多少？为什么是这个学习率？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6663",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-181",
+      "originalTitle": "【论文与视频切割方法】介绍论文，期间有问数据处理过程，涉及到将长视频切割成短视频的过程，用什么方法切割的。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6664",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-182",
+      "originalTitle": "【设计理由与计算方式】为什么这么设计？（包括具体的计算方式） 「字节Seed、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6665",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-183",
+      "originalTitle": "【调度策略统计】有做调度策略的实际到达情况、中途接单情况的统计吗？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6666",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-184",
+      "originalTitle": "【轨迹构造】自己做的项目：trajectory如何构造 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6667",
+      "reviewStatus": "needs_review",
+      "reviewNote": "trajectory 未说明指交互轨迹还是物理运动轨迹。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-185",
+      "originalTitle": "【迭代点与效果提升】主要迭代了哪几个点，哪些点对效果提升比较明显？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6668",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-186",
+      "originalTitle": "【非命中问题】针对项目一，为什么要掺杂非命中问题？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6669",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“非命中”未说明命中对象、混入的数据集与用途。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-187",
+      "originalTitle": "【音视频超分优化】请分享一个你在音视频超分辨率中的优化案例？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6670",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-188",
+      "originalTitle": "【项目与工业界对比】项目和工业界相比少了哪些环节？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6671",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-189",
+      "originalTitle": "【项目介绍】实习项目详述：完整构建流程是什么？实习中使用的范式相比之前的有什么优点？实习中涉及到的束搜索。实习经历：请你说说你在这个项目中是怎么做的？遇到问题如何解决。实习项目上的motivation，以及数据如何构造，能否涵盖一些场景。实习项目，如何选型，自己参与了哪个部分，如何评价做的系统有没有用，如何跟需求方对接的？实习项目问的很细，数据构造，微调参数等。对于你的洞察，你们相对于别人的优势在哪里？展开说说：实习做的工作；为什么要这么做；支持什么样的业务或项目。当改写需要用户补充信息时，你是怎么设计交互和技术实现的？怎么优化？怎么做的任务分发？怎么处理这么庞大的数据集的？怎么实现效果？介绍一下我做的改进；问论文视觉是用的什么？我那个项目分阶段奖励机制的探讨。 「字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6672",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-190",
+      "originalTitle": "【项目优化方向】项目还可以怎么优化？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6673",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-191",
+      "originalTitle": "【项目基线论文与贡献】介绍一下自己做过的项目（baseline论文是什么，贡献点） 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6674",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-192",
+      "originalTitle": "【项目算法】介绍一下项目里的算法。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6676",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-193",
+      "originalTitle": "【项目细节深挖】深挖简历里的项目内容（细节到为什么选择这个模型、用了哪个框架、做了哪些创新点、发论文了吗、发哪个刊、目前进展是怎么样） 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6677",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-194",
+      "originalTitle": "【项目经历】结合你的经历，说明你参与的自动驾驶算法相关项目(如校园科研项目、自动驾驶算法竞赛、相关实习项目)，重点说明你的角色、负责模块及项目成果(如算法性能提升数据、项目获奖情况、技术方案落地效果等)? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6679",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-195",
+      "originalTitle": "【项目经历与深挖】介绍一下你的实习/项目经历。然后针对项目中的核心难点、解决思路以及最终的业务指标进行深挖提问。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6680",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-196",
+      "originalTitle": "【项目结构设计】每个项目结构是怎么设计的，为什么这么设计，依据指标是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6681",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-197",
+      "originalTitle": "【项目网络结构手写】手写项目网络。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6682",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-198",
+      "originalTitle": "【项目迭代思路对比】两个项目的迭代思路有什么不一样？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6683",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-199",
+      "originalTitle": "【项目迭代规划】项目迭代规划：如果接着做，你有什么规划？如果让你继续迭代，还想如何迭代？如果让你还想提高发起，你还打算怎么做，大的工作还有哪些？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6684",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-200",
+      "originalTitle": "【技术壁垒与算法论证】技术壁垒与解决方案是什么？与同类的差别是什么？算法合理性的论证是怎样的？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6689",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-201",
+      "originalTitle": "【推理框架优化】实习里面写的推理框架优化的背景和方案能不能详细介绍一下？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6690",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-202",
+      "originalTitle": "【新领域学习与推进】当你需要接触一个全新的自动驾驶算法领域(如端到端自动驾驶、自动驾驶仿真测试算法、多智能体协同算法)、或推进一项不熟悉的工作(如算法工程化落地、实车测试数据解读、复杂场景算法适配)时，你会如何开展工作?请结合过往类似经历说明? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6691",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-203",
+      "originalTitle": "【项目深度剖析】挑选最核心的RAG/Agent/大模型微调/多模态/碰撞预测项目，详细讲解：业务痛点、技术选型理由、核心难点、个人独立贡献、迭代优化思路、最终落地效果。从背景、动机、做法和结果等方面都问得非常细。针对其中一个项目的猛挖，讲意义，然后结合一个可能的最复杂需求，讲一讲整个项目的链路，然后又是针对链路上的每一个节点猛挖。算法方面如何建模？怎么保证解耦次优的效果？启发式算法？Python不同实现方法的复杂度？Java和Python的区别？并行编程？类、继承？性格面？一道笔试编程题。 「字节跳动、百度、百度文心、腾讯、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6692",
+      "reviewStatus": "confirmed",
+      "reviewNote": "并行编程、类与继承只记录了考点名称，没有具体代码要求；解耦次优、启发式算法、不同实现的复杂度及笔试任务缺少对象或条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-204",
+      "originalTitle": "【项目规划】如果你需要在一个月内完成一个高难度的AI平台开发任务，你会如何规划？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6693",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-205",
+      "originalTitle": "【项目重构】如果现在用大模型让你重新做一遍你的项目（Agent项目/大模型重构项目），你会怎么做，整个过程？具体优化哪些地方？详细讲一讲。 「字节跳动、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6694",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-206",
+      "originalTitle": "【项目难点与创新】请结合你的项目经历，回答以下问题（可合并回答）： 1. 项目难点：任务复杂度如何？发现了什么核心业务问题？各有什么问题？它解决了什么核心问题？无法解决用户问题具体是哪些问题无法解决？是为了解决什么具体问题？用的什么verifier？问到过滤花了多久？项目难点是什么？ 2. 困难与解决：遇到什么问题？如何解决的？ 3. 项目改进：后续做了哪些改进动作？ 4. 项目收获：哪些核心设计对你有启发？有什么心得？给你的经历带来了哪些帮助或变化？ 5. 个人贡献边界：最大的贡献是什么？ 6. 创新点：有什么创新？说一下其中的创新点主要体现在哪？ 7. 项目亮点：有什么积累的亮点没有向他展示的？这个项目对你而言特别有代表性/有意思的点在哪？项目进行过程中印象最深的是什么？ 「京东、字节Seed、字节跳动、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6709",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-207",
+      "originalTitle": "它的一个流量是多少呢？举个一到两个你印象比较深刻的线上问题的排查。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6715",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-208",
+      "originalTitle": "是由什么原因导致的？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6716",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明需要解释原因的事件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-209",
+      "originalTitle": "本质问题是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6717",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“本质问题”缺少对应现象与业务问题。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-210",
+      "originalTitle": "不会写算子是出于什么考量？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6721",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“不会”是能力不足还是未选择实现，算子及框架/优化目标均未明。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-211",
+      "originalTitle": "会有什么问题？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6722",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“有什么问题”未给出所指系统、方法与条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-212",
+      "originalTitle": "你觉得基建这一块，会对你自己的idea有压力吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6723",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-213",
+      "originalTitle": "共享比例怎么定的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6724",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未给出共享对象、比例分母与决策目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-214",
+      "originalTitle": "到我的项目里安全吗？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6725",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明安全资产、威胁与引入对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-215",
+      "originalTitle": "在流量项目/项目中遇到过哪些实际问题？有什么解决经验？落地时遇到什么问题？ 「美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6726",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-216",
+      "originalTitle": "如何做仿真验证的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6727",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-217",
+      "originalTitle": "如果不这样做会发生什么？本会造成什么问题？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6728",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“不这样做”缺少对应的具体做法。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-218",
+      "originalTitle": "实习场景提到的数据处理场景有没有做限流、拒绝或者降级之类的机制？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6729",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-219",
+      "originalTitle": "技术上你觉得比较深入的点是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6730",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-220",
+      "originalTitle": "方法在哪些场景会失败？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-221",
+      "originalTitle": "核心壁垒是什么？核心痛点是什么？ 「京东、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6734",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-222",
+      "originalTitle": "模型是冷启动还是热启动，为什么要这样？冷启动多久能收敛？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6735",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-223",
+      "originalTitle": "讲一下，怎么避免？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6738",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“怎么避免”缺少所指问题与条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-224",
+      "originalTitle": "请分享一个你在测试中使用的创新方法或工具。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6739",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-225",
+      "originalTitle": "项目为什么涉及高并发？项目可能瓶颈在哪？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6740",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-226",
+      "originalTitle": "【业务对齐与推进】你是怎么对齐推进的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6743",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-227",
+      "originalTitle": "【个人贡献边界】项目里负责的边界是什么？哪些内容是亲手实现/验证的？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-228",
+      "originalTitle": "【优化思路】请结合具体案例，说明在项目或论文中从哪些方面进行优化（如数据、模型结构、训练策略、算法改进等），包括针对难case、baseline的具体方案和版本调优过程。当模型分类不准或准确率低时，分析原因并说明优化措施（数据增强、算法改进、模型结构、训练策略等）。描述一个通过算法优化提升性能的案例。算法的流程和耗时如何？有哪些方法可以缩短耗时或提升效率？请描述具体的优化方法。 「京东、字节Seed、字节跳动、百度、美团、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6745",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-229",
+      "originalTitle": "【创新点】介绍创新点。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6746",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-230",
+      "originalTitle": "【困难与解决】请介绍你的项目/研究/实习经历，重点描述其中遇到的最大技术挑战或困难（如模型效果上不去、过拟合、训练问题、卡点等），说明背景、具体问题、解决思路、最终解决方案以及效果评估，并谈谈你从中学到了什么。 变体：项目里最大的一次失败是什么？ 「京东、字节Seed、字节跳动、拼多多、百度、百度文心、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6747",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-231",
+      "originalTitle": "【实验设计】请介绍你做过哪些实验（包括消融实验、噪声影响实验等），实验的具体设计（如参数量、数据量、消融方向、模块消融方式），是否遇到困难（如方法在部分数据集可行但扩展到更多数据集后效果不佳），以及实验结果是直接达到SOTA还是经一系列调整后实现，效果如何？ 「百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6748",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-232",
+      "originalTitle": "【方案设计】其他方案有考虑吗？有没有更优方案？设计过程中应该注意哪些问题？项目细节询问（数据构造细节、为啥要用DPO）；讲一下动机是什么，为什么用当前的方案？ 「字节跳动、百度、腾讯、腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6749",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-233",
+      "originalTitle": "【项目亮点】如何从项目背景中引出并聚焦到结构重参数化这一亮点？请结合你过去做过的最有影响力的一件事，具体说明推动了什么变化。 「拼多多、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6750",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-234",
+      "originalTitle": "【项目介绍】介绍第一个项目，包括亮点、遇到的问题及解决方法，并说明如何训练模型学会论文翻译的风格（从数据集构建角度回答）。 「腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6751",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-235",
+      "originalTitle": "【项目反思】讨论项目不合理地方，包括是否过度设计，以及从你的视角看有哪些问题？ 「百度、百度文心、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6752",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-236",
+      "originalTitle": "【项目收获】收获了什么(详细讨论，包括损失函数设计、输入输出)？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6753",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-237",
+      "originalTitle": "【项目改进】项目改进：为什么做这个改进？关键改进点有哪些？具体做了哪些改进？算法上的改进？模型层面有什么改进？后续改进方向。 「百度、百度文心、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6754",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-238",
+      "originalTitle": "【AI问题调试】请分享一个你在测试中发现并解决了一个隐藏很深的bug的经历。在风控或AI项目中，当模型效果不如预期或过程正确但结果错误时，请详细描述一次最难调试的问题，包括根因分析、排查流程（如何判断哪一步出错）、最终解决方案和优化复盘。实习中如果遇到Agent线上偶现异常，你的排查思路是什么？根因节点怎么推出来的？ 「京东、百度、美团、腾讯混元、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6759",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-239",
+      "originalTitle": "【业务对齐与推进】作为项目负责人，你怎么制定里程碑、推进跨角色协作、处理项目中的阻塞问题？你提到梳理了业务口径不一致的问题，具体是怎么拆解全链路逻辑的？你提到跟业务会进行对齐，那有遇到业务对你提出的方案产生质疑的情况吗？你们是怎么说服他们使用你们的方案的？ 「京东、字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6760",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-240",
+      "originalTitle": "【优化思路】请分享你项目中优化思路的改进与创新，包括但不限于：1）视觉依赖、逻辑依赖两个指标的改进思路是什么？2）论文审稿项目还可以怎么优化？3）通过细致的观察、深入的思考或主动的调研，发现算法优化空间、规避潜在技术风险，并成功提升算法性能、优化技术方案或助力团队目标达成的经历？4）详细描述项目中的优化思路：加速怎么来的？每个优化trick都往下问几个为什么。深挖项目，比如reward怎么设计的，后续有什么改进思路。 「京东、字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6761",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“视觉依赖、逻辑依赖”未给出指标定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-241",
+      "originalTitle": "【创新点】当时方法的创新点是什么，放到现在又该如何去思考。请描述一次你通过深入研究，对一个复杂问题提出了新颖且有效解决方案的经历。 「美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6762",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-242",
+      "originalTitle": "【困难与解决】请举例说明你曾解决的自动驾驶算法相关技术难点（如模型精度提升、实时性优化、数据处理瓶颈、复杂场景适配、大模型训练困难、不熟悉的新领域问题等），说明问题排查过程、解决方案及最终成效。另外，你认为校招自动驾驶算法工程师在工作中最容易遇到的挑战是什么？（如算法理论与工程实践脱节、复杂场景算法适配难、数据处理效率低、跨团队协作衔接难、技术难题突破慢等）你会如何应对？工作最大的挑战是什么？为什么提升AUC对业务的帮助不重要？通过解决这个问题，你对产品有什么建议？请描述你在自动驾驶算法测试中遇到的最具挑战性的问题，以及你是如何解决的？请详细描述你做过的一个规划决策项目，遇到了什么具体的Corner Case（边缘场景），你是怎么解决的？ 「京东、字节跳动、百度文心、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6763",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-243",
+      "originalTitle": "【方案设计】从你的项目背景下，为什么这么构造？利弊分析，如何改进？如果不这么做会怎么样？如何权衡？具体到论文中，为什么用图神经网络和多智能体强化学习，如何设计的框架来做负载均衡和决策加速？ 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6764",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-244",
+      "originalTitle": "【项目介绍】介绍另一个项目，还有围绕该项目的深挖，比如多个大模型的统一适配是怎么做的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6765",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-245",
+      "originalTitle": "【项目反思】1. Qwen之前也做过类似的，你认为为什么在你这里结论有区别？ 2. 如果让你重新做一遍那个项目，你会在哪些地方重新设计？请指出最“屎山”或最不合理的环节。当你负责的自动驾驶算法相关工作未达预期(如算法性能未达标、项目进度滞后、技术方案未通过评审、测试验证问题较多等)时，你会如何进行复盘反思、调整思路并优化策略?请结合具体案例说明? 「京东、字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6766",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“Qwen 之前也做过类似的”未说明比较的具体工作。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-246",
+      "originalTitle": "【项目改进】以你现在的视角来看，当时的项目还有什么可以改进的地方？理论依据是什么？之后的迭代思路是什么？有没有新的想法，未来打算怎么做？ 「字节跳动、美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6767",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-247",
+      "originalTitle": "【项目难点】项目难点与创新：1. MoE路由机制、训练验证数据集、SFT方法、难点；2. 为什么work？3. 添加模块是否破坏预训练效果及避免方法；4. 最有深度的点或难点；5. 方法在更大模型上的泛化性；6. 冷启动区别及预训练必要性；7. 协同控制算法对比框架的难点；8. 技术债和资源不足的处理；9. UniAD/VAD实际部署槽点、仿真与实车gap；10. 供应链实习中库存波动/订单爆单的应对。 「京东、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6768",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-248",
+      "originalTitle": "【项目难点与创新点】项目难点与创新点综合：1. 评估标准（余弦相似度、人工评注）矛盾情况如何处理？2. 生成反事实数据的质量评估、过滤机制。3. 项目成本被质疑时如何拆解？4. 项目是否有动态容错机制？5. 创新点代码实现细节、消融实验方法。6. 项目深挖：数据来源、主要价值点、遇到的问题及思考、数据pipeline扩展到更大规模时的瓶颈和优化思路。 「字节Seed、字节跳动、百度文心、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6769",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-249",
+      "originalTitle": "【项目难点与创新】1. 为什么这样设计，哪里会失败，怎么落地，怎么评测？ 2. 如果上级要求你在一个月内，将一个开源基础模型通过后训练快速适配到一个全新的、缺乏历史数据的业务场景，你会如何规划技术路线和评估风险？ 3. 讲讲MARL里面具体的设计。如果要把你论文里的TE路由调度策略移植到现有的万卡集群训推里面，应该怎么做修改和适配？ 「字节Seed、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6774",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-250",
+      "originalTitle": "【论文与科研综合】请简要自我介绍，并说明三篇论文的核心工作。你的主要研究方向是什么？论文idea是自己想到的吗？该篇论文项目里你的主要负责工作有哪些？印象最深的是哪一篇？是否发了paper？哪些论文是在目前的公司发的？有没有发论文计划？问论文为什么没投顶会？平时会做论文阅读和分享吗？有没有看论文的习惯？是否支持开源/论文/技术报告？ 「京东、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-251",
+      "originalTitle": "【研究方向与科研管理】1. 为什么博士有两个方向？介绍科研方向。 2. 科研时间的分配与规划方式，实验与论文是否同步进行，以及各科研项目中idea和实验是否独立完成。 「百度、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6791",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-252",
+      "originalTitle": "【论文介绍与细节】1. 写这个论文初衷是什么？ 2. 原论文有没有提到其他组织方式？ 3. 发的论文在业界有没有应用场景？ 4. 是否方便展开聊一下之前看过的蚂蚁相关论文？ 5. 讲两篇文章。 6. 论文的东西有没有落地的？ 7. 论文针对什么问题做的算法设计？ 8. 这个生成的方法是你现有的开源方法吗？ 9. 讲一下这篇论文的intro。 「京东、百度、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6792",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-253",
+      "originalTitle": "【论文阅读与技术资料筛选】1. 会看哪些书或论文，如何筛选高质量的技术资料避免信息噪音？ 2. 你有读过什么AI论文/技术报告两次以上，对你工作的帮助是什么? 3. 是否研读过DeepSeek、Qwen等最新的技术报告？ 4. 最近在看什么论文？请介绍生成式推荐领域最熟悉的模型，并说明如何跟进最新研究（如注意力机制改进、长文本处理），以及视觉论文领域精读的一篇论文和模型最新进展。 「京东、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6793",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-254",
+      "originalTitle": "【最新论文与技术动态】讲一下你最近看了哪些大模型相关的论文或技术报告？包括你这个方向国内外大厂的最新进展、技术点和成果，以及大家都是怎么做的？ 「京东、字节跳动、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6798",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-255",
+      "originalTitle": "【论文介绍】介绍论文（包括但不限于：RiskQ、Diff-IGM、SP、AAAI论文、NLP方向论文等）。具体要求：1）介绍论文名称、发表/在投状态、顶会/期刊；2）论文动机：解决了什么问题，怎么发现的问题，如何解决的问题，效果如何；3）论文细节：输入输出是什么，举例说明；知识准确性（是模型没学到还是本身不准确）；如何融入训练；MDP定义；创新点；测评方式；团队合作公司；实际落地情况；基座模型；4）若涉及共享屏幕，需展示论文内容；5）若涉及共情对话任务，需说明具体任务；6）介绍熵崩溃现象；7）解释为什么叫agent。 「字节Seed、字节跳动、百度、美团、腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6799",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-256",
+      "originalTitle": "【论文介绍与细节】请详细介绍你的论文（包括最近一篇、NIPS论文、硕士研究课题、论文A等），涵盖以下方面： 1. 论文整体介绍（做了什么、流程、每个模块细节）。 2. 冷启动和RL之间的阶段是什么？ 3. 与GPT-4.5对比的具体方法。 4. FastText是否参考DeepSeekMath，是否进行二次迭代？ 5. 正负样本定义及负样本过多如何处理？ 6. 之前关于数据配比的论文的实验/理论依据。 7. 论文具体改进了什么，相较于已有方案提升在哪，解决了哪类badcase？ 8. 挑一个做得最好的论文或实习详细讲。 9. 论文中CoT的具体设计细节。 10. 给一个现实例子，论文如何套用？ 11. 为什么场景定义为非结构化场景，主要因素有哪些？ 12. 对论文和项目实现细节的提问。 「京东、字节Seed、字节跳动、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6800",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原句未提供 FastText 与 DeepSeekMath 的引用关系或项目上下文。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-257",
+      "originalTitle": "【论文动机】以前做的论文，问一下论文解决了什么问题，怎么发现的问题，如何解决的问题，效果如何等等。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6801",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-258",
+      "originalTitle": "【论文细节】介绍论文C：让我详细介绍下是怎么采样的。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6802",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-259",
+      "originalTitle": "【论文细节与答辩】请介绍你的论文，包括：1）论文的pipeline，在哪部分用到了排序机制；2）聚类是怎么做的；3）评测指标，消融实验和可视化方法；4）审稿人提过哪些刁钻问题，如何解决；5）后续研究方案。 「京东、字节跳动、百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6803",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-260",
+      "originalTitle": "【论文介绍与细节】介绍你的论文：从场景需求到核心工作，包括任务形式、模型架构、数据集构建配比与开源数据集内容、基座模型、微调方法（超参数和原理，如LoRA中AB矩阵初始化方式）、训练参数与训练方式、方案设计动机与目的、不同方案优缺点、指标、baseline、setup、核心组件作用等。若涉及多模态表征、跨模态检索或多模态大模型与强化学习，请详细说明。同时，需回答论文细节：用了多少张卡，为什么batch size要设置为1。 「字节跳动、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6808",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-261",
+      "originalTitle": "【垂类预训练经验】很惊讶说你没有垂类预训练的经验怎么给你offer的某手？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6815",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-262",
+      "originalTitle": "【实习经历】请介绍你的实习经历，包括：1）快手推荐实习主要做的什么？2）研一来实习，怎么恰好做了比较火的生成式推荐？3）有实习过吗？4）第一段实习的内容是啥，有什么样的成长？5）美团实习主要工作介绍。6）自我介绍，实习，问负责的部分。7）讲一讲日常实习的工作。8）详细先问我学业/实习时长/课程/论文的问题。 「京东、字节跳动、百度、美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6816",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-263",
+      "originalTitle": "【实习经历介绍】介绍实习经历，包括但不限于：实习时间段、公司、业务背景、具体负责的工作内容、项目（如大模型微调、推荐系统、视频生成模型等）、产出与贡献、模型结构/业务指标/模型效果/上线情况、遇到的挑战与解决方案、使用的工具与模型、数据分析工具、团队合作与快速上手经验、收获与感受、与实验室的差异、如何突破。追问：实习相关细节（如RSS模型细节、美团业务与B/A区别、配送小车舒适度与安全要求等）。 「京东、字节Seed、字节跳动、拼多多、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6817",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-264",
+      "originalTitle": "【实习选择动机】实习选择动机：包括但不限于以下要求： - 不同实习的选择原因，为什么这么选？ - 为什么两段实习方向不一样？ - 为什么对AI Infrastructure感兴趣？ - 为什么选择加入初创公司实习？ - 之前的实习/项目为什么现在不做了？ - 会如何权衡和选择，两边实习内容有什么不同？ 「京东、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6818",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-265",
+      "originalTitle": "【竞赛与项目经历】你有过参加AI竞赛的经历吗？你有过团队协作开发多模态项目的经历吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6819",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-266",
+      "originalTitle": "【实习经历综合介绍】请详细介绍你的三段实习经历（百度、滴滴等），包括：业务逻辑、技术细节（如SDK混淆）、遇到的挑战/困难、个人理解、需要改进的点、收获总结。具体问题：1. 讲一下实习干了些啥，业务逻辑，技术（问到SDK的混淆，没听说过）。2. 滴滴实习遇到的挑战。3. 百度实习工作过程中最大的困难。4. 第二段实习的内容是啥，对项目有什么自己的理解？5. 细说之前在百度的实习。6. 自己认为滴滴实习里需要进步的点。7. 要求详细介绍第一段实习。8. 要求详细介绍第三段实习。9. 要求详细介绍第二段实习。10. 详细问我上段实习经历。11. 这么多段实习，我到底获得了什么？ 「字节跳动、百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6824",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-267",
+      "originalTitle": "【长短期记忆网络实现】实习里的长短期记忆是怎么实现的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6829",
+      "reviewStatus": "needs_review",
+      "reviewNote": "原题询问实习中的长短期记忆，未说明具体网络。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-268",
+      "originalTitle": "【实习经历深度拷打】深度拷打过往AI实习经历：负责的模块、遇到的线上问题、优化方案、量化提升数据。重点问到一个算子要不要优化，如何判断，以及如果决定优化，具体怎么做。结合学习经历、校园科研/实践项目、自动驾驶相关实习经历，说明哪些内容与自动驾驶算法工程师核心能力（如机器学习、深度学习、感知/决策/规划算法设计、数据处理分析等）相关，对适配本次校招岗位有何核心价值。讲第一段实习，项目背景、数据处理、特征工程、模型处理、评价指标、最终效果，其间夹杂机器学习八股和场景思考（如出现某种情况怎么办）。 「京东、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6834",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-269",
+      "originalTitle": "【技术选型与工具使用】1. 主流解决方案？2. 你们自己会做模型训练吗？3. 你使用过cursor/windsurf等AI编程工具吗？请分享你的使用经历。4. 开源框架了解过哪些？5. 算法题还要不要刷？ 「字节Seed、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6841",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-270",
+      "originalTitle": "【AI编程工具使用】AI编程工具使用：包括在Agent系统开发中用了多少AI coding及使用方式、日常是否用Claude/Codex及注意事项和常用skill、最常用的工具、最近使用或了解哪些AI编程工具、好用的AI coding技巧、是否在实际开发或业务中使用、使用心得、用什么工具。请列举具体工具名称及使用场景。 「京东、字节Seed、字节跳动、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6846",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-271",
+      "originalTitle": "【开源项目】开源项目：包括值得复现的开源项目或实践项目、是否读过相关开源项目源码/设计文档。 「腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6847",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-272",
+      "originalTitle": "【技术方案评估与选型】技术方案评估与选型：包括baseline制定、设计原因、工程角度实现细节、模块划分、其他方案考虑、横向比较外部做法、基座模型与业务偏好、为什么不对比XGBoost等模型、为什么不用时序预测模型、为什么做GMV预测而非需求预测。 「京东、字节Seed、百度、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6848",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-273",
+      "originalTitle": "为什么选择当前方案而非其他？为什么该方案有效？其他方案有考虑吗？ 为什么选择当前模型/架构/技术方案？请结合项目背景说明选型原因，包括模型参数量选择、算力与数据量、后训练方法、数据来源等核心思路。 你的选型考量? 整个RAG系统都是自己写的吗？文档解析为什么选择 MinerU 和 PaddleOCR-VL? 除了用这些模型，会去关注他的文章或者技术吗？除了简历上的项目，你近期花时间比较多、自己比较感兴趣的前沿技术有哪些？项目中使用的Embedding模型、重排模型、向量数据库，选型依据是什么？对比过哪些方案？项目中如何选取模型，实际效果如何？项目为什么不考虑端到端方案？ 「京东、字节Seed、字节跳动、拼多多、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6854",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-274",
+      "originalTitle": "项目用Golang了吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6855",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-275",
+      "originalTitle": "【业界调研与跟踪】有没有做过业界的调研，跟踪主流大厂模型的技术思路与报告？ 「腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6858",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-276",
+      "originalTitle": "【仿真平台测试】请分享一个你在测试中使用的仿真平台及其优势。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6859",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-277",
+      "originalTitle": "【优化技巧与手段】在项目中你会做哪些优化？有哪些trick、优化点、具体的技术手段或特别的优化策略？ 「京东、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6860",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-278",
+      "originalTitle": "【传统与学习结合】传统和learning的结合体现在哪里？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6861",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-279",
+      "originalTitle": "【基座模型选择】为什么要用OneRec的基座？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6862",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-280",
+      "originalTitle": "【大模型适用性】是否全都需要用大模型做？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6863",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-281",
+      "originalTitle": "【实时数据采集工具】请分享一个你在测试中使用的实时数据采集工具。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6864",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-282",
+      "originalTitle": "【技术实现细节】各种技术，做一个demo出来，你会分怎么执行？技术上怎么实现？追问：那你们是怎么做这个文件的拼接的，调的哪个接口？ 「京东、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6865",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“文件拼接”未说明文件类型与调用接口。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-283",
+      "originalTitle": "【技术方案评估】你怎么筛选AI的方案？以及在你看来，如何评估一个技术方案的成功与否？ 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6866",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-284",
+      "originalTitle": "【技术方案选择】为什么当时会选择那个技术方案 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6867",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-285",
+      "originalTitle": "【技术趋势】为什么在字节内部逐渐成为主流? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6868",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明在字节成为主流的技术或方法。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-286",
+      "originalTitle": "【新技术学习路径】你是怎么去接触一门新技术的，以MUSA开发或RDMA调优为例讲讲学习路径。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6869",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-287",
+      "originalTitle": "【方案优缺点对比】各自的优缺点、取舍点是什么？与其他方案相比如何？对比原生skil工具链，本平台的差异化优势是什么？ 「美团、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6870",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“原生 skil 工具链”未给出具体项目与版本。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-288",
+      "originalTitle": "【权重设置】如何设置的权重，为什么这么设置？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6871",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明权重的作用对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-289",
+      "originalTitle": "【架构选型】为什么要选项目使用的这个架构（整体是master+sub Agent还是workflow形式），而不是市面上一些更成熟的？ 「字节跳动、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6872",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-290",
+      "originalTitle": "【框架选型】框架选型理由？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6874",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-291",
+      "originalTitle": "【模型蒸馏】你为什么paper不采用模型蒸馏？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6875",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-292",
+      "originalTitle": "【模型迭代策略】迭代新模型时，是直接选定backbone，还是先评估任务适配性？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6876",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-293",
+      "originalTitle": "【深度学习模型测试工具】请分享一个你在测试中使用的深度学习模型测试工具。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6877",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-294",
+      "originalTitle": "【独立模型 vs 统一模型】为什么要做一个独立模型，而不是使用主模型的结构？ 为什么要做统一模型？ 「字节跳动、腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6878",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-295",
+      "originalTitle": "【策略 vs 模型修改】实习中某个项目选择改策略而不是改模型的考量？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6879",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-296",
+      "originalTitle": "【自动化测试工具与框架】请分享一个你在测试中使用的自动化工具或框架及其优势。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6880",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-297",
+      "originalTitle": "【训练框架与库】训练是怎么做的，是用的开源框架还是自己写的训练代码？主要用的什么库？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-298",
+      "originalTitle": "【调参策略】调参具体是怎么做的，调了哪些，为什么这么调？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6882",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-299",
+      "originalTitle": "【重构方案】你会怎么重构？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6883",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-300",
+      "originalTitle": "【预测算法选择】实习里的某个预测，为什么不选其他的时序算法，或者决策树，或者神经网络啥的，要选用XXX？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6884",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-301",
+      "originalTitle": "【AI基础设施优化案例】请分享一个你使用开源工具（如Kubeflow、MLflow）优化AI工作流的案例。 变体1：通过自动化工具提升AI基础设施运维效率的案例。 变体2：通过技术创新显著提升AI基础设施效率的案例。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6889",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-302",
+      "originalTitle": "【技术选型与方案评估】技术选型与方案评估： 1. 如何评估一个新兴的AI框架是否适合团队使用？ 2. 如果框架性能未达预期，如何调整？ 3. 为什么选择某个方案/方向而非替代方案？为什么work？其他方案考虑过吗？ 4. 技术选型方法论：面对新技术和稳定旧技术如何决策？ 5. 描述一次技术决策及思考过程。 6. 放在今年，你会用什么技术路线重做这个项目？ 7. 有没有对比过其他同规模模型？对比传统方法（如VectorNet）的优势？ 8. 有没有普适性更好的方法？ 9. 轨迹打分的目的是什么，如何打分，与搜索得到轨迹打分的区别？ 10. 针对项目二，当时大家都在做RL，为什么还在SFT？为什么不直接用RAG？ 11. 有没有不改变模型架构的方式来达到论文中的效果？ 12. 是否把AI串到CI/CD等完整流程？ 13. 数据驱动+级连模型的发展路线。 14. 与前端、后端团队配合，如何对齐技术方案与业务目标？ 「京东、字节跳动、百度、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6890",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-303",
+      "originalTitle": "【项目落地与价值】项目是否落地？上线了吗？有多少用户？解决了什么实际问题？ 「百度、美团、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6897",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-304",
+      "originalTitle": "【个人亮点】觉得自己做得最好的点是什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6902",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-305",
+      "originalTitle": "【成果与效果评估】介绍产品及取得的成果。你个人直接贡献了多少占比？你如何评估自己的贡献？是否有实际的数据或成果来支持？请分享一个你在AI项目中通过数据驱动决策或技术创新解决业务痛点的案例。只说“性能提升了多少”一般不够。实习的项目有多少人用，多少并发，一天数据量有多少？对指标的影响？对标到什么水平？对模型性能有什么影响吗？指标和榜单有吗？描述一下效果。效果怎么样？最后取得了一个什么效果？最后模型落地了吗？最后的收益指标是多少？最终ROI是多少？最终单客获客成本是多少？最终提升了多少？最终数据变化是多少？最终的量化结果是什么？ 「京东、拼多多、百度、美团、腾讯、蚂蚁集团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-306",
+      "originalTitle": "【用户反馈优化】针对用户反馈，你们有没有具体的优化动作或计划? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6904",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-307",
+      "originalTitle": "【落地验证与案例】有没有落地验证？用在业务上吗？能否举个业务中实际落地的例子？论文里的方法是否真正落地过？ 「京东、百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6905",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-308",
+      "originalTitle": "【迭代效果分析】迭代的提升效果哪个最大？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6906",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-309",
+      "originalTitle": "【量化数据与指标】最终量化数据是多少？能说一些具体数字吗？(追问)在实际项目中优化效果如何?具体指标? 问技术创新与指标量化。项目真实落地场景、内测数据、效果指标。 「京东、字节Seed、快手、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6907",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-310",
+      "originalTitle": "【项目使用与用户体验改进】项目完成后对方的使用情况怎么样，有没有针对性的改进用户体验之类的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6908",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-311",
+      "originalTitle": "【项目效果与模型稳定性】项目深挖 效果怎么样，模型稳定不稳定？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6909",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-312",
+      "originalTitle": "【项目瓶颈】项目运行几年之后到瓶颈了吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6910",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-313",
+      "originalTitle": "【效果与落地】介绍业务指标收益具体是如何从模型得到的？模型的base基线以及迭代步骤，主要收益来源于是什么？优化方案是否落地？线上与线下测试差异？优化过程中有什么经验和思考？你在该模型的应用中，是否对其性能进行了评估？使用过程中主要遇到哪些挑战？你的项目做了哪些性能优化、稳定性优化、效果优化？你说通过XX动作提升了销量，具体转化链路是怎么跑通的？后训练的最终效果如何，业务收益是多少？和项目指标提升还不错，为什么不考虑上线使用？哪一项提升对模型的帮助最大？如何判断这个想法是有收益的？如何验证是否起作用的？对比baseline提升挺多的，这个提升你认为是怎么来的？对这个策略的有效性验证怎么样？收益到底来自哪里？收益拆分？数据和模型优化是否形成闭环？是不是可以减少后面人力的投入？是否完成线上部署？QPS、延迟、准确率等核心指标如何？有没有落地到真实业务场景？是否有实验验证两者联合使用的合理性？ 「京东、字节Seed、字节跳动、拼多多、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6915",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-314",
+      "originalTitle": "【项目效果与落地】1. 有没有应用到困难任务的前景？ 2. 有没有评估过具体是哪些优化点导致转人工率下降？ 3. 线上怎么落地？ 4. 项目：假如有70%的样本表现非常好，但是剩下30%左右的样本表现不好，那么模型下一步迭代的方向应该是怎样的？ 「京东、字节Seed、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6916",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-315",
+      "originalTitle": "【效果与落地综合】1. DPO在其他指标优化时漏检率上升，如何调整并落地？ 2. 为啥没有效果？ 3. 优化前后效果、极限大概在哪、为什么这么估？ 4. 你做的方法的性能上界在哪里？ 5. 假如项目大规模使用了，如何解决这个问题? 6. 其他独立模型细节提问：上线可以撼动核心收益嘛？ 7. 在模型迭代过程中，你如何平衡效果的稳定性？ 8. 换到真实业务里，成本和收益是否仍然成立? 9. 换模型、换硬件还能成立吗？ 「字节Seed、拼多多、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6921",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-316",
+      "originalTitle": "【项目复盘与改进】请复盘你的项目经历，回答以下问题： 1. 哪个项目最想迭代改善？为什么？ 2. 做完项目最大的复盘收获是什么？ 3. 分享一个你在团队中推动测试流程优化的案例。 4. 有没有进行过复盘？具体如何做的？ 5. 这段经历里有没有出现过判断失误？请举例。 6. 项目流程中有没有出现失败情况？如何应对的？ 「京东、字节Seed、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6928",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-317",
+      "originalTitle": "【保研经历】介绍保研相关经历。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6940",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-318",
+      "originalTitle": "【学术界与业界对比】对学术界和业界的看法。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6941",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-319",
+      "originalTitle": "【师兄师姐去向】实验室/课题组之前的师兄师姐的去向。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6942",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-320",
+      "originalTitle": "【开源贡献】你还做了哪些开源贡献？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6943",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-321",
+      "originalTitle": "【技术兴趣】其他的技术感兴趣的方向? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6944",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-322",
+      "originalTitle": "【新技术方向】最近在学习或关注哪些新的技术方向？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6945",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-323",
+      "originalTitle": "【求职进展】别的公司有没有在进行的流程？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6946",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-324",
+      "originalTitle": "【知识补充方式】计算机专业的知识是怎么补的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6947",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-325",
+      "originalTitle": "【研究生学习方式】在研究生阶段相关内容是怎么学习的？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6948",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-326",
+      "originalTitle": "【竞赛经历】有没有竞赛获奖？请介绍本科竞赛经历，包括任务分配和队友合作情况。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6949",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-6444-327",
+      "originalTitle": "【课程帮助】本科学习的计算机课程中，哪些比较有帮助？这些课程在实际开发中起了什么作用？ 「字节Seed、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L6950",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": "COL-AIGC-DL-OPTIMIZATION",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 优化方法",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-001",
+      "originalTitle": "1.有哪些方法能提升CNN模型的泛化能力",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L75",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-002",
+      "originalTitle": "BN层解决了什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-003",
+      "originalTitle": "BN的公式",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L100",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-004",
+      "originalTitle": "BN层训练和测试的不同",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L106",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-005",
+      "originalTitle": "BN训练时为什么不用整个训练集的均值和方差？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-006",
+      "originalTitle": "BN层用在哪里？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-007",
+      "originalTitle": "BN层的参数量",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-008",
+      "originalTitle": "BN的优缺点",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-009",
+      "originalTitle": "3.Instance Normalization的作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-010",
+      "originalTitle": "4.有哪些提高GAN训练稳定性的Tricks",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-011",
+      "originalTitle": "5.什么是超参数？有哪些常用的超参数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L249",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-012",
+      "originalTitle": "6.如何寻找到最优超参数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-013",
+      "originalTitle": "7.Spectral Normalization的相关知识",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-014",
+      "originalTitle": "8.什么是EMA?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-015",
+      "originalTitle": "9.深度学习中有哪些经典的优化器？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L421",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-016",
+      "originalTitle": "10.深度学习中常用的学习率衰减策略有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-017",
+      "originalTitle": "11.什么是方向导数",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L582",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-018",
+      "originalTitle": "12.什么是梯度",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L592",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-019",
+      "originalTitle": "13.为什么沿梯度方向是函数变化最快的方向？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-020",
+      "originalTitle": "14.T5LayerNorm和LayerNorm的区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-021",
+      "originalTitle": "15.什么是xavier初始化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L635",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-022",
+      "originalTitle": "16.深度学习训练过程中，如果设置的学习率过大，会导致什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L686",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-023",
+      "originalTitle": "17.介绍一下深度学习中的学习率衰减？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L699",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-024",
+      "originalTitle": "18.深度学习训练过程中，如果设置的学习率过小，会导致什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L711",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-025",
+      "originalTitle": "19.深度学习中模型权重融合有哪些主流的方法？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L725",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-026",
+      "originalTitle": "20.什么是adafactor优化器？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L814",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-027",
+      "originalTitle": "21.什么是深度学习中的梯度裁剪技术？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L943",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-028",
+      "originalTitle": "5. 如何选择梯度裁剪的阈值",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L1009",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-029",
+      "originalTitle": "22.CNN+Transformer组合的架构有哪些优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L1031",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-030",
+      "originalTitle": "23.介绍一下schedule_free优化器的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L1059",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-031",
+      "originalTitle": "24.LayerNorm有什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L1114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-032",
+      "originalTitle": "25.AI模型权重0初始化，在训练过程中还能更新权重吗？AI模型权重0初始化有哪些优势和劣势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L1179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-033",
+      "originalTitle": "26.Weight Normalization（WN）有什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L1265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-OPTIMIZATION-034",
+      "originalTitle": "27.介绍一下RMSNorm的原理和作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/06_%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md#L1322",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-CLAUDE-CODE-SOURCE-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Claude Code 源码机制专题问答",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/claude-code-source-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-CLAUDE-CODE-SOURCE-PLAYBOOK-001",
+      "originalTitle": "Claude Code 的 512K 行代码里只有 1.6% 是 AI 逻辑——这说明什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/claude-code-source-playbook.md#L513",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-CLAUDE-CODE-SOURCE-PLAYBOOK-002",
+      "originalTitle": "Claude Code 的 Query Loop 和普通\"调一次 API\"有什么区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/claude-code-source-playbook.md#L518",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-CLAUDE-CODE-SOURCE-PLAYBOOK-003",
+      "originalTitle": "Claude Code 的 Verification Agent 为什么重要？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/claude-code-source-playbook.md#L523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-CLAUDE-CODE-SOURCE-PLAYBOOK-004",
+      "originalTitle": "Claude Code 的启动层为什么要拆成三段？单段 main 不行吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/claude-code-source-playbook.md#L530",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-CLAUDE-CODE-SOURCE-PLAYBOOK-005",
+      "originalTitle": "Claude Code 的 System Prompt 组装和普通\"写一个 prompt\"有什么本质区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/claude-code-source-playbook.md#L543",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PLAYBOOK-CLAUDE-CODE-SOURCE-PLAYBOOK-006",
+      "originalTitle": "Claude Code 有哪些未发布但你认为最值得关注的能力？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/claude-code-source-playbook.md#L557",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

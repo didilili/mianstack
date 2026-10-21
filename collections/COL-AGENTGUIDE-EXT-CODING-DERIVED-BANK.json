@@ -1,0 +1,533 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 编码题专题汇编",
+  "coverage": [
+    "llm",
+    "rag",
+    "ai_engineering",
+    "training",
+    "software",
+    "coding"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-001",
+      "originalTitle": "【LC 237｜链表｜L3】如何删除单链表的某个node（只给指向该node的指针而不是head）？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-002",
+      "originalTitle": "【广度优先搜索、数组、矩阵｜L4】八数码问题：给定3*3数组，数字1-8和一个空位，每次交换空位与上下左右元素，判断能否转为目标状态。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L144",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-003",
+      "originalTitle": "【LC 152｜数组、动态规划｜L3】手撕:乘积最大子数组(LeetCode 152)。给定一个整数数组（包含正数和负数），找出乘积最大的连续子数组（至少包含一个数），返回最大乘积。要求使用动态规划实现。；另一场次补充：实现连续子数组的最大乘积和，并说明若改为求连续子数组的最大乘积，思路有何变化？；另一场次补充：code:最大乘积子数组？ 「京东、字节跳动、百度、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L161",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“最大乘积和/改为最大乘积”未给出完整定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-004",
+      "originalTitle": "【LC 139｜字典树、记忆化、数组、哈希表、字符串、动态规划｜L3】单词拆分(LeetCode 139)。给定一个非空字符串s和一个包含非空单词列表的字典wordDict，判定s是否可以被空格拆分为一个或多个在字典中出现的单词。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L163",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-005",
+      "originalTitle": "【LC 560｜数组、哈希表、前缀和｜L3】LeetCode 560. 和为K的子数组。给定一个整数数组和一个整数K，统计并返回该数组中和为K的连续子数组的个数。K可取0。变体：找到所有满足条件的子数组并返回起始与终止位置。示例数组[2,1,4,-1,5,0]，K值未注明。 「字节跳动、百度、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-006",
+      "originalTitle": "【多目标跟踪、数据关联、代码解析｜L3】deepsort代码解析。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L380",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-007",
+      "originalTitle": "【设计、多线程、设计模式、并发｜L3】手写单例模式：饿汉式、懒汉式；他们有什么区别？；另一场次补充：手撕:单例模式 (双重校验锁和静态内部类)。 「京东、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-008",
+      "originalTitle": "【多目标跟踪、数据关联、代码实践｜L3】多目标跟踪中的数据关联代码实践。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L390",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-009",
+      "originalTitle": "【LC 146/LC 460｜设计、哈希表、链表、双向链表｜L4】Coding: LRU Cache。LRU Cache的核心思路。手写LRU/LFU缓存算法，用于大模型对话缓存、高频Query缓存优化场景。；另一场次补充：实现LRU Cache：1. 要求get/put均为O(1)。2. 带过期时间的LRU。；另一场次补充：手撕题：实现LRU（逻辑存储）；容易写错哪些地方？不变量是什么？；另一场次补充：手写LRUCache。 「MiniMax、京东、字节跳动、腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-010",
+      "originalTitle": "【推荐系统、SIM、性能分析｜L4】线上SIM的实现逻辑，耗时怎么看？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-011",
+      "originalTitle": "【推理加速、访存分析｜L4】手算DeepSeek V3每次推理的访存量 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L412",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-012",
+      "originalTitle": "【Transformer、伪代码｜L2】写出伪代码 用abc 预测第四个token 告诉了我特征维度 头个数。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L421",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-013",
+      "originalTitle": "【Transformer、Attention、手撕｜L3】手撕Cross Attention 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-014",
+      "originalTitle": "【Transformer、Attention、MQA｜L3】实现MQA。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-015",
+      "originalTitle": "【Transformer、Attention、MHA｜L3】自注意力，写完让直接在代码上改成mha; 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L426",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-016",
+      "originalTitle": "【Transformer、MHA、Causal Mask、复杂度｜L4】实现Causal mask的MHA，并说明计算复杂度 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L428",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-017",
+      "originalTitle": "【Transformer、Decoder、深度学习｜L4】手撕decoder layer。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L429",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-018",
+      "originalTitle": "【Transformer、GQA、手撕、Attention、注意力机制、深度学习｜L4】写一下GQA（Grouped Query Attention）的实现 「京东、字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L430",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-019",
+      "originalTitle": "【Transformer、Attention、Linear Attention｜L4】手撕linear attention 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-020",
+      "originalTitle": "【Transformer、Attention、MHA、MQA、GQA｜L4】手撕:mha mqa gqa的兼容版 init里设置传参通义万相数据。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L432",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-021",
+      "originalTitle": "【Transformer、Attention、MQA、GQA｜L4】手撕MQA和GQA 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L433",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-022",
+      "originalTitle": "【Transformer、Attention、RoPE｜L4】手撕MHA + RoPE。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L434",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-023",
+      "originalTitle": "【Transformer、Attention、MHA、手撕、NumPy、Mask、Self-Attention、Token Mixing、contiguous、Positional Encoding｜L4】Attention机制包含哪些核心算子？请用PyTorch简单搭建一个Self-Attention模块的伪代码，并解释每个算子的作用。；另一场次补充：手写自注意力，然后追问在Attention is all you need一文中，除了Q/K/V的注意力计算，还有一个关键步骤是什么？；另一场次补充：手写Multi-Head Self-Attention的实现(PyTorch或TensorFlow)；另一场次补充：大模型手撕:多头注意力机制，softmax(以及softmax处理数值溢出的做法)；另一场次补充：手撕Multi-Head Attention contiguousO的作用。；另一场次补充：实现多头自注意力（Multi-Head Attention）机制的核心代码。；另一场次补充：手撕两道，第一道是自注意力机制，我直接写了mha，然后就不用写第二道了。；另一场次补充：手写attention，解释scale为什么除以√dk而不是dk。；另一场次补充：手写Multi-Head Attention（带Mask）；另一场次补充：multi-head attention具体怎么实现？；另一场次补充：手撕多头注意力。但是这部分不会考很难，也不用太担心。；另一场次补充：请实现Multi-Head Attention。；另一场次补充：Pytorch实现MHA和打印螺旋矩阵 2选1；另一场次补充：手撕selfattention(用矩阵乘法)。；另一场次补充：手撕multi-head attention。；另一场次补充：手撕multi-head attention；另一场次补充：手撕代码：self-attention；另一场次补充：手撕MHAtokenmixing；另一场次补充：Attention算子的实现。；另一场次补充：手撕多头注意力机制（MHA）。；另一场次补充：写出attention公式。；另一场次补充：手撕：用numpy，写MHA；另一场次补充：手撕MHA（带mask）；另一场次补充：手撕多头自注意力机制。；另一场次补充：代码：实现多头自注意力；另一场次补充：手撕题，例如手写MHA；另一场次补充：手撕位置编码和MHA；另一场次补充：手撕:多头注意力机制；另一场次补充：实现多头注意力机制；另一场次补充：手撕MHA和场景题；另一场次补充：实现多头自注意力。；另一场次补充：手撕自注意力机制；另一场次补充：实现多头自注意力；另一场次补充：手撕多头注意力。；另一场次补充：手撕：MHA。；另一场次补充：手撕MHA代码；另一场次补充：手撕多头注意力；另一场次补充：手撕是mha。；另一场次补充：手撕自注意力。；另一场次补充：手撕MHA。；另一场次补充：手撕MHA 「京东、字节Seed、字节跳动、拼多多、百度、美团、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L435",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本行汇集多个场次的变体，其中螺旋矩阵为二选一任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-024",
+      "originalTitle": "【Transformer、MLA、手撕、Attention｜L4】手撕MLA。 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L436",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-025",
+      "originalTitle": "【Transformer、Position Embedding、RoPE、位置编码｜L4】实现Rotary Position Embedding (RoPE)；另一场次补充：手写RoPE旋转位置编码 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-026",
+      "originalTitle": "【Transformer、Attention、优化｜L4】设计高效Attention实现，降低时间/空间复杂度 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L441",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未明确要求精确还是近似注意力，也未指定要降低哪一种复杂度。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-027",
+      "originalTitle": "【Transformer、Encoder、实现、手撕｜L5】手撕Transformer和一道top100；另一场次补充：手撕Transformers encoder；另一场次补充：实现Transformer encoder 「拼多多、百度、美团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L442",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-028",
+      "originalTitle": "【MLP｜L2】手撕mlp。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-029",
+      "originalTitle": "【PyTorch、神经网络｜L2】手撕:对着屏幕用pytorch实现一个神经网络 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L448",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-030",
+      "originalTitle": "【二分类、神经网络｜L3】code 写一个二分类网络 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L451",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-031",
+      "originalTitle": "【大语言模型、伪代码、模型架构｜L4】手撕DeepSeek V3的结构伪代码 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-032",
+      "originalTitle": "【Transformer、Attention、LoRA、MHA｜L4】实现一个MultiHeadAttention，要求里面的Q、K、V的线性变换层引入LORA技术。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-033",
+      "originalTitle": "【生成模型、VQ-VAE、伪代码｜L4】手撕VQVAE伪码。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L455",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-034",
+      "originalTitle": "【ResNet、PyTorch｜L4】手撕torch系列：ResNet(深度残差网络)原理及代码实现(基于Pytorch)。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L457",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-035",
+      "originalTitle": "【损失函数、Hinge Loss｜L1】讲一下hinge loss，写出公式 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L461",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本条要求讲解并写公式，未要求实现完整训练代码。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-036",
+      "originalTitle": "【L1、L2、正则化｜L1】介绍一下L1和L2正则化，写一下公式。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-037",
+      "originalTitle": "【损失函数、逻辑回归｜L1】写一下逻辑回归的损失函数 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-038",
+      "originalTitle": "【损失函数、交叉熵｜L2】写出交叉熵损失函数公式。；另一场次补充：交叉熵损失函数写一下；另一场次补充：交叉熵的代码手写。 「字节跳动、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-039",
+      "originalTitle": "【BatchNorm、归一化｜L3】手撕:batch累积的均值和方差(类似batchnorm) 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L469",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未明确“batch 累积”指总体累计还是移动统计，也未说明方差口径。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-040",
+      "originalTitle": "【深度学习基础、归一化与激活｜L3】写一下DeepNorm代码实现 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-041",
+      "originalTitle": "【BCE、InfoNCE、损失函数、Cross Entropy、对比学习、CLIP｜L3】手撕: infoNCE loss Cross Entropy 怎么算，为什么要normalize，温度系数的作用；另一场次补充：实现InfoNCE Loss（CLIP）。；另一场次补充：手撕BCE,InfoNCE损失。；另一场次补充：写下 infoNCE loss？ 「阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L471",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-042",
+      "originalTitle": "【生成模型、损失函数、VAE｜L3】手撕VAE训练loss。 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L472",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-043",
+      "originalTitle": "【SwiGLU、激活函数｜L3】手写SwiGLU。 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L474",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-044",
+      "originalTitle": "【softmax、online、Softmax、C++、模板、手撕、实现、深度学习基础、公式推导、数值稳定性｜L3】介绍Softmax函数的使用及实现。；另一场次补充：实现Softmax的CPU C++实现，模版；另一场次补充：手撕题:online softmax；另一场次补充：手撕softmax 函数怎么写？；另一场次补充：手撕online softmax；另一场次补充：手撕safe softmax；另一场次补充：写出softmax公式。 「字节跳动、百度、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-045",
+      "originalTitle": "【Adam、公式｜L1】写出adam计算公式。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L480",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-046",
+      "originalTitle": "【AdamW、优化器｜L3】手撕AdamW。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-047",
+      "originalTitle": "【综合编程、神经网络、前向传播、反向传播、梯度｜L3】手撕代码第一道：forward与backward；第二道：price股票价格那道题/leetcode原题。；另一场次补充：手撕:两层神经网络，要求自己定义参数矩阵实现前向传播和反向传播 (自己求梯度)；另一场次补充：手撕两层神经网络，forward backward propagation。 「字节Seed、百度文心、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L482",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-048",
+      "originalTitle": "【反向传播、矩阵求导｜L3】code: 求偏导 y=f(C); C=AB; A输入、B参数、f激活函数、y输出，已知y对C的偏导是P，求y对B的偏导矩阵大小: A[m,k]; B[k,n]; C[m,n]; P[m,n] 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-049",
+      "originalTitle": "【Adam、优化器、偏差校正｜L4】实现MyAdam优化器：MyAdam(params, lr=1e-3, betas=(0.9, 0.999), eps=1e-8)。方法：step()使用偏差校正后的矩更新参数，zero_grad()将所有参数梯度清零。约束：必须与torch.optim.Adam数值一致，偏差校正：m_hat=m/(1-beta1^t)。；另一场次补充：从零实现Adam优化器。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-050",
+      "originalTitle": "【反向传播、手动实现｜L4】手动实现反向传播。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L488",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-051",
+      "originalTitle": "【强化学习、DPO、损失函数｜L3】实现DPO损失函数：dpo_loss(policy_chosen_logps, policy_rejected_logps, ref_chosen_logps, ref_rejected_logps, beta=0.1) -> Tensor。参数：policy_chosen_logps策略模型对选中回复的对数概率(B,)，policy_rejected_logps策略模型对拒绝回复的对数概率(B,)，ref_chosen_logps, ref_rejected_logps参考模型的对数概率(B,)，beta温度缩放因子。返回：标量损失。约束：L=-log(sigmoid(beta * ((pi_c-ref_c)-(pi_r-ref_r)))).mean()。；另一场次补充：dpo训练的损失函数和训练目标，dpo如何改进，dpo的loss实现；另一场次补充：实现dpo损失，按照想法能写多少是多少，不要求跑通。；另一场次补充：实现DPO(直接偏好优化)损失。；另一场次补充：写一下DPO loss函数。；另一场次补充：手撕DPO的损失函数。；另一场次补充：手撕DPO公式loss 「字节Seed、字节跳动、百度、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-052",
+      "originalTitle": "【强化学习、DQN｜L3】写一下DQN的伪代码 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-053",
+      "originalTitle": "【RLHF、PPO、DPO、损失函数｜L3】讲一下RLHF的流程，写一下PPO和DPO的LOSS表达式。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L495",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-054",
+      "originalTitle": "【PPO、强化学习、损失函数｜L3】PPO实现细节，核心思想，损失函数。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L496",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-055",
+      "originalTitle": "【强化学习、RLHF、损失函数｜L3】在RLHF中，目前主流的强化学习算法有哪几个，写一下损失函数的表达式。；另一场次补充：在RLHF中，目前主流的强化学习算法有哪些，写一下损失函数的表达式？ 「腾讯、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-056",
+      "originalTitle": "【GRPO、强化学习、代码实现｜L4】如果落到代码实现，流程原理是什么? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-057",
+      "originalTitle": "【强化学习、GRPO、损失函数｜L4】手撕:GRPO loss，讲各个tensor的shape 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L499",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-058",
+      "originalTitle": "【强化学习、PPO｜L4】实现PPO。 「百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-059",
+      "originalTitle": "【强化学习、奖励模型、策略梯度｜L4】手写奖励模型与策略梯度更新 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-060",
+      "originalTitle": "【DAPO、强化学习、损失函数、clip、奖励函数、优势函数、Soft IoU｜L5】手撕 DAPO 整个过程，包括奖励函数、组内均值、优势函数以及 loss，外部套一层动态采样，我的论文 Soft IoU 是怎么算的也写进来。；另一场次补充：手撕DAPO，没写出来，我说了下loss计算，然后让我打开论文对着公式详细讲一下，并提问clip的作用。 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L506",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未提供论文中 Soft IoU 的具体定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-061",
+      "originalTitle": "【GRPO、强化学习、代码实现｜L5】如果给一个真实query,让你代码实现GRPO全流程,你会如何组织 rollout、reward、logprob、advantage、loss 和 update? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-062",
+      "originalTitle": "【推荐指标、GAUC｜L3】手撕代码：Request维度的GAUC计算；另一场次补充：Gauc的计算，写一下 「字节跳动、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-063",
+      "originalTitle": "【AUC、模型评估、评估指标、Python｜L4】手撕：给了label和预测score，实现AUC的代码，时间复杂度-优化。；另一场次补充：手撕一下AUC(不用numpy)。；另一场次补充：用Python实现AUC的计算。；另一场次补充：手撕AUC/常见损失函数；另一场次补充：代码：手撕AUC。 「京东、字节Seed、字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L515",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-064",
+      "originalTitle": "【推荐系统、Cross-Encoder、粗排｜L3】粗排: Cross-Encoder对top-100重打分(比Bi-Encoder准但慢) 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L519",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-065",
+      "originalTitle": "【推荐系统、FM、实现｜L3】实现FM（Factorization Machine）模型 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L520",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-066",
+      "originalTitle": "【推荐模型、DIN｜L4】实现DIN（Deep Interest Network） 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L522",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-067",
+      "originalTitle": "【推荐模型、MMoE｜L4】实现MMoE（Multi-gate Mixture-of-Experts） 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L524",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-068",
+      "originalTitle": "【推荐系统、多目标排序、MMOE、PLE｜L4】多目标排序的具体实现 share-nothing、share-bottom、MMOE、PLE？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L526",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本条讨论架构组织，未给代码接口或训练任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-069",
+      "originalTitle": "【推荐模型、DIN、时间衰减｜L4】实现一个time_decay的DIN（Deep Interest Network with time decay） 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L527",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-070",
+      "originalTitle": "【推荐系统、条件概率｜L4】给定用户历史行为序列，根据历史行为序列算出元组对的条件概率，并根据条件概率进行用户推荐。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L528",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-071",
+      "originalTitle": "【插值、图像处理｜L2】手撕插值算法。 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L534",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-072",
+      "originalTitle": "【NMS、目标检测、计算机视觉｜L3】手撕NMS(非极大值抑制)代码，要求一次写对。；另一场次补充：手撕NMS过程。 「字节跳动、拼多多、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L536",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-073",
+      "originalTitle": "【CUDA、向量加法、优化｜L2】写一个vector add的CUDA kernel核心内容。；另一场次补充：CUDA Kernel:实现向量加法并解释优化思路 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L545",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-074",
+      "originalTitle": "【CUDA、reduce｜L3】手撕CUDA代码二维矩阵，每一行做 reduce。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-075",
+      "originalTitle": "【量化、反量化、INT8｜L3】实现INT8 Per-Tensor量化与反量化函数 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-076",
+      "originalTitle": "【卷积、滑窗｜L3】手写2D卷积的实现过程(不能用API，要写滑窗逻辑)。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L550",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-077",
+      "originalTitle": "【CUDA、GEMM｜L4】写cuda算子gemm：实现一个base的，讲优化方法。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L553",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-078",
+      "originalTitle": "【CUDA、reduce、优化、warp shuffle｜L4】写一个reduce，用block，优化版:用warp shuffle，能不能再优化?；另一场次补充：手撕reduce（至少要用warp shuffle）；另一场次补充：手撕reduce和reduce的优化 「字节跳动、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L554",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-079",
+      "originalTitle": "【CUDA、GEMM、优化｜L4】手撕GEMM的一些优化方法（一个thread算多个数，数据复用；访存合并；双buffer边读边算；避免bank conflict） 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L556",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-080",
+      "originalTitle": "【CUDA、reduce、二维矩阵｜L4】手撕二维大矩阵reduce，(1000000,128)矩阵reduce到(1,128) 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L558",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-081",
+      "originalTitle": "【调度算法、Gang Scheduling｜L3】实现一个简单的Gang Scheduler调度算法。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L568",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-082",
+      "originalTitle": "【大模型、推理优化、KVCache｜L3】手写KVCache的实现逻辑 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L569",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-083",
+      "originalTitle": "【采样、解码策略、大语言模型｜L3】手写解码策略中的Top-k Sampling或Top-p Sampling 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L571",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK-084",
+      "originalTitle": "【Tokenizer、PyTorch｜L3】实现一个Tokenizer，只能用PyTorch基础语法。 「百度、百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md#L574",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

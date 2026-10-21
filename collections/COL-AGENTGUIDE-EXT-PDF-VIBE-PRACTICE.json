@@ -1,0 +1,55 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-PRACTICE",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · AI编程综合练习",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "software",
+    "coding"
+  ],
+  "sourceClaim": "AgentGuide 收录的模拟面试材料，署名阿东玩AI，整理于 2026 年 4 月。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf",
+  "sourceAttribution": {
+    "name": "阿东玩AI",
+    "url": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf"
+  },
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-PRACTICE-001",
+      "originalTitle": "用户登录系统（含 JWT + 异常处理）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=15",
+      "reviewStatus": "confirmed",
+      "reviewNote": "练习题仅给系统名与考点，未给具体 API 或字段。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-PRACTICE-002",
+      "originalTitle": "日志收集 Agent（多源采集 + 过滤 + 存储）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-PRACTICE-003",
+      "originalTitle": "简历自动筛选系统（JD 匹配 + 评分 + 路由）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-PRACTICE-004",
+      "originalTitle": "智能客服 Agent（意图识别 + 工具调用 + 多轮记忆）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-PDF-VIBE-PRACTICE-005",
+      "originalTitle": "商品自动审核系统（违禁词 + 图片 + 价格）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/agent/papers/agent_frameworks/Vibe%20Coding%20%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97-%E9%98%BF%E4%B8%9C%E7%8E%A9AI.pdf#page=15",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

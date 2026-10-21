@@ -1,0 +1,291 @@
+{
+  "id": "COL-AGENTGUIDE-ALGORITHM",
+  "publisherId": "PUB-AGENTGUIDE",
+  "title": "AgentGuide · 算法岗专项面试题",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AgentGuide 的算法岗专项面试题。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-001",
+      "originalTitle": "如何提升 GraphRAG 的多跳推理召回率？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L30",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-002",
+      "originalTitle": "Agent Memory 压缩算法设计",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L37",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-003",
+      "originalTitle": "设计一个自适应的 RAG 检索策略",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-004",
+      "originalTitle": "如何优化 Agent 的规划效率？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L52",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-005",
+      "originalTitle": "多模态 RAG 的检索融合算法",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L59",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-006",
+      "originalTitle": "如何解决 Reward Hacking 问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-007",
+      "originalTitle": "DPO 与 PPO 的理论对比",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L75",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-008",
+      "originalTitle": "Token 级别奖励 vs Seq 级别奖励",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-009",
+      "originalTitle": "Multi-Agent 共识机制设计",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L91",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-010",
+      "originalTitle": "Agent 自我修正算法优化",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-011",
+      "originalTitle": "MoE 负载均衡算法改进",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-012",
+      "originalTitle": "长上下文建模的注意力机制优化",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L114",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-013",
+      "originalTitle": "小模型蒸馏策略设计",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L121",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-014",
+      "originalTitle": "Few-shot 学习的样本选择算法",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-015",
+      "originalTitle": "VLM 的跨模态对齐优化",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L135",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-016",
+      "originalTitle": "手推 PPO 损失函数，并解释 Clipped Objective 的作用",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L144",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-017",
+      "originalTitle": "推导 Attention 机制的计算复杂度",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-018",
+      "originalTitle": "推导 ROPE 的数学原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L160",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-019",
+      "originalTitle": "推导 KL 散度在 RLHF 中的作用",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L167",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-020",
+      "originalTitle": "推导 LoRA 的参数量减少比例",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L174",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-021",
+      "originalTitle": "推导 Softmax 的梯度",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L181",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-022",
+      "originalTitle": "推导 Cross-Entropy Loss 与 Negative Log-Likelihood 的关系",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L188",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-023",
+      "originalTitle": "推导 Layer Normalization 的前向和反向传播",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L195",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-024",
+      "originalTitle": "推导 Beam Search 的时间复杂度",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L202",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-025",
+      "originalTitle": "推导 BLEU 分数的计算公式",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L209",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-026",
+      "originalTitle": "推导 Contrastive Loss（CLIP）的梯度",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-027",
+      "originalTitle": "推导 Temperature Scaling 对概率分布的影响",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L223",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-028",
+      "originalTitle": "如何设计 Agent 规划能力的评估实验？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L232",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-029",
+      "originalTitle": "设计 RAG 检索质量的对比实验",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-030",
+      "originalTitle": "设计 RLHF 的消融实验",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L247",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-031",
+      "originalTitle": "设计 Multi-Agent 协作效率实验",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-032",
+      "originalTitle": "设计 Memory 压缩算法的评估实验",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-033",
+      "originalTitle": "设计 Prompt Engineering 的 A/B 测试",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-034",
+      "originalTitle": "设计长上下文模型的压力测试",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-035",
+      "originalTitle": "设计 VLM 幻觉问题的评估实验",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-036",
+      "originalTitle": "设计模型蒸馏效果的评估实验",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-037",
+      "originalTitle": "设计 Few-shot 学习的样本数量实验",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-038",
+      "originalTitle": "DeepSeek-V3 的主要创新点是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L305",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-039",
+      "originalTitle": "Qwen 系列的核心技术演进",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-040",
+      "originalTitle": "o1 模型的推理能力来自哪里？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-041",
+      "originalTitle": "GraphRAG 论文的核心贡献",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-042",
+      "originalTitle": "Llama 3 的训练技巧",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L333",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-043",
+      "originalTitle": "Flash Attention 的优化原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-044",
+      "originalTitle": "DPO 论文的理论推导",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-ALGORITHM-045",
+      "originalTitle": "最近读过的 Agent 前沿论文",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md#L354",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "COL-WDN-FINETUNING",
+  "publisherId": "PUB-WDNDEV",
+  "title": "LLM 面试笔记 · 预训练与微调",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "wdndev/llm_interview_note 对应专题的问题与具名考点。",
+  "sourceUrl": "https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-WDN-FINETUNING-001",
+      "originalTitle": "1.如果想要在某个模型基础上做全参数微调，究竟需要多少显存？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L5",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-002",
+      "originalTitle": "2.为什么SFT之后感觉LLM傻了?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L16",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-003",
+      "originalTitle": "3.SFT 指令微调数据 如何构建?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-004",
+      "originalTitle": "4.领域模型Continue PreTrain 数据选取？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L47",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-005",
+      "originalTitle": "5.领域数据训练后，通用能力往往会有所下降，如何缓解模型遗忘通用能力？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L60",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-006",
+      "originalTitle": "6.领域模型Continue PreTrain ，如何 让模型在预训练过程中就学习到更多的知识？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-007",
+      "originalTitle": "7.进行SFT操作的时候，基座模型选用Chat还是Base?",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L83",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-008",
+      "originalTitle": "8.领域模型微调 指令 & 数据输入格式 要求？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L91",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-009",
+      "originalTitle": "9.领域模型微调 领域评测集 构建？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L116",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-010",
+      "originalTitle": "10.领域模型词表扩增是不是有必要的？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-011",
+      "originalTitle": "11.如何训练自己的大模型？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L139",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-012",
+      "originalTitle": "12.指令微调的好处？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L149",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-013",
+      "originalTitle": "13.预训练和微调哪个阶段注入知识的？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L161",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-014",
+      "originalTitle": "14.想让模型学习某个领域或行业的知识，是应该预训练还是应该微调？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L171",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-015",
+      "originalTitle": "15.多轮对话任务如何微调模型？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L181",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-016",
+      "originalTitle": "16.微调后的模型出现能力劣化，灾难性遗忘是怎么回事？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-017",
+      "originalTitle": "17.预训练和SFT操作有什么不同",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-018",
+      "originalTitle": "18.样本量规模增大，训练出现OOM错",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-019",
+      "originalTitle": "19.大模型LLM进行SFT 如何对样本进行优化？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L250",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-020",
+      "originalTitle": "20.模型参数迭代实验",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83/1.%E5%BE%AE%E8%B0%83.md#L264",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-021",
+      "originalTitle": "1. 为什么要增量预训练？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/2.%E9%A2%84%E8%AE%AD%E7%BB%83/2.%E9%A2%84%E8%AE%AD%E7%BB%83.md#L5",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-022",
+      "originalTitle": "2. 进行增量预训练需要做哪些准备工作？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/2.%E9%A2%84%E8%AE%AD%E7%BB%83/2.%E9%A2%84%E8%AE%AD%E7%BB%83.md#L9",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-023",
+      "originalTitle": "3. 增量预训练所用训练框架？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/2.%E9%A2%84%E8%AE%AD%E7%BB%83/2.%E9%A2%84%E8%AE%AD%E7%BB%83.md#L15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-024",
+      "originalTitle": "4. 增量预训练数据选取思路有哪些？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/2.%E9%A2%84%E8%AE%AD%E7%BB%83/2.%E9%A2%84%E8%AE%AD%E7%BB%83.md#L21",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-WDN-FINETUNING-025",
+      "originalTitle": "5. 增量预训练训练流程是怎么样？",
+      "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83/2.%E9%A2%84%E8%AE%AD%E7%BB%83/2.%E9%A2%84%E8%AE%AD%E7%BB%83.md#L29",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

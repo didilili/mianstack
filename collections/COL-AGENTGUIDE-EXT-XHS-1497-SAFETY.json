@@ -1,0 +1,51 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-1497-SAFETY",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 幻觉与安全",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SAFETY-001",
+      "originalTitle": "什么是大模型幻觉？包括复读机问题（重复生成内容）和胡说八道的原因。如何评估hallucination rate？如何减轻幻觉问题？具体方法包括：RLHF、SFT后出现幻觉的可能原因及处理、后训练减少脱离人设的幻觉、MCP工具较多时避免幻觉、LMM中解决图中没有但模型乱说的情况、通过算法规避虚假图文和隐私泄露、对抗性测试/红队攻击发现安全漏洞、后训练在安全合规中的作用。实际应用中如何缓解？项目中有无遇到？偏见问题如何解决？ 「京东、字节跳动、百度、百度文心、腾讯、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2655",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SAFETY-002",
+      "originalTitle": "大模型幻觉相关问题：1. 幻觉产生原因是什么？2. 如何判断幻觉？3. 如何缓解/解决幻觉（包括RAG、RLHF对齐、事实监督等方法）？4. 如何排查幻觉badcase（如回答将“日利率0.05%”说成“免息”）？5. 幻觉风险如何控制？6. 如何让模型不胡乱回答？7. 是否对比过前后幻觉差异？8. 是否考虑了回答的正确性（如推荐商品是否真符合用户需求）而不仅是长度或流畅度？9. 模型能否识别从未预训练过的全新物种？10. 模型遇到常见的两类幻觉怎么解决？11. 用户的指令出现了幻觉？如何评测满足可交互的标准？12. 客户并不知道模型出现幻觉，为什么幻觉会直接导致转人工？13. 怎么用不被带偏？ 「京东、字节跳动、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2656",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未给“两类幻觉”的分类口径，也未说明“指令出现幻觉”的含义；全新物种识别的目标与证据要求未定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SAFETY-003",
+      "originalTitle": "如果问答效果不好，怎么排查badcase？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2657",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SAFETY-004",
+      "originalTitle": "【幻觉缓解】请详细说明缓解模型幻觉的方法，包括但不限于：1）简历项目中抑制幻觉的背景和具体做法；2）记忆冲突的解决方案；3）针对幻觉问题和复读机问题的解决办法；4）除Prompt约束外，常见的工程手段（如规则、检索、拒答、人工转接等）以及生成阶段的具体方法。 「字节跳动、拼多多、美团、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2662",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-1497-SAFETY-005",
+      "originalTitle": "【幻觉检测】设计大模型幻觉检测系统 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L2667",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

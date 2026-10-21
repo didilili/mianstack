@@ -1,0 +1,169 @@
+{
+  "id": "COL-AIGC-IMAGE-03",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 图像创作 · 类LoRA技术基础",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-IMAGE-03-001",
+      "originalTitle": "面试问题：LoRA的核心数学原理是什么？为什么LoRA能够有效适配扩散模型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L42",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-002",
+      "originalTitle": "面试问题：LoRA通常注入扩散模型中U-Net、DiT和Text Encoder的哪些位置？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-003",
+      "originalTitle": "面试问题：LoRA在AIGC图像创作领域有哪些主流应用场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L152",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-004",
+      "originalTitle": "面试问题：LoRA与全参数微调相比，训练和推理成本有什么差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L166",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-005",
+      "originalTitle": "面试问题：如何评价一个人物、风格或概念LoRA的整体质量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-006",
+      "originalTitle": "面试问题：如何调节LoRA权重？多个LoRA同时加载时如何正确组合？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L247",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-007",
+      "originalTitle": "面试问题：多LoRA推理中的Merge、Switch和Composite策略有什么区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L301",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-008",
+      "originalTitle": "面试问题：LoRA的离线融合、差分提取和跨底模迁移有哪些特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-009",
+      "originalTitle": "面试问题：介绍一下LoRA从任务定义到部署验证的完整训练流程",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-010",
+      "originalTitle": "面试问题：LoRA训练数据、Caption标签和长宽比分桶应该如何构造和设计？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-011",
+      "originalTitle": "面试问题：Rank、Alpha、学习率、训练步数和训练目标模块等关键参数应该如何设置？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L621",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-012",
+      "originalTitle": "面试问题：如何判断LoRA欠拟合、过拟合、概念泄漏和底模型绑定？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L690",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-013",
+      "originalTitle": "面试问题：LoRA训练中有哪些显存与稳定性优化手段？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L706",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-014",
+      "originalTitle": "面试问题：LoCon和LoHa在原生LoRA上分别做了哪些优化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L730",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-015",
+      "originalTitle": "面试问题：DoRA、B-LoRA等方法有哪些创新点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L923",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-016",
+      "originalTitle": "面试问题：LCM-LoRA与人物/风格LoRA有什么本质区别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1032",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-017",
+      "originalTitle": "为什么LCM-LoRA可以和人物/风格LoRA叠加",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1080",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-018",
+      "originalTitle": "工程上如何使用，以及什么时候不应该使用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1105",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-019",
+      "originalTitle": "面试问题：如何构建差异化LoRA？差异化LoRA的构建逻辑和数学本质是什么？它适合解决什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1122",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本题“差异化 LoRA”按权重差分操作理解。"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-020",
+      "originalTitle": "面试问题：MoE-LoRA如何通过路由和专家适配器提升条件容量？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1166",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-021",
+      "originalTitle": "面试问题：MoE-LoRA的工程收益、训练风险与适用场景是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-022",
+      "originalTitle": "面试问题：PEFT的核心技术路线有哪些？LoRA属于哪个细分类别？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-023",
+      "originalTitle": "面试问题：Textual Inversion的原理、优势与局限是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1296",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-024",
+      "originalTitle": "面试问题：DreamBooth和DreamBooth LoRA的原理是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1336",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-03-025",
+      "originalTitle": "面试问题：LoRA、DreamBooth与Textual Inversion应该如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/03_%E7%B1%BBLoRA%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.md#L1374",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

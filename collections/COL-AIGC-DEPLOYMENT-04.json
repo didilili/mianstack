@@ -1,0 +1,80 @@
+{
+  "id": "COL-AIGC-DEPLOYMENT-04",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 数据处理知识点",
+  "coverage": [
+    "ai_engineering",
+    "software",
+    "coding"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 专题中的面试题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DEPLOYMENT-04-001",
+      "originalTitle": "1.DeepStream的介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md#L14",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-04-002",
+      "originalTitle": "2.常见流媒体协议介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md#L46",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-04-003",
+      "originalTitle": "3.使用OpenCV拉取视频流",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md#L81",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-04-004",
+      "originalTitle": "4.使用FFmpeg拉取视频流",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md#L127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-04-005",
+      "originalTitle": "5.使用Gstreamer拉取视频流",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md#L169",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-04-006",
+      "originalTitle": "6.H.264和H.265视频编码格式介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md#L198",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-04-007",
+      "originalTitle": "7.YUV格式介绍",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md#L216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-04-008",
+      "originalTitle": "8.YUV有什么优点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md#L237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-04-009",
+      "originalTitle": "9.介绍一下Base64编码图像的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md#L248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DEPLOYMENT-04-010",
+      "originalTitle": "10.什么是Zigzag（锯齿形或之字形）顺序模式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9.md#L346",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本来源中的 Zigzag 指按行交替方向的蛇形访问。"
+    }
+  ]
+}

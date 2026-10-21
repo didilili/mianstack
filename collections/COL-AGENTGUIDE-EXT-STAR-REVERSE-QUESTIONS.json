@@ -1,0 +1,42 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-STAR-REVERSE-QUESTIONS",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Agent 团队与岗位反问",
+  "coverage": [
+    "training",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-STAR-REVERSE-QUESTIONS-001",
+      "originalTitle": "小红书 C 端 Agent 目前最大的工程挑战是什么？是后训练效果问题、架构稳定性问题、还是评测体系问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-STAR-REVERSE-QUESTIONS-002",
+      "originalTitle": "团队目前 Agent 的 post-training pipeline 是什么结构？数据合成、SFT、RL 各占多大比重？有没有用 RLVR 类的可验证奖励？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L283",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-STAR-REVERSE-QUESTIONS-003",
+      "originalTitle": "小红书的 Agent 评测是怎么做的？线上 AB 指标还是 offline benchmark？有没有针对 Agent 多步推理的专项评测？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L286",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-STAR-REVERSE-QUESTIONS-004",
+      "originalTitle": "团队对 Agent 自进化方向怎么看？有没有在探索像 Hermes 的 Skills 闭环或者 RL 训练闭环这样的机制？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md#L289",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

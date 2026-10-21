@@ -1,0 +1,49 @@
+{
+  "id": "COL-AGENTGUIDE-PROJECT-STORY",
+  "publisherId": "PUB-AGENTGUIDE",
+  "title": "AgentGuide · Agent 项目表达与追问",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AgentGuide 的 Agent 项目表达与追问。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/21-storytelling.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-PROJECT-STORY-001",
+      "originalTitle": "请你用 2 分钟介绍一个最有代表性的 Agent 项目",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/21-storytelling.md#L250",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-PROJECT-STORY-002",
+      "originalTitle": "这个项目最大的技术难点是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/21-storytelling.md#L260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-PROJECT-STORY-003",
+      "originalTitle": "如果重新做一遍，你会怎么改？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/21-storytelling.md#L271",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-PROJECT-STORY-004",
+      "originalTitle": "你如何证明这个 Agent 比普通 RAG 更好？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/21-storytelling.md#L280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-PROJECT-STORY-005",
+      "originalTitle": "如果面试官质疑项目太像教程怎么办？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/21-storytelling.md#L295",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-695",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · 机器学习基础汇编",
+  "coverage": [
+    "llm",
+    "agent",
+    "ai_engineering",
+    "training",
+    "coding",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-001",
+      "originalTitle": "【分类算法与监督学习项目】请列举你熟悉或使用过的传统机器学习分类算法，并描述你参与过的监督学习项目经验（包括项目背景、任务、使用的算法、结果等）。 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L709",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-002",
+      "originalTitle": "【决策树】决策树了解哪些 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L714",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-003",
+      "originalTitle": "【支持向量机】介绍SVM算法。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L715",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-004",
+      "originalTitle": "【文本分类】(比如用户搜索“苹果”是水果还是手机)如何分类，有监督还是无监？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L716",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-005",
+      "originalTitle": "【机器学习算法概述】介绍一下你都了解哪些机器学习算法？详细介绍一个最了解的。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L717",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-006",
+      "originalTitle": "【树模型】介绍树模型，包括不同树模型的区别以及选择树模型的主要原因。 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L718",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-007",
+      "originalTitle": "【监督学习对比】有监督学习和无监督学习的区别？监督学习与强化学习的区别。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L719",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-008",
+      "originalTitle": "【逻辑回归】LR原理&介绍 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L720",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-009",
+      "originalTitle": "【类别不平衡】在分类任务中，当不同类别样本数量极不平衡（如意图识别等场景）或正负样本不易区分时，如何处理类别不均衡问题？请结合softmax等模型说明解决方法。 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L725",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-010",
+      "originalTitle": "【线性回归与逻辑回归】线性回归&逻辑回归，包括loss选择原因。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L726",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-011",
+      "originalTitle": "【回归预测】场景题：预测椅子下周的销售数量，你会怎么做？收集历史数据，机器学习的回归方法？如果自变量在样本中很稀疏甚至远在样本数据范围外，该如何预测因变量？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L731",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-012",
+      "originalTitle": "【多分类】场景题：做一个意图识别的分类任务，类别特别多，怎么做？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L732",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-013",
+      "originalTitle": "【DeepWalk】讲一下DeepWalk的原理。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L739",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-014",
+      "originalTitle": "【LDA】LDA模型是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L740",
+      "reviewStatus": "confirmed",
+      "reviewNote": "按直属无监督学习父节将LDA理解为Latent Dirichlet Allocation，未指线性判别分析。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-015",
+      "originalTitle": "【PU learning】PU learning属于有监督、半监督、无监督的哪一种？以及这三种监督的定义是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L741",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-016",
+      "originalTitle": "【无监督学习应用】请分享一个你利用无监督或半监督学习方法解决风控问题的案例。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L742",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-017",
+      "originalTitle": "【无监督学习算法】无监督学习的算法有什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L743",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-018",
+      "originalTitle": "【正样本无负样本】只有用户投出来资产才知道有没有钱，预测用户的可能资产只有正样本，没有负样本，属于机器学习的什么任务？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L744",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-019",
+      "originalTitle": "【聚类信息增益】聚类这一块，也就是在做数的分类的时候，怎么算那个information gain？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L745",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-020",
+      "originalTitle": "【聚类算法】聚类算法：核心原理、主流实现方法（如K-means、层次聚类、DBSCAN等）。K-means的改进方法、中心点选取方式、最优K值确定方法、距离计算方式、与人工分类相比的优势、是否存在全局最优解。 「字节跳动、百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L746",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-021",
+      "originalTitle": "【降维算法】你了解多少降维算法？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L747",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-022",
+      "originalTitle": "【数值特征处理】数值型特征处理方式有哪些？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L754",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-023",
+      "originalTitle": "【特征重要性评估】什么是信息增益？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L755",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-024",
+      "originalTitle": "【离散特征处理】离散特征（如年龄）在决策树等模型中应如何处理？ 「百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L756",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-025",
+      "originalTitle": "【小样本学习】数据量少如何解决？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L761",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-026",
+      "originalTitle": "【特征分桶与分组】特征分桶与特征分组的技巧是什么？请介绍实习中特征分桶的经验，以及特征分组的常用技巧。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L762",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“特征分组”没有明确是组合、分桶还是按字段组织，已覆盖可确定的分箱目标，不替作者指定分组算法。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-027",
+      "originalTitle": "【特征编码与离散化】类别特征编码：使用GroupMean还是其他统计量？数值特征离散化：回归成连续值还是离散化成格子？请分别讨论。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L763",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-028",
+      "originalTitle": "【特征重要性评估】如何判断特征的重要性或有效性？请列举多种方法，包括但不限于树模型（如XGBoost）的特征重要性原理、基于模型的特征重要性评估（如通过mask特征或置换特征）、以及针对大规模特征筛选与label强相关特征的方法。另外，该特征特别有效的可能原因是什么？ 「京东、字节跳动、百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L764",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-029",
+      "originalTitle": "【相似度度量】相似度度量：如果向量没有归一化，InnerProduct和Cosine的结果会有什么差异？除了cosine还有哪些算相似度的方法？了解对比学习吗？ 「美团、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L765",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-030",
+      "originalTitle": "【重尾分布处理】传统解决重尾分布的方向有什么方法？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L766",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-031",
+      "originalTitle": "【特征工程流程】你在项目中是怎么做特征工程的？包括特征选择的方法、特征的具体尝试过程、最原始的特征是什么、特征如何作用、基于什么动机产生额外特征、以及特征工程的效果和AB实验结果。 「字节跳动、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L771",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-032",
+      "originalTitle": "【生物信号特征提取】生物信号的特征如何提取？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L772",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-033",
+      "originalTitle": "【类别不平衡处理】处理类别不平衡问题：包括正负样本不均衡对模型性能的影响及缓解方法；特征工程中的类别不平衡处理；数据分布不平衡处理；从样本、loss、模型结构、评估指标角度处理；描述处理经验；数据不平衡处理；样本不平衡问题（如路上99%直行，左转和变道极少）在数据采样和Loss设计上的处理；正负样本配比；长尾样本直接提权与直接复制多份的区别及其他处理方法。 「京东、字节跳动、拼多多、美团、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L773",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-034",
+      "originalTitle": "【自适应阈值】自适应阈值是怎么根据密度分布或 SNR 控制的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L774",
+      "reviewStatus": "needs_review",
+      "reviewNote": "自适应阈值未说明检测对象，以及密度与 SNR 的定义。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-035",
+      "originalTitle": "【二分类损失】二分类用什么loss？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L781",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-036",
+      "originalTitle": "【MAE与MSE】解释MAE、MSE的概念、数学意义和用法，包括公式、优缺点及适用场景。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-037",
+      "originalTitle": "【交叉熵与Focal Loss】1. 解释熵的概念。2. 写出交叉熵损失函数的公式（包括二分类和多分类形式），解释其物理意义，并实现交叉熵损失的计算。3. 介绍BCE（Binary Cross Entropy）和Focal Loss，包括公式、原理及适用场景。 「字节跳动、百度、腾讯混元、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L787",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-038",
+      "originalTitle": "【常见损失函数分类与选择】1. 了解多少损失函数？介绍常见的分类损失函数和回归损失函数，并说明它们的区别和优势（如MSE与CrossEntropyLoss）。2. 写出逻辑回归的损失函数。3. 什么场景用哪个损失函数？ 「京东、字节跳动、拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L788",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-039",
+      "originalTitle": "【损失函数选择场景】什么场景用哪个损失函数？请针对分类和回归任务分别说明。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L789",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-040",
+      "originalTitle": "【BCE与MSE对比】BCE和MSE的区别是什么？分别适合什么时候用？从梯度角度分析它们的优缺点。为什么分类任务常用交叉熵（CE/BCE）而不用均方误差（MSE），回归任务常用MSE而不用交叉熵？请从原理（如梯度收敛、损失函数特性）角度解释，并给出交叉熵公式。 「京东、字节Seed、字节跳动、百度、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L794",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-041",
+      "originalTitle": "【BCE梯度推导】BCE偏导怎么算？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L795",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-042",
+      "originalTitle": "【KL散度与交叉熵】KL散度与交叉熵的关系、区别和联系是什么？请手推公式，并说明各自的计算方法。KL散度有什么作用？为什么要用KL散度？交叉熵、信息熵、KL散度。什么是KL散度？请介绍其定义。它和 loss 有什么关系？ 「字节跳动、百度、美团、腾讯混元、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L796",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-043",
+      "originalTitle": "【KL散度用于分类】分类任务可以用KL散度吗？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L797",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-044",
+      "originalTitle": "【RankNet与Hinge Loss】讲一下hinge loss和RankNet loss，写出公式，需要几个样本？ 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L798",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-045",
+      "originalTitle": "【交叉熵推导】写出交叉熵公式并推导。 「百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L799",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-046",
+      "originalTitle": "【常用损失函数】10个常用的损失函数及Python代码实现。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L800",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题要求实现 10 个损失函数，但未提供函数清单与接口。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-047",
+      "originalTitle": "【损失函数】损失函数是什么？如何定义？在优化什么？手撕损失函数（包括norm等）。线性回归的损失函数是什么？逻辑回归的损失函数是什么？手撕4个损失函数。有哪几种常见的损失函数? 样本不均衡处理，解释Focal Loss的理解以及在多分类任务上的使用（PyTorch）。介绍一下用的什么损失函数，记不记得其他的对比损失？相似度和KL散度的区别，在训练loss上的差异。解释你的Loss函数里的每一项是干嘛的。讲讲你自定义loss的思路？ 「京东、字节跳动、拼多多、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L801",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-048",
+      "originalTitle": "【损失函数手撕】手撕BCE、InfoNCE、交叉熵损失函数，并说明：BCE loss为什么适用于分类任务，对比学习中的InfoNCE和BPR；InfoNCE如何计算，为什么要normalize，温度系数的作用；对比学习如何负采样数据，如何平衡batch的正负样本；举例说明损失中某个权重为什么要这么设置；分类任务为什么不用MSE？数学上使用MSE是否可行？逻辑回归损失函数为什么不能是MSE？ 「京东、字节跳动、百度、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L802",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-049",
+      "originalTitle": "【InfoNCE与Sampled Softmax】InfoNCE 和 Sampled Softmax 的区别？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L807",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-050",
+      "originalTitle": "【前向KL与反向KL】前向KL和反向KL的区别，和交叉熵的关系，哪些方法在用？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L808",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-051",
+      "originalTitle": "【损失函数设计】损失函数如何设计或选择？不同损失函数之间的差异是什么？ 「字节跳动、百度、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L809",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-052",
+      "originalTitle": "【权重确定与优化迭代】优化迭代方式。权重是人工调参还是通过学习得到的？这个权重为什么设成0.1而不是0.5? 「字节跳动、百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L816",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-053",
+      "originalTitle": "【优化目标】为什么优化损失函数不优化模型或者打分公式？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L821",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-054",
+      "originalTitle": "【动量累计】动量SGD的动量可以看做是什么的累计？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L822",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-055",
+      "originalTitle": "【局部最优】如何避免局部最优问题 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L823",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-056",
+      "originalTitle": "【梯度下降变体】讲讲BGD，MBGD，SGD的区别？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L824",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-057",
+      "originalTitle": "【梯度下降数学原理】从数学层面解释梯度下降？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L825",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-058",
+      "originalTitle": "【模型优化方向】若优化模型可从哪些方面入手？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L826",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-059",
+      "originalTitle": "【优化器原理与对比】请介绍你知道的优化器，并展开说说你常用的优化器及其原理。包括：SGD、Adam、AdamW的区别和改进？请对比SGD、Adam和AdamW优化器，说明它们之间的关系与区别，并阐述从SGD到Adam的发展历程和各自的思路。请详细解释Adam优化器的原理，包括其存储的信息（一阶动量、二阶动量）、动态调整学习率的机制、计算公式（写出Adam计算公式）以及公式中每一项的含义和作用。 「京东、字节Seed、字节跳动、百度、美团、腾讯、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L831",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-060",
+      "originalTitle": "【优化算法】梯度下降是局部最优还是全局最优？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L832",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-061",
+      "originalTitle": "【学习率调度实现】手写实现动态学习率调度 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L833",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-062",
+      "originalTitle": "【损失缩放与学习率】以下对同一个模型的两种处理方式是否等价：一种是对整个batch的loss乘以0.1，一种是loss不变，学习率乘以0.1？（考虑优化器） 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L834",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-063",
+      "originalTitle": "【梯度下降算法比较】请详细解释梯度下降算法的原理，并比较随机梯度下降(SGD)、小批量梯度下降(Mini-batch GD)和动量法(Momentum)的优缺点及适用场景。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L835",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-064",
+      "originalTitle": "【步长调整】lineSearch中步长如何动态调整？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L836",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-065",
+      "originalTitle": "【线性回归梯度下降实现】基于梯度下降实现线性回归完整训练流程，要求运行，loss收敛。 「MiniMax」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L837",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-066",
+      "originalTitle": "【重要性采样】重要性采样的原理？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L838",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-067",
+      "originalTitle": "【Adam优化器实现】实现Adam优化器（含AdamW变体）。要求：1）实现MyAdam类，包含__init__(self, params, lr=1e-3, betas=(0.9, 0.999), eps=1e-8)、step()和zero_grad()方法；step()需使用偏差校正：m_hat = m / (1 - beta1^t)，v_hat = v / (1 - beta2^t)；数值需与torch.optim.Adam一致。2）实现AdamW，即在Adam基础上加入权重衰减（weight_decay参数），更新时参数减去lr * weight_decay * param。 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L843",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-068",
+      "originalTitle": "【泛化与正则化】1. L1和L2正则化的区别是什么？请写出它们的公式。2. 方差和偏差的trade-off？3. 模型过拟合的根本原因？4. 介绍一下过拟合和欠拟合，包括过拟合的常见原因以及如何解决过拟合和欠拟合。 「京东、字节Seed、拼多多、百度、美团、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L855",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-069",
+      "originalTitle": "【过拟合与正则化】1. 如何判断模型是否过拟合？如果模型在训练集上表现很好但测试集很差，可能是什么原因？遇到过拟合如何处理？并对比大小模型过拟合的难易程度。 2. 你一般是怎么解决过拟合问题的？请列举并解释多种方法（包括但不限于正则化、数据增强、早停、Dropout、减少模型复杂度、交叉验证等）；除深度和棵数外，还有其他方法吗？ 3. 正则化为什么能起作用？它的作用是什么，处理什么问题，以及它是怎么做的？请描述其作用过程。 「京东、字节跳动、百度、美团、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L860",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-070",
+      "originalTitle": "【Precision与Recall】准确率和召回率的定义。口述recall和precision的区别（不要公式）。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L875",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原文“准确率”与 precision 混用，指标指代不明确。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-071",
+      "originalTitle": "【交叉验证】5折交叉验证怎么做？模型是否做了交叉验证？ 「美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L880",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-072",
+      "originalTitle": "【分类指标】二分类模型评价指标：acc、precision、f1-score、AUC等概念，样本不均衡对指标的影响，如何选择metric？ 「京东、腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-073",
+      "originalTitle": "【分类错误案例】基础模型经常分类分不准的案例有哪些？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L882",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-074",
+      "originalTitle": "【分类阈值】是否存在最优阈值？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L883",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-075",
+      "originalTitle": "【过拟合判断】具体怎么判断过拟合呢？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L884",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-076",
+      "originalTitle": "【AUC定义与性质】AUC的定义是什么？请介绍其两个物理意义、公式和时间复杂度，并说明是否还有其他定义。两个模型，一个输出是另一个的两倍，测试时AUC有何差异？（无差异，AUC是排序指标） 「京东、字节Seed、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L889",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-077",
+      "originalTitle": "【ROC与PR曲线】说说ROC曲线和PR曲线的原理，以及AUC和GAUC的区别。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L890",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-078",
+      "originalTitle": "【SHAP变体】除了TreeSHAP，你还知道哪些SHAP变体？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L891",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-079",
+      "originalTitle": "【分类与回归选择】一个问题既可定义成分类也可定义成回归，从哪些角度考虑如何定义？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L892",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-080",
+      "originalTitle": "【指标选择】AUC、Accuracy、F1、Recall、Precision分别适合什么场景？为什么选择AUC和F1score作为核心指标，而不是准确率或召回率？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L893",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-081",
+      "originalTitle": "【模型偏差】有没有考虑过模型可能根据内容类别判断正负类，而不是根据内容质量？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L894",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-082",
+      "originalTitle": "【过拟合与泛化】为什么在测试集上表现的比训练的效果好？ 「百度、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L895",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-083",
+      "originalTitle": "【风控指标】在风控领域，除了准确率外，哪些指标同样至关重要？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L896",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-084",
+      "originalTitle": "【AUC实现】手撕AUC：给定label和预测score，实现AUC计算（不用numpy），并优化时间复杂度。变体：手撕AUC（不用numpy）；代码：手撕AUC；手撕：给了label和预测score，实现AUC的代码，时间复杂度优化。 「京东、字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L901",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-085",
+      "originalTitle": "【Loss与指标不一致】Loss下降但F1等指标不涨，如何解决？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L902",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-086",
+      "originalTitle": "【SHAP】SHAP的计算方式? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-087",
+      "originalTitle": "【因果推断学习器】T-learner / S-learner / X-learner / DR-learner 区别，小样本选谁？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L904",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-088",
+      "originalTitle": "【概念漂移】在金融风控中，如何应对模型面临的“概念漂移”问题？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L905",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-089",
+      "originalTitle": "【模型可解释性】在模型可解释性要求极高的金融风控场景，如何让复杂模型（如深度学习）的决策过程变得可理解？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L910",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-090",
+      "originalTitle": "【Bagging与Boosting区别】Bagging和Boosting的区别是什么？ 「京东、字节跳动、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L917",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-091",
+      "originalTitle": "【树模型停止分裂条件】树模型如何停止分裂？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L918",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-092",
+      "originalTitle": "【树高与查询速度】树高更少为什么查询更快？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L919",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-093",
+      "originalTitle": "【随机森林流程】随机森林的算法流程是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L920",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-094",
+      "originalTitle": "【集成学习方法对比】集成学习除了Stacking还有什么？这些方法有什么区别？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L921",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-095",
+      "originalTitle": "【Bagging与Boosting树深度】树模型相关，包括Bagging和Boosting各自特点，从Bagging转向Boosting后树深度变多还是变少更合适？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L926",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-096",
+      "originalTitle": "【GBDT与XGBoost区别】GBDT和XGBoost的区别是什么？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L927",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-097",
+      "originalTitle": "【GBDT与随机森林对比】GBDT和随机森林的区别是什么？请同时说明它们的相同点和不同点。 「京东、字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L928",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-098",
+      "originalTitle": "【GBDT原理与分裂规则】GBDT的原理是什么？分裂节点的规则是怎样的？ 「拼多多、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L929",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-099",
+      "originalTitle": "【LightGBM训练速度】LightGBM为什么训练速度快？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L930",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-100",
+      "originalTitle": "【Stacking优点】Stacking相较于Boosting和Bagging，有什么优点，为什么泛化能力更强一些？为什么选择Stacking？ 「京东、字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L931",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-101",
+      "originalTitle": "【XGBoost/LGBM改进】XGBoost/LGBM相对于GBDT的改进有哪些？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L932",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-102",
+      "originalTitle": "【XGBoost与随机森林区别及方差比较】XGBoost和随机森林的区别是什么？哪个的方差较小？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L933",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-103",
+      "originalTitle": "【XGBoost与随机森林场景】XGBoost和随机森林分别适用于什么样的业务场景？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L934",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-104",
+      "originalTitle": "【XGBoost优势】XGBoost好在哪里？它的优势是什么，为什么在机器学习中常用？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L935",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-105",
+      "originalTitle": "【XGBoost原理】请介绍XGBoost的原理和具体过程。 「拼多多、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L936",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-106",
+      "originalTitle": "【XGBoost损失函数与正则项】XGBoost的损失函数和正则项分别是什么？请说明其设计。 「京东、字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L937",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-107",
+      "originalTitle": "【XGBoost节点分裂】XGBoost的节点分裂方式是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L938",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-108",
+      "originalTitle": "【XGBoost采样】XGBoost的采样方式是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L939",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-109",
+      "originalTitle": "【二分类算法选择】了解哪些二分类算法？换个问法，为什么用LightGBM，没用随机森林、逻辑回归、XGBoost？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L940",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-110",
+      "originalTitle": "【偏差方差分解】GBDT、随机森林分别解决了方差、偏差的哪个，为什么？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L941",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-111",
+      "originalTitle": "【树模型调参】树模型有什么调参技巧？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L942",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-112",
+      "originalTitle": "【树模型超参数选择】树模型如何选择树的深度和棵数？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L943",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-113",
+      "originalTitle": "【特征重要性】XGBoost怎么判断特征重要性的？基尼指数怎么计算的？NN模型怎么判断重要性？ 「字节跳动、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L944",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-114",
+      "originalTitle": "【集成模型AUC提升】集成模型为何较单模型AUC提升不明显？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L945",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-115",
+      "originalTitle": "【GBDT并行化】GBDT怎么实现并行化的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L950",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-116",
+      "originalTitle": "【LightGBM与XGBoost对比】LightGBM相对于XGBoost和GBDT有哪些优化？它们的主要区别是什么？包括模型结构、直方图算法、分块并行、加速原理，以及并行化的差别。分别属于boosting还是bagging？在什么场景下选择LightGBM，什么场景下选择XGBoost？ 「京东、百度、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L951",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-117",
+      "originalTitle": "【LightGBM并行化】LGBM怎么做并行化的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L952",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-118",
+      "originalTitle": "【XGBoost训练加速】XGBoost的训练过程比较长，你有什么方法来缩短其训练时间吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L953",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-119",
+      "originalTitle": "【因果森林与随机森林】因果森林和传统随机森林的区别是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L954",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-120",
+      "originalTitle": "【随机森林变体优化】有没有考虑用随机森林的变体做算法层面的优化自适应？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L955",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未指定随机森林变体与自适应目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-121",
+      "originalTitle": "【KL散度】介绍KL散度。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L962",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-122",
+      "originalTitle": "【KL散度】有哪些KL估计的形式？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L969",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-123",
+      "originalTitle": "【优化算法】对智能优化方法有哪些了解？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L970",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-124",
+      "originalTitle": "【信息论】信息瓶颈角度怎么理解？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L971",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-125",
+      "originalTitle": "【因果推断】1. 阐述因果推断与机器学习的区别。2. 只有观察数据时，如何估计因果效应？介绍PSM、DR-learner等方法。 「拼多多、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L972",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-126",
+      "originalTitle": "【图神经网络】GraphSAGE中的SAGE含义是什么？它与GAT、GCN的区别是什么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L973",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-127",
+      "originalTitle": "【平面提取】平面提取的方法、原理：最小二乘法、RANSAC，二者区别是什么？你觉得RANSAC和最小二乘的区别是啥？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L974",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-128",
+      "originalTitle": "【时间序列】了解和用过哪些时间序列的预测模型？请谈一下对时间序列机器学习模型的了解。 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L975",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-129",
+      "originalTitle": "【机器学习基础】传统机器学习算法是否了解？机器学习的相关概念有了解吗？ 「京东、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L976",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-130",
+      "originalTitle": "【权重分配】讲一下权重怎么分配的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L977",
+      "reviewStatus": "needs_review",
+      "reviewNote": "原题未说明权重的作用对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-131",
+      "originalTitle": "【混合方法】是否在尝试传统方法和learning的结合？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L978",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未说明传统方法与具体任务，关联仅覆盖组合价值与职责。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-132",
+      "originalTitle": "【生成模型】Score matching中score的计算公式是什么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L979",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-133",
+      "originalTitle": "【矩阵分解】介绍SVD原理，以及隐向量维度如何确定？ 「腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L980",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-134",
+      "originalTitle": "【综合建模】以VRP问题为基础，考察一连串新场景的建模。机器学习算法：选一个你熟悉的算法进行考察。缺失值有哪些处理方法？双目标？项目深入追问。一道笔试题。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L981",
+      "reviewStatus": "confirmed",
+      "reviewNote": "VRP 新场景、双目标与笔试任务未给出具体条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-695-135",
+      "originalTitle": "【鲁棒性】如何通过算法增强鲁棒性？如何通过采样或增强提升模型鲁棒性？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L982",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

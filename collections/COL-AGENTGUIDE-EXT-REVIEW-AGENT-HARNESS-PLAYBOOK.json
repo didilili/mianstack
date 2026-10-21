@@ -1,0 +1,145 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Agent Harness进阶追问",
+  "coverage": [
+    "agent",
+    "ai_engineering",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-001",
+      "originalTitle": "Harness Engineering 的三次范式跃迁分别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L365",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-002",
+      "originalTitle": "为什么说 Agent 无法准确评估自身产出？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-003",
+      "originalTitle": "Mitchell Hashimoto 对 Harness 的定义是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-004",
+      "originalTitle": "OpenAI 3 人 5 个月 100 万行代码的核心经验有哪些？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-005",
+      "originalTitle": "ReAct Loop 谁决定停机？为什么不在 Harness 层做判断？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L372",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-006",
+      "originalTitle": "Plan-then-Act 和纯 ReAct 的本质区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L373",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-007",
+      "originalTitle": "Nudge 是 user message 还是 system message？为什么要在 harness 层打？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L374",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-008",
+      "originalTitle": "Offloading 和 Compression 的本质区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-009",
+      "originalTitle": "Skill 为什么不引入专门的 `load_skill` 新工具？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-010",
+      "originalTitle": "为什么质量门禁必须可程序化验证？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L379",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-011",
+      "originalTitle": "上下文窗口 Sweet Spot 在 40% 以下填充率——为什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L381",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-012",
+      "originalTitle": "十阶段流水线为什么连一个 6 行代码的小需求也要完整走？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-013",
+      "originalTitle": "为什么说\"等待成本高于纠错成本\"？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-014",
+      "originalTitle": "为什么说 Harness 不是目的，知识才是护城河？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-015",
+      "originalTitle": "五层存储 × 五种类型 × 三级成熟度的三维体系怎么设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-016",
+      "originalTitle": "三级渐进式索引如何让 Agent 用 ~50 行的成本了解知识库全貌？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-017",
+      "originalTitle": "知识的自动衰减和引用追踪闭环怎么实现？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-018",
+      "originalTitle": "KTClaw 的三进程架构在 Harness 框架下属于哪一层？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L392",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-019",
+      "originalTitle": "GoAfar 的 OR-Tools 作为 verifier 能不能理解为 Harness 中的\"业务传感器\"？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L393",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-020",
+      "originalTitle": "TinyClaw 的 RAG-to-Skill 在 Harness 框架下属于哪个机制？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK-021",
+      "originalTitle": "如果你现在重新做 KTClaw，在 Harness 层面会做什么不同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md#L395",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

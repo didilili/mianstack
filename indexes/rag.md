@@ -4,7 +4,7 @@
 
 文档处理、检索、重排、知识更新、知识图谱与结构化知识。
 
-共 327 道题，分为 13 个专题。
+共 413 道题，分为 13 个专题。
 
 ## 页内导航
 
@@ -65,6 +65,24 @@
 - [Q-3908 搭建企业知识库需要哪些硬件和技术条件？](../questions/Q-3908.md)
 - [Q-3970 RAG、传统检索加生成与模型微调有什么区别，分别适合哪些场景？](../questions/Q-3970.md)
 - [Q-4191 网页检索应放在知识采集阶段还是在线问答阶段，如何选择？](../questions/Q-4191.md)
+- [Q-4466 RAG 与传统搜索引擎在工作链路、输出和评价目标上有什么区别？](../questions/Q-4466.md)
+- [Q-4467 RAG 有哪些优势和局限，适用于哪些场景？](../questions/Q-4467.md)
+- [Q-4474 RAG 上下文压缩有哪些收益，什么情况下会损害答案质量？](../questions/Q-4474.md)
+- [Q-4519 除单次先检索后生成外，RAG 还有哪些迭代和自适应检索范式？](../questions/Q-4519.md)
+- [Q-4520 RAG 系统在实际部署中会面临哪些主要挑战？](../questions/Q-4520.md)
+- [Q-4521 常见 RAG 实现框架有哪些，如何根据需求选型？](../questions/Q-4521.md)
+- [Q-4542 RAG 在哪些业务场景中有实际价值，如何说明采用收益？](../questions/Q-4542.md)
+- [Q-4543 RAG 系统应如何选择生成模型？](../questions/Q-4543.md)
+- [Q-4544 RAG 提示词与普通非 RAG 提示词有什么区别？](../questions/Q-4544.md)
+- [Q-4692 高并发 RAG 查询中，如何分别优化召回与生成阶段的时延？](../questions/Q-4692.md)
+- [Q-4757 用 Python 实现支持流式输出的 Mini RAG 系统。](../questions/Q-4757.md)
+- [Q-4782 如何设计支持流式输出的 RAG 系统，并协调检索、生成与前端展示？](../questions/Q-4782.md)
+- [Q-4784 如何设计支持多语言与跨语言检索的 RAG 系统？](../questions/Q-4784.md)
+- [Q-4833 Self-RAG 如何决定是否检索，并利用反思信号控制生成？](../questions/Q-4833.md)
+- [Q-4834 什么是 Vectorless RAG，如何在不使用向量检索时查找文档证据？](../questions/Q-4834.md)
+- [Q-5155 RAG 从 Naive、Advanced 到 Modular 有哪些演进，各解决什么问题？](../questions/Q-5155.md)
+- [Q-5299 长文档问答如何结合摘要与 RAG，同时支持全局概括和细节查询？](../questions/Q-5299.md)
+- [Q-5679 如何通过检索与插入生成文本和图像、视频混合的回答？](../questions/Q-5679.md)
 
 <a id="topic-2"></a>
 ## 文档解析与清洗
@@ -92,6 +110,13 @@
 - [Q-3722 文档解析在 RAG 中有什么作用，解析错误会带来哪些影响？](../questions/Q-3722.md)
 - [Q-3723 不同格式的文档应如何解析？](../questions/Q-3723.md)
 - [Q-3728 大规模文档建索引时，如何处理大量相似或重复文档？](../questions/Q-3728.md)
+- [Q-4471 RAG 文档解析、清洗和结构化分别解决什么问题？](../questions/Q-4471.md)
+- [Q-4785 文档解析如何选择 LlamaParse、Unstructured 与 PyMuPDF？](../questions/Q-4785.md)
+- [Q-5052 实现提取 PDF 文本并切分为文本块的文档解析器。](../questions/Q-5052.md)
+- [Q-5156 RAG 文档处理中的语义丢失是什么，为什么会发生？](../questions/Q-5156.md)
+- [Q-5689 跨页段落与表格如何判断连续关系并重建，文本相似度规则有何局限？](../questions/Q-5689.md)
+- [Q-5690 低质量扫描文档如何组织图像增强与几何校正流水线？](../questions/Q-5690.md)
+- [Q-6823 如何从句子或段落中提取任务相关的关键信息？](../questions/Q-6823.md)
 
 <a id="topic-3"></a>
 ## 文档切分与元数据
@@ -115,6 +140,12 @@
 - [Q-3726 如何为 Chunk 建立可回溯原文位置的索引？](../questions/Q-3726.md)
 - [Q-3823 文档切片之间如何建立关联，切片索引应如何存储？](../questions/Q-3823.md)
 - [Q-3906 制度文档与 Excel 报表接入知识库时，分别如何切分？](../questions/Q-3906.md)
+- [Q-4472 代码块进入 RAG 前，应如何保留语义完整性与关联上下文？](../questions/Q-4472.md)
+- [Q-4551 为文档块添加上下文标题或说明头，如何改善 RAG 检索？](../questions/Q-4551.md)
+- [Q-4746 用 Python 实现固定大小、重叠和语义文档切块。](../questions/Q-4746.md)
+- [Q-4951 向量数据库中的元数据有什么作用，应如何组织和使用？](../questions/Q-4951.md)
+- [Q-5121 实现基于语义边界的文档分块算法。](../questions/Q-5121.md)
+- [Q-5535 如何组织文档结构与元数据，提高检索和引用质量？](../questions/Q-5535.md)
 
 <a id="topic-4"></a>
 ## Embedding 与向量表示
@@ -135,6 +166,11 @@
 - [Q-3643 如何确定 Embedding 维度，为什么选择 1024 维而非更高或更低？](../questions/Q-3643.md)
 - [Q-3644 原文所称 Qwen-4B Embedding 如何实现，是否属于 BERT 架构？](../questions/Q-3644.md)
 - [Q-3729 Embedding 模型用于下游任务时有哪些局限？](../questions/Q-3729.md)
+- [Q-4558 RAG 使用量化 Embedding 有哪些收益、风险与适用条件？](../questions/Q-4558.md)
+- [Q-4926 如何在 LangChain 中完成文本嵌入、向量入库和相似检索？](../questions/Q-4926.md)
+- [Q-4948 Embedding Cache 如何缓存和复用文本向量？](../questions/Q-4948.md)
+- [Q-5053 从零实现余弦相似度、点积和欧氏距离。](../questions/Q-5053.md)
+- [Q-6284 SimCSE 如何通过对比学习训练句向量？](../questions/Q-6284.md)
 
 <a id="topic-5"></a>
 ## 向量数据库与索引
@@ -166,6 +202,12 @@
 - [Q-3727 常见的向量索引算法有哪些，如何选择？](../questions/Q-3727.md)
 - [Q-3743 为什么需要向量数据库？与传统数据库有何区别？](../questions/Q-3743.md)
 - [Q-4073 语义检索为什么选择向量数据库，而不直接使用 Elasticsearch？](../questions/Q-4073.md)
+- [Q-4468 为什么近似最近邻检索可以接受非完全精确的结果？](../questions/Q-4468.md)
+- [Q-4469 HNSW 的 ef_search 参数如何调优，会怎样影响召回、时延和资源？](../questions/Q-4469.md)
+- [Q-4470 向量数据从百万增长到亿级时，检索架构应如何扩展？](../questions/Q-4470.md)
+- [Q-4553 ANN 如何加速 RAG 向量检索，典型搜索流程是什么？](../questions/Q-4553.md)
+- [Q-4950 向量数据库如何组织多租户索引与查询隔离？](../questions/Q-4950.md)
+- [Q-5158 pgvector 的向量索引如何配置、验证和维护？](../questions/Q-5158.md)
 
 <a id="topic-6"></a>
 ## 查询理解与改写
@@ -181,6 +223,7 @@
 - [Q-2170 三五字短 Query 如何与一两百字 Chunk 比较向量，相比长 Query 的召回有何差异？](../questions/Q-2170.md)
 - [Q-2171 除了压缩，还会对长 Query 做哪些处理？](../questions/Q-2171.md)
 - [Q-3721 Query 重构有哪些常见方法，各适合什么场景？](../questions/Q-3721.md)
+- [Q-4750 用 Python 实现 HyDE 检索流程。](../questions/Q-4750.md)
 
 <a id="topic-7"></a>
 ## 召回策略与检索
@@ -226,6 +269,17 @@
 - [Q-3940 RAG 项目的检索模块实现了哪些功能？](../questions/Q-3940.md)
 - [Q-3999 RAG 如何严格按用户指定的时间范围检索并避免引用越界数据？](../questions/Q-3999.md)
 - [Q-4364 介绍项目中检索召回的完整流程。](../questions/Q-4364.md)
+- [Q-4480 为什么知识检索系统会组合关键词、单向量、多向量和图检索？](../questions/Q-4480.md)
+- [Q-4554 RAG 召回结果如何兼顾相关性与多样性？](../questions/Q-4554.md)
+- [Q-4690 向量检索如何引入时间衰减，平衡内容相关性与新鲜度？](../questions/Q-4690.md)
+- [Q-4832 ColBERT 如何通过多向量表示与 Late Interaction 完成检索？](../questions/Q-4832.md)
+- [Q-5046 从零实现基于向量相似度的语义检索。](../questions/Q-5046.md)
+- [Q-5199 什么是相邻块扩展，它如何补足 RAG 检索上下文？](../questions/Q-5199.md)
+- [Q-5426 从零实现 TF-IDF 文本特征。](../questions/Q-5426.md)
+- [Q-5533 RAG 如何解析文档中的引用并检索被引用内容？](../questions/Q-5533.md)
+- [Q-5676 生成式检索如何学习文档标识并由查询生成检索结果？](../questions/Q-5676.md)
+- [Q-6306 粗粒度定位再细粒度检索如何设计，并避免上游漏召回？](../questions/Q-6306.md)
+- [Q-6821 如何为关键词检索选择技术和工具？](../questions/Q-6821.md)
 
 <a id="topic-8"></a>
 ## 混合检索与重排序
@@ -261,6 +315,11 @@
 - [Q-3865 RAG 为什么不能对全部文档直接做 Rerank？](../questions/Q-3865.md)
 - [Q-3950 RAG 的 Rerank 阶段有哪些常用重排策略？](../questions/Q-3950.md)
 - [Q-4044 多轮历史对话检索与 RAG 外部知识检索的排序逻辑有何不同？](../questions/Q-4044.md)
+- [Q-4747 用 Python 实现 BM25 与向量检索的混合召回。](../questions/Q-4747.md)
+- [Q-4748 用 Python 实现基于交叉编码器的 Reranker。](../questions/Q-4748.md)
+- [Q-4765 多模态 RAG 如何融合文本、图像和表格的检索结果？](../questions/Q-4765.md)
+- [Q-5531 实现多路召回结果的去重、加权排序和 Top-K。](../questions/Q-5531.md)
+- [Q-5677 LLM 提示式重排序如何组织候选并缓解位置偏差？](../questions/Q-5677.md)
 
 <a id="topic-9"></a>
 ## RAG 评测与故障排查
@@ -311,6 +370,15 @@
 - [Q-3998 RAG 召回率与准确率发生冲突时应如何权衡？](../questions/Q-3998.md)
 - [Q-4007 RAG 评测中的口径匹配率如何定义和计算？](../questions/Q-4007.md)
 - [Q-4014 RAG 的切块、索引、存储、检索和排序中，哪些环节最影响最终效果？](../questions/Q-4014.md)
+- [Q-4475 为什么 RAG 优化前应先建立失败样本集？](../questions/Q-4475.md)
+- [Q-4483 MRR、NDCG、Recall@K、Context Precision 和 Faithfulness 分别衡量什么？](../questions/Q-4483.md)
+- [Q-4552 RAG 检索器质量不足会怎样影响生成结果？](../questions/Q-4552.md)
+- [Q-4563 Precision、Recall、MRR、MAP 与 NDCG 有何区别，RAG 评测时如何选用？](../questions/Q-4563.md)
+- [Q-4571 如何评估并提高 RAG 生成结果的 Faithfulness？](../questions/Q-4571.md)
+- [Q-4573 Response Relevancy 如何衡量回答切题程度，与 Context Relevancy 有何区别？](../questions/Q-4573.md)
+- [Q-4574 Faithfulness 与 Response Relevancy 有什么区别，为什么需要联合评估？](../questions/Q-4574.md)
+- [Q-5223 如何评估 RAG 回答的引用准确性与证据覆盖？](../questions/Q-5223.md)
+- [Q-6123 如何验证多跳问答确实依赖支持证据，而非参数知识或捷径？](../questions/Q-6123.md)
 
 <a id="topic-10"></a>
 ## 知识更新、版本与权限
@@ -336,6 +404,13 @@
 - [Q-4192 如何选择性地向知识库增加内容，并设计完整入库流程？](../questions/Q-4192.md)
 - [Q-4193 哪些动态知识值得转为静态内容写入知识库？](../questions/Q-4193.md)
 - [Q-4194 如何设计情感咨询类静态知识库的内容范围、采集与更新机制？](../questions/Q-4194.md)
+- [Q-4473 文档切分和索引时，如何继承并保留权限元数据？](../questions/Q-4473.md)
+- [Q-4481 Embedding 模型升级后，为什么通常需要重新向量化并重建索引？](../questions/Q-4481.md)
+- [Q-4482 RAG 的 Chunk 策略变更会影响哪些历史数据和索引产物？](../questions/Q-4482.md)
+- [Q-4691 知识库增量更新时，如何避免新旧文档分布差异造成检索偏差？](../questions/Q-4691.md)
+- [Q-5157 如何观测 RAG 知识库的更新与索引构建链路？](../questions/Q-5157.md)
+- [Q-5530 RAG 数据层应如何组织文档、片段、向量、版本和权限？](../questions/Q-5530.md)
+- [Q-6033 商品 RAG 如何校验实时库存，并控制检索索引的陈旧窗口？](../questions/Q-6033.md)
 
 <a id="topic-11"></a>
 ## 多模态文档处理
@@ -356,6 +431,9 @@
 - [Q-3106 视频剪辑为什么不采用全量 ASR？](../questions/Q-3106.md)
 - [Q-3107 语音驱动剪辑中，长音频分段识别如何避免时序错乱和断句错误？](../questions/Q-3107.md)
 - [Q-4292 文档识别为什么选择多模态大模型而不是 OCR 模型？](../questions/Q-4292.md)
+- [Q-5680 文档截图表示检索与 OCR 文本检索有何区别，如何验证布局信息的作用？](../questions/Q-5680.md)
+- [Q-6178 OCR 图表解析应如何保留表格关系、坐标轴与数据系列的结构？](../questions/Q-6178.md)
+- [Q-6180 OCR 识别的 LaTeX 公式为何在 Markdown 中显示异常，如何定位处理？](../questions/Q-6180.md)
 
 <a id="topic-12"></a>
 ## 知识图谱与 GraphRAG
@@ -390,6 +468,13 @@
 - [Q-4197 知识增多后，如何避免实体泛化和命名不统一，保持实体内聚性？](../questions/Q-4197.md)
 - [Q-4198 构建知识图谱时，如何选择实体的上级节点和层级关系？](../questions/Q-4198.md)
 - [Q-4199 使用大模型抽取实体和关系不稳定、不准确时，如何治理？](../questions/Q-4199.md)
+- [Q-4476 基于 Chunk 的 RAG 为什么容易形成信息孤岛？](../questions/Q-4476.md)
+- [Q-4477 GraphRAG 中实体、关系和社区发现分别承担什么职责？](../questions/Q-4477.md)
+- [Q-4478 GraphRAG 的社区摘要有什么价值，会带来哪些构建和维护成本？](../questions/Q-4478.md)
+- [Q-4479 GraphRAG 如何对实体、关系、检索路径和社区摘要实施权限过滤？](../questions/Q-4479.md)
+- [Q-4555 如何统一检索知识图谱与非结构化文档，为 RAG 提供证据？](../questions/Q-4555.md)
+- [Q-5489 如何设计命名实体链接系统？](../questions/Q-5489.md)
+- [Q-6129 HippoRAG 如何用 Personalized PageRank 支持关联检索，与独立 Top-K 检索有何区别？](../questions/Q-6129.md)
 
 <a id="topic-13"></a>
 ## 结构化知识与 Text-to-SQL
@@ -400,3 +485,4 @@
 - [Q-2471 生成 SQL 后如何检测全表扫描等慢 SQL？](../questions/Q-2471.md)
 - [Q-3745 如何将结构化数据库（SQL）和非结构化文档结合进行混合检索？](../questions/Q-3745.md)
 - [Q-3746 Text-to-SQL 在 Agent 中如何应用？存在哪些风险和限制？](../questions/Q-3746.md)
+- [Q-5532 Text-to-SQL 如何区分表结构与业务规则知识，并适应表结构变更？](../questions/Q-5532.md)

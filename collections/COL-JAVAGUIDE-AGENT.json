@@ -1,0 +1,366 @@
+{
+  "id": "COL-JAVAGUIDE-AGENT",
+  "publisherId": "PUB-JAVAGUIDE",
+  "title": "JavaGuide · Agent 面试题",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "JavaGuide《AI Agent 面试题总结》的公开问题目录，按原专题顺序收录。",
+  "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-JAVAGUIDE-AGENT-001",
+      "originalTitle": "AI Agent 是什么？和普通 Chatbot 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-002",
+      "originalTitle": "Agent = LLM + Planning + Memory + Tools 这条公式怎么理解？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L30",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-003",
+      "originalTitle": "Agent Loop 的完整流程是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-004",
+      "originalTitle": "Agent 和传统编程、Workflow 的核心区别是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-005",
+      "originalTitle": "ReAct、Plan-and-Execute、Reflection、Multi-Agent 分别适合什么场景？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L33",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-006",
+      "originalTitle": "Tools 注册时，工具 description 为什么很关键？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L34",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-007",
+      "originalTitle": "什么时候用纯 Agent，什么时候用 Workflow 或 Agentic Workflow？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-008",
+      "originalTitle": "Multi-Agent 协作的主要问题是什么？为什么生产里不能盲目上多 Agent？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L36",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-009",
+      "originalTitle": "Agent 的短期记忆和长期记忆有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L50",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-010",
+      "originalTitle": "Agent 记忆系统要解决哪些核心问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L51",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-011",
+      "originalTitle": "向量记忆和 Markdown 记忆分别适合什么场景？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L52",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-012",
+      "originalTitle": "Auto Memory 是什么？它为什么不能无限自动写入？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-013",
+      "originalTitle": "哪些团队共享记忆适合走 Git 和 Code Review，哪些更适合数据库？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L54",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-014",
+      "originalTitle": "记忆压缩、记忆过期、记忆冲突应该怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L55",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-015",
+      "originalTitle": "如何避免长期记忆污染上下文？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L56",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-016",
+      "originalTitle": "面试里怎么讲“有记忆”不是简单保存聊天记录？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L57",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-017",
+      "originalTitle": "Prompt Engineering 和 Context Engineering 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-018",
+      "originalTitle": "Prompt 四要素 Role、Task、Context、Format 分别解决什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L70",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-019",
+      "originalTitle": "Few-Shot、CoT、任务分解、结构化输出分别适合什么场景？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-020",
+      "originalTitle": "Prompt 注入攻击是什么？常见防护方式有哪些？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-021",
+      "originalTitle": "为什么 Agent 场景下只优化 Prompt 不够？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L73",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-022",
+      "originalTitle": "Context Engineering 要解决哪些问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L74",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-023",
+      "originalTitle": "静态规则、动态信息、工具结果、记忆应该如何进入上下文？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L75",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-024",
+      "originalTitle": "长任务上下文溢出时，Compaction、结构化笔记、Sub-agent 分别怎么用？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L76",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-025",
+      "originalTitle": "MCP 解决什么问题？为什么常被类比成 AI 领域的 USB-C？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-026",
+      "originalTitle": "MCP Client、MCP Server、Host 分别是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L89",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-027",
+      "originalTitle": "MCP 的 Tools、Resources、Prompts 分别解决什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L90",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-028",
+      "originalTitle": "MCP 和 Function Calling 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L91",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-029",
+      "originalTitle": "生产级 MCP Server 要做哪些安全治理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L92",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-030",
+      "originalTitle": "Agent Skills 是什么？它和 Prompt、MCP、Function Calling 的边界是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L93",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-031",
+      "originalTitle": "Skills 为什么要延迟加载？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-032",
+      "originalTitle": "Skill 路由怎么做？为什么它和 RAG 相似但目标不同？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L95",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-033",
+      "originalTitle": "写一个 `SKILL.md` 最容易踩哪些坑？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-034",
+      "originalTitle": "Harness Engineering 是什么？它和 Prompt Engineering、Context Engineering 有什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L106",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-035",
+      "originalTitle": "为什么说 Agent = Model + Harness？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L107",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-036",
+      "originalTitle": "JavaGuide AI Agent 专题归纳的 Harness 六层检查框架分别解决什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-037",
+      "originalTitle": "模型能力升级后，Harness 里的某些机制为什么需要重新验证？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L109",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-038",
+      "originalTitle": "上下文污染、代码熵积累、工具调用可靠性分别怎么治理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L110",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-039",
+      "originalTitle": "Agent 工程里为什么需要评测器、验证器和任务状态管理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L111",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-040",
+      "originalTitle": "一线团队做 Agent 工程化时，共同遇到的难点是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L112",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-041",
+      "originalTitle": "为什么 AI 系统需要工作流？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-042",
+      "originalTitle": "Workflow、Graph、Loop 三者是什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L125",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-043",
+      "originalTitle": "Graph Loop 和 Agent Loop 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-044",
+      "originalTitle": "外层 Loop 由谁触发下一轮：CI 事件、定时任务、目标检查还是人工审批？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L127",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-045",
+      "originalTitle": "外层 Loop 与一次任务内部的 Agent Loop 有什么区别，状态和验证结果怎样交接？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L128",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-046",
+      "originalTitle": "哪些任务不适合无人值守？缺少可靠验收信号、涉及高风险写操作或需要业务判断时，怎样停止并转人工？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L129",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-047",
+      "originalTitle": "Loop 如何防止死循环？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-048",
+      "originalTitle": "State 的更新策略怎么选？Replace、Append、Reducer 分别适合什么字段？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L131",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-049",
+      "originalTitle": "条件边和动态路由有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-050",
+      "originalTitle": "工具调用失败时，哪些错误适合重试？认证失败和非幂等写操作怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L133",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-051",
+      "originalTitle": "工作流中断后怎么恢复？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L134",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-052",
+      "originalTitle": "工作流有哪些特有的安全风险？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L135",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-053",
+      "originalTitle": "如果让 Agent 完成一次需要调用多个工具的长任务，你会如何拆分执行步骤？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L143",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-054",
+      "originalTitle": "哪些节点适合交给模型判断，哪些节点应该由规则或代码控制？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L144",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-055",
+      "originalTitle": "Agent 的计划、工具结果和中间状态如何保存？中断后怎样恢复？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L145",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-056",
+      "originalTitle": "工具包含写操作时，权限、参数校验、二次确认和审计怎么设计？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-057",
+      "originalTitle": "什么情况下需要 Multi-Agent？如何控制通信成本和状态一致性？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L147",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-AGENT-058",
+      "originalTitle": "你会记录哪些 Trace，并用哪些指标评估任务完成率、工具调用和执行轨迹？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md#L148",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

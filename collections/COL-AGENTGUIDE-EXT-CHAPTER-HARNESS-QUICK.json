@@ -1,0 +1,54 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-CHAPTER-HARNESS-QUICK",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide · Harness 设计速查",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/27-agent-harness-engineering.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-HARNESS-QUICK-001",
+      "originalTitle": "怎么设计一个 Agent？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/27-agent-harness-engineering.md#L264",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-HARNESS-QUICK-002",
+      "originalTitle": "上下文太长怎么办？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/27-agent-harness-engineering.md#L265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-HARNESS-QUICK-003",
+      "originalTitle": "工具选错怎么办？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/27-agent-harness-engineering.md#L266",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-HARNESS-QUICK-004",
+      "originalTitle": "什么时候用 multi-agent？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/27-agent-harness-engineering.md#L267",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-HARNESS-QUICK-005",
+      "originalTitle": "成本怎么控制？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/27-agent-harness-engineering.md#L268",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-CHAPTER-HARNESS-QUICK-006",
+      "originalTitle": "HITL 怎么设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/27-agent-harness-engineering.md#L269",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

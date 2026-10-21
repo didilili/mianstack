@@ -1,0 +1,597 @@
+{
+  "id": "COL-AGENTGUIDE-LLM",
+  "publisherId": "PUB-AGENTGUIDE",
+  "title": "AgentGuide · 大模型基础面试题",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "declaredItemCount": 107,
+  "sourceClaim": "AgentGuide《大模型基础必考题（107题）》的公开问题。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-LLM-001",
+      "originalTitle": "Transformer前馈神经网络用的是什么激活函数？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L22",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-002",
+      "originalTitle": "简述一下Transformer的基本结构和原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L34",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-003",
+      "originalTitle": "Transformer为什么使用多头注意力机制？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-004",
+      "originalTitle": "Transformer为何让Q(查询)和K(键)使用独立的权重矩阵进行计算，为什么需要Q、K、V(查询、键、值)三个矩阵？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L60",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-005",
+      "originalTitle": "为什么在attention中要进行scaled(为什么除以√d_k)？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-006",
+      "originalTitle": "Transformer的位置编码作用及局限性？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L84",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-007",
+      "originalTitle": "为什么Transformer用LayerNorm而不用BatchNorm？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-008",
+      "originalTitle": "解释一下KV Cache的原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L108",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-009",
+      "originalTitle": "Transformer相比RNN、LSTM的优势何在？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-010",
+      "originalTitle": "Transformer在哪里做了权重共享？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L132",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-011",
+      "originalTitle": "介绍一下RoPE位置编码",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L144",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-012",
+      "originalTitle": "旋转位置编码为什么比绝对位置编码更好",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L156",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-013",
+      "originalTitle": "RMSNorm正则化有什么好处和优势",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L168",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-014",
+      "originalTitle": "SwiGLU激活函数的原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L180",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-015",
+      "originalTitle": "为什么大模型用GQA(Group Query Attention)",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L192",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-016",
+      "originalTitle": "Transformer模型中，最占用参数的是MLP层吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L204",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-017",
+      "originalTitle": "Transformer模型中计算量(FLOPs)的分析",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-018",
+      "originalTitle": "Transformer模型中计算量(FLOPs)和参数的表格分析",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-019",
+      "originalTitle": "Multi-head Latent Attention(多头隐变量注意力)是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L241",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-020",
+      "originalTitle": "Linear Attention(线性注意力)是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L253",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-021",
+      "originalTitle": "Cross-Attention(交叉注意力)是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-022",
+      "originalTitle": "Sparse Attention(稀疏注意力)是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L277",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-023",
+      "originalTitle": "不同Attention之间的区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L289",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-024",
+      "originalTitle": "Group Normalization (GN) 和 Instance Normalization (IN)的区别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L301",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-025",
+      "originalTitle": "不同的Normalization之间有什么区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L313",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-026",
+      "originalTitle": "解释一下LoRA的原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L327",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-027",
+      "originalTitle": "LoRA是怎样进行初始化矩阵的",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-028",
+      "originalTitle": "解释一下AdaLoRA和QLoRA的原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L351",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-029",
+      "originalTitle": "解释一下Adapter",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L363",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-030",
+      "originalTitle": "介绍几种常见的Adapter",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-031",
+      "originalTitle": "解释一下prefix-tuning",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-032",
+      "originalTitle": "解释一下P-tuning",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-033",
+      "originalTitle": "解释一下Prompt-tuning",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-034",
+      "originalTitle": "解释一下混合精度的原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L425",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-035",
+      "originalTitle": "训练的时候用float16、bfloat16还是float32，为什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L437",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-036",
+      "originalTitle": "怎么解决训练使用float16导致溢出的问题",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-037",
+      "originalTitle": "DeepSpeed中ZeRO系列的原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L461",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-038",
+      "originalTitle": "训练时数据长度不一致怎么办，以及如何优化训练速度",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L474",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-039",
+      "originalTitle": "为什么需要增量预训练？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L486",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-040",
+      "originalTitle": "增量预训练的过程当中，loss上升正常吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-041",
+      "originalTitle": "在增量预训练过程中如何设置学习率(learning rate, LR)？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L510",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-042",
+      "originalTitle": "什么是warmup ratio？训练过程中怎么设置？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L522",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-043",
+      "originalTitle": "为什么需要混合精度训练？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L534",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-044",
+      "originalTitle": "CLM和MLM分别是什么，有什么区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L548",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-045",
+      "originalTitle": "GLM的自回归空白填充方法与BERT中的使用遮蔽语言模型(MLM)有什么不同，为自然语言理解(NLU)任务带来了哪些优势",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L560",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-046",
+      "originalTitle": "Encoder-only、Decoder-only和Encoder-Decoder的模型分别有什么区别，怎么运用？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L572",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-047",
+      "originalTitle": "为什么现在的大语言模型都用Decoder-only",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-048",
+      "originalTitle": "介绍一下BERT的结构",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L596",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-049",
+      "originalTitle": "介绍一下LLaMA的结构",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L608",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-050",
+      "originalTitle": "LLaMA模型在训练过程中如何处理梯度消失和梯度爆炸的问题",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L621",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-051",
+      "originalTitle": "什么是MoE(混合专家模型)",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L634",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-052",
+      "originalTitle": "Dense和MoE模型的区别",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L646",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-053",
+      "originalTitle": "介绍一下Qwen通义千问的结构",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-054",
+      "originalTitle": "Qwen2有哪些提升？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L670",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-055",
+      "originalTitle": "介绍一下LLaMA3.1的创新",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L682",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-056",
+      "originalTitle": "DeepSeekV3有啥技术特点？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L695",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-057",
+      "originalTitle": "介绍一下vLLM的加速方法",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L710",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-058",
+      "originalTitle": "介绍一下FlashAttention的原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L722",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-059",
+      "originalTitle": "如何缓解大模型inference的时候的重复问题",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L734",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-060",
+      "originalTitle": "什么是Prefill-Decode分离？为什么分离？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L746",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-061",
+      "originalTitle": "为什么要优化KV Cache？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L758",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-062",
+      "originalTitle": "MLA (Multi-head Latent Attention) 是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L770",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-063",
+      "originalTitle": "为什么推理速度受限于显存带宽？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L782",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-064",
+      "originalTitle": "介绍一下Tokenizer怎么训练的",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L796",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-065",
+      "originalTitle": "WordPiece如何考虑语言模型的概率",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L808",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-066",
+      "originalTitle": "介绍一下BPE&BBPE这两种Tokenization方法",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L820",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-067",
+      "originalTitle": "解释下强化学习",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L834",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-068",
+      "originalTitle": "强化学习中策略函数和值函数是什么",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L846",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-069",
+      "originalTitle": "DPO的原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L858",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-070",
+      "originalTitle": "PPO的原理",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L870",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-071",
+      "originalTitle": "分析一下DPO和PPO的区别",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L882",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-072",
+      "originalTitle": "DPO的正负样本怎么构造",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L894",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-073",
+      "originalTitle": "DPO的loss是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L906",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-074",
+      "originalTitle": "OpenAI对齐为什么要用强化学习，别的方法不行吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L918",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-075",
+      "originalTitle": "预训练和微调任务有什么区别，两者的目的",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L930",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-076",
+      "originalTitle": "SFT后会出现哪些问题",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L942",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-077",
+      "originalTitle": "什么是PRM过程监督奖励？OpenAI的秘密武器？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L954",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-078",
+      "originalTitle": "强化学习算法是怎么分类的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L966",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-079",
+      "originalTitle": "怎么理解DPO的损失函数？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L978",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-080",
+      "originalTitle": "DPO的微调流程",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L990",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-081",
+      "originalTitle": "DeepSeek-R1-Zero里的Zero含义？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1003",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-082",
+      "originalTitle": "DeepSeek-R1-Zero中的强化学习(RL)的原理？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1015",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-083",
+      "originalTitle": "DeepSeek-R1-Zero有什么弊端",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1027",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-084",
+      "originalTitle": "什么是冷启动？为什么要冷启动？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1039",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-085",
+      "originalTitle": "在DeepSeek-R1上PRM和MCTS是否有用？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1051",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-086",
+      "originalTitle": "Deepseek中蒸馏R1是什么？是否比从零RL训练更好？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1063",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-087",
+      "originalTitle": "什么是长度外推？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1077",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-088",
+      "originalTitle": "ALiBi (Attention with Linear Biases)思路是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1089",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-089",
+      "originalTitle": "NTK长度外推方法是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1101",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-090",
+      "originalTitle": "PPL (Perplexity) 及其数学公式",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1115",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-091",
+      "originalTitle": "大海捞针测试和概率探针分别是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1127",
+      "reviewStatus": "confirmed",
+      "reviewNote": "来源未明确“概率探针”的具体定义；当前关联仅覆盖“大海捞针”部分。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-092",
+      "originalTitle": "了解迁移学习吗？大模型中是怎么运用迁移学习的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1141",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-093",
+      "originalTitle": "从huggingface下载模型时有哪些文件？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1153",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-094",
+      "originalTitle": "到底什么是端到端模型",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1166",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-095",
+      "originalTitle": "什么叫长尾问题？怎么解决长尾分布问题？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-LLM-096",
+      "originalTitle": "什么是交叉熵损失函数？大模型的哪里有交叉熵损失函数？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md#L1189",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

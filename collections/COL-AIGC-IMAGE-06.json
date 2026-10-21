@@ -1,0 +1,83 @@
+{
+  "id": "COL-AIGC-IMAGE-06",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 图像创作 · GAN系列模型基础",
+  "coverage": [
+    "llm"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-IMAGE-06-001",
+      "originalTitle": "面试问题：介绍一下生成对抗网络（GAN）的核心思想",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-06-002",
+      "originalTitle": "面试问题：GAN的训练流程是什么样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L80",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-06-003",
+      "originalTitle": "面试问题：进行GAN的完整公式推导与理论证明（进阶）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L124",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-06-004",
+      "originalTitle": "面试问题：介绍一下GAN模型的Mode Collapse（模式坍塌）问题的本质",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L294",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-06-005",
+      "originalTitle": "面试问题：为了解决 Mode Collapse（模式坍塌），GAN的主流变体模型都做了哪些优化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L381",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-06-006",
+      "originalTitle": "面试问题：哪些GAN模型在 AIGC 时代主流的Low-Level技术中广泛应用？GAN模型如何实现这些功能？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L436",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-06-007",
+      "originalTitle": "面试问题：介绍一下StyleGAN系列模型的原理",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-06-008",
+      "originalTitle": "为什么使用 $w$ 空间，而不是原始 $z$ 空间呢 ？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-06-009",
+      "originalTitle": "面试问题：介绍一下GigaGAN 与 AuraSR的原理以及两者之间的关系（进阶）",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L800",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-06-010",
+      "originalTitle": "面试问题：介绍一下 GAN 和扩散模型的核心差异",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L910",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-IMAGE-06-011",
+      "originalTitle": "面试问题：介绍一下 GAN 和扩散模型各自的核心优势和主流应用场景",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/06_GAN%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md#L937",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

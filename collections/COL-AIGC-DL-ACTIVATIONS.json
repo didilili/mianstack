@@ -1,0 +1,234 @@
+{
+  "id": "COL-AIGC-DL-ACTIVATIONS",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 激活函数",
+  "coverage": [
+    "llm",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-001",
+      "originalTitle": "1.激活函数的作用，常用的激活函数有哪些",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L65",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-002",
+      "originalTitle": "2.什么是GELU激活函数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L244",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-003",
+      "originalTitle": "3.什么是SiLU激活函数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L271",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-004",
+      "originalTitle": "4.什么是NewGELU激活函数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L313",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-005",
+      "originalTitle": "5.介绍一下 GeLU 计算公式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-006",
+      "originalTitle": "6.介绍一下 Swish 计算公式？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-007",
+      "originalTitle": "7.什么是激活函数？为什么要使用激活函数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-008",
+      "originalTitle": "8. ReLU激活函数的优点和缺点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-009",
+      "originalTitle": "9. 什么是梯度消失和梯度爆炸问题？为什么Sigmoid和Tanh函数容易出现梯度消失问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-010",
+      "originalTitle": "10. Leaky ReLU是如何解决ReLU的神经元死亡问题的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-011",
+      "originalTitle": "11. Softmax函数的输出有什么特点？它为什么常用于多分类问题的输出层？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-012",
+      "originalTitle": "12. 什么是激活函数的“饱和区”？Sigmoid和Tanh函数的饱和区分别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L471",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-013",
+      "originalTitle": "13. 什么是激活函数的“零中心化”？为什么零中心化很重要？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-014",
+      "originalTitle": "14. 什么是Softplus激活函数？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-015",
+      "originalTitle": "2.为什么神经网络需要非线性激活函数",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L575",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-016",
+      "originalTitle": "3.ReLU激活函数相比Sigmoid的优势是什么",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L582",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-017",
+      "originalTitle": "4.激活函数在神经网络正向传播中的具体流程是怎样的",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-018",
+      "originalTitle": "5.没有激活函数的神经网络会有什么问题",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L631",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-019",
+      "originalTitle": "6.激活函数的导数在反向传播中起到什么作用",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L645",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-020",
+      "originalTitle": "7.不同层（输入层、隐藏层、输出层）选择激活函数的一般思路是什么",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L666",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-021",
+      "originalTitle": "8.激活函数如何影响神经网络的表达能力和训练速度",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L698",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-022",
+      "originalTitle": "1.分类任务和回归任务在选择激活函数时的主要区别是什么",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L741",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-023",
+      "originalTitle": "2.深度神经网络中选择激活函数时，如何避免梯度消失问题",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L757",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-024",
+      "originalTitle": "3.递归神经网络（RNN）为什么常选择Tanh或Sigmoid作为激活函数",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L777",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-025",
+      "originalTitle": "4.卷积神经网络（CNN）的卷积层和全连接层在激活函数选择上有何不同",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L801",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-026",
+      "originalTitle": "5.当训练数据量较小时，选择激活函数应注意什么",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L820",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-027",
+      "originalTitle": "6.使用Batch Normalization时，对激活函数的选择有什么影响",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L854",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-028",
+      "originalTitle": "7.多标签分类任务中，输出层通常选择什么激活函数，为什么",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L889",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-029",
+      "originalTitle": "1.激活函数必须具备非线性性质的原因是什么",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L930",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-030",
+      "originalTitle": "2.激活函数的可微性对神经网络训练有什么意义",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L940",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-031",
+      "originalTitle": "3.什么是激活函数的非饱和性，它有什么优势",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L954",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-032",
+      "originalTitle": "4.激活函数的稀疏激活性质对神经网络有什么好处",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L975",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-033",
+      "originalTitle": "5.激活函数的导数有界性为什么能帮助避免梯度爆炸",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L996",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-034",
+      "originalTitle": "6.零均值输出的激活函数有什么优势，举例说明",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L1022",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-035",
+      "originalTitle": "7.激活函数的计算高效性在实际工程中有什么重要性",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L1051",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-ACTIVATIONS-036",
+      "originalTitle": "8.激活函数的各项性质要求（如非线性、可微性、非饱和性）之间是否存在冲突，如何权衡",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/04_%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md#L1073",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

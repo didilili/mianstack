@@ -1,0 +1,255 @@
+{
+  "id": "COL-JAVAGUIDE-LLM",
+  "publisherId": "PUB-JAVAGUIDE",
+  "title": "JavaGuide · 大模型基础面试题",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "software"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "JavaGuide《大模型基础面试题总结》的公开问题目录，覆盖模型调用、上下文、结构化输出与评测工程。",
+  "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-JAVAGUIDE-LLM-001",
+      "originalTitle": "Token 是什么？为什么中文、英文、代码消耗的 Token 不一样？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L27",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-002",
+      "originalTitle": "上下文窗口是什么？上下文窗口越大，效果一定越好吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L28",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-003",
+      "originalTitle": "什么是 Lost in the Middle 问题？长上下文场景下怎么缓解？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L29",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-004",
+      "originalTitle": "Temperature、Top-P、Top-K 分别控制什么？生产环境怎么设置更稳？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L30",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-005",
+      "originalTitle": "为什么 Temperature 设置为 0，模型输出仍然可能不完全一致？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L31",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-006",
+      "originalTitle": "大模型为什么会产生幻觉？常见缓解方案有哪些？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L32",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-007",
+      "originalTitle": "Token 预算怎么估算？输入、输出、历史消息、RAG 证据如何取舍？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L33",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-008",
+      "originalTitle": "长上下文窗口会不会取代 RAG？二者分别适合什么场景？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L34",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-009",
+      "originalTitle": "大模型 API 调用的完整链路是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L46",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-010",
+      "originalTitle": "Streaming 为什么能改善用户体验？它能减少总耗时和 Token 成本吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L47",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-011",
+      "originalTitle": "SSE、WebSocket、HTTP Chunked 在流式输出场景下怎么选？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L48",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-012",
+      "originalTitle": "哪些大模型 API 错误可以重试？哪些错误不能重试？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L49",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-013",
+      "originalTitle": "为什么大模型调用必须做幂等？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L50",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-014",
+      "originalTitle": "大模型限流为什么不能只按 QPS 做？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L51",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-015",
+      "originalTitle": "模型网关通常要承担哪些能力？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L52",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-016",
+      "originalTitle": "AI 应用的调用日志里至少要记录哪些字段？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L53",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-017",
+      "originalTitle": "为什么只写“请返回 JSON”不可靠？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-018",
+      "originalTitle": "JSON Mode 和 Structured Outputs 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L64",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-019",
+      "originalTitle": "JSON Schema 在大模型应用里解决什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L65",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-020",
+      "originalTitle": "Function Calling 的完整链路是什么？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L66",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-021",
+      "originalTitle": "Function Calling 和 MCP 有什么区别？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L67",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-022",
+      "originalTitle": "MCP Tool 和普通 HTTP API 有什么关系？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L68",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-023",
+      "originalTitle": "Agent Skill 和 Function Calling 是一回事吗？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L69",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-024",
+      "originalTitle": "结构化输出失败后怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L70",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-025",
+      "originalTitle": "工具调用为什么必须做安全治理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L71",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-026",
+      "originalTitle": "面试里怎么一句话概括结构化输出？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-027",
+      "originalTitle": "为什么不能只靠公开 benchmark 评估 AI 应用质量？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L82",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-028",
+      "originalTitle": "Golden Set 应该怎么构建？冷启动阶段没有生产日志怎么办？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L83",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-029",
+      "originalTitle": "LLM-as-Judge 有哪些主要偏差？怎么缓解？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L84",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-030",
+      "originalTitle": "RAG 评测为什么必须分检索和生成两段？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L85",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-031",
+      "originalTitle": "Agent 评测为什么比普通问答和 RAG 更复杂？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L86",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-032",
+      "originalTitle": "离线评测、Trace 回放、线上灰度分别解决什么问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L87",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-033",
+      "originalTitle": "CI 里的 AI 评测如何平衡速度和覆盖度？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L88",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-034",
+      "originalTitle": "如果 LLM-as-Judge 和人工评测结果不一致，应该怎么处理？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L89",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-035",
+      "originalTitle": "客服机器人历史会话持续增长时，如何分配 Token 预算并保留关键业务状态？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L93",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-036",
+      "originalTitle": "流式响应中途断开后，服务端如何处理重试、续传和重复计费问题？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L94",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-037",
+      "originalTitle": "上游模型触发 RPM 或 TPM 限制时，模型网关如何排队、降级或切换模型？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L95",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-038",
+      "originalTitle": "模型生成退款工具的调用参数后，业务系统还需要执行哪些校验？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L96",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-JAVAGUIDE-LLM-039",
+      "originalTitle": "更换模型或修改 Prompt 后，如何用离线评测、Trace 回放和线上灰度验证效果？",
+      "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md#L97",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

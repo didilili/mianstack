@@ -1,0 +1,342 @@
+{
+  "id": "COL-AIENG-AGENT",
+  "publisherId": "PUB-AMIT-SHEKHAR",
+  "title": "AI Engineering · Agent 与自主系统",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "Amit Shekhar 维护的 AI Engineering Interview Questions 英文题目，部分条目为技术主题。",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIENG-AGENT-001",
+      "originalTitle": "What is an AI agent, and how does it differ from a simple LLM call?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-002",
+      "originalTitle": "AI Agent Memory",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L341",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-003",
+      "originalTitle": "Harness Engineering in AI",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L343",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-004",
+      "originalTitle": "What matters more for an agentic coding tool like Claude Code: the model or the harness?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L345",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-005",
+      "originalTitle": "Explain the ReAct (Reasoning + Acting) agent architecture.",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-006",
+      "originalTitle": "What is the Plan-and-Execute agent pattern?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L349",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-007",
+      "originalTitle": "What is tool use (function calling) in LLMs, and how does it enable agents?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L351",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-008",
+      "originalTitle": "What is the difference between structured output and function calling?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L353",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-009",
+      "originalTitle": "How do you design and define tools for an AI agent?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L355",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-010",
+      "originalTitle": "How does an agent decide when to call a tool versus answering from its own knowledge?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L357",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-011",
+      "originalTitle": "What is the difference between single-agent and multi-agent systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L358",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-012",
+      "originalTitle": "When do multi-agent systems break down, and when is a single agent the better choice?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-013",
+      "originalTitle": "What is Model Context Protocol (MCP), and how does it standardize tool integration?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-014",
+      "originalTitle": "How does MCP differ from traditional function calling?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-015",
+      "originalTitle": "What are AI SubAgents?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L366",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-016",
+      "originalTitle": "What are the different types of agent memory (short-term, long-term, episodic)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L368",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-017",
+      "originalTitle": "How do you handle agent failures and implement error recovery?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L370",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-018",
+      "originalTitle": "What is an agent loop, and how does it decide when to stop?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L371",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-019",
+      "originalTitle": "Context Engineering",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L373",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-020",
+      "originalTitle": "How does context compaction work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-021",
+      "originalTitle": "Loop Engineering",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L377",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-022",
+      "originalTitle": "Graph Engineering",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L379",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-023",
+      "originalTitle": "How AI Agents Communicate?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L381",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-024",
+      "originalTitle": "What are Agent Skills?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-025",
+      "originalTitle": "How do you evaluate and test AI agents?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-026",
+      "originalTitle": "What are the security risks of agentic systems, and how do you mitigate them?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-027",
+      "originalTitle": "Your agent reads untrusted content (emails, web pages, documents) and can call tools. How do you prevent indirect prompt injection and data exfiltration?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-028",
+      "originalTitle": "What is the difference between reactive and proactive agents?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-029",
+      "originalTitle": "How do you manage token consumption and cost in long-running agent workflows?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L392",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-030",
+      "originalTitle": "What is the human-in-the-loop pattern for agents, and when is it needed?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-031",
+      "originalTitle": "How do you implement guardrails for AI agents to prevent harmful actions?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-032",
+      "originalTitle": "What is agent reflection, and how does it improve agent performance?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L397",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-033",
+      "originalTitle": "What is the difference between code-generating agents and tool-calling agents?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-034",
+      "originalTitle": "How do you handle multi-modal inputs and outputs in agentic systems?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-035",
+      "originalTitle": "How do you implement state management in complex agent workflows?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L401",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-036",
+      "originalTitle": "How do you build a customer support agent with escalation logic?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-037",
+      "originalTitle": "What is agent orchestration, and how do you implement it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L404",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-038",
+      "originalTitle": "What is Sakana Fugu, and how does it orchestrate a team of AI models?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-039",
+      "originalTitle": "How do you build a code execution agent safely using sandboxed environments?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-040",
+      "originalTitle": "Your AI agent is stuck in an infinite loop. How do you detect and break the cycle?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L409",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-041",
+      "originalTitle": "Your AI agent gets conflicting answers from different tools. How does it reconcile them?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-042",
+      "originalTitle": "Your AI agent burns too many tokens per task. How do you reduce token consumption?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L412",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-043",
+      "originalTitle": "Your AI agent keeps exceeding its budget per task. How do you enforce budget limits?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-044",
+      "originalTitle": "Your AI agent hallucinates tool capabilities and passes wrong inputs. How do you fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L416",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-045",
+      "originalTitle": "Your AI agent deleted a production database. How do you prevent irreversible actions?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-046",
+      "originalTitle": "Your AI agent has many tools, but keeps picking the wrong one. How do you improve tool selection?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-047",
+      "originalTitle": "Your AI agent takes too long to complete a task. How do you speed it up?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-048",
+      "originalTitle": "Your long-running agent drifts after hours and confidently works on the wrong thing. How do you diagnose and fix it?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-049",
+      "originalTitle": "Your LLM selects the right tool but extracts the wrong parameters. How do you fix parameter extraction?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L421",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-050",
+      "originalTitle": "How do Computer-Use Agents work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L422",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-051",
+      "originalTitle": "How do Browser Agents work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L424",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-052",
+      "originalTitle": "How does LangChain work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L426",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-053",
+      "originalTitle": "How does LangGraph work?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L428",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIENG-AGENT-054",
+      "originalTitle": "What is OKF (Open Knowledge Format)?",
+      "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md#L430",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

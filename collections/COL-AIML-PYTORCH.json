@@ -1,0 +1,1029 @@
+{
+  "id": "COL-AIML-PYTORCH",
+  "publisherId": "PUB-AIMLINTERVIEWS",
+  "title": "AIMLInterviews · PyTorch 实现与追问",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training",
+    "software",
+    "coding",
+    "career"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AIMLInterviews 的英文原题、编码练习与项目追问。第 085–146 条共 62 条原题（含拆分追问）来自基于 Devinterview 50 题索引的补充部分；此部分由 Devinterview 提供题目来源，AIMLInterviews 重写答案。",
+  "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md",
+  "sourceAttribution": {
+    "name": "Devinterview",
+    "url": "https://devinterview.io/questions/machine-learning-and-data-science/pytorch-interview-questions/",
+    "role": "question_source",
+    "scope": "其中第 85—146 题的题目索引来自 Devinterview，答案由 AIMLInterviews 重新撰写；原文的 50 题补充部分在此收录为 62 道，含拆分追问。",
+    "itemIds": [
+      "COL-AIML-PYTORCH-085",
+      "COL-AIML-PYTORCH-086",
+      "COL-AIML-PYTORCH-087",
+      "COL-AIML-PYTORCH-088",
+      "COL-AIML-PYTORCH-089",
+      "COL-AIML-PYTORCH-090",
+      "COL-AIML-PYTORCH-091",
+      "COL-AIML-PYTORCH-092",
+      "COL-AIML-PYTORCH-093",
+      "COL-AIML-PYTORCH-094",
+      "COL-AIML-PYTORCH-095",
+      "COL-AIML-PYTORCH-096",
+      "COL-AIML-PYTORCH-097",
+      "COL-AIML-PYTORCH-098",
+      "COL-AIML-PYTORCH-099",
+      "COL-AIML-PYTORCH-100",
+      "COL-AIML-PYTORCH-101",
+      "COL-AIML-PYTORCH-102",
+      "COL-AIML-PYTORCH-103",
+      "COL-AIML-PYTORCH-104",
+      "COL-AIML-PYTORCH-105",
+      "COL-AIML-PYTORCH-106",
+      "COL-AIML-PYTORCH-107",
+      "COL-AIML-PYTORCH-108",
+      "COL-AIML-PYTORCH-109",
+      "COL-AIML-PYTORCH-110",
+      "COL-AIML-PYTORCH-111",
+      "COL-AIML-PYTORCH-112",
+      "COL-AIML-PYTORCH-113",
+      "COL-AIML-PYTORCH-114",
+      "COL-AIML-PYTORCH-115",
+      "COL-AIML-PYTORCH-116",
+      "COL-AIML-PYTORCH-117",
+      "COL-AIML-PYTORCH-118",
+      "COL-AIML-PYTORCH-119",
+      "COL-AIML-PYTORCH-120",
+      "COL-AIML-PYTORCH-121",
+      "COL-AIML-PYTORCH-122",
+      "COL-AIML-PYTORCH-123",
+      "COL-AIML-PYTORCH-124",
+      "COL-AIML-PYTORCH-125",
+      "COL-AIML-PYTORCH-126",
+      "COL-AIML-PYTORCH-127",
+      "COL-AIML-PYTORCH-128",
+      "COL-AIML-PYTORCH-129",
+      "COL-AIML-PYTORCH-130",
+      "COL-AIML-PYTORCH-131",
+      "COL-AIML-PYTORCH-132",
+      "COL-AIML-PYTORCH-133",
+      "COL-AIML-PYTORCH-134",
+      "COL-AIML-PYTORCH-135",
+      "COL-AIML-PYTORCH-136",
+      "COL-AIML-PYTORCH-137",
+      "COL-AIML-PYTORCH-138",
+      "COL-AIML-PYTORCH-139",
+      "COL-AIML-PYTORCH-140",
+      "COL-AIML-PYTORCH-141",
+      "COL-AIML-PYTORCH-142",
+      "COL-AIML-PYTORCH-143",
+      "COL-AIML-PYTORCH-144",
+      "COL-AIML-PYTORCH-145",
+      "COL-AIML-PYTORCH-146"
+    ]
+  },
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIML-PYTORCH-001",
+      "originalTitle": "Implement the following function without Python loops:\n\n```python\ndef normalize_rows(x: torch.Tensor, eps: float = 1e-8) -> torch.Tensor:\n    \"\"\"Standardize each row to zero mean and unit variance.\"\"\"\n    ...\n```\n\nRequirements:\n\n- `x` has shape `[batch_size, num_features]`.\n- Preserve `x`'s device and dtype.\n- Avoid division by zero.\n- Do not modify `x` in place.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-002",
+      "originalTitle": "What should happen when a row has zero variance?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L61",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-003",
+      "originalTitle": "How would this change for `[B, C, H, W]`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L62",
+      "reviewStatus": "confirmed",
+      "reviewNote": "此追问承接前面的逐行标准化函数；四维输入未指定归一化的维度。"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-004",
+      "originalTitle": "`view`, `reshape`, `squeeze`, and `unsqueeze`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-005",
+      "originalTitle": "When can broadcasting be wrong?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L64",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-006",
+      "originalTitle": "Write a reusable preprocessing component that replaces non-finite values, standardizes features using training statistics, works on CPU or GPU, saves its state, and prevents validation leakage.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-007",
+      "originalTitle": "Implement binary precision, recall, and F1 from logits. Inputs may be on GPU, targets may contain only one class, no autograd graph should be created, and the result should contain Python floats.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L126",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-008",
+      "originalTitle": "Implement one training epoch and a complete evaluation pass with correct modes, gradient handling, device placement, sample-weighted loss, empty-loader behavior, and final predictions.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L179",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-009",
+      "originalTitle": "Review the following code:\n\n```python\ndef evaluate(model, loader):\n    model.train()\n    losses = []\n\n    for x, y in loader:\n        prediction = model(x)\n        loss = torch.nn.CrossEntropyLoss()(prediction, y)\n        losses.append(loss)\n\n    return torch.tensor(losses).mean().item()\n```",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-010",
+      "originalTitle": "Write a function that splits a sequence into batches while optionally retaining the final incomplete batch.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L320",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-011",
+      "originalTitle": "Implement a reproducible train/validation split without scikit-learn.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-012",
+      "originalTitle": "Write a generator that lazily reads and transforms records from a large dataset.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-013",
+      "originalTitle": "Flatten a nested dictionary while preserving a reversible mapping.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L329",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-014",
+      "originalTitle": "Merge metric dictionaries and compute weighted averages.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-015",
+      "originalTitle": "Implement an execution-time decorator.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L335",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-016",
+      "originalTitle": "Design a registry for losses, optimizers, or preprocessing functions.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L338",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-017",
+      "originalTitle": "Refactor a monolithic training script into testable modules.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L341",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-018",
+      "originalTitle": "Define a typed configuration object.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L344",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-019",
+      "originalTitle": "Make a utility deterministic without mutable global state.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-020",
+      "originalTitle": "When should you use a dataclass, function, class, or abstract base class?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L350",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-021",
+      "originalTitle": "What is wrong with mutable default arguments?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L353",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-022",
+      "originalTitle": "Explain shallow versus deep copies with an ML configuration.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L356",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-023",
+      "originalTitle": "Design errors for an invalid preprocessing shape or dtype.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L359",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-024",
+      "originalTitle": "Accept either NumPy arrays or PyTorch tensors without unclear behavior.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-025",
+      "originalTitle": "Compute the masked mean of `[B, T, D]` using a `[B, T]` mask.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-026",
+      "originalTitle": "Compute pairwise cosine similarity for `[N, D]` and `[M, D]`.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L370",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-027",
+      "originalTitle": "Determine whether the true label is in the top-k predictions.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L373",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-028",
+      "originalTitle": "Implement one-hot encoding without `F.one_hot`.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L376",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-029",
+      "originalTitle": "Create label-smoothed targets.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L379",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-030",
+      "originalTitle": "Compute a batched confusion matrix without per-example loops.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-031",
+      "originalTitle": "Pad variable-length tensors and create a mask.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-032",
+      "originalTitle": "Gather one class score per example from `[B, C]`.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-033",
+      "originalTitle": "Advanced indexing versus `gather` versus `index_select`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-034",
+      "originalTitle": "Diagnose CPU targets with GPU predictions.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-035",
+      "originalTitle": "Explain contiguous tensors and `.contiguous()`.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L397",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-036",
+      "originalTitle": "Find the `squeeze()` batch-size-one bug.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-037",
+      "originalTitle": "How do in-place operations affect autograd?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-038",
+      "originalTitle": "Compare `detach()`, `clone()`, and `torch.no_grad()`.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-039",
+      "originalTitle": "Why can `.item()` slow a GPU loop?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L409",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-040",
+      "originalTitle": "Implement `fit`, `transform`, and `inverse_transform` standardization.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-041",
+      "originalTitle": "Normalize images with per-channel statistics.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-042",
+      "originalTitle": "Implement a custom `Dataset` for numerical and categorical features.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-043",
+      "originalTitle": "Write a `collate_fn` for variable-length sequences.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-044",
+      "originalTitle": "Handle missing values without leakage.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L426",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-045",
+      "originalTitle": "Handle an unseen category at inference.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L429",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-046",
+      "originalTitle": "Where should preprocessing live?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L432",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-047",
+      "originalTitle": "Make stochastic augmentation reproducible with DataLoader workers.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L435",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-048",
+      "originalTitle": "Why might multiple DataLoader workers be slower?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L438",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-049",
+      "originalTitle": "Pinned memory and non-blocking transfers?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L441",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-050",
+      "originalTitle": "Implement binary accuracy from logits.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L446",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-051",
+      "originalTitle": "Implement multiclass top-k accuracy.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L449",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-052",
+      "originalTitle": "Micro, macro, and weighted F1?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L452",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-053",
+      "originalTitle": "Masked mean squared error?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L455",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-054",
+      "originalTitle": "MAPE and its failure cases?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L458",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-055",
+      "originalTitle": "Confusion matrix without storing all predictions?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L461",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-056",
+      "originalTitle": "Design a streaming metric.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-057",
+      "originalTitle": "Why is averaging batch F1 wrong?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-058",
+      "originalTitle": "Metrics for imbalanced fraud detection?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-059",
+      "originalTitle": "How should a classification threshold be selected?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L473",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-060",
+      "originalTitle": "Implement early stopping.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-061",
+      "originalTitle": "Add gradient clipping.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L481",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-062",
+      "originalTitle": "Add gradient accumulation.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-063",
+      "originalTitle": "Add automatic mixed precision.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-064",
+      "originalTitle": "Save and resume a checkpoint exactly.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L490",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-065",
+      "originalTitle": "When should a learning-rate scheduler step?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-066",
+      "originalTitle": "Freeze and later unfreeze a backbone.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L496",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-067",
+      "originalTitle": "Why does validation differ between `train()` and `eval()`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L499",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-068",
+      "originalTitle": "Prevent gradients during validation.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-069",
+      "originalTitle": "Calculate epoch loss with a smaller final batch.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L505",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-070",
+      "originalTitle": "Handle a non-finite loss.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L508",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-071",
+      "originalTitle": "Support classification and regression in one loop.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L511",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-072",
+      "originalTitle": "Add callback hooks cleanly.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L514",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-073",
+      "originalTitle": "Move nested batches to a device.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-074",
+      "originalTitle": "Preserve input order and sample identifiers during prediction.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L520",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-075",
+      "originalTitle": "Test a standardization utility, including constant features.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L525",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-076",
+      "originalTitle": "Verify evaluation does not update model state.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L528",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-077",
+      "originalTitle": "Compare CPU and GPU metric implementations.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L531",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-078",
+      "originalTitle": "Test empty input, batch size one, and unexpected shapes.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L534",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-079",
+      "originalTitle": "Use a tiny dataset to verify overfitting.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L537",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-080",
+      "originalTitle": "Diagnose a loss that never changes.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L540",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-081",
+      "originalTitle": "Diagnose validation changes across identical runs.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L543",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-082",
+      "originalTitle": "Find a memory leak from retained graphs.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L546",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-083",
+      "originalTitle": "Check gradients numerically.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-084",
+      "originalTitle": "Verify identical predictions after checkpoint restoration.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L552",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-085",
+      "originalTitle": "What is PyTorch, and how does it differ from frameworks such as TensorFlow?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L561",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-086",
+      "originalTitle": "What are tensors in PyTorch?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L564",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-087",
+      "originalTitle": "What is the difference between a Tensor and a Variable?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L567",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-088",
+      "originalTitle": "How do you convert a NumPy array to a tensor?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L570",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-089",
+      "originalTitle": "What is the purpose of `.grad`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L573",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-090",
+      "originalTitle": "What is CUDA, and how does it relate to PyTorch?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L576",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-091",
+      "originalTitle": "How does autograd work?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L579",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-092",
+      "originalTitle": "What are the main steps for creating a neural-network model?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-093",
+      "originalTitle": "How does `nn.Sequential` differ from subclassing `nn.Module`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L587",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-094",
+      "originalTitle": "How do you implement a custom layer?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L590",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-095",
+      "originalTitle": "What is the role of `forward`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L593",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-096",
+      "originalTitle": "What are optimizers, and how are they used?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L598",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-097",
+      "originalTitle": "Why and when do you call `zero_grad()`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L601",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-098",
+      "originalTitle": "How do you implement learning-rate scheduling?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L604",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-099",
+      "originalTitle": "Describe backpropagation in PyTorch.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L607",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-100",
+      "originalTitle": "How does gradient clipping work, and why is it useful?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L610",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-101",
+      "originalTitle": "How do you check whether a model is using the GPU?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-102",
+      "originalTitle": "How do you monitor and reduce overfitting?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L618",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-103",
+      "originalTitle": "What is batch normalization, and how does it affect training?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L621",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-104",
+      "originalTitle": "How does PyTorch initialize neural-network weights?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L624",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-105",
+      "originalTitle": "What common training problems occur, and how do you debug them?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-106",
+      "originalTitle": "How do you build a DataLoader for a custom dataset?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L632",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-107",
+      "originalTitle": "What are `torchvision` transforms used for?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L635",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-108",
+      "originalTitle": "How do you preprocess time-series data for RNNs?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L638",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-109",
+      "originalTitle": "What is data augmentation, and how is it implemented?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L641",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-110",
+      "originalTitle": "How do you use GPUs for distributed PyTorch training?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L646",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-111",
+      "originalTitle": "How do you implement transfer learning?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L649",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-112",
+      "originalTitle": "Compare RNNs, LSTMs, and GRUs.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L652",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-113",
+      "originalTitle": "What is TorchScript, and how does it help deployment?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L655",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-114",
+      "originalTitle": "Implement a DataLoader for a CSV dataset.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L660",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-115",
+      "originalTitle": "Demonstrate slicing, indexing, concatenation, and transposition.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L691",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-116",
+      "originalTitle": "Create a feedforward MNIST model.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L703",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-117",
+      "originalTitle": "Manually compute linear-regression gradients.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L722",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-118",
+      "originalTitle": "Implement a CNN for image classification.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L736",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-119",
+      "originalTitle": "Save and load a trained model.",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L759",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-120",
+      "originalTitle": "How do you handle imbalanced classes?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L780",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-121",
+      "originalTitle": "How can PyTorch support real-time inference?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L783",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-122",
+      "originalTitle": "When would you convert a model to ONNX?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L786",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-123",
+      "originalTitle": "How would you deploy a model as a REST API?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L789",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-124",
+      "originalTitle": "How do you fine-tune a pretrained model?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L792",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-125",
+      "originalTitle": "What are GNNs, and how are they implemented in PyTorch?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L797",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-126",
+      "originalTitle": "What are important NAS directions, and how can PyTorch support them?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L800",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-127",
+      "originalTitle": "How are GANs implemented, and what makes them difficult?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L803",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-128",
+      "originalTitle": "What is model quantization, and when is it useful?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L806",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-129",
+      "originalTitle": "What role does PyTorch play in reinforcement learning?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L809",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-130",
+      "originalTitle": "How do you create a custom C++ or CUDA operation?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L814",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-131",
+      "originalTitle": "How should you discuss open-source contributions or community tools?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L817",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-132",
+      "originalTitle": "How should you discuss a project where PyTorch was central?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L820",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-133",
+      "originalTitle": "How do you improve experiment reproducibility?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L823",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-134",
+      "originalTitle": "How can PyTorch Lightning simplify a PyTorch workflow?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L826",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-135",
+      "originalTitle": "How would you normalize each row of a tensor without using a Python loop?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L831",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-136",
+      "originalTitle": "What is the difference between `view`, `reshape`, and `squeeze`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L844",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-137",
+      "originalTitle": "How would you design a reusable preprocessing component?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L848",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-138",
+      "originalTitle": "What is data leakage, and how do you prevent it during preprocessing?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L852",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-139",
+      "originalTitle": "Explain precision, recall, and F1. When would you use each?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L856",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-140",
+      "originalTitle": "Why is averaging F1 across batches usually incorrect?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L860",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-141",
+      "originalTitle": "What are the essential steps in a PyTorch training loop?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L864",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-142",
+      "originalTitle": "What is the difference between `model.eval()` and `torch.no_grad()` or `torch.inference_mode()`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L881",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-143",
+      "originalTitle": "What happens if you forget `optimizer.zero_grad()`?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L885",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-144",
+      "originalTitle": "How would you refactor a monolithic ML script into clean modules?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L889",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-145",
+      "originalTitle": "How would you write a utility that works on both CPU and GPU?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L893",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-146",
+      "originalTitle": "What tests would you write for a tensor preprocessing or metric utility?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L897",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-147",
+      "originalTitle": "What makes an ML utility reusable without excessive abstraction?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-148",
+      "originalTitle": "Which validation belongs at module boundaries?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L906",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-149",
+      "originalTitle": "When should a utility return tensors versus Python numbers?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L909",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-150",
+      "originalTitle": "How do you keep preprocessing consistent across training, evaluation, and inference?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L912",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-151",
+      "originalTitle": "How should an ML codebase be structured for independent testing?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L915",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-152",
+      "originalTitle": "What can PyTorch control about reproducibility?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L918",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-153",
+      "originalTitle": "How do you balance readable tensor code and vectorization?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L921",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-154",
+      "originalTitle": "What should a training loop log?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L924",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-155",
+      "originalTitle": "How do you review correctness across devices, dtypes, and shapes?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L927",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIML-PYTORCH-156",
+      "originalTitle": "What changes before moving notebook code into production?",
+      "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/pytorch-ml-coding.md#L930",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

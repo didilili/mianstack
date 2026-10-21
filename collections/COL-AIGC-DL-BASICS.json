@@ -1,0 +1,686 @@
+{
+  "id": "COL-AIGC-DL-BASICS",
+  "publisherId": "PUB-WETHINKIN",
+  "title": "AIGC 面试宝典 · 深度学习基础概念",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
+  "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AIGC-DL-BASICS-001",
+      "originalTitle": "1.什么是人工智能（AI）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L327",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-002",
+      "originalTitle": "2.人工智能的核心目标是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L331",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-003",
+      "originalTitle": "3.人工智能主要分为哪几类？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L335",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-004",
+      "originalTitle": "4.什么是弱人工智能（Narrow AI）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-005",
+      "originalTitle": "5.什么是强人工智能（General AI）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L343",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-006",
+      "originalTitle": "6.什么是超人工智能（Super AI）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-007",
+      "originalTitle": "7.什么是机器学习（ML）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L351",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-008",
+      "originalTitle": "8.机器学习的核心思想是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L355",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-009",
+      "originalTitle": "9.机器学习与传统编程的本质区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L359",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-010",
+      "originalTitle": "10.机器学习主要分为哪几类？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L363",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-011",
+      "originalTitle": "11.什么是监督学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L367",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-012",
+      "originalTitle": "12.监督学习的典型应用场景有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L371",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-013",
+      "originalTitle": "13.什么是无监督学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L375",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-014",
+      "originalTitle": "14.无监督学习的典型应用场景有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L379",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-015",
+      "originalTitle": "15.什么是半监督学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-016",
+      "originalTitle": "16.半监督学习的适用场景是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-017",
+      "originalTitle": "17.什么是强化学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L391",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-018",
+      "originalTitle": "18.强化学习的核心要素有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L395",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-019",
+      "originalTitle": "19.强化学习的典型应用场景有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L399",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-020",
+      "originalTitle": "20.什么是深度学习（DL）？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L403",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-021",
+      "originalTitle": "21.深度学习的核心载体是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-022",
+      "originalTitle": "22.深度学习与机器学习的关系是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-023",
+      "originalTitle": "23.深度学习相对于传统机器学习的核心优势是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L415",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-024",
+      "originalTitle": "24.AI、ML、DL 三者的包含关系是怎样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-025",
+      "originalTitle": "25.为什么说深度学习是机器学习的一个分支？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L423",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-026",
+      "originalTitle": "26.人工智能的实现路径中，机器学习扮演什么角色？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L427",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-027",
+      "originalTitle": "27.深度学习在人工智能发展中起到了什么作用？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-028",
+      "originalTitle": "28.传统机器学习无法解决的问题，深度学习为何能应对？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L435",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-029",
+      "originalTitle": "29.AI 领域中，非机器学习的实现方式有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-030",
+      "originalTitle": "30.机器学习中，非深度学习的方法有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L443",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-031",
+      "originalTitle": "31.在图像识别任务中，AI、ML、DL 的应用关系是怎样的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L447",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-032",
+      "originalTitle": "32.在自然语言处理任务中，AI、ML、DL 的作用分工是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L451",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-033",
+      "originalTitle": "33.AI 发展的早期阶段，为何未依赖机器学习和深度学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L455",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-034",
+      "originalTitle": "34.深度学习的兴起，对机器学习和人工智能的发展有何影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-035",
+      "originalTitle": "35.判断一个技术是否属于深度学习，核心依据是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-036",
+      "originalTitle": "36.判断一个技术是否属于机器学习，核心依据是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-037",
+      "originalTitle": "37.AI、ML、DL 在技术实现难度上有何差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L471",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-038",
+      "originalTitle": "38.AI、ML、DL 在数据需求上有何不同？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L475",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-039",
+      "originalTitle": "39.AI、ML、DL 在算力需求上有何差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L479",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-040",
+      "originalTitle": "40.未来 AI 的发展，是否会完全依赖深度学习？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-041",
+      "originalTitle": "41.传统机器学习在深度学习时代是否还有存在价值？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-042",
+      "originalTitle": "42.AI、ML、DL 的应用边界分别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L491",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-043",
+      "originalTitle": "43.在小数据集场景下，AI 实现更适合选择 ML 还是 DL？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L495",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-044",
+      "originalTitle": "44.在高实时性要求场景下，ML 与 DL 如何选择？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L499",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-045",
+      "originalTitle": "45.AI、ML、DL 各自的核心研究方向是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-046",
+      "originalTitle": "46.从技术演进角度看，ML 和 DL 是如何推动 AI 发展的？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L507",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-047",
+      "originalTitle": "47.普通人理解 AI、ML、DL 三者关系的关键是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L511",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-048",
+      "originalTitle": "48.在实际项目中，如何根据需求确定使用 ML 还是 DL 技术？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L515",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-049",
+      "originalTitle": "49.AI、ML、DL 在产业落地中的优先级有何差异？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L519",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-050",
+      "originalTitle": "50.总结 AI、ML、DL 三者的核心关联与区别。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-051",
+      "originalTitle": "51.人工智能、机器学习以及深度学习这三者是什么样的关系？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L529",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-052",
+      "originalTitle": "1.深度学习的官方定义是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L588",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明“官方定义”对应的机构或版本。"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-053",
+      "originalTitle": "2.深度学习中“深度”的具体含义是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L592",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-054",
+      "originalTitle": "3.深度学习与“浅层学习”的本质区别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L596",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-055",
+      "originalTitle": "4.深度学习的核心理论基础是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L600",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-056",
+      "originalTitle": "5.深度学习的模型载体主要是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L604",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-057",
+      "originalTitle": "6.深度神经网络与传统神经网络的核心差异是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L608",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-058",
+      "originalTitle": "7.深度学习的核心特征之一“自动特征学习”指的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-059",
+      "originalTitle": "8.自动特征学习相对于人工特征工程有什么优势？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L616",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-060",
+      "originalTitle": "9.深度学习的核心特征之二“端到端学习”指的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L620",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-061",
+      "originalTitle": "10.端到端学习的优势和局限性分别是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L624",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-062",
+      "originalTitle": "11.深度学习的核心特征之三“多层次特征表示”指的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L630",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-063",
+      "originalTitle": "12.多层次特征表示在图像处理任务中如何体现？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L634",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-064",
+      "originalTitle": "13.多层次特征表示在自然语言处理任务中如何体现？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L638",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-065",
+      "originalTitle": "14.深度学习的核心特征之四“强大的模型表达能力”指的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L642",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-066",
+      "originalTitle": "15.模型表达能力与模型复杂度的关系是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L646",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-067",
+      "originalTitle": "16.深度学习为何需要“海量数据”支撑？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L650",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-068",
+      "originalTitle": "17.数据量不足时，深度学习会出现什么问题？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L654",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-069",
+      "originalTitle": "18.深度学习对算力的高需求源于什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L658",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-070",
+      "originalTitle": "19.算力不足会对深度学习产生哪些影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L662",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-071",
+      "originalTitle": "20.深度学习的“黑箱特性”指的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L666",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-072",
+      "originalTitle": "21.深度学习“黑箱特性”带来的主要问题是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L670",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-073",
+      "originalTitle": "22.深度学习的核心优势有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L674",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-074",
+      "originalTitle": "23.深度学习的主要局限性是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L678",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-075",
+      "originalTitle": "24.深度学习适用于哪些类型的任务？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L682",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-076",
+      "originalTitle": "25.深度学习不适用于哪些场景？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L686",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-077",
+      "originalTitle": "26.深度学习中的“特征层级”是什么意思？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L690",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-078",
+      "originalTitle": "27.深度学习如何实现从“原始数据”到“决策结果”的转化？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L694",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-079",
+      "originalTitle": "28.深度学习模型的“参数”指的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L698",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-080",
+      "originalTitle": "29.深度学习模型的“参数规模”对模型性能有何影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L702",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-081",
+      "originalTitle": "30.什么是深度学习的“泛化能力”？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L706",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-082",
+      "originalTitle": "31.如何提升深度学习模型的泛化能力？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L710",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-083",
+      "originalTitle": "32.深度学习中的“过拟合”指的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L714",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-084",
+      "originalTitle": "33.深度学习中过拟合的常见原因有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L718",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-085",
+      "originalTitle": "34.深度学习中的“欠拟合”指的是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L722",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-086",
+      "originalTitle": "35.深度学习中欠拟合的常见原因有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L726",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-087",
+      "originalTitle": "36.深度学习与统计学习的关系是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L730",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-088",
+      "originalTitle": "37.深度学习中的“学习”具体指什么过程？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L734",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-089",
+      "originalTitle": "38.深度学习模型的“训练”与“推理”分别指什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L738",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-090",
+      "originalTitle": "39.深度学习训练过程的核心目标是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L742",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-091",
+      "originalTitle": "51.什么是模型微调(fine-tuning)?",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L747",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-092",
+      "originalTitle": "52.简要介绍一下FLOPs",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L783",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-093",
+      "originalTitle": "53.简要介绍一下FPS",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L798",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-094",
+      "originalTitle": "54.有哪些常见的深度学习问题类型？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L807",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-095",
+      "originalTitle": "55.解释一下如何在深度学习模型训练中实现迁移学习。",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L830",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-096",
+      "originalTitle": "56.如何评估深度学习模型的性能？有哪些常见的评估指标？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L846",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-097",
+      "originalTitle": "1.深度学习发展的早期奠基阶段（20世纪40-80年代）有哪些关键成果？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L859",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-098",
+      "originalTitle": "2.深度学习第一次陷入“寒冬”的主要原因是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L863",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-099",
+      "originalTitle": "3.20世纪90年代末至21世纪初，推动深度学习复苏的关键技术突破是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L867",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-100",
+      "originalTitle": "4.深度学习在2012年迎来爆发的标志性事件是什么？该事件有何影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L871",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-101",
+      "originalTitle": "5.近年来（2018年后）深度学习发展的核心趋势有哪些？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L875",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-102",
+      "originalTitle": "6.深度学习第二次陷入“寒冬”的时间范围及主要诱因是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L879",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-103",
+      "originalTitle": "7.杰弗里·辛顿（Geoffrey Hinton）被称为“深度学习之父”，他在该领域有哪些核心贡献？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L883",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-104",
+      "originalTitle": "8.1998年提出的LeNet-5模型，在深度学习发展中占据怎样的地位？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L887",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-105",
+      "originalTitle": "9.GPU为何能成为深度学习训练的核心硬件？它对深度学习发展的具体推动作用是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L891",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-106",
+      "originalTitle": "10.Transformer架构是何时提出的？其核心创新点是什么，对深度学习发展有何影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L895",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-107",
+      "originalTitle": "11.深度学习在自然语言处理（NLP）领域实现突破性进展的关键节点是什么？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L899",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-108",
+      "originalTitle": "12.生成对抗网络（GAN）是何时提出的？它的出现对深度学习领域产生了哪些影响？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L903",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-109",
+      "originalTitle": "13.深度学习在医疗健康领域的早期应用突破发生在哪个阶段？有哪些典型案例？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L907",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-110",
+      "originalTitle": "14.随着边缘计算的兴起，深度学习在边缘设备上的发展呈现出哪些特点？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L909",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AIGC-DL-BASICS-111",
+      "originalTitle": "15.当前深度学习发展面临的主要技术挑战有哪些？业界有哪些应对方向？",
+      "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/02_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md#L913",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

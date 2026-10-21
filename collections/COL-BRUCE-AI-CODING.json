@@ -1,0 +1,104 @@
+{
+  "id": "COL-BRUCE-AI-CODING",
+  "publisherId": "PUB-BBRUCEYUAN",
+  "title": "AI Interview Code · 大模型手写代码题",
+  "coverage": [
+    "llm",
+    "ai_engineering",
+    "training",
+    "coding"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "bbruceyuan/AI-Interview-Code README 中的 14 条实现与计算题。",
+  "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-BRUCE-AI-CODING-001",
+      "originalTitle": "手写 Self-Attention",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L15",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-002",
+      "originalTitle": "手写 Multi-Head Self-Attention",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L16",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-003",
+      "originalTitle": "手写 Group-Query Attention",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L17",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-004",
+      "originalTitle": "手写 Transformer Decoder（Causal Language Model, LM）",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L18",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-005",
+      "originalTitle": "计算 LLM (Decoder) 模型的参数量",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-006",
+      "originalTitle": "LLM 模型训练推理显存占用预估",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L20",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-007",
+      "originalTitle": "手写 AUC",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L21",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-008",
+      "originalTitle": "手写 KMeans",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L22",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-009",
+      "originalTitle": "手写 线性回归",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L23",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-010",
+      "originalTitle": "手写 BPE 分词器",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L24",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-011",
+      "originalTitle": "手写 LayerNorm",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L25",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-012",
+      "originalTitle": "手写 BatchNorm",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L26",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-013",
+      "originalTitle": "手写 Softmax",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L27",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-BRUCE-AI-CODING-014",
+      "originalTitle": "手写 LoRA",
+      "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md#L32",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

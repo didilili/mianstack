@@ -1,0 +1,1668 @@
+{
+  "id": "COL-AGENTGUIDE-EXT-XHS-5200",
+  "publisherId": "PUB-AGENTGUIDE",
+  "sourceKind": "curated_question_set",
+  "title": "AgentGuide 扩展 · 数据与评测",
+  "coverage": [
+    "llm",
+    "rag",
+    "ai_engineering",
+    "training",
+    "software",
+    "career"
+  ],
+  "sourceClaim": "AgentGuide 收录的专题题单与练习。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
+  "access": "public",
+  "capturedAt": "2026-10-18",
+  "lastCheckedAt": "2026-10-18",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-001",
+      "originalTitle": "【合成数据使用】有合成数据吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5215",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-002",
+      "originalTitle": "【大规模数据处理经验】大规模数据处理有做过吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5216",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-003",
+      "originalTitle": "【数值型数据类型】你说的那些数值型数据有哪些？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5217",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-004",
+      "originalTitle": "【数据分布描述】数据分布是什么样的 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-005",
+      "originalTitle": "【数据来源】数据来源相关问题：1. 使用的数据集是什么？数据集的来源是哪里？2. 数据来源是什么？ 「京东、百度、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5219",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-006",
+      "originalTitle": "【数据量级】数据量级相关问题：1. 会有多少的人工标注参与，最终量级有多大？2. 你们一天会产生多少的数据呢？3. 后训练的数据规模有多少？4. 数据库中有多少数据？5. 数据量级是多少? 6. 数据集有多大？7. 线上每天多少数据？8. 分别大概用多少数据量？ 「京东、百度、美团、腾讯、腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5220",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-007",
+      "originalTitle": "【数据集构成】数据集的构成是什么？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5221",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-008",
+      "originalTitle": "【标签来源】标签是人打的嘛?还是谁打的? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5222",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-009",
+      "originalTitle": "【不同信号数据类型】按不同信号下的数据类型分开讲？请分别说明不同信号数据类型的特点。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5227",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明信号类型与所属任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-010",
+      "originalTitle": "【图像视频数据筛选工具】图像、视频筛选数据的工具你用过哪些？请列举并简要说明。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5228",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-011",
+      "originalTitle": "【数据Shuffle必要性】数据shuffle的必要性是什么？请解释其作用。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5229",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-012",
+      "originalTitle": "【数据增广方法】有没有考虑做数据增广，有哪些数据增广的方式？请列举常见方法。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5230",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-013",
+      "originalTitle": "【数据层级岗位理解】这个岗位主要做数据层级，你对岗位方向有什么理解？请谈谈你的认识。 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5231",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-014",
+      "originalTitle": "【数据清洗与均衡采样目的】为什么要做数据清洗与均衡采样？请说明目的和必要性。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5232",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-015",
+      "originalTitle": "【数据筛选与清洗逻辑】筛选逻辑是什么？清洗逻辑是什么？请分别说明数据筛选和清洗的逻辑。 「京东、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5233",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-016",
+      "originalTitle": "【样本选择偏差】什么是样本选择偏差？请解释其概念及影响。 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-017",
+      "originalTitle": "【正负样本来源】正负样本从哪里来？请说明正负样本的来源和获取方式。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5235",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-018",
+      "originalTitle": "【用户调研对象选择】用户调研具体会找什么样的用户？请说明用户调研对象的选择标准。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5236",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-019",
+      "originalTitle": "【线上数据采样方法】线上数据怎么采样的？请说明线上数据采样的方法。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5237",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-020",
+      "originalTitle": "【训练数据准备】训练数据是怎么准备的？请说明训练数据准备的流程。 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5238",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-021",
+      "originalTitle": "【训练数据清洗】训练数据如何清洗？请说明训练数据清洗的步骤和方法。 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5239",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-022",
+      "originalTitle": "【训练语料获取与规模】训练语料怎么获取的，有多少？请说明训练语料的获取方式和规模。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5240",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-023",
+      "originalTitle": "【ETL逻辑灵活性】为什么不用写死的ETL逻辑？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5245",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未说明替代写死 ETL 的具体机制，仅关联固定逻辑与可复用处理方式的取舍。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-024",
+      "originalTitle": "【LLM训练数据处理观点】对于LLM训练中的数据处理是咋看的。 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5246",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-025",
+      "originalTitle": "【Minhash原理与桶定义】minhash原理是什么？minhash中的桶指的是什么，怎么定义？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5247",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-026",
+      "originalTitle": "【Prompt获取渠道】哪些渠道可以规模化获取prompt？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5248",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-027",
+      "originalTitle": "【SFT数据清洗与质量过滤】SFT数据清洗的流程，质量过滤如何做？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5249",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-028",
+      "originalTitle": "【插桩对执行流影响】插桩本身会不会影响原来的执行流、会不会让结果产生偏差？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5250",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-029",
+      "originalTitle": "【数据不平衡处理】数据不平衡如何处理？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5251",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-030",
+      "originalTitle": "【数据分布多样性保证】怎么保证数据分布的多样性？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5252",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-031",
+      "originalTitle": "【数据收集后分析处理】收集后该如何分析处理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5253",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-032",
+      "originalTitle": "【数据清洗策略与筛选】如何进行数据清洗？采用了什么策略？有没有数据筛选或清洗？ 「京东、字节跳动、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5254",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-033",
+      "originalTitle": "【数据筛选与训练价值评估】log，你会怎么筛选数据，确保筛选出来的数据有训练价值？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5255",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-034",
+      "originalTitle": "【数据采集与清洗】数据处理与清洗全流程：包括AI实现方法、数据采集与分布影响、数据清洗与有效性验证、噪音清洗、数据集处理与清洗、标签清洗流程与效果、样本与特征一致性、样本落盘机制、从数据爬取到模型训练的详细流程、知识库数据来源与构建流程、人设冲突清洗规则、从用户行为日志抽取训练对话、预训练数据选择。请详细说明每个环节的具体做法、规则、效果及对成功率的影响。 「京东、字节Seed、字节跳动、百度、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5256",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-035",
+      "originalTitle": "【数据集准确性保证】怎么保证构建数据集的准确性 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5257",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-036",
+      "originalTitle": "【时序数据集划分】如果一个时序的数据集怎么划分测试集和训练集？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5258",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-037",
+      "originalTitle": "【时空数据收集方法】提到的收集时空两方面的数据，如何收集？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5259",
+      "reviewStatus": "needs_review",
+      "reviewNote": "时空两方面未说明数据对象、采样实体与用途。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-038",
+      "originalTitle": "【测试数据增强技术】请分享一个你在测试中使用的数据增强技术。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5260",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-039",
+      "originalTitle": "【测试数据多样性与代表性】请描述你如何确保测试数据的多样性和代表性? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5261",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-040",
+      "originalTitle": "【测试环境真实性与可控性】请描述你如何确保测试环境的真实性和可控性? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5262",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-041",
+      "originalTitle": "【点击定义不一致处理】不同场景对于点击的定义不太一样怎么办？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5263",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-042",
+      "originalTitle": "【用户不满意样本提取】如何提取用户不满意回答的样本？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5264",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-043",
+      "originalTitle": "【训练集采样方法】你们是怎么进行训练集采样的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5265",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-044",
+      "originalTitle": "【Scaling up与参数量评估】介绍scaling up：场景的数据量如何评估当前场景需要的dense参数量要多少呢？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5270",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-045",
+      "originalTitle": "【复杂数据清洗案例】请分享你处理过的最复杂的数据清洗案例（描述最复杂的数据集及遇到的挑战）。 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5271",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-046",
+      "originalTitle": "【大模型数据清洗与配比】大模型训练中，如何进行数据清洗、处理与配比？怎样操作能更容易使模型达到更好的性能？ 「百度、百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5272",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-047",
+      "originalTitle": "【推理链数据清洗核验】将数据统一构造prompt输入GPT生成推理链后，做了哪些数据清洗、质量核验工作？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5273",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-048",
+      "originalTitle": "【数据合成与清洗Pipeline】数据合成pipeline，数据清洗 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-049",
+      "originalTitle": "【数据回灌测试与仿真场景生成】什么是数据回灌测试？如何利用路采数据生成仿真场景来回归验证规划算法的更新？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5275",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-050",
+      "originalTitle": "【数据探查与特征构建】三张表的数据探查、特征构建及效果显著特征的启示？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5276",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-051",
+      "originalTitle": "【欺诈团伙新用户判断】如果说有一个表格，有一些欺诈团伙，公用一个ip交易放在一起成表，有很多属性，比如时间，金额，收货地址等，这样的表格，需要你做一个判断，有多少用户，是属于三天内新用户? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5277",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明“三天内新用户”的注册/首次行为口径、观察时点与去重键。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-052",
+      "originalTitle": "【海量数据敏感词处理与问题应对】面对海量数据的时候怎么对数据进行处理，比如说去除掉敏感词等等，面对海量数据会出现哪些问题，该如何去处理？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5278",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-053",
+      "originalTitle": "【电商预训练数据低质过滤与去重】如果要做电商领域预训练数据：低质过滤与去重会怎么做？用哪些简单指标快速判断数据质量？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5279",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-054",
+      "originalTitle": "【语音识别LLM样本采集】现在我们有一个语音识别LLM的项目，你会如何采集样本？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5280",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-055",
+      "originalTitle": "【领域模型继续预训练数据选取】领域模型ContinuePreTrain数据选取? 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5281",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-056",
+      "originalTitle": "【海量多模态数据自动清洗管线】设计一套全自动的数据清洗、阈值过滤及课程学习管线，用于从千亿级海量多模态互联网数据（含大量水印、低俗内容）中获取高质量样本，支持快速迭代预训练，避免脏数据污染。需涵盖从最开始的收集到最终样本输出的完整流程，包括数据源选择、清洗策略、质量评估、课程学习安排等。 「京东、字节Seed、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5286",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-057",
+      "originalTitle": "【数据集来源与构造】数据集的具体信息是什么？包括其形态、数据样例、数据格式、文本数据类型以及是否为问答数据集或其他类型？数据集使用的是公开数据集还是自己构造的？构造逻辑是自动的还是人工？是运营那边打标的吗？ 「京东、字节Seed、字节跳动、百度、美团、腾讯混元、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5293",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-058",
+      "originalTitle": "【微调数据集规模】微调的数据集有多大规模? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-059",
+      "originalTitle": "【数据构造与合成】数据如何构造？请描述数据构造方案。用的什么模型去合成数据？那合成的网页数据也会用到fasttext去过滤吗？算法工作有哪些（数据合成、小模型预训练）？训练数据一般怎么做，注重什么？项目细节：用来训练的数据，有没有覆盖各个领域，还是偏向某个垂直领域？ 「京东、字节跳动、百度文心、美团、腾讯、腾讯混元、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5299",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-060",
+      "originalTitle": "【数据标注】label是怎么设计的？打label、标签选择器？标注成什么样算合格？ 「美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5300",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-061",
+      "originalTitle": "【数据格式与结构】数据结构、数据格式长什么样？ 「字节Seed、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5301",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-062",
+      "originalTitle": "【数据类别划分】判断数据类别的时候是否考虑分更多类？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5302",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-063",
+      "originalTitle": "【数据集划分】数据集怎么划分的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5303",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-064",
+      "originalTitle": "【样本不均衡处理】数据集的正样本负样本是怎么样的一个比例？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5304",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-065",
+      "originalTitle": "【CoT人工标注方法】追问2：如何对上述CoT实施人工标注？描述CoT（思维链）数据的人工标注流程，包括标注规范、质量控制等。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5309",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-066",
+      "originalTitle": "【反馈数据用于训练】馈好的数据，具体会怎么用于训练？讨论如何将反馈数据（如人类反馈）用于模型训练，例如强化学习、微调等。 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5311",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-067",
+      "originalTitle": "【合成数据质量保证】合成数据质量如何保证？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5312",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-068",
+      "originalTitle": "【困难数据筛选】高价值难例是怎么筛选的？描述困难数据筛选的方法，如基于模型不确定性、损失值、多样性等。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5313",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-069",
+      "originalTitle": "【困难负样本构造】困难负样本是如何做的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-070",
+      "originalTitle": "【多模态数据比例失调】如何处理训练数据中图像和文本比例严重失调(如1:100)的情况？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5315",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-071",
+      "originalTitle": "【微调数据构造】SFT的数据怎么造的？给一个场景，怎么去造数据？要考虑哪些？在微调Qwen的时候，数据是怎么构造的？有用到什么数据清洗方法吗（如去重、降噪、格式标准化）？数据配比是怎么做的（如通用数据与领域数据的比例）？ 「腾讯、腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5316",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-072",
+      "originalTitle": "【微调数据集构建与清洗】微调数据集如何构建、清洗、去重、标注？劣质数据会导致什么问题？请结合项目中的微调数据集结构、规模，以及数据清洗和质量验证步骤详细介绍。指令数据集怎么构建的？数据是怎么构建的？怎么构造高质量训练集？怎么体现训练集高质量？怎么通过定义的核心组件Dataset来做？数据和prompt构建的过程。数据集构建怎么做：数据爬取、高质量数据筛选流程？样本如何构造的？训练数据是怎么构建的？项目中训练样本如何构建的，输出的格式？ 「京东、字节跳动、腾讯、腾讯混元、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5317",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-073",
+      "originalTitle": "【教师模型温度设置】教师模型打标答案的时候温度怎么设置？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5318",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-074",
+      "originalTitle": "【数据合成方法】数据合成怎么做的？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5319",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-075",
+      "originalTitle": "【数据增强方法】你具体是怎么做数据增强的？为什么选择这三个数据增强手段？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5320",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“三个数据增强手段”未列出具体方法。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-076",
+      "originalTitle": "【数据构造方法】你的数据是怎么构造的，其中特殊形式是什么样的？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5321",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-077",
+      "originalTitle": "【数据标注】数据标注流程相关问题：1. 打标签是系统流程还是人工流程？有哪些标签？判断依据？打标这步有什么特殊处理？2. 人工标注 vs 模型标注，如果使用模型来打标，可能会遇到什么样的问题？如果对于一个教学级代码想要打标签如何进行？（参考力扣等平台数据分类，公开数据作为基座，然后打标签）人工标注，那之前的余弦相似度不是多此一举吗？ 「百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5322",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“之前的余弦相似度”缺少对应的流程上下文。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-078",
+      "originalTitle": "【数据混合策略】数据怎样混合？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5323",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-079",
+      "originalTitle": "【数据蒸馏】数据蒸馏特点是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5324",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“数据蒸馏”未说明指数据集压缩、教师生成数据还是特征压缩。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-080",
+      "originalTitle": "【数据质量与多样性】在数据构建时，如何保证数据质量和多样性？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5325",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-081",
+      "originalTitle": "【数据过滤】敷衍性回答是怎么过滤的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5326",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-082",
+      "originalTitle": "【数据配比策略】微调的数据配比是怎样的？数据构造，数据配比，为什么要这么做，这个比例有什么讲究吗？数据配比怎么做？数据配比怎么调的？是否存在动态调整计划的机制？数据配比是如何考虑的？为什么用6倍的通用数据？你说的配比实验，里面的比例是怎样的？如何做数据配比？训练数据动态配比：解释数据配比的概念，并讨论如何动态调整不同来源或类型数据的比例以优化模型训练。 「京东、字节Seed、字节跳动、拼多多、百度文心、美团、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5327",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-083",
+      "originalTitle": "【数据预处理】公式编辑等元数据是否特殊处理？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5328",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“公式编辑等元数据”未说明字段与处理目标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-084",
+      "originalTitle": "【样本不均衡处理】样本不均衡处理：包括正负样本比例不均衡和难易程度不均衡。具体方法：1）正负样本不均衡：过采样、欠采样、SMOTE、调整损失函数权重、Focal Loss等；2）难易不均衡：困难样本挖掘（OHEM）、重采样、Focal Loss、课程学习等。 「美团、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5329",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-085",
+      "originalTitle": "【样本控制策略】AReal新旧样本怎么去控制？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5330",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-086",
+      "originalTitle": "【特征工程】特征工程时遇到的难点，怎么解决？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5331",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-087",
+      "originalTitle": "【评估数据集构造】评估数据集怎么构造才靠谱？讨论评估数据集的构造原则，包括代表性、多样性、避免数据泄露等。 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5332",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-088",
+      "originalTitle": "【零样本利用】丢弃全0的case太可惜了，怎么能利用起来？ 「百度文心」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5333",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“全 0 的 case”未说明对应奖励、标签、特征还是输出。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-089",
+      "originalTitle": "【困难数据筛选】如果爬取了1亿条数据，如何筛选出模型不太会的数据? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5338",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-090",
+      "originalTitle": "【图像数据清洗与标注】计算机视觉训练数据包含大量京东商品图像，如何设计数据清洗与标注策略，以提升“商品细分类别”模型的效果? 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5339",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-091",
+      "originalTitle": "【多模态数据构造】场景题：多模态场景,input是一个图片,上面是一些手写的数据答题公式,output是要对这些答题进行打分。里面的细节会涉及到要考虑数学逻辑、数学符号等。你觉得从数据的构造上需要怎么去考虑? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5340",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-092",
+      "originalTitle": "【指令数据清洗】如何设计高质量指令数据的自动清洗pipeline? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5341",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-093",
+      "originalTitle": "【数据过滤与长视频处理】数据集构建技巧+过滤方法，图像、视频数据过滤方法，长视频如何避免OOM？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5342",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-094",
+      "originalTitle": "【数据配比策略】介绍一种你熟悉的数据配比策略:如何平衡代码、数学、通用文本、多语言数据之间的比例? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5343",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-095",
+      "originalTitle": "【数据集合并训练】应该怎么做能达到几乎合并训（数据集1&2）的效果？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5344",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明数据不能合并的原因、训练顺序与访问约束。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-096",
+      "originalTitle": "【自我纠错数据构造】模型自我纠错的数据是怎么构造的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-097",
+      "originalTitle": "【训练结果分析与数据改进】如何分析训练结果并改进训练数据的构造方式？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5347",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-098",
+      "originalTitle": "【Agent日志分类与指标体系】如何对超长多段结构复杂的agent日志数据根据代码任务类型进行分类打标签？生产代码/教学代码/测试运维代码，thinking input output工具调用执行效率等等六个维度来搭建一套可对比可量化的指标体系？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5352",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-099",
+      "originalTitle": "【数据蒸馏】设计梯形编码的数据蒸馏算法，从高维S11曲线中提取关键频响特征，降低数据存储与模型训练开销，使模型训练时间缩短40% 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5353",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未定义“梯形编码”。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-100",
+      "originalTitle": "【噪声处理】数据噪声？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5360",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-101",
+      "originalTitle": "【数据去重方法】是否有去重？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5361",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-102",
+      "originalTitle": "【数据可读性】可读性是什么？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-103",
+      "originalTitle": "【数据命名规范】命名是否清晰? 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5363",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未提供待命名的字段、标签、文件或表。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-104",
+      "originalTitle": "【标签分布】各个 label 数量级？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5364",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-105",
+      "originalTitle": "【数据倾斜判断】怎么判断是否是出现了数据倾斜？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5369",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“数据倾斜”未说明是数据处理分区/热点负载，还是样本分布倾斜；需原场景才能确定诊断对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-106",
+      "originalTitle": "【数据时效性】数据过时staleness? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5370",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“数据过时”未说明时效对象与判定条件。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-107",
+      "originalTitle": "【数据质量维度与评估】1. 判断数据质量时需要考虑哪些维度？是否包括正确性、流畅度？2. 哪样的数据满足高质量的特征？3. 怎么评估数据质量？ 「字节Seed、百度文心、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5371",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-108",
+      "originalTitle": "【负样本定义与正负样本比例】1. unlike是否算负事件？2. 数据里正负样本的占比关注过吗？ 「字节跳动、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5372",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-109",
+      "originalTitle": "有噪声样本怎么做？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5378",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-110",
+      "originalTitle": "有样本能共用吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5379",
+      "reviewStatus": "needs_review",
+      "reviewNote": "样本未说明共享的主体、任务与用途。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-111",
+      "originalTitle": "有没有出现过取数很慢，什么原因（数据倾斜）？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5380",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-112",
+      "originalTitle": "有没有坏例？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5381",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-113",
+      "originalTitle": "有没有自动化质检方法判断prompt质量？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5382",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-114",
+      "originalTitle": "有没有采用双模型互相打分校验数据的方案，当时为何没有落地？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5383",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-115",
+      "originalTitle": "机评人评如何协调，如果有不一致的如何判断？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5384",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-116",
+      "originalTitle": "样本分布差异大的可能原因？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5385",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-117",
+      "originalTitle": "模型训练数据如何做检验的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-118",
+      "originalTitle": "比如如何处理图像-文本对的噪声（如描述与图片不符），保证数据质量？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5387",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-119",
+      "originalTitle": "生产的训练数据是否存在样本不均衡问题？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5388",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-120",
+      "originalTitle": "训练数据有效、准确指的是什么？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5389",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-121",
+      "originalTitle": "请详细描述数据处理到训练的pipeline，重点包括：1. 去重（文本、图像去重）、过滤、去污（Decontamination）的完整流程；2. 需要过滤哪些关键噪声（如逻辑矛盾、事实错误等）；3. 评估caption数据的维度；4. 高质量数据和低质量数据的混合策略；5. 如何大批量筛选高复杂度数据；6. 通过训练模型进行数据质量验证时的lr schedule；7. 自动化评分的准确度如何保证，是否有人工审核环节。 「字节Seed、字节跳动、美团、腾讯、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5390",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-122",
+      "originalTitle": "【AI生成mask验证】AI生成的mask你们如何做的人工验证，还有什么trick？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5393",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-123",
+      "originalTitle": "【合成数据质量评估】合成数据质量如何保证和评估？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-124",
+      "originalTitle": "【增量更新问题】增量更新有没有什么问题？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5395",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明增量更新的对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-125",
+      "originalTitle": "【数据丢弃与采样策略】怎么做丢弃或采样? 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5396",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-126",
+      "originalTitle": "【数据去重方法】假设对小红书笔记做去重，怎么做笔记之间的去重？怎么做笔记内的去重？大规模数据去重是怎么做的？ 「百度文心、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5397",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-127",
+      "originalTitle": "【数据可用性判断】怎么判断数据可以被送到模型训练了，判断标准是啥？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5398",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-128",
+      "originalTitle": "【数据有效性验证】怎么保证sft数据是有用的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5400",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-129",
+      "originalTitle": "【数据清洗策略】去洗数据或调整策略？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5403",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“清洗数据或调整策略”缺少具体问题与失败现象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-130",
+      "originalTitle": "【数据质量判定与标注SOP】如何判定数据质量，人工标注的时候SOP怎么定？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5404",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-131",
+      "originalTitle": "【数据质量标准定义】在特定的业务场景下，怎么定义“好数据”和“坏数据”? 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5405",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-132",
+      "originalTitle": "【数据质量评估】我们构造的cpt数据的用途以及数据的最终质量如何？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5406",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-133",
+      "originalTitle": "【数据质量问题处理】在数据分析中，你遇到过数据质量差的情况吗?你是怎么处理的? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5407",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-134",
+      "originalTitle": "【数据量与质量把控】数据量，数据质量怎么把控的？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5408",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-135",
+      "originalTitle": "【数据闭环筛选标准】在模型迭代优化中，什么样的数据能进入数据闭环，筛选标准是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5409",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-136",
+      "originalTitle": "【无反馈抽检方法】在没有用户反馈的情况下，如何进行有效的抽检? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5410",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-137",
+      "originalTitle": "【时间分布验证】你有尝试比如说像我们业务一样，拿去年的客户数据训练模型，但是拿今年的数据单独验证吗？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5411",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-138",
+      "originalTitle": "【标注质量评估】如何评估标注数据的质量？请定义标注数据的合格标准，从哪些维度判定标注有效，并说明在实际业务中如何量化评估标注数据集的质量？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5412",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-139",
+      "originalTitle": "【标注质量问题处理】当遇到数据标注质量问题时，你有哪些解决方案？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5413",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-140",
+      "originalTitle": "【样本质量影响】你有没有观察到哪些训练样本质量问题对模型行为有很大影响？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5414",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-141",
+      "originalTitle": "【特征穿越】特征穿越问题怎么考量？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5415",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-142",
+      "originalTitle": "【用户生成数据筛选标准】你会用什么质量筛选标准判断用户生成的数据？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5416",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-143",
+      "originalTitle": "【跨部门沟通】如何采取比较通俗的语言说服质检或者数据部的人接受你的指标或者标签分级？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5417",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-144",
+      "originalTitle": "【过程错误数据影响】如果只使用最终答案正确但过程错误的数据，会有什么后果? 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-145",
+      "originalTitle": "【阈值确定】用相似度去筛选样本，阈值怎么确定？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5419",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-146",
+      "originalTitle": "【难数据筛选问题】对于这样自动化的生成数据如果难数据被筛选掉了怎么办 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5420",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-147",
+      "originalTitle": "【低质量数据应对策略】在数据质量不佳且不使用人工逐一检查的情况下，如何从策略层面优化以保证模型效果？变体1：电商数据中存在大量同质低质量数据，如何策略优化？变体2：数据质量不好不使用人工怎么改善？ 「拼多多、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5425",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-148",
+      "originalTitle": "【噪声与偏差处理】如何处理数据中的噪声或系统偏差？变体1：发现合作团队提供的数据存在严重的标注噪声或系统偏差，直接影响模型训练效果，如何处理？变体2：原始训练数据中存在大量噪声，如何去除噪声对模型的影响？变体3：模型训练过程中发现数据质量极差，如何处理？ 「字节跳动、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5426",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-149",
+      "originalTitle": "【大模型辅助数据质量】如何利用大模型辅助数据质量相关工作？变体1：大模型做数据检验你是怎么做的？变体2：怎么用大模型去分析标注质量、迭代？ 「腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5427",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-150",
+      "originalTitle": "【数据一致性】三者结合使用数据一致性其实是有损失的，那如何保证三个之间的一致性？项目中怎么去做的？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5428",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“三个”缺少对应实体与更新关系。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-151",
+      "originalTitle": "【数据不平衡处理】你有过解决多模态数据不平衡的经历吗？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5429",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-152",
+      "originalTitle": "【数据偏见与毒性处理】如何处理大模型训练中的数据偏见和毒性？ 「腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5430",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-153",
+      "originalTitle": "【数据投毒防御】如果要在数据入口拦截 poisoning，应把防线放进哪几个阶段？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5431",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-154",
+      "originalTitle": "【数据泄露处理】如果在模型训练过程中出现数据泄露问题，你会如何处理？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5432",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“数据泄露”未说明指敏感信息外泄还是训练评估污染。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-155",
+      "originalTitle": "【标注质量评估】假设有多个标注员，标注员会根据问题评判A模型和B模型，但是标注员质量参差不齐，如何判断标注结果能不能用，以及标注质量有没有问题，如何判断？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5433",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-156",
+      "originalTitle": "【特征重要性及离线一致性】怎么分析特征重要性，怎么分析特征在离线不一致？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5434",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“特征在离线不一致”未给出具体比较对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-157",
+      "originalTitle": "【标注偏差处理】当你发现用于训练奖励模型的众包标注数据存在明显的标注者主观偏差，且已影响了模型行为，但重新标注成本极高、时间紧迫，你会如何处理? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5439",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-158",
+      "originalTitle": "【测试样本数量】用了多少测试样本？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5453",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-159",
+      "originalTitle": "【评估指标】评估指标有哪些？包括准确率、召回率等常用指标。追问：AI准确率多少？一直在质疑准确率，召回效果。你们看什么指标？ 「京东、字节跳动、百度、美团、腾讯、腾讯混元、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5454",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-160",
+      "originalTitle": "【AUC指标】AUC的定义、物理含义、取值范围（最差为0.5，对应随机猜测）、几种计算方法（包括GAUC计算）以及AUC/GAUC的区别？是否只用了AUC？有没有用别的指标判断？ 「百度、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5459",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-161",
+      "originalTitle": "【F1-macro指标】F1-macro指标怎么计算的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5461",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-162",
+      "originalTitle": "【Pass@k指标】pass@k和pass@1是什么? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5462",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-163",
+      "originalTitle": "【分类任务评测指标】讲一下 RAG 项目 分类任务常用的评测指标有哪些？分类任务常用的评测指标有哪些？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5463",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-164",
+      "originalTitle": "【召回率与精确率计算】讲一下召回率和精确率怎么计算的？检测出来他的一个召回率是多少？ 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5464",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-165",
+      "originalTitle": "【思维链评估指标】有规则来评价模型输出结果中是否带思维链的一些指标。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5465",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-166",
+      "originalTitle": "【检索评估指标与基准】检索评估metric，benchmark 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5466",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-167",
+      "originalTitle": "【模型评估指标选择】你平时怎么评估模型的好坏，用哪些指标？模型训练好以后如何评价模型好坏？你的项目是否进行过有效性验证或系统评估？如果有，评测方法是什么？如何实现的？你还了解哪些指标？请分享一个你在测试中使用的机器学习模型测试方法。请列举关键的评估维度和方法。包括: 数据分析采用了哪些指标? 每次迭代之后，有检查一些相关的指标，判断模型学习得更好嘛？泛化性怎么样？ 「京东、字节跳动、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5467",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-168",
+      "originalTitle": "【留存率计算】留存率是怎么算的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5468",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-169",
+      "originalTitle": "【评估指标】评估指标相关问题：1. 用什么指标来评价检索结果？2. 训练时除了最终的准确率还看哪些指标？3. 讲一讲ROUGE、BLEU、Sim这几个指标以及为什么起作用。4. 评估生成文本质量的方式。5. 评测集是怎么算正确率的？6. 这个功能上线后，你用哪些指标评估效果？ 「京东、字节跳动、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5469",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-170",
+      "originalTitle": "【费用评估】评估过费用吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5470",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-171",
+      "originalTitle": "如何设计测试方案？包括：1）针对自动驾驶算法在复杂光照/动态场景/车辆交互/夜间/恶劣天气/极端天气下表现不佳时改进测试方案；2）针对自动驾驶算法/系统的性能优化测试/性能测试设计测试方案。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5476",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-172",
+      "originalTitle": "如何评估模型效果？包括：1）自动与人工评估指标（如AUC、F1、覆盖率F1、区分度等）；2）针对不同领域（CV、NLP、LLM、自动驾驶、金融对话机器人）的评估方法；3）加权方法（如大流量用户加权）使评估更公平；4）LLM as Judge的评估维度；5）测试方案设计（复杂光照/动态场景/恶劣天气、自动驾驶性能测试、短时间大量测试）；6）过程与结果评估（未按流程但达到目的）；7）训练与评测reward model一致是否不公平；8）AUC计算（样本预估值0.1如何算AUC、离线AUC0.85的分子分母）；9）F1 score计算；10）训练集测试集切分（按时间或随机）；11）如何证明模型有区分度；12）如何评估微调后模型有提升。 「京东、字节跳动、美团、腾讯、蚂蚁集团、阿里巴巴、阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5477",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-173",
+      "originalTitle": "评估指标相关问题：指标是什么？如何制定？如何计算？为什么设定该数值（是否调参）？是否虚高？是全局还是分场景？数值评估方法；数据不均衡对F1、Acc等指标的影响；是否评估推理过程可解释性（还是仅Acc/mIoU）？是否设计自动化评测流程？如何衡量模型好坏？最终效果如何评估？ 「京东、字节跳动、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5478",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-174",
+      "originalTitle": "评估指标综合题：涵盖多模态模型、大语言模型、RAG、AIGC、检索、视觉模型、后训练模型等的核心评价指标；准确率优化方案；F1 Score在生成式任务中的计算与评测；R@K、BLEU、CIDEr在电商场景（如商品匹配）中的衡量；如何判定模型优化效果正向/负向；如何判断后训练策略迁移性；如何定义成功指标；如何衡量模型实际业务效果；如何设计计算机视觉模型评估体系及动态场景鲁棒性；如何评价微调后模型提升、幻觉率、通用能力变化；如何评价检索效果及指标提升；如何评估AIGC生成内容质量；如何评估RAG模型效果及常用指标；如何评估后训练模型在安全性、有用性、无害性方面的表现；如何评估不同数据增强方法（旋转、裁剪、色彩抖动）对视觉模型的提升；多次迭代后效果分化时如何用消融实验定位问题；分享一次大模型评测经历及关注指标。 「京东、字节Seed、字节跳动、拼多多、百度、百度文心、美团、腾讯、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5479",
+      "reviewStatus": "confirmed",
+      "reviewNote": "本条汇集了不同任务的评价问题，各任务采用各自的指标。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-175",
+      "originalTitle": "【AIGC绘图评估】AIGC绘图质量如何评估？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5482",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-176",
+      "originalTitle": "【AUC与相关指标】介绍AUC、GAUC、UAUC的概念、计算及区别。手撕AUC/GAUC（写代码）。 「百度、美团、腾讯、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5483",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-177",
+      "originalTitle": "【AUC指标】请说明AUC的定义、物理意义和计算方法，并用Python实现AUC的计算。同时，讨论数据随机采样对AUC的影响，以及当AUC指标较高时，如何判断性能提升幅度是否显著。 「字节Seed、拼多多、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5484",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-178",
+      "originalTitle": "【LLM作为裁判】评测中GPT as judge怎么做的？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5485",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-179",
+      "originalTitle": "【MRR与NDCG、Precision区别】介绍MRR，并从评估目标说明其与NDCG、Precision的区别。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5486",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-180",
+      "originalTitle": "【NLP2SQL评估】NLP2SQL的表现如何评估？使用召回率、精确率、F1-Score，构造正确SQL语句验证大模型结果。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5487",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-181",
+      "originalTitle": "【PPL指标】PPL阈值如何设置？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5488",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-182",
+      "originalTitle": "【RAG评估】RAG有哪些评估方法？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5489",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-183",
+      "originalTitle": "【决策评估】AI的决策是否符合预期，通过什么来判断？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5490",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-184",
+      "originalTitle": "【分层验证】每一层分别如何验证？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5491",
+      "reviewStatus": "needs_review",
+      "reviewNote": "“每一层”未说明对应模型、系统层级与评价对象。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-185",
+      "originalTitle": "【分支覆盖率统计】代码单测的分支覆盖率如何统计？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5492",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-186",
+      "originalTitle": "【安全性评估自动化】介绍一种用于评估模型输出安全性的自动化方法或工具。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5493",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-187",
+      "originalTitle": "【安全过滤效果评估】安全过滤效果如何评估？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5494",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-188",
+      "originalTitle": "【模型与规则上限对比】模型的上限会比rule-based高吗，如何说明？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5497",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-189",
+      "originalTitle": "【测试结果质量保证】请描述你如何确保测试结果的准确性、可重复性、可信度、一致性，以及测试过程的透明度和可追溯性？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5498",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-190",
+      "originalTitle": "【消融实验】是否做过消融实验？每个模块贡献了多少？ 「京东、腾讯混元、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5499",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-191",
+      "originalTitle": "【生成效果量化指标】能不能想个量化指标去衡量生成效果？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5500",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-192",
+      "originalTitle": "【相似度评估】相似度评估用什么做的（如BERT）？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5501",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-193",
+      "originalTitle": "【统计显著性检验】统计显著性检验了吗？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5502",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-194",
+      "originalTitle": "【裁判模型稳定性】裁判模型打分怎么确定是否稳定？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5503",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-195",
+      "originalTitle": "【评估指标设定与合理性】任务评价指标如何设定？如何判断指标合理性？传统指标有哪些局限性？如何量化评估输出质量？之后采用哪些指标检验洞察？ 「京东、字节跳动、百度、百度文心、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5504",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-196",
+      "originalTitle": "【逻辑推理答案提取】评估逻辑推理时候，预训练大概率没有指令遵循输出答案评估，你是如何提取答案做的？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5505",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-197",
+      "originalTitle": "【Agent评估】Agent系统的整体效果怎么评估？ 「字节跳动、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5510",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-198",
+      "originalTitle": "【AI生成检测泛化性】AI生成检测你的方法对新出现的生成器来讲，效果如何？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5511",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-199",
+      "originalTitle": "【AUC回归应用】AUC怎么适用于回归问题？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5512",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-200",
+      "originalTitle": "【Deep Research报告评估】deep research的report评估方法是什么？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5513",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-201",
+      "originalTitle": "【LLM作为裁判】要llm-as-judge评测财务指标计算是否正确，该有哪些评估标准？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5514",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-202",
+      "originalTitle": "【代码评测集效果分析】假设GitHub的一个客观评测集，模型评估效果不好，可以从长代码和短代码出发，分析造成这种问题的原因。 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5515",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-203",
+      "originalTitle": "【仿真平台模型评估】仿真平台如何评判模型的好坏？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5516",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-204",
+      "originalTitle": "【内部评价指标设计】介绍一下内部评价指标，怎么设计的？内部评价指标是否合理，怎么证明？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5517",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-205",
+      "originalTitle": "【可解释性生成评估】可解释性生成你是如何做的评估？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5518",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-206",
+      "originalTitle": "【增量预训练性能提升判断】（追问）如何判断增量预训练是否真正提升了模型性能？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5519",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-207",
+      "originalTitle": "【多模态评估指标设计】请描述你设计过的最复杂的多模态评估指标。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5520",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-208",
+      "originalTitle": "【多轮对话维度分析】追问1：如果是benchmark上的多轮对话维度分数低，要怎么进一步分析？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5521",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-209",
+      "originalTitle": "【大模型评估方法论】评估方法论：如何科学评估大模型性能？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5522",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-210",
+      "originalTitle": "【完整测评考虑因素】项目中的背景 挑战 困难 测评 对于训练完的模型 如果做比较完整的测评 要从哪些方面考虑 业务场景如何测试？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5523",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-211",
+      "originalTitle": "【模型评估可信度】使用Qwen-VL-2.5这样的模型做模型评估如何保证可信度？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5524",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-212",
+      "originalTitle": "【评估体系设计】设计评估体系，包含:动态模糊程度分级、运动速度区间、识别准确率衰减曲线。 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5525",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-213",
+      "originalTitle": "【评判模型准确率验证】依靠模型自动评判，你在训练优化过程中，有没有验证过评判模型自身的准确率？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5526",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-214",
+      "originalTitle": "【评测结果与COT分析】追问2：如果已获取权威benchmark各维度的评测结果和COT，要怎么进一步分析？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5527",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-215",
+      "originalTitle": "【轨迹评估】AReal怎么评估一个轨迹新旧混杂程度？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5528",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-216",
+      "originalTitle": "【风控模型上线评估】你如何评估一个风控模型上线后的实际效果?除了AUC还看什么? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5529",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-217",
+      "originalTitle": "【评估体系设计】固化成上线前的评估标准。你会怎么设计评估体系？ 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5534",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-218",
+      "originalTitle": "为什么需要对RAG进行评测？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5542",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-219",
+      "originalTitle": "你觉得什么是一个好的benchmark？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5543",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-220",
+      "originalTitle": "假设有一组主观任务，大概是给一段文字判断情绪类别，这是多分类的任务，而最好的闭源大模型也没法达到80%以上的正确率，那么如何构造出正确的评测集？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5544",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-221",
+      "originalTitle": "在论文中，有一个qwen3vl提点非常高的benchmark（baseline异常低），是什么原因？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5545",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未给论文、基准、基座版本、提示或数据协议，无法定位所问 baseline 的异常。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-222",
+      "originalTitle": "基座模型怎么评估？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5546",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-223",
+      "originalTitle": "多语言场景怎么评估：如何做一套简单可执行的离线评测集？如何覆盖不同语言与类目？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5547",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-224",
+      "originalTitle": "如果你发现一个测试用例覆盖率不足，你会如何改进？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5548",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-225",
+      "originalTitle": "如果你负责一个全新的自动驾驶项目，你会如何制定测试策略？（包括可靠性测试、回归测试、安全测试、端到端测试、集成测试、验收测试、验证测试等不同维度的测试策略/流程设计） 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5549",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-226",
+      "originalTitle": "工具调用准确率怎么定义的，评测集怎么构建的，badcase在哪？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5550",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-227",
+      "originalTitle": "怎么验证数据质量，用什么basemodel，用什么评测集？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5551",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-228",
+      "originalTitle": "数学榜单构建技巧 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5552",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-229",
+      "originalTitle": "数学榜单除了acc的reward还有什么吗？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5553",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-230",
+      "originalTitle": "是否有考虑构建针对业务的cpt阶段bench？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5554",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-231",
+      "originalTitle": "训练完验证使用的是什么数据集？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5555",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-232",
+      "originalTitle": "评估多模态大模型时，除了传统的CIDEr、BLEU，还有哪些更科学的Benchmarks？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5556",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-233",
+      "originalTitle": "评测体系你是怎么搭建的？ 「腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5557",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-234",
+      "originalTitle": "评测集如何构建、覆盖真实业务场景？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5558",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-235",
+      "originalTitle": "评测集是从哪里找的？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5559",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-236",
+      "originalTitle": "请描述你如何设计一个高效的自动驾驶算法测试框架？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5560",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-237",
+      "originalTitle": "领域模型微调领域评测集构建？ 「字节跳动、百度、腾讯混元」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5561",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-238",
+      "originalTitle": "【AB测试基本原理】请介绍AB测试的基本原理。 「京东、拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5568",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-239",
+      "originalTitle": "【AB测试设计】AB测试设计流程：如何设计AB测试？具体步骤？是否做过？对照组模型设置：对照组使用什么模型？是否与实验组相同架构和参数量？策略有效性验证：如何验证策略的有效性？分组方式探讨：是否尝试过完全不分组或随机分组？ 「京东、百度、美团、腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5573",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-240",
+      "originalTitle": "【AB测试综合】AB实验设计、操作与异常处理：1. 分桶、周期、显著性怎么理解？遇到大促波动时如何解释实验结果？2. 业务上想看发送招标邮件的效用，如何设计实验？3. 分流护栏怎么做的？4. 如何处理模型的A/B测试？5. 开一个时间较长的实验来累积更多的样本量，这样的方式可能会导致什么问题？怎么解决？6. 怎么做的小流量AB实验？7. 描述一下你做过的一个A/B测试，怎么设计实验的？8. 提到了AB test具体怎么操作的？合成控制法？AA期指标波动较大的情况？9. 要怎么切片去看不同属性下实验效果怎么样？ 「京东、拼多多、百度、美团、腾讯、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5578",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-241",
+      "originalTitle": "【AB测试效果不一致原因分析】AB测试实验效果显著正向但全量上线后效果消失或实际落地不显著的可能原因有哪些？请从网络效应/SUTVA违反、选择偏差、实验期与全量期分布漂移等角度分析。 「京东、拼多多、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5583",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-242",
+      "originalTitle": "【DID平行趋势检验】DID的前提是平行趋势，你能拿什么数据证明平行趋势？如果证明不了，你敢不敢拍板说就是模型问题？如果平行趋势检验不通过怎么办？ 「百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5584",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-243",
+      "originalTitle": "【Switchback实验干扰解决】Switchback实验流量互相干扰，有什么解决办法？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5585",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-244",
+      "originalTitle": "【反馈闭环设计】在模型迭代中，如何设计一个有效的反馈闭环，让线上表现能快速指导线下模型优化？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5586",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-245",
+      "originalTitle": "【多优化点合并问题定位】离线不同的优化点合并在一起上线，线上出了问题，要怎么去发现是哪一块不及预期？ 「美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5587",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-246",
+      "originalTitle": "【多指标权衡决策】AB测试多指标权衡决策：Chat bot上线A模型和B模型，观测到A模型用户次日留存率更高，B模型对话时间更长，如何判断上线哪个模型？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5588",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-247",
+      "originalTitle": "【数据配比实验设计】请设计一个实验，来评估不同数据配比(如SFT数据、偏好数据、安全数据)对最终模型性能的影响。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5589",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-248",
+      "originalTitle": "【离线线上效果不一致分析】当算法改进在离线评估中表现优异，但在线上A/B测试中效果不显著甚至为负时，你的分析思路和后续行动是什么？复盘会怎么做？下一步优先改哪里？ 「拼多多、百度、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5590",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-249",
+      "originalTitle": "【策略评估与因果推断框架】设计一个A/B测试或因果推断框架，评估策略（如风控、新模型、新工具）对业务指标（如通过率、坏账率、DAU）的长期影响，并处理子人群负向、自然流量无AB等场景。变体：1）大盘DAU持平但高价值子人群显著负向，是否全量？决策框架怎么搭？2）如何设计A/B测试评估新老风控策略对通过率、坏账率的长期影响？3）无AB的自然流量入口，如何做因果推断？4）设计Agent线上评测与灰度机制，保证新模型、新工具上线不批量翻车，量化效果优劣。 「字节跳动、美团、蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5595",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-250",
+      "originalTitle": "【日志关键指标】日志中你最关心哪几项指标? 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5607",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-251",
+      "originalTitle": "【Bad Case分析】如何分析bad case？包括如何找到bad case、如何确定其占比、如何找到原因以及如何确定是哪个具体原因导致的bad case？ 「京东、美团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5612",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-252",
+      "originalTitle": "【Bad Case回流与迭代】哪些badcase进行回流了？怎么做badcase回流？针对这些Bad Case，下一步如何迭代？ 「字节Seed、百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5613",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-253",
+      "originalTitle": "【实验结果分析思路】当实验结果与预期不符时，你的分析思路是什么？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5614",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-254",
+      "originalTitle": "【实验跟踪与模型管理】解释实验跟踪和模型管理的最佳实践。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5615",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-255",
+      "originalTitle": "【模型上线前检查】模型上线前应考虑哪些问题？如何避免学偏的模型上线？ 「阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5617",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-256",
+      "originalTitle": "【模型效果归因分析】模型评测后，效果不好，怎么做归因分析? 「字节Seed」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5618",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-257",
+      "originalTitle": "【监控与定位方法】你会如何监控和定位的？ 「百度」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5619",
+      "reviewStatus": "needs_review",
+      "reviewNote": "来源未说明监控对象与待定位的异常。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-258",
+      "originalTitle": "【线上问题定位经验】有没有定位过线上问题？ 「阿里通义」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5620",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-259",
+      "originalTitle": "【训练日志打印内容】训练的时候，打印什么内容可以定位上述问题？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5621",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“上述问题”缺少前文的故障描述。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-260",
+      "originalTitle": "【中间指标与Scaling问题排查】有没有除了结果之外，根据其他中间指标观察模型收敛？能不能举一个具体的case来排查模型scaling的问题？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5626",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-261",
+      "originalTitle": "【复杂场景下算法问题定位】如果你在测试中发现一个算法在复杂交通信号、交通、行人、路口或道路拓扑场景下表现不佳，你会如何定位问题？ 「京东」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5627",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-262",
+      "originalTitle": "【异常模式发现与预警】请描述一次你通过数据分析发现异常模式并成功预警的经历。 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5628",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-263",
+      "originalTitle": "【指标下降归因分析】支付宝某页面的点击率掉了2个百分点,业务方说是算法模型的问题,数据组说是埋点上报延迟。你作为一个数据分析师,怎么让两方闭嘴,找到真因？ 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5629",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-264",
+      "originalTitle": "【模型上线后监控与迭代】在模型部署上线后，如何进行监控和持续优化？请描述监控模型效果的方法、确保及时发现和解决问题的监控系统设计，以及持续迭代的流程。 「京东、蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5630",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-265",
+      "originalTitle": "【离在线不一致排查】当模型在测试集表现好但线上效果差时，离在线不一致问题如何排查和解决？请给出排查思路和解决方案。 「蚂蚁集团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5631",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-266",
+      "originalTitle": "【线上故障定位与止血】举一个常见线上故障（超时、输出为空、质量下降等）：如何快速定位原因并止血？ 「拼多多」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5632",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-267",
+      "originalTitle": "【线上问题排查】如果发现线上模型的预测结果有偏差、效果不理想或突然下降，怎么排查是哪个环节出了问题？从哪些方面分析情况？ 「百度、美团、阿里巴巴」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5633",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-268",
+      "originalTitle": "【评分正确但grounding错误分析】怎么看模型评分正确但是grounding有问题的案例？ 「腾讯」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5634",
+      "reviewStatus": "needs_review",
+      "reviewNote": "grounding 未说明指视觉定位还是证据引用等其他对齐任务。"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-269",
+      "originalTitle": "【长期项目监控体系】在一个长期迭代的后训练项目中，如何建立有效的指标监控体系，以及时发现模型性能衰退或出现新的安全风险? 「蚂蚁集团」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5635",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-EXT-XHS-5200-270",
+      "originalTitle": "【其他数据评测】代码插桩的具体实现原理是什么？ 「字节跳动」",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md#L5642",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

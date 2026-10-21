@@ -1,0 +1,332 @@
+{
+  "id": "COL-AGENTGUIDE-CORE",
+  "publisherId": "PUB-AGENTGUIDE",
+  "title": "AgentGuide · Agent 核心面试题",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
+  "sourceKind": "curated_question_set",
+  "sourceClaim": "AgentGuide《AI Agent 面试题库 - Agent 核心篇》的公开问题。",
+  "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md",
+  "access": "public",
+  "capturedAt": "2026-10-17",
+  "lastCheckedAt": "2026-10-17",
+  "verification": "verified_source",
+  "items": [
+    {
+      "id": "COL-AGENTGUIDE-CORE-001",
+      "originalTitle": "你如何定义一个基于 LLM 的智能体（Agent）？它通常由哪些核心组件构成？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L19",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-002",
+      "originalTitle": "请详细解释 ReAct 框架。它是如何将思维链和行动结合起来，以完成复杂任务的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L27",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-003",
+      "originalTitle": "在 Agent 的设计中，\"规划能力\"至关重要。请谈谈目前有哪些主流方法可以赋予 LLM 规划能力？（例如 CoT, ToT, GoT等）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L35",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-004",
+      "originalTitle": "Memory 是 Agent 的一个关键模块。请问如何为 Agent 设计短期记忆和长期记忆系统？可以借助哪些外部工具或技术？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L45",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-005",
+      "originalTitle": "Tool Use 是扩展 Agent 能力的有效途径。请解释 LLM 是如何学会调用外部 API 或工具的？（可以从 Function Calling 的角度解释）",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L55",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-006",
+      "originalTitle": "有微调过 Agent 能力吗？数据集如何收集？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L63",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-007",
+      "originalTitle": "请比较一下两个流行的 Agent 开发框架，如 LangChain 和 LlamaIndex。它们的核心应用场景有何不同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L72",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-008",
+      "originalTitle": "你用过哪些 Agent 框架？选型是如何选的？你最终场景的评价指标是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L80",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-009",
+      "originalTitle": "什么是多智能体系统？让多个 LLM Agent 协同工作相比于单个 Agent 有什么优势？又会引入哪些新的复杂性？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L89",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-010",
+      "originalTitle": "了解 A2A 框架吗？它和普通 Agent 框架的区别在哪，挑一个最关键的不同点说明。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L97",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-011",
+      "originalTitle": "在构建一个复杂的 Agent 时，你认为最主要的挑战是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L106",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-012",
+      "originalTitle": "当一个 Agent 需要在真实或模拟环境中（如机器人、游戏）执行任务时，它与纯粹基于软件工具的 Agent 有什么本质区别？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L113",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-013",
+      "originalTitle": "如何确保一个 Agent 的行为是安全、可控且符合人类意图的？在 Agent 的设计中，有哪些保障对齐方法？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L120",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-014",
+      "originalTitle": "在 RAG+知识图谱的 Agent 系统中，知识图谱更新的机制是怎样的？是怎样保证实时性的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L130",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-015",
+      "originalTitle": "训练 LoRA 模型时，你是如何选择冻结层的？依据是什么？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L138",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-016",
+      "originalTitle": "大规模 Agent 系统在多线程/多进程场景下的资源调度策略如何设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L146",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-017",
+      "originalTitle": "如果你要在 GPU 资源有限的条件下同时提供推理和微调服务，如何做资源分配和任务调度以保证时延和吞吐？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L154",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-018",
+      "originalTitle": "如何让多个agent协同工作的？举个具体的协同机制例子。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L162",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-019",
+      "originalTitle": "如果一个agent误判导致策略冲突，如何处理？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L170",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-020",
+      "originalTitle": "你是怎么设计agent的记忆系统？长期记忆如何存储？如果历史记录量非常大，怎么优化查询效率？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L178",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-021",
+      "originalTitle": "有没有做记忆衰退，避免旧数据干扰新任务？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L186",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-022",
+      "originalTitle": "你们这种模块堆叠的架构是怎么设计视觉问答模块和动作模块的协同逻辑的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L194",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-023",
+      "originalTitle": "human feedback是怎么被agent消化吸收的？有没有用rl进行策略更新？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L202",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-024",
+      "originalTitle": "你怎么处理响应速度与推理精度之间的tradeoff？是先召回再精排，还是单次生成？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L210",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-025",
+      "originalTitle": "如果要做电商agent，你会选择哪些模态的信息作为输入？比如文本评论、图像、视频、购买记录？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L218",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-026",
+      "originalTitle": "你的 Agent 系统Prompt 是怎么设计和迭代的？有没有做过 Prompt 自动优化？当用户提出不完整的请求时，如何补全用户意图的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L226",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-027",
+      "originalTitle": "构建 Agent 的时候，遇到过哪些瓶颈？LangChain 的 memory 默认机制在多用户并发中怎么做隔离？你是如何保证线程安全的？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L234",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-028",
+      "originalTitle": "你做的 Agent 使用了多少个外部工具，在调用链条上如何保障故障容错和超时机制？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L242",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-029",
+      "originalTitle": "有没有做过工具调用失败后的feedback策略设计？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L250",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-030",
+      "originalTitle": "多轮对话上下文状态管理是如何做的？如何在高并发场景下保证一致性？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L258",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-031",
+      "originalTitle": "如果Agent推理API需要低延迟响应，你会从哪些方面做系统级优化？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L266",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-032",
+      "originalTitle": "你是如何利用多Agent协同来提高推理正确率的？调度策略如何实现？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L274",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-033",
+      "originalTitle": "你做Prompt优化时，是如何判断优化后的Prompt在Agent推理链路中性能提升的？用什么指标来衡量？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L282",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-034",
+      "originalTitle": "在多Agent系统中，如何保证异步任务执行的稳定性和结果一致性？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L290",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-035",
+      "originalTitle": "Agent整体流程是怎么做的？包括哪些模块？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L298",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-036",
+      "originalTitle": "如果子agent回复不对怎么办？反思？跳不出去怎么办？限制次数？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L306",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-037",
+      "originalTitle": "Agent怎么评估效果？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L314",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-038",
+      "originalTitle": "你简历中的客服Agent项目，是如何判断用户意图是否需要调用外部API的？用了分类模型还是prompt判断？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L322",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-039",
+      "originalTitle": "大模型生成工具调用时，如何避免参数格式错误？有哪些后处理或约束解码方法？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L330",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-040",
+      "originalTitle": "当多个工具都能完成子任务时，你的Agent如何做选择？有没有引入打分或排序模块？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L338",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-041",
+      "originalTitle": "在Agent中引入\"记忆\"机制时，为什么常用向量数据库？如何设计embedding和检索策略？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L346",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-042",
+      "originalTitle": "项目上线后，你是如何收集bad case并迭代模型/策略的？有做在线学习吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L354",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-043",
+      "originalTitle": "Function Calling 和 Toolformer 的本质区别是什么？各自在训练/推理阶段如何工作？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L362",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-044",
+      "originalTitle": "如果让你设计一个能行程规划的旅行Agent，你会如何拆解任务？各子Agent职责怎么划分？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L370",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-045",
+      "originalTitle": "你的Agent如何处理工具调用失败(如API超时、返回空)？有设计重试、降级或用户澄清机制吗？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L378",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-046",
+      "originalTitle": "在真实场景中，如何防止Agent泄露用户隐私或越权操作？从算法和系统层面谈谈你的设计。",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L386",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-047",
+      "originalTitle": "如果用户连续追问\"为什么选这家酒店？\"，Agent如何回溯决策链并给出可解释理由？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L394",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-048",
+      "originalTitle": "如何评估一个Agent系统的鲁棒性？除了准确率，还会测试哪些对抗性或边缘case？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L402",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-049",
+      "originalTitle": "了解哪些agent开发框架，例如langchain和LlamaIndex，他们核心应用场景有何不同？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L410",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-050",
+      "originalTitle": "问数据的输入输出格式如何保证大模型输出稳定的json做了哪些工作？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L418",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-051",
+      "originalTitle": "问Agent的工具tool的设计，是否是workflow形式？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L426",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-AGENTGUIDE-CORE-052",
+      "originalTitle": "agent调用工具不正确怎么办，采用sft或者强化学习怎么来解决？",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md#L434",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 语言、框架、前后端、操作系统、网络、存储、并发与分布式系统。
 
-共 1,525 道题，分为 20 个专题。
+共 1,798 道题，分为 20 个专题。
 
 ## 页内导航
 
@@ -67,6 +67,50 @@
 - [Q-3967 如何编写支持位置参数、关键字参数和返回值透传的耗时统计装饰器？](../questions/Q-3967.md)
 - [Q-3968 Python 装饰器如何保留被装饰函数的名称和文档字符串？](../questions/Q-3968.md)
 - [Q-4041 Python 闭包导致对象长期存活时，如何避免内存问题？](../questions/Q-4041.md)
+- [Q-4787 开发 API 服务时，如何选择 FastAPI、Flask 与 Django？](../questions/Q-4787.md)
+- [Q-5118 Pydantic BaseModel 如何为消息等数据对象提供验证，相比普通对象有哪些收益与限制？](../questions/Q-5118.md)
+- [Q-5439 实现惰性读取并转换大数据集记录的生成器。](../questions/Q-5439.md)
+- [Q-5442 实现具有类型与约束校验的训练配置对象。](../questions/Q-5442.md)
+- [Q-5444 Python 工具何时采用函数、数据类、普通类或抽象基类？](../questions/Q-5444.md)
+- [Q-5445 Python 可变默认参数为什么会在多次调用间共享状态？](../questions/Q-5445.md)
+- [Q-5446 Python 浅拷贝与深拷贝有什么区别？](../questions/Q-5446.md)
+- [Q-6194 FastAPI 服务如何组织数据库接入、会话与事务边界？](../questions/Q-6194.md)
+- [Q-6470 Python 如何通过扩展模块、ctypes 或 C API 调用本地库？](../questions/Q-6470.md)
+- [Q-6484 Python multiprocessing 与 ProcessPoolExecutor 如何提交任务、传递数据并回收进程？](../questions/Q-6484.md)
+- [Q-6486 如何用 Flask 或 FastAPI 将模型封装成可运行的推理服务？](../questions/Q-6486.md)
+- [Q-6488 Python 字典与 JSON 字符串如何相互转换，有哪些类型和编码边界？](../questions/Q-6488.md)
+- [Q-6489 Python 模块导入路径与资源文件路径如何确定？](../questions/Q-6489.md)
+- [Q-6494 Python logging 与 Loguru 如何组织日志配置和运行上下文？](../questions/Q-6494.md)
+- [Q-6496 Python 包如何通过 pyproject.toml 构建安装，并定位依赖与导入问题？](../questions/Q-6496.md)
+- [Q-6498 Gradio 与 Streamlit 如何搭建模型交互原型，各有哪些状态和交付边界？](../questions/Q-6498.md)
+- [Q-6500 WSGI、ASGI、Gunicorn 与 Uvicorn 分别承担什么职责？](../questions/Q-6500.md)
+- [Q-6501 Python range 与历史 xrange 如何生成整数序列，有哪些版本差异？](../questions/Q-6501.md)
+- [Q-6502 Python 如何组织异常捕获、传播和资源清理？](../questions/Q-6502.md)
+- [Q-6503 Python 的可变与不可变对象如何影响别名、哈希和函数传参？](../questions/Q-6503.md)
+- [Q-6504 Python 的 None 表示什么，如何与空值和假值区分？](../questions/Q-6504.md)
+- [Q-6505 Python 实例方法、classmethod 与 staticmethod 如何绑定和调用？](../questions/Q-6505.md)
+- [Q-6506 Python 序列的查找、删除与取出操作有哪些边界？](../questions/Q-6506.md)
+- [Q-6507 Python 如何按作用域解析局部、全局与非局部名称？](../questions/Q-6507.md)
+- [Q-6508 Python 的模块导入与 __name__ 主入口判断如何影响执行？](../questions/Q-6508.md)
+- [Q-6509 Python 列表、集合、字典推导式与生成器表达式如何选择？](../questions/Q-6509.md)
+- [Q-6510 Python 字符串格式化如何表达占位、数值和可控文本？](../questions/Q-6510.md)
+- [Q-6511 Python type 与 isinstance 如何判断对象类型，有何继承边界？](../questions/Q-6511.md)
+- [Q-6512 Python 如何组织多分支选择，if、映射分派与 match 各适合什么条件？](../questions/Q-6512.md)
+- [Q-6513 Python 特殊方法如何定义对象协议，名称下划线有哪些约定？](../questions/Q-6513.md)
+- [Q-6514 Python 常用标准库如何按任务选择，有哪些外部依赖边界？](../questions/Q-6514.md)
+- [Q-6515 Python 文件模式与读取接口如何影响数据、游标和内存？](../questions/Q-6515.md)
+- [Q-6517 Python 海象运算符如何在表达式中绑定名称？](../questions/Q-6517.md)
+- [Q-6518 Python 类变量与实例变量如何查找、共享和遮蔽？](../questions/Q-6518.md)
+- [Q-6519 Python __new__ 与 __init__ 分别如何创建和初始化对象？](../questions/Q-6519.md)
+- [Q-6520 类型注解、dataclass 与 Pydantic 在 Python 数据契约中分别承担什么职责？](../questions/Q-6520.md)
+- [Q-6521 Python 3.13/3.14 的解释器、字符串模板与注解变化应如何评估？](../questions/Q-6521.md)
+- [Q-6522 Python 引用计数与循环垃圾回收如何协作，怎样定位对象未释放？](../questions/Q-6522.md)
+- [Q-6523 Python 高阶函数、lambda、map 与 reduce 如何组织计算？](../questions/Q-6523.md)
+- [Q-6525 Python 自省如何检查对象、属性和可调用签名？](../questions/Q-6525.md)
+- [Q-6526 Python 元类如何参与类的创建，与装饰器和继承有什么区别？](../questions/Q-6526.md)
+- [Q-6557 Python AI 项目如何隔离解释器、依赖与本地计算库环境？](../questions/Q-6557.md)
+- [Q-6772 random.choices 与 random.sample 的抽样与概率语义有何区别？](../questions/Q-6772.md)
+- [Q-6791 Python 的双星号在乘方、参数展开与关键字参数收集中如何工作？](../questions/Q-6791.md)
 
 <a id="topic-2"></a>
 ## Java、Spring 与 JVM
@@ -201,6 +245,9 @@
 - [Q-4310 JVM 方法区与元空间是什么关系，元空间是否完全替代方法区？](../questions/Q-4310.md)
 - [Q-4311 调优 G1 垃圾收集器时，应优先关注哪些参数？](../questions/Q-4311.md)
 - [Q-4314 如何自定义一个 Spring Boot Starter？](../questions/Q-4314.md)
+- [Q-6185 Java 对象从创建到回收经历哪些阶段？](../questions/Q-6185.md)
+- [Q-6760 Java 的 Map、Set 与 HashMap 分别是什么，有何关系？](../questions/Q-6760.md)
+- [Q-6956 MyBatis 与 MyBatis-Plus 的职责和使用方式有何区别？](../questions/Q-6956.md)
 
 <a id="topic-3"></a>
 ## C/C++、Go 与编译
@@ -251,6 +298,57 @@
 - [Q-3633 C++ 完美转发如何实现？](../questions/Q-3633.md)
 - [Q-4116 C++ 中除互斥锁外还有哪些常见锁或同步机制？](../questions/Q-4116.md)
 - [Q-4161 Go 原生 map 是否并发安全，项目中如何处理并发读写？](../questions/Q-4161.md)
+- [Q-5612 固定宽 SIMD 与 RVV 如何安全处理向量计算的尾部元素？](../questions/Q-5612.md)
+- [Q-6166 C++ vector 如何扩容，容量变化对复杂度与引用有效性有什么影响？](../questions/Q-6166.md)
+- [Q-6189 Go Channel 如何传递数据并实现同步？](../questions/Q-6189.md)
+- [Q-6440 C++ 的 new、delete 与 malloc、free 如何分配存储并管理对象生命周期？](../questions/Q-6440.md)
+- [Q-6441 C 与 C++ 的编程模型和语言机制有哪些差异？](../questions/Q-6441.md)
+- [Q-6442 STL 序列与关联容器如何按访问模式和失效规则选择？](../questions/Q-6442.md)
+- [Q-6443 C/C++ 宏如何展开，与函数和类型化常量有哪些区别？](../questions/Q-6443.md)
+- [Q-6444 typedef 与 using 如何为类型创建别名？](../questions/Q-6444.md)
+- [Q-6445 C/C++ 的声明、定义、作用域和链接属性如何协作？](../questions/Q-6445.md)
+- [Q-6446 前置与后置自增的语义和代价有什么区别？](../questions/Q-6446.md)
+- [Q-6447 C/C++ 中数组、数组名、指针数组与数组指针有什么区别？](../questions/Q-6447.md)
+- [Q-6448 C++ 类型转换运算符如何选择，dynamic_cast 有哪些条件？](../questions/Q-6448.md)
+- [Q-6449 C++ 对象初始化与赋值有什么区别？](../questions/Q-6449.md)
+- [Q-6450 C/C++ 中 register 的历史用途和版本限制是什么？](../questions/Q-6450.md)
+- [Q-6451 const、mutable、constexpr、consteval 与 constinit 分别约束什么？](../questions/Q-6451.md)
+- [Q-6452 C/C++ volatile 约束哪些访问，为什么不能代替线程同步？](../questions/Q-6452.md)
+- [Q-6453 一次本地函数调用如何传递参数、转移控制并返回？](../questions/Q-6453.md)
+- [Q-6454 C/C++ 的尖括号与双引号 include 有何区别，如何防止头文件重复包含？](../questions/Q-6454.md)
+- [Q-6455 C/C++ 程序在 main 前后还会执行哪些初始化和清理？](../questions/Q-6455.md)
+- [Q-6456 strcpy、sprintf 与 memcpy 处理的数据和安全边界有何区别？](../questions/Q-6456.md)
+- [Q-6457 C++ 的值、指针与引用参数如何影响对象和调用方状态？](../questions/Q-6457.md)
+- [Q-6459 现代 C++ 各标准版本的重要特性如何用于工程？](../questions/Q-6459.md)
+- [Q-6460 C++ 的左值引用、右值引用与值类别如何对应？](../questions/Q-6460.md)
+- [Q-6461 sizeof 与 strlen 的对象、求值和返回含义有什么区别？](../questions/Q-6461.md)
+- [Q-6462 string_view、span 与 optional 如何表达接口的借用和可选值？](../questions/Q-6462.md)
+- [Q-6463 RAII 如何将资源的获取与释放绑定到对象生命周期？](../questions/Q-6463.md)
+- [Q-6464 C++ 函数重载、覆盖与隐藏如何区分？](../questions/Q-6464.md)
+- [Q-6465 C 与 C++ 如何通过 extern C 和 ABI 约定实现二进制互操作？](../questions/Q-6465.md)
+- [Q-6472 C++ AI 库如何管理构建、依赖和 ABI 兼容性以完成交付？](../questions/Q-6472.md)
+- [Q-6474 空指针、野指针与悬垂指针有什么区别，如何避免非法访问？](../questions/Q-6474.md)
+- [Q-6475 C++ 指针与引用在绑定、空值和生命周期上有什么区别？](../questions/Q-6475.md)
+- [Q-6476 C++ 异常如何传播并触发栈展开，如何保证资源与状态正确？](../questions/Q-6476.md)
+- [Q-6477 C++ 迭代器类别如何约束算法操作与失效规则？](../questions/Q-6477.md)
+- [Q-6478 C/C++ inline 的语言含义与编译器内联优化有什么区别？](../questions/Q-6478.md)
+- [Q-6479 C++ 抽象类、纯虚函数与构造访问控制如何限制实例化？](../questions/Q-6479.md)
+- [Q-6480 C++ 构造、析构与特殊成员函数如何确定对象生命周期和复制行为？](../questions/Q-6480.md)
+- [Q-6481 为什么多态基类通常需要虚析构函数，构造函数却不能为虚函数？](../questions/Q-6481.md)
+- [Q-6483 模板、CRTP 与类型擦除如何取舍静态和动态多态？](../questions/Q-6483.md)
+- [Q-6544 整数与浮点计算为什么会溢出或下溢，应如何定位和控制？](../questions/Q-6544.md)
+- [Q-6676 如何访问 C++ vector 的倒数第二个元素并处理边界？](../questions/Q-6676.md)
+- [Q-6686 C++ emplace_back 与 push_back 的构造和转发行为有什么区别？](../questions/Q-6686.md)
+- [Q-6789 C++ 友元如何授予访问权限，有哪些作用域与关系边界？](../questions/Q-6789.md)
+- [Q-6790 C++ 成员函数模板如何声明、实例化并与类模板配合？](../questions/Q-6790.md)
+- [Q-6792 C++ 完整类型与不完整类型有什么区别？](../questions/Q-6792.md)
+- [Q-6954 C++ explicit 如何约束构造与类型转换？](../questions/Q-6954.md)
+- [Q-6955 C++ 模板的实例化、全特化与偏特化如何工作？](../questions/Q-6955.md)
+- [Q-6958 C++ 的 this 指针表示什么，在哪些成员上下文中可用？](../questions/Q-6958.md)
+- [Q-6960 C++20 协程的挂起与恢复如何工作，有栈和无栈协程有什么区别？](../questions/Q-6960.md)
+- [Q-6961 Go 空结构体 struct{} 有哪些用途和限制？](../questions/Q-6961.md)
+- [Q-6964 编译器可以怎样优化程序，如何验证优化保持语义且有效？](../questions/Q-6964.md)
+- [Q-6965 分析成员函数中 memset(this, 0, sizeof(*this)) 的行为与风险。](../questions/Q-6965.md)
 
 <a id="topic-4"></a>
 ## 前端与 Web
@@ -370,6 +468,9 @@
 - [Q-4264 浏览器渲染中的重排、重绘和合成分别是什么？](../questions/Q-4264.md)
 - [Q-4265 移动端页面有哪些样式适配方案，根元素尺寸如何确定？](../questions/Q-4265.md)
 - [Q-4267 多个请求因 Token 过期同时返回 401 时，如何避免并发刷新和重复重试？](../questions/Q-4267.md)
+- [Q-6027 JavaScript 声明提升与暂时性死区如何影响变量和函数访问？](../questions/Q-6027.md)
+- [Q-6028 Vue 的 reactive 与 ref 如何选择，解构和整体替换有什么影响？](../questions/Q-6028.md)
+- [Q-6029 Vue Composition API 的 setup 如何组织组件逻辑和输入输出？](../questions/Q-6029.md)
 
 <a id="topic-5"></a>
 ## 客户端与移动端
@@ -389,6 +490,13 @@
 - [Q-3913 Electron 的多窗口架构如何设计？](../questions/Q-3913.md)
 - [Q-3914 Electron 中 Main、Renderer 与 Worker 如何分工，并避免主进程卡顿？](../questions/Q-3914.md)
 - [Q-4258 客户端调用 AI 服务时网络断开，如何兼顾用户体验与服务端状态一致性？](../questions/Q-4258.md)
+- [Q-6601 如何定义产品场景中的低端设备？](../questions/Q-6601.md)
+- [Q-6912 Android Activity 的启动模式如何影响任务栈、实例复用与返回行为？](../questions/Q-6912.md)
+- [Q-6935 RecyclerView 的缓存如何复用 ViewHolder，与布局和绑定流程如何配合？](../questions/Q-6935.md)
+- [Q-6951 如何设计同时支持 Web、Android 与 iOS 的对话 App 原型？](../questions/Q-6951.md)
+- [Q-6953 Android 的 ApplicationContext 与 ActivityContext 有何区别，如何选择？](../questions/Q-6953.md)
+- [Q-6959 MVC、MVP 与 MVVM 如何划分界面状态、交互和业务职责？](../questions/Q-6959.md)
+- [Q-6962 MFC 如何把 Windows 消息映射到对象的处理函数？](../questions/Q-6962.md)
 
 <a id="topic-6"></a>
 ## 操作系统与 Linux
@@ -450,6 +558,29 @@
 - [Q-4051 iptables 的基本原理是什么？](../questions/Q-4051.md)
 - [Q-4119 操作系统创建线程时会经历哪些状态和关键步骤？](../questions/Q-4119.md)
 - [Q-4124 主机突然断电时日志会不会丢失，取决于哪些因素？](../questions/Q-4124.md)
+- [Q-4876 如何监测多机训练时的服务器网络收发速率？](../questions/Q-4876.md)
+- [Q-6170 mmap 如何映射文件或共享内存，有哪些适用条件与生命周期边界？](../questions/Q-6170.md)
+- [Q-6171 writev 如何聚合多个缓冲区，使用时怎样处理部分写入？](../questions/Q-6171.md)
+- [Q-6458 本地程序的代码、静态数据、堆与栈如何组织？](../questions/Q-6458.md)
+- [Q-6536 Linux 进程有哪些状态，阻塞、停止与僵尸状态如何区分？](../questions/Q-6536.md)
+- [Q-6537 Linux 与 Windows 在系统接口、资源和开发运行环境上有哪些差异？](../questions/Q-6537.md)
+- [Q-6538 服务器主机 IP 与 BMC 管理接口分别用于什么？](../questions/Q-6538.md)
+- [Q-6539 Linux 如何按名称、类型、时间和权限查找文件并组织后续处理？](../questions/Q-6539.md)
+- [Q-6540 Linux 如何查看文件尾部并持续跟踪日志变化？](../questions/Q-6540.md)
+- [Q-6541 Linux 硬链接与符号链接如何关联路径和文件？](../questions/Q-6541.md)
+- [Q-6542 缓存、RAM 与持久存储在计算机中分别承担什么职责和访问代价？](../questions/Q-6542.md)
+- [Q-6543 Linux 用户、文件权限与访问控制如何设置和验证？](../questions/Q-6543.md)
+- [Q-6545 Linux LVM 如何组织物理卷、卷组与逻辑卷，有哪些扩容和恢复边界？](../questions/Q-6545.md)
+- [Q-6546 Linux 报 No space left on device 时，如何区分容量、inode 与配额问题？](../questions/Q-6546.md)
+- [Q-6547 Linux 服务器之间如何选择并验证文件传输方式？](../questions/Q-6547.md)
+- [Q-6568 热插拔与冷启动分别描述什么，有哪些系统条件？](../questions/Q-6568.md)
+- [Q-6577 Linux 如何核对端口监听、占用与可达性并管理服务连接？](../questions/Q-6577.md)
+- [Q-6905 CPU Cache 如何用缓存行、映射与替换策略组织数据？](../questions/Q-6905.md)
+- [Q-6913 Linux 的 /proc 提供什么信息，如何理解进程与内核状态视图？](../questions/Q-6913.md)
+- [Q-6916 CPU 中常见寄存器有哪些职责，与内存如何配合？](../questions/Q-6916.md)
+- [Q-6917 CPU 如何取指、译码并执行一条 Load 等指令？](../questions/Q-6917.md)
+- [Q-6918 Linux 如何通过信号终止进程，kill 后仍未退出时如何排查？](../questions/Q-6918.md)
+- [Q-6921 什么是零拷贝，如何判断数据路径实际减少了哪些复制？](../questions/Q-6921.md)
 
 <a id="topic-7"></a>
 ## 并发与异步编程
@@ -595,6 +726,20 @@
 - [Q-4366 Python 的 Lock 与 RLock 有什么区别？](../questions/Q-4366.md)
 - [Q-4367 信号量在底层如何实现？](../questions/Q-4367.md)
 - [Q-4377 基于互斥锁实现读写锁。](../questions/Q-4377.md)
+- [Q-4786 异步任务队列框架 Celery、RQ 与 Dramatiq 应如何选择？](../questions/Q-4786.md)
+- [Q-5061 实现具有并发上限、抖动重试和错误隔离的异步 LLM 文档批处理器。](../questions/Q-5061.md)
+- [Q-6186 如何设计降低锁竞争的 Java 任务调度器？](../questions/Q-6186.md)
+- [Q-6312 速率令牌、并发许可与协程分别控制什么，配额应如何绑定资源？](../questions/Q-6312.md)
+- [Q-6482 C++ 线程、互斥锁、条件变量与原子操作如何协作管理推理队列？](../questions/Q-6482.md)
+- [Q-6524 Python 线程池、进程池与 asyncio 如何按工作负载选择？](../questions/Q-6524.md)
+- [Q-6548 select、poll、epoll 与 io_uring 如何组织 I/O 等待和完成？](../questions/Q-6548.md)
+- [Q-6549 Reactor 与 Proactor 如何划分事件通知和 I/O 操作的职责？](../questions/Q-6549.md)
+- [Q-6559 同步与异步调用如何影响等待、结果交付和错误处理？](../questions/Q-6559.md)
+- [Q-6560 串行、并发与并行执行有什么区别，如何判断加速条件？](../questions/Q-6560.md)
+- [Q-6800 如何检查协程数据加载代码中的生命周期风险？](../questions/Q-6800.md)
+- [Q-6936 编写使用悲观锁保护共享状态更新的示例。](../questions/Q-6936.md)
+- [Q-6937 无锁队列如何利用原子操作与内存序保证并发正确性？](../questions/Q-6937.md)
+- [Q-6938 实现支持高并发更新的计数器。](../questions/Q-6938.md)
 
 <a id="topic-8"></a>
 ## 网络与浏览器
@@ -679,6 +824,23 @@
 - [Q-4248 JSON-RPC 是什么，为什么属于 RPC？](../questions/Q-4248.md)
 - [Q-4315 TCP 拥塞控制与流量控制的目标和实现有什么区别？](../questions/Q-4315.md)
 - [Q-4349 输入联想与输入完成后点击搜索，在技术实现上有什么区别？](../questions/Q-4349.md)
+- [Q-5768 图像的 Base64 编码如何工作，有哪些传输与存储取舍？](../questions/Q-5768.md)
+- [Q-6466 socket 如何提供网络通信端点，与本地进程通信如何比较？](../questions/Q-6466.md)
+- [Q-6528 Clash 类代理客户端中 GUI、规则内核与远端节点分别承担什么职责？](../questions/Q-6528.md)
+- [Q-6529 系统代理与 TUN 如何接管流量，有哪些覆盖和路由差异？](../questions/Q-6529.md)
+- [Q-6530 HTTP 代理、CONNECT 与 SOCKS5 如何转发流量，TLS 在哪里终止？](../questions/Q-6530.md)
+- [Q-6531 规则代理中的 DNS、fake-IP 与连接路由如何协作？](../questions/Q-6531.md)
+- [Q-6532 规则、代理组与远端节点如何决定连接去向？](../questions/Q-6532.md)
+- [Q-6533 本地代理连接失败时，如何按层定位接管、解析和转发故障？](../questions/Q-6533.md)
+- [Q-6535 正向代理、反向代理、VPN、NAT 与 SSH 隧道分别改变哪一段通信？](../questions/Q-6535.md)
+- [Q-6565 字符编码、二进制到文本编码与加密分别解决什么问题？](../questions/Q-6565.md)
+- [Q-6567 两个服务互相调用时，监听地址、目标地址与端口如何配置？](../questions/Q-6567.md)
+- [Q-6573 服务器网络不可用时，如何沿地址、路由、DNS、端口和应用分层诊断？](../questions/Q-6573.md)
+- [Q-6574 HTTP 与 SSH 的用途、协议层次和连接语义有何区别？](../questions/Q-6574.md)
+- [Q-6575 带宽、吞吐、时延及上下行限制如何共同影响传输速度？](../questions/Q-6575.md)
+- [Q-6657 HTTP Keep-Alive 与连接池是什么关系？](../questions/Q-6657.md)
+- [Q-6922 PCIe 协议各层负责什么，数据如何跨层传递？](../questions/Q-6922.md)
+- [Q-6923 交换机与路由器在地址、转发和网络边界上有什么区别？](../questions/Q-6923.md)
 
 <a id="topic-9"></a>
 ## 数据库与 SQL
@@ -822,6 +984,22 @@
 - [Q-4333 主从复制滞后且 binlog 部分丢失后，如何评估恢复最终一致性且不回滚用户可见状态的方案？](../questions/Q-4333.md)
 - [Q-4432 SQL SELECT 语句的基本结构是什么，如何使用？](../questions/Q-4432.md)
 - [Q-4433 SQL 中 ON 与 WHERE 有什么区别？](../questions/Q-4433.md)
+- [Q-5200 PostgreSQL 全文检索如何实现，tsvector、tsquery 和 GIN 各起什么作用？](../questions/Q-5200.md)
+- [Q-5201 PostgreSQL 中文全文检索应如何处理分词？](../questions/Q-5201.md)
+- [Q-5202 PostgreSQL 的 ts_rank 与 ts_rank_cd 如何对全文检索候选排序？](../questions/Q-5202.md)
+- [Q-6044 常见数据库类型如何按数据模型与查询负载区分和选型？](../questions/Q-6044.md)
+- [Q-6495 Python 如何使用数据库驱动与 Pandas 组织 SQL 读写？](../questions/Q-6495.md)
+- [Q-6550 数据库、DBMS 与数据库系统分别指什么？](../questions/Q-6550.md)
+- [Q-6552 数据库如何用副本、备份和恢复机制保障可用性与数据完整？](../questions/Q-6552.md)
+- [Q-6553 数据库范式与反范式如何按一致性和查询负载取舍？](../questions/Q-6553.md)
+- [Q-6554 WAL、检查点与日志回放如何协作完成数据库恢复？](../questions/Q-6554.md)
+- [Q-6927 MySQL INSERT ON DUPLICATE KEY UPDATE 如何处理插入冲突？](../questions/Q-6927.md)
+- [Q-6928 如何用 SQL 完成基本增删改查并校验操作范围？](../questions/Q-6928.md)
+- [Q-6929 数据库字段变更如何兼容已有数据和新旧应用？](../questions/Q-6929.md)
+- [Q-6930 Elasticsearch 海量日志检索如何定位瓶颈并调整分片与 Segment 合并？](../questions/Q-6930.md)
+- [Q-6931 用窗口函数查询用户 7 日留存率。](../questions/Q-6931.md)
+- [Q-6932 如何设计表示多站区间座位占用的火车票库存表？](../questions/Q-6932.md)
+- [Q-6948 任务状态存储与在线查询存储何时拆分，如何保持数据同步？](../questions/Q-6948.md)
 
 <a id="topic-10"></a>
 ## Redis 与缓存
@@ -925,6 +1103,12 @@
 - [Q-4313 Redis 字典如何处理哈希冲突和扩容，扩容会阻塞服务吗？](../questions/Q-4313.md)
 - [Q-4321 Redlock 算法如何工作，主要争议点是什么？](../questions/Q-4321.md)
 - [Q-4445 Redis 的过期删除策略是什么，与内存淘汰有什么区别？](../questions/Q-4445.md)
+- [Q-6041 LRU 缓存如何利用哈希表与双向链表维护最近使用顺序？](../questions/Q-6041.md)
+- [Q-6497 Python 如何连接 Redis 并完成可靠的基础读写？](../questions/Q-6497.md)
+- [Q-6638 Redis 哨兵模式如何监控故障并完成主从切换？](../questions/Q-6638.md)
+- [Q-6639 Redis 大 Key 会造成哪些问题，如何识别和治理？](../questions/Q-6639.md)
+- [Q-6933 Caffeine 与 Redis 如何组织缓存条目及其管理数据结构？](../questions/Q-6933.md)
+- [Q-6934 Redis 事务如何执行，多命令更新的原子性与失败边界是什么？](../questions/Q-6934.md)
 
 <a id="topic-11"></a>
 ## 消息队列与实时通信
@@ -1023,6 +1207,14 @@
 - [Q-4434 为什么 Kafka 同一消费者组内一个分区只能由一个消费者消费？](../questions/Q-4434.md)
 - [Q-4441 下游不受限时，如何改造消息队列链路提高吞吐？](../questions/Q-4441.md)
 - [Q-4442 远端 MQ 跨网络传输效率低时，如何从代码和架构优化？](../questions/Q-4442.md)
+- [Q-5062 实现能处理任意网络块边界的 LLM SSE 流解析器。](../questions/Q-5062.md)
+- [Q-5764 常见流媒体协议有什么区别，如何按视频接入条件选择？](../questions/Q-5764.md)
+- [Q-6578 长连接模型服务如何处理消息边界、心跳、重连与背压？](../questions/Q-6578.md)
+- [Q-6914 ROS 的 Topic、Service 与 Parameter 分别用于什么交互？](../questions/Q-6914.md)
+- [Q-6925 WebRTC 建连时 SDP、ICE、STUN 与 TURN 分别负责什么？](../questions/Q-6925.md)
+- [Q-6946 海量群聊如何划分子房间并路由跨分片消息？](../questions/Q-6946.md)
+- [Q-6957 ROS1 与 ROS2 在节点发现、通信及部署能力上有何区别？](../questions/Q-6957.md)
+- [Q-6966 流式数据应逐字符还是分块推送，如何权衡时延与开销？](../questions/Q-6966.md)
 
 <a id="topic-12"></a>
 ## 分布式系统与一致性
@@ -1099,6 +1291,9 @@
 - [Q-4384 使用 AI 编程工具实现一个断路器。](../questions/Q-4384.md)
 - [Q-4406 常见限流算法有哪些，各自原理是什么？](../questions/Q-4406.md)
 - [Q-4407 分布式限流如何实现？](../questions/Q-4407.md)
+- [Q-4881 什么是 P2P 点对点通信，它与中心化通信模式有何区别？](../questions/Q-4881.md)
+- [Q-5149 租约失效后为什么还需要 Fencing Token，如何防止旧 Worker 写回？](../questions/Q-5149.md)
+- [Q-6945 多人在线编辑同一内容时，如何处理并发修改并保证收敛？](../questions/Q-6945.md)
 
 <a id="topic-13"></a>
 ## 数据工程与数据处理
@@ -1212,6 +1407,19 @@
 - [Q-4259 如何设计高并发用户行为数据上报系统，减少丢失且不阻塞客户端？](../questions/Q-4259.md)
 - [Q-4291 系统如何接入并支持多种异构数据源？](../questions/Q-4291.md)
 - [Q-4327 常见实时计算框架适用什么场景，如何进行技术选型？](../questions/Q-4327.md)
+- [Q-5521 数据处理任务从千条扩展到百万级时，架构应如何演进？](../questions/Q-5521.md)
+- [Q-5765 如何使用视频处理工具接入、解码和读取视频流？](../questions/Q-5765.md)
+- [Q-5766 H.264 与 H.265 视频编码有什么区别？](../questions/Q-5766.md)
+- [Q-5767 YUV 类亮度色度表示如何组织图像，有什么优势与边界？](../questions/Q-5767.md)
+- [Q-6487 Python 图像库如何处理透明度、颜色通道与数组格式转换？](../questions/Q-6487.md)
+- [Q-6491 Python 如何读取、编辑与导出 SVG，并核对渲染结果？](../questions/Q-6491.md)
+- [Q-6492 Python 如何读取 PSD 的图层与合成图，导出时有哪些保真限制？](../questions/Q-6492.md)
+- [Q-6493 Python 如何读写 GLB 与 OBJ 三维资源并核对几何、材质和坐标？](../questions/Q-6493.md)
+- [Q-6844 MinHash 如何估计集合相似度，怎样结合分桶寻找近重复候选？](../questions/Q-6844.md)
+- [Q-6876 倒排列表与 BitSet 如何优化集合检索的 CPU 和内存开销？](../questions/Q-6876.md)
+- [Q-6899 如何设计离线与在线一致的 Feature Store？](../questions/Q-6899.md)
+- [Q-6940 MapReduce 如何把分布式数据处理分解为 Map、Shuffle 与 Reduce？](../questions/Q-6940.md)
+- [Q-6942 流式计算的滚动窗口与滑动窗口如何组织事件和结果更新？](../questions/Q-6942.md)
 
 <a id="topic-14"></a>
 ## 安全与认证
@@ -1281,6 +1489,15 @@
 - [Q-4253 恶意客户端绕过正常流程直接访问网关时，网关应如何防护？](../questions/Q-4253.md)
 - [Q-4316 分布式 Session 如何保持一致性，高并发下应如何选型？](../questions/Q-4316.md)
 - [Q-4350 微信扫码登录的完整流程和原理是什么？](../questions/Q-4350.md)
+- [Q-5528 本地保存配置和会话数据时，如何保护敏感信息？](../questions/Q-5528.md)
+- [Q-5575 污点分析如何建模并追踪不可信数据流？](../questions/Q-5575.md)
+- [Q-6516 Python eval 会执行什么，处理不可信表达式时有哪些边界？](../questions/Q-6516.md)
+- [Q-6534 使用代理后哪些参与方仍能看到流量信息，如何界定信任边界？](../questions/Q-6534.md)
+- [Q-6572 两台服务器如何通过 SSH 公钥认证建立连接并核对访问边界？](../questions/Q-6572.md)
+- [Q-6576 DoS 与 DDoS 如何耗尽服务资源，防护应如何按层设计？](../questions/Q-6576.md)
+- [Q-6621 如何根据游戏中的行为证据判断是否疑似外挂？](../questions/Q-6621.md)
+- [Q-6622 没有历史样本的新型欺诈，如何建立初始防御并迭代？](../questions/Q-6622.md)
+- [Q-6924 TLS 会话密钥材料或证书私钥泄漏后，影响范围如何判断和处置？](../questions/Q-6924.md)
 
 <a id="topic-15"></a>
 ## 测试工程与质量保障
@@ -1340,6 +1557,16 @@
 - [Q-4360 分支覆盖率如何统计，代码插桩如何实现？](../questions/Q-4360.md)
 - [Q-4363 单元测试中的 Mock 如何实现？](../questions/Q-4363.md)
 - [Q-4450 项目单元测试的覆盖率如何定义和衡量？](../questions/Q-4450.md)
+- [Q-5574 什么是 AST，如何用于代码分析和测试？](../questions/Q-5574.md)
+- [Q-6427 自动驾驶中的 V2X 通信应如何设计测试？](../questions/Q-6427.md)
+- [Q-6428 如何测试自动驾驶冗余系统的故障检测、切换与降级？](../questions/Q-6428.md)
+- [Q-6429 自动驾驶功能安全测试如何与适用标准和安全要求建立对应？](../questions/Q-6429.md)
+- [Q-6435 如何评估自动驾驶算法的兼容性、资源性能与工程质量？](../questions/Q-6435.md)
+- [Q-6617 如何验证智驾功能满足上线与量产条件？](../questions/Q-6617.md)
+- [Q-6624 如何判断自动驾驶法规与标准对研发落地的适用影响？](../questions/Q-6624.md)
+- [Q-6845 测试环境如何兼顾真实性、可控性与可复现性？](../questions/Q-6845.md)
+- [Q-6846 什么是数据回灌测试，如何用路采数据构建仿真回归场景？](../questions/Q-6846.md)
+- [Q-6849 如何设计自动驾驶算法的分层测试与回归框架？](../questions/Q-6849.md)
 
 <a id="topic-16"></a>
 ## 设计模式与代码质量
@@ -1365,6 +1592,10 @@
 - [Q-3220 双重检查锁的单例实现是否线程安全？](../questions/Q-3220.md)
 - [Q-4126 重构代码时如何保持与原有代码兼容？](../questions/Q-4126.md)
 - [Q-4329 如何划分技术债务重构的优先级？](../questions/Q-4329.md)
+- [Q-6339 算法编码中 Python、C++ 与 Java 如何处理类型、容器和数值边界？](../questions/Q-6339.md)
+- [Q-6499 AIGC 与 Agent 的 Python 项目如何划分模块、配置和测试边界？](../questions/Q-6499.md)
+- [Q-6837 项目中有哪些必要的代码注释和使用文档？](../questions/Q-6837.md)
+- [Q-6963 业务抛出异常时，如何保证必要的清理操作仍被执行？](../questions/Q-6963.md)
 
 <a id="topic-17"></a>
 ## 开发工具与工程实践
@@ -1412,6 +1643,14 @@
 - [Q-3341 为什么使用 pnpm workspace？](../questions/Q-3341.md)
 - [Q-4125 如何确保日志按计划清理，并验证清理任务可靠执行？](../questions/Q-4125.md)
 - [Q-4266 Vite 与 Webpack 有什么区别，为什么 Vite 生产构建通常使用 Rollup？](../questions/Q-4266.md)
+- [Q-5748 Jenkins 在持续集成与交付流水线中承担什么职责？](../questions/Q-5748.md)
+- [Q-5778 mpirun 如何启动和管理多进程分布式程序？](../questions/Q-5778.md)
+- [Q-6181 你如何调试代码，怎样用打印、断点和最小复现验证故障假设？](../questions/Q-6181.md)
+- [Q-6556 AI 工程中的模型、数据与媒体文件格式如何按用途选择？](../questions/Q-6556.md)
+- [Q-6561 AI 服务启动脚本如何组织环境、进程和退出状态？](../questions/Q-6561.md)
+- [Q-6562 如何在已有改动的 Git 工作区安全切换分支并核对目标状态？](../questions/Q-6562.md)
+- [Q-6570 SOP 如何把重复工作转为可执行、可检查和可维护的流程？](../questions/Q-6570.md)
+- [Q-6668 Git merge 与 rebase 如何改变提交历史，团队中应怎样选择？](../questions/Q-6668.md)
 
 <a id="topic-18"></a>
 ## 容器、云原生与工程交付
@@ -1451,6 +1690,24 @@
 - [Q-4324 灰度发布有哪些常见策略，如何选择？](../questions/Q-4324.md)
 - [Q-4328 云原生监控体系应覆盖哪些层面，如何选择搭建工具？](../questions/Q-4328.md)
 - [Q-4336 Kubernetes 节点资源充足但 Pod 一直 Pending 时，应如何排查？](../questions/Q-4336.md)
+- [Q-5594 Kubernetes 的 Requests 与 Limits 如何影响调度和资源隔离？](../questions/Q-5594.md)
+- [Q-5595 Kubernetes Scheduler 的调度队列如何流转和重试？](../questions/Q-5595.md)
+- [Q-5598 Agent Task 是否适合建模为 Kubernetes CRD？](../questions/Q-5598.md)
+- [Q-6253 实现简单的 Gang Scheduler。](../questions/Q-6253.md)
+- [Q-6558 Docker Compose 如何组织多服务的配置、网络与生命周期？](../questions/Q-6558.md)
+- [Q-6563 Docker 容器如何访问 GPU 和宿主设备？](../questions/Q-6563.md)
+- [Q-6564 Docker 中如何访问摄像头并显示采集画面？](../questions/Q-6564.md)
+- [Q-6566 Docker 数据目录如何迁移，并验证镜像、容器和卷仍可用？](../questions/Q-6566.md)
+- [Q-6569 Dockerfile 的 CMD 与 ENTRYPOINT 如何共同决定容器启动命令？](../questions/Q-6569.md)
+- [Q-6908 Kubernetes 如何发现、分配并隔离 GPU 设备资源？](../questions/Q-6908.md)
+- [Q-6911 如何用 Kubernetes CRD 与 Operator 管理业务资源生命周期？](../questions/Q-6911.md)
+- [Q-6915 Linux Namespace 如何隔离进程看到的系统资源？](../questions/Q-6915.md)
+- [Q-6919 Kubernetes emptyDir 与 hostPath 的数据生命周期和节点迁移边界有什么区别？](../questions/Q-6919.md)
+- [Q-6920 Kubernetes CRI 与容器运行时是什么关系，如何理解运行时替换？](../questions/Q-6920.md)
+- [Q-6939 Kubernetes 的 PV 与 PVC 如何满足应用持久化需求？](../questions/Q-6939.md)
+- [Q-6941 云基础设施服务提供哪些能力，如何比较其技术演进与厂商方案？](../questions/Q-6941.md)
+- [Q-6943 Kubernetes 控制器如何通过 Informer 与协调循环收敛到期望状态？](../questions/Q-6943.md)
+- [Q-6944 Kubernetes Service 与 kube-proxy 如何把流量送到后端实例？](../questions/Q-6944.md)
 
 <a id="topic-19"></a>
 ## 性能与容量工程
@@ -1484,6 +1741,15 @@
 - [Q-4323 系统容量评估应考虑哪些因素？](../questions/Q-4323.md)
 - [Q-4335 订单查询调用 8 个服务且各访问一次 Redis，如何实现至少 50% 的链路优化？](../questions/Q-4335.md)
 - [Q-4438 设计单机每秒一百万次访问的自增计数接口。](../questions/Q-4438.md)
+- [Q-6311 如何设计分布式训练集群的指标采集、聚合与分析链路？](../questions/Q-6311.md)
+- [Q-6473 如何联合调试器、内存检测与性能剖析定位本地服务问题？](../questions/Q-6473.md)
+- [Q-6527 对象池、连接池与模型池如何管理容量、复用和生命周期？](../questions/Q-6527.md)
+- [Q-6680 大量字符串拼接有哪些实现方式，如何分析时间与分配成本？](../questions/Q-6680.md)
+- [Q-6885 CPU 的指令级、数据级与线程级并行有何区别？](../questions/Q-6885.md)
+- [Q-6888 循环展开为什么可能提速，又会带来哪些代价？](../questions/Q-6888.md)
+- [Q-6895 如何设计跨处理器架构兼容且可优化的计算算子？](../questions/Q-6895.md)
+- [Q-6907 CPU 流水线深度如何影响频率、吞吐与分支开销？](../questions/Q-6907.md)
+- [Q-6926 为什么网络服务与数据库能承受的连接规模不同，数据库连接成本在哪里？](../questions/Q-6926.md)
 
 <a id="topic-20"></a>
 ## 系统架构与业务设计
@@ -1633,3 +1899,10 @@
 - [Q-4338 游戏战斗力排行榜如何提供个人排名和前 100 名分数查询？](../questions/Q-4338.md)
 - [Q-4340 上万流量场景下的高并发系统应如何设计？](../questions/Q-4340.md)
 - [Q-4348 如何实现商品名称的实时模糊搜索与输入联想？](../questions/Q-4348.md)
+- [Q-5088 架构演进中如何判断一个中间组件是否应移除？](../questions/Q-5088.md)
+- [Q-5090 交易系统应直连支付渠道，还是通过统一支付抽象层接入？](../questions/Q-5090.md)
+- [Q-5497 如何设计附近地点检索服务？](../questions/Q-5497.md)
+- [Q-6613 如何设计结合规则与模型的实时金融风控体系？](../questions/Q-6613.md)
+- [Q-6620 需求不稳定时，如何联合优化商品入仓和仓库服务区域？](../questions/Q-6620.md)
+- [Q-6947 如何把超大文件可靠地分发到多地域的大规模服务器集群？](../questions/Q-6947.md)
+- [Q-6949 如何同时提供精确时间窗计数与可近似的全局、分区域 Top-K 热榜？](../questions/Q-6949.md)

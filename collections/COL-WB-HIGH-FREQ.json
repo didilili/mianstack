@@ -2,6 +2,13 @@
   "id": "COL-WB-HIGH-FREQ",
   "publisherId": "PUB-WB",
   "title": "八股集锦（高频问题）",
+  "coverage": [
+    "llm",
+    "rag",
+    "agent",
+    "ai_engineering",
+    "training"
+  ],
   "sourceUrl": "https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#PMYjdlz92oR1K3xhSfdchWkmn9b",
   "sourceKind": "curated_question_set",
   "access": "public",
