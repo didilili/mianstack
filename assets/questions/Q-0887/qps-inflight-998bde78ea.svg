@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="1180" viewBox="0 0 390 1180" role="img" aria-labelledby="title desc">
+<title id="title">相同QPS与不同请求持续时长下的在途并发</title><desc id="desc">假设在0到4秒的半开窗口内，于0、1、2、3秒各到达一次请求，两批都是4次请求和平均1QPS。A每次0.5秒，峰值在途1；B每次4秒，峰值在途4。3.6秒时A在途0，B在途4。流式首包到达不代表请求结束，槽位持续占用到结束。</desc>
+<style>text{font-family:"PingFang SC","Microsoft YaHei",Arial,sans-serif}</style>
+<rect width="390" height="1180" fill="#f5f7fb"/>
+<text x="20" y="39" font-size="25" fill="#26364c" font-weight="700">相同 QPS，不同在途数</text>
+<text x="20" y="72" font-size="17" fill="#26364c" font-weight="400">假设：4 秒内到达 4 次请求</text>
+<text x="20" y="100" font-size="16" fill="#26364c" font-weight="400">到达：0、1、2、3 秒 → 平均 1 QPS</text>
+<text x="20" y="125" font-size="15" fill="#596b82" font-weight="400">QPS 统计窗口：[0,4) 秒</text>
+<rect x="20" y="148" width="350" height="286" rx="12" fill="#fff" stroke="#dce3ed"/>
+<text x="36" y="180" font-size="21" fill="#26364c" font-weight="700">A · 每次持续 0.5 秒</text>
+<text x="36" y="210" font-size="17" fill="#208676" font-weight="600">峰值在途：1</text>
+<text x="36" y="252" font-size="15" fill="#596b82" font-weight="400">R1</text>
+<line x1="76" y1="243" x2="342" y2="243" stroke="#e1e7ef"/>
+<rect x="76" y="234" width="19.0" height="18" rx="4" fill="#208676" stroke="#208676"/>
+<text x="36" y="289" font-size="15" fill="#596b82" font-weight="400">R2</text>
+<line x1="76" y1="280" x2="342" y2="280" stroke="#e1e7ef"/>
+<rect x="114" y="271" width="19.0" height="18" rx="4" fill="#208676" stroke="#208676"/>
+<text x="36" y="326" font-size="15" fill="#596b82" font-weight="400">R3</text>
+<line x1="76" y1="317" x2="342" y2="317" stroke="#e1e7ef"/>
+<rect x="152" y="308" width="19.0" height="18" rx="4" fill="#208676" stroke="#208676"/>
+<text x="36" y="363" font-size="15" fill="#596b82" font-weight="400">R4</text>
+<line x1="76" y1="354" x2="342" y2="354" stroke="#e1e7ef"/>
+<rect x="190" y="345" width="19.0" height="18" rx="4" fill="#208676" stroke="#208676"/>
+<line x1="212.8" y1="226" x2="212.8" y2="376" stroke="#d98717" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="252" y="210" font-size="14" fill="#a76611">t = 3.6 秒</text>
+<line x1="76" y1="388" x2="342" y2="388" stroke="#9aa9bd"/>
+<line x1="212.8" y1="226" x2="212.8" y2="376" stroke="#d98717" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="252" y="210" font-size="14" fill="#a76611">t = 3.6 秒</text>
+<line x1="76" y1="388" x2="76" y2="393" stroke="#9aa9bd"/>
+<text x="76" y="412" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">0</text>
+<line x1="114" y1="388" x2="114" y2="393" stroke="#9aa9bd"/>
+<text x="114" y="412" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">1</text>
+<line x1="152" y1="388" x2="152" y2="393" stroke="#9aa9bd"/>
+<text x="152" y="412" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">2</text>
+<line x1="190" y1="388" x2="190" y2="393" stroke="#9aa9bd"/>
+<text x="190" y="412" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">3</text>
+<line x1="228" y1="388" x2="228" y2="393" stroke="#9aa9bd"/>
+<text x="228" y="412" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">4</text>
+<line x1="266" y1="388" x2="266" y2="393" stroke="#9aa9bd"/>
+<text x="266" y="412" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">5</text>
+<line x1="304" y1="388" x2="304" y2="393" stroke="#9aa9bd"/>
+<text x="304" y="412" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">6</text>
+<line x1="342" y1="388" x2="342" y2="393" stroke="#9aa9bd"/>
+<text x="342" y="412" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">7</text>
+<text x="36" y="412" font-size="14" fill="#596b82" font-weight="400">秒</text>
+<rect x="20" y="454" width="350" height="286" rx="12" fill="#fff" stroke="#dce3ed"/>
+<text x="36" y="486" font-size="21" fill="#26364c" font-weight="700">B · 每次持续 4 秒</text>
+<text x="36" y="516" font-size="17" fill="#315cc5" font-weight="600">峰值在途：4</text>
+<text x="36" y="558" font-size="15" fill="#596b82" font-weight="400">R1</text>
+<line x1="76" y1="549" x2="342" y2="549" stroke="#e1e7ef"/>
+<rect x="76" y="540" width="152" height="18" rx="4" fill="#315cc5" stroke="#315cc5"/>
+<text x="36" y="595" font-size="15" fill="#596b82" font-weight="400">R2</text>
+<line x1="76" y1="586" x2="342" y2="586" stroke="#e1e7ef"/>
+<rect x="114" y="577" width="152" height="18" rx="4" fill="#315cc5" stroke="#315cc5"/>
+<text x="36" y="632" font-size="15" fill="#596b82" font-weight="400">R3</text>
+<line x1="76" y1="623" x2="342" y2="623" stroke="#e1e7ef"/>
+<rect x="152" y="614" width="152" height="18" rx="4" fill="#315cc5" stroke="#315cc5"/>
+<text x="36" y="669" font-size="15" fill="#596b82" font-weight="400">R4</text>
+<line x1="76" y1="660" x2="342" y2="660" stroke="#e1e7ef"/>
+<rect x="190" y="651" width="152" height="18" rx="4" fill="#315cc5" stroke="#315cc5"/>
+<line x1="212.8" y1="532" x2="212.8" y2="682" stroke="#d98717" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="252" y="516" font-size="14" fill="#a76611">t = 3.6 秒</text>
+<line x1="76" y1="694" x2="342" y2="694" stroke="#9aa9bd"/>
+<line x1="212.8" y1="532" x2="212.8" y2="682" stroke="#d98717" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="252" y="516" font-size="14" fill="#a76611">t = 3.6 秒</text>
+<line x1="76" y1="694" x2="76" y2="699" stroke="#9aa9bd"/>
+<text x="76" y="718" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">0</text>
+<line x1="114" y1="694" x2="114" y2="699" stroke="#9aa9bd"/>
+<text x="114" y="718" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">1</text>
+<line x1="152" y1="694" x2="152" y2="699" stroke="#9aa9bd"/>
+<text x="152" y="718" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">2</text>
+<line x1="190" y1="694" x2="190" y2="699" stroke="#9aa9bd"/>
+<text x="190" y="718" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">3</text>
+<line x1="228" y1="694" x2="228" y2="699" stroke="#9aa9bd"/>
+<text x="228" y="718" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">4</text>
+<line x1="266" y1="694" x2="266" y2="699" stroke="#9aa9bd"/>
+<text x="266" y="718" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">5</text>
+<line x1="304" y1="694" x2="304" y2="699" stroke="#9aa9bd"/>
+<text x="304" y="718" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">6</text>
+<line x1="342" y1="694" x2="342" y2="699" stroke="#9aa9bd"/>
+<text x="342" y="718" font-size="14" fill="#596b82" font-weight="400" text-anchor="middle">7</text>
+<text x="36" y="718" font-size="14" fill="#596b82" font-weight="400">秒</text>
+<rect x="20" y="760" width="350" height="156" rx="12" fill="#fff" stroke="#dce3ed"/>
+<text x="36" y="793" font-size="21" fill="#26364c" font-weight="700">同看 t = 3.6 秒</text>
+<text x="36" y="838" font-size="17" fill="#208676" font-weight="600">A：0 在途</text>
+<rect x="157" y="814" width="34" height="34" rx="7" fill="#fff" stroke="#c6d0dd"/>
+<rect x="201" y="814" width="34" height="34" rx="7" fill="#fff" stroke="#c6d0dd"/>
+<rect x="245" y="814" width="34" height="34" rx="7" fill="#fff" stroke="#c6d0dd"/>
+<rect x="289" y="814" width="34" height="34" rx="7" fill="#fff" stroke="#c6d0dd"/>
+<text x="36" y="887" font-size="17" fill="#315cc5" font-weight="600">B：4 在途</text>
+<rect x="157" y="863" width="34" height="34" rx="7" fill="#315cc5" stroke="#315cc5"/>
+<rect x="201" y="863" width="34" height="34" rx="7" fill="#315cc5" stroke="#315cc5"/>
+<rect x="245" y="863" width="34" height="34" rx="7" fill="#315cc5" stroke="#315cc5"/>
+<rect x="289" y="863" width="34" height="34" rx="7" fill="#315cc5" stroke="#315cc5"/>
+<rect x="20" y="936" width="350" height="188" rx="12" fill="#fff6e9" stroke="#efd6af"/>
+<text x="36" y="970" font-size="21" fill="#26364c" font-weight="700">流式首包不是完成</text>
+<text x="43" y="1001" font-size="15" fill="#26364c" font-weight="400">开始</text>
+<text x="150" y="1001" font-size="15" fill="#26364c" font-weight="400" text-anchor="middle">首包</text>
+<text x="337" y="1001" font-size="15" fill="#26364c" font-weight="400" text-anchor="end">结束</text>
+<line x1="44" y1="1022" x2="336" y2="1022" stroke="#315cc5" stroke-width="8" stroke-linecap="round"/>
+<circle cx="150" cy="1022" r="8" fill="#d98717" stroke="#fff6e9" stroke-width="3"/>
+<text x="36" y="1061" font-size="17" fill="#26364c" font-weight="400">开始到结束，都占在途槽位</text>
+<text x="36" y="1093" font-size="16" fill="#596b82" font-weight="400">完成或取消后，按实际状态释放</text>
+<text x="20" y="1156" font-size="15" fill="#596b82" font-weight="400">假设仅说明并发，不代表实测吞吐。</text>
+</svg>

@@ -23,22 +23,22 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 ## Prompt 与结构化输出
 
 - [Q-0045 简历评分结果如何结构化输出？](../questions/Q-0045.md)
-- [Q-0269 Few-shot 为什么可能降低效果，示例应如何选择和排列？](../questions/Q-0269.md)
-- [Q-0286 Prompt 有哪些优化手段？](../questions/Q-0286.md)
-- [Q-0290 Prompt 常见结构有哪些？](../questions/Q-0290.md)
+- [Q-0269 Few-shot 为什么可能降低效果，示例应如何选择和排列？](../questions/Q-0269.md) · **已有答案**
+- [Q-0286 Prompt 有哪些优化手段？](../questions/Q-0286.md) · **已有答案**
+- [Q-0290 Prompt 常见结构有哪些？](../questions/Q-0290.md) · **已有答案**
 - [Q-0566 为智能导购 Agent 编写意图识别 Prompt。](../questions/Q-0566.md)
 - [Q-0848 如何设计提示词让 AI 介绍产品卖点？](../questions/Q-0848.md)
-- [Q-0854 系统提示词与用户提示词如何分工、组织和拼接？](../questions/Q-0854.md)
+- [Q-0854 系统提示词与用户提示词如何分工、组织和拼接？](../questions/Q-0854.md) · **已有答案**
 - [Q-0880 Prompt 模板如何管理，更新是否有版本机制？](../questions/Q-0880.md)
-- [Q-0916 如何保证大模型输出符合指定 JSON 格式？](../questions/Q-0916.md)
-- [Q-0917 模型 API 的结构化输出如何保证结果符合 JSON Schema？](../questions/Q-0917.md)
+- [Q-0916 如何保证大模型输出符合指定 JSON 格式？](../questions/Q-0916.md) · **已有答案**
+- [Q-0917 模型 API 的结构化输出如何保证结果符合 JSON Schema？](../questions/Q-0917.md) · **已有答案**
 - [Q-1281 流式响应如何解析 JSON，协议层需要考虑什么？](../questions/Q-1281.md)
 - [Q-1386 Dify 分类器节点和 Prompt 调优如何工作？](../questions/Q-1386.md)
 - [Q-2112 提示词自动调优的核心思想是什么？](../questions/Q-2112.md)
 - [Q-2340 Few-shot 是什么？](../questions/Q-2340.md)
 - [Q-2359 项目 System Prompt 如何调优？](../questions/Q-2359.md)
 - [Q-2693 动态 Prompt 与静态 Prompt 有什么区别，如何在项目中选择？](../questions/Q-2693.md)
-- [Q-2717 思维链 CoT 的作用是什么？](../questions/Q-2717.md)
+- [Q-2717 思维链 CoT 的作用是什么？](../questions/Q-2717.md) · **已有答案**
 - [Q-2902 Prompt 自动推荐如何优化，压缩与 Embedding 表示是否有帮助？](../questions/Q-2902.md)
 - [Q-2987 不同车型的定制 Prompt 规模多大，如何维护？](../questions/Q-2987.md)
 - [Q-3004 为什么把 Skill 放在 System 层？](../questions/Q-3004.md)
@@ -50,7 +50,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3709 如何评价一个提示词的好坏？](../questions/Q-3709.md)
 - [Q-3710 提示词有哪些压缩方法，如何控制信息损失？](../questions/Q-3710.md)
 - [Q-3734 如何设计高质量 Prompt？如何评估 Prompt 优化是否有效？](../questions/Q-3734.md)
-- [Q-3735 上下文工程（Context Engineering）如何设计？](../questions/Q-3735.md)
+- [Q-3735 上下文工程（Context Engineering）如何设计？](../questions/Q-3735.md) · **已有答案**
 - [Q-3736 如何设计结构化上下文（如 JSON ／ slot）以提升稳定性？](../questions/Q-3736.md)
 - [Q-3737 System Prompt 和 User Prompt 的职责边界如何划分？混用会带来什么问题？](../questions/Q-3737.md)
 - [Q-3738 如何设计多角色对话（System ／ User ／ Assistant ／ Tool）的消息结构？](../questions/Q-3738.md)
@@ -175,37 +175,37 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 ## 评测体系与实验设计
 
 - [Q-0046 简历评分应该从哪些维度进行？](../questions/Q-0046.md)
-- [Q-0056 如何量化评估 Agent 输出质量或任务成功率？](../questions/Q-0056.md)
+- [Q-0056 如何量化评估 Agent 输出质量或任务成功率？](../questions/Q-0056.md) · **已有答案**
 - [Q-0080 GDPval 评测链路在项目中如何实现？](../questions/Q-0080.md)
-- [Q-0150 AI 如何从需求或用例生成正确的接口测试脚本，并评估生成效果？](../questions/Q-0150.md)
-- [Q-0152 如何搭建 UI 自动化框架，AI Coding 解决了哪些问题？](../questions/Q-0152.md)
-- [Q-0270 调用外部工具的 Agent 如何建立可复现评测？](../questions/Q-0270.md)
-- [Q-0331 如何构建能够定位 Agent 能力退化原因的评测数据？](../questions/Q-0331.md)
-- [Q-0350 多 Agent 系统如何分层验证功能正确性和反幻觉能力？](../questions/Q-0350.md)
-- [Q-0373 简历中的效果指标是如何测量出来的？](../questions/Q-0373.md)
-- [Q-0471 如何构建评测题目和真值？](../questions/Q-0471.md)
+- [Q-0150 AI 如何从需求或用例生成正确的接口测试脚本，并评估生成效果？](../questions/Q-0150.md) · **已有答案**
+- [Q-0152 如何搭建 UI 自动化框架，AI Coding 解决了哪些问题？](../questions/Q-0152.md) · **已有答案**
+- [Q-0270 调用外部工具的 Agent 如何建立可复现评测？](../questions/Q-0270.md) · **已有答案**
+- [Q-0331 如何构建能够定位 Agent 能力退化原因的评测数据？](../questions/Q-0331.md) · **已有答案**
+- [Q-0350 多 Agent 系统如何分层验证功能正确性和反幻觉能力？](../questions/Q-0350.md) · **已有答案**
+- [Q-0373 简历中的效果指标是如何测量出来的？](../questions/Q-0373.md) · **已有答案**
+- [Q-0471 如何构建评测题目和真值？](../questions/Q-0471.md) · **已有答案**
 - [Q-0472 研究过哪些行业通用或开源评测基准？](../questions/Q-0472.md)
 - [Q-0473 如何调研评测集生成与更新维护，最快交付什么成果？](../questions/Q-0473.md)
 - [Q-0474 如何从海量线上日志构建有限评测集，随机抽样有什么不足？](../questions/Q-0474.md)
 - [Q-0475 没有真值时能否直接为线上案例打分和观察效果？](../questions/Q-0475.md)
 - [Q-0583 开发 MCP 工具后如何评测效果并迭代？](../questions/Q-0583.md)
-- [Q-0652 如何为指定项目搭建测试 Agent，选择什么技术栈？](../questions/Q-0652.md)
-- [Q-0731 项目基线与最终效果如何，哪个改动对准确率提升最大？](../questions/Q-0731.md)
-- [Q-0755 AB 测试系统解决什么问题？](../questions/Q-0755.md)
+- [Q-0652 如何为指定项目搭建测试 Agent，选择什么技术栈？](../questions/Q-0652.md) · **已有答案**
+- [Q-0731 项目基线与最终效果如何，哪个改动对准确率提升最大？](../questions/Q-0731.md) · **已有答案**
+- [Q-0755 AB 测试系统解决什么问题？](../questions/Q-0755.md) · **已有答案**
 - [Q-0756 串行链路修改一个节点后，如何排除其他干扰并归因效果？](../questions/Q-0756.md)
 - [Q-0768 项目声称 500ms 同步延迟，如何测试？](../questions/Q-0768.md)
 - [Q-0811 多个评估指标冲突时，是否构建统一决策指标，如何设计？](../questions/Q-0811.md)
 - [Q-0858 视频成片质量如何评估，采用自动指标还是人工判断？](../questions/Q-0858.md)
-- [Q-0878 人工标注了多少条评测数据？](../questions/Q-0878.md)
+- [Q-0878 人工标注了多少条评测数据？](../questions/Q-0878.md) · **已有答案**
 - [Q-0889 故障诊断 Case 和标准答案如何制定并经领域专家验证，如何与真实值班流程一致？](../questions/Q-0889.md)
-- [Q-0901 如何离线评测 Skill 的效果，并预估上线指标变化？](../questions/Q-0901.md)
+- [Q-0901 如何离线评测 Skill 的效果，并预估上线指标变化？](../questions/Q-0901.md) · **已有答案**
 - [Q-0909 质量对比的考核标准是业务预先约定，还是实施中调整？](../questions/Q-0909.md)
 - [Q-0910 评估用例如何依托测试平台执行？](../questions/Q-0910.md)
 - [Q-1056 介绍你参与的团队端到端测试 Skill 的测试工作。](../questions/Q-1056.md)
 - [Q-1065 vLLM 驱动测试的输入、输出及测试流程如何设计？](../questions/Q-1065.md)
 - [Q-1113 AI 测试能力探索包括哪些方向？](../questions/Q-1113.md)
 - [Q-1114 需求生成用例的准确率是多少，如何提升？](../questions/Q-1114.md)
-- [Q-1117 如何评测大模型，有哪些基本测试思路？](../questions/Q-1117.md)
+- [Q-1117 如何评测大模型，有哪些基本测试思路？](../questions/Q-1117.md) · **已有答案**
 - [Q-1118 评测集如何生成、补充和完善？](../questions/Q-1118.md)
 - [Q-1225 在多大规模的评估集上评测，评估集如何获得？](../questions/Q-1225.md)
 - [Q-1242 为什么用同一模型生成和评测答案，评估时发现了哪些问题？](../questions/Q-1242.md)
@@ -241,12 +241,12 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-1731 准确率提升主要来自 SFT 还是后续 GRPO，如何区分贡献？](../questions/Q-1731.md)
 - [Q-1908 如何判断 Agent 执行路径与最终结论分别是否正确？](../questions/Q-1908.md)
 - [Q-1981 如何评估 Description 对代码定位的有效性？](../questions/Q-1981.md)
-- [Q-2008 项目 Benchmark 是怎样构建的，使用哪些指标？](../questions/Q-2008.md)
+- [Q-2008 项目 Benchmark 是怎样构建的，使用哪些指标？](../questions/Q-2008.md) · **已有答案**
 - [Q-2012 你了解哪些 Agent Benchmark？](../questions/Q-2012.md)
 - [Q-2013 如何从零构建一个缺陷修复 Benchmark？](../questions/Q-2013.md)
 - [Q-2014 SWE Benchmark 中有哪些评估指标？](../questions/Q-2014.md)
 - [Q-2020 Agent 轨迹如何验证，验证与不验证的路线有什么区别？](../questions/Q-2020.md)
-- [Q-2035 如何为 Agent 项目设计测试？](../questions/Q-2035.md)
+- [Q-2035 如何为 Agent 项目设计测试？](../questions/Q-2035.md) · **已有答案**
 - [Q-2054 能否用 AI 做自动化安全测试，实际落地会遇到什么问题？](../questions/Q-2054.md)
 - [Q-2087 如何同时保证 Agent 结果多样性与评估结果的稳定准确？](../questions/Q-2087.md)
 - [Q-2108 同一任务使用两套 Harness 结果差异大时如何定位责任模块，若都不好又如何改进？](../questions/Q-2108.md)
@@ -261,7 +261,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-2206 使用 Agent 或 LLM Judge 评测时，如何设计评测 Prompt？](../questions/Q-2206.md)
 - [Q-2207 面对一万个不同 Case，评测 Prompt 如何通用化？](../questions/Q-2207.md)
 - [Q-2208 ToC 每天上万条任务时，如何自动发现执行问题而不对每条任务额外运行一次模型？](../questions/Q-2208.md)
-- [Q-2265 如何搭建 Agent 评测体系，并让评测结果推动优化迭代？](../questions/Q-2265.md)
+- [Q-2265 如何搭建 Agent 评测体系，并让评测结果推动优化迭代？](../questions/Q-2265.md) · **已有答案**
 - [Q-2304 如何使用 AI 赋能自动化测试？](../questions/Q-2304.md)
 - [Q-2311 如何生成或组织 AI 测试报告？](../questions/Q-2311.md)
 - [Q-2457 QA Agent 如何验证最终效果？](../questions/Q-2457.md)
@@ -303,7 +303,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3793 Benchmark 过拟合问题（Benchmark contamination / Goodhart's Law）在 Agent eval 中如何规避？](../questions/Q-3793.md)
 - [Q-3800 使用 AI 生成评测数据时，如何保证数据集质量和覆盖度？](../questions/Q-3800.md)
 - [Q-3805 如何利用评测数据持续提升 Agent 的回答效果？](../questions/Q-3805.md)
-- [Q-3851 如何保证 AI Pipeline 各节点执行结果准确，并定位误差来源？](../questions/Q-3851.md)
+- [Q-3851 如何保证 AI Pipeline 各节点执行结果准确，并定位误差来源？](../questions/Q-3851.md) · **已有答案**
 - [Q-3883 如何为 Skill 构建回归评测集？](../questions/Q-3883.md)
 - [Q-3897 评测集规模如何确定，准确与不准确的判定标准是什么？](../questions/Q-3897.md)
 - [Q-3937 项目测试或评测使用了多少数据，数据规模如何确定？](../questions/Q-3937.md)
@@ -412,15 +412,15 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 
 - [Q-0023 生成教学内容时，如何识别语义问题和超纲内容？](../questions/Q-0023.md)
 - [Q-0024 生成内容出错时，如何选择机械修复或语义修复？](../questions/Q-0024.md)
-- [Q-0138 如何校验 Agent 产生的确定性结果？](../questions/Q-0138.md)
+- [Q-0138 如何校验 Agent 产生的确定性结果？](../questions/Q-0138.md) · **已有答案**
 - [Q-0139 Hooks 如何用于校验 Agent 的工作？](../questions/Q-0139.md)
-- [Q-0313 如何识别并治理大模型幻觉？](../questions/Q-0313.md)
+- [Q-0313 如何识别并治理大模型幻觉？](../questions/Q-0313.md) · **已有答案**
 - [Q-0400 除了 RAG，还有哪些减轻幻觉的方法？](../questions/Q-0400.md)
 - [Q-0708 Agent 执行中哪些环节可能产生幻觉？](../questions/Q-0708.md)
 - [Q-0709 除 Prompt 与 Reflection 外还有哪些降低幻觉的方法？](../questions/Q-0709.md)
-- [Q-0784 Critic 如何判断 Executor 输出合格，不通过后如何处理？](../questions/Q-0784.md)
+- [Q-0784 Critic 如何判断 Executor 输出合格，不通过后如何处理？](../questions/Q-0784.md) · **已有答案**
 - [Q-0860 如何保证音画同步、分辨率一致及字幕完整？](../questions/Q-0860.md)
-- [Q-0926 AI 生成的 SQL 不符合预期时如何处理？](../questions/Q-0926.md)
+- [Q-0926 AI 生成的 SQL 不符合预期时如何处理？](../questions/Q-0926.md) · **已有答案**
 - [Q-1259 如何保障 Skill 输出一致？](../questions/Q-1259.md)
 - [Q-1548 AI 论文写作痕迹太重如何改进？](../questions/Q-1548.md)
 - [Q-1720 人工如何进行评测问题归因，归因标准是什么？](../questions/Q-1720.md)
@@ -451,19 +451,19 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 <a id="topic-5"></a>
 ## 安全、权限与人工介入
 
-- [Q-0055 哪些任务适合交给 Agent 自动完成，怎样设置人工介入边界？](../questions/Q-0055.md)
-- [Q-0114 Harness 如何设计安全和权限边界？](../questions/Q-0114.md)
-- [Q-0132 内网数据存放在哪里，如何防止数据泄露？](../questions/Q-0132.md)
-- [Q-0271 Agent 如何抵御工具返回内容中的间接提示注入？](../questions/Q-0271.md)
+- [Q-0055 哪些任务适合交给 Agent 自动完成，怎样设置人工介入边界？](../questions/Q-0055.md) · **已有答案**
+- [Q-0114 Harness 如何设计安全和权限边界？](../questions/Q-0114.md) · **已有答案**
+- [Q-0132 内网数据存放在哪里，如何防止数据泄露？](../questions/Q-0132.md) · **已有答案**
+- [Q-0271 Agent 如何抵御工具返回内容中的间接提示注入？](../questions/Q-0271.md) · **已有答案**
 - [Q-0618 跨境汇款 Agent 超时或失败时，如何保证资金安全？](../questions/Q-0618.md)
-- [Q-0746 如何防止用户 Prompt 攻击？](../questions/Q-0746.md)
-- [Q-0772 如何防止 Agent 路径穿越或越权访问其他目录？](../questions/Q-0772.md)
+- [Q-0746 如何防止用户 Prompt 攻击？](../questions/Q-0746.md) · **已有答案**
+- [Q-0772 如何防止 Agent 路径穿越或越权访问其他目录？](../questions/Q-0772.md) · **已有答案**
 - [Q-0810 RPA 与 AI Agent 采集时遇到网站风控如何处理？](../questions/Q-0810.md)
 - [Q-0812 模型通过 @Tool 查库时，如何防止越权查询和隐私信息返回？](../questions/Q-0812.md)
 - [Q-0849 多轮上下文含脏数据并干扰提示词判断时如何兜底？](../questions/Q-0849.md)
 - [Q-0892 排障必须读取保密代码时，如何防止诱导泄露，同时保留深入归因能力？](../questions/Q-0892.md)
 - [Q-0893 用领域 SubAgent 读取敏感代码、外层 Agent 过滤或提取诊断规则，能否防止泄露？](../questions/Q-0893.md)
-- [Q-0932 如何保障 Agent 工具调用安全并对隐私数据脱敏？](../questions/Q-0932.md)
+- [Q-0932 如何保障 Agent 工具调用安全并对隐私数据脱敏？](../questions/Q-0932.md) · **已有答案**
 - [Q-0940 量化交易 Agent 的原系统有哪些风险，Agent 可能出现哪些异常？](../questions/Q-0940.md)
 - [Q-0943 量化 Agent 中 RWBNCT 六类权限 scope 分别是什么，落地了哪些？](../questions/Q-0943.md)
 - [Q-0944 如何对 Agent 下单限制交易标的和单笔金额？](../questions/Q-0944.md)
@@ -473,15 +473,15 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-1240 Agent 如何隔离不同任务？](../questions/Q-1240.md)
 - [Q-1375 提示词注入根因是什么，防御有哪些局限？](../questions/Q-1375.md)
 - [Q-1376 框架新增特殊标签后如何继续防御提示词注入？](../questions/Q-1376.md)
-- [Q-1634 Coding Agent 的沙箱机制如何工作？](../questions/Q-1634.md)
-- [Q-1644 如何在 Agent 系统中设计 Human-in-the-loop 人工介入能力？](../questions/Q-1644.md)
+- [Q-1634 Coding Agent 的沙箱机制如何工作？](../questions/Q-1634.md) · **已有答案**
+- [Q-1644 如何在 Agent 系统中设计 Human-in-the-loop 人工介入能力？](../questions/Q-1644.md) · **已有答案**
 - [Q-1652 兼容性测试工作流何时需要人工介入，有什么规范？](../questions/Q-1652.md)
 - [Q-1725 如何为云端 Agent 的输出设计安全校验方案？](../questions/Q-1725.md)
 - [Q-1801 使用 Skill 时如何防止向用户泄露业务数据和核心脚本？](../questions/Q-1801.md)
 - [Q-1812 发送邮件等写操作经用户确认后，如何保证执行内容和对象与确认时完全一致？](../questions/Q-1812.md)
 - [Q-1813 用户确认写操作后，是否应该再次调用大模型，为什么？](../questions/Q-1813.md)
 - [Q-1868 Agent 流程如何强制人工确认，由控制程序还是 Skill 文本保证？](../questions/Q-1868.md)
-- [Q-2067 Agent 沙箱工作区如何设计和实现？](../questions/Q-2067.md)
+- [Q-2067 Agent 沙箱工作区如何设计和实现？](../questions/Q-2067.md) · **已有答案**
 - [Q-2068 部署沙箱需要多少资源？](../questions/Q-2068.md)
 - [Q-2069 沙箱技术选型是怎样确定的，为什么选该方案？](../questions/Q-2069.md)
 - [Q-2071 任务启动时拉起一个沙箱需要多久？](../questions/Q-2071.md)
@@ -515,7 +515,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3788 如何记录 Agent 的决策链路以满足合规审计要求（可解释性）？](../questions/Q-3788.md)
 - [Q-3789 如何防止 Agent 被用于生成有害内容或被恶意用户滥用？](../questions/Q-3789.md)
 - [Q-3879 AI 应用中的路径遍历防护主要防范什么风险？](../questions/Q-3879.md)
-- [Q-3905 如何对有副作用的工具实施分级授权、两阶段提交和执行期零信任校验？](../questions/Q-3905.md)
+- [Q-3905 如何对有副作用的工具实施分级授权、两阶段提交和执行期零信任校验？](../questions/Q-3905.md) · **已有答案**
 - [Q-3936 如何通过风险分级和授权策略减少 Agent 的重复人工确认？](../questions/Q-3936.md)
 - [Q-3985 如何为 Agent 设置步数、时间、Token、工具调用和权限预算？](../questions/Q-3985.md)
 - [Q-4037 gVisor 是什么，如何用于 Agent Runtime 的沙箱隔离？](../questions/Q-4037.md)
@@ -576,7 +576,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 <a id="topic-6"></a>
 ## 可观测性、稳定性与故障诊断
 
-- [Q-0049 Agent 长任务耗时显著变长时，如何定位原因并优化？](../questions/Q-0049.md)
+- [Q-0049 Agent 长任务耗时显著变长时，如何定位原因并优化？](../questions/Q-0049.md) · **已有答案**
 - [Q-0059 Agent 效果不达预期时，如何分析 Bad Case 并确定优化方向？](../questions/Q-0059.md) · **已有答案**
 - [Q-0116 使用过哪些云上监控组件，它们分别观察什么？](../questions/Q-0116.md)
 - [Q-0133 数据过期后如何找回？](../questions/Q-0133.md)
@@ -585,12 +585,12 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-0187 用户反馈量有多少，负面反馈如何用于处理和改进数据集？](../questions/Q-0187.md)
 - [Q-0388 RAG 项目用户反馈了哪些不足？](../questions/Q-0388.md)
 - [Q-0445 生产敏感日志无法上传 AI 时，如何独立排查 BUG？](../questions/Q-0445.md)
-- [Q-0584 如何设计 Agent 的执行追踪、结构化日志和问题定位机制？](../questions/Q-0584.md)
-- [Q-0658 如何保障 Agent 系统稳定性？](../questions/Q-0658.md)
+- [Q-0584 如何设计 Agent 的执行追踪、结构化日志和问题定位机制？](../questions/Q-0584.md) · **已有答案**
+- [Q-0658 如何保障 Agent 系统稳定性？](../questions/Q-0658.md) · **已有答案**
 - [Q-0752 上线后用户激增导致故障，如何修复并改进上线前流程？](../questions/Q-0752.md)
 - [Q-0757 节点变更导致下游输出分化时如何排查？](../questions/Q-0757.md)
 - [Q-0993 日志分析的完整流程是什么？](../questions/Q-0993.md)
-- [Q-0994 系统出了问题但日志没有记录时，如何排查？](../questions/Q-0994.md)
+- [Q-0994 系统出了问题但日志没有记录时，如何排查？](../questions/Q-0994.md) · **已有答案**
 - [Q-1094 Trace 可回放是什么意思，能否指定本地 Trace 重新执行？](../questions/Q-1094.md)
 - [Q-1307 按 LogID 拉日志如何保证完整且足以定位问题？](../questions/Q-1307.md)
 - [Q-1453 了解 OpenTelemetry 吗？](../questions/Q-1453.md)
@@ -677,15 +677,15 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 <a id="topic-7"></a>
 ## 性能、时延与成本
 
-- [Q-0054 Agent 上线后延迟或吞吐不达标时，如何优化执行效率？](../questions/Q-0054.md)
+- [Q-0054 Agent 上线后延迟或吞吐不达标时，如何优化执行效率？](../questions/Q-0054.md) · **已有答案**
 - [Q-0362 多用户调用 API、任务增多导致卡死时如何设计系统？](../questions/Q-0362.md)
 - [Q-0824 模型 RPC 耗时长时，如何设计同步与异步链路？](../questions/Q-0824.md)
 - [Q-0859 如何把单个视频生成耗时从 30 分钟缩短至 5 分钟？](../questions/Q-0859.md)
-- [Q-0887 如何对 Agent 接口限流，并按轻重模型和成本实施差异化限流？](../questions/Q-0887.md)
+- [Q-0887 如何对 Agent 接口限流，并按轻重模型和成本实施差异化限流？](../questions/Q-0887.md) · **已有答案**
 - [Q-1053 用 LLM 替代关键词判断但成本很高时，如何取舍？](../questions/Q-1053.md)
 - [Q-1095 学习和开发使用 AI 工具投入多少时间和费用，成本如何解决？](../questions/Q-1095.md)
 - [Q-1217 公司是否提供大模型调用额度？](../questions/Q-1217.md)
-- [Q-1371 如何优化 Agent token 成本？](../questions/Q-1371.md)
+- [Q-1371 如何优化 Agent token 成本？](../questions/Q-1371.md) · **已有答案**
 - [Q-1408 飞书表格慢在模型还是数据导入，如何优化？](../questions/Q-1408.md)
 - [Q-1509 模型成本、人工成本和效果如何平衡？](../questions/Q-1509.md)
 - [Q-1554 查询慢如何向用户反馈？](../questions/Q-1554.md)
@@ -748,23 +748,23 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 ## 模型服务、部署与交付
 
 - [Q-0079 GUI Agent 或 Browser Use 在项目中如何部署？](../questions/Q-0079.md)
-- [Q-0107 项目如何从本地部署到云端并完成上线？](../questions/Q-0107.md)
+- [Q-0107 项目如何从本地部署到云端并完成上线？](../questions/Q-0107.md) · **已有答案**
 - [Q-0285 如何提升模型回答的性能？](../questions/Q-0285.md)
 - [Q-0448 Redis、RabbitMQ 在 Windows 和 Linux 如何部署并验证配置加载？](../questions/Q-0448.md)
 - [Q-0492 医疗器械内无法联网且不常更新时，如何部署 RAG 模型与系统？](../questions/Q-0492.md)
-- [Q-0504 如何使用 FastAPI 与 vLLM 提供模型服务？](../questions/Q-0504.md)
-- [Q-0510 如何解决大模型 API 服务响应延迟？](../questions/Q-0510.md)
+- [Q-0504 如何使用 FastAPI 与 vLLM 提供模型服务？](../questions/Q-0504.md) · **已有答案**
+- [Q-0510 如何解决大模型 API 服务响应延迟？](../questions/Q-0510.md) · **已有答案**
 - [Q-0611 为什么选择 vLLM，与其他推理方案相比如何？](../questions/Q-0611.md)
 - [Q-0742 原子切换版本时如何防止请求丢失和旧版本响应问题？](../questions/Q-0742.md)
 - [Q-0759 如何控制 Agent 自动上线的线上风险？](../questions/Q-0759.md)
 - [Q-1447 AI 模型在实际生产中的困难有哪些？](../questions/Q-1447.md)
-- [Q-1866 Agent 声称需求已完成且可以发布时，如何确认它做对了？](../questions/Q-1866.md)
+- [Q-1866 Agent 声称需求已完成且可以发布时，如何确认它做对了？](../questions/Q-1866.md) · **已有答案**
 - [Q-1867 灰度发布时，Agent 如何识别异常？](../questions/Q-1867.md)
-- [Q-1984 系统使用什么模型，是否自行部署？](../questions/Q-1984.md)
+- [Q-1984 系统使用什么模型，是否自行部署？](../questions/Q-1984.md) · **已有答案**
 - [Q-1987 系统完成后是否已经交付企业使用？](../questions/Q-1987.md)
 - [Q-2064 有限时间内如何拆分版本并交付可用 MVP？](../questions/Q-2064.md)
 - [Q-2101 Agent Runtime 是供他人访问的本地进程还是云端进程？](../questions/Q-2101.md)
-- [Q-2237 Agent 扩展为分布式架构时，如何覆盖大量设备和本地、云端执行？](../questions/Q-2237.md)
+- [Q-2237 Agent 扩展为分布式架构时，如何覆盖大量设备和本地、云端执行？](../questions/Q-2237.md) · **已有答案**
 - [Q-2306 算法如何工程化部署？](../questions/Q-2306.md)
 - [Q-2307 NFS 与 VPC 有什么区别？](../questions/Q-2307.md)
 - [Q-2418 修改线上接口返回字段时，如何灰度与发布？](../questions/Q-2418.md)
@@ -863,38 +863,38 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 ## AI Coding 与研发流程
 
 - [Q-0102 平时用过哪些 Coding Agent，如何介绍其中熟悉的工具？](../questions/Q-0102.md)
-- [Q-0203 SDD、TDD 在真实项目中如何落地？](../questions/Q-0203.md)
+- [Q-0203 SDD、TDD 在真实项目中如何落地？](../questions/Q-0203.md) · **已有答案**
 - [Q-0218 使用常用 Coding Agent 现场实现一个前端页面。](../questions/Q-0218.md)
-- [Q-0312 如何审查 AI 生成的代码？](../questions/Q-0312.md)
+- [Q-0312 如何审查 AI 生成的代码？](../questions/Q-0312.md) · **已有答案**
 - [Q-0375 现场使用 AI 修复项目 BUG，输出背景、根因、解决方案并汇报。](../questions/Q-0375.md)
-- [Q-0384 除 FastAPI 的 GET、POST 接口外，实现完整 Coding Agent 体系还需要哪些能力？](../questions/Q-0384.md)
+- [Q-0384 除 FastAPI 的 GET、POST 接口外，实现完整 Coding Agent 体系还需要哪些能力？](../questions/Q-0384.md) · **已有答案**
 - [Q-0430 使用 AI Coding 检测图片的 Alpha 通道。](../questions/Q-0430.md)
 - [Q-0437 常用 AI 编码工具有哪些使用限制和缺点？](../questions/Q-0437.md)
 - [Q-0439 如何提示 AI 设计数据库表，并检查和修改生成结构的缺陷？](../questions/Q-0439.md)
-- [Q-0440 重做项目时，如何选择 Agent、Plan 与规范驱动开发模式？](../questions/Q-0440.md)
-- [Q-0441 如何判断 AI 生成的设计文档合格，并以滑动窗口限流说明人工修改？](../questions/Q-0441.md)
+- [Q-0440 重做项目时，如何选择 Agent、Plan 与规范驱动开发模式？](../questions/Q-0440.md) · **已有答案**
+- [Q-0441 如何判断 AI 生成的设计文档合格，并以滑动窗口限流说明人工修改？](../questions/Q-0441.md) · **已有答案**
 - [Q-0443 是否使用 AI 绘制流程图、时序图，遇到哪些问题？](../questions/Q-0443.md)
 - [Q-0444 AI 生成代码不符合预期时，如何通过 Git 回退版本？](../questions/Q-0444.md)
-- [Q-0483 AI 生成代码不符合预期时如何改进并提效？](../questions/Q-0483.md)
+- [Q-0483 AI 生成代码不符合预期时如何改进并提效？](../questions/Q-0483.md) · **已有答案**
 - [Q-0496 如何评估 AI Coding 的效果？](../questions/Q-0496.md)
 - [Q-0530 AI 技术快速迭代时如何兼顾团队技术栈稳定性与前瞻性？](../questions/Q-0530.md)
-- [Q-0554 在指定 AI 编程平台根据现场需求实现项目。](../questions/Q-0554.md)
+- [Q-0554 在指定 AI 编程平台根据现场需求实现项目。](../questions/Q-0554.md) · **已有答案**
 - [Q-0636 你对 AI for Software Engineering 有哪些了解？](../questions/Q-0636.md)
 - [Q-0675 自主 Agent 开发与结构化文档驱动工作流各有何优劣？](../questions/Q-0675.md)
-- [Q-0676 如何基于 AI 做 Code Review？](../questions/Q-0676.md)
-- [Q-0739 在两小时内使用 AI 实现自动生成并汇报周报的系统。](../questions/Q-0739.md)
-- [Q-0758 Agent 研发效能体系应是什么形态？](../questions/Q-0758.md)
+- [Q-0676 如何基于 AI 做 Code Review？](../questions/Q-0676.md) · **已有答案**
+- [Q-0739 在两小时内使用 AI 实现自动生成并汇报周报的系统。](../questions/Q-0739.md) · **已有答案**
+- [Q-0758 Agent 研发效能体系应是什么形态？](../questions/Q-0758.md) · **已有答案**
 - [Q-0762 接口标准化、AI 服务发现与业务提效如何协调？](../questions/Q-0762.md)
 - [Q-0831 涉及多模块业务的需求，如何让 AI 理解规范、已有方法和代码位置？](../questions/Q-0831.md)
 - [Q-0851 如何约束 AI 避免重复造轮子？](../questions/Q-0851.md)
-- [Q-0870 一个需求涉及数十个前后端应用时，如何让 AI 完成跨系统改动？](../questions/Q-0870.md)
+- [Q-0870 一个需求涉及数十个前后端应用时，如何让 AI 完成跨系统改动？](../questions/Q-0870.md) · **已有答案**
 - [Q-0885 AI 辅助模块设计时使用了哪些设计模式？](../questions/Q-0885.md)
-- [Q-0902 如何借助 AI 完成能正式上线的前后端项目？](../questions/Q-0902.md)
+- [Q-0902 如何借助 AI 完成能正式上线的前后端项目？](../questions/Q-0902.md) · **已有答案**
 - [Q-0911 公司内部大模型平台有哪些功能，你日常如何使用？](../questions/Q-0911.md)
 - [Q-0912 内部大模型平台是自研的吗，归哪个部门负责？](../questions/Q-0912.md)
 - [Q-0913 内部大模型平台与外部同类平台的使用体验有什么区别？](../questions/Q-0913.md)
 - [Q-0933 平时如何组织 AI Coding 工作流？](../questions/Q-0933.md)
-- [Q-1049 为何选择该 Coding Agent，选型考虑了什么？](../questions/Q-1049.md)
+- [Q-1049 为何选择该 Coding Agent，选型考虑了什么？](../questions/Q-1049.md) · **已有答案**
 - [Q-1064 智能体平台的用户画像和用户使用路径是什么？](../questions/Q-1064.md)
 - [Q-1096 使用模型遇到哪些痛点，如何处理防御性编程等问题？](../questions/Q-1096.md)
 - [Q-1164 大语言模型应用开发的本质是什么？](../questions/Q-1164.md)
@@ -920,18 +920,18 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-2041 在 AI 时代是否还需要手写代码、理解底层知识？](../questions/Q-2041.md)
 - [Q-2048 如何理解 SDD，以及规格驱动的开发流程？](../questions/Q-2048.md)
 - [Q-2055 通义千问在医药单据业务中承担哪些工作？](../questions/Q-2055.md)
-- [Q-2077 AI 怎样参与完整研发流程，沉淀了哪些方案？](../questions/Q-2077.md)
-- [Q-2100 介绍 AI 研发提效与效能体系。](../questions/Q-2100.md)
+- [Q-2077 AI 怎样参与完整研发流程，沉淀了哪些方案？](../questions/Q-2077.md) · **已有答案**
+- [Q-2100 介绍 AI 研发提效与效能体系。](../questions/Q-2100.md) · **已有答案**
 - [Q-2105 给你一个 Agent 和体验不好的客户端或页面，如何完成体验改进？](../questions/Q-2105.md)
-- [Q-2180 如何理解 Vibe Coding 与 Spec Coding？](../questions/Q-2180.md)
+- [Q-2180 如何理解 Vibe Coding 与 Spec Coding？](../questions/Q-2180.md) · **已有答案**
 - [Q-2217 举一个复杂需求，说明 Agent 如何形成任务闭环。](../questions/Q-2217.md)
 - [Q-2244 总结你的 AI Coding 使用经验与工作方法。](../questions/Q-2244.md)
-- [Q-2271 如何理解 Vibe Coding，并搭建安全可靠的开发流程？](../questions/Q-2271.md)
+- [Q-2271 如何理解 Vibe Coding，并搭建安全可靠的开发流程？](../questions/Q-2271.md) · **已有答案**
 - [Q-2273 AGENTS.md 中应包含哪些开发规范和约束？](../questions/Q-2273.md)
 - [Q-2291 Vibe Coding 是什么，实际使用有哪些优缺点？](../questions/Q-2291.md)
 - [Q-2310 OpenSpec 的基本机制是什么？](../questions/Q-2310.md)
 - [Q-2346 面向不同使用人群，研发提效平台如何设计？](../questions/Q-2346.md)
-- [Q-2352 AI 提效具体提升哪些人的效率？](../questions/Q-2352.md)
+- [Q-2352 AI 提效具体提升哪些人的效率？](../questions/Q-2352.md) · **已有答案**
 - [Q-2374 是否付费使用 Codex 或 Claude Code？](../questions/Q-2374.md)
 - [Q-2378 要实现内存缓存时，如何编写 AI Coding 提示词？](../questions/Q-2378.md)
 - [Q-2394 用过哪些开源 AI 脚手架？](../questions/Q-2394.md)
@@ -944,7 +944,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-2420 大小模型辅助开发有何差异，大模型有哪些缺点？](../questions/Q-2420.md)
 - [Q-2422 AI 工程落地有哪些难点？](../questions/Q-2422.md)
 - [Q-2445 如何确保 AI 辅助开发的项目长期可维护并持续高效迭代？](../questions/Q-2445.md)
-- [Q-2500 AI 辅助开发如何遵守项目规范？](../questions/Q-2500.md)
+- [Q-2500 AI 辅助开发如何遵守项目规范？](../questions/Q-2500.md) · **已有答案**
 - [Q-2530 面向用户的 Agent 平台如何建设能力并完成产品化？](../questions/Q-2530.md)
 - [Q-2533 Coding Agent 项目能否自举，还是依赖其他 Coding Agent 开发？](../questions/Q-2533.md)
 - [Q-2547 多 Agent 协作系统的前端架构如何设计？](../questions/Q-2547.md)
@@ -965,7 +965,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-2663 对话 Fork 与编码流程中的 Sub-agent 有什么区别？](../questions/Q-2663.md)
 - [Q-2664 编码工具如何读取源码、组织上下文，为什么不一定采用三层记忆架构？](../questions/Q-2664.md)
 - [Q-2666 代码审查只看 PR Diff 有什么不足，如何补充审查上下文？](../questions/Q-2666.md)
-- [Q-2667 如何约束并验证 AI 生成代码的质量？](../questions/Q-2667.md)
+- [Q-2667 如何约束并验证 AI 生成代码的质量？](../questions/Q-2667.md) · **已有答案**
 - [Q-2720 从 Coding Agent 源码中学到了哪些可复用机制？](../questions/Q-2720.md)
 - [Q-2733 AI 编码工具中如何选择指定模型或自动选模？](../questions/Q-2733.md)
 - [Q-2734 如何使用 AI 完成从需求、界面设计到前端实现的流程？](../questions/Q-2734.md)
@@ -993,7 +993,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-3587 AI Coding 如何组织提示词，人工在哪些环节介入审核？](../questions/Q-3587.md)
 - [Q-3773 AI Coding 对软件工程的影响是什么？](../questions/Q-3773.md)
 - [Q-3829 AI Coding 题中如何说明解题思路、技术选型和 AI 的实际作用？](../questions/Q-3829.md)
-- [Q-3872 团队开发中如何协作使用 AI 编码工具？](../questions/Q-3872.md)
+- [Q-3872 团队开发中如何协作使用 AI 编码工具？](../questions/Q-3872.md) · **已有答案**
 - [Q-3909 企业只能使用国产内部模型时，会如何影响 AI 开发效率？](../questions/Q-3909.md)
 - [Q-3919 Spec 能解决哪些 AI 编码约束问题，又有哪些局限？](../questions/Q-3919.md)
 - [Q-4003 代码生成 Agent 产生错误代码后，如何建立自动修复闭环？](../questions/Q-4003.md)
@@ -1040,7 +1040,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 <a id="topic-10"></a>
 ## 产品场景、业务价值与交付边界
 
-- [Q-0053 Agent 解决了什么业务问题，如何证明实际提效？](../questions/Q-0053.md)
+- [Q-0053 Agent 解决了什么业务问题，如何证明实际提效？](../questions/Q-0053.md) · **已有答案**
 - [Q-0760 Agent 无法覆盖哪些需求，如何逐步提升自主覆盖率？](../questions/Q-0760.md)
 - [Q-1017 智能票务或客服系统如何把 AI 与传统业务结合？](../questions/Q-1017.md)
 - [Q-1033 怎样判断平台做得好不好，服务最重要的指标是什么？](../questions/Q-1033.md)
