@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="1200" viewBox="0 0 390 1200" role="img" aria-labelledby="title desc">
+<title id="title">容器式工作区示意</title>
+<desc id="desc">普通容器方案的结构示意。任务A和任务B从同一只读基线挂载，各有私有可写层、进程视图和资源配额，共享同一个宿主Linux内核。工具请求由宿主侧工具执行器校验，配合操作系统的挂载、网络和凭证范围限制，再访问任务边界外的文件、网络和业务系统。工作目录不是安全隔离，工作区回滚不能自动撤销外部业务动作。</desc>
+<style>text{font-family:"PingFang SC","Microsoft YaHei",Arial,sans-serif}</style>
+<defs><marker id="read-arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7 Z" fill="#7c8ca3"/></marker><marker id="tool-arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7 Z" fill="#b16a18"/></marker></defs>
+<rect width="390" height="1200" fill="#f5f7fb"/>
+<text x="20" y="39" font-size="25" fill="#26364c" font-weight="700">容器式工作区示意</text>
+<text x="20" y="70" font-size="17" fill="#26364c" font-weight="400">文件分开，也要限制执行与访问</text>
+<rect x="12" y="92" width="366" height="885" rx="15" fill="#fff" stroke="#c6d3e5"/>
+<text x="28" y="121" font-size="18" fill="#26364c" font-weight="600">同一宿主 · 普通容器方案</text>
+<rect x="46" y="143" width="292" height="70" rx="9" fill="#eef2f8" stroke="#c4cfdf"/>
+<text x="192" y="171" font-size="20" fill="#26364c" font-weight="700" text-anchor="middle">共享只读基线</text>
+<text x="192" y="198" font-size="15" fill="#596b82" font-weight="400" text-anchor="middle">镜像 / 代码 / 依赖缓存</text>
+<text x="70" y="232" font-size="16" fill="#596b82" font-weight="400">同一基线，两任务只读挂载</text>
+<rect x="46" y="245" width="292" height="182" rx="11" fill="#f0faf6" stroke="#9dcfbb"/>
+<text x="62" y="276" font-size="21" fill="#26364c" font-weight="700">任务 A（容器）</text>
+<text x="62" y="309" font-size="18" fill="#26364c" font-weight="400">私有可写层 / 输出</text>
+<text x="62" y="340" font-size="16" fill="#26364c" font-weight="400">独立进程视图（命名空间）</text>
+<text x="62" y="370" font-size="16" fill="#26364c" font-weight="400">各自配额：CPU / 内存</text>
+<text x="62" y="397" font-size="15" fill="#596b82" font-weight="400">进程数 / 存储 / 运行时长</text>
+<rect x="46" y="455" width="292" height="182" rx="11" fill="#f0f5ff" stroke="#b6c9f3"/>
+<text x="62" y="486" font-size="21" fill="#26364c" font-weight="700">任务 B（容器）</text>
+<text x="62" y="519" font-size="18" fill="#26364c" font-weight="400">私有可写层 / 输出</text>
+<text x="62" y="550" font-size="16" fill="#26364c" font-weight="400">独立进程视图（命名空间）</text>
+<text x="62" y="580" font-size="16" fill="#26364c" font-weight="400">各自配额：CPU / 内存</text>
+<text x="62" y="607" font-size="15" fill="#596b82" font-weight="400">进程数 / 存储 / 运行时长</text>
+<path d="M338 178 H355 V487" stroke="#7c8ca3" stroke-width="1.8" fill="none"/>
+<path d="M355 277 H340" stroke="#7c8ca3" stroke-width="1.8" fill="none" marker-end="url(#read-arrow)"/>
+<path d="M355 487 H340" stroke="#7c8ca3" stroke-width="1.8" fill="none" marker-end="url(#read-arrow)"/>
+<rect x="46" y="679" width="292" height="67" rx="9" fill="#edf0f6" stroke="#aab9d0"/>
+<text x="192" y="718" font-size="20" fill="#26364c" font-weight="700" text-anchor="middle">共享宿主内核（Linux）</text>
+<text x="46" y="772" font-size="16" fill="#596b82" font-weight="400">这里不是每个任务各有一个内核</text>
+<text x="46" y="797" font-size="16" fill="#a05c12" font-weight="600">工具请求 → 受控执行</text>
+<rect x="46" y="812" width="292" height="139" rx="10" fill="#fff5e9" stroke="#e5bd87"/>
+<text x="62" y="844" font-size="20" fill="#26364c" font-weight="700">宿主侧工具执行器</text>
+<text x="62" y="875" font-size="16" fill="#26364c" font-weight="400">参数 / 真实路径 / 业务权限</text>
+<text x="62" y="905" font-size="16" fill="#26364c" font-weight="400">配置挂载、网络与凭证范围</text>
+<text x="62" y="933" font-size="16" fill="#80511c" font-weight="400">配合操作系统限制实施边界</text>
+<path d="M46 328 H28 V881 H44" stroke="#b16a18" stroke-width="2" fill="none" marker-end="url(#tool-arrow)"/>
+<path d="M46 538 H28" stroke="#b16a18" stroke-width="2" fill="none"/>
+<path d="M192 951 V1007" stroke="#b16a18" stroke-width="2" fill="none" marker-end="url(#tool-arrow)"/>
+<rect x="20" y="1013" width="350" height="105" rx="12" fill="#eef4ff" stroke="#c6d5ee"/>
+<text x="36" y="1043" font-size="19" fill="#26364c" font-weight="700">任务边界外的资源</text>
+<text x="36" y="1073" font-size="18" fill="#26364c" font-weight="400">文件</text>
+<text x="145" y="1073" font-size="18" fill="#26364c" font-weight="400">网络</text>
+<text x="251" y="1073" font-size="18" fill="#26364c" font-weight="400">业务系统</text>
+<text x="36" y="1100" font-size="16" fill="#596b82" font-weight="400">按允许范围访问，仍校验业务授权</text>
+<text x="20" y="1151" font-size="16" fill="#26364c" font-weight="600">cwd 只是目录，不构成安全隔离。</text>
+<text x="20" y="1181" font-size="15" fill="#596b82" font-weight="400">回滚工作区，不会自动撤销外部动作。</text>
+</svg>
