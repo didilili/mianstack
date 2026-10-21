@@ -21,10 +21,10 @@
 <a id="topic-1"></a>
 ## 训练数据构建与治理
 
-- [Q-0081 如何合成 Agent 训练任务，并验证任务设计带来的增益？](../questions/Q-0081.md)
+- [Q-0081 如何合成 Agent 训练任务，并验证任务设计带来的增益？](../questions/Q-0081.md) · **已有答案**
 - [Q-0082 Coding 方向训练数据如何扩规模，如何考虑外部采购？](../questions/Q-0082.md)
 - [Q-0088 如何用知识图谱合成 Agent 任务？](../questions/Q-0088.md)
-- [Q-0089 训练数据如何合成与筛选？](../questions/Q-0089.md)
+- [Q-0089 训练数据如何合成与筛选？](../questions/Q-0089.md) · **已有答案**
 - [Q-0090 除了训练数据，项目中还做了哪些算法改进？](../questions/Q-0090.md)
 - [Q-0206 工具轨迹长度与任务复杂度有什么关系，训练时如何使用不同长度的数据？](../questions/Q-0206.md)
 - [Q-0214 长轨迹 SFT 如何选择截断、切分和掩码并保持工具依赖？](../questions/Q-0214.md)
@@ -110,18 +110,18 @@
 <a id="topic-2"></a>
 ## 预训练、续训与 SFT
 
-- [Q-0083 如何提升 Agent 的长程任务能力？](../questions/Q-0083.md)
+- [Q-0083 如何提升 Agent 的长程任务能力？](../questions/Q-0083.md) · **已有答案**
 - [Q-0085 当 pass@k 与 pass@1 的差距收敛后，如何继续提升模型能力？](../questions/Q-0085.md)
 - [Q-0207 基座已有工具调用能力时，Tool-use SFT 的训练目标是什么？](../questions/Q-0207.md)
-- [Q-0495 你有哪些大模型后训练经验？](../questions/Q-0495.md)
+- [Q-0495 你有哪些大模型后训练经验？](../questions/Q-0495.md) · **已有答案**
 - [Q-0498 如何在一个细分场景中微调 Agent？](../questions/Q-0498.md)
-- [Q-0506 不同大模型微调方法如何比较？](../questions/Q-0506.md)
+- [Q-0506 不同大模型微调方法如何比较？](../questions/Q-0506.md) · **已有答案**
 - [Q-0513 预训练、后训练到推理的流程是什么？](../questions/Q-0513.md)
 - [Q-0517 如何训练模型，使其更精确地提取摘要？](../questions/Q-0517.md)
 - [Q-0637 大模型侧需要做哪些改进以适配 Agent？](../questions/Q-0637.md)
 - [Q-0638 大模型微调的机制是什么？](../questions/Q-0638.md)
 - [Q-0639 是否有从零训练大模型的经历？](../questions/Q-0639.md)
-- [Q-0681 为什么在 SFT 后采用 RL，SFT 遇到了什么问题？](../questions/Q-0681.md)
+- [Q-0681 为什么在 SFT 后采用 RL，SFT 遇到了什么问题？](../questions/Q-0681.md) · **已有答案**
 - [Q-0692 是否独立做过模型训练或微调？](../questions/Q-0692.md)
 - [Q-0823 如何考虑为每个业务后训练小模型？](../questions/Q-0823.md)
 - [Q-1244 训练一个模型需要哪些步骤和关注点？](../questions/Q-1244.md)
@@ -206,8 +206,8 @@
 ## 参数高效微调
 
 - [Q-0168 LoRA 的原理、常见超参数与注入模块是什么？](../questions/Q-0168.md) · **已有答案**
-- [Q-0539 LoRA 效果不好时如何定位和改进？](../questions/Q-0539.md)
-- [Q-0541 LoRA 有哪些缺点和改进方向？](../questions/Q-0541.md)
+- [Q-0539 LoRA 效果不好时如何定位和改进？](../questions/Q-0539.md) · **已有答案**
+- [Q-0541 LoRA 有哪些缺点和改进方向？](../questions/Q-0541.md) · **已有答案**
 - [Q-0574 Transformer 中有哪些 LoRA 变体？](../questions/Q-0574.md)
 - [Q-0614 SFT 和 PEFT 训练中使用过哪些技巧？](../questions/Q-0614.md)
 - [Q-0627 为什么要对大模型微调？](../questions/Q-0627.md)
@@ -250,7 +250,7 @@
 - [Q-0604 DPO 中好坏样例生成概率都下降的问题如何理解？](../questions/Q-0604.md)
 - [Q-0605 DPOP 的全称是什么？](../questions/Q-0605.md)
 - [Q-0737 DPO 是否需要额外加入 KL 约束？](../questions/Q-0737.md)
-- [Q-0896 DPO 的算法原理是什么？](../questions/Q-0896.md)
+- [Q-0896 DPO 的算法原理是什么？](../questions/Q-0896.md) · **已有答案**
 - [Q-2706 如何构建 chosen/rejected 偏好对，模型答案优于标注答案时如何处理？](../questions/Q-2706.md)
 - [Q-2899 DPO 训练有哪些需要注意的事项？](../questions/Q-2899.md)
 - [Q-3051 DPO 为什么不需要在线采样，训练数据采用什么格式？](../questions/Q-3051.md)
@@ -281,27 +281,27 @@
 <a id="topic-5"></a>
 ## 强化学习与奖励
 
-- [Q-0086 如何判断强化学习带来的实际收益？](../questions/Q-0086.md)
-- [Q-0103 强化学习包含哪些主要组件？](../questions/Q-0103.md)
-- [Q-0104 GRPO 算法如何工作？](../questions/Q-0104.md)
+- [Q-0086 如何判断强化学习带来的实际收益？](../questions/Q-0086.md) · **已有答案**
+- [Q-0103 强化学习包含哪些主要组件？](../questions/Q-0103.md) · **已有答案**
+- [Q-0104 GRPO 算法如何工作？](../questions/Q-0104.md) · **已有答案**
 - [Q-0105 On-policy 和 Off-policy 有什么区别？](../questions/Q-0105.md)
-- [Q-0169 RLHF/PPO 中 Actor、Critic、Reward Model 和 Reference Model 的职责是什么，为什么需要 KL 约束？](../questions/Q-0169.md)
+- [Q-0169 RLHF/PPO 中 Actor、Critic、Reward Model 和 Reference Model 的职责是什么，为什么需要 KL 约束？](../questions/Q-0169.md) · **已有答案**
 - [Q-0212 为什么先做 Step-level SFT 再做 GRPO 可能更稳定？](../questions/Q-0212.md)
-- [Q-0213 GRPO 组内奖励相同或方差接近零时，会有什么问题，如何处理？](../questions/Q-0213.md)
-- [Q-0220 为什么选择 GRPO，它的优化目标和数学原理是什么？](../questions/Q-0220.md)
-- [Q-0259 GUI Agent 奖励如何确认环境状态真实改变，而非只看起来完成？](../questions/Q-0259.md)
+- [Q-0213 GRPO 组内奖励相同或方差接近零时，会有什么问题，如何处理？](../questions/Q-0213.md) · **已有答案**
+- [Q-0220 为什么选择 GRPO，它的优化目标和数学原理是什么？](../questions/Q-0220.md) · **已有答案**
+- [Q-0259 GUI Agent 奖励如何确认环境状态真实改变，而非只看起来完成？](../questions/Q-0259.md) · **已有答案**
 - [Q-0260 GUI 环境吞吐低于训练吞吐时，如何组织在线强化学习？](../questions/Q-0260.md)
-- [Q-0501 RLHF 奖励模型的训练数据如何构建？](../questions/Q-0501.md)
-- [Q-0514 PPO 算法原理是什么？](../questions/Q-0514.md)
-- [Q-0515 DPO 与 PPO 有什么区别？](../questions/Q-0515.md)
-- [Q-0524 GRPO 如何实现，奖励函数尤其长轨迹奖励如何设计？](../questions/Q-0524.md)
+- [Q-0501 RLHF 奖励模型的训练数据如何构建？](../questions/Q-0501.md) · **已有答案**
+- [Q-0514 PPO 算法原理是什么？](../questions/Q-0514.md) · **已有答案**
+- [Q-0515 DPO 与 PPO 有什么区别？](../questions/Q-0515.md) · **已有答案**
+- [Q-0524 GRPO 如何实现，奖励函数尤其长轨迹奖励如何设计？](../questions/Q-0524.md) · **已有答案**
 - [Q-0607 GRPO 和 DAPO 有什么区别？](../questions/Q-0607.md)
 - [Q-0609 Reward Model 常用什么结构，与 Value Model 有什么区别？](../questions/Q-0609.md)
-- [Q-0615 什么情况下使用 PPO，什么情况下使用 GRPO？](../questions/Q-0615.md)
-- [Q-0634 了解哪些强化学习优化算法？](../questions/Q-0634.md)
+- [Q-0615 什么情况下使用 PPO，什么情况下使用 GRPO？](../questions/Q-0615.md) · **已有答案**
+- [Q-0634 了解哪些强化学习优化算法？](../questions/Q-0634.md) · **已有答案**
 - [Q-0635 Agentic RL 是什么？](../questions/Q-0635.md)
-- [Q-0679 强化学习训练中的 Reference Model 起什么作用？](../questions/Q-0679.md)
-- [Q-0736 什么是 Reward Hacking，如何识别、定位并治理？](../questions/Q-0736.md)
+- [Q-0679 强化学习训练中的 Reference Model 起什么作用？](../questions/Q-0679.md) · **已有答案**
+- [Q-0736 什么是 Reward Hacking，如何识别、定位并治理？](../questions/Q-0736.md) · **已有答案**
 - [Q-1226 采用 SFT 和 GRPO 后相对原模型改了什么，数据层面有哪些问题和修改？](../questions/Q-1226.md)
 - [Q-1229 不同项目为什么分别选择 PPO 和 DDPG？](../questions/Q-1229.md)
 - [Q-1230 DDPG 项目的 reward 如何设计？](../questions/Q-1230.md)
@@ -328,7 +328,7 @@
 - [Q-2468 GRPO 的 Loss 如何计算？](../questions/Q-2468.md)
 - [Q-2469 Deep Research 如何与强化学习结合？](../questions/Q-2469.md)
 - [Q-2474 GRPO 训练实际使用什么数据？](../questions/Q-2474.md)
-- [Q-2490 GRPO 相比 PPO 做了哪些改进？](../questions/Q-2490.md)
+- [Q-2490 GRPO 相比 PPO 做了哪些改进？](../questions/Q-2490.md) · **已有答案**
 - [Q-2632 DAPO 的改进解决了什么问题？](../questions/Q-2632.md)
 - [Q-2675 如何判定 SFT 可以结束并进入强化学习阶段？](../questions/Q-2675.md)
 - [Q-2686 字段提取任务的奖励函数应如何设计？](../questions/Q-2686.md)
@@ -338,7 +338,7 @@
 - [Q-2701 PPO 的 Value Model 或 Critic 起什么作用？](../questions/Q-2701.md)
 - [Q-2702 GRPO 如何估计组内优势？](../questions/Q-2702.md)
 - [Q-2703 轨迹级奖励与 Token 级优化之间如何分配贡献？](../questions/Q-2703.md)
-- [Q-2704 如何根据业务目标设计强化学习奖励？](../questions/Q-2704.md)
+- [Q-2704 如何根据业务目标设计强化学习奖励？](../questions/Q-2704.md) · **已有答案**
 - [Q-2772 GRPO 生成只命中商品 SID 前两个 Token 时如何给奖励？](../questions/Q-2772.md)
 - [Q-2790 如何平衡强化学习训练效率与稳定性？](../questions/Q-2790.md)
 - [Q-2794 小模型做强化学习是否有效，如何选择模型与每轮数据规模？](../questions/Q-2794.md)
@@ -378,7 +378,7 @@
 - [Q-3545 Agent 对齐优化为什么选择强化学习，如何与 SFT、DPO、PPO、GRPO 和 RAG 比较？](../questions/Q-3545.md)
 - [Q-3547 DPO 与 GRPO 的原理、优缺点和适用场景有何差异？](../questions/Q-3547.md)
 - [Q-3548 如何从算法机制解释 GRPO 的探索能力和训练稳定性？](../questions/Q-3548.md)
-- [Q-3654 强化学习任务的奖励函数如何设计？](../questions/Q-3654.md)
+- [Q-3654 强化学习任务的奖励函数如何设计？](../questions/Q-3654.md) · **已有答案**
 - [Q-3661 GSPO 的核心机制是什么，与 GRPO 有什么关系？](../questions/Q-3661.md)
 - [Q-3717 DeepSeek R1 的训练过程有哪些关键步骤？](../questions/Q-3717.md)
 - [Q-3832 团队当前如何在强化学习与 SFT 之间选择和分工？](../questions/Q-3832.md)
@@ -504,7 +504,7 @@
 <a id="topic-8"></a>
 ## 分布式训练与计算硬件
 
-- [Q-0030 DCU 与 GPU 有什么区别？](../questions/Q-0030.md)
+- [Q-0030 DCU 与 GPU 有什么区别？](../questions/Q-0030.md) · **已有答案**
 - [Q-0031 SIMT 有什么特点，遇到分支会发生什么？](../questions/Q-0031.md)
 - [Q-0032 GPU 的存储层次和计算单元如何组织？](../questions/Q-0032.md)
 - [Q-0033 DCU 如何把数据传入寄存器，并在芯片上共享？](../questions/Q-0033.md)
@@ -622,11 +622,11 @@
 <a id="topic-9"></a>
 ## 训练框架、调参与排障
 
-- [Q-0100 项目中的强化学习框架是如何搭建的？](../questions/Q-0100.md)
+- [Q-0100 项目中的强化学习框架是如何搭建的？](../questions/Q-0100.md) · **已有答案**
 - [Q-0101 verl 中的 Agent Loop 如何实现？](../questions/Q-0101.md)
 - [Q-0276 训练正常而离线评测骤降时，如何定位链路问题？](../questions/Q-0276.md)
 - [Q-0381 资源受限的微调中，如何判断学习率过高或过低？](../questions/Q-0381.md)
-- [Q-0509 如何处理梯度消失与梯度爆炸？](../questions/Q-0509.md)
+- [Q-0509 如何处理梯度消失与梯度爆炸？](../questions/Q-0509.md) · **已有答案**
 - [Q-0626 如何理解模型训练中的过拟合和欠拟合？](../questions/Q-0626.md)
 - [Q-0735 RL 训练中通常观察哪些参数和指标？](../questions/Q-0735.md)
 - [Q-1245 梯度如何计算，计算中可能遇到哪些问题？](../questions/Q-1245.md)

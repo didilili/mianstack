@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="644" viewBox="0 0 360 644" role="img" aria-labelledby="title desc">
+  <title id="title">Attention：只计算第一个位置</title>
+  <desc id="desc">Q与K计算打分，缩放后在softmax之前加入mask，再沿Key位置得到权重。V通过独立旁路进入加权汇总，不参与QK打分。本教学例子无mask时，第一个位置的输出约为1.3395和1.3210；若加入因果mask，第一个位置只能读取自身，输出为2和0。</desc>
+  <defs>
+    <marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#245f9c"/></marker>
+    <marker id="green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#087f68"/></marker>
+    <style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;font-size:18px;fill:#17293d;text-anchor:middle} .title{font-size:22px;font-weight:700}.bold{font-weight:700}.blue{fill:#245f9c}.green{fill:#087f68}.flow{fill:none;stroke:#245f9c;stroke-width:2;marker-end:url(#blue)}.vflow{fill:none;stroke:#087f68;stroke-width:2;marker-end:url(#green)}</style>
+  </defs>
+  <rect width="360" height="644" rx="12" fill="#fff"/>
+  <text x="180" y="29" class="title">Attention：算第一个位置</text>
+  <rect x="12" y="48" width="146" height="64" rx="8" fill="#edf5fd" stroke="#98b9dc"/>
+  <text x="85" y="73" class="bold blue">Query</text><text x="85" y="99">q₁ = [1, 0]</text>
+  <rect x="174" y="48" width="174" height="64" rx="8" fill="#edf5fd" stroke="#98b9dc"/>
+  <text x="261" y="73">k₁ = [1, 0]</text><text x="261" y="99">k₂ = [0, 1]</text>
+  <path d="M85 112V123H261V112" fill="none" stroke="#245f9c" stroke-width="2"/>
+  <path d="M180 123V137" class="flow"/>
+  <rect x="12" y="139" width="336" height="64" rx="8" fill="#edf5fd" stroke="#98b9dc"/>
+  <text x="180" y="165" class="bold blue">QK 打分：[1, 0]</text>
+  <text x="180" y="190">除以 √2：[0.7071, 0]</text>
+  <path d="M180 203V221" class="flow"/>
+  <rect x="12" y="223" width="336" height="60" rx="8" fill="#fff7e8" stroke="#d4ad64"/>
+  <text x="180" y="247" class="bold">mask 在 softmax 之前加入</text>
+  <text x="180" y="272">本例无 mask，分数保持不变</text>
+  <path d="M180 283V301" class="flow"/>
+  <rect x="12" y="303" width="336" height="62" rx="8" fill="#edf5fd" stroke="#98b9dc"/>
+  <text x="180" y="328" class="bold blue">沿 Key 位置做 softmax</text>
+  <text x="180" y="353">A₁ ≈ [0.6698, 0.3302]</text>
+  <path d="M60 365V467" class="flow"/>
+  <text x="130" y="418" class="blue">权重 A₁</text>
+  <rect x="219" y="384" width="129" height="77" rx="8" fill="#eaf8f3" stroke="#83bbad"/>
+  <text x="283" y="406" class="bold green">V（旁路）</text>
+  <text x="283" y="429">v₁ = [2, 0]</text><text x="283" y="452">v₂ = [0, 4]</text>
+  <path d="M283 461V467" class="vflow"/>
+  <rect x="12" y="472" width="336" height="83" rx="8" fill="#eaf8f3" stroke="#83bbad"/>
+  <text x="180" y="495" class="bold green">按权重汇总 V</text>
+  <text x="180" y="521" class="bold">o₁ ≈ [1.3395, 1.3210]</text>
+  <text x="180" y="546">结果按未舍入权重计算</text>
+  <rect x="12" y="572" width="336" height="60" rx="8" fill="#fff7e8" stroke="#d4ad64"/>
+  <text x="180" y="596">因果 mask：第 2 个分数设为 −∞</text>
+  <text x="180" y="621">权重 [1, 0] → 输出 [2, 0]</text>
+</svg>
