@@ -7,6 +7,7 @@
 ## 单一事实来源
 
 - `questions/`、`interviews/`、`collections/` 和根目录的当前数据 JSON 是公开内容的事实来源。
+- `assets/questions/Q-题号/` 保存答案配图原件，随对应题目一起维护；需要保留的可编辑图源也放在对应题号目录。题目用 `../assets/questions/Q-题号/文件名` 相对引用，保证在仓库中直接阅读也能显示。网站从这些文件生成展示资源，不另行维护图片副本。
 - `schema/content.schema.json` 是字段结构、固定值、固定中文显示和分组元数据的唯一规则来源。
 - `INDEX.md` 与 `indexes/*.md` 是生成结果，不能手工维护。
 
