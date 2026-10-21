@@ -4,7 +4,7 @@
 
 运行循环、规划、上下文、记忆、工具协议、工作流与多 Agent。
 
-共 959 道题，分为 12 个专题。
+共 962 道题，分为 12 个专题。
 
 ## 页内导航
 
@@ -627,6 +627,7 @@
 - [Q-5185 A2A 的 Message、Task、Part 与 Artifact 有何区别？](../questions/Q-5185.md)
 - [Q-5186 A2A 如何组织流式任务更新、异步通知与产物交付？](../questions/Q-5186.md)
 - [Q-5187 如何设计统一接入工具与远程 Agent 的企业协议平台？](../questions/Q-5187.md)
+- [Q-6656 开发 MCP 服务时，如何选择 SDK 或框架及传输方式？](../questions/Q-6656.md)
 
 <a id="topic-8"></a>
 ## Skills 能力系统
@@ -776,6 +777,7 @@
 - [Q-5597 周期性 Agent 任务如何区分 Schedule 与 Run 并可靠执行？](../questions/Q-5597.md)
 - [Q-6026 实现一个用显式状态与事件管理 Agent 执行的有限状态机。](../questions/Q-6026.md)
 - [Q-6313 Agent 任务进行中切换模型时，如何安全迁移状态并衔接执行？](../questions/Q-6313.md)
+- [Q-6646 Agent 沙箱何时创建快照，如何确定回滚边界？](../questions/Q-6646.md)
 
 <a id="topic-10"></a>
 ## 多 Agent 编排与协作
@@ -997,6 +999,7 @@
 - [Q-5174 Agent 的 Channel、Runtime、Model 与 Provider 如何解耦？](../questions/Q-5174.md)
 - [Q-5191 Agent Builder 应提供哪些构建、验证与交付能力？](../questions/Q-5191.md)
 - [Q-5589 Deep Agents 如何组织长任务执行，有哪些工程收益和限制？](../questions/Q-5589.md)
+- [Q-7004 是否了解 Pi Coding Agent？](../questions/Q-7004.md)
 
 <a id="topic-12"></a>
 ## GUI、Computer Use 与多模态 Agent
