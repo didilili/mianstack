@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="869" viewBox="0 0 390 869" role="img" aria-labelledby="title desc">
+  <title id="title">HashMap扩容：只多看一位</title>
+  <desc id="desc">JDK8容量8变16，缓存散列4和12旧索引均4，新增8位后分别去新桶4和12。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#173042" />
+    </marker>
+    <marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#176b99" />
+    </marker>
+    <marker id="red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b63f44" />
+    </marker>
+    <marker id="orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b05b19" />
+    </marker>
+  </defs>
+  <style>text{font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif} .mono{font-family:"SFMono-Regular",Menlo,monospace}</style>
+  <rect x="0" y="0" width="390" height="869" rx="0" fill="#f8fafb" stroke="none" />
+  <text x="24" y="37" font-size="21" fill="#173042" font-weight="600" text-anchor="start">HashMap 扩容：只多看一位</text>
+  <text x="24" y="65" font-size="16" fill="#536877" font-weight="400" text-anchor="start">JDK 8 示例：容量 8 → 16</text>
+  <rect x="16" y="88" width="358" height="203" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="119" font-size="18" fill="#173042" font-weight="600" text-anchor="start">① 旧容量 8：用掩码 0111</text>
+  <text x="30" y="147" font-size="14" fill="#536877" font-weight="400" text-anchor="start">hash</text>
+  <text x="196" y="147" font-size="14" fill="#536877" font-weight="400" text-anchor="middle">4 位二进制</text>
+  <text x="326" y="147" font-size="14" fill="#536877" font-weight="400" text-anchor="middle">桶下标</text>
+  <text x="30" y="188" font-size="16" fill="#173042" font-weight="500" text-anchor="start">4</text>
+  <rect x="131" y="161" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="145" y="186" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">0</text>
+  <rect x="165" y="161" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="179" y="186" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">1</text>
+  <rect x="199" y="161" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="213" y="186" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">0</text>
+  <rect x="233" y="161" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="247" y="186" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">0</text>
+  <text x="326" y="188" font-size="18" fill="#176b99" font-weight="600" text-anchor="middle">→4</text>
+  <text x="30" y="240" font-size="16" fill="#173042" font-weight="500" text-anchor="start">12</text>
+  <rect x="131" y="213" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="145" y="238" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">1</text>
+  <rect x="165" y="213" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="179" y="238" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">1</text>
+  <rect x="199" y="213" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="213" y="238" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">0</text>
+  <rect x="233" y="213" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="247" y="238" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">0</text>
+  <text x="326" y="240" font-size="18" fill="#176b99" font-weight="600" text-anchor="middle">→4</text>
+  <text x="30" y="274" font-size="16" fill="#536877" font-weight="400" text-anchor="start">4 &amp; 7 = 4；12 &amp; 7 = 4</text>
+  <rect x="16" y="307" width="358" height="226" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="338" font-size="18" fill="#173042" font-weight="600" text-anchor="start">② 新容量 16：用掩码 1111</text>
+  <text x="145" y="369" font-size="15" fill="#b05b19" font-weight="600" text-anchor="middle">8</text>
+  <text x="179" y="369" font-size="15" fill="#536877" font-weight="600" text-anchor="middle">4</text>
+  <text x="213" y="369" font-size="15" fill="#536877" font-weight="600" text-anchor="middle">2</text>
+  <text x="247" y="369" font-size="15" fill="#536877" font-weight="600" text-anchor="middle">1</text>
+  <text x="30" y="369" font-size="14" fill="#536877" font-weight="400" text-anchor="start">位权</text>
+  <text x="30" y="410" font-size="16" fill="#173042" font-weight="500" text-anchor="start">4</text>
+  <rect x="131" y="383" width="29" height="34" rx="5" fill="#ffe8cc" stroke="none" />
+  <text x="145" y="408" font-size="22" fill="#b05b19" font-weight="600" text-anchor="middle" class="mono">0</text>
+  <rect x="165" y="383" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="179" y="408" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">1</text>
+  <rect x="199" y="383" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="213" y="408" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">0</text>
+  <rect x="233" y="383" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="247" y="408" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">0</text>
+  <text x="326" y="410" font-size="18" fill="#176b99" font-weight="600" text-anchor="middle">→4</text>
+  <text x="30" y="462" font-size="16" fill="#173042" font-weight="500" text-anchor="start">12</text>
+  <rect x="131" y="435" width="29" height="34" rx="5" fill="#ffe8cc" stroke="none" />
+  <text x="145" y="460" font-size="22" fill="#b05b19" font-weight="600" text-anchor="middle" class="mono">1</text>
+  <rect x="165" y="435" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="179" y="460" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">1</text>
+  <rect x="199" y="435" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="213" y="460" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">0</text>
+  <rect x="233" y="435" width="29" height="34" rx="5" fill="#eff4f7" stroke="none" />
+  <text x="247" y="460" font-size="22" fill="#173042" font-weight="600" text-anchor="middle" class="mono">0</text>
+  <text x="326" y="462" font-size="18" fill="#176b99" font-weight="600" text-anchor="middle">→12</text>
+  <text x="30" y="512" font-size="15" fill="#b05b19" font-weight="400" text-anchor="start">橙色：新参与取桶的 oldCap=8 位</text>
+  <rect x="16" y="549" width="358" height="231" rx="14" fill="#fff" stroke="none" />
+  <text x="30" y="580" font-size="18" fill="#173042" font-weight="600" text-anchor="start">③ 检查 hash &amp; 8，原桶 4 分两路</text>
+  <rect x="116" y="598" width="158" height="40" rx="8" fill="#eff4f7" stroke="none" />
+  <text x="195" y="624" font-size="16" fill="#173042" font-weight="500" text-anchor="middle">旧桶 4：hash 4、12</text>
+  <line x1="159" y1="638" x2="102" y2="683" stroke="#176b99" stroke-width="2" marker-end="url(#blue)" />
+  <line x1="231" y1="638" x2="288" y2="683" stroke="#b05b19" stroke-width="2" marker-end="url(#orange)" />
+  <rect x="30" y="690" width="147" height="67" rx="10" fill="#e3f1f8" stroke="none" />
+  <rect x="213" y="690" width="147" height="67" rx="10" fill="#fff0de" stroke="none" />
+  <text x="103" y="715" font-size="18" fill="#176b99" font-weight="600" text-anchor="middle">新桶 4</text>
+  <text x="103" y="740" font-size="15" fill="#176b99" font-weight="400" text-anchor="middle">4 &amp; 8 = 0</text>
+  <text x="286" y="715" font-size="18" fill="#b05b19" font-weight="600" text-anchor="middle">新桶 12</text>
+  <text x="286" y="740" font-size="15" fill="#b05b19" font-weight="400" text-anchor="middle">12 &amp; 8 = 8</text>
+  <text x="24" y="815" font-size="16" fill="#173042" font-weight="400" text-anchor="start">0：留在 j；非 0：移到 j+oldCap</text>
+  <text x="24" y="844" font-size="14" fill="#536877" font-weight="400" text-anchor="start">使用已保存的散列值，不重算键的 hashCode</text>
+</svg>
