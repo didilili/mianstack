@@ -3,14 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-javaguide-ai-body-systems",
   "publisherId": "PUB-JAVAGUIDE",
   "title": "JavaGuide · 生产架构与治理问答",
-  "coverage": [
-    "llm",
-    "rag",
-    "agent",
-    "ai_engineering",
-    "training",
-    "software"
-  ],
+  "coverage": ["llm", "rag", "agent", "ai_engineering", "training", "software"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "JavaGuide AI 正文中的独立技术问答与面试清单。",
   "sourceUrl": "https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design",

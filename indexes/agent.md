@@ -1,5 +1,7 @@
 # Agent 原理与系统
 
+> 本文件由 `npm run build:indexes` 生成，请勿手工修改。
+
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/knowledge/agent)
 
 运行循环、规划、上下文、记忆、工具协议、工作流与多 Agent。

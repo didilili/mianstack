@@ -1,0 +1,51 @@
+name: Notify online reader after content update
+run-name: Publish content ${{ github.sha }}
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: notify-online-reader
+  cancel-in-progress: false
+
+jobs:
+  dispatch:
+    if: github.repository == 'didilili/mianstack'
+    runs-on: ubuntu-latest
+    env:
+      HUSKY: "0"
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+
+      - name: Install validation dependencies
+        run: npm ci
+
+      - name: Validate content and generated indexes
+        run: npm run validate
+
+      - name: Publish the content revision
+        env:
+          GH_TOKEN: ${{ secrets.MIANSTACK_WEB_ACTIONS_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::Repository secret MIANSTACK_WEB_ACTIONS_TOKEN is not configured."
+            exit 1
+          fi
+          gh workflow run deploy.yml \
+            --repo "${GITHUB_REPOSITORY_OWNER}/mianstack-web" \
+            --ref main \
+            -f "content_ref=${GITHUB_SHA}" \
+            >/dev/null
+          echo "Submitted content revision ${GITHUB_SHA} for publishing."

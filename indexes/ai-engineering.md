@@ -1,5 +1,7 @@
 # AI 应用工程与治理
 
+> 本文件由 `npm run build:indexes` 生成，请勿手工修改。
+
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/knowledge/ai-engineering)
 
 Prompt、应用架构、评测、质量、安全、可观测性、性能与交付。

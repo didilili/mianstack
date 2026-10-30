@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-video-essence-03",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 03_视频生成与编辑技术路线",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/03_%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E7%BC%96%E8%BE%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF.md",

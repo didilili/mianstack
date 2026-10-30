@@ -1,5 +1,7 @@
 # 模型训练与对齐
 
+> 本文件由 `npm run build:indexes` 生成，请勿手工修改。
+
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/knowledge/training)
 
 训练数据、预训练与微调、偏好对齐、强化学习、训练评测与分布式训练。

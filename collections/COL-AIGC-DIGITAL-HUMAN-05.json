@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-digital-human-05",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 05_3D数字人与可微渲染高频考点",
-  "coverage": [
-    "llm",
-    "ai_engineering"
-  ],
+  "coverage": ["llm", "ai_engineering"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/05_3D%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8F%AF%E5%BE%AE%E6%B8%B2%E6%9F%93%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",

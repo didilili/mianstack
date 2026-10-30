@@ -3,12 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-xl-tools",
   "publisherId": "PUB-XL",
   "title": "LLM 工具调用面试题",
-  "coverage": [
-    "agent",
-    "ai_engineering",
-    "training",
-    "software"
-  ],
+  "coverage": ["agent", "ai_engineering", "training", "software"],
   "sourceUrl": "https://xiaolinnote.com/ai/tools/tools_info.html",
   "sourceKind": "curated_question_set",
   "access": "public",

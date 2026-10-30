@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-video-08",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 08_训练与微调技术",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/08_%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF.md",

@@ -2,11 +2,7 @@
   "id": "COL-JAVABETTER-CODING-AGENT",
   "publisherId": "PUB-JAVABETTER",
   "title": "王二讲 Agent · Claude Code 与 Codex",
-  "coverage": [
-    "agent",
-    "ai_engineering",
-    "rag"
-  ],
+  "coverage": ["agent", "ai_engineering", "rag"],
   "sourceUrl": "https://javabetter.cn/ai/video/#_06%E3%80%81claude-code%E4%B8%8Ecodex-17-%E9%A2%98",
   "sourceKind": "curated_question_set",
   "access": "public",

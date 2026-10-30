@@ -3,12 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-zero2agent-fault-tolerance",
   "publisherId": "PUB-ONEFLY",
   "title": "zero2Agent · 容错与鲁棒性面试题",
-  "coverage": [
-    "rag",
-    "agent",
-    "ai_engineering",
-    "software"
-  ],
+  "coverage": ["rag", "agent", "ai_engineering", "software"],
   "sourceKind": "course_question_set",
   "sourceClaim": "zero2Agent 面试通关模块的《容错与鲁棒性：超时、报错、误操作的工程化处理》专题。",
   "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md",

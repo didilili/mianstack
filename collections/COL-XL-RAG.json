@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-xl-rag",
   "publisherId": "PUB-XL",
   "title": "RAG 面试题",
-  "coverage": [
-    "llm",
-    "rag"
-  ],
+  "coverage": ["llm", "rag"],
   "sourceUrl": "https://xiaolinnote.com/ai/rag/rag_info.html",
   "sourceKind": "curated_question_set",
   "access": "public",

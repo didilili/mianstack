@@ -1,5 +1,7 @@
 # 软件工程基础
 
+> 本文件由 `npm run build:indexes` 生成，请勿手工修改。
+
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/knowledge/software)
 
 语言、框架、前后端、操作系统、网络、存储、并发与分布式系统。

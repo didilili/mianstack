@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-video-essence-04",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 04_长视频生成与分镜叙事",
-  "coverage": [
-    "llm",
-    "ai_engineering"
-  ],
+  "coverage": ["llm", "ai_engineering"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/04_%E9%95%BF%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8E%E5%88%86%E9%95%9C%E5%8F%99%E4%BA%8B.md",

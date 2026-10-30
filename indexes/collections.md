@@ -1,5 +1,7 @@
 # 公开题集索引
 
+> 本文件由 `npm run build:indexes` 生成，请勿手工修改。
+
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/collection)
 
 这里汇总其他作者和整理者公开发布的面试题集，方便从不同题单继续阅读。题集收录和真实面试出现次数分开统计，第三方来源不会因收录而改用仓库许可证。
@@ -370,6 +372,7 @@
 - 收录数量：45
 - [在线阅读](https://mianstack.com/collection/col-agentguide-algorithm)
 - [仓库记录](../collections/COL-AGENTGUIDE-ALGORITHM.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md)
 
 <a id="collection-2"></a>
 ## AgentGuide · 编程实战面试题
@@ -378,6 +381,7 @@
 - 收录数量：34
 - [在线阅读](https://mianstack.com/collection/col-agentguide-coding)
 - [仓库记录](../collections/COL-AGENTGUIDE-CODING.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/04-coding-questions.md)
 
 <a id="collection-3"></a>
 ## AgentGuide · Agent 核心面试题
@@ -386,6 +390,7 @@
 - 收录数量：52
 - [在线阅读](https://mianstack.com/collection/col-agentguide-core)
 - [仓库记录](../collections/COL-AGENTGUIDE-CORE.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/03-agent-questions.md)
 
 <a id="collection-4"></a>
 ## AgentGuide · 开发岗专项面试题
@@ -394,6 +399,7 @@
 - 收录数量：45
 - [在线阅读](https://mianstack.com/collection/col-agentguide-development)
 - [仓库记录](../collections/COL-AGENTGUIDE-DEVELOPMENT.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md)
 
 <a id="collection-5"></a>
 ## AgentGuide · Agent 开放讨论题
@@ -402,6 +408,7 @@
 - 收录数量：8
 - [在线阅读](https://mianstack.com/collection/col-agentguide-discussion)
 - [仓库记录](../collections/COL-AGENTGUIDE-DISCUSSION.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/15-open-discussion.md)
 
 <a id="collection-6"></a>
 ## AgentGuide · 模型与 Agent 评估面试题
@@ -410,6 +417,7 @@
 - 收录数量：10
 - [在线阅读](https://mianstack.com/collection/col-agentguide-evaluation)
 - [仓库记录](../collections/COL-AGENTGUIDE-EVALUATION.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/13-model-evaluation.md)
 
 <a id="collection-7"></a>
 ## AgentGuide · 算法岗精选复习题
@@ -418,6 +426,7 @@
 - 收录数量：4
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-algorithm-top10)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-ALGORITHM-TOP10.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/05-algorithm-specialized.md)
 
 <a id="collection-8"></a>
 ## AgentGuide · Agent 开发实战追问
@@ -426,6 +435,7 @@
 - 收录数量：16
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-career-agent-practice)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CAREER-AGENT-PRACTICE.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md)
 
 <a id="collection-9"></a>
 ## AgentGuide · 算法与开发岗位项目追问
@@ -434,6 +444,7 @@
 - 收录数量：23
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-career-interview-examples)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CAREER-INTERVIEW-EXAMPLES.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/07-career-transition.md)
 
 <a id="collection-10"></a>
 ## AgentGuide · Claude Code 常见问题
@@ -442,6 +453,7 @@
 - 收录数量：9
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-chapter-claude-faq)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CHAPTER-CLAUDE-FAQ.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/17-claude-code-best-practices.md)
 
 <a id="collection-11"></a>
 ## AgentGuide · Evaluation Harness 面试问答
@@ -450,6 +462,7 @@
 - 收录数量：8
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-chapter-eval-harness)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CHAPTER-EVAL-HARNESS.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/26-agent-evaluation-harness-guide.md)
 
 <a id="collection-12"></a>
 ## AgentGuide · Harness 设计速查
@@ -458,6 +471,7 @@
 - 收录数量：6
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-chapter-harness-quick)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CHAPTER-HARNESS-QUICK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/27-agent-harness-engineering.md)
 
 <a id="collection-13"></a>
 ## AgentGuide · Agent Memory 设计问答
@@ -466,6 +480,7 @@
 - 收录数量：2
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-chapter-memory)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CHAPTER-MEMORY.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/15-agent-memory.md)
 
 <a id="collection-14"></a>
 ## AgentGuide · 向量数据库选型问答
@@ -474,6 +489,7 @@
 - 收录数量：1
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-chapter-vector-selection)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CHAPTER-VECTOR-SELECTION.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/29-vector-database-selection.md)
 
 <a id="collection-15"></a>
 ## AgentGuide · 编码题专题汇编
@@ -482,6 +498,7 @@
 - 收录数量：84
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-coding-derived-bank)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CODING-DERIVED-BANK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/22-algorithm-ai-coding-question-bank.md)
 
 <a id="collection-16"></a>
 ## AgentGuide · 大模型手写代码练习路线
@@ -490,6 +507,7 @@
 - 收录数量：87
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-coding-exercise-route)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-CODING-EXERCISE-ROUTE.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/17-coding-exercises.md)
 
 <a id="collection-17"></a>
 ## AgentGuide · 公司案例问答汇编
@@ -498,6 +516,7 @@
 - 收录数量：263
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-company-cases)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-COMPANY-CASES.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/12-company-interview-cases.md)
 
 <a id="collection-18"></a>
 ## AgentGuide · 开发岗精选复习题
@@ -506,6 +525,7 @@
 - 收录数量：5
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-development-top10)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-DEVELOPMENT-TOP10.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/06-development-specialized.md)
 
 <a id="collection-19"></a>
 ## AgentGuide · Agentic RL 面试指南
@@ -514,6 +534,7 @@
 - 收录数量：19
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-agentic-rl)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-AGENTIC-RL.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/agentic-rl.md)
 
 <a id="collection-20"></a>
 ## AgentGuide · AI Infra 面试指南
@@ -522,6 +543,7 @@
 - 收录数量：18
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-ai-infra)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-AI-INFRA.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/ai-infra.md)
 
 <a id="collection-21"></a>
 ## AgentGuide · Coding Agent 面试指南
@@ -530,6 +552,7 @@
 - 收录数量：18
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-coding-agent)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-CODING-AGENT.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/coding-agent.md)
 
 <a id="collection-22"></a>
 ## AgentGuide · 数据与评测面试指南
@@ -538,6 +561,7 @@
 - 收录数量：18
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-data-and-evaluation)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-DATA-AND-EVALUATION.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/data-and-evaluation.md)
 
 <a id="collection-23"></a>
 ## AgentGuide · 图像生成面试指南
@@ -546,6 +570,7 @@
 - 收录数量：18
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-image-generation)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-IMAGE-GENERATION.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/image-generation.md)
 
 <a id="collection-24"></a>
 ## AgentGuide · 图像生成：白板实现练习
@@ -554,6 +579,7 @@
 - 收录数量：1
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-image-whiteboard)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-IMAGE-WHITEBOARD.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/image-generation.md)
 
 <a id="collection-25"></a>
 ## AgentGuide · 项目主线与深入追问
@@ -562,6 +588,7 @@
 - 收录数量：20
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-project-deep-dive)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-PROJECT-DEEP-DIVE.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/project-deep-dive.md)
 
 <a id="collection-26"></a>
 ## AgentGuide · 自进化 Agent 面试指南
@@ -570,6 +597,7 @@
 - 收录数量：16
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-self-evolving-agents)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-SELF-EVOLVING-AGENTS.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/self-evolving-agents.md)
 
 <a id="collection-27"></a>
 ## AgentGuide · 语音生成面试指南
@@ -578,6 +606,7 @@
 - 收录数量：18
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-speech-generation)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-SPEECH-GENERATION.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/speech-generation.md)
 
 <a id="collection-28"></a>
 ## AgentGuide · 世界模型面试指南
@@ -586,6 +615,7 @@
 - 收录数量：18
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-world-models)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-WORLD-MODELS.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/world-models.md)
 
 <a id="collection-29"></a>
 ## AgentGuide · 世界模型：浏览器Agent项目练习
@@ -594,6 +624,7 @@
 - 收录数量：1
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-frontier-world-project)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-FRONTIER-WORLD-PROJECT.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/23-frontier-interview-guides/world-models.md)
 
 <a id="collection-30"></a>
 ## AgentGuide · HR 面试中的候选人反问
@@ -602,6 +633,7 @@
 - 收录数量：6
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-hr-reverse)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-HR-REVERSE.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/10-hr-interview.md)
 
 <a id="collection-31"></a>
 ## AgentGuide · HR 面试常见问题
@@ -610,6 +642,7 @@
 - 收录数量：13
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-hr-topics)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-HR-TOPICS.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/10-hr-interview.md)
 
 <a id="collection-32"></a>
 ## AgentGuide · LLM推理系统问答
@@ -645,6 +678,7 @@
 - 收录数量：8
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-agent-evaluation-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-EVALUATION-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md)
 
 <a id="collection-36"></a>
 ## AgentGuide · Agent Harness专题问答
@@ -653,6 +687,7 @@
 - 收录数量：9
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-agent-harness-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-HARNESS-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md)
 
 <a id="collection-37"></a>
 ## AgentGuide · Agent Memory专题问答
@@ -661,6 +696,7 @@
 - 收录数量：17
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-agent-memory-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-MEMORY-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md)
 
 <a id="collection-38"></a>
 ## AgentGuide · Skills 与程序性记忆专题问答
@@ -669,6 +705,7 @@
 - 收录数量：10
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-agent-skills-procedural-memory-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md)
 
 <a id="collection-39"></a>
 ## AgentGuide · Agentic RAG 与 Deep Research专题问答
@@ -677,6 +714,7 @@
 - 收录数量：7
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-agentic-rag-deep-research-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md)
 
 <a id="collection-40"></a>
 ## AgentGuide · Claude Code 源码机制专题问答
@@ -685,6 +723,7 @@
 - 收录数量：6
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-claude-code-source-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-CLAUDE-CODE-SOURCE-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/claude-code-source-playbook.md)
 
 <a id="collection-41"></a>
 ## AgentGuide · 数据合成与流水线专题问答
@@ -693,6 +732,7 @@
 - 收录数量：6
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-data-synthesis-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-DATA-SYNTHESIS-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md)
 
 <a id="collection-42"></a>
 ## AgentGuide · 专题学习通用追问
@@ -701,6 +741,7 @@
 - 收录数量：5
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-entry-prompts)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-ENTRY-PROMPTS.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/README.md)
 
 <a id="collection-43"></a>
 ## AgentGuide · Hermes 自进化机制专题问答
@@ -709,6 +750,7 @@
 - 收录数量：6
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-hermes-self-evolution-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-HERMES-SELF-EVOLUTION-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/hermes-self-evolution-playbook.md)
 
 <a id="collection-44"></a>
 ## AgentGuide · OpenClaw 源码机制专题问答
@@ -717,6 +759,7 @@
 - 收录数量：5
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-openclaw-source-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-OPENCLAW-SOURCE-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/openclaw-source-playbook.md)
 
 <a id="collection-45"></a>
 ## AgentGuide · STAR 项目表达专题问答
@@ -725,6 +768,7 @@
 - 收录数量：20
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-playbook-star-storytelling-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-PLAYBOOK-STAR-STORYTELLING-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md)
 
 <a id="collection-46"></a>
 ## AgentGuide · 后训练章节追问
@@ -733,6 +777,7 @@
 - 收录数量：46
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-posttrain-chapter-qa)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-POSTTRAIN-CHAPTER-QA.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md)
 
 <a id="collection-47"></a>
 ## AgentGuide · 后训练核心函数练习
@@ -741,6 +786,7 @@
 - 收录数量：7
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-posttrain-coding-checklist)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-POSTTRAIN-CODING-CHECKLIST.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md)
 
 <a id="collection-48"></a>
 ## AgentGuide · 后训练综合问答
@@ -749,6 +795,7 @@
 - 收录数量：87
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-posttrain-final-bank)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-POSTTRAIN-FINAL-BANK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md)
 
 <a id="collection-49"></a>
 ## AgentGuide · 后训练流程设计
@@ -757,6 +804,7 @@
 - 收录数量：3
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-posttrain-system-design)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-POSTTRAIN-SYSTEM-DESIGN.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/02-tech-stack/25-post-training-complete-guide.md)
 
 <a id="collection-50"></a>
 ## AgentGuide · Agent 框架选择问答
@@ -810,6 +858,7 @@
 - 收录数量：18
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-agent-evaluation-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-AGENT-EVALUATION-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-evaluation-playbook.md)
 
 <a id="collection-56"></a>
 ## AgentGuide · Agent Harness进阶追问
@@ -818,6 +867,7 @@
 - 收录数量：21
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-agent-harness-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-AGENT-HARNESS-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-harness-playbook.md)
 
 <a id="collection-57"></a>
 ## AgentGuide · Agent Memory进阶追问
@@ -826,6 +876,7 @@
 - 收录数量：18
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-agent-memory-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-AGENT-MEMORY-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-memory-playbook.md)
 
 <a id="collection-58"></a>
 ## AgentGuide · Skills 与程序性记忆进阶追问
@@ -834,6 +885,7 @@
 - 收录数量：15
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-agent-skills-procedural-memory-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-AGENT-SKILLS-PROCEDURAL-MEMORY-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agent-skills-procedural-memory-playbook.md)
 
 <a id="collection-59"></a>
 ## AgentGuide · Agentic RAG 与 Deep Research进阶追问
@@ -842,6 +894,7 @@
 - 收录数量：15
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-agentic-rag-deep-research-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-AGENTIC-RAG-DEEP-RESEARCH-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/agentic-rag-deep-research-playbook.md)
 
 <a id="collection-60"></a>
 ## AgentGuide · 数据合成与流水线进阶追问
@@ -850,6 +903,7 @@
 - 收录数量：15
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-review-data-synthesis-playbook)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-REVIEW-DATA-SYNTHESIS-PLAYBOOK.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/data-synthesis-playbook.md)
 
 <a id="collection-61"></a>
 ## AgentGuide · 薪资期望问答
@@ -858,6 +912,7 @@
 - 收录数量：1
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-salary-hr)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-SALARY-HR.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/09-salary-negotiation.md)
 
 <a id="collection-62"></a>
 ## AgentGuide · 薪酬福利反问
@@ -866,6 +921,7 @@
 - 收录数量：5
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-salary-reverse)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-SALARY-REVERSE.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/09-salary-negotiation.md)
 
 <a id="collection-63"></a>
 ## AgentGuide · Agent 团队与岗位反问
@@ -874,6 +930,7 @@
 - 收录数量：4
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-star-reverse-questions)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-STAR-REVERSE-QUESTIONS.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/18-agent-interview-playbooks/star-storytelling-playbook.md)
 
 <a id="collection-64"></a>
 ## AgentGuide · 项目讲述追问
@@ -882,6 +939,7 @@
 - 收录数量：7
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-story-question-map)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-STORY-QUESTION-MAP.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/21-storytelling.md)
 
 <a id="collection-65"></a>
 ## AgentGuide 扩展 · 编程与数据结构算法
@@ -890,6 +948,7 @@
 - 收录数量：403
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-14)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-14.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-66"></a>
 ## AgentGuide 扩展 · Agent与工具调用
@@ -898,6 +957,7 @@
 - 收录数量：256
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-agent)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-AGENT.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-67"></a>
 ## AgentGuide 扩展 · 预训练与架构
@@ -906,6 +966,7 @@
 - 收录数量：265
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-architecture)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-ARCHITECTURE.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-68"></a>
 ## AgentGuide 扩展 · 长上下文
@@ -914,6 +975,7 @@
 - 收录数量：13
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-context)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-CONTEXT.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-69"></a>
 ## AgentGuide 扩展 · 传统NLP任务
@@ -922,6 +984,7 @@
 - 收录数量：13
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-nlp)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-NLP.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-70"></a>
 ## AgentGuide 扩展 · 其他LLM与NLP
@@ -930,6 +993,7 @@
 - 收录数量：34
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-other)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-OTHER.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-71"></a>
 ## AgentGuide 扩展 · Prompt与上下文
@@ -938,6 +1002,7 @@
 - 收录数量：73
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-prompt)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-PROMPT.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-72"></a>
 ## AgentGuide 扩展 · RAG与知识库
@@ -946,6 +1011,7 @@
 - 收录数量：135
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-rag)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-RAG.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-73"></a>
 ## AgentGuide 扩展 · 幻觉与安全
@@ -954,6 +1020,7 @@
 - 收录数量：5
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-safety)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-SAFETY.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-74"></a>
 ## AgentGuide 扩展 · SFT与指令微调
@@ -962,6 +1029,7 @@
 - 收录数量：193
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-sft)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-SFT.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-75"></a>
 ## AgentGuide 扩展 · Tokenizer与Embedding
@@ -970,6 +1038,7 @@
 - 收录数量：25
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-1497-tokenizer)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-1497-TOKENIZER.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-76"></a>
 ## AgentGuide 扩展 · 强化学习与对齐
@@ -978,6 +1047,7 @@
 - 收录数量：200
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-2754)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-2754.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-77"></a>
 ## AgentGuide 扩展 · 多模态与计算机视觉
@@ -986,6 +1056,7 @@
 - 收录数量：428
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-3103)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-3103.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-78"></a>
 ## AgentGuide 扩展 · 推荐搜索与广告
@@ -994,6 +1065,7 @@
 - 收录数量：390
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-3759)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-3759.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-79"></a>
 ## AgentGuide 扩展 · AI系统与训练推理工程
@@ -1002,6 +1074,7 @@
 - 收录数量：606
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-4330)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-4330.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-80"></a>
 ## AgentGuide 扩展 · 数据与评测
@@ -1010,6 +1083,7 @@
 - 收录数量：270
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-5200)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-5200.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-81"></a>
 ## AgentGuide 扩展 · 系统设计与后端基础
@@ -1018,6 +1092,7 @@
 - 收录数量：407
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-5644)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-5644.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-82"></a>
 ## AgentGuide · 数学统计与逻辑
@@ -1026,6 +1101,7 @@
 - 收录数量：51
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-6298)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-6298.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-83"></a>
 ## AgentGuide 扩展 · 项目论文与经历
@@ -1034,6 +1110,7 @@
 - 收录数量：327
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-6444)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-6444.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-84"></a>
 ## AgentGuide · 机器学习基础汇编
@@ -1042,6 +1119,7 @@
 - 收录数量：135
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-695)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-695.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-85"></a>
 ## AgentGuide 扩展 · 业务场景与产品
@@ -1050,6 +1128,7 @@
 - 收录数量：207
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-6952)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-6952.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-86"></a>
 ## AgentGuide 扩展 · 行为面试与HR
@@ -1058,6 +1137,7 @@
 - 收录数量：233
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-7287)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-7287.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-87"></a>
 ## AgentGuide · 深度学习基础汇编
@@ -1066,6 +1146,7 @@
 - 收录数量：333
 - [在线阅读](https://mianstack.com/collection/col-agentguide-ext-xhs-984)
 - [仓库记录](../collections/COL-AGENTGUIDE-EXT-XHS-984.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md)
 
 <a id="collection-88"></a>
 ## AgentGuide · 大模型未来趋势讨论题
@@ -1074,6 +1155,7 @@
 - 收录数量：9
 - [在线阅读](https://mianstack.com/collection/col-agentguide-future)
 - [仓库记录](../collections/COL-AGENTGUIDE-FUTURE.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/14-llm-future-trends.md)
 
 <a id="collection-89"></a>
 ## AgentGuide · 大模型基础面试题
@@ -1082,6 +1164,7 @@
 - 收录数量：96
 - [在线阅读](https://mianstack.com/collection/col-agentguide-llm)
 - [仓库记录](../collections/COL-AGENTGUIDE-LLM.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/16-llm-fundamentals.md)
 
 <a id="collection-90"></a>
 ## AgentGuide · Agent 项目表达与追问
@@ -1090,6 +1173,7 @@
 - 收录数量：5
 - [在线阅读](https://mianstack.com/collection/col-agentguide-project-story)
 - [仓库记录](../collections/COL-AGENTGUIDE-PROJECT-STORY.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/21-storytelling.md)
 
 <a id="collection-91"></a>
 ## AgentGuide · RAG 系统面试题
@@ -1098,6 +1182,7 @@
 - 收录数量：22
 - [在线阅读](https://mianstack.com/collection/col-agentguide-rag)
 - [仓库记录](../collections/COL-AGENTGUIDE-RAG.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/02-rag-questions.md)
 
 <a id="collection-92"></a>
 ## AgentGuide · 简历与项目证据追问
@@ -1106,6 +1191,7 @@
 - 收录数量：4
 - [在线阅读](https://mianstack.com/collection/col-agentguide-resume)
 - [仓库记录](../collections/COL-AGENTGUIDE-RESUME.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/20-resume-guide.md)
 
 <a id="collection-93"></a>
 ## AgentGuide · 理论基础面试题
@@ -1114,6 +1200,7 @@
 - 收录数量：82
 - [在线阅读](https://mianstack.com/collection/col-agentguide-theory)
 - [仓库记录](../collections/COL-AGENTGUIDE-THEORY.json)
+- [原始来源](https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/01-theory-questions.md)
 
 <a id="collection-94"></a>
 ## AI Engineering · Agent 与自主系统
@@ -2850,6 +2937,7 @@
 - 收录数量：12
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-clustering)
 - [仓库记录](../collections/COL-DAILY-AI-CLUSTERING.json)
+- [原始来源](https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms)
 
 <a id="collection-287"></a>
 ## Datawhale 每日面试 · 计算机视觉基础
@@ -2858,6 +2946,7 @@
 - 收录数量：54
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-cv-basics)
 - [仓库记录](../collections/COL-DAILY-AI-CV-BASICS.json)
+- [原始来源](https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms)
 
 <a id="collection-288"></a>
 ## Datawhale 每日面试 · 集成学习与树模型
@@ -2866,6 +2955,7 @@
 - 收录数量：92
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-ensemble)
 - [仓库记录](../collections/COL-DAILY-AI-ENSEMBLE.json)
+- [原始来源](https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms)
 
 <a id="collection-289"></a>
 ## Datawhale 每日面试 · 大语言模型
@@ -2874,6 +2964,7 @@
 - 收录数量：60
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-llm)
 - [仓库记录](../collections/COL-DAILY-AI-LLM.json)
+- [原始来源](https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms)
 
 <a id="collection-290"></a>
 ## Datawhale 每日面试 · 机器学习基础与优化
@@ -2882,6 +2973,7 @@
 - 收录数量：85
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-ml-basics)
 - [仓库记录](../collections/COL-DAILY-AI-ML-BASICS.json)
+- [原始来源](https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms)
 
 <a id="collection-291"></a>
 ## Datawhale 每日面试 · NLP 模型与文本表示
@@ -2890,6 +2982,7 @@
 - 收录数量：28
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-nlp)
 - [仓库记录](../collections/COL-DAILY-AI-NLP.json)
+- [原始来源](https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms)
 
 <a id="collection-292"></a>
 ## Datawhale 每日面试 · 目标检测与文本检测
@@ -2898,6 +2991,7 @@
 - 收录数量：64
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-object-detection)
 - [仓库记录](../collections/COL-DAILY-AI-OBJECT-DETECTION.json)
+- [原始来源](https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms)
 
 <a id="collection-293"></a>
 ## Datawhale 每日面试 · 推荐系统
@@ -2906,6 +3000,7 @@
 - 收录数量：24
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-recommendation)
 - [仓库记录](../collections/COL-DAILY-AI-RECOMMENDATION.json)
+- [原始来源](https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms)
 
 <a id="collection-294"></a>
 ## Datawhale 每日面试 · 监督学习
@@ -2914,6 +3009,7 @@
 - 收录数量：72
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-supervised)
 - [仓库记录](../collections/COL-DAILY-AI-SUPERVISED.json)
+- [原始来源](https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms)
 
 <a id="collection-295"></a>
 ## AI 智能体与大模型应用开发面试题库
@@ -2985,6 +3081,7 @@
 - 收录数量：58
 - [在线阅读](https://mianstack.com/collection/col-javaguide-agent)
 - [仓库记录](../collections/COL-JAVAGUIDE-AGENT.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md)
 
 <a id="collection-303"></a>
 ## JavaGuide · AI 机制与工程问答
@@ -2993,6 +3090,7 @@
 - 收录数量：64
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-article-qa)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-ARTICLE-QA.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai)
 
 <a id="collection-304"></a>
 ## JavaGuide · Agent 机制与项目追问
@@ -3001,6 +3099,7 @@
 - 收录数量：160
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-agent)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-AGENT.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/agent)
 
 <a id="collection-305"></a>
 ## JavaGuide · 模型接口与评测问答
@@ -3009,6 +3108,7 @@
 - 收录数量：49
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-llm)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-LLM.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/llm-basis)
 
 <a id="collection-306"></a>
 ## JavaGuide · 检索与知识工程问答
@@ -3017,6 +3117,7 @@
 - 收录数量：80
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-rag)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-RAG.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/rag)
 
 <a id="collection-307"></a>
 ## JavaGuide · 生产架构与治理问答
@@ -3025,6 +3126,7 @@
 - 收录数量：83
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-systems)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-SYSTEMS.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/system-design)
 
 <a id="collection-308"></a>
 ## JavaGuide · AI 编程与编码 Agent 问答
@@ -3033,6 +3135,7 @@
 - 收录数量：103
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-coding)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-CODING.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai-coding)
 
 <a id="collection-309"></a>
 ## JavaGuide · AI 项目复盘与自测
@@ -3041,6 +3144,7 @@
 - 收录数量：26
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-project-review)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-PROJECT-REVIEW.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai)
 
 <a id="collection-310"></a>
 ## JavaGuide · AI 导读问题
@@ -3049,6 +3153,7 @@
 - 收录数量：39
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-reading-guide)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-READING-GUIDE.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai)
 
 <a id="collection-311"></a>
 ## JavaGuide · AI 系统设计面试题
@@ -3057,6 +3162,7 @@
 - 收录数量：56
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-system-design)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-SYSTEM-DESIGN.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/ai-system-design-interview-questions.md)
 
 <a id="collection-312"></a>
 ## JavaGuide · 大模型基础面试题
@@ -3065,6 +3171,7 @@
 - 收录数量：39
 - [在线阅读](https://mianstack.com/collection/col-javaguide-llm)
 - [仓库记录](../collections/COL-JAVAGUIDE-LLM.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/llm-interview-questions.md)
 
 <a id="collection-313"></a>
 ## JavaGuide · RAG 面试题
@@ -3073,6 +3180,7 @@
 - 收录数量：60
 - [在线阅读](https://mianstack.com/collection/col-javaguide-rag)
 - [仓库记录](../collections/COL-JAVAGUIDE-RAG.json)
+- [原始来源](https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md)
 
 <a id="collection-314"></a>
 ## Agent 面试题
@@ -3135,6 +3243,7 @@
 - 收录数量：50
 - [在线阅读](https://mianstack.com/collection/col-nageoffer-agent-top50)
 - [仓库记录](../collections/COL-NAGEOFFER-AGENT-TOP50.json)
+- [原始来源](https://github.com/nageoffer/ai-handbook/blob/03ad9c7d90b68e0b744b8f4c108f9c8747407aba/docs/interview/top50.md)
 
 <a id="collection-321"></a>
 ## 八股集锦（高频问题）
@@ -3425,6 +3534,15 @@
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/09-rag-retrieval/index.md)
 
 <a id="collection-353"></a>
+## zero2Agent · 工具管理：参数校验、工具路由与百级工具库
+
+- 发布者：Onefly
+- 收录数量：38
+- [在线阅读](https://mianstack.com/collection/col-zero2agent-tool-management)
+- [仓库记录](../collections/COL-ZERO2AGENT-TOOL-MANAGEMENT.json)
+- [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/02-tool-management/index.md)
+
+<a id="collection-354"></a>
 ## zero2Agent · 训练、数据与模型优化：从数据清洗到 LoRA
 
 - 发布者：Onefly

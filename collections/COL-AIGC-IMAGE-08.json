@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-image-08",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 图像创作 · AIGC图像生成框架基础",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/08_AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md",

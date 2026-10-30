@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-daily-ai-cv-basics",
   "publisherId": "PUB-DATAWHALE",
   "title": "Datawhale 每日面试 · 计算机视觉基础",
-  "coverage": [
-    "llm",
-    "training"
-  ],
+  "coverage": ["llm", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "Datawhale daily-interview 的 AI 算法模块原题与追问。",
   "sourceUrl": "https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms",

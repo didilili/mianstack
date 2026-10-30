@@ -123,6 +123,8 @@ mianstack/
 ├── indexes/         # 自动生成的题库目录
 ├── schema/          # 字段与引用规则
 ├── examples/        # 题目、面经与关系文件示例
+├── scripts/         # 内容检查与目录生成
+├── tests/           # 内容检查脚本的测试
 ├── categories.json  # 知识方向与专题
 ├── aliases.json     # 旧题号对应的新题号
 └── publishers.json  # 公开题集发布者

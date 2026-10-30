@@ -1,0 +1,28 @@
+{
+  "name": "mianstack-content",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.22.3"
+  },
+  "scripts": {
+    "build:indexes": "node scripts/build-indexes.mjs",
+    "test": "node --test",
+    "check:indexes": "node scripts/build-indexes.mjs --check",
+    "validate": "npm test && npm run check:indexes",
+    "precommit": "lint-staged && node scripts/prepare-commit.mjs",
+    "prepare": "husky",
+    "format": "prettier . --write --ignore-unknown",
+    "format:check": "prettier . --check --ignore-unknown",
+    "format:file": "prettier --write --ignore-unknown"
+  },
+  "dependencies": {
+    "ajv": "8.20.0"
+  },
+  "devDependencies": {
+    "husky": "9.1.7",
+    "lint-staged": "17.5.1",
+    "prettier": "3.9.8"
+  }
+}

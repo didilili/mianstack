@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://mianstack.com/schema/content.schema.json",
   "title": "面栈内容结构",
-  "description": "题目、面经、分类、题号别名、发布者与公开题集的机器可读结构规则。",
+  "description": "公开题目、面经、知识分类、题号别名、题集来源与原题共用的机器可读结构规则。",
   "$defs": {
     "nonEmptyString": {
       "type": "string",
@@ -63,51 +63,27 @@
         "反问"
       ],
       "x-groups": {
-        "reverse": [
-          "反问"
-        ],
-        "nonTechnical": [
-          "经历介绍",
-          "行为面",
-          "开放讨论",
-          "反问"
-        ]
+        "reverse": ["反问"],
+        "nonTechnical": ["经历介绍", "行为面", "开放讨论", "反问"]
       }
     },
     "questionLevel": {
       "title": "技术难度",
       "type": "string",
-      "enum": [
-        "基础",
-        "进阶",
-        "深入"
-      ]
+      "enum": ["基础", "进阶", "深入"]
     },
     "questionPriority": {
       "title": "准备优先级",
       "type": "string",
-      "enum": [
-        "优先准备",
-        "按岗位选读",
-        "进阶补充",
-        "面试前按需选择"
-      ],
+      "enum": ["优先准备", "按岗位选读", "进阶补充", "面试前按需选择"],
       "x-groups": {
-        "mustReview": [
-          "优先准备"
-        ]
+        "mustReview": ["优先准备"]
       }
     },
     "answerStatus": {
       "title": "答案状态",
       "type": "string",
-      "enum": [
-        "pending",
-        "outline",
-        "draft",
-        "ready",
-        "reviewed"
-      ],
+      "enum": ["pending", "outline", "draft", "ready", "reviewed"],
       "x-enumLabels": {
         "pending": "暂无答案",
         "outline": "答案提纲",
@@ -116,35 +92,20 @@
         "reviewed": "已校对"
       },
       "x-groups": {
-        "answered": [
-          "ready",
-          "reviewed"
-        ],
-        "inProgress": [
-          "outline",
-          "draft"
-        ],
-        "pending": [
-          "pending"
-        ]
+        "answered": ["ready", "reviewed"],
+        "inProgress": ["outline", "draft"],
+        "pending": ["pending"]
       }
     },
     "formatTag": {
       "title": "问法形式标签",
       "type": "string",
-      "enum": [
-        "现场编码",
-        "工具使用",
-        "现场实操",
-        "代码审查"
-      ]
+      "enum": ["现场编码", "工具使用", "现场实操", "代码审查"]
     },
     "contextTag": {
       "title": "场景标签",
       "type": "string",
-      "enum": [
-        "项目语境"
-      ]
+      "enum": ["项目语境"]
     },
     "roleFamily": {
       "title": "岗位职能",
@@ -208,11 +169,7 @@
     "interviewSourceStatus": {
       "title": "来源状态",
       "type": "string",
-      "enum": [
-        "完整可用",
-        "部分可用",
-        "不可用"
-      ]
+      "enum": ["完整可用", "部分可用", "不可用"]
     },
     "interviewStatusReason": {
       "title": "状态原因",
@@ -231,28 +188,17 @@
     "interviewCurationStatus": {
       "title": "整理状态",
       "type": "string",
-      "enum": [
-        "未整理",
-        "初步整理",
-        "部分整理",
-        "已完成"
-      ]
+      "enum": ["未整理", "初步整理", "部分整理", "已完成"]
     },
     "jobNature": {
       "title": "岗位类型",
       "type": "string",
-      "enum": [
-        "实习",
-        "全职"
-      ]
+      "enum": ["实习", "全职"]
     },
     "recruitment": {
       "title": "招聘类型",
       "type": "string",
-      "enum": [
-        "校招",
-        "社招"
-      ]
+      "enum": ["校招", "社招"]
     },
     "batch": {
       "title": "招聘批次",
@@ -275,15 +221,7 @@
     "round": {
       "title": "面试阶段",
       "type": "string",
-      "enum": [
-        "一面",
-        "二面",
-        "三面",
-        "四面",
-        "终面",
-        "电话面",
-        "面委会"
-      ]
+      "enum": ["一面", "二面", "三面", "四面", "终面", "电话面", "面委会"]
     },
     "interviewStage": {
       "title": "面试环节",
@@ -323,48 +261,21 @@
     "roleMethod": {
       "title": "岗位判定方式",
       "type": "string",
-      "enum": [
-        "原文明示",
-        "职责支持",
-        "面试内容推测",
-        "标题与索引推断",
-        "职责推断",
-        "资料不足"
-      ],
+      "enum": ["原文明示", "职责支持", "面试内容推测", "标题与索引推断", "职责推断", "资料不足"],
       "x-groups": {
-        "inferred": [
-          "面试内容推测",
-          "标题与索引推断",
-          "职责推断"
-        ],
-        "notInferred": [
-          "原文明示",
-          "职责支持",
-          "资料不足"
-        ]
+        "inferred": ["面试内容推测", "标题与索引推断", "职责推断"],
+        "notInferred": ["原文明示", "职责支持", "资料不足"]
       }
     },
     "roleConfidence": {
       "title": "岗位置信度",
       "type": "string",
-      "enum": [
-        "高",
-        "中",
-        "低",
-        "不可判定"
-      ]
+      "enum": ["高", "中", "低", "不可判定"]
     },
     "publisherType": {
       "title": "整理者类型",
       "type": "string",
-      "enum": [
-        "individual",
-        "individual_brand",
-        "community",
-        "training_org",
-        "media",
-        "company"
-      ],
+      "enum": ["individual", "individual_brand", "community", "training_org", "media", "company"],
       "x-enumLabels": {
         "individual": "个人整理",
         "individual_brand": "个人整理",
@@ -377,11 +288,7 @@
     "collectionAttributionRole": {
       "title": "来源署名角色",
       "type": "string",
-      "enum": [
-        "author",
-        "question_source",
-        "compiler_responder"
-      ],
+      "enum": ["author", "question_source", "compiler_responder"],
       "x-enumLabels": {
         "author": "原文作者",
         "question_source": "题目来源",
@@ -407,11 +314,7 @@
     "collectionAccess": {
       "title": "访问方式",
       "type": "string",
-      "enum": [
-        "public",
-        "partial",
-        "paid"
-      ],
+      "enum": ["public", "partial", "paid"],
       "x-enumLabels": {
         "public": "公开内容",
         "partial": "部分公开",
@@ -421,11 +324,7 @@
     "collectionVerification": {
       "title": "核验方式",
       "type": "string",
-      "enum": [
-        "publisher_claim",
-        "linked_sources",
-        "verified_source"
-      ],
+      "enum": ["publisher_claim", "linked_sources", "verified_source"],
       "x-enumLabels": {
         "publisher_claim": "发布者声明",
         "linked_sources": "已关联来源",
@@ -435,12 +334,7 @@
     "collectionReviewStatus": {
       "title": "审核状态",
       "type": "string",
-      "enum": [
-        "confirmed",
-        "new_candidate",
-        "needs_review",
-        "excluded"
-      ],
+      "enum": ["confirmed", "new_candidate", "needs_review", "excluded"],
       "x-enumLabels": {
         "confirmed": "已确认",
         "new_candidate": "新题候选",
@@ -448,9 +342,7 @@
         "excluded": "已排除"
       },
       "x-groups": {
-        "published": [
-          "confirmed"
-        ]
+        "published": ["confirmed"]
       }
     },
     "question": {
@@ -543,11 +435,7 @@
       "title": "公司与岗位记录",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "company",
-        "role",
-        "roleMethod"
-      ],
+      "required": ["company", "role", "roleMethod"],
       "properties": {
         "company": {
           "$ref": "#/$defs/nonEmptyString",
@@ -729,12 +617,7 @@
       "title": "知识分类",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "id",
-        "title",
-        "description",
-        "topics"
-      ],
+      "required": ["id", "title", "description", "topics"],
       "properties": {
         "id": {
           "$ref": "#/$defs/categoryId",
@@ -762,11 +645,7 @@
       "title": "题号别名",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "from",
-        "to",
-        "reason"
-      ],
+      "required": ["from", "to", "reason"],
       "properties": {
         "from": {
           "$ref": "#/$defs/questionId",
@@ -786,12 +665,7 @@
       "title": "整理者",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "id",
-        "name",
-        "type",
-        "updatedAt"
-      ],
+      "required": ["id", "name", "type", "updatedAt"],
       "properties": {
         "id": {
           "$ref": "#/$defs/publisherId",
@@ -854,12 +728,7 @@
       "title": "题集条目",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "id",
-        "originalTitle",
-        "sourceUrl",
-        "reviewStatus"
-      ],
+      "required": ["id", "originalTitle", "sourceUrl", "reviewStatus"],
       "properties": {
         "id": {
           "$ref": "#/$defs/nonEmptyString",
@@ -880,29 +749,7 @@
           "type": "string",
           "title": "题目补充说明"
         }
-      },
-      "allOf": [
-        {
-          "if": {
-            "properties": {
-              "reviewStatus": {
-                "const": "confirmed"
-              }
-            },
-            "required": [
-              "reviewStatus"
-            ]
-          },
-          "then": {
-            "properties": {
-              "matches": {
-                "type": "array",
-                "minItems": 1
-              }
-            }
-          }
-        }
-      ]
+      }
     },
     "collection": {
       "title": "面试题集",
@@ -957,9 +804,7 @@
           "type": "object",
           "title": "来源署名",
           "additionalProperties": false,
-          "required": [
-            "name"
-          ],
+          "required": ["name"],
           "properties": {
             "name": {
               "$ref": "#/$defs/nonEmptyString",

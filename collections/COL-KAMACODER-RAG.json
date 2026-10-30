@@ -1,11 +1,6 @@
 {
   "publisherId": "PUB-KAMACODER",
-  "coverage": [
-    "rag",
-    "agent",
-    "ai_engineering",
-    "llm"
-  ],
+  "coverage": ["rag", "agent", "ai_engineering", "llm"],
   "sourceKind": "curated_question_set",
   "access": "public",
   "capturedAt": "2026-10-22",

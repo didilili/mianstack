@@ -3,9 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-multimodal-input-mapper",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 多模态输入映射器",
-  "coverage": [
-    "llm"
-  ],
+  "coverage": ["llm"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的面试题。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80/%E5%A4%9A%E6%A8%A1%E6%80%81-%E8%BE%93%E5%85%A5%E6%98%A0%E5%B0%84%E5%99%A8.md",

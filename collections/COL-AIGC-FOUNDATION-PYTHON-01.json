@@ -4,14 +4,7 @@
   "publisherId": "PUB-WETHINKIN",
   "sourceKind": "curated_question_set",
   "title": "AIGC Interview Book · AI行业常用Python代码案例考频考点",
-  "coverage": [
-    "llm",
-    "rag",
-    "agent",
-    "ai_engineering",
-    "training",
-    "software"
-  ],
+  "coverage": ["llm", "rag", "agent", "ai_engineering", "training", "software"],
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题与工程练习。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9APython/AI%E8%A1%8C%E4%B8%9A%E5%B8%B8%E7%94%A8Python%E4%BB%A3%E7%A0%81%E6%A1%88%E4%BE%8B%E8%80%83%E9%A2%91%E8%80%83%E7%82%B9.md",
   "access": "public",

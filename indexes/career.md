@@ -1,5 +1,7 @@
 # 项目与综合面试
 
+> 本文件由 `npm run build:indexes` 生成，请勿手工修改。
+
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/knowledge/career)
 
 项目表达、个人贡献、协作、成长、职业选择、行为面与候选人反问。

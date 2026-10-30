@@ -3,14 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-zero2agent-engineering-pitfalls",
   "publisherId": "PUB-ONEFLY",
   "title": "zero2Agent · 工程化踩坑：死循环、状态丢失与成本控制",
-  "coverage": [
-    "llm",
-    "agent",
-    "ai_engineering",
-    "software",
-    "coding",
-    "career"
-  ],
+  "coverage": ["llm", "agent", "ai_engineering", "software", "coding", "career"],
   "sourceKind": "course_question_set",
   "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
   "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md",

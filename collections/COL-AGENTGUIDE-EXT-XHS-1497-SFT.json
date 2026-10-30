@@ -4,14 +4,7 @@
   "publisherId": "PUB-AGENTGUIDE",
   "sourceKind": "curated_question_set",
   "title": "AgentGuide 扩展 · SFT与指令微调",
-  "coverage": [
-    "llm",
-    "rag",
-    "agent",
-    "ai_engineering",
-    "training",
-    "career"
-  ],
+  "coverage": ["llm", "rag", "agent", "ai_engineering", "training", "career"],
   "sourceClaim": "AgentGuide 收录的专题题单与练习。",
   "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/19-xiaohongshu-ai-algorithm-interview-bank.md",
   "access": "public",

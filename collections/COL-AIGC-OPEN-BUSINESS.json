@@ -3,12 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-open-business",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · AI业务场景开放问题",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training",
-    "career"
-  ],
+  "coverage": ["llm", "ai_engineering", "training", "career"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的开放讨论题。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A1%8C%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%BC%80%E6%94%BE%E6%80%A7%E9%97%AE%E9%A2%98/AI%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98.md",

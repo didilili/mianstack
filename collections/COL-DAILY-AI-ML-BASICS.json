@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-daily-ai-ml-basics",
   "publisherId": "PUB-DATAWHALE",
   "title": "Datawhale 每日面试 · 机器学习基础与优化",
-  "coverage": [
-    "llm",
-    "training"
-  ],
+  "coverage": ["llm", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "Datawhale daily-interview 的 AI 算法模块原题与追问。其中第 001–005 条来自 CRF 文档、第 006–009 条来自 HMM 文档，两篇均署名李文乐；署名仅适用于这 9 条，Datawhale 为收录与整理项目。",
   "sourceUrl": "https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms",

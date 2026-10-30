@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-agent-09",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 自进化Agent与多平台运行时",
-  "coverage": [
-    "agent",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["agent", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的专题面试题。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80/09_%E8%87%AA%E8%BF%9B%E5%8C%96Agent%E4%B8%8E%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%BF%90%E8%A1%8C%E6%97%B6%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",

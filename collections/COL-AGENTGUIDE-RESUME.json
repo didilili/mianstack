@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-agentguide-resume",
   "publisherId": "PUB-AGENTGUIDE",
   "title": "AgentGuide · 简历与项目证据追问",
-  "coverage": [
-    "agent",
-    "ai_engineering",
-    "career"
-  ],
+  "coverage": ["agent", "ai_engineering", "career"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "AgentGuide 的简历与项目追问。",
   "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/20-resume-guide.md",

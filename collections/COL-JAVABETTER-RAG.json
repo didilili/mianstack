@@ -2,10 +2,7 @@
   "id": "COL-JAVABETTER-RAG",
   "publisherId": "PUB-JAVABETTER",
   "title": "王二讲 Agent · RAG 知识库",
-  "coverage": [
-    "rag",
-    "ai_engineering"
-  ],
+  "coverage": ["rag", "ai_engineering"],
   "sourceUrl": "https://javabetter.cn/ai/video/#_04%E3%80%81rag%E7%9F%A5%E8%AF%86%E5%BA%93-43-%E9%A2%98",
   "sourceKind": "curated_question_set",
   "access": "public",

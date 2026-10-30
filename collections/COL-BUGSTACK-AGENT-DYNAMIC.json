@@ -2,13 +2,7 @@
   "id": "COL-BUGSTACK-AGENT-DYNAMIC",
   "publisherId": "PUB-BUGSTACK",
   "title": "AI Agent 动态编排项目面试题",
-  "coverage": [
-    "agent",
-    "rag",
-    "ai_engineering",
-    "software",
-    "career"
-  ],
+  "coverage": ["agent", "rag", "ai_engineering", "software", "career"],
   "sourceKind": "project_question_set",
   "access": "public",
   "verification": "verified_source",

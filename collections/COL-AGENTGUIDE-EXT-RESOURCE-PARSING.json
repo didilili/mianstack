@@ -4,9 +4,7 @@
   "publisherId": "PUB-AGENTGUIDE",
   "sourceKind": "curated_question_set",
   "title": "AgentGuide · 复杂文档解析问答",
-  "coverage": [
-    "rag"
-  ],
+  "coverage": ["rag"],
   "sourceClaim": "AgentGuide 收录的专题题单与练习。",
   "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/resources/rag/document-parsing.md",
   "access": "public",

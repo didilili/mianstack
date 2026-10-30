@@ -2,13 +2,7 @@
   "id": "COL-CODEFATHER-AI-SUPER-AGENT",
   "publisherId": "PUB-CODEFATHER",
   "title": "AI 超级智能体项目面试题",
-  "coverage": [
-    "agent",
-    "rag",
-    "ai_engineering",
-    "software",
-    "career"
-  ],
+  "coverage": ["agent", "rag", "ai_engineering", "software", "career"],
   "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930",
   "sourceKind": "project_question_set",
   "access": "partial",

@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-classic-face",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 人脸模型",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%9E%8B/%E4%BA%BA%E8%84%B8%E6%A8%A1%E5%9E%8B%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md",

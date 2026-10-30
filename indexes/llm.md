@@ -1,5 +1,7 @@
 # 模型基础与推理
 
+> 本文件由 `npm run build:indexes` 生成，请勿手工修改。
+
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/knowledge/llm)
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。

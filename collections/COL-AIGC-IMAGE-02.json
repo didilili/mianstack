@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-image-02",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 图像创作 · Stable Diffusion&FLUX系列大模型基础",
-  "coverage": [
-    "llm",
-    "training"
-  ],
+  "coverage": ["llm", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/02_Stable%20Diffusion%26FLUX%E7%B3%BB%E5%88%97%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80.md",

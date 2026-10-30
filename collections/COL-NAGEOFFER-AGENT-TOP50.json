@@ -2,14 +2,7 @@
   "id": "COL-NAGEOFFER-AGENT-TOP50",
   "publisherId": "PUB-NAGEOFFER",
   "title": "AI Agent 面试 Top50 必刷题",
-  "coverage": [
-    "agent",
-    "rag",
-    "ai_engineering",
-    "llm",
-    "training",
-    "career"
-  ],
+  "coverage": ["agent", "rag", "ai_engineering", "llm", "training", "career"],
   "sourceUrl": "https://github.com/nageoffer/ai-handbook/blob/03ad9c7d90b68e0b744b8f4c108f9c8747407aba/docs/interview/top50.md",
   "sourceKind": "curated_question_set",
   "access": "public",

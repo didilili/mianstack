@@ -3,14 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-hello-agents-interview",
   "publisherId": "PUB-DATAWHALE",
   "title": "Hello-Agents · LLM、VLM 与 Agent 面试题",
-  "coverage": [
-    "llm",
-    "rag",
-    "agent",
-    "ai_engineering",
-    "training",
-    "career"
-  ],
+  "coverage": ["llm", "rag", "agent", "ai_engineering", "training", "career"],
   "sourceKind": "course_question_set",
   "sourceClaim": "Datawhale Hello-Agents 的《LLM & VLM & Agent 面试问题总结》附录。",
   "sourceUrl": "https://github.com/datawhalechina/hello-agents/blob/36f583c233ea5cee4537ef93455702b55053af18/Extra-Chapter/Extra01-面试问题总结.md",

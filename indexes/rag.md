@@ -1,5 +1,7 @@
 # RAG 与知识系统
 
+> 本文件由 `npm run build:indexes` 生成，请勿手工修改。
+
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/knowledge/rag)
 
 文档处理、检索、重排、知识更新、知识图谱与结构化知识。
