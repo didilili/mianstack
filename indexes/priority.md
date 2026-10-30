@@ -85,6 +85,6 @@
 
 - [Q-0001 请做一个自我介绍，说明自己的实习与学习经历。](../questions/Q-0001.md) · [在线阅读](https://mianstack.com/question/q-0001) · **已有答案**
 - [Q-0002 请介绍一个你做过的项目，包括背景、架构与个人职责。](../questions/Q-0002.md) · [在线阅读](https://mianstack.com/question/q-0002) · **已有答案**
-- [Q-0003 项目或实习中最难的问题是什么，你是如何解决的？](../questions/Q-0003.md) · [在线阅读](https://mianstack.com/question/q-0003)
-- [Q-0021 你的项目使用哪些技术栈，各自负责什么？](../questions/Q-0021.md) · [在线阅读](https://mianstack.com/question/q-0021)
+- [Q-0003 项目或实习中最难的问题是什么，你是如何解决的？](../questions/Q-0003.md) · [在线阅读](https://mianstack.com/question/q-0003) · **已有答案**
+- [Q-0021 你的项目使用哪些技术栈，各自负责什么？](../questions/Q-0021.md) · [在线阅读](https://mianstack.com/question/q-0021) · **已有答案**
 - [Q-0064 你是否完成过端到端需求，如何说明完整交付过程？](../questions/Q-0064.md) · [在线阅读](https://mianstack.com/question/q-0064)
