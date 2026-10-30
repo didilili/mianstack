@@ -1,0 +1,25 @@
+name: 内容反馈
+description: 反馈题目、参考答案、已有面经或关联关系中的问题
+title: "[内容反馈] "
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: 相关内容
+      description: 从面栈网站进入时会自动填写，也可以手动填写题目、面经的编号或链接。
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题说明
+      description: 请说明哪里有问题，可以只指出问题，不必提供修改方案。
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 修改建议或参考资料（可选）
+      description: 如果有修改建议、参考资料或原始链接，可以在这里补充。
