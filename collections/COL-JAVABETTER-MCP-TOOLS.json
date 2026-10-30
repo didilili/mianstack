@@ -1,0 +1,177 @@
+{
+  "id": "COL-JAVABETTER-MCP-TOOLS",
+  "publisherId": "PUB-JAVABETTER",
+  "title": "王二讲 Agent · MCP 与工具调用",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceUrl": "https://javabetter.cn/ai/video/#_09%E3%80%81mcp-%E4%B8%8E%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8-26-%E9%A2%98",
+  "sourceKind": "curated_question_set",
+  "access": "public",
+  "declaredItemCount": 26,
+  "capturedAt": "2026-10-22",
+  "lastCheckedAt": "2026-10-22",
+  "verification": "verified_source",
+  "sourceClaim": "沉默王二“王二讲 Agent”中的MCP 与工具调用专题。",
+  "items": [
+    {
+      "originalTitle": "Function Calling 底层是怎么实现的？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_271-function-calling-%E5%BA%95%E5%B1%82%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-001"
+    },
+    {
+      "originalTitle": "LLM 是如何学会调用外部工具的？Function Call 能力怎么训练？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_272-llm-%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E8%B0%83%E7%94%A8%E5%A4%96%E9%83%A8%E5%B7%A5%E5%85%B7%E7%9A%84-function-call-%E8%83%BD%E5%8A%9B%E6%80%8E%E4%B9%88%E8%AE%AD%E7%BB%83",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-002"
+    },
+    {
+      "originalTitle": "MCP 是什么？它解决了什么问题？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_273-mcp-%E6%98%AF%E4%BB%80%E4%B9%88-%E5%AE%83%E8%A7%A3%E5%86%B3%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-003"
+    },
+    {
+      "originalTitle": "MCP 由哪几部分组成？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_274-mcp-%E7%94%B1%E5%93%AA%E5%87%A0%E9%83%A8%E5%88%86%E7%BB%84%E6%88%90",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-004"
+    },
+    {
+      "originalTitle": "MCP 和 Function Calling 有什么区别？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_275-mcp-%E5%92%8C-function-calling-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-005"
+    },
+    {
+      "originalTitle": "Function Calling、Skill、MCP 三者有什么区别？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_276-function-calling%E3%80%81skill%E3%80%81mcp-%E4%B8%89%E8%80%85%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-006"
+    },
+    {
+      "originalTitle": "MCP Server 的 stdio 和 HTTP 模式分别怎么用？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_277-mcp-server-%E7%9A%84-stdio-%E5%92%8C-http-%E6%A8%A1%E5%BC%8F%E5%88%86%E5%88%AB%E6%80%8E%E4%B9%88%E7%94%A8",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-007"
+    },
+    {
+      "originalTitle": "为什么有些推理模型不支持 MCP？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_278-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B%E4%B8%8D%E6%94%AF%E6%8C%81-mcp",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-008"
+    },
+    {
+      "originalTitle": "什么是 A2A 协议？和 MCP 有什么区别？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_279-%E4%BB%80%E4%B9%88%E6%98%AF-a2a-%E5%8D%8F%E8%AE%AE-%E5%92%8C-mcp-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-009"
+    },
+    {
+      "originalTitle": "WebSocket 和 SSE 通信有什么区别？在 AI 场景中各自怎么用？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_280-websocket-%E5%92%8C-sse-%E9%80%9A%E4%BF%A1%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB-%E5%9C%A8-ai-%E5%9C%BA%E6%99%AF%E4%B8%AD%E5%90%84%E8%87%AA%E6%80%8E%E4%B9%88%E7%94%A8",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-010"
+    },
+    {
+      "originalTitle": "工具描述（Tool Description）怎么写才能让模型准确调用？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_281-%E5%B7%A5%E5%85%B7%E6%8F%8F%E8%BF%B0-tool-description-%E6%80%8E%E4%B9%88%E5%86%99%E6%89%8D%E8%83%BD%E8%AE%A9%E6%A8%A1%E5%9E%8B%E5%87%86%E7%A1%AE%E8%B0%83%E7%94%A8",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-011"
+    },
+    {
+      "originalTitle": "敏感工具的安全控制怎么做？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_282-%E6%95%8F%E6%84%9F%E5%B7%A5%E5%85%B7%E7%9A%84%E5%AE%89%E5%85%A8%E6%8E%A7%E5%88%B6%E6%80%8E%E4%B9%88%E5%81%9A",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-012"
+    },
+    {
+      "originalTitle": "模型编造不存在的工具调用（工具幻觉）怎么防？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_283-%E6%A8%A1%E5%9E%8B%E7%BC%96%E9%80%A0%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8-%E5%B7%A5%E5%85%B7%E5%B9%BB%E8%A7%89-%E6%80%8E%E4%B9%88%E9%98%B2",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-013"
+    },
+    {
+      "originalTitle": "在 Spring AI 框架中如何集成 MCP？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_284-%E5%9C%A8-spring-ai-%E6%A1%86%E6%9E%B6%E4%B8%AD%E5%A6%82%E4%BD%95%E9%9B%86%E6%88%90-mcp",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-014"
+    },
+    {
+      "originalTitle": "MCP 协议安全性设计包含哪些层面？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_285-mcp-%E5%8D%8F%E8%AE%AE%E5%AE%89%E5%85%A8%E6%80%A7%E8%AE%BE%E8%AE%A1%E5%8C%85%E5%90%AB%E5%93%AA%E4%BA%9B%E5%B1%82%E9%9D%A2",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-015"
+    },
+    {
+      "originalTitle": "如何将已有的应用转换成 MCP 服务？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_286-%E5%A6%82%E4%BD%95%E5%B0%86%E5%B7%B2%E6%9C%89%E7%9A%84%E5%BA%94%E7%94%A8%E8%BD%AC%E6%8D%A2%E6%88%90-mcp-%E6%9C%8D%E5%8A%A1",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-016"
+    },
+    {
+      "originalTitle": "什么是 A2A 协议，它的核心架构及主要组件有哪些？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_287-%E4%BB%80%E4%B9%88%E6%98%AF-a2a-%E5%8D%8F%E8%AE%AE-%E5%AE%83%E7%9A%84%E6%A0%B8%E5%BF%83%E6%9E%B6%E6%9E%84%E5%8F%8A%E4%B8%BB%E8%A6%81%E7%BB%84%E4%BB%B6%E6%9C%89%E5%93%AA%E4%BA%9B",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-017"
+    },
+    {
+      "originalTitle": "A2A 协议有哪五大设计原则？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_288-a2a-%E5%8D%8F%E8%AE%AE%E6%9C%89%E5%93%AA%E4%BA%94%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-018"
+    },
+    {
+      "originalTitle": "MCP 和 Skills 有什么区别？分别适用于什么场景？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_289-mcp-%E5%92%8C-skills-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB-%E5%88%86%E5%88%AB%E9%80%82%E7%94%A8%E4%BA%8E%E4%BB%80%E4%B9%88%E5%9C%BA%E6%99%AF",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-019"
+    },
+    {
+      "originalTitle": "不同的 LLM Provider 对 Tool Schema 的支持不完全一致，你会怎么处理这种差异？OpenClaw 是怎么做 Schema 适配的？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_290-%E4%B8%8D%E5%90%8C%E7%9A%84-llm-provider-%E5%AF%B9-tool-schema-%E7%9A%84%E6%94%AF%E6%8C%81%E4%B8%8D%E5%AE%8C%E5%85%A8%E4%B8%80%E8%87%B4-%E4%BD%A0%E4%BC%9A%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%E8%BF%99%E7%A7%8D%E5%B7%AE%E5%BC%82-openclaw-%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A-schema-%E9%80%82%E9%85%8D%E7%9A%84",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-020"
+    },
+    {
+      "originalTitle": "什么是 ACP 协议？它有哪两个不同的含义？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_291-%E4%BB%80%E4%B9%88%E6%98%AF-acp-%E5%8D%8F%E8%AE%AE-%E5%AE%83%E6%9C%89%E5%93%AA%E4%B8%A4%E4%B8%AA%E4%B8%8D%E5%90%8C%E7%9A%84%E5%90%AB%E4%B9%89",
+      "reviewStatus": "confirmed",
+      "reviewNote": "原题未展开所称“两个不同的含义”对应的协议全称。",
+      "id": "COL-JAVABETTER-MCP-TOOLS-021"
+    },
+    {
+      "originalTitle": "Agent 的工具分哪几类？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_292-agent-%E7%9A%84%E5%B7%A5%E5%85%B7%E5%88%86%E5%93%AA%E5%87%A0%E7%B1%BB",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-022"
+    },
+    {
+      "originalTitle": "一项能力该做成专用工具、通用执行器还是 Skill？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_293-%E4%B8%80%E9%A1%B9%E8%83%BD%E5%8A%9B%E8%AF%A5%E5%81%9A%E6%88%90%E4%B8%93%E7%94%A8%E5%B7%A5%E5%85%B7%E3%80%81%E9%80%9A%E7%94%A8%E6%89%A7%E8%A1%8C%E5%99%A8%E8%BF%98%E6%98%AF-skill",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-023"
+    },
+    {
+      "originalTitle": "什么是工具参数的静默转换？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_294-%E4%BB%80%E4%B9%88%E6%98%AF%E5%B7%A5%E5%85%B7%E5%8F%82%E6%95%B0%E7%9A%84%E9%9D%99%E9%BB%98%E8%BD%AC%E6%8D%A2",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-024"
+    },
+    {
+      "originalTitle": "Agent 有上百个工具时怎么办？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_295-agent-%E6%9C%89%E4%B8%8A%E7%99%BE%E4%B8%AA%E5%B7%A5%E5%85%B7%E6%97%B6%E6%80%8E%E4%B9%88%E5%8A%9E",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-025"
+    },
+    {
+      "originalTitle": "多个 MCP 服务器有功能重叠的工具，怎么选？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_296-%E5%A4%9A%E4%B8%AA-mcp-%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9C%89%E5%8A%9F%E8%83%BD%E9%87%8D%E5%8F%A0%E7%9A%84%E5%B7%A5%E5%85%B7-%E6%80%8E%E4%B9%88%E9%80%89",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-MCP-TOOLS-026"
+    }
+  ],
+  "readingUrl": "https://mianstack.com/collection/col-javabetter-mcp-tools"
+}

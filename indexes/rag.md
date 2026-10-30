@@ -4,7 +4,7 @@
 
 文档处理、检索、重排、知识更新、知识图谱与结构化知识。
 
-共 414 道题，分为 13 个专题。
+共 438 道题，分为 13 个专题。
 
 ## 页内导航
 
@@ -83,6 +83,9 @@
 - [Q-5155 RAG 从 Naive、Advanced 到 Modular 有哪些演进，各解决什么问题？](../questions/Q-5155.md) · [在线阅读](https://mianstack.com/question/q-5155)
 - [Q-5299 长文档问答如何结合摘要与 RAG，同时支持全局概括和细节查询？](../questions/Q-5299.md) · [在线阅读](https://mianstack.com/question/q-5299)
 - [Q-5679 如何通过检索与插入生成文本和图像、视频混合的回答？](../questions/Q-5679.md) · [在线阅读](https://mianstack.com/question/q-5679)
+- [Q-7058 知识库的文件系统组织范式是什么，如何支持 Agent 检索与维护？](../questions/Q-7058.md) · [在线阅读](https://mianstack.com/question/q-7058)
+- [Q-7062 Spring AI 的 ContextualQueryAugmenter 如何增强查询并处理空检索上下文？](../questions/Q-7062.md) · [在线阅读](https://mianstack.com/question/q-7062)
+- [Q-7063 Spring AI 模块化 RAG 的预检索、检索与后检索阶段如何分工？](../questions/Q-7063.md) · [在线阅读](https://mianstack.com/question/q-7063)
 
 <a id="topic-2"></a>
 ## 文档解析与清洗
@@ -117,6 +120,8 @@
 - [Q-5689 跨页段落与表格如何判断连续关系并重建，文本相似度规则有何局限？](../questions/Q-5689.md) · [在线阅读](https://mianstack.com/question/q-5689)
 - [Q-5690 低质量扫描文档如何组织图像增强与几何校正流水线？](../questions/Q-5690.md) · [在线阅读](https://mianstack.com/question/q-5690)
 - [Q-6823 如何从句子或段落中提取任务相关的关键信息？](../questions/Q-6823.md) · [在线阅读](https://mianstack.com/question/q-6823)
+- [Q-7060 长文档解析与入库时，如何控制峰值内存并避免 OOM？](../questions/Q-7060.md) · [在线阅读](https://mianstack.com/question/q-7060)
+- [Q-7084 什么是 RAG 文档 ETL，如何用 Spring AI 实现？](../questions/Q-7084.md) · [在线阅读](https://mianstack.com/question/q-7084)
 
 <a id="topic-3"></a>
 ## 文档切分与元数据
@@ -146,6 +151,8 @@
 - [Q-4951 向量数据库中的元数据有什么作用，应如何组织和使用？](../questions/Q-4951.md) · [在线阅读](https://mianstack.com/question/q-4951)
 - [Q-5121 实现基于语义边界的文档分块算法。](../questions/Q-5121.md) · [在线阅读](https://mianstack.com/question/q-5121)
 - [Q-5535 如何组织文档结构与元数据，提高检索和引用质量？](../questions/Q-5535.md) · [在线阅读](https://mianstack.com/question/q-5535)
+- [Q-7085 RAG 文档如何自动生成并校验元数据标注？](../questions/Q-7085.md) · [在线阅读](https://mianstack.com/question/q-7085)
+- [Q-7086 Spring AI 的 KeywordMetadataEnricher 如何提取并补充关键词元数据？](../questions/Q-7086.md) · [在线阅读](https://mianstack.com/question/q-7086)
 
 <a id="topic-4"></a>
 ## Embedding 与向量表示
@@ -171,6 +178,7 @@
 - [Q-4948 Embedding Cache 如何缓存和复用文本向量？](../questions/Q-4948.md) · [在线阅读](https://mianstack.com/question/q-4948)
 - [Q-5053 从零实现余弦相似度、点积和欧氏距离。](../questions/Q-5053.md) · [在线阅读](https://mianstack.com/question/q-5053)
 - [Q-6284 SimCSE 如何通过对比学习训练句向量？](../questions/Q-6284.md) · [在线阅读](https://mianstack.com/question/q-6284)
+- [Q-7059 常见文本 Embedding 方法有哪些，各有什么特点？](../questions/Q-7059.md) · [在线阅读](https://mianstack.com/question/q-7059)
 
 <a id="topic-5"></a>
 ## 向量数据库与索引
@@ -208,6 +216,7 @@
 - [Q-4553 ANN 如何加速 RAG 向量检索，典型搜索流程是什么？](../questions/Q-4553.md) · [在线阅读](https://mianstack.com/question/q-4553)
 - [Q-4950 向量数据库如何组织多租户索引与查询隔离？](../questions/Q-4950.md) · [在线阅读](https://mianstack.com/question/q-4950)
 - [Q-5158 pgvector 的向量索引如何配置、验证和维护？](../questions/Q-5158.md) · [在线阅读](https://mianstack.com/question/q-5158)
+- [Q-7065 向量索引如何构建、查询和维护？](../questions/Q-7065.md) · [在线阅读](https://mianstack.com/question/q-7065)
 
 <a id="topic-6"></a>
 ## 查询理解与改写
@@ -224,6 +233,9 @@
 - [Q-2171 除了压缩，还会对长 Query 做哪些处理？](../questions/Q-2171.md) · [在线阅读](https://mianstack.com/question/q-2171)
 - [Q-3721 Query 重构有哪些常见方法，各适合什么场景？](../questions/Q-3721.md) · [在线阅读](https://mianstack.com/question/q-3721)
 - [Q-4750 用 Python 实现 HyDE 检索流程。](../questions/Q-4750.md) · [在线阅读](https://mianstack.com/question/q-4750)
+- [Q-7061 什么是 RAG 自查询（Self-Query），它如何生成检索查询与元数据过滤条件？](../questions/Q-7061.md) · [在线阅读](https://mianstack.com/question/q-7061)
+- [Q-7087 多查询扩展有什么作用，如何基于 Spring AI 实现？](../questions/Q-7087.md) · [在线阅读](https://mianstack.com/question/q-7087)
+- [Q-7088 Spring AI 如何通过 RewriteQueryTransformer 实现查询重写？](../questions/Q-7088.md) · [在线阅读](https://mianstack.com/question/q-7088)
 
 <a id="topic-7"></a>
 ## 召回策略与检索
@@ -281,6 +293,8 @@
 - [Q-6306 粗粒度定位再细粒度检索如何设计，并避免上游漏召回？](../questions/Q-6306.md) · [在线阅读](https://mianstack.com/question/q-6306)
 - [Q-6642 如何从历史黑产交易中检索行为异常相似的风险案例？](../questions/Q-6642.md) · [在线阅读](https://mianstack.com/question/q-6642)
 - [Q-6821 如何为关键词检索选择技术和工具？](../questions/Q-6821.md) · [在线阅读](https://mianstack.com/question/q-6821)
+- [Q-7015 预建索引的 RAG 与 Agent 自主文件检索如何选型？](../questions/Q-7015.md) · [在线阅读](https://mianstack.com/question/q-7015)
+- [Q-7064 多个知识库的 RAG 如何兼顾查询效率、证据准确性与回答可信度？](../questions/Q-7064.md) · [在线阅读](https://mianstack.com/question/q-7064)
 
 <a id="topic-8"></a>
 ## 混合检索与重排序
@@ -476,6 +490,16 @@
 - [Q-4555 如何统一检索知识图谱与非结构化文档，为 RAG 提供证据？](../questions/Q-4555.md) · [在线阅读](https://mianstack.com/question/q-4555)
 - [Q-5489 如何设计命名实体链接系统？](../questions/Q-5489.md) · [在线阅读](https://mianstack.com/question/q-5489)
 - [Q-6129 HippoRAG 如何用 Personalized PageRank 支持关联检索，与独立 Top-K 检索有何区别？](../questions/Q-6129.md) · [在线阅读](https://mianstack.com/question/q-6129)
+- [Q-7023 从 Naive RAG、Advanced RAG 到 GraphRAG，知识组织与检索方式如何演进？](../questions/Q-7023.md) · [在线阅读](https://mianstack.com/question/q-7023)
+- [Q-7024 GraphRAG 落地时常见的构建、更新与社区粒度问题是什么？](../questions/Q-7024.md) · [在线阅读](https://mianstack.com/question/q-7024)
+- [Q-7025 LightRAG 是什么，它主要针对哪些图增强检索需求？](../questions/Q-7025.md) · [在线阅读](https://mianstack.com/question/q-7025)
+- [Q-7026 LightRAG 与 Microsoft GraphRAG 在索引和检索机制上有什么区别？](../questions/Q-7026.md) · [在线阅读](https://mianstack.com/question/q-7026)
+- [Q-7027 GraphRAG 与 LightRAG 如何按数据更新、查询类型和成本选型？](../questions/Q-7027.md) · [在线阅读](https://mianstack.com/question/q-7027)
+- [Q-7028 GraphRAG 与知识图谱问答（KGQA）有什么区别？](../questions/Q-7028.md) · [在线阅读](https://mianstack.com/question/q-7028)
+- [Q-7029 Microsoft GraphRAG 为什么采用 Leiden 进行社区发现，它与 Louvain 有什么区别？](../questions/Q-7029.md) · [在线阅读](https://mianstack.com/question/q-7029)
+- [Q-7030 Microsoft GraphRAG 的 Map-Reduce 全局查询为何消耗 Token，如何控制查询成本？](../questions/Q-7030.md) · [在线阅读](https://mianstack.com/question/q-7030)
+- [Q-7031 预算有限但需要全局知识查询时，如何设计检索方案？](../questions/Q-7031.md) · [在线阅读](https://mianstack.com/question/q-7031)
+- [Q-7057 RAPTOR 与 GraphRAG 分别适合哪些查询，如何选择？](../questions/Q-7057.md) · [在线阅读](https://mianstack.com/question/q-7057)
 
 <a id="topic-13"></a>
 ## 结构化知识与 Text-to-SQL

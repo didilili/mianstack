@@ -2,12 +2,13 @@
   {
     "id": "PUB-XL",
     "name": "小林 Coding",
+    "bio": "知名博主，图解计算机系列教程作者，代表作品有《图解网络》《图解操作系统》等。公众号：小林coding。",
     "handle": "xiaolincoder",
     "type": "individual_brand",
     "homepage": "https://www.xiaolincoding.com/",
     "githubHomepage": "https://github.com/xiaolincoder/",
     "githubRepositories": ["https://github.com/xiaolincoder/CS-Base"],
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
   },
   {
     "id": "PUB-WB",
@@ -28,36 +29,40 @@
   {
     "id": "PUB-DIDILILI",
     "name": "didilili",
+    "bio": "知名开源教程 ai-agents-from-zero 作者，AI Agents 社群「胡思妙想研究所」主理人。",
     "handle": "didilili",
     "type": "individual",
     "githubHomepage": "https://github.com/didilili/",
     "githubRepositories": ["https://github.com/didilili/ai-agents-from-zero"],
     "avatarUrl": "https://avatars.githubusercontent.com/u/49889928?v=4",
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
   },
   {
     "id": "PUB-JAVAGUIDE",
     "name": "Guide",
+    "bio": "知名博主，JavaGuide 开源学习指南作者。公众号：JavaGuide。",
     "handle": "Snailclimb",
     "type": "individual_brand",
     "githubHomepage": "https://github.com/Snailclimb/",
     "githubRepositories": ["https://github.com/Snailclimb/JavaGuide"],
     "avatarUrl": "https://avatars.githubusercontent.com/u/29880145?v=4",
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
   },
   {
     "id": "PUB-AGENTGUIDE",
     "name": "阿东玩 AI",
+    "bio": "知名开源项目 AgentGuide 作者。公众号：阿东玩AI。",
     "handle": "Adong",
     "type": "individual_brand",
     "githubHomepage": "https://github.com/adongwanai/",
     "githubRepositories": ["https://github.com/adongwanai/AgentGuide"],
     "avatarUrl": "https://avatars.githubusercontent.com/u/54011546?v=4",
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
   },
   {
     "id": "PUB-DATAWHALE",
     "name": "Datawhale",
+    "bio": "国内 AI 领域的知名开源组织，成立于2018年，与学习者一起成长。公众号：Datawhale。",
     "handle": "datawhalechina",
     "type": "community",
     "githubHomepage": "https://github.com/datawhalechina/",
@@ -66,21 +71,23 @@
       "https://github.com/datawhalechina/hello-agents"
     ],
     "avatarUrl": "https://avatars.githubusercontent.com/u/46047812?v=4",
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
   },
   {
     "id": "PUB-ONEFLY",
     "name": "Onefly",
+    "bio": "zero2Agent 开源教程作者。",
     "handle": "ranxi2001",
     "type": "individual",
     "githubHomepage": "https://github.com/ranxi2001/",
     "githubRepositories": ["https://github.com/ranxi2001/zero2Agent"],
     "avatarUrl": "https://avatars.githubusercontent.com/u/77790009?v=4",
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
   },
   {
     "id": "PUB-AMIT-SHEKHAR",
     "name": "AMIT SHEKHAR",
+    "bio": "知名开发者，Outcome School 创始人。",
     "handle": "amitshekhariitbhu",
     "type": "individual",
     "githubHomepage": "https://github.com/amitshekhariitbhu/",
@@ -88,46 +95,113 @@
       "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions"
     ],
     "avatarUrl": "https://avatars.githubusercontent.com/u/9877145?v=4",
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
   },
   {
     "id": "PUB-BBRUCEYUAN",
     "name": "Chaofa Yuan",
+    "bio": "知名开源项目 LLMs-Zero-to-Hero 作者。公众号：袁朝发。",
     "handle": "bbruceyuan",
     "type": "individual_brand",
     "githubHomepage": "https://github.com/bbruceyuan/",
     "githubRepositories": ["https://github.com/bbruceyuan/AI-Interview-Code"],
     "avatarUrl": "https://avatars.githubusercontent.com/u/16234167?v=4",
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
   },
   {
     "id": "PUB-WDNDEV",
     "name": "Firefly",
+    "bio": "知名开源项目 LLMs Interview Note 作者。",
     "handle": "wdndev",
     "type": "individual",
     "githubHomepage": "https://github.com/wdndev/",
     "githubRepositories": ["https://github.com/wdndev/llm_interview_note"],
     "avatarUrl": "https://avatars.githubusercontent.com/u/83126264?v=4",
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
   },
   {
     "id": "PUB-WETHINKIN",
     "name": "Rocky Ding",
+    "bio": "知名开源项目 三年面试五年模拟 作者。公众号：WeThinkIn。",
     "handle": "WeThinkIn",
     "type": "individual_brand",
     "githubHomepage": "https://github.com/WeThinkIn/",
     "githubRepositories": ["https://github.com/WeThinkIn/AIGC-Interview-Book"],
     "avatarUrl": "https://avatars.githubusercontent.com/u/48612300?v=4",
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
   },
   {
     "id": "PUB-AIMLINTERVIEWS",
     "name": "Alireza Dirafzoon",
+    "bio": "AWS 应用 AI 科学家，AIMLInterviews 面试指南作者。",
     "handle": "alirezadir",
     "type": "individual_brand",
     "githubHomepage": "https://github.com/alirezadir/",
     "githubRepositories": ["https://github.com/alirezadir/AIMLInterviews"],
     "avatarUrl": "https://avatars.githubusercontent.com/u/5262877?v=4",
-    "updatedAt": "2026-10-20"
+    "updatedAt": "2026-10-23"
+  },
+  {
+    "id": "PUB-KAMACODER",
+    "name": "卡码笔记",
+    "bio": "由知名博主、《代码随想录》作者程序员 Carl 主理的面试知识库。",
+    "handle": "kamacoder",
+    "type": "individual_brand",
+    "homepage": "https://notes.kamacoder.com/",
+    "githubHomepage": "https://github.com/youngyangyang04/",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8636020?v=4",
+    "updatedAt": "2026-10-23"
+  },
+  {
+    "id": "PUB-BUGSTACK",
+    "name": "小傅哥",
+    "bio": "知名博主，《重学Java设计模式》《手写MyBatis：渐进式源码实践》图书作者。公众号：bugstack虫洞栈。",
+    "handle": "bugstack",
+    "type": "individual_brand",
+    "homepage": "https://bugstack.cn/",
+    "githubHomepage": "https://github.com/fuzhengwei/",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3761578?v=4",
+    "updatedAt": "2026-10-23"
+  },
+  {
+    "id": "PUB-JAVABETTER",
+    "name": "沉默王二",
+    "bio": "知名博主，《二哥的 Java 进阶之路》作者。公众号：沉默王二。",
+    "nickname": "二哥",
+    "handle": "itwanger",
+    "type": "individual_brand",
+    "homepage": "https://javabetter.cn/",
+    "githubHomepage": "https://github.com/itwanger/",
+    "githubRepositories": [
+      "https://github.com/itwanger/toBeBetterJavaer",
+      "https://github.com/itwanger/ai-better"
+    ],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6011374?v=4",
+    "updatedAt": "2026-10-23"
+  },
+  {
+    "id": "PUB-NAGEOFFER",
+    "name": "程序员马丁",
+    "bio": "拿个offer 创始人，知名开源项目 Ragent AI 作者。",
+    "nickname": "拿个offer",
+    "handle": "nageoffer",
+    "type": "individual_brand",
+    "homepage": "https://nageoffer.com/",
+    "githubHomepage": "https://github.com/nageoffer/",
+    "githubRepositories": ["https://github.com/nageoffer/ai-handbook"],
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137861100?v=4",
+    "updatedAt": "2026-10-23"
+  },
+  {
+    "id": "PUB-CODEFATHER",
+    "name": "编程导航",
+    "bio": "知名博主程序员鱼皮创办的编程学习社区。公众号：程序员鱼皮。",
+    "nickname": "程序员鱼皮",
+    "handle": "codefather",
+    "type": "individual_brand",
+    "homepage": "https://www.codefather.cn/",
+    "githubHomepage": "https://github.com/liyupi/",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26037703?v=4",
+    "updatedAt": "2026-10-23"
   }
 ]

@@ -1,0 +1,143 @@
+{
+  "id": "COL-CODEFATHER-AI-SUPER-AGENT",
+  "publisherId": "PUB-CODEFATHER",
+  "title": "AI 超级智能体项目面试题",
+  "coverage": [
+    "agent",
+    "rag",
+    "ai_engineering",
+    "software",
+    "career"
+  ],
+  "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930",
+  "sourceKind": "project_question_set",
+  "access": "partial",
+  "declaredItemCount": 55,
+  "capturedAt": "2026-10-22",
+  "lastCheckedAt": "2026-10-22",
+  "verification": "verified_source",
+  "sourceClaim": "《AI 超级智能体》课程配套题目，题干目录公开，题解需 VIP。",
+  "items": [
+    {
+      "originalTitle": "请介绍一下 AI 超级智能体项目的整体架构设计，有哪些模块？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742299215024130",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-001"
+    },
+    {
+      "originalTitle": "什么是 Spring AI 框架？它有哪些核心特性？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742299558957057",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-002"
+    },
+    {
+      "originalTitle": "你在 AI 超级智能体项目中如何利用 Spring AI 开发应用？用到了哪些特性？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742299907084290",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-003"
+    },
+    {
+      "originalTitle": "如何实现程序和 AI 大模型的集成？有哪些方式？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742300288765953",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-004"
+    },
+    {
+      "originalTitle": "你在 AI 超级智能体项目中集成了哪些大模型，遇到了什么挑战？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742300716584962",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-005"
+    },
+    {
+      "originalTitle": "如何实现 AI 多轮对话功能？如何解决对话记忆持久化问题？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742301052129281",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-006"
+    },
+    {
+      "originalTitle": "你在 AI 超级智能体项目中如何实现对话记忆持久化？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742301379284993",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-007"
+    },
+    {
+      "originalTitle": "什么是结构化输出？Spring AI 是怎么实现结构化输出的？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742301668691969",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-008"
+    },
+    {
+      "originalTitle": "什么是 Re-Reading？如何基于 Spring AI 实现 Re-Reading Advisor？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742301949710338",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-009"
+    },
+    {
+      "originalTitle": "在 AI 超级智能体项目中你是如何实现 RAG 知识库构建的？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742302260088834",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-010"
+    },
+    {
+      "originalTitle": "RAG 的文档处理流程是怎样的？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742302566273026",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-011"
+    },
+    {
+      "originalTitle": "什么是 ETL 数据处理？在构建 RAG 知识库时有什么作用？你是如何利用 Spring AI 实现 ETL 的？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742302897623041",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-012"
+    },
+    {
+      "originalTitle": "在 AI 超级智能体项目中，你是如何实现 RAG 向量存储的？为什么这么实现？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742303174447105",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-013"
+    },
+    {
+      "originalTitle": "在 AI 超级智能体项目中，你为什么要设计批处理优化策略？它解决了什么问题？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742303518380034",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-014"
+    },
+    {
+      "originalTitle": "在 AI 超级智能体项目中，你怎么实现自动元信息标注？元信息有什么作用？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742303820369921",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-015"
+    },
+    {
+      "originalTitle": "基于 Spring AI 的 KeywordMetadataEnricher 实现的关键词元信息提取器具体是如何工作的？有哪些优势？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742304147525634",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-016"
+    },
+    {
+      "originalTitle": "什么是多查询扩展？它有什么作用？如何基于 Spring AI 实现多查询扩展？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742304483069954",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-017"
+    },
+    {
+      "originalTitle": "什么是查询重写？它有什么作用？如何基于 Spring AI 实现查询重写？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742304764088322",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-018"
+    },
+    {
+      "originalTitle": "在 AI 超级智能体项目中，你为什么要使用动态 RAG Advisor 工厂？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742305133187074",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-019"
+    },
+    {
+      "originalTitle": "什么是上下文查询增强？它有什么作用？如何基于 Spring AI 实现上下文查询增强来处理无关问题？",
+      "sourceUrl": "https://www.mianshiya.com/bank/1929747035048828930/question/1929742305481314305",
+      "reviewStatus": "confirmed",
+      "id": "COL-CODEFATHER-AI-SUPER-AGENT-020"
+    }
+  ],
+  "readingUrl": "https://mianstack.com/collection/col-codefather-ai-super-agent"
+}

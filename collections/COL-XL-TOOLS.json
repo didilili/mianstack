@@ -12,10 +12,10 @@
   "sourceUrl": "https://xiaolinnote.com/ai/tools/tools_info.html",
   "sourceKind": "curated_question_set",
   "access": "public",
-  "declaredItemCount": 16,
+  "declaredItemCount": 22,
   "capturedAt": "2026-09-13",
-  "lastCheckedAt": "2026-09-13",
-  "verification": "publisher_claim",
+  "lastCheckedAt": "2026-10-22",
+  "verification": "verified_source",
   "sourceClaim": "小林 Coding 的面试题单。",
   "items": [
     {
@@ -124,6 +124,30 @@
       "id": "COL-XL-TOOLS-018",
       "originalTitle": "工具调用格式非法、参数错误、超时或失败时，Agent 如何容错？",
       "sourceUrl": "https://xiaolinnote.com/ai/tools/18_tool_reliability.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-TOOLS-019",
+      "originalTitle": "为什么要把 Agent 的工具执行流程封装成 CLI？",
+      "sourceUrl": "https://xiaolinnote.com/ai/tools/19_cli_packaging.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-TOOLS-020",
+      "originalTitle": "Agent 接入工具时应该如何选择 CLI 或 MCP？",
+      "sourceUrl": "https://xiaolinnote.com/ai/tools/20_cli_vs_mcp.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-TOOLS-021",
+      "originalTitle": "Agent 的代码执行沙箱应该如何设计？",
+      "sourceUrl": "https://xiaolinnote.com/ai/tools/21_execution_sandbox.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-TOOLS-022",
+      "originalTitle": "Agent 的 Skill 加载机制是如何实现的？",
+      "sourceUrl": "https://xiaolinnote.com/ai/tools/22_skill_loading.html",
       "reviewStatus": "confirmed"
     }
   ]

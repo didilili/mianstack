@@ -10,10 +10,10 @@
   "sourceUrl": "https://xiaolinnote.com/ai/rag/rag_info.html",
   "sourceKind": "curated_question_set",
   "access": "public",
-  "declaredItemCount": 21,
+  "declaredItemCount": 23,
   "capturedAt": "2026-09-13",
-  "lastCheckedAt": "2026-09-13",
-  "verification": "publisher_claim",
+  "lastCheckedAt": "2026-10-22",
+  "verification": "verified_source",
   "sourceClaim": "小林 Coding 的面试题单。",
   "items": [
     {
@@ -140,6 +140,18 @@
       "id": "COL-XL-RAG-021",
       "originalTitle": "不同来源的文档发生知识冲突时，RAG 应该信谁？",
       "sourceUrl": "https://xiaolinnote.com/ai/rag/21_knowledge_conflict.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-RAG-022",
+      "originalTitle": "上下文窗口很大时为什么还需要 RAG？",
+      "sourceUrl": "https://xiaolinnote.com/ai/rag/22_rag_long_context.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-RAG-023",
+      "originalTitle": "RAG 与 Agent 自主文件检索应该如何选型？",
+      "sourceUrl": "https://xiaolinnote.com/ai/rag/23_rag_vs_file_search.html",
       "reviewStatus": "confirmed"
     }
   ]
