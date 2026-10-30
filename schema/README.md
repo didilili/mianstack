@@ -134,6 +134,7 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 | `name`               | 整理者名称            | string | Web 展示名称                                                                |
 | `handle`             | 作者英文标识          | string | 可选；单路径段格式见 schema，跨作者不区分大小写唯一，URL 保留原大小写       |
 | `nickname`           | 昵称                  | string | 可选；整理者公开使用的非空昵称                                              |
+| `bio`                | 作者简介              | string | 可选；非空的作者或组织简介                                                  |
 | `type`               | 整理者类型            | enum   | 取值和显示见 schema 的 `publisherType`                                      |
 | `githubHomepage`     | GitHub 作者或组织主页 | URL    | 可选；规范 HTTPS GitHub 主页，格式约束见 schema                             |
 | `githubRepositories` | GitHub 题集仓库主页   | URL[]  | 可选；非空、去重的规范 GitHub 仓库主页，格式约束见 schema；无已知仓库时省略 |
