@@ -47,7 +47,7 @@
 - [Q-3972 AI Agent 有哪些常用设计模式，分别适合解决什么问题？](../questions/Q-3972.md) · [在线阅读](https://mianstack.com/question/q-3972) · **已有答案**
 - [Q-4030 如何从零设计面向云产品的智能客服系统？](../questions/Q-4030.md) · [在线阅读](https://mianstack.com/question/q-4030)
 - [Q-4036 为什么自研 Agent Runtime，而不直接使用开源框架？](../questions/Q-4036.md) · [在线阅读](https://mianstack.com/question/q-4036)
-- [Q-4061 智能问数 Agent 的架构和执行流程应如何设计？](../questions/Q-4061.md) · [在线阅读](https://mianstack.com/question/q-4061)
+- [Q-4061 智能问数 Agent 的架构和执行流程应如何设计？](../questions/Q-4061.md) · [在线阅读](https://mianstack.com/question/q-4061) · **已有答案**
 - [Q-4075 运维知识库系统应设计成 QA 助手还是 Agent？](../questions/Q-4075.md) · [在线阅读](https://mianstack.com/question/q-4075)
 - [Q-4188 Agent 解决什么问题，为什么选择 Agent 而不是直接调用大模型？](../questions/Q-4188.md) · [在线阅读](https://mianstack.com/question/q-4188)
 
@@ -58,7 +58,7 @@
 - [Q-0056 如何量化评估 Agent 输出质量或任务成功率？](../questions/Q-0056.md) · [在线阅读](https://mianstack.com/question/q-0056) · **已有答案**
 - [Q-0059 Agent 效果不达预期时，如何分析 Bad Case 并确定优化方向？](../questions/Q-0059.md) · [在线阅读](https://mianstack.com/question/q-0059) · **已有答案**
 - [Q-0143 如何发现、定位并处理大模型 API 调用失败？](../questions/Q-0143.md) · [在线阅读](https://mianstack.com/question/q-0143)
-- [Q-3694 Agent 如何验证工具确实执行成功，避免产生任务完成幻觉？](../questions/Q-3694.md) · [在线阅读](https://mianstack.com/question/q-3694)
+- [Q-3694 Agent 如何验证工具确实执行成功，避免产生任务完成幻觉？](../questions/Q-3694.md) · [在线阅读](https://mianstack.com/question/q-3694) · **已有答案**
 - [Q-3707 什么是大模型幻觉？](../questions/Q-3707.md) · [在线阅读](https://mianstack.com/question/q-3707)
 - [Q-3708 大模型为什么会产生幻觉？](../questions/Q-3708.md) · [在线阅读](https://mianstack.com/question/q-3708)
 - [Q-3976 如何证明 RAG 系统端到端回答效果变好，而不只是召回指标提升？](../questions/Q-3976.md) · [在线阅读](https://mianstack.com/question/q-3976)
