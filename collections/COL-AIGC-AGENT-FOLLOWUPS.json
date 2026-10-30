@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-agent-followups",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · Agent 工程追问",
-  "coverage": [
-    "agent",
-    "ai_engineering",
-    "career"
-  ],
+  "coverage": ["agent", "ai_engineering", "career"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book Agent 章节中的面试追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/tree/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%20Agent%E5%9F%BA%E7%A1%80",

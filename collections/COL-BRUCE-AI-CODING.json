@@ -3,12 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-bruce-ai-coding",
   "publisherId": "PUB-BBRUCEYUAN",
   "title": "AI Interview Code · 大模型手写代码题",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training",
-    "coding"
-  ],
+  "coverage": ["llm", "ai_engineering", "training", "coding"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "bbruceyuan/AI-Interview-Code README 中的 14 条实现与计算题。",
   "sourceUrl": "https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md",

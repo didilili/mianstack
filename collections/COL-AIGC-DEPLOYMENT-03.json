@@ -3,12 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-deployment-03",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 推理框架知识点",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training",
-    "software"
-  ],
+  "coverage": ["llm", "ai_engineering", "training", "software"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 专题中的面试题与具名考点。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80/%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86%E7%82%B9.md",

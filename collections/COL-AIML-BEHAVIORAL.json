@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aiml-behavioral",
   "publisherId": "PUB-AIMLINTERVIEWS",
   "title": "AIMLInterviews · 项目表达与团队协作",
-  "coverage": [
-    "ai_engineering",
-    "career"
-  ],
+  "coverage": ["ai_engineering", "career"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "AIMLInterviews 的英文原题、编码练习与项目追问。",
   "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/behavioral/behavior.md",

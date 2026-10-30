@@ -2,13 +2,7 @@
   "id": "COL-BUGSTACK-AGENT-SCAFFOLD",
   "publisherId": "PUB-BUGSTACK",
   "title": "AI Agent 脚手架项目面试题",
-  "coverage": [
-    "agent",
-    "rag",
-    "ai_engineering",
-    "software",
-    "llm"
-  ],
+  "coverage": ["agent", "rag", "ai_engineering", "software", "llm"],
   "sourceKind": "project_question_set",
   "access": "public",
   "verification": "verified_source",

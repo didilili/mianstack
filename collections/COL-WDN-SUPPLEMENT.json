@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-wdn-supplement",
   "publisherId": "PUB-WDNDEV",
   "title": "LLM 面试笔记 · 补充概念与机制问答",
-  "coverage": [
-    "llm",
-    "rag",
-    "training"
-  ],
+  "coverage": ["llm", "rag", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "wdndev/llm_interview_note 技术笔记正文中的独立问答与比较题。",
   "sourceUrl": "https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/README.md",

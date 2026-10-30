@@ -1,0 +1,40 @@
+name: Check content and indexes
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      HUSKY: "0"
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+
+      - name: Install validation dependencies
+        run: npm ci
+
+      - name: Check formatting
+        run: npm run format:check
+
+      - name: Validate content and generated indexes
+        run: npm run validate
+
+      - name: Check whitespace errors
+        run: |
+          if git grep -nI -E '[[:blank:]]+$' -- ':!interviews/*.md'; then
+            echo "::error::Trailing whitespace found outside interviews/*.md."
+            exit 1
+          fi

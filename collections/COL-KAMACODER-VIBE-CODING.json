@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-kamacoder-vibe-coding",
   "publisherId": "PUB-KAMACODER",
   "title": "Vibe Coding 面试题",
-  "coverage": [
-    "ai_engineering",
-    "career"
-  ],
+  "coverage": ["ai_engineering", "career"],
   "sourceUrl": "https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html",
   "sourceKind": "curated_question_set",
   "access": "public",

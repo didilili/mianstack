@@ -3,14 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-myl-agent-links",
   "publisherId": "PUB-MYL",
   "title": "Agent开发面试题",
-  "coverage": [
-    "llm",
-    "rag",
-    "agent",
-    "ai_engineering",
-    "training",
-    "software"
-  ],
+  "coverage": ["llm", "rag", "agent", "ai_engineering", "training", "software"],
   "sourceUrl": "https://www.yuque.com/camellia-6ti1v/nof1i8/zizeehc2qzhfy4xw",
   "sourceKind": "curated_question_set",
   "access": "public",

@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-image-05",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 图像创作 · 主流AIGC图像生成编辑大模型汇总系列",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的图像创作题目与追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AIGC%E5%9B%BE%E5%83%8F%E5%88%9B%E4%BD%9C%26AI%E7%BB%98%E7%94%BB%E5%9F%BA%E7%A1%80/05_%E4%B8%BB%E6%B5%81AIGC%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E7%BC%96%E8%BE%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B1%87%E6%80%BB%E7%B3%BB%E5%88%97.md",

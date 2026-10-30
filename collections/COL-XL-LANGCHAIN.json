@@ -3,9 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-xl-langchain",
   "publisherId": "PUB-XL",
   "title": "LangChain 框架面试题",
-  "coverage": [
-    "agent"
-  ],
+  "coverage": ["agent"],
   "sourceUrl": "https://xiaolinnote.com/ai/langchain/langchain_info.html",
   "sourceKind": "curated_question_set",
   "access": "public",

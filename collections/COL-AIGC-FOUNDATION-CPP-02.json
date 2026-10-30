@@ -4,11 +4,7 @@
   "publisherId": "PUB-WETHINKIN",
   "sourceKind": "curated_question_set",
   "title": "AIGC Interview Book · C和C++实战及经典考点",
-  "coverage": [
-    "ai_engineering",
-    "software",
-    "coding"
-  ],
+  "coverage": ["ai_engineering", "software", "coding"],
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题与工程练习。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%9AC%E5%92%8CC%2B%2B/C%E5%92%8CC%2B%2B%E5%AE%9E%E6%88%98%E5%8F%8A%E7%BB%8F%E5%85%B8%E8%80%83%E7%82%B9.md",
   "access": "public",

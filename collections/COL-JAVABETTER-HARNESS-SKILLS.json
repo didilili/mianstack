@@ -2,10 +2,7 @@
   "id": "COL-JAVABETTER-HARNESS-SKILLS",
   "publisherId": "PUB-JAVABETTER",
   "title": "王二讲 Agent · Harness 与 Skills",
-  "coverage": [
-    "agent",
-    "ai_engineering"
-  ],
+  "coverage": ["agent", "ai_engineering"],
   "sourceUrl": "https://javabetter.cn/ai/video/#_03%E3%80%81harness-%E4%B8%8E-skills-42-%E9%A2%98",
   "sourceKind": "curated_question_set",
   "access": "public",

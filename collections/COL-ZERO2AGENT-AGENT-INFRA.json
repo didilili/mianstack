@@ -3,12 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-zero2agent-agent-infra",
   "publisherId": "PUB-ONEFLY",
   "title": "zero2Agent · Agent Infra：Runtime、Sandbox 与可靠执行",
-  "coverage": [
-    "agent",
-    "ai_engineering",
-    "training",
-    "software"
-  ],
+  "coverage": ["agent", "ai_engineering", "training", "software"],
   "sourceKind": "course_question_set",
   "sourceClaim": "ranxi2001/zero2Agent 的专题原题。",
   "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md",

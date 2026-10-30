@@ -3,13 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-javaguide-ai-system-design",
   "publisherId": "PUB-JAVAGUIDE",
   "title": "JavaGuide · AI 系统设计面试题",
-  "coverage": [
-    "llm",
-    "rag",
-    "agent",
-    "ai_engineering",
-    "software"
-  ],
+  "coverage": ["llm", "rag", "agent", "ai_engineering", "software"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "JavaGuide《AI 系统设计面试题总结》的公开问题目录，涵盖生产架构、模型网关、安全治理、评测观测与实时语音。",
   "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/ai-system-design-interview-questions.md",

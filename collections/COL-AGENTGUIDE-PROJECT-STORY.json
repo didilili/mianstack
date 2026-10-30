@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-agentguide-project-story",
   "publisherId": "PUB-AGENTGUIDE",
   "title": "AgentGuide · Agent 项目表达与追问",
-  "coverage": [
-    "agent",
-    "ai_engineering",
-    "career"
-  ],
+  "coverage": ["agent", "ai_engineering", "career"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "AgentGuide 的 Agent 项目表达与追问。",
   "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/21-storytelling.md",

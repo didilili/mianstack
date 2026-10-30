@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-javaguide-agent",
   "publisherId": "PUB-JAVAGUIDE",
   "title": "JavaGuide · Agent 面试题",
-  "coverage": [
-    "agent",
-    "ai_engineering"
-  ],
+  "coverage": ["agent", "ai_engineering"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "JavaGuide《AI Agent 面试题总结》的公开问题目录，按原专题顺序收录。",
   "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/agent-interview-questions.md",

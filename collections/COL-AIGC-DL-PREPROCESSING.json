@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-dl-preprocessing",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 实战项目总结·数据预处理",
-  "coverage": [
-    "llm",
-    "training"
-  ],
+  "coverage": ["llm", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/10_%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md",

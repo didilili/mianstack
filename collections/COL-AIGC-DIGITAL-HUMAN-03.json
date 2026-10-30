@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-digital-human-03",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 03_音频驱动数字人与长视频生成高频考点",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E6%95%B0%E5%AD%97%E4%BA%BA%E5%9F%BA%E7%A1%80/03_%E9%9F%B3%E9%A2%91%E9%A9%B1%E5%8A%A8%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E9%95%BF%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",

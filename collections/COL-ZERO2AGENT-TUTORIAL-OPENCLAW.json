@@ -3,13 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-zero2agent-tutorial-openclaw",
   "publisherId": "PUB-ONEFLY",
   "title": "zero2Agent · OpenClaw 教程面试题",
-  "coverage": [
-    "llm",
-    "rag",
-    "agent",
-    "ai_engineering",
-    "software"
-  ],
+  "coverage": ["llm", "rag", "agent", "ai_engineering", "software"],
   "sourceKind": "course_question_set",
   "sourceClaim": "ranxi2001/zero2Agent 教程中的面试题。",
   "sourceUrl": "https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-openclaw/09-interview/index.md",

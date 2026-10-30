@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-multimodal-essence-04",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · AI多模态精华版·主流模型核心技术",
-  "coverage": [
-    "llm",
-    "training"
-  ],
+  "coverage": ["llm", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的面试题。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E5%A4%9A%E6%A8%A1%E6%80%81%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/4_AI%E5%A4%9A%E6%A8%A1%E6%80%81%E4%B8%BB%E6%B5%81%E6%A8%A1%E5%9E%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9.md",

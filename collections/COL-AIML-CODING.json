@@ -3,14 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aiml-coding",
   "publisherId": "PUB-AIMLINTERVIEWS",
   "title": "AIMLInterviews · 模型与 Agent 编程",
-  "coverage": [
-    "llm",
-    "rag",
-    "agent",
-    "ai_engineering",
-    "training",
-    "coding"
-  ],
+  "coverage": ["llm", "rag", "agent", "ai_engineering", "training", "coding"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "AIMLInterviews 的英文原题、编码练习与项目追问。其中第 042 条为 Matthew Lamm 署名的 CS224N Word Window Classification Notebook 练习；该署名仅适用于此条，AIMLInterviews 为收录项目。",
   "sourceUrl": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/ml-coding.md",
@@ -19,9 +12,7 @@
     "url": "https://github.com/alirezadir/AIMLInterviews/blob/9ee330857b953e6e95376a901f8b12cd89bd2234/src/MLC/notebooks/ww_classifier.ipynb",
     "role": "author",
     "scope": "其中第 42 题来自 Matthew Lamm 编写的 CS224N Word Window Classification Notebook 练习。",
-    "itemIds": [
-      "COL-AIML-CODING-042"
-    ]
+    "itemIds": ["COL-AIML-CODING-042"]
   },
   "access": "public",
   "capturedAt": "2026-10-17",

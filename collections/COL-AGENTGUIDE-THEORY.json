@@ -3,12 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-agentguide-theory",
   "publisherId": "PUB-AGENTGUIDE",
   "title": "AgentGuide · 理论基础面试题",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training",
-    "career"
-  ],
+  "coverage": ["llm", "ai_engineering", "training", "career"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "AgentGuide《AI Agent 面试题库 - 理论基础篇》的公开问题。",
   "sourceUrl": "https://github.com/adongwanai/AgentGuide/blob/663d91056d20823e2a2084b8e6a88c7706e8aa85/docs/04-interview/01-theory-questions.md",

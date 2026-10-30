@@ -2,10 +2,7 @@
   "id": "COL-JAVABETTER-CONTEXT-MEMORY",
   "publisherId": "PUB-JAVABETTER",
   "title": "王二讲 Agent · 上下文与记忆",
-  "coverage": [
-    "agent",
-    "llm"
-  ],
+  "coverage": ["agent", "llm"],
   "sourceUrl": "https://javabetter.cn/ai/video/#_02%E3%80%81%E4%B8%8A%E4%B8%8B%E6%96%87%E4%B8%8E%E8%AE%B0%E5%BF%86-22-%E9%A2%98",
   "sourceKind": "curated_question_set",
   "access": "public",

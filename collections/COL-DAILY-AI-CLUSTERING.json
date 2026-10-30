@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-daily-ai-clustering",
   "publisherId": "PUB-DATAWHALE",
   "title": "Datawhale 每日面试 · 聚类学习",
-  "coverage": [
-    "llm",
-    "training"
-  ],
+  "coverage": ["llm", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "Datawhale daily-interview 的 AI 算法模块原题与追问。本题集 12 条原题均来自 Yvette 明明就署名的 kmeans 文档，Datawhale 为收录与整理项目。",
   "sourceUrl": "https://github.com/datawhalechina/daily-interview/tree/f35e8d555f8ff07d568eae569c3641bd76d0eac9/docs/04-ai-algorithms",

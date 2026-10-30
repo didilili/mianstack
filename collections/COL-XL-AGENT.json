@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-xl-agent",
   "publisherId": "PUB-XL",
   "title": "Agent 面试题",
-  "coverage": [
-    "agent",
-    "ai_engineering"
-  ],
+  "coverage": ["agent", "ai_engineering"],
   "sourceUrl": "https://xiaolinnote.com/ai/agent/agent_info.html",
   "sourceKind": "curated_question_set",
   "access": "public",

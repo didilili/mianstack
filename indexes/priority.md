@@ -1,5 +1,7 @@
 # 优先准备
 
+> 本文件由 `npm run build:indexes` 生成，请勿手工修改。
+
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/must-review)
 
 这里收录当前标记为“优先准备”的 52 道核心题，适合第一次打开仓库或面试临近时先过一遍。

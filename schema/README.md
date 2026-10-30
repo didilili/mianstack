@@ -4,6 +4,17 @@
 
 公开内容和索引都在当前仓库中维护。JSON 文件使用 UTF-8；Markdown 文件以一段 JSON frontmatter 开头，换行统一为 LF。
 
+[`content.schema.json`](./content.schema.json) 是公开内容字段结构、必填项、格式、固定值、固定中文显示和分组元数据的唯一事实来源。本说明只解释字段语义和公开内容之间的引用，不另行复制固定值。`scripts/lib/content.mjs` 先执行 schema 校验，再校验分类、题号别名、整理者和题集署名范围等引用，并生成面经元数据摘要；本仓库可独立加载和验证，无需网站仓库。
+
+题目与来源的映射、追问顺序、题族、题目间关系和题集分段由网站单独维护，不属于公开加载结果。公开加载器不为这些数据返回空数组或零来源数；公开 schema 也不接受题目的 `relations` 或题集条目的 `matches`、`presentation` 字段。
+
+首次检出后安装依赖，再验证当前全部数据：
+
+```sh
+npm ci
+npm run validate
+```
+
 ## 全局规则
 
 - ID 和文件名必须一致：题目为 `Q-0001.md`，牛客面经为 `MJ-NC-YYYY-NNNN.md`，小红书面经为 `MJ-XHS-YYYY-NNNN.md`，题集为 `COL-*.json`。
@@ -11,7 +22,7 @@
 - 已使用的题号、面经编号和题集编号不得重排或复用。合并题目时保留别名，删除时同步处理已有引用。
 - 所有 ID 必须唯一；引用必须指向现有记录。
 - 生成文件只包括 `INDEX.md` 和 `indexes/*.md`，不要手工修改。
-- 题集只保存原题标题和公开地址，不保存第三方答案或完整正文。
+- 题集保存原题标题、公开地址、署名和必要的条目说明，不保存第三方答案或完整正文。
 - 下表说明字段用途；字段的固定中文名称由 schema 中相应属性的 `title` 定义，固定值由 `$defs` 定义，Web 不另建一份常量表。
 
 ## 题目 `questions/Q-*.md`
@@ -32,6 +43,10 @@
 | `contextTags`  | 场景标签     | string[] | 可选；有标签时填写                        |
 | `answerStatus` | 答案状态     | enum     | 取值和显示见 schema 的 `answerStatus`     |
 | `updatedAt`    | 更新时间     | date     | `YYYY-MM-DD`                              |
+
+可选字段没有内容时直接省略，不写空字符串或空数组；schema 会拒绝“字段存在但内容为空”的写法。统一加载器会为调用方补成 `note: ""` 和空数组，因此源文件保持简洁，消费端仍获得稳定结构。
+
+题目的 `roleFamilies`、`familyId`、来源统计和题目关系不属于 frontmatter，公开加载器不生成这些字段。
 
 `answerStatus` 的取值、固定中文显示和“已有完整答案”分组统一定义在 schema 的 `answerStatus` 中。frontmatter 之后的 Markdown 正文固定称为“参考答案”；属于 schema `answered` 分组的状态必须有非空正文。来源材料中的作者回答不能直接当作面栈参考答案。
 
@@ -59,6 +74,9 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 | `curationNote`      | 整理说明       | string   | 可为空；补充影响理解的来源差异、内容缺失或冲突                                               |
 | `updatedAt`         | 更新时间       | date     | `YYYY-MM-DD`                                                                                 |
 
+统一加载器还会根据 `contexts[]` 返回以下派生摘要。它们不属于 frontmatter，禁止人工写入：
+
+| 派生字段         | 类型     | 生成规则                                                        |
 | ---------------- | -------- | --------------------------------------------------------------- |
 | `company`        | string   | `contexts[].company` 去重后以 `、` 连接；为空时返回“公司未注明” |
 | `business`       | string   | `contexts[].business` 去重后以 `；` 连接                        |
@@ -74,6 +92,8 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 面经状态和内容类型的固定值分别见 schema 的 `interviewContentType`、`interviewSourceStatus`、`interviewStatusReason` 和 `interviewCurationStatus`。
 
 `sourceStatus` 和 `curationStatus` 是两个独立维度。例如来源可以是“完整可用”，但内容整理仍处于“部分整理”；来源重复、原文不足或真实性待核等结论放入 `statusReason`，不要再混入两个状态字段。
+
+原帖本身没有写出具体题干，不等于归档正文缺失；能完整核对原帖时，`curationNote` 只补充整篇材料的必要说明，正文保留来源原有的题意与条件。`lastCheckedAt` 与 `updatedAt` 分别记录回源核对和内容修改，不能相互推算；未填写的 `lastCheckedAt` 在加载结果中为空字符串。
 
 `contexts[]` 的字段：
 
@@ -94,6 +114,12 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 | `rounds`              | 面试阶段       | enum[]   | 可选；取值见 schema 的 `round`                   |
 | `stages`              | 面试环节       | enum[]   | 可选；取值见 schema 的 `interviewStage`          |
 | `base`                | 工作地点       | string   | 可选；有内容时填写                               |
+
+加载器根据 schema 中 `roleMethod` 的分组自动生成 `contexts[].roleInferred`，frontmatter 不重复保存该字段：`原文明示`、`职责支持` 和 `资料不足` 对应 `false`；`面试内容推测`、`标题与索引推断` 和 `职责推断` 对应 `true`，并填写高、中或低置信度。`职责支持` 表示来源正文直接说明了岗位职责，足以规范化岗位名称；`职责推断` 表示仅能根据职责线索推测岗位。`资料不足` 的置信度固定为 `不可判定`。
+
+面经的 `publishedAt`、`publicationRegion`、`result`、`statusReason` 及 `contexts[]` 中的可选字段没有内容时直接省略，不写空字符串或空数组。统一加载器补全相应空值，消费端保持稳定结构；推断岗位仍必须填写符合要求的置信度。
+
+`contexts` 是公司、岗位、轮次等组合关系的唯一权威数据。即使只有一条公司与岗位记录，也保留一个 `contexts[]` 项，避免单条与多条记录采用两套结构。供展示与检索使用的顶层摘要只由统一加载器动态生成，不在 Markdown 中重复保存。
 
 frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 
@@ -170,10 +196,20 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 
 `items[]` 的字段：
 
-| 字段            | 固定中文名称 | 类型     | 约束                                            |
-| --------------- | ------------ | -------- | ----------------------------------------------- |
-| `id`            | 题集条目编号 | string   | 格式为题集编号加三位序号                        |
-| `originalTitle` | 原题标题     | string   | 保留来源中的题目标题                            |
-| `sourceUrl`     | 原题链接     | URL      | 必须是 HTTP(S) 地址                             |
-| `reviewStatus`  | 原题审核状态 | enum     | 取值见 schema 的 `collectionReviewStatus`       |
-| `reviewNote`    | 题目补充说明 | string   | 可选；说明题意缺口、适用范围或技术注意事项      |
+| 字段            | 固定中文名称 | 类型   | 约束                                       |
+| --------------- | ------------ | ------ | ------------------------------------------ |
+| `id`            | 题集条目编号 | string | 格式为题集编号加三位序号                   |
+| `originalTitle` | 原题标题     | string | 保留来源中的题目标题                       |
+| `sourceUrl`     | 原题链接     | URL    | 必须是 HTTP(S) 地址                        |
+| `reviewStatus`  | 条目审核状态 | enum   | 取值见 schema 的 `collectionReviewStatus`  |
+| `reviewNote`    | 题目补充说明 | string | 可选；说明题意缺口、适用范围或技术注意事项 |
+
+`items[]` 按原题顺序保存；展示序号由消费方根据数组顺序生成，加载器和源文件均不包含 `position`。
+
+`reviewStatus` 和 `reviewNote` 继续随原题公开，保留已有的条目状态及影响理解的题意缺口、适用范围等说明。`confirmed` 条目在公开结构中不要求标准题映射；标准题对应关系和原题分段由网站维护，不改写 `originalTitle`。
+
+题集相关固定值见 schema 的 `collectionKind`、`collectionAccess`、`collectionVerification` 和 `collectionReviewStatus`；读者侧中文显示和分组也在相应定义的扩展元数据中维护。
+
+## 结构变更
+
+新增字段、修改固定值或中文显示时，只在 `content.schema.json` 定义规则；若变更涉及公开记录之间的引用，再调整 `scripts/lib/content.mjs` 的语义校验。随后更新本说明中的语义解释、相关回归测试和受影响的索引逻辑。Web 不复制 schema 规则。批量导入、分类重构、字段迁移或编号策略变化应先提交[结构提议](https://github.com/didilili/mianstack/issues/new?template=structure-proposal.yml)。

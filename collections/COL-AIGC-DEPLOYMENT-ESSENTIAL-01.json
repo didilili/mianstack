@@ -3,12 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-deployment-essential-01",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 模型部署精华 · 推理部署综述",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training",
-    "software"
-  ],
+  "coverage": ["llm", "ai_engineering", "training", "software"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 的专题原题。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%9F%BA%E7%A1%80%EF%BC%88%E7%B2%BE%E5%8D%8E%E7%89%88%EF%BC%89/6.1%E6%8E%A8%E7%90%86%E9%83%A8%E7%BD%B2%E7%BB%BC%E8%BF%B0.md",

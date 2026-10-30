@@ -3,13 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-llm-followups",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 大模型原理追问",
-  "coverage": [
-    "llm",
-    "rag",
-    "agent",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "rag", "agent", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 大模型章节中的技术追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/tree/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80",

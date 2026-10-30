@@ -4,12 +4,7 @@
   "publisherId": "PUB-WETHINKIN",
   "sourceKind": "curated_question_set",
   "title": "AIGC Interview Book · 操作系统高频知识点",
-  "coverage": [
-    "ai_engineering",
-    "training",
-    "software",
-    "coding"
-  ],
+  "coverage": ["ai_engineering", "training", "software", "coding"],
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 收录的复习题与工程练习。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%AB%98%E9%A2%91%E7%9F%A5%E8%AF%86%E7%82%B9.md",
   "access": "public",

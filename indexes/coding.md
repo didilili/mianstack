@@ -1,5 +1,7 @@
 # 算法与编程题
 
+> 本文件由 `npm run build:indexes` 生成，请勿手工修改。
+
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/knowledge/coding)
 
 数据结构、算法、SQL、工程编码与逻辑推理。

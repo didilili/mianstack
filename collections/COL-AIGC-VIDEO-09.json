@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-video-09",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 09_数据集与性能评测",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/09_%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.md",

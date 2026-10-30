@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-xl-coding",
   "publisherId": "PUB-XL",
   "title": "AI 编程面试题",
-  "coverage": [
-    "agent",
-    "ai_engineering"
-  ],
+  "coverage": ["agent", "ai_engineering"],
   "sourceUrl": "https://xiaolinnote.com/ai/coding/coding_info.html",
   "sourceKind": "curated_question_set",
   "access": "public",

@@ -3,13 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-javaguide-ai-project-review",
   "publisherId": "PUB-JAVAGUIDE",
   "title": "JavaGuide · AI 项目复盘与自测",
-  "coverage": [
-    "llm",
-    "rag",
-    "agent",
-    "ai_engineering",
-    "career"
-  ],
+  "coverage": ["llm", "rag", "agent", "ai_engineering", "career"],
   "sourceKind": "course_question_set",
   "sourceClaim": "JavaGuide AI 专题中的项目自测、正文问答与导读题。",
   "sourceUrl": "https://github.com/Snailclimb/JavaGuide/tree/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai",

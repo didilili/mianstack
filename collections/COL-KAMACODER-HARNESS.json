@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-kamacoder-harness",
   "publisherId": "PUB-KAMACODER",
   "title": "Harness Engineering 面试题",
-  "coverage": [
-    "agent",
-    "ai_engineering"
-  ],
+  "coverage": ["agent", "ai_engineering"],
   "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html",
   "sourceKind": "curated_question_set",
   "access": "public",

@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-agentguide-llm",
   "publisherId": "PUB-AGENTGUIDE",
   "title": "AgentGuide · 大模型基础面试题",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "declaredItemCount": 107,
   "sourceClaim": "AgentGuide《大模型基础必考题（107题）》的公开问题。",

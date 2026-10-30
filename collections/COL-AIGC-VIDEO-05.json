@@ -3,9 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-video-05",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 05_视频编辑典型模型与架构",
-  "coverage": [
-    "llm"
-  ],
+  "coverage": ["llm"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题、考点与追问。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/AI%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80/05_%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%85%B8%E5%9E%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%9E%B6%E6%9E%84.md",

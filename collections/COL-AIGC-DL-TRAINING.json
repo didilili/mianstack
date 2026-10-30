@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aigc-dl-training",
   "publisherId": "PUB-WETHINKIN",
   "title": "AIGC 面试宝典 · 训练与评估",
-  "coverage": [
-    "llm",
-    "training"
-  ],
+  "coverage": ["llm", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "WeThinkIn/AIGC-Interview-Book 对应章节的问题与具名考点。",
   "sourceUrl": "https://github.com/WeThinkIn/AIGC-Interview-Book/blob/275fdf1eeb65e3b233081d3b8e74ff5d8eeb2e03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/09_%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0.md",

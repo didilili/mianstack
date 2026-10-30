@@ -3,9 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-kamacoder-graphrag",
   "publisherId": "PUB-KAMACODER",
   "title": "GraphRAG / LightRAG 面试题",
-  "coverage": [
-    "rag"
-  ],
+  "coverage": ["rag"],
   "sourceUrl": "https://notes.kamacoder.com/interview/llm/graphrag_interview.html",
   "sourceKind": "curated_question_set",
   "access": "public",

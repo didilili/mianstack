@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-aieng-safety",
   "publisherId": "PUB-AMIT-SHEKHAR",
   "title": "AI Engineering · 安全与可信 AI",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "ai_engineering", "training"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "Amit Shekhar 的 AI Engineering Interview Questions 专题题目。",
   "sourceUrl": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/blob/72c6a77b55646065c31b47b42f733233d1c33f35/README.md",

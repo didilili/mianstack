@@ -3,11 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-xl-llm",
   "publisherId": "PUB-XL",
   "title": "大模型工程面试题",
-  "coverage": [
-    "llm",
-    "ai_engineering",
-    "training"
-  ],
+  "coverage": ["llm", "ai_engineering", "training"],
   "sourceUrl": "https://xiaolinnote.com/ai/llm/llm_info.html",
   "sourceKind": "curated_question_set",
   "access": "public",

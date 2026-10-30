@@ -3,10 +3,7 @@
   "readingUrl": "https://mianstack.com/collection/col-javaguide-rag",
   "publisherId": "PUB-JAVAGUIDE",
   "title": "JavaGuide · RAG 面试题",
-  "coverage": [
-    "llm",
-    "rag"
-  ],
+  "coverage": ["llm", "rag"],
   "sourceKind": "curated_question_set",
   "sourceClaim": "JavaGuide《RAG 面试题总结》的公开问题目录，覆盖检索、知识更新、评测与工程排查。",
   "sourceUrl": "https://github.com/Snailclimb/JavaGuide/blob/50f02a5984c062fe7221629d0a6a40ec15c26fd7/docs/ai/interview-questions/rag-interview-questions.md",
