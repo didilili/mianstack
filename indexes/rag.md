@@ -49,7 +49,7 @@
 - [Q-1686 回答中的引用如何生成和呈现？](../questions/Q-1686.md) · [在线阅读](https://mianstack.com/question/q-1686)
 - [Q-1699 是否做过知识库或 RAG 项目？](../questions/Q-1699.md) · [在线阅读](https://mianstack.com/question/q-1699)
 - [Q-1785 检索层为什么同时使用向量库和图数据库？](../questions/Q-1785.md) · [在线阅读](https://mianstack.com/question/q-1785)
-- [Q-2327 知识库如何指导 Agent 操作？](../questions/Q-2327.md) · [在线阅读](https://mianstack.com/question/q-2327)
+- [Q-2327 知识库如何指导 Agent 操作？](../questions/Q-2327.md) · [在线阅读](https://mianstack.com/question/q-2327) · **已有答案**
 - [Q-2830 RAG Token 节省 50% 如何计算，是输入还是输出，做了哪些优化？](../questions/Q-2830.md) · [在线阅读](https://mianstack.com/question/q-2830)
 - [Q-2963 通用模型可能训练过罕见病资料时，为什么仍需建立 RAG？](../questions/Q-2963.md) · [在线阅读](https://mianstack.com/question/q-2963)
 - [Q-2986 智能检索结果如何作为视频生产链路的输入？](../questions/Q-2986.md) · [在线阅读](https://mianstack.com/question/q-2986)
@@ -61,7 +61,7 @@
 - [Q-3742 RAG 系统的主要组成模块有哪些？](../questions/Q-3742.md) · [在线阅读](https://mianstack.com/question/q-3742)
 - [Q-3822 RAG 是否已经过时，它与 LLM Wiki 等知识组织方式如何取舍？](../questions/Q-3822.md) · [在线阅读](https://mianstack.com/question/q-3822)
 - [Q-3834 RAG 与 Web Search、Web Fetch 在获取新知识时有什么区别，如何选择？](../questions/Q-3834.md) · [在线阅读](https://mianstack.com/question/q-3834)
-- [Q-3836 RAG 的引用溯源到原文页面高亮应如何实现？](../questions/Q-3836.md) · [在线阅读](https://mianstack.com/question/q-3836)
+- [Q-3836 RAG 的引用溯源到原文页面高亮应如何实现？](../questions/Q-3836.md) · [在线阅读](https://mianstack.com/question/q-3836) · **已有答案**
 - [Q-3908 搭建企业知识库需要哪些硬件和技术条件？](../questions/Q-3908.md) · [在线阅读](https://mianstack.com/question/q-3908)
 - [Q-3970 RAG、传统检索加生成与模型微调有什么区别，分别适合哪些场景？](../questions/Q-3970.md) · [在线阅读](https://mianstack.com/question/q-3970)
 - [Q-4191 网页检索应放在知识采集阶段还是在线问答阶段，如何选择？](../questions/Q-4191.md) · [在线阅读](https://mianstack.com/question/q-4191)
@@ -110,7 +110,7 @@
 - [Q-2570 RAG 怎样进行切片、向量化和存储，使用哪些工具？](../questions/Q-2570.md) · [在线阅读](https://mianstack.com/question/q-2570)
 - [Q-2988 生成汽车文案时是否使用懂车帝数据？](../questions/Q-2988.md) · [在线阅读](https://mianstack.com/question/q-2988)
 - [Q-3032 Kafka 在 RAG 中用于什么场景？](../questions/Q-3032.md) · [在线阅读](https://mianstack.com/question/q-3032)
-- [Q-3722 文档解析在 RAG 中有什么作用，解析错误会带来哪些影响？](../questions/Q-3722.md) · [在线阅读](https://mianstack.com/question/q-3722)
+- [Q-3722 文档解析在 RAG 中有什么作用，解析错误会带来哪些影响？](../questions/Q-3722.md) · [在线阅读](https://mianstack.com/question/q-3722) · **已有答案**
 - [Q-3723 不同格式的文档应如何解析？](../questions/Q-3723.md) · [在线阅读](https://mianstack.com/question/q-3723)
 - [Q-3728 大规模文档建索引时，如何处理大量相似或重复文档？](../questions/Q-3728.md) · [在线阅读](https://mianstack.com/question/q-3728)
 - [Q-4471 RAG 文档解析、清洗和结构化分别解决什么问题？](../questions/Q-4471.md) · [在线阅读](https://mianstack.com/question/q-4471)
@@ -253,7 +253,7 @@
 - [Q-0850 同一词在不同语言文化中含义不同时如何处理？](../questions/Q-0850.md) · [在线阅读](https://mianstack.com/question/q-0850)
 - [Q-0972 父子检索如何工作，为什么在 RAG 中使用？](../questions/Q-0972.md) · [在线阅读](https://mianstack.com/question/q-0972) · **已有答案**
 - [Q-0981 查询明确错误码的处理方法时，RAG 应采用什么检索策略？](../questions/Q-0981.md) · [在线阅读](https://mianstack.com/question/q-0981) · **已有答案**
-- [Q-1218 如何检索召回数据库的表和字段？](../questions/Q-1218.md) · [在线阅读](https://mianstack.com/question/q-1218)
+- [Q-1218 如何检索召回数据库的表和字段？](../questions/Q-1218.md) · [在线阅读](https://mianstack.com/question/q-1218) · **已有答案**
 - [Q-1220 BM25 有哪些局限？](../questions/Q-1220.md) · [在线阅读](https://mianstack.com/question/q-1220)
 - [Q-1280 词法检索匹配不上“苹果”和“apple”时如何处理？](../questions/Q-1280.md) · [在线阅读](https://mianstack.com/question/q-1280)
 - [Q-1290 检索做了哪些优化，如何验证提升？](../questions/Q-1290.md) · [在线阅读](https://mianstack.com/question/q-1290) · **已有答案**
@@ -306,7 +306,7 @@
 - [Q-0488 BM25 与向量召回为什么并用，各召回多少条进入重排？](../questions/Q-0488.md) · [在线阅读](https://mianstack.com/question/q-0488) · **已有答案**
 - [Q-0489 召回已足够多时能否去掉 Reranker，排序为何影响最终回答？](../questions/Q-0489.md) · [在线阅读](https://mianstack.com/question/q-0489) · **已有答案**
 - [Q-0632 RAG 如何实现 Rerank？](../questions/Q-0632.md) · [在线阅读](https://mianstack.com/question/q-0632) · **已有答案**
-- [Q-0665 混合检索权重如何配置？](../questions/Q-0665.md) · [在线阅读](https://mianstack.com/question/q-0665)
+- [Q-0665 混合检索权重如何配置？](../questions/Q-0665.md) · [在线阅读](https://mianstack.com/question/q-0665) · **已有答案**
 - [Q-0719 能否用结构、训练数据不同的向量模型 B 替代 Reranker，对模型 A 的候选重排？](../questions/Q-0719.md) · [在线阅读](https://mianstack.com/question/q-0719)
 - [Q-0973 RAG 中的 Top-K 与 rerank 分别是什么？](../questions/Q-0973.md) · [在线阅读](https://mianstack.com/question/q-0973)
 - [Q-1022 项目的 rerank 使用什么模型？](../questions/Q-1022.md) · [在线阅读](https://mianstack.com/question/q-1022)
@@ -356,14 +356,14 @@
 - [Q-1051 如何处理 RAG 用户反馈并建立评测机制，帮助产品决定改进方向？](../questions/Q-1051.md) · [在线阅读](https://mianstack.com/question/q-1051)
 - [Q-1168 怎样判断知识库召回内容正是所需结果？](../questions/Q-1168.md) · [在线阅读](https://mianstack.com/question/q-1168)
 - [Q-1296 GraphRAG 比纯 RAG 提升哪些指标？](../questions/Q-1296.md) · [在线阅读](https://mianstack.com/question/q-1296)
-- [Q-1370 RAG 通过哪些手段减少幻觉？](../questions/Q-1370.md) · [在线阅读](https://mianstack.com/question/q-1370)
+- [Q-1370 RAG 通过哪些手段减少幻觉？](../questions/Q-1370.md) · [在线阅读](https://mianstack.com/question/q-1370) · **已有答案**
 - [Q-1399 全量检索与先按实体类别划分检索如何对比准确率和耗时？](../questions/Q-1399.md) · [在线阅读](https://mianstack.com/question/q-1399)
 - [Q-1443 RAG 评测平台如何解决人工标注问题？](../questions/Q-1443.md) · [在线阅读](https://mianstack.com/question/q-1443)
 - [Q-1469 企微侧边栏 RAG 在线效果除自动评估外如何保障？](../questions/Q-1469.md) · [在线阅读](https://mianstack.com/question/q-1469)
 - [Q-1649 哪些因素影响问答 Agent 效果？](../questions/Q-1649.md) · [在线阅读](https://mianstack.com/question/q-1649)
 - [Q-1874 RAG 评测中每个 Case 跑几遍，采用哪些指标？](../questions/Q-1874.md) · [在线阅读](https://mianstack.com/question/q-1874)
 - [Q-1890 检索准确率如何评价，有什么体系、标准和测试数据？](../questions/Q-1890.md) · [在线阅读](https://mianstack.com/question/q-1890)
-- [Q-1891 RAG 系统回答不正确时，如何排查？](../questions/Q-1891.md) · [在线阅读](https://mianstack.com/question/q-1891)
+- [Q-1891 RAG 系统回答不正确时，如何排查？](../questions/Q-1891.md) · [在线阅读](https://mianstack.com/question/q-1891) · **已有答案**
 - [Q-2168 RAG 从文档到答案的哪些步骤构成挑战并影响最终效果？](../questions/Q-2168.md) · [在线阅读](https://mianstack.com/question/q-2168)
 - [Q-2270 如何提高知识库检索召回的准确性与上下文匹配能力？](../questions/Q-2270.md) · [在线阅读](https://mianstack.com/question/q-2270) · **已有答案**
 - [Q-2315 RAG 如何控制召回噪声？](../questions/Q-2315.md) · [在线阅读](https://mianstack.com/question/q-2315)
@@ -375,7 +375,7 @@
 - [Q-3196 RAG 可以从哪些维度优化最终生成文本质量？](../questions/Q-3196.md) · [在线阅读](https://mianstack.com/question/q-3196)
 - [Q-3264 大于 512 Token 的内容未写入向量库时，向量查询如何找到它？](../questions/Q-3264.md) · [在线阅读](https://mianstack.com/question/q-3264)
 - [Q-3265 用户自然语言表达多样时，RAG 答案会不会出现较大偏差或波动？](../questions/Q-3265.md) · [在线阅读](https://mianstack.com/question/q-3265)
-- [Q-3277 RAG 检索精度已经较好但生成答案仍不准确时，除了优化检索还能怎样改进？](../questions/Q-3277.md) · [在线阅读](https://mianstack.com/question/q-3277)
+- [Q-3277 RAG 检索精度已经较好但生成答案仍不准确时，除了优化检索还能怎样改进？](../questions/Q-3277.md) · [在线阅读](https://mianstack.com/question/q-3277) · **已有答案**
 - [Q-3404 RAG 未检索到内容时，如何在 Prompt 中约束模型避免幻觉？](../questions/Q-3404.md) · [在线阅读](https://mianstack.com/question/q-3404)
 - [Q-3653 项目知识库做过哪些性能优化？](../questions/Q-3653.md) · [在线阅读](https://mianstack.com/question/q-3653)
 - [Q-3725 如何评价文档解析效果？](../questions/Q-3725.md) · [在线阅读](https://mianstack.com/question/q-3725)
@@ -392,7 +392,7 @@
 - [Q-4571 如何评估并提高 RAG 生成结果的 Faithfulness？](../questions/Q-4571.md) · [在线阅读](https://mianstack.com/question/q-4571)
 - [Q-4573 Response Relevancy 如何衡量回答切题程度，与 Context Relevancy 有何区别？](../questions/Q-4573.md) · [在线阅读](https://mianstack.com/question/q-4573)
 - [Q-4574 Faithfulness 与 Response Relevancy 有什么区别，为什么需要联合评估？](../questions/Q-4574.md) · [在线阅读](https://mianstack.com/question/q-4574)
-- [Q-5223 如何评估 RAG 回答的引用准确性与证据覆盖？](../questions/Q-5223.md) · [在线阅读](https://mianstack.com/question/q-5223)
+- [Q-5223 如何评估 RAG 回答的引用准确性与证据覆盖？](../questions/Q-5223.md) · [在线阅读](https://mianstack.com/question/q-5223) · **已有答案**
 - [Q-6123 如何验证多跳问答确实依赖支持证据，而非参数知识或捷径？](../questions/Q-6123.md) · [在线阅读](https://mianstack.com/question/q-6123)
 
 <a id="topic-10"></a>
@@ -442,7 +442,7 @@
 - [Q-0846 如何将 PDF 转写从 31 分钟优化到 2.5 分钟？](../questions/Q-0846.md) · [在线阅读](https://mianstack.com/question/q-0846)
 - [Q-1681 PDF 语料如何解析？](../questions/Q-1681.md) · [在线阅读](https://mianstack.com/question/q-1681)
 - [Q-1682 表格为什么转换成 HTML？](../questions/Q-1682.md) · [在线阅读](https://mianstack.com/question/q-1682)
-- [Q-2884 图文检索和语义库如何构建？](../questions/Q-2884.md) · [在线阅读](https://mianstack.com/question/q-2884)
+- [Q-2884 图文检索和语义库如何构建？](../questions/Q-2884.md) · [在线阅读](https://mianstack.com/question/q-2884) · **已有答案**
 - [Q-3106 视频剪辑为什么不采用全量 ASR？](../questions/Q-3106.md) · [在线阅读](https://mianstack.com/question/q-3106)
 - [Q-3107 语音驱动剪辑中，长音频分段识别如何避免时序错乱和断句错误？](../questions/Q-3107.md) · [在线阅读](https://mianstack.com/question/q-3107)
 - [Q-4292 文档识别为什么选择多模态大模型而不是 OCR 模型？](../questions/Q-4292.md) · [在线阅读](https://mianstack.com/question/q-4292)
@@ -504,10 +504,10 @@
 <a id="topic-13"></a>
 ## 结构化知识与 Text-to-SQL
 
-- [Q-1920 介绍项目的召回、重排和 SQL 生成链路。](../questions/Q-1920.md) · [在线阅读](https://mianstack.com/question/q-1920)
+- [Q-1920 介绍项目的召回、重排和 SQL 生成链路。](../questions/Q-1920.md) · [在线阅读](https://mianstack.com/question/q-1920) · **已有答案**
 - [Q-1921 SQL 双层校验、超时和置信度兜底策略如何实现？](../questions/Q-1921.md) · [在线阅读](https://mianstack.com/question/q-1921)
-- [Q-2470 NL2SQL 生成 SQL 时怎样处理角色权限？](../questions/Q-2470.md) · [在线阅读](https://mianstack.com/question/q-2470)
-- [Q-2471 生成 SQL 后如何检测全表扫描等慢 SQL？](../questions/Q-2471.md) · [在线阅读](https://mianstack.com/question/q-2471)
+- [Q-2470 NL2SQL 生成 SQL 时怎样处理角色权限？](../questions/Q-2470.md) · [在线阅读](https://mianstack.com/question/q-2470) · **已有答案**
+- [Q-2471 生成 SQL 后如何检测全表扫描等慢 SQL？](../questions/Q-2471.md) · [在线阅读](https://mianstack.com/question/q-2471) · **已有答案**
 - [Q-3745 如何将结构化数据库（SQL）和非结构化文档结合进行混合检索？](../questions/Q-3745.md) · [在线阅读](https://mianstack.com/question/q-3745)
-- [Q-3746 Text-to-SQL 在 Agent 中如何应用？存在哪些风险和限制？](../questions/Q-3746.md) · [在线阅读](https://mianstack.com/question/q-3746)
-- [Q-5532 Text-to-SQL 如何区分表结构与业务规则知识，并适应表结构变更？](../questions/Q-5532.md) · [在线阅读](https://mianstack.com/question/q-5532)
+- [Q-3746 Text-to-SQL 在 Agent 中如何应用？存在哪些风险和限制？](../questions/Q-3746.md) · [在线阅读](https://mianstack.com/question/q-3746) · **已有答案**
+- [Q-5532 Text-to-SQL 如何区分表结构与业务规则知识，并适应表结构变更？](../questions/Q-5532.md) · [在线阅读](https://mianstack.com/question/q-5532) · **已有答案**

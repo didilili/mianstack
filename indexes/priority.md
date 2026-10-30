@@ -26,7 +26,7 @@
 - [Q-0047 RAG 从知识入库到在线问答的完整流程是什么？](../questions/Q-0047.md) · [在线阅读](https://mianstack.com/question/q-0047) · **已有答案**
 - [Q-3692 RAG 检索优化有哪些常见策略，如何组合？](../questions/Q-3692.md) · [在线阅读](https://mianstack.com/question/q-3692)
 - [Q-3721 Query 重构有哪些常见方法，各适合什么场景？](../questions/Q-3721.md) · [在线阅读](https://mianstack.com/question/q-3721)
-- [Q-3722 文档解析在 RAG 中有什么作用，解析错误会带来哪些影响？](../questions/Q-3722.md) · [在线阅读](https://mianstack.com/question/q-3722)
+- [Q-3722 文档解析在 RAG 中有什么作用，解析错误会带来哪些影响？](../questions/Q-3722.md) · [在线阅读](https://mianstack.com/question/q-3722) · **已有答案**
 - [Q-3970 RAG、传统检索加生成与模型微调有什么区别，分别适合哪些场景？](../questions/Q-3970.md) · [在线阅读](https://mianstack.com/question/q-3970)
 - [Q-3998 RAG 召回率与准确率发生冲突时应如何权衡？](../questions/Q-3998.md) · [在线阅读](https://mianstack.com/question/q-3998)
 - [Q-4014 RAG 的切块、索引、存储、检索和排序中，哪些环节最影响最终效果？](../questions/Q-4014.md) · [在线阅读](https://mianstack.com/question/q-4014)
