@@ -28,7 +28,7 @@
 - [Q-0090 除了训练数据，项目中还做了哪些算法改进？](../questions/Q-0090.md) · [在线阅读](https://mianstack.com/question/q-0090)
 - [Q-0206 工具轨迹长度与任务复杂度有什么关系，训练时如何使用不同长度的数据？](../questions/Q-0206.md) · [在线阅读](https://mianstack.com/question/q-0206)
 - [Q-0214 长轨迹 SFT 如何选择截断、切分和掩码并保持工具依赖？](../questions/Q-0214.md) · [在线阅读](https://mianstack.com/question/q-0214)
-- [Q-0219 SFT 数据如何筛选、采样和处理？](../questions/Q-0219.md) · [在线阅读](https://mianstack.com/question/q-0219)
+- [Q-0219 SFT 数据如何筛选、采样和处理？](../questions/Q-0219.md) · [在线阅读](https://mianstack.com/question/q-0219) · **已有答案**
 - [Q-0521 轨迹训练数据的规模、字段格式和生成方式是什么？](../questions/Q-0521.md) · [在线阅读](https://mianstack.com/question/q-0521)
 - [Q-0523 线上长轨迹采集有哪些难点，VM 和沙盒环境如何同步？](../questions/Q-0523.md) · [在线阅读](https://mianstack.com/question/q-0523)
 - [Q-0608 组内样本全对或全错有什么问题，DAPO 如何处理？](../questions/Q-0608.md) · [在线阅读](https://mianstack.com/question/q-0608)
@@ -47,7 +47,7 @@
 - [Q-2698 项目训练集有多少数据，数据规模如何确定？](../questions/Q-2698.md) · [在线阅读](https://mianstack.com/question/q-2698)
 - [Q-2916 多路 System 增强策略如何实现？](../questions/Q-2916.md) · [在线阅读](https://mianstack.com/question/q-2916)
 - [Q-3008 Agent 训练中的 Bad Case 如何回流？](../questions/Q-3008.md) · [在线阅读](https://mianstack.com/question/q-3008)
-- [Q-3047 SFT 的完整执行流程与训练数据集如何构建？](../questions/Q-3047.md) · [在线阅读](https://mianstack.com/question/q-3047)
+- [Q-3047 SFT 的完整执行流程与训练数据集如何构建？](../questions/Q-3047.md) · [在线阅读](https://mianstack.com/question/q-3047) · **已有答案**
 - [Q-3439 如何从线上真实对话构造 Expert Agent 的 SFT 数据？](../questions/Q-3439.md) · [在线阅读](https://mianstack.com/question/q-3439)
 - [Q-3480 如何设计困难样本挖掘，使项目中的 8B 模型效果超过 14B 模型？](../questions/Q-3480.md) · [在线阅读](https://mianstack.com/question/q-3480)
 - [Q-3484 SFT 与 RL 数据中的 Reason 是人工标注还是模型生成？](../questions/Q-3484.md) · [在线阅读](https://mianstack.com/question/q-3484)
@@ -62,7 +62,7 @@
 - [Q-4535 高质量合成数据可能在未来大模型训练中发挥什么作用？](../questions/Q-4535.md) · [在线阅读](https://mianstack.com/question/q-4535)
 - [Q-4677 SFT 数据集是否越大越好，如何判断数据规模与效果的关系？](../questions/Q-4677.md) · [在线阅读](https://mianstack.com/question/q-4677)
 - [Q-4783 如何设计 Function Calling 微调数据的自动生成与质量验证系统？](../questions/Q-4783.md) · [在线阅读](https://mianstack.com/question/q-4783)
-- [Q-4870 大模型 SFT 的训练样本应采用什么输入与监督数据格式？](../questions/Q-4870.md) · [在线阅读](https://mianstack.com/question/q-4870)
+- [Q-4870 大模型 SFT 的训练样本应采用什么输入与监督数据格式？](../questions/Q-4870.md) · [在线阅读](https://mianstack.com/question/q-4870) · **已有答案**
 - [Q-4871 大语言模型 PPO 对齐训练中的输入数据与采样记录如何组织？](../questions/Q-4871.md) · [在线阅读](https://mianstack.com/question/q-4871)
 - [Q-4872 常见的大模型训练数据集与获取渠道有哪些？](../questions/Q-4872.md) · [在线阅读](https://mianstack.com/question/q-4872)
 - [Q-4873 领域大模型预训练或继续预训练时，如何选择和组织训练语料？](../questions/Q-4873.md) · [在线阅读](https://mianstack.com/question/q-4873)
@@ -211,16 +211,16 @@
 - [Q-0574 Transformer 中有哪些 LoRA 变体？](../questions/Q-0574.md) · [在线阅读](https://mianstack.com/question/q-0574)
 - [Q-0614 SFT 和 PEFT 训练中使用过哪些技巧？](../questions/Q-0614.md) · [在线阅读](https://mianstack.com/question/q-0614)
 - [Q-0627 为什么要对大模型微调？](../questions/Q-0627.md) · [在线阅读](https://mianstack.com/question/q-0627)
-- [Q-0633 给定 7B 模型，如何计算 LoRA 参数及优化器显存分配？](../questions/Q-0633.md) · [在线阅读](https://mianstack.com/question/q-0633)
-- [Q-1224 LoRA 的低秩矩阵如何初始化？](../questions/Q-1224.md) · [在线阅读](https://mianstack.com/question/q-1224)
+- [Q-0633 给定 7B 模型，如何计算 LoRA 参数及优化器显存分配？](../questions/Q-0633.md) · [在线阅读](https://mianstack.com/question/q-0633) · **已有答案**
+- [Q-1224 LoRA 的低秩矩阵如何初始化？](../questions/Q-1224.md) · [在线阅读](https://mianstack.com/question/q-1224) · **已有答案**
 - [Q-1847 全量微调受到哪些具体资源限制，项目实际不足在哪里？](../questions/Q-1847.md) · [在线阅读](https://mianstack.com/question/q-1847)
 - [Q-1848 LoRA 主要解决什么问题，节约哪些资源，为什么能节约？](../questions/Q-1848.md) · [在线阅读](https://mianstack.com/question/q-1848)
-- [Q-1849 LoRA 的 Rank 参数是什么含义，增大会带来哪些问题？](../questions/Q-1849.md) · [在线阅读](https://mianstack.com/question/q-1849)
+- [Q-1849 LoRA 的 Rank 参数是什么含义，增大会带来哪些问题？](../questions/Q-1849.md) · [在线阅读](https://mianstack.com/question/q-1849) · **已有答案**
 - [Q-1974 项目是否使用 LoRA 进行微调？](../questions/Q-1974.md) · [在线阅读](https://mianstack.com/question/q-1974)
-- [Q-2716 QLoRA 如何工作，与 LoRA 有什么关系？](../questions/Q-2716.md) · [在线阅读](https://mianstack.com/question/q-2716)
+- [Q-2716 QLoRA 如何工作，与 LoRA 有什么关系？](../questions/Q-2716.md) · [在线阅读](https://mianstack.com/question/q-2716) · **已有答案**
 - [Q-2901 微调 Qwen 时如何选择训练阶段和损失函数？](../questions/Q-2901.md) · [在线阅读](https://mianstack.com/question/q-2901)
 - [Q-2904 LoRA 训练后推理是否必须挂载 Adapter？](../questions/Q-2904.md) · [在线阅读](https://mianstack.com/question/q-2904)
-- [Q-2911 LoRA、QLoRA 与全量微调如何选择？](../questions/Q-2911.md) · [在线阅读](https://mianstack.com/question/q-2911)
+- [Q-2911 LoRA、QLoRA 与全量微调如何选择？](../questions/Q-2911.md) · [在线阅读](https://mianstack.com/question/q-2911) · **已有答案**
 - [Q-2912 如何理解任务微调的权重更新具有低内在秩这一假设？](../questions/Q-2912.md) · [在线阅读](https://mianstack.com/question/q-2912)
 - [Q-3048 逻辑推理微调的 LoRA 秩 r 是否需要高于对话生成任务？](../questions/Q-3048.md) · [在线阅读](https://mianstack.com/question/q-3048)
 - [Q-4484 LoRA 微调时如何选择冻结参数和可训练层，依据是什么？](../questions/Q-4484.md) · [在线阅读](https://mianstack.com/question/q-4484)
@@ -327,7 +327,7 @@
 - [Q-2144 SFT、强化学习和 Agentic CFT 分别解决什么问题？](../questions/Q-2144.md) · [在线阅读](https://mianstack.com/question/q-2144)
 - [Q-2468 GRPO 的 Loss 如何计算？](../questions/Q-2468.md) · [在线阅读](https://mianstack.com/question/q-2468)
 - [Q-2469 Deep Research 如何与强化学习结合？](../questions/Q-2469.md) · [在线阅读](https://mianstack.com/question/q-2469)
-- [Q-2474 GRPO 训练实际使用什么数据？](../questions/Q-2474.md) · [在线阅读](https://mianstack.com/question/q-2474)
+- [Q-2474 GRPO 训练实际使用什么数据？](../questions/Q-2474.md) · [在线阅读](https://mianstack.com/question/q-2474) · **已有答案**
 - [Q-2490 GRPO 相比 PPO 做了哪些改进？](../questions/Q-2490.md) · [在线阅读](https://mianstack.com/question/q-2490) · **已有答案**
 - [Q-2632 DAPO 的改进解决了什么问题？](../questions/Q-2632.md) · [在线阅读](https://mianstack.com/question/q-2632)
 - [Q-2675 如何判定 SFT 可以结束并进入强化学习阶段？](../questions/Q-2675.md) · [在线阅读](https://mianstack.com/question/q-2675)
@@ -344,7 +344,7 @@
 - [Q-2794 小模型做强化学习是否有效，如何选择模型与每轮数据规模？](../questions/Q-2794.md) · [在线阅读](https://mianstack.com/question/q-2794)
 - [Q-2834 GRPO 训练数据应满足哪些要求？](../questions/Q-2834.md) · [在线阅读](https://mianstack.com/question/q-2834)
 - [Q-2848 A2C 的基本原理是什么？](../questions/Q-2848.md) · [在线阅读](https://mianstack.com/question/q-2848)
-- [Q-2913 什么情况下 GRPO 效果较差？](../questions/Q-2913.md) · [在线阅读](https://mianstack.com/question/q-2913)
+- [Q-2913 什么情况下 GRPO 效果较差？](../questions/Q-2913.md) · [在线阅读](https://mianstack.com/question/q-2913) · **已有答案**
 - [Q-2914 为什么选择 DPO 而不选择 GRPO？](../questions/Q-2914.md) · [在线阅读](https://mianstack.com/question/q-2914)
 - [Q-3009 PPO 的 Value Model 如何训练？](../questions/Q-3009.md) · [在线阅读](https://mianstack.com/question/q-3009)
 - [Q-3010 PPO 的 Reward Model 如何训练？](../questions/Q-3010.md) · [在线阅读](https://mianstack.com/question/q-3010)

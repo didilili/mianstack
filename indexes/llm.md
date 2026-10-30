@@ -35,7 +35,7 @@
 - [Q-3646 Attention 的 Q、K、V 如何由输入变换得到？](../questions/Q-3646.md) · [在线阅读](https://mianstack.com/question/q-3646)
 - [Q-3647 Attention 为什么除以根号 d_k，不这样缩放还有什么替代方案？](../questions/Q-3647.md) · [在线阅读](https://mianstack.com/question/q-3647)
 - [Q-3656 Self-Attention 的时间复杂度是多少，如何推导？](../questions/Q-3656.md) · [在线阅读](https://mianstack.com/question/q-3656)
-- [Q-3657 GQA 的原理是什么，如何在效果、速度和显存之间折中？](../questions/Q-3657.md) · [在线阅读](https://mianstack.com/question/q-3657)
+- [Q-3657 GQA 的原理是什么，如何在效果、速度和显存之间折中？](../questions/Q-3657.md) · [在线阅读](https://mianstack.com/question/q-3657) · **已有答案**
 - [Q-3701 Transformer 编码器与解码器中的注意力机制有什么区别？](../questions/Q-3701.md) · [在线阅读](https://mianstack.com/question/q-3701)
 - [Q-3702 Decoder 自注意力为什么需要因果掩码，具体如何实现？](../questions/Q-3702.md) · [在线阅读](https://mianstack.com/question/q-3702)
 - [Q-3703 多头注意力为什么要降低每个 Head 的维度？](../questions/Q-3703.md) · [在线阅读](https://mianstack.com/question/q-3703)
@@ -49,7 +49,7 @@
 - [Q-4591 Softmax 是什么，在 Transformer 的哪些位置使用？](../questions/Q-4591.md) · [在线阅读](https://mianstack.com/question/q-4591)
 - [Q-4592 LayerNorm 在 Transformer 中有什么作用，通常放在哪里？](../questions/Q-4592.md) · [在线阅读](https://mianstack.com/question/q-4592)
 - [Q-4594 Transformer 与 RNN 在建模长距离依赖时有什么区别？](../questions/Q-4594.md) · [在线阅读](https://mianstack.com/question/q-4594)
-- [Q-4595 Transformer 中逐位置前馈网络 FFN 有什么作用？](../questions/Q-4595.md) · [在线阅读](https://mianstack.com/question/q-4595)
+- [Q-4595 Transformer 中逐位置前馈网络 FFN 有什么作用？](../questions/Q-4595.md) · [在线阅读](https://mianstack.com/question/q-4595) · **已有答案**
 - [Q-4681 稀疏注意力如何降低计算复杂度，常见连接模式有哪些？](../questions/Q-4681.md) · [在线阅读](https://mianstack.com/question/q-4681)
 - [Q-4687 Transformer 为什么通常使用 LayerNorm 而不是 BatchNorm？](../questions/Q-4687.md) · [在线阅读](https://mianstack.com/question/q-4687)
 - [Q-4696 如何分析 Transformer 各模块的 FLOPs 及其随序列长度的变化？](../questions/Q-4696.md) · [在线阅读](https://mianstack.com/question/q-4696)
@@ -109,7 +109,7 @@
 - [Q-2707 DeepSeek-R1 的主要技术贡献是什么？](../questions/Q-2707.md) · [在线阅读](https://mianstack.com/question/q-2707)
 - [Q-2835 Dense 模型与 MoE 模型有什么区别？](../questions/Q-2835.md) · [在线阅读](https://mianstack.com/question/q-2835)
 - [Q-2876 Qwen3.5 的架构是什么？](../questions/Q-2876.md) · [在线阅读](https://mianstack.com/question/q-2876)
-- [Q-2952 残差连接解决什么问题，如何理解其作用？](../questions/Q-2952.md) · [在线阅读](https://mianstack.com/question/q-2952)
+- [Q-2952 残差连接解决什么问题，如何理解其作用？](../questions/Q-2952.md) · [在线阅读](https://mianstack.com/question/q-2952) · **已有答案**
 - [Q-2953 为什么现有大模型性能较强？](../questions/Q-2953.md) · [在线阅读](https://mianstack.com/question/q-2953)
 - [Q-3013 实现 Softmax。](../questions/Q-3013.md) · [在线阅读](https://mianstack.com/question/q-3013)
 - [Q-3176 为什么 Q 与 K 点积可以表示关联程度？](../questions/Q-3176.md) · [在线阅读](https://mianstack.com/question/q-3176)
@@ -226,7 +226,7 @@
 - [Q-0287 Token 与字符有什么区别？](../questions/Q-0287.md) · [在线阅读](https://mianstack.com/question/q-0287)
 - [Q-0508 位置编码的原理。](../questions/Q-0508.md) · [在线阅读](https://mianstack.com/question/q-0508) · **已有答案**
 - [Q-0512 大模型常见位置编码有哪些，各有什么优缺点？](../questions/Q-0512.md) · [在线阅读](https://mianstack.com/question/q-0512)
-- [Q-3650 RoPE 是什么，解决什么问题？](../questions/Q-3650.md) · [在线阅读](https://mianstack.com/question/q-3650)
+- [Q-3650 RoPE 是什么，解决什么问题？](../questions/Q-3650.md) · [在线阅读](https://mianstack.com/question/q-3650) · **已有答案**
 - [Q-3685 Tokenizer 的原理是什么，如何影响大模型训练与推理？](../questions/Q-3685.md) · [在线阅读](https://mianstack.com/question/q-3685)
 - [Q-4585 为什么大模型常采用子词分词，而非完整单词级分词？](../questions/Q-4585.md) · [在线阅读](https://mianstack.com/question/q-4585)
 - [Q-4586 大模型增大词表规模有哪些收益与代价？](../questions/Q-4586.md) · [在线阅读](https://mianstack.com/question/q-4586)
