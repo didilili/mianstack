@@ -1,0 +1,91 @@
+{
+  "id": "COL-KAMACODER-HARNESS",
+  "readingUrl": "https://mianstack.com/collection/col-kamacoder-harness",
+  "publisherId": "PUB-KAMACODER",
+  "title": "Harness Engineering 面试题",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html",
+  "sourceKind": "curated_question_set",
+  "access": "public",
+  "capturedAt": "2026-10-22",
+  "lastCheckedAt": "2026-10-22",
+  "verification": "verified_source",
+  "sourceClaim": "卡码笔记整理的 Harness Engineering 面试问题。",
+  "items": [
+    {
+      "id": "COL-KAMACODER-HARNESS-001",
+      "originalTitle": "Harness Engineering 和 Prompt Engineering、Context Engineering 到底什么区别？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#_2-%E4%BB%8E-prompt-%E5%88%B0-context-%E5%88%B0-harness-ai-%E5%B7%A5%E7%A8%8B%E7%9A%84%E4%B8%89%E6%AC%A1%E9%87%8D%E5%BF%83%E8%BD%AC%E7%A7%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-002",
+      "originalTitle": "如果让你设计一个 Harness，你里面会装什么？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#_3-harness-%E6%8B%86%E5%BC%80%E7%9C%8B-%E5%85%AD%E5%B1%82%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-003",
+      "originalTitle": "你们做 Agent 踩过什么坑？怎么解决的？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#_4-%E5%A4%A7%E5%8E%82%E8%B8%A9%E8%BF%87%E7%9A%84%E4%BA%94%E4%B8%AA%E7%9C%9F%E5%AE%9E%E9%9A%BE%E9%A2%98",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-004",
+      "originalTitle": "你了解 Hermes Agent 和 OpenClaw 吗？它们和 Harness Engineering 什么关系？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#_5-hermes-agent-vs-openclaw-%E4%B8%A4%E7%A7%8D-harness-%E5%AE%9E%E7%8E%B0",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-005",
+      "originalTitle": "Harness Engineering 和 MLOps 有什么区别？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#%E6%A6%82%E5%BF%B5%E7%90%86%E8%A7%A3%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-006",
+      "originalTitle": "Agent = Model + Harness 这个等式你怎么理解？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#%E6%A6%82%E5%BF%B5%E7%90%86%E8%A7%A3%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-007",
+      "originalTitle": "Context Engineering 和 RAG 是什么关系？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#%E6%A6%82%E5%BF%B5%E7%90%86%E8%A7%A3%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-008",
+      "originalTitle": "Agent 跑久了上下文腐化怎么办？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#%E6%8A%80%E6%9C%AF%E6%B7%B1%E6%8C%96%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-009",
+      "originalTitle": "AGENTS.md 越写越长效果变差怎么办？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#%E6%8A%80%E6%9C%AF%E6%B7%B1%E6%8C%96%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-010",
+      "originalTitle": "Hermes Agent 的学习闭环具体怎么工作？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#%E6%8A%80%E6%9C%AF%E6%B7%B1%E6%8C%96%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-011",
+      "originalTitle": "你们 Agent 的技术债怎么管理？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#%E7%94%9F%E4%BA%A7%E5%AE%9E%E6%88%98%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-HARNESS-012",
+      "originalTitle": "怎么给非技术人员解释 Harness Engineering 的价值？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/harness_interview.html#%E7%94%9F%E4%BA%A7%E5%AE%9E%E6%88%98%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

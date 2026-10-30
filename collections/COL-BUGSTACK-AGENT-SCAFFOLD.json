@@ -1,0 +1,131 @@
+{
+  "id": "COL-BUGSTACK-AGENT-SCAFFOLD",
+  "publisherId": "PUB-BUGSTACK",
+  "title": "AI Agent 脚手架项目面试题",
+  "coverage": [
+    "agent",
+    "rag",
+    "ai_engineering",
+    "software",
+    "llm"
+  ],
+  "sourceKind": "project_question_set",
+  "access": "public",
+  "verification": "verified_source",
+  "sourceClaim": "围绕《AI Agent 脚手架 + 场景应用》项目整理的面试问题。",
+  "capturedAt": "2026-10-22",
+  "lastCheckedAt": "2026-10-22",
+  "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html",
+  "items": [
+    {
+      "originalTitle": "请简述本项目的整体架构设计，以及为什么选择 DDD（领域驱动设计）？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_1-%E8%AF%B7%E7%AE%80%E8%BF%B0%E6%9C%AC%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1-%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9-ddd-%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-001"
+    },
+    {
+      "originalTitle": "在“智能体装配（Armory）”模块中，你是如何处理复杂的配置解析和对象构建的？使用了哪些设计模式？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_2-%E5%9C%A8-%E6%99%BA%E8%83%BD%E4%BD%93%E8%A3%85%E9%85%8D-armory-%E6%A8%A1%E5%9D%97%E4%B8%AD-%E4%BD%A0%E6%98%AF%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E5%A4%8D%E6%9D%82%E7%9A%84%E9%85%8D%E7%BD%AE%E8%A7%A3%E6%9E%90%E5%92%8C%E5%AF%B9%E8%B1%A1%E6%9E%84%E5%BB%BA%E7%9A%84-%E4%BD%BF%E7%94%A8%E4%BA%86%E5%93%AA%E4%BA%9B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-002"
+    },
+    {
+      "originalTitle": "项目中是如何实现 MCP (Model Context Protocol) 的？特别是“本地 MCP”是如何设计的？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_3-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0-mcp-model-context-protocol-%E7%9A%84-%E7%89%B9%E5%88%AB%E6%98%AF-%E6%9C%AC%E5%9C%B0-mcp-%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%9A%84",
+      "reviewStatus": "confirmed",
+      "reviewNote": "“本地 MCP”是该项目对本地 Bean 工具调用的称呼。",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-003"
+    },
+    {
+      "originalTitle": "在“手机网关”模块中，Netty 服务端是如何解决 TCP 粘包/拆包问题的？通信协议是如何设计的？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_4-%E5%9C%A8-%E6%89%8B%E6%9C%BA%E7%BD%91%E5%85%B3-%E6%A8%A1%E5%9D%97%E4%B8%AD-netty-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%98%AF%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3-tcp-%E7%B2%98%E5%8C%85-%E6%8B%86%E5%8C%85%E9%97%AE%E9%A2%98%E7%9A%84-%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%9A%84",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-004"
+    },
+    {
+      "originalTitle": "Netty 是异步通信的，但业务层调用（如“让手机截图”）通常需要同步等待结果，你是如何实现的？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_5-netty-%E6%98%AF%E5%BC%82%E6%AD%A5%E9%80%9A%E4%BF%A1%E7%9A%84-%E4%BD%86%E4%B8%9A%E5%8A%A1%E5%B1%82%E8%B0%83%E7%94%A8-%E5%A6%82-%E8%AE%A9%E6%89%8B%E6%9C%BA%E6%88%AA%E5%9B%BE-%E9%80%9A%E5%B8%B8%E9%9C%80%E8%A6%81%E5%90%8C%E6%AD%A5%E7%AD%89%E5%BE%85%E7%BB%93%E6%9E%9C-%E4%BD%A0%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-005"
+    },
+    {
+      "originalTitle": "请介绍一下项目中 Agent 工作流（Workflow）的设计，Loop、Parallel 和 Sequential 节点分别解决了什么问题？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_6-%E8%AF%B7%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8B%E9%A1%B9%E7%9B%AE%E4%B8%AD-agent-%E5%B7%A5%E4%BD%9C%E6%B5%81-workflow-%E7%9A%84%E8%AE%BE%E8%AE%A1-loop%E3%80%81parallel-%E5%92%8C-sequential-%E8%8A%82%E7%82%B9%E5%88%86%E5%88%AB%E8%A7%A3%E5%86%B3%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-006"
+    },
+    {
+      "originalTitle": "在“AI + Draw.io”场景中，如何确保 AI 生成的 XML 是可用的？前后端交互协议是如何设计的？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_7-%E5%9C%A8-ai-draw-io-%E5%9C%BA%E6%99%AF%E4%B8%AD-%E5%A6%82%E4%BD%95%E7%A1%AE%E4%BF%9D-ai-%E7%94%9F%E6%88%90%E7%9A%84-xml-%E6%98%AF%E5%8F%AF%E7%94%A8%E7%9A%84-%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92%E5%8D%8F%E8%AE%AE%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%9A%84",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-007"
+    },
+    {
+      "originalTitle": "你提到的“Spring AI 动态预热”是如何实现的？有什么作用？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_8-%E4%BD%A0%E6%8F%90%E5%88%B0%E7%9A%84-spring-ai-%E5%8A%A8%E6%80%81%E9%A2%84%E7%83%AD-%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84-%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-008"
+    },
+    {
+      "originalTitle": "在 Spring AI 集成中，项目是如何利用 \"Skills\" 机制来增强 RAG 或替代传统向量检索的？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_9-%E5%9C%A8-spring-ai-%E9%9B%86%E6%88%90%E4%B8%AD-%E9%A1%B9%E7%9B%AE%E6%98%AF%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8-skills-%E6%9C%BA%E5%88%B6%E6%9D%A5%E5%A2%9E%E5%BC%BA-rag-%E6%88%96%E6%9B%BF%E4%BB%A3%E4%BC%A0%E7%BB%9F%E5%90%91%E9%87%8F%E6%A3%80%E7%B4%A2%E7%9A%84",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-009"
+    },
+    {
+      "originalTitle": "移动网关系统中，服务端如何处理 Netty 的异步通信与 Agent 同步决策之间的矛盾？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_10-%E7%A7%BB%E5%8A%A8%E7%BD%91%E5%85%B3%E7%B3%BB%E7%BB%9F%E4%B8%AD-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86-netty-%E7%9A%84%E5%BC%82%E6%AD%A5%E9%80%9A%E4%BF%A1%E4%B8%8E-agent-%E5%90%8C%E6%AD%A5%E5%86%B3%E7%AD%96%E4%B9%8B%E9%97%B4%E7%9A%84%E7%9F%9B%E7%9B%BE",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-010"
+    },
+    {
+      "originalTitle": "项目在装配 MCP (Model Context Protocol) 工具时使用了什么设计模式？解决了什么问题？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_11-%E9%A1%B9%E7%9B%AE%E5%9C%A8%E8%A3%85%E9%85%8D-mcp-model-context-protocol-%E5%B7%A5%E5%85%B7%E6%97%B6%E4%BD%BF%E7%94%A8%E4%BA%86%E4%BB%80%E4%B9%88%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E8%A7%A3%E5%86%B3%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-011"
+    },
+    {
+      "originalTitle": "针对智能体服务的异常处理，项目采用了怎样的分层处理策略？如果 Netty 服务端突然宕机，如何保证 Agent 任务的一致性？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_12-%E9%92%88%E5%AF%B9%E6%99%BA%E8%83%BD%E4%BD%93%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86-%E9%A1%B9%E7%9B%AE%E9%87%87%E7%94%A8%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E5%88%86%E5%B1%82%E5%A4%84%E7%90%86%E7%AD%96%E7%95%A5-%E5%A6%82%E6%9E%9C-netty-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E7%AA%81%E7%84%B6%E5%AE%95%E6%9C%BA-%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81-agent-%E4%BB%BB%E5%8A%A1%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-012"
+    },
+    {
+      "originalTitle": "什么是 AI Agent（智能体）？它与传统的 LLM 应用（如 ChatGPT）有什么本质区别？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_13-%E4%BB%80%E4%B9%88%E6%98%AF-ai-agent-%E6%99%BA%E8%83%BD%E4%BD%93-%E5%AE%83%E4%B8%8E%E4%BC%A0%E7%BB%9F%E7%9A%84-llm-%E5%BA%94%E7%94%A8-%E5%A6%82-chatgpt-%E6%9C%89%E4%BB%80%E4%B9%88%E6%9C%AC%E8%B4%A8%E5%8C%BA%E5%88%AB",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-013"
+    },
+    {
+      "originalTitle": "什么是 ReAct 范式？它是如何让 Agent 具备推理能力的？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_14-%E4%BB%80%E4%B9%88%E6%98%AF-react-%E8%8C%83%E5%BC%8F-%E5%AE%83%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%A9-agent-%E5%85%B7%E5%A4%87%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E7%9A%84",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-014"
+    },
+    {
+      "originalTitle": "请解释 RAG（检索增强生成）与 Fine-tuning（微调）的区别及各自适用场景。",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_15-%E8%AF%B7%E8%A7%A3%E9%87%8A-rag-%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90-%E4%B8%8E-fine-tuning-%E5%BE%AE%E8%B0%83-%E7%9A%84%E5%8C%BA%E5%88%AB%E5%8F%8A%E5%90%84%E8%87%AA%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF%E3%80%82",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-015"
+    },
+    {
+      "originalTitle": "什么是向量数据库（Vector Database）？它在 AI Agent 中起什么作用？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_16-%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-vector-database-%E5%AE%83%E5%9C%A8-ai-agent-%E4%B8%AD%E8%B5%B7%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-016"
+    },
+    {
+      "originalTitle": "什么是 Chain of Thought (CoT)？它如何提升 LLM 的推理能力？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_17-%E4%BB%80%E4%B9%88%E6%98%AF-chain-of-thought-cot-%E5%AE%83%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87-llm-%E7%9A%84%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-017"
+    },
+    {
+      "originalTitle": "什么是 MCP (Model Context Protocol)？为什么它对 Agent 生态很重要？",
+      "sourceUrl": "https://bugstack.cn/md/project/ai-agent-scaffold/notes.html#_18-%E4%BB%80%E4%B9%88%E6%98%AF-mcp-model-context-protocol-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%83%E5%AF%B9-agent-%E7%94%9F%E6%80%81%E5%BE%88%E9%87%8D%E8%A6%81",
+      "reviewStatus": "confirmed",
+      "id": "COL-BUGSTACK-AGENT-SCAFFOLD-018"
+    }
+  ],
+  "readingUrl": "https://mianstack.com/collection/col-bugstack-agent-scaffold"
+}

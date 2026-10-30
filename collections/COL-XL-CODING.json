@@ -1,0 +1,104 @@
+{
+  "id": "COL-XL-CODING",
+  "readingUrl": "https://mianstack.com/collection/col-xl-coding",
+  "publisherId": "PUB-XL",
+  "title": "AI 编程面试题",
+  "coverage": [
+    "agent",
+    "ai_engineering"
+  ],
+  "sourceUrl": "https://xiaolinnote.com/ai/coding/coding_info.html",
+  "sourceKind": "curated_question_set",
+  "access": "public",
+  "declaredItemCount": 14,
+  "capturedAt": "2026-10-22",
+  "lastCheckedAt": "2026-10-22",
+  "verification": "verified_source",
+  "sourceClaim": "小林 Coding 的 AI 编程面试题单。",
+  "items": [
+    {
+      "id": "COL-XL-CODING-001",
+      "originalTitle": "AI 编程有哪些常见方式？代码补全、对话生成和 Agent 编程有什么区别？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/ai_programming_modes.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-002",
+      "originalTitle": "如何向 AI 描述开发需求、约束条件和验收标准？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/task_specification.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-003",
+      "originalTitle": "使用 AI 编程时，应该提供哪些代码上下文？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/code_context.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-004",
+      "originalTitle": "Coding Agent 如何在大型代码仓库中定位相关代码？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/code_localization.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-005",
+      "originalTitle": "Vibe Coding 和 Spec 驱动开发有什么区别？分别适合什么场景？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/vibe_coding_vs_spec_driven.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-006",
+      "originalTitle": "复杂开发需求如何拆分，才能让 AI 更可靠地完成？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/task_decomposition.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-007",
+      "originalTitle": "如何保证 AI 生成代码的质量？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/generated_code_quality.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-008",
+      "originalTitle": "如何审查 AI 生成的代码，发现看起来合理但实际错误的实现？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/ai_code_review.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-009",
+      "originalTitle": "如何利用报错、日志和测试结果，让 AI 排查并修复问题？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/ai_debugging.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-010",
+      "originalTitle": "如何保证 AI 生成的测试用例覆盖关键业务场景？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/generated_test_coverage.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-011",
+      "originalTitle": "AI 编程的上下文越来越长时，如何保留关键信息？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/context_management.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-012",
+      "originalTitle": "Coding Agent 如何避免被过期的代码描述误导？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/stale_code_description.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-013",
+      "originalTitle": "跨会话继续开发时，如何让 AI 接续需求、代码状态和任务进度？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/session_handoff.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-CODING-014",
+      "originalTitle": "AI 修改文件、执行命令和读取外部内容时，应该如何控制权限与风险？",
+      "sourceUrl": "https://xiaolinnote.com/ai/coding/permission_boundaries.html",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

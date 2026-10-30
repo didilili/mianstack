@@ -10,10 +10,10 @@
   "sourceUrl": "https://xiaolinnote.com/ai/agent/agent_info.html",
   "sourceKind": "curated_question_set",
   "access": "public",
-  "declaredItemCount": 24,
+  "declaredItemCount": 30,
   "capturedAt": "2026-09-13",
-  "lastCheckedAt": "2026-09-13",
-  "verification": "publisher_claim",
+  "lastCheckedAt": "2026-10-22",
+  "verification": "verified_source",
   "sourceClaim": "小林 Coding 的面试题单。",
   "items": [
     {
@@ -158,6 +158,42 @@
       "id": "COL-XL-AGENT-024",
       "originalTitle": "大模型或 Agent 连接数据库时，如何防止越权、敏感数据泄漏和查询幻觉？",
       "sourceUrl": "https://xiaolinnote.com/ai/agent/24_database_security.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-AGENT-025",
+      "originalTitle": "Agent Harness 是什么？",
+      "sourceUrl": "https://xiaolinnote.com/ai/agent/25_harness.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-AGENT-026",
+      "originalTitle": "如何设计一个完整的 Agent Harness？",
+      "sourceUrl": "https://xiaolinnote.com/ai/agent/26_harness_design.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-AGENT-027",
+      "originalTitle": "Agent 的自进化机制如何实现？",
+      "sourceUrl": "https://xiaolinnote.com/ai/agent/27_self_evolution.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-AGENT-028",
+      "originalTitle": "Agent 应该在什么情况下请求人工确认？",
+      "sourceUrl": "https://xiaolinnote.com/ai/agent/28_human_confirmation.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-AGENT-029",
+      "originalTitle": "Agent 的上下文压缩阈值应该如何确定？",
+      "sourceUrl": "https://xiaolinnote.com/ai/agent/29_context_compression_threshold.html",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-XL-AGENT-030",
+      "originalTitle": "相同输入为什么会得到不同的 Agent 执行结果？",
+      "sourceUrl": "https://xiaolinnote.com/ai/agent/30_execution_variance.html",
       "reviewStatus": "confirmed"
     }
   ]

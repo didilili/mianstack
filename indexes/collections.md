@@ -288,65 +288,80 @@
 - [AIMLInterviews · PyTorch 实现与追问](#collection-280)
 - [AIMLInterviews · AI 与机器学习系统设计](#collection-281)
 - [AI Interview Code · 大模型手写代码题](#collection-282)
-- [Datawhale 每日面试 · 聚类学习](#collection-283)
-- [Datawhale 每日面试 · 计算机视觉基础](#collection-284)
-- [Datawhale 每日面试 · 集成学习与树模型](#collection-285)
-- [Datawhale 每日面试 · 大语言模型](#collection-286)
-- [Datawhale 每日面试 · 机器学习基础与优化](#collection-287)
-- [Datawhale 每日面试 · NLP 模型与文本表示](#collection-288)
-- [Datawhale 每日面试 · 目标检测与文本检测](#collection-289)
-- [Datawhale 每日面试 · 推荐系统](#collection-290)
-- [Datawhale 每日面试 · 监督学习](#collection-291)
-- [AI 智能体与大模型应用开发面试题库](#collection-292)
-- [Hello-Agents · LLM、VLM 与 Agent 面试题](#collection-293)
-- [JavaGuide · Agent 面试题](#collection-294)
-- [JavaGuide · AI 机制与工程问答](#collection-295)
-- [JavaGuide · Agent 机制与项目追问](#collection-296)
-- [JavaGuide · 模型接口与评测问答](#collection-297)
-- [JavaGuide · 检索与知识工程问答](#collection-298)
-- [JavaGuide · 生产架构与治理问答](#collection-299)
-- [JavaGuide · AI 编程与编码 Agent 问答](#collection-300)
-- [JavaGuide · AI 项目复盘与自测](#collection-301)
-- [JavaGuide · AI 导读问题](#collection-302)
-- [JavaGuide · AI 系统设计面试题](#collection-303)
-- [JavaGuide · 大模型基础面试题](#collection-304)
-- [JavaGuide · RAG 面试题](#collection-305)
-- [Agent开发面试题](#collection-306)
-- [八股集锦（高频问题）](#collection-307)
-- [LLM 面试笔记 · 应用框架与提示](#collection-308)
-- [LLM 面试笔记 · 模型架构与注意力](#collection-309)
-- [LLM 面试笔记 · 训练数据与格式](#collection-310)
-- [LLM 面试笔记 · 分布式训练与资源](#collection-311)
-- [LLM 面试笔记 · 评测与幻觉](#collection-312)
-- [LLM 面试笔记 · 预训练与微调](#collection-313)
-- [LLM 面试笔记 · 模型与 NLP 基础](#collection-314)
-- [LLM 面试笔记 · 模型推理](#collection-315)
-- [LLM 面试笔记 · 强化学习与对齐](#collection-316)
-- [LLM 面试笔记 · 补充概念与机制问答](#collection-317)
-- [Agent 面试题](#collection-318)
-- [LangChain 框架面试题](#collection-319)
-- [大模型工程面试题](#collection-320)
-- [RAG 面试题](#collection-321)
-- [LLM 工具调用面试题](#collection-322)
-- [zero2Agent · 概念考察：Harness Engineering、Context Engineering 与前沿范式](#collection-323)
-- [zero2Agent · Agent Infra：Runtime、Sandbox 与可靠执行](#collection-324)
-- [zero2Agent · AI 代码分析与测试：覆盖率、插桩、代码过滤](#collection-325)
-- [zero2Agent · AI Infra：训练、推理与 GPU 平台工程](#collection-326)
-- [zero2Agent · 架构选型：ReAct、Plan-and-Execute 与 ToT 怎么选](#collection-327)
-- [zero2Agent · 业务 AI 工程分析：业务场景与 AI 系统的结合面试题](#collection-328)
-- [zero2Agent · 公司专题代表问法](#collection-329)
-- [zero2Agent · 工程化踩坑：死循环、状态丢失与成本控制](#collection-330)
-- [zero2Agent · 评估与全局观：怎么量化 Agent 好坏、落地最大挑战](#collection-331)
-- [zero2Agent · 容错与鲁棒性面试题](#collection-332)
-- [zero2Agent · 记忆与上下文：长对话不丢信息的实战方案](#collection-333)
-- [zero2Agent · 多智能体协作：角色分工、通信机制与冲突仲裁](#collection-334)
-- [zero2Agent · 简历项目拷打：面试官追着你的 Agent 项目问到底](#collection-335)
-- [zero2Agent · Prompt 工程与框架原理：模板构建、Skills 机制](#collection-336)
-- [zero2Agent · RAG 与检索系统：从 chunk 设计到多路召回](#collection-337)
-- [zero2Agent · 工具管理：参数校验、工具路由与百级工具库](#collection-338)
-- [zero2Agent · 训练、数据与模型优化：从数据清洗到 LoRA](#collection-339)
-- [zero2Agent · Loop 工程教程面试题](#collection-340)
-- [zero2Agent · OpenClaw 教程面试题](#collection-341)
+- [AI Agent 动态编排项目面试题](#collection-283)
+- [AI Agent 脚手架项目面试题](#collection-284)
+- [AI 超级智能体项目面试题](#collection-285)
+- [Datawhale 每日面试 · 聚类学习](#collection-286)
+- [Datawhale 每日面试 · 计算机视觉基础](#collection-287)
+- [Datawhale 每日面试 · 集成学习与树模型](#collection-288)
+- [Datawhale 每日面试 · 大语言模型](#collection-289)
+- [Datawhale 每日面试 · 机器学习基础与优化](#collection-290)
+- [Datawhale 每日面试 · NLP 模型与文本表示](#collection-291)
+- [Datawhale 每日面试 · 目标检测与文本检测](#collection-292)
+- [Datawhale 每日面试 · 推荐系统](#collection-293)
+- [Datawhale 每日面试 · 监督学习](#collection-294)
+- [AI 智能体与大模型应用开发面试题库](#collection-295)
+- [Hello-Agents · LLM、VLM 与 Agent 面试题](#collection-296)
+- [王二讲 Agent · Claude Code 与 Codex](#collection-297)
+- [王二讲 Agent · 上下文与记忆](#collection-298)
+- [王二讲 Agent · Harness 与 Skills](#collection-299)
+- [王二讲 Agent · MCP 与工具调用](#collection-300)
+- [王二讲 Agent · RAG 知识库](#collection-301)
+- [JavaGuide · Agent 面试题](#collection-302)
+- [JavaGuide · AI 机制与工程问答](#collection-303)
+- [JavaGuide · Agent 机制与项目追问](#collection-304)
+- [JavaGuide · 模型接口与评测问答](#collection-305)
+- [JavaGuide · 检索与知识工程问答](#collection-306)
+- [JavaGuide · 生产架构与治理问答](#collection-307)
+- [JavaGuide · AI 编程与编码 Agent 问答](#collection-308)
+- [JavaGuide · AI 项目复盘与自测](#collection-309)
+- [JavaGuide · AI 导读问题](#collection-310)
+- [JavaGuide · AI 系统设计面试题](#collection-311)
+- [JavaGuide · 大模型基础面试题](#collection-312)
+- [JavaGuide · RAG 面试题](#collection-313)
+- [Agent 面试题](#collection-314)
+- [GraphRAG / LightRAG 面试题](#collection-315)
+- [Harness Engineering 面试题](#collection-316)
+- [RAG 面试题](#collection-317)
+- [Vibe Coding 面试题](#collection-318)
+- [Agent开发面试题](#collection-319)
+- [AI Agent 面试 Top50 必刷题](#collection-320)
+- [八股集锦（高频问题）](#collection-321)
+- [LLM 面试笔记 · 应用框架与提示](#collection-322)
+- [LLM 面试笔记 · 模型架构与注意力](#collection-323)
+- [LLM 面试笔记 · 训练数据与格式](#collection-324)
+- [LLM 面试笔记 · 分布式训练与资源](#collection-325)
+- [LLM 面试笔记 · 评测与幻觉](#collection-326)
+- [LLM 面试笔记 · 预训练与微调](#collection-327)
+- [LLM 面试笔记 · 模型与 NLP 基础](#collection-328)
+- [LLM 面试笔记 · 模型推理](#collection-329)
+- [LLM 面试笔记 · 强化学习与对齐](#collection-330)
+- [LLM 面试笔记 · 补充概念与机制问答](#collection-331)
+- [Agent 面试题](#collection-332)
+- [AI 编程面试题](#collection-333)
+- [LangChain 框架面试题](#collection-334)
+- [大模型工程面试题](#collection-335)
+- [RAG 面试题](#collection-336)
+- [LLM 工具调用面试题](#collection-337)
+- [zero2Agent · 概念考察：Harness Engineering、Context Engineering 与前沿范式](#collection-338)
+- [zero2Agent · Agent Infra：Runtime、Sandbox 与可靠执行](#collection-339)
+- [zero2Agent · AI 代码分析与测试：覆盖率、插桩、代码过滤](#collection-340)
+- [zero2Agent · AI Infra：训练、推理与 GPU 平台工程](#collection-341)
+- [zero2Agent · 架构选型：ReAct、Plan-and-Execute 与 ToT 怎么选](#collection-342)
+- [zero2Agent · 业务 AI 工程分析：业务场景与 AI 系统的结合面试题](#collection-343)
+- [zero2Agent · 公司专题代表问法](#collection-344)
+- [zero2Agent · 工程化踩坑：死循环、状态丢失与成本控制](#collection-345)
+- [zero2Agent · 评估与全局观：怎么量化 Agent 好坏、落地最大挑战](#collection-346)
+- [zero2Agent · 容错与鲁棒性面试题](#collection-347)
+- [zero2Agent · 记忆与上下文：长对话不丢信息的实战方案](#collection-348)
+- [zero2Agent · 多智能体协作：角色分工、通信机制与冲突仲裁](#collection-349)
+- [zero2Agent · 简历项目拷打：面试官追着你的 Agent 项目问到底](#collection-350)
+- [zero2Agent · Prompt 工程与框架原理：模板构建、Skills 机制](#collection-351)
+- [zero2Agent · RAG 与检索系统：从 chunk 设计到多路召回](#collection-352)
+- [zero2Agent · 工具管理：参数校验、工具路由与百级工具库](#collection-353)
+- [zero2Agent · 训练、数据与模型优化：从数据清洗到 LoRA](#collection-354)
+- [zero2Agent · Loop 工程教程面试题](#collection-355)
+- [zero2Agent · OpenClaw 教程面试题](#collection-356)
 
 <a id="collection-1"></a>
 ## AgentGuide · 算法岗专项面试题
@@ -2802,6 +2817,33 @@
 - [原始来源](https://github.com/bbruceyuan/AI-Interview-Code/blob/6d95fedb545c1147a586ff32603e011fdc644c33/README.md)
 
 <a id="collection-283"></a>
+## AI Agent 动态编排项目面试题
+
+- 发布者：小傅哥
+- 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-bugstack-agent-dynamic)
+- [仓库记录](../collections/COL-BUGSTACK-AGENT-DYNAMIC.json)
+- [原始来源](https://bugstack.cn/md/project/ai-knowledge/notes.html)
+
+<a id="collection-284"></a>
+## AI Agent 脚手架项目面试题
+
+- 发布者：小傅哥
+- 收录数量：18
+- [在线阅读](https://mianstack.com/collection/col-bugstack-agent-scaffold)
+- [仓库记录](../collections/COL-BUGSTACK-AGENT-SCAFFOLD.json)
+- [原始来源](https://bugstack.cn/md/project/ai-agent-scaffold/notes.html)
+
+<a id="collection-285"></a>
+## AI 超级智能体项目面试题
+
+- 发布者：编程导航
+- 收录数量：20
+- [在线阅读](https://mianstack.com/collection/col-codefather-ai-super-agent)
+- [仓库记录](../collections/COL-CODEFATHER-AI-SUPER-AGENT.json)
+- [原始来源](https://www.mianshiya.com/bank/1929747035048828930)
+
+<a id="collection-286"></a>
 ## Datawhale 每日面试 · 聚类学习
 
 - 发布者：Datawhale
@@ -2809,7 +2851,7 @@
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-clustering)
 - [仓库记录](../collections/COL-DAILY-AI-CLUSTERING.json)
 
-<a id="collection-284"></a>
+<a id="collection-287"></a>
 ## Datawhale 每日面试 · 计算机视觉基础
 
 - 发布者：Datawhale
@@ -2817,7 +2859,7 @@
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-cv-basics)
 - [仓库记录](../collections/COL-DAILY-AI-CV-BASICS.json)
 
-<a id="collection-285"></a>
+<a id="collection-288"></a>
 ## Datawhale 每日面试 · 集成学习与树模型
 
 - 发布者：Datawhale
@@ -2825,7 +2867,7 @@
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-ensemble)
 - [仓库记录](../collections/COL-DAILY-AI-ENSEMBLE.json)
 
-<a id="collection-286"></a>
+<a id="collection-289"></a>
 ## Datawhale 每日面试 · 大语言模型
 
 - 发布者：Datawhale
@@ -2833,7 +2875,7 @@
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-llm)
 - [仓库记录](../collections/COL-DAILY-AI-LLM.json)
 
-<a id="collection-287"></a>
+<a id="collection-290"></a>
 ## Datawhale 每日面试 · 机器学习基础与优化
 
 - 发布者：Datawhale
@@ -2841,7 +2883,7 @@
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-ml-basics)
 - [仓库记录](../collections/COL-DAILY-AI-ML-BASICS.json)
 
-<a id="collection-288"></a>
+<a id="collection-291"></a>
 ## Datawhale 每日面试 · NLP 模型与文本表示
 
 - 发布者：Datawhale
@@ -2849,7 +2891,7 @@
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-nlp)
 - [仓库记录](../collections/COL-DAILY-AI-NLP.json)
 
-<a id="collection-289"></a>
+<a id="collection-292"></a>
 ## Datawhale 每日面试 · 目标检测与文本检测
 
 - 发布者：Datawhale
@@ -2857,7 +2899,7 @@
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-object-detection)
 - [仓库记录](../collections/COL-DAILY-AI-OBJECT-DETECTION.json)
 
-<a id="collection-290"></a>
+<a id="collection-293"></a>
 ## Datawhale 每日面试 · 推荐系统
 
 - 发布者：Datawhale
@@ -2865,7 +2907,7 @@
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-recommendation)
 - [仓库记录](../collections/COL-DAILY-AI-RECOMMENDATION.json)
 
-<a id="collection-291"></a>
+<a id="collection-294"></a>
 ## Datawhale 每日面试 · 监督学习
 
 - 发布者：Datawhale
@@ -2873,7 +2915,7 @@
 - [在线阅读](https://mianstack.com/collection/col-daily-ai-supervised)
 - [仓库记录](../collections/COL-DAILY-AI-SUPERVISED.json)
 
-<a id="collection-292"></a>
+<a id="collection-295"></a>
 ## AI 智能体与大模型应用开发面试题库
 
 - 发布者：didilili
@@ -2882,7 +2924,7 @@
 - [仓库记录](../collections/COL-DIDILILI-AI-89.json)
 - [原始来源](https://github.com/didilili/ai-agents-from-zero/blob/ea7f28ffe0b2c2650e3936f3bb591560225702b3/AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93.md)
 
-<a id="collection-293"></a>
+<a id="collection-296"></a>
 ## Hello-Agents · LLM、VLM 与 Agent 面试题
 
 - 发布者：Datawhale
@@ -2891,7 +2933,52 @@
 - [仓库记录](../collections/COL-HELLO-AGENTS-INTERVIEW.json)
 - [原始来源](https://github.com/datawhalechina/hello-agents/blob/36f583c233ea5cee4537ef93455702b55053af18/Extra-Chapter/Extra01-面试问题总结.md)
 
-<a id="collection-294"></a>
+<a id="collection-297"></a>
+## 王二讲 Agent · Claude Code 与 Codex
+
+- 发布者：沉默王二
+- 收录数量：17
+- [在线阅读](https://mianstack.com/collection/col-javabetter-coding-agent)
+- [仓库记录](../collections/COL-JAVABETTER-CODING-AGENT.json)
+- [原始来源](https://javabetter.cn/ai/video/#_06%E3%80%81claude-code%E4%B8%8Ecodex-17-%E9%A2%98)
+
+<a id="collection-298"></a>
+## 王二讲 Agent · 上下文与记忆
+
+- 发布者：沉默王二
+- 收录数量：22
+- [在线阅读](https://mianstack.com/collection/col-javabetter-context-memory)
+- [仓库记录](../collections/COL-JAVABETTER-CONTEXT-MEMORY.json)
+- [原始来源](https://javabetter.cn/ai/video/#_02%E3%80%81%E4%B8%8A%E4%B8%8B%E6%96%87%E4%B8%8E%E8%AE%B0%E5%BF%86-22-%E9%A2%98)
+
+<a id="collection-299"></a>
+## 王二讲 Agent · Harness 与 Skills
+
+- 发布者：沉默王二
+- 收录数量：42
+- [在线阅读](https://mianstack.com/collection/col-javabetter-harness-skills)
+- [仓库记录](../collections/COL-JAVABETTER-HARNESS-SKILLS.json)
+- [原始来源](https://javabetter.cn/ai/video/#_03%E3%80%81harness-%E4%B8%8E-skills-42-%E9%A2%98)
+
+<a id="collection-300"></a>
+## 王二讲 Agent · MCP 与工具调用
+
+- 发布者：沉默王二
+- 收录数量：26
+- [在线阅读](https://mianstack.com/collection/col-javabetter-mcp-tools)
+- [仓库记录](../collections/COL-JAVABETTER-MCP-TOOLS.json)
+- [原始来源](https://javabetter.cn/ai/video/#_09%E3%80%81mcp-%E4%B8%8E%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8-26-%E9%A2%98)
+
+<a id="collection-301"></a>
+## 王二讲 Agent · RAG 知识库
+
+- 发布者：沉默王二
+- 收录数量：43
+- [在线阅读](https://mianstack.com/collection/col-javabetter-rag)
+- [仓库记录](../collections/COL-JAVABETTER-RAG.json)
+- [原始来源](https://javabetter.cn/ai/video/#_04%E3%80%81rag%E7%9F%A5%E8%AF%86%E5%BA%93-43-%E9%A2%98)
+
+<a id="collection-302"></a>
 ## JavaGuide · Agent 面试题
 
 - 发布者：Guide
@@ -2899,7 +2986,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-agent)
 - [仓库记录](../collections/COL-JAVAGUIDE-AGENT.json)
 
-<a id="collection-295"></a>
+<a id="collection-303"></a>
 ## JavaGuide · AI 机制与工程问答
 
 - 发布者：Guide
@@ -2907,7 +2994,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-article-qa)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-ARTICLE-QA.json)
 
-<a id="collection-296"></a>
+<a id="collection-304"></a>
 ## JavaGuide · Agent 机制与项目追问
 
 - 发布者：Guide
@@ -2915,7 +3002,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-agent)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-AGENT.json)
 
-<a id="collection-297"></a>
+<a id="collection-305"></a>
 ## JavaGuide · 模型接口与评测问答
 
 - 发布者：Guide
@@ -2923,7 +3010,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-llm)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-LLM.json)
 
-<a id="collection-298"></a>
+<a id="collection-306"></a>
 ## JavaGuide · 检索与知识工程问答
 
 - 发布者：Guide
@@ -2931,7 +3018,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-rag)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-RAG.json)
 
-<a id="collection-299"></a>
+<a id="collection-307"></a>
 ## JavaGuide · 生产架构与治理问答
 
 - 发布者：Guide
@@ -2939,7 +3026,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-body-systems)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-BODY-SYSTEMS.json)
 
-<a id="collection-300"></a>
+<a id="collection-308"></a>
 ## JavaGuide · AI 编程与编码 Agent 问答
 
 - 发布者：Guide
@@ -2947,7 +3034,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-coding)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-CODING.json)
 
-<a id="collection-301"></a>
+<a id="collection-309"></a>
 ## JavaGuide · AI 项目复盘与自测
 
 - 发布者：Guide
@@ -2955,7 +3042,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-project-review)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-PROJECT-REVIEW.json)
 
-<a id="collection-302"></a>
+<a id="collection-310"></a>
 ## JavaGuide · AI 导读问题
 
 - 发布者：Guide
@@ -2963,7 +3050,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-reading-guide)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-READING-GUIDE.json)
 
-<a id="collection-303"></a>
+<a id="collection-311"></a>
 ## JavaGuide · AI 系统设计面试题
 
 - 发布者：Guide
@@ -2971,7 +3058,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-ai-system-design)
 - [仓库记录](../collections/COL-JAVAGUIDE-AI-SYSTEM-DESIGN.json)
 
-<a id="collection-304"></a>
+<a id="collection-312"></a>
 ## JavaGuide · 大模型基础面试题
 
 - 发布者：Guide
@@ -2979,7 +3066,7 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-llm)
 - [仓库记录](../collections/COL-JAVAGUIDE-LLM.json)
 
-<a id="collection-305"></a>
+<a id="collection-313"></a>
 ## JavaGuide · RAG 面试题
 
 - 发布者：Guide
@@ -2987,7 +3074,52 @@
 - [在线阅读](https://mianstack.com/collection/col-javaguide-rag)
 - [仓库记录](../collections/COL-JAVAGUIDE-RAG.json)
 
-<a id="collection-306"></a>
+<a id="collection-314"></a>
+## Agent 面试题
+
+- 发布者：卡码笔记
+- 收录数量：27
+- [在线阅读](https://mianstack.com/collection/col-kamacoder-agent)
+- [仓库记录](../collections/COL-KAMACODER-AGENT.json)
+- [原始来源](https://notes.kamacoder.com/interview/llm/agent_interview.html)
+
+<a id="collection-315"></a>
+## GraphRAG / LightRAG 面试题
+
+- 发布者：卡码笔记
+- 收录数量：15
+- [在线阅读](https://mianstack.com/collection/col-kamacoder-graphrag)
+- [仓库记录](../collections/COL-KAMACODER-GRAPHRAG.json)
+- [原始来源](https://notes.kamacoder.com/interview/llm/graphrag_interview.html)
+
+<a id="collection-316"></a>
+## Harness Engineering 面试题
+
+- 发布者：卡码笔记
+- 收录数量：12
+- [在线阅读](https://mianstack.com/collection/col-kamacoder-harness)
+- [仓库记录](../collections/COL-KAMACODER-HARNESS.json)
+- [原始来源](https://notes.kamacoder.com/interview/llm/harness_interview.html)
+
+<a id="collection-317"></a>
+## RAG 面试题
+
+- 发布者：卡码笔记
+- 收录数量：21
+- [在线阅读](https://mianstack.com/collection/col-kamacoder-rag)
+- [仓库记录](../collections/COL-KAMACODER-RAG.json)
+- [原始来源](https://notes.kamacoder.com/interview/llm/rag_interview.html)
+
+<a id="collection-318"></a>
+## Vibe Coding 面试题
+
+- 发布者：卡码笔记
+- 收录数量：8
+- [在线阅读](https://mianstack.com/collection/col-kamacoder-vibe-coding)
+- [仓库记录](../collections/COL-KAMACODER-VIBE-CODING.json)
+- [原始来源](https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html)
+
+<a id="collection-319"></a>
 ## Agent开发面试题
 
 - 发布者：摸鱼酱mio
@@ -2996,7 +3128,15 @@
 - [仓库记录](../collections/COL-MYL-AGENT-LINKS.json)
 - [原始来源](https://www.yuque.com/camellia-6ti1v/nof1i8/zizeehc2qzhfy4xw)
 
-<a id="collection-307"></a>
+<a id="collection-320"></a>
+## AI Agent 面试 Top50 必刷题
+
+- 发布者：程序员马丁
+- 收录数量：50
+- [在线阅读](https://mianstack.com/collection/col-nageoffer-agent-top50)
+- [仓库记录](../collections/COL-NAGEOFFER-AGENT-TOP50.json)
+
+<a id="collection-321"></a>
 ## 八股集锦（高频问题）
 
 - 发布者：小熊饼干_
@@ -3005,7 +3145,7 @@
 - [仓库记录](../collections/COL-WB-HIGH-FREQ.json)
 - [原始来源](https://dcnz7910hv4k.feishu.cn/wiki/IEt9wPo70ipfxBkBTNzcWPW5nLg#PMYjdlz92oR1K3xhSfdchWkmn9b)
 
-<a id="collection-308"></a>
+<a id="collection-322"></a>
 ## LLM 面试笔记 · 应用框架与提示
 
 - 发布者：Firefly
@@ -3014,7 +3154,7 @@
 - [仓库记录](../collections/COL-WDN-APPLICATION.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/10.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8)
 
-<a id="collection-309"></a>
+<a id="collection-323"></a>
 ## LLM 面试笔记 · 模型架构与注意力
 
 - 发布者：Firefly
@@ -3023,7 +3163,7 @@
 - [仓库记录](../collections/COL-WDN-ARCHITECTURE.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/02.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84)
 
-<a id="collection-310"></a>
+<a id="collection-324"></a>
 ## LLM 面试笔记 · 训练数据与格式
 
 - 发布者：Firefly
@@ -3032,7 +3172,7 @@
 - [仓库记录](../collections/COL-WDN-DATA.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/03.%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E9%9B%86)
 
-<a id="collection-311"></a>
+<a id="collection-325"></a>
 ## LLM 面试笔记 · 分布式训练与资源
 
 - 发布者：Firefly
@@ -3041,7 +3181,7 @@
 - [仓库记录](../collections/COL-WDN-DISTRIBUTED.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/04.%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83)
 
-<a id="collection-312"></a>
+<a id="collection-326"></a>
 ## LLM 面试笔记 · 评测与幻觉
 
 - 发布者：Firefly
@@ -3050,7 +3190,7 @@
 - [仓库记录](../collections/COL-WDN-EVALUATION.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/09.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0)
 
-<a id="collection-313"></a>
+<a id="collection-327"></a>
 ## LLM 面试笔记 · 预训练与微调
 
 - 发布者：Firefly
@@ -3059,7 +3199,7 @@
 - [仓库记录](../collections/COL-WDN-FINETUNING.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/05.%E6%9C%89%E7%9B%91%E7%9D%A3%E5%BE%AE%E8%B0%83)
 
-<a id="collection-314"></a>
+<a id="collection-328"></a>
 ## LLM 面试笔记 · 模型与 NLP 基础
 
 - 发布者：Firefly
@@ -3068,7 +3208,7 @@
 - [仓库记录](../collections/COL-WDN-FOUNDATIONS.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/01.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80)
 
-<a id="collection-315"></a>
+<a id="collection-329"></a>
 ## LLM 面试笔记 · 模型推理
 
 - 发布者：Firefly
@@ -3077,7 +3217,7 @@
 - [仓库记录](../collections/COL-WDN-INFERENCE.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/06.%E6%8E%A8%E7%90%86)
 
-<a id="collection-316"></a>
+<a id="collection-330"></a>
 ## LLM 面试笔记 · 强化学习与对齐
 
 - 发布者：Firefly
@@ -3086,7 +3226,7 @@
 - [仓库记录](../collections/COL-WDN-RL.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
 
-<a id="collection-317"></a>
+<a id="collection-331"></a>
 ## LLM 面试笔记 · 补充概念与机制问答
 
 - 发布者：Firefly
@@ -3095,16 +3235,25 @@
 - [仓库记录](../collections/COL-WDN-SUPPLEMENT.json)
 - [原始来源](https://github.com/wdndev/llm_interview_note/blob/581d54dd9a72e1d0a4eb28ae50859db83901b783/README.md)
 
-<a id="collection-318"></a>
+<a id="collection-332"></a>
 ## Agent 面试题
 
 - 发布者：小林 Coding
-- 收录数量：24
+- 收录数量：30
 - [在线阅读](https://mianstack.com/collection/col-xl-agent)
 - [仓库记录](../collections/COL-XL-AGENT.json)
 - [原始来源](https://xiaolinnote.com/ai/agent/agent_info.html)
 
-<a id="collection-319"></a>
+<a id="collection-333"></a>
+## AI 编程面试题
+
+- 发布者：小林 Coding
+- 收录数量：14
+- [在线阅读](https://mianstack.com/collection/col-xl-coding)
+- [仓库记录](../collections/COL-XL-CODING.json)
+- [原始来源](https://xiaolinnote.com/ai/coding/coding_info.html)
+
+<a id="collection-334"></a>
 ## LangChain 框架面试题
 
 - 发布者：小林 Coding
@@ -3113,7 +3262,7 @@
 - [仓库记录](../collections/COL-XL-LANGCHAIN.json)
 - [原始来源](https://xiaolinnote.com/ai/langchain/langchain_info.html)
 
-<a id="collection-320"></a>
+<a id="collection-335"></a>
 ## 大模型工程面试题
 
 - 发布者：小林 Coding
@@ -3122,25 +3271,25 @@
 - [仓库记录](../collections/COL-XL-LLM.json)
 - [原始来源](https://xiaolinnote.com/ai/llm/llm_info.html)
 
-<a id="collection-321"></a>
+<a id="collection-336"></a>
 ## RAG 面试题
 
 - 发布者：小林 Coding
-- 收录数量：21
+- 收录数量：23
 - [在线阅读](https://mianstack.com/collection/col-xl-rag)
 - [仓库记录](../collections/COL-XL-RAG.json)
 - [原始来源](https://xiaolinnote.com/ai/rag/rag_info.html)
 
-<a id="collection-322"></a>
+<a id="collection-337"></a>
 ## LLM 工具调用面试题
 
 - 发布者：小林 Coding
-- 收录数量：18
+- 收录数量：22
 - [在线阅读](https://mianstack.com/collection/col-xl-tools)
 - [仓库记录](../collections/COL-XL-TOOLS.json)
 - [原始来源](https://xiaolinnote.com/ai/tools/tools_info.html)
 
-<a id="collection-323"></a>
+<a id="collection-338"></a>
 ## zero2Agent · 概念考察：Harness Engineering、Context Engineering 与前沿范式
 
 - 发布者：Onefly
@@ -3149,7 +3298,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-AGENT-CONCEPTS.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/15-agent-concepts/index.md)
 
-<a id="collection-324"></a>
+<a id="collection-339"></a>
 ## zero2Agent · Agent Infra：Runtime、Sandbox 与可靠执行
 
 - 发布者：Onefly
@@ -3158,7 +3307,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-AGENT-INFRA.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/16-agent-infra/index.md)
 
-<a id="collection-325"></a>
+<a id="collection-340"></a>
 ## zero2Agent · AI 代码分析与测试：覆盖率、插桩、代码过滤
 
 - 发布者：Onefly
@@ -3167,7 +3316,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-AI-CODE-TESTING.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/11-ai-code-testing/index.md)
 
-<a id="collection-326"></a>
+<a id="collection-341"></a>
 ## zero2Agent · AI Infra：训练、推理与 GPU 平台工程
 
 - 发布者：Onefly
@@ -3176,7 +3325,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-AI-INFRA.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/17-ai-infra/index.md)
 
-<a id="collection-327"></a>
+<a id="collection-342"></a>
 ## zero2Agent · 架构选型：ReAct、Plan-and-Execute 与 ToT 怎么选
 
 - 发布者：Onefly
@@ -3185,7 +3334,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-ARCHITECTURE-DESIGN.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/01-architecture-design/index.md)
 
-<a id="collection-328"></a>
+<a id="collection-343"></a>
 ## zero2Agent · 业务 AI 工程分析：业务场景与 AI 系统的结合面试题
 
 - 发布者：Onefly
@@ -3194,7 +3343,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-BUSINESS-AI-ENGINEERING.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/12-business-ai-engineering/index.md)
 
-<a id="collection-329"></a>
+<a id="collection-344"></a>
 ## zero2Agent · 公司专题代表问法
 
 - 发布者：Onefly
@@ -3203,7 +3352,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-COMPANY-PREFERENCES.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/14-company-preferences/index.md)
 
-<a id="collection-330"></a>
+<a id="collection-345"></a>
 ## zero2Agent · 工程化踩坑：死循环、状态丢失与成本控制
 
 - 发布者：Onefly
@@ -3212,7 +3361,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-ENGINEERING-PITFALLS.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/07-engineering-pitfalls/index.md)
 
-<a id="collection-331"></a>
+<a id="collection-346"></a>
 ## zero2Agent · 评估与全局观：怎么量化 Agent 好坏、落地最大挑战
 
 - 发布者：Onefly
@@ -3221,7 +3370,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-EVAL-AND-VISION.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/05-eval-and-vision/index.md)
 
-<a id="collection-332"></a>
+<a id="collection-347"></a>
 ## zero2Agent · 容错与鲁棒性面试题
 
 - 发布者：Onefly
@@ -3230,7 +3379,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-FAULT-TOLERANCE.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/03-fault-tolerance/index.md)
 
-<a id="collection-333"></a>
+<a id="collection-348"></a>
 ## zero2Agent · 记忆与上下文：长对话不丢信息的实战方案
 
 - 发布者：Onefly
@@ -3239,7 +3388,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-MEMORY-CONTEXT.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/04-memory-context/index.md)
 
-<a id="collection-334"></a>
+<a id="collection-349"></a>
 ## zero2Agent · 多智能体协作：角色分工、通信机制与冲突仲裁
 
 - 发布者：Onefly
@@ -3248,7 +3397,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-MULTI-AGENT-COLLAB.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/06-multi-agent-collab/index.md)
 
-<a id="collection-335"></a>
+<a id="collection-350"></a>
 ## zero2Agent · 简历项目拷打：面试官追着你的 Agent 项目问到底
 
 - 发布者：Onefly
@@ -3257,7 +3406,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-PROJECT-DEEP-DIVE.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/13-project-deep-dive/index.md)
 
-<a id="collection-336"></a>
+<a id="collection-351"></a>
 ## zero2Agent · Prompt 工程与框架原理：模板构建、Skills 机制
 
 - 发布者：Onefly
@@ -3266,7 +3415,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-PROMPT-ENGINEERING.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/08-prompt-engineering/index.md)
 
-<a id="collection-337"></a>
+<a id="collection-352"></a>
 ## zero2Agent · RAG 与检索系统：从 chunk 设计到多路召回
 
 - 发布者：Onefly
@@ -3275,7 +3424,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-RAG-RETRIEVAL.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/09-rag-retrieval/index.md)
 
-<a id="collection-338"></a>
+<a id="collection-353"></a>
 ## zero2Agent · 训练、数据与模型优化：从数据清洗到 LoRA
 
 - 发布者：Onefly
@@ -3284,7 +3433,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-TRAINING-AND-DATA.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-interview/10-training-and-data/index.md)
 
-<a id="collection-340"></a>
+<a id="collection-355"></a>
 ## zero2Agent · Loop 工程教程面试题
 
 - 发布者：Onefly
@@ -3293,7 +3442,7 @@
 - [仓库记录](../collections/COL-ZERO2AGENT-TUTORIAL-LOOP.json)
 - [原始来源](https://github.com/ranxi2001/zero2Agent/blob/0c0eb7693105d281b146bb98f3a7f30da6f1ceea/learn-agent-basic/10-loop-engineering/index.md)
 
-<a id="collection-341"></a>
+<a id="collection-356"></a>
 ## zero2Agent · OpenClaw 教程面试题
 
 - 发布者：Onefly

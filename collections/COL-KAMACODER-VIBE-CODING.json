@@ -1,0 +1,67 @@
+{
+  "id": "COL-KAMACODER-VIBE-CODING",
+  "readingUrl": "https://mianstack.com/collection/col-kamacoder-vibe-coding",
+  "publisherId": "PUB-KAMACODER",
+  "title": "Vibe Coding 面试题",
+  "coverage": [
+    "ai_engineering",
+    "career"
+  ],
+  "sourceUrl": "https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html",
+  "sourceKind": "curated_question_set",
+  "access": "public",
+  "capturedAt": "2026-10-22",
+  "lastCheckedAt": "2026-10-22",
+  "verification": "verified_source",
+  "sourceClaim": "卡码笔记整理的 AI 编程场景与团队工程问题。",
+  "items": [
+    {
+      "id": "COL-KAMACODER-VIBE-CODING-001",
+      "originalTitle": "AI 越来越强，你的优势是什么？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html#%E5%9C%BA%E6%99%AF%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-VIBE-CODING-002",
+      "originalTitle": "你负责的项目里，哪些让 AI 写，哪些自己写？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html#%E5%9C%BA%E6%99%AF%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-VIBE-CODING-003",
+      "originalTitle": "你怎么审查 AI 生成的代码？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html#%E5%9C%BA%E6%99%AF%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-VIBE-CODING-004",
+      "originalTitle": "AI 生成的代码出了线上 bug，你怎么处理？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html#%E5%9C%BA%E6%99%AF%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-VIBE-CODING-005",
+      "originalTitle": "AI 写的代码上线出问题了，让 AI 修，结果 AI 也修不好，你怎么兜底？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html#%E5%9C%BA%E6%99%AF%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-VIBE-CODING-006",
+      "originalTitle": "AI 编程工具的 Token 成本怎么控制？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html#%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-VIBE-CODING-007",
+      "originalTitle": "你们团队怎么管理 AI 生成的代码？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html#%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    },
+    {
+      "id": "COL-KAMACODER-VIBE-CODING-008",
+      "originalTitle": "用 AI 写代码，怎么保证不泄露公司代码？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/vibe_coding_interview.html#%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E7%B1%BB",
+      "reviewStatus": "confirmed"
+    }
+  ]
+}

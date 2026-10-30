@@ -4,7 +4,7 @@
 
 语言、框架、前后端、操作系统、网络、存储、并发与分布式系统。
 
-共 1,823 道题，分为 20 个专题。
+共 1,827 道题，分为 20 个专题。
 
 ## 页内导航
 
@@ -475,6 +475,7 @@
 - [Q-6029 Vue Composition API 的 setup 如何组织组件逻辑和输入输出？](../questions/Q-6029.md) · [在线阅读](https://mianstack.com/question/q-6029)
 - [Q-6629 Vue 2 与 Vue 3 有哪些核心区别？](../questions/Q-6629.md) · [在线阅读](https://mianstack.com/question/q-6629)
 - [Q-6630 sessionStorage 与 localStorage 的作用域、生命周期和使用方式有何区别？](../questions/Q-6630.md) · [在线阅读](https://mianstack.com/question/q-6630)
+- [Q-7042 AI + Draw.io 应用的前后端交互协议如何设计？](../questions/Q-7042.md) · [在线阅读](https://mianstack.com/question/q-7042)
 
 <a id="topic-5"></a>
 ## 客户端与移动端
@@ -747,6 +748,7 @@
 - [Q-6936 编写使用悲观锁保护共享状态更新的示例。](../questions/Q-6936.md) · [在线阅读](https://mianstack.com/question/q-6936)
 - [Q-6937 无锁队列如何利用原子操作与内存序保证并发正确性？](../questions/Q-6937.md) · [在线阅读](https://mianstack.com/question/q-6937)
 - [Q-6938 实现支持高并发更新的计数器。](../questions/Q-6938.md) · [在线阅读](https://mianstack.com/question/q-6938)
+- [Q-7039 Netty 异步请求如何实现业务层的同步等待？](../questions/Q-7039.md) · [在线阅读](https://mianstack.com/question/q-7039)
 
 <a id="topic-8"></a>
 ## 网络与浏览器
@@ -1228,6 +1230,7 @@
 - [Q-6946 海量群聊如何划分子房间并路由跨分片消息？](../questions/Q-6946.md) · [在线阅读](https://mianstack.com/question/q-6946)
 - [Q-6957 ROS1 与 ROS2 在节点发现、通信及部署能力上有何区别？](../questions/Q-6957.md) · [在线阅读](https://mianstack.com/question/q-6957)
 - [Q-6966 流式数据应逐字符还是分块推送，如何权衡时延与开销？](../questions/Q-6966.md) · [在线阅读](https://mianstack.com/question/q-6966)
+- [Q-7038 手机网关如何设计基于 Netty 的指令与响应协议？](../questions/Q-7038.md) · [在线阅读](https://mianstack.com/question/q-7038)
 
 <a id="topic-12"></a>
 ## 分布式系统与一致性
@@ -1614,6 +1617,7 @@
 - [Q-6499 AIGC 与 Agent 的 Python 项目如何划分模块、配置和测试边界？](../questions/Q-6499.md) · [在线阅读](https://mianstack.com/question/q-6499)
 - [Q-6837 项目中有哪些必要的代码注释和使用文档？](../questions/Q-6837.md) · [在线阅读](https://mianstack.com/question/q-6837)
 - [Q-6963 业务抛出异常时，如何保证必要的清理操作仍被执行？](../questions/Q-6963.md) · [在线阅读](https://mianstack.com/question/q-6963)
+- [Q-7032 DDD 四色模型如何划分业务对象，并在项目中应用？](../questions/Q-7032.md) · [在线阅读](https://mianstack.com/question/q-7032)
 
 <a id="topic-17"></a>
 ## 开发工具与工程实践

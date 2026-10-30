@@ -1,0 +1,278 @@
+{
+  "id": "COL-JAVABETTER-RAG",
+  "publisherId": "PUB-JAVABETTER",
+  "title": "王二讲 Agent · RAG 知识库",
+  "coverage": [
+    "rag",
+    "ai_engineering"
+  ],
+  "sourceUrl": "https://javabetter.cn/ai/video/#_04%E3%80%81rag%E7%9F%A5%E8%AF%86%E5%BA%93-43-%E9%A2%98",
+  "sourceKind": "curated_question_set",
+  "access": "public",
+  "declaredItemCount": 43,
+  "capturedAt": "2026-10-22",
+  "lastCheckedAt": "2026-10-22",
+  "verification": "verified_source",
+  "sourceClaim": "沉默王二“王二讲 Agent”中的RAG 知识库专题。",
+  "items": [
+    {
+      "originalTitle": "Agent 的 RAG 遇到 PDF 怎么办？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_108-agent-%E7%9A%84-rag-%E9%81%87%E5%88%B0-pdf-%E6%80%8E%E4%B9%88%E5%8A%9E",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-001"
+    },
+    {
+      "originalTitle": "RAPTOR 和 GraphRAG 分别擅长什么查询？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_109-raptor-%E5%92%8C-graphrag-%E5%88%86%E5%88%AB%E6%93%85%E9%95%BF%E4%BB%80%E4%B9%88%E6%9F%A5%E8%AF%A2",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-002"
+    },
+    {
+      "originalTitle": "什么是知识库的文件系统范式？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_110-%E4%BB%80%E4%B9%88%E6%98%AF%E7%9F%A5%E8%AF%86%E5%BA%93%E7%9A%84%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E8%8C%83%E5%BC%8F",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-003"
+    },
+    {
+      "originalTitle": "什么是上下文感知检索（Contextual Retrieval）？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_111-%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%8A%E4%B8%8B%E6%96%87%E6%84%9F%E7%9F%A5%E6%A3%80%E7%B4%A2-contextual-retrieval",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-004"
+    },
+    {
+      "originalTitle": "为什么需要 RAG？直接把文档塞给大模型不行吗？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_112-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-rag-%E7%9B%B4%E6%8E%A5%E6%8A%8A%E6%96%87%E6%A1%A3%E5%A1%9E%E7%BB%99%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8D%E8%A1%8C%E5%90%97",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-005"
+    },
+    {
+      "originalTitle": "RAG 和微调怎么选？各自适合什么场景？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_113-rag-%E5%92%8C%E5%BE%AE%E8%B0%83%E6%80%8E%E4%B9%88%E9%80%89-%E5%90%84%E8%87%AA%E9%80%82%E5%90%88%E4%BB%80%E4%B9%88%E5%9C%BA%E6%99%AF",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-006"
+    },
+    {
+      "originalTitle": "描述一下完整的 RAG 系统工作流程？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_114-%E6%8F%8F%E8%BF%B0%E4%B8%80%E4%B8%8B%E5%AE%8C%E6%95%B4%E7%9A%84-rag-%E7%B3%BB%E7%BB%9F%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-007"
+    },
+    {
+      "originalTitle": "文档分块策略怎么设计？chunk 大小怎么定？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_115-%E6%96%87%E6%A1%A3%E5%88%86%E5%9D%97%E7%AD%96%E7%95%A5%E6%80%8E%E4%B9%88%E8%AE%BE%E8%AE%A1-chunk-%E5%A4%A7%E5%B0%8F%E6%80%8E%E4%B9%88%E5%AE%9A",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-008"
+    },
+    {
+      "originalTitle": "怎么规避语义被切割掉的问题？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_116-%E6%80%8E%E4%B9%88%E8%A7%84%E9%81%BF%E8%AF%AD%E4%B9%89%E8%A2%AB%E5%88%87%E5%89%B2%E6%8E%89%E7%9A%84%E9%97%AE%E9%A2%98",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-009"
+    },
+    {
+      "originalTitle": "Embedding 模型怎么选型？维度越高越好吗？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_117-embedding-%E6%A8%A1%E5%9E%8B%E6%80%8E%E4%B9%88%E9%80%89%E5%9E%8B-%E7%BB%B4%E5%BA%A6%E8%B6%8A%E9%AB%98%E8%B6%8A%E5%A5%BD%E5%90%97",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-010"
+    },
+    {
+      "originalTitle": "Embedding 有哪几种算法？各自的特点是什么？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_118-embedding-%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%E7%AE%97%E6%B3%95-%E5%90%84%E8%87%AA%E7%9A%84%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-011"
+    },
+    {
+      "originalTitle": "向量数据库怎么选型？你们项目用的哪个？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_119-%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E6%80%8E%E4%B9%88%E9%80%89%E5%9E%8B-%E4%BD%A0%E4%BB%AC%E9%A1%B9%E7%9B%AE%E7%94%A8%E7%9A%84%E5%93%AA%E4%B8%AA",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-012"
+    },
+    {
+      "originalTitle": "RAG 怎么做向量和关键词的混合检索？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_120-rag-%E6%80%8E%E4%B9%88%E5%81%9A%E5%90%91%E9%87%8F%E5%92%8C%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9A%84%E6%B7%B7%E5%90%88%E6%A3%80%E7%B4%A2",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-013"
+    },
+    {
+      "originalTitle": "什么是 Query Rewrite？为什么需要改写用户查询？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_121-%E4%BB%80%E4%B9%88%E6%98%AF-query-rewrite-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E6%94%B9%E5%86%99%E7%94%A8%E6%88%B7%E6%9F%A5%E8%AF%A2",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-014"
+    },
+    {
+      "originalTitle": "什么是多路召回？具体怎么做？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_122-%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%9A%E8%B7%AF%E5%8F%AC%E5%9B%9E-%E5%85%B7%E4%BD%93%E6%80%8E%E4%B9%88%E5%81%9A",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-015"
+    },
+    {
+      "originalTitle": "为什么检索之后还需要 Rerank？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_123-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A3%80%E7%B4%A2%E4%B9%8B%E5%90%8E%E8%BF%98%E9%9C%80%E8%A6%81-rerank",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-016"
+    },
+    {
+      "originalTitle": "Rerank 的 Top-K 怎么确定？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_124-rerank-%E7%9A%84-top-k-%E6%80%8E%E4%B9%88%E7%A1%AE%E5%AE%9A",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-017"
+    },
+    {
+      "originalTitle": "RAG 系统怎么评测？核心指标有哪些？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_125-rag-%E7%B3%BB%E7%BB%9F%E6%80%8E%E4%B9%88%E8%AF%84%E6%B5%8B-%E6%A0%B8%E5%BF%83%E6%8C%87%E6%A0%87%E6%9C%89%E5%93%AA%E4%BA%9B",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-018"
+    },
+    {
+      "originalTitle": "向量数据库里的历史文档怎么做时间衰减？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_126-%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E9%87%8C%E7%9A%84%E5%8E%86%E5%8F%B2%E6%96%87%E6%A1%A3%E6%80%8E%E4%B9%88%E5%81%9A%E6%97%B6%E9%97%B4%E8%A1%B0%E5%87%8F",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-019"
+    },
+    {
+      "originalTitle": "在什么场景下会用图数据库来增强向量检索？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_127-%E5%9C%A8%E4%BB%80%E4%B9%88%E5%9C%BA%E6%99%AF%E4%B8%8B%E4%BC%9A%E7%94%A8%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9D%A5%E5%A2%9E%E5%BC%BA%E5%90%91%E9%87%8F%E6%A3%80%E7%B4%A2",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-020"
+    },
+    {
+      "originalTitle": "Agentic RAG 和传统 RAG 的核心区别？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_128-agentic-rag-%E5%92%8C%E4%BC%A0%E7%BB%9F-rag-%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%88%AB",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-021"
+    },
+    {
+      "originalTitle": "处理长文档时怎么避免 OOM？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_129-%E5%A4%84%E7%90%86%E9%95%BF%E6%96%87%E6%A1%A3%E6%97%B6%E6%80%8E%E4%B9%88%E9%81%BF%E5%85%8D-oom",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-022"
+    },
+    {
+      "originalTitle": "RAG 知识库怎么实现动态更新？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_130-rag-%E7%9F%A5%E8%AF%86%E5%BA%93%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E5%8A%A8%E6%80%81%E6%9B%B4%E6%96%B0",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-023"
+    },
+    {
+      "originalTitle": "多租户场景下 RAG 的权限隔离怎么做？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_131-%E5%A4%9A%E7%A7%9F%E6%88%B7%E5%9C%BA%E6%99%AF%E4%B8%8B-rag-%E7%9A%84%E6%9D%83%E9%99%90%E9%9A%94%E7%A6%BB%E6%80%8E%E4%B9%88%E5%81%9A",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-024"
+    },
+    {
+      "originalTitle": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_132-%E5%9C%A8-rag-%E5%BA%94%E7%94%A8%E4%B8%AD%E4%B8%BA%E4%BA%86%E4%BC%98%E5%8C%96%E6%A3%80%E7%B4%A2%E7%B2%BE%E5%BA%A6-%E5%85%B6%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97%E5%92%8C%E9%A2%84%E5%A4%84%E7%90%86%E6%80%8E%E4%B9%88%E5%81%9A",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-025"
+    },
+    {
+      "originalTitle": "什么自查询？为什么在 RAG 中需要自查询？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_133-%E4%BB%80%E4%B9%88%E8%87%AA%E6%9F%A5%E8%AF%A2-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8-rag-%E4%B8%AD%E9%9C%80%E8%A6%81%E8%87%AA%E6%9F%A5%E8%AF%A2",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-026"
+    },
+    {
+      "originalTitle": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_134-%E4%BB%80%E4%B9%88%E6%8F%90%E7%A4%BA%E5%8E%8B%E7%BC%A9-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8-rag-%E4%B8%AD%E9%9C%80%E8%A6%81%E6%8F%90%E7%A4%BA%E5%8E%8B%E7%BC%A9",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-027"
+    },
+    {
+      "originalTitle": "在 RAG 中，索引流程中的文档解析你们怎么做的？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_135-%E5%9C%A8-rag-%E4%B8%AD-%E7%B4%A2%E5%BC%95%E6%B5%81%E7%A8%8B%E4%B8%AD%E7%9A%84%E6%96%87%E6%A1%A3%E8%A7%A3%E6%9E%90%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E5%81%9A%E7%9A%84",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-028"
+    },
+    {
+      "originalTitle": "向量数据库中的 HNSW、LSH、PQ 分别是什么意思？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_136-%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E7%9A%84-hnsw%E3%80%81lsh%E3%80%81pq-%E5%88%86%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-029"
+    },
+    {
+      "originalTitle": "向量数据库中的 ANN 是什么？为什么需要用它？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_137-%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E7%9A%84-ann-%E6%98%AF%E4%BB%80%E4%B9%88-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E7%94%A8%E5%AE%83",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-030"
+    },
+    {
+      "originalTitle": "向量数据库中，常见的向量搜索方法：余弦相似度、欧几里得距离和曼哈顿距离分别是什么？有什么区别？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_138-%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD-%E5%B8%B8%E8%A7%81%E7%9A%84%E5%90%91%E9%87%8F%E6%90%9C%E7%B4%A2%E6%96%B9%E6%B3%95-%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E5%BA%A6%E3%80%81%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E8%B7%9D%E7%A6%BB%E5%92%8C%E6%9B%BC%E5%93%88%E9%A1%BF%E8%B7%9D%E7%A6%BB%E5%88%86%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-031"
+    },
+    {
+      "originalTitle": "什么是 Advanced RAG？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_139-%E4%BB%80%E4%B9%88%E6%98%AF-advanced-rag",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-032"
+    },
+    {
+      "originalTitle": "什么是 Modular RAG？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_140-%E4%BB%80%E4%B9%88%E6%98%AF-modular-rag",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-033"
+    },
+    {
+      "originalTitle": "什么是上下文查询增强？它有什么作用？如何基于 Spring AI 实现上下文查询增强来处理无关问题？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_141-%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%8A%E4%B8%8B%E6%96%87%E6%9F%A5%E8%AF%A2%E5%A2%9E%E5%BC%BA-%E5%AE%83%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8-%E5%A6%82%E4%BD%95%E5%9F%BA%E4%BA%8E-spring-ai-%E5%AE%9E%E7%8E%B0%E4%B8%8A%E4%B8%8B%E6%96%87%E6%9F%A5%E8%AF%A2%E5%A2%9E%E5%BC%BA%E6%9D%A5%E5%A4%84%E7%90%86%E6%97%A0%E5%85%B3%E9%97%AE%E9%A2%98",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-034"
+    },
+    {
+      "originalTitle": "什么是 Spring AI 提出的模块化 RAG 架构？预检索、检索和后检索阶段各自负责什么？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_142-%E4%BB%80%E4%B9%88%E6%98%AF-spring-ai-%E6%8F%90%E5%87%BA%E7%9A%84%E6%A8%A1%E5%9D%97%E5%8C%96-rag-%E6%9E%B6%E6%9E%84-%E9%A2%84%E6%A3%80%E7%B4%A2%E3%80%81%E6%A3%80%E7%B4%A2%E5%92%8C%E5%90%8E%E6%A3%80%E7%B4%A2%E9%98%B6%E6%AE%B5%E5%90%84%E8%87%AA%E8%B4%9F%E8%B4%A3%E4%BB%80%E4%B9%88",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-035"
+    },
+    {
+      "originalTitle": "你有多个知识库，做 RAG 的时候，怎么保证查询效率和准确性兼容，并尽可能减少幻觉？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_143-%E4%BD%A0%E6%9C%89%E5%A4%9A%E4%B8%AA%E7%9F%A5%E8%AF%86%E5%BA%93-%E5%81%9A-rag-%E7%9A%84%E6%97%B6%E5%80%99-%E6%80%8E%E4%B9%88%E4%BF%9D%E8%AF%81%E6%9F%A5%E8%AF%A2%E6%95%88%E7%8E%87%E5%92%8C%E5%87%86%E7%A1%AE%E6%80%A7%E5%85%BC%E5%AE%B9-%E5%B9%B6%E5%B0%BD%E5%8F%AF%E8%83%BD%E5%87%8F%E5%B0%91%E5%B9%BB%E8%A7%89",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-036"
+    },
+    {
+      "originalTitle": "如何构建和使用向量索引？HNSW 和 IVF 有什么区别？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_144-%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E5%92%8C%E4%BD%BF%E7%94%A8%E5%90%91%E9%87%8F%E7%B4%A2%E5%BC%95-hnsw-%E5%92%8C-ivf-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-037"
+    },
+    {
+      "originalTitle": "RAG 检索时相似度阈值如何设置？设置不当有什么影响？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_145-rag-%E6%A3%80%E7%B4%A2%E6%97%B6%E7%9B%B8%E4%BC%BC%E5%BA%A6%E9%98%88%E5%80%BC%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE-%E8%AE%BE%E7%BD%AE%E4%B8%8D%E5%BD%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-038"
+    },
+    {
+      "originalTitle": "RAG 系统如何利用元数据过滤提升检索精度？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_146-rag-%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%85%83%E6%95%B0%E6%8D%AE%E8%BF%87%E6%BB%A4%E6%8F%90%E5%8D%87%E6%A3%80%E7%B4%A2%E7%B2%BE%E5%BA%A6",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-039"
+    },
+    {
+      "originalTitle": "如何处理 RAG 检索不到相关文档的情况？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_147-%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86-rag-%E6%A3%80%E7%B4%A2%E4%B8%8D%E5%88%B0%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3%E7%9A%84%E6%83%85%E5%86%B5",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-040"
+    },
+    {
+      "originalTitle": "RAG 系统如何标注信息来源和提供引用？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_148-rag-%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E6%A0%87%E6%B3%A8%E4%BF%A1%E6%81%AF%E6%9D%A5%E6%BA%90%E5%92%8C%E6%8F%90%E4%BE%9B%E5%BC%95%E7%94%A8",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-041"
+    },
+    {
+      "originalTitle": "RAG 系统在生产环境中如何优化性能和降低成本？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_149-rag-%E7%B3%BB%E7%BB%9F%E5%9C%A8%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E4%B8%AD%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E6%80%A7%E8%83%BD%E5%92%8C%E9%99%8D%E4%BD%8E%E6%88%90%E6%9C%AC",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-042"
+    },
+    {
+      "originalTitle": "RAG 系统如何处理 PDF、Word、Markdown 等不同格式文档？",
+      "sourceUrl": "https://javabetter.cn/ai/video/#_150-rag-%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86-pdf%E3%80%81word%E3%80%81markdown-%E7%AD%89%E4%B8%8D%E5%90%8C%E6%A0%BC%E5%BC%8F%E6%96%87%E6%A1%A3",
+      "reviewStatus": "confirmed",
+      "id": "COL-JAVABETTER-RAG-043"
+    }
+  ],
+  "readingUrl": "https://mianstack.com/collection/col-javabetter-rag"
+}

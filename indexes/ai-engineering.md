@@ -4,7 +4,7 @@
 
 Prompt、应用架构、评测、质量、安全、可观测性、性能与交付。
 
-共 1,023 道题，分为 10 个专题。
+共 1,041 道题，分为 10 个专题。
 
 ## 页内导航
 
@@ -93,6 +93,8 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-5529 DSPy 如何组织大模型程序并自动优化提示词？](../questions/Q-5529.md) · [在线阅读](https://mianstack.com/question/q-5529)
 - [Q-6168 工具超时或返回空结果时，如何约束 Agent 向用户反馈真实执行状态？](../questions/Q-6168.md) · [在线阅读](https://mianstack.com/question/q-6168)
 - [Q-6388 如何在不修改语言模型权重时设计和验证视觉提示？](../questions/Q-6388.md) · [在线阅读](https://mianstack.com/question/q-6388)
+- [Q-7082 Spring AI 如何将模型响应转换为结构化输出？](../questions/Q-7082.md) · [在线阅读](https://mianstack.com/question/q-7082)
+- [Q-7083 什么是 Re-Reading，如何通过 Spring AI Advisor 实现？](../questions/Q-7083.md) · [在线阅读](https://mianstack.com/question/q-7083)
 
 <a id="topic-2"></a>
 ## AI 应用架构与接口
@@ -406,6 +408,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6850 如何评估视觉模型在模糊、运动与场景变化下的鲁棒性？](../questions/Q-6850.md) · [在线阅读](https://mianstack.com/question/q-6850)
 - [Q-6851 基座模型输出不遵循固定格式时，如何提取并评估答案？](../questions/Q-6851.md) · [在线阅读](https://mianstack.com/question/q-6851)
 - [Q-6853 实验存在用户或时段干扰时，如何设计分流并解释效果？](../questions/Q-6853.md) · [在线阅读](https://mianstack.com/question/q-6853)
+- [Q-7066 模型评测分数相差 3 个点，如何判断是否足以切换模型？](../questions/Q-7066.md) · [在线阅读](https://mianstack.com/question/q-7066)
 
 <a id="topic-4"></a>
 ## 生成质量与幻觉治理
@@ -447,6 +450,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-5586 如何生成可信、有吸引力且不重复的推荐理由？](../questions/Q-5586.md) · [在线阅读](https://mianstack.com/question/q-5586)
 - [Q-6827 语音客服如何平衡表达自然度与语义准确性？](../questions/Q-6827.md) · [在线阅读](https://mianstack.com/question/q-6827)
 - [Q-6833 如何设计大模型输出的幻觉检测系统？](../questions/Q-6833.md) · [在线阅读](https://mianstack.com/question/q-6833)
+- [Q-7041 AI + Draw.io 应用如何验证模型生成的 XML 可用？](../questions/Q-7041.md) · [在线阅读](https://mianstack.com/question/q-7041)
 
 <a id="topic-5"></a>
 ## 安全、权限与人工介入
@@ -572,6 +576,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-5934 人物身份合成系统如何管理授权、来源标识与反滥用？](../questions/Q-5934.md) · [在线阅读](https://mianstack.com/question/q-5934)
 - [Q-6111 如何检测并阻止未授权的音色克隆？](../questions/Q-6111.md) · [在线阅读](https://mianstack.com/question/q-6111)
 - [Q-6391 多模态模型有哪些伦理与滥用风险，如何结合场景界定责任？](../questions/Q-6391.md) · [在线阅读](https://mianstack.com/question/q-6391)
+- [Q-7017 使用 AI 编程工具时，如何防止公司代码与敏感信息泄露？](../questions/Q-7017.md) · [在线阅读](https://mianstack.com/question/q-7017)
 
 <a id="topic-6"></a>
 ## 可观测性、稳定性与故障诊断
@@ -673,6 +678,8 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-5523 如何记录 Agent 的非确定性输入并支持可重复的故障回放？](../questions/Q-5523.md) · [在线阅读](https://mianstack.com/question/q-5523)
 - [Q-5527 如何可靠采集 Agent 执行轨迹，避免崩溃或异步退出时丢失数据？](../questions/Q-5527.md) · [在线阅读](https://mianstack.com/question/q-5527)
 - [Q-6889 如何设计模型执行计时插件，并与底层性能分析工具配合？](../questions/Q-6889.md) · [在线阅读](https://mianstack.com/question/q-6889)
+- [Q-7013 相同输入为什么会产生不同的 Agent 执行结果？](../questions/Q-7013.md) · [在线阅读](https://mianstack.com/question/q-7013)
+- [Q-7044 Java 智能体服务如何设计分层异常处理？](../questions/Q-7044.md) · [在线阅读](https://mianstack.com/question/q-7044)
 
 <a id="topic-7"></a>
 ## 性能、时延与成本
@@ -858,6 +865,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6879 张量程序优化中，模板化调度与自动生成搜索空间应如何取舍？](../questions/Q-6879.md) · [在线阅读](https://mianstack.com/question/q-6879)
 - [Q-6881 量化推理运行时如何设计权重表示、算子接口与正确性验证？](../questions/Q-6881.md) · [在线阅读](https://mianstack.com/question/q-6881)
 - [Q-6900 多租户模型服务如何按需加载并快速切换大量 LoRA 适配器？](../questions/Q-6900.md) · [在线阅读](https://mianstack.com/question/q-6900)
+- [Q-7043 Spring AI 服务如何实现预热，预热应验证哪些内容？](../questions/Q-7043.md) · [在线阅读](https://mianstack.com/question/q-7043)
 
 <a id="topic-9"></a>
 ## AI Coding 与研发流程
@@ -1036,6 +1044,16 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-7008 你目前订阅的是 Cursor 的哪个版本？](../questions/Q-7008.md) · [在线阅读](https://mianstack.com/question/q-7008)
 - [Q-7009 你使用的 Cursor 账号是自行注册还是通过其他途径获取的？](../questions/Q-7009.md) · [在线阅读](https://mianstack.com/question/q-7009)
 - [Q-7010 开发工具受到地区访问限制时，你如何保障使用顺畅？](../questions/Q-7010.md) · [在线阅读](https://mianstack.com/question/q-7010)
+- [Q-7011 代码补全、对话生成与 Agent 编程有什么区别，如何选择？](../questions/Q-7011.md) · [在线阅读](https://mianstack.com/question/q-7011)
+- [Q-7012 使用 AI 编程时，应提供哪些代码上下文？](../questions/Q-7012.md) · [在线阅读](https://mianstack.com/question/q-7012)
+- [Q-7016 团队如何管理 AI 生成代码的责任、审查与质量反馈？](../questions/Q-7016.md) · [在线阅读](https://mianstack.com/question/q-7016)
+- [Q-7021 AGENTS.md 越写越长导致效果变差时，如何调整规则组织与加载方式？](../questions/Q-7021.md) · [在线阅读](https://mianstack.com/question/q-7021)
+- [Q-7051 LSP 诊断注入如何帮助 AI Coding 发现和修正问题？](../questions/Q-7051.md) · [在线阅读](https://mianstack.com/question/q-7051)
+- [Q-7052 如何保障 AI 代码修改的可恢复性，并设计 Git 快照与回滚？](../questions/Q-7052.md) · [在线阅读](https://mianstack.com/question/q-7052) · **已有答案**
+- [Q-7053 如何对代码库建立向量索引并实现语义搜索？](../questions/Q-7053.md) · [在线阅读](https://mianstack.com/question/q-7053)
+- [Q-7054 什么是 Agentic Engineering，它与 Vibe Coding 有什么区别？](../questions/Q-7054.md) · [在线阅读](https://mianstack.com/question/q-7054)
+- [Q-7055 Deep Thinking 与 Adaptive Thinking 有什么区别，如何用于 AI 编程？](../questions/Q-7055.md) · [在线阅读](https://mianstack.com/question/q-7055)
+- [Q-7056 什么是 Background Agent，它如何改变 AI 编程的工作方式？](../questions/Q-7056.md) · [在线阅读](https://mianstack.com/question/q-7056)
 
 <a id="topic-10"></a>
 ## 产品场景、业务价值与交付边界

@@ -1,0 +1,147 @@
+{
+  "publisherId": "PUB-KAMACODER",
+  "coverage": [
+    "rag",
+    "agent",
+    "ai_engineering",
+    "llm"
+  ],
+  "sourceKind": "curated_question_set",
+  "access": "public",
+  "capturedAt": "2026-10-22",
+  "lastCheckedAt": "2026-10-22",
+  "verification": "verified_source",
+  "sourceClaim": "卡码笔记整理的 RAG 检索、重排、生成质量与工程追问。",
+  "id": "COL-KAMACODER-RAG",
+  "title": "RAG 面试题",
+  "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html",
+  "items": [
+    {
+      "originalTitle": "LLM 的知识截止问题你怎么解决？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_1-rag-%E6%98%AF%E4%BB%80%E4%B9%88-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-rag",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-001"
+    },
+    {
+      "originalTitle": "你说你做过 RAG 项目，能完整讲一下从用户提问到最终回答的链路吗？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_2-rag-%E7%9A%84%E5%AE%8C%E6%95%B4%E9%93%BE%E8%B7%AF%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-002"
+    },
+    {
+      "originalTitle": "向量检索和关键词检索有什么区别？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_3-%E5%90%91%E9%87%8F%E6%A3%80%E7%B4%A2%E7%9A%84%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-003"
+    },
+    {
+      "originalTitle": "Embedding 的原理是什么？为什么语义相似的文本向量距离近？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_3-%E5%90%91%E9%87%8F%E6%A3%80%E7%B4%A2%E7%9A%84%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-004"
+    },
+    {
+      "originalTitle": "你们项目用的什么向量数据库？为什么选它？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_4-%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E6%80%8E%E4%B9%88%E9%80%89-milvus%E3%80%81faiss%E3%80%81qdrant-%E5%90%84%E8%87%AA%E9%80%82%E5%90%88%E4%BB%80%E4%B9%88%E5%9C%BA%E6%99%AF",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-005"
+    },
+    {
+      "originalTitle": "你已经用混合检索了，为什么还要 Rerank？检索结果不够好吗？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_6-rerank-%E6%98%AF%E4%BB%80%E4%B9%88-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A3%80%E7%B4%A2%E4%B9%8B%E5%90%8E%E8%BF%98%E8%A6%81%E9%87%8D%E6%8E%92%E5%BA%8F",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-006"
+    },
+    {
+      "originalTitle": "你们 Chunk 策略怎么设计的？chunk size 设的多少？为什么？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_7-chunk-%E6%80%8E%E4%B9%88%E5%88%87-%E5%88%87%E5%A4%A7%E4%BA%86%E5%88%87%E5%B0%8F%E4%BA%86%E5%90%84%E6%9C%89%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-007"
+    },
+    {
+      "originalTitle": "你们用的什么 Embedding 模型？为什么选它？和 OpenAI 的 ada-002 对比过吗？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_8-embedding-%E6%A8%A1%E5%9E%8B%E6%80%8E%E4%B9%88%E9%80%89-%E4%B8%AD%E6%96%87%E5%9C%BA%E6%99%AF%E9%80%89%E4%BB%80%E4%B9%88",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-008"
+    },
+    {
+      "originalTitle": "RAG 检索到了正确信息，LLM 还是编造了不存在的内容，怎么办？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_9-rag-%E7%9A%84%E5%B9%BB%E8%A7%89%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-009"
+    },
+    {
+      "originalTitle": "你们 RAG 项目的检索准确率是多少？效果不好的时候你怎么优化的？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_10-rag-%E6%A3%80%E7%B4%A2%E6%95%88%E6%9E%9C%E4%B8%8D%E5%A5%BD%E6%80%8E%E4%B9%88%E4%BC%98%E5%8C%96",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-010"
+    },
+    {
+      "originalTitle": "你了解 Agentic RAG 吗？它和普通 RAG 有什么区别？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#_11-agentic-rag-%E6%98%AF%E4%BB%80%E4%B9%88-%E5%92%8C%E6%99%AE%E9%80%9A-rag-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-011"
+    },
+    {
+      "originalTitle": "你们的混合检索权重怎么调的？向量检索和 BM25 各占多少？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#%E6%A3%80%E7%B4%A2%E7%AD%96%E7%95%A5%E7%B1%BB",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-012"
+    },
+    {
+      "originalTitle": "Top-K 设多少？设大了设小了各有什么问题？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#%E6%A3%80%E7%B4%A2%E7%AD%96%E7%95%A5%E7%B1%BB",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-013"
+    },
+    {
+      "originalTitle": "如果用户的问题很模糊，检索效果差，怎么办？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#%E6%A3%80%E7%B4%A2%E7%AD%96%E7%95%A5%E7%B1%BB",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-014"
+    },
+    {
+      "originalTitle": "RAG 系统的端到端延迟怎么优化？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E7%B1%BB",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-015"
+    },
+    {
+      "originalTitle": "文档更新了，向量索引怎么更新？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E7%B1%BB",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-016"
+    },
+    {
+      "originalTitle": "RAG 的 Token 成本怎么控制？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E7%B1%BB",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-017"
+    },
+    {
+      "originalTitle": "设计一个面向 10 万用户的 RAG 知识库系统，你会怎么设计？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#%E5%9C%BA%E6%99%AF%E8%AE%BE%E8%AE%A1%E7%B1%BB",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-018"
+    },
+    {
+      "originalTitle": "RAG 是什么？为什么需要 RAG？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-faq",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-019"
+    },
+    {
+      "originalTitle": "纯向量检索有什么问题？为什么要用混合检索？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-faq",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-020"
+    },
+    {
+      "originalTitle": "RAG 和微调怎么选？",
+      "sourceUrl": "https://notes.kamacoder.com/interview/llm/rag_interview.html#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-faq",
+      "reviewStatus": "confirmed",
+      "id": "COL-KAMACODER-RAG-021"
+    }
+  ],
+  "readingUrl": "https://mianstack.com/collection/col-kamacoder-rag"
+}
