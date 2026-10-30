@@ -70,16 +70,16 @@
 ## 项目背景、架构与职责
 
 - [Q-0002 请介绍一个你做过的项目，包括背景、架构与个人职责。](../questions/Q-0002.md) · [在线阅读](https://mianstack.com/question/q-0002) · **已有答案**
-- [Q-0014 团队如何分工，你在项目中负责哪些部分？](../questions/Q-0014.md) · [在线阅读](https://mianstack.com/question/q-0014)
+- [Q-0014 团队如何分工，你在项目中负责哪些部分？](../questions/Q-0014.md) · [在线阅读](https://mianstack.com/question/q-0014) · **已有答案**
 - [Q-0064 你是否完成过端到端需求，如何说明完整交付过程？](../questions/Q-0064.md) · [在线阅读](https://mianstack.com/question/q-0064)
 - [Q-0094 有没有跳出原有做法、提出新方案并推进实施的经历？](../questions/Q-0094.md) · [在线阅读](https://mianstack.com/question/q-0094)
 - [Q-0185 为什么需要采集 Linux Do、Stack Overflow 等外部技术站点数据？](../questions/Q-0185.md) · [在线阅读](https://mianstack.com/question/q-0185)
 - [Q-0235 API 中转平台服务于什么业务场景？](../questions/Q-0235.md) · [在线阅读](https://mianstack.com/question/q-0235)
 - [Q-0349 实习是自己寻找的还是与导师课题有关？](../questions/Q-0349.md) · [在线阅读](https://mianstack.com/question/q-0349)
-- [Q-0353 你认为项目的技术亮点是什么？](../questions/Q-0353.md) · [在线阅读](https://mianstack.com/question/q-0353)
-- [Q-0364 为什么选择做这个项目，最初要解决什么需求？](../questions/Q-0364.md) · [在线阅读](https://mianstack.com/question/q-0364)
-- [Q-0387 个人项目是否部署、是否有真实用户？](../questions/Q-0387.md) · [在线阅读](https://mianstack.com/question/q-0387)
-- [Q-0438 项目哪些部分由 AI 生成，哪些由你独立实现？](../questions/Q-0438.md) · [在线阅读](https://mianstack.com/question/q-0438)
+- [Q-0353 你认为项目的技术亮点是什么？](../questions/Q-0353.md) · [在线阅读](https://mianstack.com/question/q-0353) · **已有答案**
+- [Q-0364 为什么选择做这个项目，最初要解决什么需求？](../questions/Q-0364.md) · [在线阅读](https://mianstack.com/question/q-0364) · **已有答案**
+- [Q-0387 个人项目是否部署、是否有真实用户？](../questions/Q-0387.md) · [在线阅读](https://mianstack.com/question/q-0387) · **已有答案**
+- [Q-0438 项目哪些部分由 AI 生成，哪些由你独立实现？](../questions/Q-0438.md) · [在线阅读](https://mianstack.com/question/q-0438) · **已有答案**
 - [Q-0598 项目的核心能力是什么？](../questions/Q-0598.md) · [在线阅读](https://mianstack.com/question/q-0598)
 - [Q-0683 请介绍实习中的广告业务链路。](../questions/Q-0683.md) · [在线阅读](https://mianstack.com/question/q-0683)
 - [Q-0769 个人项目与学校课程作业有什么区别？](../questions/Q-0769.md) · [在线阅读](https://mianstack.com/question/q-0769)
@@ -99,7 +99,7 @@
 - [Q-1792 数据平台的数据从哪里来？](../questions/Q-1792.md) · [在线阅读](https://mianstack.com/question/q-1792)
 - [Q-1838 是否处理过大于 1TB 的文件？](../questions/Q-1838.md) · [在线阅读](https://mianstack.com/question/q-1838)
 - [Q-1925 你的项目解决了什么业务问题？](../questions/Q-1925.md) · [在线阅读](https://mianstack.com/question/q-1925)
-- [Q-1943 项目是如何完成的，是否完全从零开发或基于开源项目？](../questions/Q-1943.md) · [在线阅读](https://mianstack.com/question/q-1943)
+- [Q-1943 项目是如何完成的，是否完全从零开发或基于开源项目？](../questions/Q-1943.md) · [在线阅读](https://mianstack.com/question/q-1943) · **已有答案**
 - [Q-1996 用户可以查询哪些信息，最常提出哪些问题？](../questions/Q-1996.md) · [在线阅读](https://mianstack.com/question/q-1996)
 - [Q-2099 之前在哪些公司实习过？](../questions/Q-2099.md) · [在线阅读](https://mianstack.com/question/q-2099)
 - [Q-2210 这段实习何时开始，为什么简历只记录约三个月？](../questions/Q-2210.md) · [在线阅读](https://mianstack.com/question/q-2210)
@@ -126,13 +126,13 @@
 - [Q-4098 你在现有框架中新增过什么组件，为什么这样抽象？](../questions/Q-4098.md) · [在线阅读](https://mianstack.com/question/q-4098)
 - [Q-4230 项目开发了多长时间，个人持续投入和阶段性产出如何？](../questions/Q-4230.md) · [在线阅读](https://mianstack.com/question/q-4230)
 - [Q-4357 Agent 项目来自实习工作还是个人实践？](../questions/Q-4357.md) · [在线阅读](https://mianstack.com/question/q-4357)
-- [Q-4790 如何识别简历中容易被深挖的项目表述并准备证据？](../questions/Q-4790.md) · [在线阅读](https://mianstack.com/question/q-4790)
+- [Q-4790 如何识别简历中容易被深挖的项目表述并准备证据？](../questions/Q-4790.md) · [在线阅读](https://mianstack.com/question/q-4790) · **已有答案**
 - [Q-7007 是否参与过数据清洗或模型训练工作？](../questions/Q-7007.md) · [在线阅读](https://mianstack.com/question/q-7007)
 
 <a id="topic-3"></a>
 ## 项目难点、复盘与改进
 
-- [Q-0003 项目或实习中最难的问题是什么，你是如何解决的？](../questions/Q-0003.md) · [在线阅读](https://mianstack.com/question/q-0003)
+- [Q-0003 项目或实习中最难的问题是什么，你是如何解决的？](../questions/Q-0003.md) · [在线阅读](https://mianstack.com/question/q-0003) · **已有答案**
 - [Q-0078 如何看待工作强度大、节奏快的环境？](../questions/Q-0078.md) · [在线阅读](https://mianstack.com/question/q-0078)
 - [Q-0093 多个任务和截止日期同时出现时，如何安排优先级？](../questions/Q-0093.md) · [在线阅读](https://mianstack.com/question/q-0093)
 - [Q-0098 压力较大时，你如何调整并继续推进工作？](../questions/Q-0098.md) · [在线阅读](https://mianstack.com/question/q-0098)
@@ -153,8 +153,8 @@
 - [Q-3191 实习中印象最深的事情是什么？](../questions/Q-3191.md) · [在线阅读](https://mianstack.com/question/q-3191)
 - [Q-3293 说说你认为最失败的一件事。](../questions/Q-3293.md) · [在线阅读](https://mianstack.com/question/q-3293)
 - [Q-3975 优化假设经测试发现效果不达预期时，如何推翻并迭代方案？](../questions/Q-3975.md) · [在线阅读](https://mianstack.com/question/q-3975)
-- [Q-4031 项目中的性能问题是如何发现、定位并推动解决的？](../questions/Q-4031.md) · [在线阅读](https://mianstack.com/question/q-4031)
-- [Q-4372 项目还可以怎样改进，重新做时会如何设计？](../questions/Q-4372.md) · [在线阅读](https://mianstack.com/question/q-4372)
+- [Q-4031 项目中的性能问题是如何发现、定位并推动解决的？](../questions/Q-4031.md) · [在线阅读](https://mianstack.com/question/q-4031) · **已有答案**
+- [Q-4372 项目还可以怎样改进，重新做时会如何设计？](../questions/Q-4372.md) · [在线阅读](https://mianstack.com/question/q-4372) · **已有答案**
 - [Q-4381 项目如何收集和处理用户使用中的问题反馈？](../questions/Q-4381.md) · [在线阅读](https://mianstack.com/question/q-4381)
 - [Q-4382 公司为什么允许项目开源，如何划定开源边界？](../questions/Q-4382.md) · [在线阅读](https://mianstack.com/question/q-4382)
 - [Q-6597 如何通过流程改进避免同类问题反复出现？](../questions/Q-6597.md) · [在线阅读](https://mianstack.com/question/q-6597)
@@ -164,7 +164,7 @@
 <a id="topic-4"></a>
 ## 技术决策与业务理解
 
-- [Q-0021 你的项目使用哪些技术栈，各自负责什么？](../questions/Q-0021.md) · [在线阅读](https://mianstack.com/question/q-0021)
+- [Q-0021 你的项目使用哪些技术栈，各自负责什么？](../questions/Q-0021.md) · [在线阅读](https://mianstack.com/question/q-0021) · **已有答案**
 - [Q-0125 你如何理解目标业务的 Agent 建设目标？](../questions/Q-0125.md) · [在线阅读](https://mianstack.com/question/q-0125)
 - [Q-0167 工程能力对 Agent 开发有什么影响？](../questions/Q-0167.md) · [在线阅读](https://mianstack.com/question/q-0167)
 - [Q-0256 你如何理解目标平台的客户、业务与技术难点？](../questions/Q-0256.md) · [在线阅读](https://mianstack.com/question/q-0256)
@@ -192,7 +192,7 @@
 - [Q-2947 时间紧时，如何选择快速可用实现与不确定的新研究方案？](../questions/Q-2947.md) · [在线阅读](https://mianstack.com/question/q-2947)
 - [Q-2989 不同业务适配需求如何评估，由谁完成前置分析？](../questions/Q-2989.md) · [在线阅读](https://mianstack.com/question/q-2989)
 - [Q-3143 选择 Rust 时如何考虑人员招聘难度？](../questions/Q-3143.md) · [在线阅读](https://mianstack.com/question/q-3143)
-- [Q-3246 项目为什么这样实现，是否比较过其他方案和现有智能体？](../questions/Q-3246.md) · [在线阅读](https://mianstack.com/question/q-3246)
+- [Q-3246 项目为什么这样实现，是否比较过其他方案和现有智能体？](../questions/Q-3246.md) · [在线阅读](https://mianstack.com/question/q-3246) · **已有答案**
 - [Q-3279 为什么同时深入 AI 工程化和高并发系统两个项目方向？](../questions/Q-3279.md) · [在线阅读](https://mianstack.com/question/q-3279)
 - [Q-3599 如何看待前端团队的技术栈？](../questions/Q-3599.md) · [在线阅读](https://mianstack.com/question/q-3599)
 - [Q-3812 公司已有知识库能力时，为什么还需要建设新的知识库？](../questions/Q-3812.md) · [在线阅读](https://mianstack.com/question/q-3812)
@@ -233,7 +233,7 @@
 ## 数据、效果与项目价值
 
 - [Q-0004 如何用一句话说清一项工作的关键贡献？](../questions/Q-0004.md) · [在线阅读](https://mianstack.com/question/q-0004)
-- [Q-0112 核心工作有哪些产出，如何验证，回头看还有什么可改进？](../questions/Q-0112.md) · [在线阅读](https://mianstack.com/question/q-0112)
+- [Q-0112 核心工作有哪些产出，如何验证，回头看还有什么可改进？](../questions/Q-0112.md) · [在线阅读](https://mianstack.com/question/q-0112) · **已有答案**
 - [Q-1876 实习中的数据中台是什么量级？](../questions/Q-1876.md) · [在线阅读](https://mianstack.com/question/q-1876)
 - [Q-2305 项目面向哪些用户，QPS 等指标是多少？](../questions/Q-2305.md) · [在线阅读](https://mianstack.com/question/q-2305)
 - [Q-2412 你如何优化项目产出？](../questions/Q-2412.md) · [在线阅读](https://mianstack.com/question/q-2412)
@@ -246,7 +246,7 @@
 - [Q-3663 如何测算一款产品的经营损益？](../questions/Q-3663.md) · [在线阅读](https://mianstack.com/question/q-3663)
 - [Q-3855 为什么把脚本出数改造成自动化流程，这项改造带来了什么价值？](../questions/Q-3855.md) · [在线阅读](https://mianstack.com/question/q-3855)
 - [Q-4150 生产过程中的数据如何记录、追踪并用于复盘？](../questions/Q-4150.md) · [在线阅读](https://mianstack.com/question/q-4150)
-- [Q-4286 智能问数项目的数据库与数据从何而来？](../questions/Q-4286.md) · [在线阅读](https://mianstack.com/question/q-4286)
+- [Q-4286 智能问数项目的数据库与数据从何而来？](../questions/Q-4286.md) · [在线阅读](https://mianstack.com/question/q-4286) · **已有答案**
 - [Q-4301 项目验证是否使用了真实用户查询和实际运行数据？](../questions/Q-4301.md) · [在线阅读](https://mianstack.com/question/q-4301)
 - [Q-5068 项目结论来自生产运行、离线实验还是设计预案，应如何说明证据与边界？](../questions/Q-5068.md) · [在线阅读](https://mianstack.com/question/q-5068)
 - [Q-6606 业务指标不达预期或突然下降时，如何定位原因并决定行动？](../questions/Q-6606.md) · [在线阅读](https://mianstack.com/question/q-6606)
@@ -305,7 +305,7 @@
 - [Q-0164 朋友、同学或家人会如何评价你？](../questions/Q-0164.md) · [在线阅读](https://mianstack.com/question/q-0164)
 - [Q-0565 项目有什么创新点可以支持论文投稿？](../questions/Q-0565.md) · [在线阅读](https://mianstack.com/question/q-0565)
 - [Q-0753 近期关注了哪些大模型与 Agent 新技术？](../questions/Q-0753.md) · [在线阅读](https://mianstack.com/question/q-0753)
-- [Q-0991 请介绍主动学习 AI 工具或大模型并落地开发的真实经历与效果。](../questions/Q-0991.md) · [在线阅读](https://mianstack.com/question/q-0991)
+- [Q-0991 请介绍主动学习 AI 工具或大模型并落地开发的真实经历与效果。](../questions/Q-0991.md) · [在线阅读](https://mianstack.com/question/q-0991) · **已有答案**
 - [Q-1097 后端经验如何用于 AI 或 Agent 开发？](../questions/Q-1097.md) · [在线阅读](https://mianstack.com/question/q-1097)
 - [Q-1186 平时通过哪些渠道学习技术？](../questions/Q-1186.md) · [在线阅读](https://mianstack.com/question/q-1186)
 - [Q-1223 从大模型实习转向智驾决策规划岗位有哪些共同点和可迁移能力？](../questions/Q-1223.md) · [在线阅读](https://mianstack.com/question/q-1223)
@@ -441,13 +441,13 @@
 ## 候选人反问
 
 - [Q-0010 如何向面试官确认工作地点？](../questions/Q-0010.md) · [在线阅读](https://mianstack.com/question/q-0010)
-- [Q-0011 如何确认岗位的实际业务、技术方向和职责边界？](../questions/Q-0011.md) · [在线阅读](https://mianstack.com/question/q-0011)
-- [Q-0012 如何向面试官询问本场表现和改进建议？](../questions/Q-0012.md) · [在线阅读](https://mianstack.com/question/q-0012)
-- [Q-0013 如何确认实习生或校招生的培养方式、工作预期与转正机会？](../questions/Q-0013.md) · [在线阅读](https://mianstack.com/question/q-0013)
+- [Q-0011 如何确认岗位的实际业务、技术方向和职责边界？](../questions/Q-0011.md) · [在线阅读](https://mianstack.com/question/q-0011) · **已有答案**
+- [Q-0012 如何向面试官询问本场表现和改进建议？](../questions/Q-0012.md) · [在线阅读](https://mianstack.com/question/q-0012) · **已有答案**
+- [Q-0013 如何确认实习生或校招生的培养方式、工作预期与转正机会？](../questions/Q-0013.md) · [在线阅读](https://mianstack.com/question/q-0013) · **已有答案**
 - [Q-0174 团队是否支持论文或专利产出？](../questions/Q-0174.md) · [在线阅读](https://mianstack.com/question/q-0174)
 - [Q-0175 团队能提供哪些算力资源？](../questions/Q-0175.md) · [在线阅读](https://mianstack.com/question/q-0175)
 - [Q-0176 团队采用闭源还是开源模型，有哪些后续计划？](../questions/Q-0176.md) · [在线阅读](https://mianstack.com/question/q-0176)
-- [Q-0397 公司如何看待在开发中使用 AI 编码工具？](../questions/Q-0397.md) · [在线阅读](https://mianstack.com/question/q-0397)
+- [Q-0397 公司如何看待在开发中使用 AI 编码工具？](../questions/Q-0397.md) · [在线阅读](https://mianstack.com/question/q-0397) · **已有答案**
 - [Q-0535 团队的 Agent 组件和流程是否全部使用 Java 实现？](../questions/Q-0535.md) · [在线阅读](https://mianstack.com/question/q-0535)
 - [Q-0631 公司前后端的招聘名额是否收紧？](../questions/Q-0631.md) · [在线阅读](https://mianstack.com/question/q-0631)
 - [Q-0646 岗位总共有几轮面试？](../questions/Q-0646.md) · [在线阅读](https://mianstack.com/question/q-0646)
@@ -458,8 +458,8 @@
 - [Q-0867 团队落地 AI 产品时如何平衡推理延迟和成本？](../questions/Q-0867.md) · [在线阅读](https://mianstack.com/question/q-0867)
 - [Q-0868 复杂任务超时熔断时，团队采用硬规则还是模型动态降级？](../questions/Q-0868.md) · [在线阅读](https://mianstack.com/question/q-0868)
 - [Q-0869 多模态实时交互会选择 LangGraph 还是轻量流式编排？](../questions/Q-0869.md) · [在线阅读](https://mianstack.com/question/q-0869)
-- [Q-1238 如何询问面试结果的反馈周期？](../questions/Q-1238.md) · [在线阅读](https://mianstack.com/question/q-1238)
-- [Q-1239 如何询问团队日常使用 AI 工具的方式与角色？](../questions/Q-1239.md) · [在线阅读](https://mianstack.com/question/q-1239)
+- [Q-1238 如何询问面试结果的反馈周期？](../questions/Q-1238.md) · [在线阅读](https://mianstack.com/question/q-1238) · **已有答案**
+- [Q-1239 如何询问团队日常使用 AI 工具的方式与角色？](../questions/Q-1239.md) · [在线阅读](https://mianstack.com/question/q-1239) · **已有答案**
 - [Q-1310 如何向面试官请教通用 Agent、自建 Agent 和 Skill 编排层的生产选型？](../questions/Q-1310.md) · [在线阅读](https://mianstack.com/question/q-1310)
 - [Q-1435 如何请教 CPU/GPU 调度优化？](../questions/Q-1435.md) · [在线阅读](https://mianstack.com/question/q-1435)
 - [Q-1446 如何询问不同技术背景候选人的考察重点？](../questions/Q-1446.md) · [在线阅读](https://mianstack.com/question/q-1446)
@@ -469,14 +469,14 @@
 - [Q-1751 如何请面试官评价本次面试表现？](../questions/Q-1751.md) · [在线阅读](https://mianstack.com/question/q-1751)
 - [Q-1752 团队是否有 VLA、VLM 方面的技术积累？](../questions/Q-1752.md) · [在线阅读](https://mianstack.com/question/q-1752)
 - [Q-1997 如何向面试官请教 AI 应用开发能力的提升建议？](../questions/Q-1997.md) · [在线阅读](https://mianstack.com/question/q-1997)
-- [Q-2038 这个岗位最看重候选人的哪些能力？](../questions/Q-2038.md) · [在线阅读](https://mianstack.com/question/q-2038)
+- [Q-2038 这个岗位最看重候选人的哪些能力？](../questions/Q-2038.md) · [在线阅读](https://mianstack.com/question/q-2038) · **已有答案**
 - [Q-2066 为什么自己获得面试机会，而背景相同且实习更多的同学简历被筛掉？](../questions/Q-2066.md) · [在线阅读](https://mianstack.com/question/q-2066)
 - [Q-2109 面对同类多 Agent 协作平台，公司产品的优势是什么？](../questions/Q-2109.md) · [在线阅读](https://mianstack.com/question/q-2109)
-- [Q-2121 团队使用哪些技术栈和语言？](../questions/Q-2121.md) · [在线阅读](https://mianstack.com/question/q-2121)
+- [Q-2121 团队使用哪些技术栈和语言？](../questions/Q-2121.md) · [在线阅读](https://mianstack.com/question/q-2121) · **已有答案**
 - [Q-2534 Vibe Coding 在团队业务开发中的使用比例是多少？](../questions/Q-2534.md) · [在线阅读](https://mianstack.com/question/q-2534)
-- [Q-2584 团队有多少人？](../questions/Q-2584.md) · [在线阅读](https://mianstack.com/question/q-2584)
+- [Q-2584 团队有多少人？](../questions/Q-2584.md) · [在线阅读](https://mianstack.com/question/q-2584) · **已有答案**
 - [Q-2585 岗位是今年新设还是一直存在？](../questions/Q-2585.md) · [在线阅读](https://mianstack.com/question/q-2585)
-- [Q-2658 AI 工作由专门团队负责，还是传统后端团队兼顾？](../questions/Q-2658.md) · [在线阅读](https://mianstack.com/question/q-2658)
+- [Q-2658 AI 工作由专门团队负责，还是传统后端团队兼顾？](../questions/Q-2658.md) · [在线阅读](https://mianstack.com/question/q-2658) · **已有答案**
 - [Q-2700 如何向面试官了解 AI 的业务价值与 Agent 的发展空间？](../questions/Q-2700.md) · [在线阅读](https://mianstack.com/question/q-2700)
 - [Q-2742 如何向面试官了解团队组织、公司关系与技术转型计划？](../questions/Q-2742.md) · [在线阅读](https://mianstack.com/question/q-2742)
 - [Q-3064 本轮为什么不问技术问题？](../questions/Q-3064.md) · [在线阅读](https://mianstack.com/question/q-3064)
@@ -487,13 +487,13 @@
 - [Q-3806 团队近期的数据方向规划和当前瓶颈是什么？](../questions/Q-3806.md) · [在线阅读](https://mianstack.com/question/q-3806)
 - [Q-3807 多种数据引擎由统一平台自动调度选型，还是由开发者按特性分别提交任务？](../questions/Q-3807.md) · [在线阅读](https://mianstack.com/question/q-3807)
 - [Q-3808 知识库成熟、数据流转自动化后，数据开发岗位还承担什么价值？](../questions/Q-3808.md) · [在线阅读](https://mianstack.com/question/q-3808)
-- [Q-3809 链路和知识库成熟后，新同学只参与维护会有哪些成长与交付风险？](../questions/Q-3809.md) · [在线阅读](https://mianstack.com/question/q-3809)
+- [Q-3809 链路和知识库成熟后，新同学只参与维护会有哪些成长与交付风险？](../questions/Q-3809.md) · [在线阅读](https://mianstack.com/question/q-3809) · **已有答案**
 - [Q-3843 团队的测试自动化和 AI 建设程度如何，新人可以从哪里切入？](../questions/Q-3843.md) · [在线阅读](https://mianstack.com/question/q-3843)
-- [Q-3844 团队对新人入职前半年的核心产出有什么期待？](../questions/Q-3844.md) · [在线阅读](https://mianstack.com/question/q-3844)
-- [Q-3945 新人进入团队后通常会参与哪些项目？](../questions/Q-3945.md) · [在线阅读](https://mianstack.com/question/q-3945)
+- [Q-3844 团队对新人入职前半年的核心产出有什么期待？](../questions/Q-3844.md) · [在线阅读](https://mianstack.com/question/q-3844) · **已有答案**
+- [Q-3945 新人进入团队后通常会参与哪些项目？](../questions/Q-3945.md) · [在线阅读](https://mianstack.com/question/q-3945) · **已有答案**
 - [Q-4018 团队主要负责 AI 全栈业务还是 Agent 平台建设？](../questions/Q-4018.md) · [在线阅读](https://mianstack.com/question/q-4018)
-- [Q-4019 团队的 AI 业务场景更偏内部提效还是面向 C 端用户？](../questions/Q-4019.md) · [在线阅读](https://mianstack.com/question/q-4019)
-- [Q-4020 实习生进入团队后通常负责哪些模块？](../questions/Q-4020.md) · [在线阅读](https://mianstack.com/question/q-4020)
+- [Q-4019 团队的 AI 业务场景更偏内部提效还是面向 C 端用户？](../questions/Q-4019.md) · [在线阅读](https://mianstack.com/question/q-4019) · **已有答案**
+- [Q-4020 实习生进入团队后通常负责哪些模块？](../questions/Q-4020.md) · [在线阅读](https://mianstack.com/question/q-4020) · **已有答案**
 - [Q-4288 岗位的工作时间、出勤要求和加班情况如何？](../questions/Q-4288.md) · [在线阅读](https://mianstack.com/question/q-4288)
 - [Q-4422 日常实习能否转为暑期实习，如何确认流程？](../questions/Q-4422.md) · [在线阅读](https://mianstack.com/question/q-4422)
 - [Q-6055 如何向团队了解模型迭代、评测基础设施与算法工程协作？](../questions/Q-6055.md) · [在线阅读](https://mianstack.com/question/q-6055)
