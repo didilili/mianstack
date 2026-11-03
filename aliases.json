@@ -258,5 +258,10 @@
     "from": "Q-3359",
     "to": "Q-0416",
     "reason": "与“MCP 的本质与作用是什么”回答目标一致；原有两条 occurrence 实际是 MCP 与 Skill 的多对象问法。"
+  },
+  {
+    "from": "Q-8908",
+    "to": "Q-0855",
+    "reason": "HTTP短轮询、SSE与WebSocket的比较和选型目标相同，原始问法保留在面经出现记录中。"
   }
 ]

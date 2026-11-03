@@ -6,7 +6,7 @@
 
 Prompt、应用架构、评测、质量、安全、可观测性、性能与交付。
 
-共 1,041 道题，分为 10 个专题。
+共 1,180 道题，分为 10 个专题。
 
 ## 页内导航
 
@@ -97,10 +97,13 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6388 如何在不修改语言模型权重时设计和验证视觉提示？](../questions/Q-6388.md) · [在线阅读](https://mianstack.com/question/q-6388)
 - [Q-7082 Spring AI 如何将模型响应转换为结构化输出？](../questions/Q-7082.md) · [在线阅读](https://mianstack.com/question/q-7082)
 - [Q-7083 什么是 Re-Reading，如何通过 Spring AI Advisor 实现？](../questions/Q-7083.md) · [在线阅读](https://mianstack.com/question/q-7083)
+- [Q-7744 Agent 生成结果如何校验，校验失败后怎样修复？](../questions/Q-7744.md) · [在线阅读](https://mianstack.com/question/q-7744)
+- [Q-8704 大文件生成摘要时超出上下文窗口，如何组织处理？](../questions/Q-8704.md) · [在线阅读](https://mianstack.com/question/q-8704)
 
 <a id="topic-2"></a>
 ## AI 应用架构与接口
 
+- [Q-10097 如何判断不同表述的问题是否属于同一语义类别？](../questions/Q-10097.md) · [在线阅读](https://mianstack.com/question/q-10097)
 - [Q-2518 模型的流式输出如何实现？](../questions/Q-2518.md) · [在线阅读](https://mianstack.com/question/q-2518)
 - [Q-3135 对接多家模型厂商时，如何设计统一调用网关屏蔽接口差异？](../questions/Q-3135.md) · [在线阅读](https://mianstack.com/question/q-3135)
 - [Q-3329 如何设计一个大模型网关系统？](../questions/Q-3329.md) · [在线阅读](https://mianstack.com/question/q-3329)
@@ -174,6 +177,17 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6820 如何设计电商商品文案生成系统？](../questions/Q-6820.md) · [在线阅读](https://mianstack.com/question/q-6820)
 - [Q-6950 如何设计自动周报工作流，划分人工环节并处理缺失记录？](../questions/Q-6950.md) · [在线阅读](https://mianstack.com/question/q-6950)
 - [Q-6952 如何设计实时多模态数据流的处理架构？](../questions/Q-6952.md) · [在线阅读](https://mianstack.com/question/q-6952)
+- [Q-7117 模型调用成功但结果未写入数据库时，可能有哪些失败场景，如何恢复？](../questions/Q-7117.md) · [在线阅读](https://mianstack.com/question/q-7117)
+- [Q-7126 项目模型接入层如何兼容多模型，两套 Agent 的接入方式和兼容边界是什么？](../questions/Q-7126.md) · [在线阅读](https://mianstack.com/question/q-7126)
+- [Q-7299 Agent 生成 PPT 后，如何支持用户修改已有内容？](../questions/Q-7299.md) · [在线阅读](https://mianstack.com/question/q-7299)
+- [Q-7445 AI 流式对话生成过程中，如何接收并处理用户追加的新指令？](../questions/Q-7445.md) · [在线阅读](https://mianstack.com/question/q-7445)
+- [Q-7770 除了 ASR，怎样理解视频中的画面内容？](../questions/Q-7770.md) · [在线阅读](https://mianstack.com/question/q-7770)
+- [Q-7771 图像理解何时用 OCR、何时用视觉模型，结果怎样服务业务？](../questions/Q-7771.md) · [在线阅读](https://mianstack.com/question/q-7771)
+- [Q-7922 转发 ASR 语音识别结果时，如何去重并优化处理链路？](../questions/Q-7922.md) · [在线阅读](https://mianstack.com/question/q-7922)
+- [Q-7930 用 Java 对接大模型，相比传统 CRUD 项目有哪些工程挑战？](../questions/Q-7930.md) · [在线阅读](https://mianstack.com/question/q-7930)
+- [Q-8144 网页或工程生成 Agent 的工具调用与流式输出有哪些难点？](../questions/Q-8144.md) · [在线阅读](https://mianstack.com/question/q-8144)
+- [Q-8364 如何在通用大模型、视觉语言模型和轻量模型之间设计动态路由？](../questions/Q-8364.md) · [在线阅读](https://mianstack.com/question/q-8364)
+- [Q-8841 用户退出聊天窗口后，如何继续保存并在重连时返回 Agent 的剩余输出？](../questions/Q-8841.md) · [在线阅读](https://mianstack.com/question/q-8841)
 
 <a id="topic-3"></a>
 ## 评测体系与实验设计
@@ -411,6 +425,38 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6851 基座模型输出不遵循固定格式时，如何提取并评估答案？](../questions/Q-6851.md) · [在线阅读](https://mianstack.com/question/q-6851)
 - [Q-6853 实验存在用户或时段干扰时，如何设计分流并解释效果？](../questions/Q-6853.md) · [在线阅读](https://mianstack.com/question/q-6853)
 - [Q-7066 模型评测分数相差 3 个点，如何判断是否足以切换模型？](../questions/Q-7066.md) · [在线阅读](https://mianstack.com/question/q-7066)
+- [Q-7437 视觉模型测试集表现良好，上线产线后准确率明显下降，如何排查？](../questions/Q-7437.md) · [在线阅读](https://mianstack.com/question/q-7437)
+- [Q-7607 如何分别衡量 Agent 各模块的效果？](../questions/Q-7607.md) · [在线阅读](https://mianstack.com/question/q-7607)
+- [Q-7905 项目中遇到过哪些模型幻觉，如何分析原因并处理？](../questions/Q-7905.md) · [在线阅读](https://mianstack.com/question/q-7905)
+- [Q-8293 给定路测数据，如何定位感知模型某类漏检的原因？](../questions/Q-8293.md) · [在线阅读](https://mianstack.com/question/q-8293)
+- [Q-8357 生成内容质量如何结合人工与自动评测进行评估？](../questions/Q-8357.md) · [在线阅读](https://mianstack.com/question/q-8357)
+- [Q-8362 如何判断图片理解 Agent 的评测指标是否完整？](../questions/Q-8362.md) · [在线阅读](https://mianstack.com/question/q-8362)
+- [Q-8711 AI 应用项目如何实现质量评测，怎样定义通过标准？](../questions/Q-8711.md) · [在线阅读](https://mianstack.com/question/q-8711)
+- [Q-8712 传统功能测试与 AI 输出效果评估有什么区别？](../questions/Q-8712.md) · [在线阅读](https://mianstack.com/question/q-8712)
+- [Q-8790 如何评估 Agent 多次执行结果的稳定性与准确率？](../questions/Q-8790.md) · [在线阅读](https://mianstack.com/question/q-8790)
+- [Q-8798 如何设计实验验证漫剧 Agent 的作品质量？](../questions/Q-8798.md) · [在线阅读](https://mianstack.com/question/q-8798)
+- [Q-8839 Agent 如何结合离线评测、线上反馈和 Bad Case 调优？](../questions/Q-8839.md) · [在线阅读](https://mianstack.com/question/q-8839)
+- [Q-8889 LLM Judge 的评测数据来自哪里，输入包含什么？](../questions/Q-8889.md) · [在线阅读](https://mianstack.com/question/q-8889)
+- [Q-8890 怎样选择测试集并验证它对业务场景的覆盖？](../questions/Q-8890.md) · [在线阅读](https://mianstack.com/question/q-8890)
+- [Q-8922 多轮对话系统如何进行完整会话评测？](../questions/Q-8922.md) · [在线阅读](https://mianstack.com/question/q-8922)
+- [Q-8923 客服对话的转人工率如何定义和评测？](../questions/Q-8923.md) · [在线阅读](https://mianstack.com/question/q-8923)
+- [Q-9239 修改 Prompt 后，如何验证准确率提升来自改动而非随机波动？](../questions/Q-9239.md) · [在线阅读](https://mianstack.com/question/q-9239)
+- [Q-9253 如何自动区分 AI 应用故障来自模型、Prompt、检索还是业务代码？](../questions/Q-9253.md) · [在线阅读](https://mianstack.com/question/q-9253)
+- [Q-9271 模型置信度应采用语言自报还是 Logits 概率，如何比较其可靠性？](../questions/Q-9271.md) · [在线阅读](https://mianstack.com/question/q-9271)
+- [Q-9536 如何比较引入知识库前后的实际效果？](../questions/Q-9536.md) · [在线阅读](https://mianstack.com/question/q-9536)
+- [Q-9577 人工标注的 Agent 问答评测集如何自动执行与判分？](../questions/Q-9577.md) · [在线阅读](https://mianstack.com/question/q-9577)
+- [Q-9580 如何定义并统计 Agent 的线上有效会话？](../questions/Q-9580.md) · [在线阅读](https://mianstack.com/question/q-9580)
+- [Q-9581 Agent 线上表现与离线评测不一致时，如何分析差异？](../questions/Q-9581.md) · [在线阅读](https://mianstack.com/question/q-9581)
+- [Q-9582 如何收集、分析 Agent 用户负反馈并转成改进任务？](../questions/Q-9582.md) · [在线阅读](https://mianstack.com/question/q-9582)
+- [Q-9583 线上 Agent 错例如何回流到评测集并持续回归？](../questions/Q-9583.md) · [在线阅读](https://mianstack.com/question/q-9583)
+- [Q-9584 长程 Agent 和 Coding Agent 的评测与简单问答有什么不同？](../questions/Q-9584.md) · [在线阅读](https://mianstack.com/question/q-9584)
+- [Q-9586 覆盖问答、文档和创作的通用 Agent，如何拆分任务并评测？](../questions/Q-9586.md) · [在线阅读](https://mianstack.com/question/q-9586)
+- [Q-9587 用户输入不同、无法获取竞品后台时，如何公平比较 Agent 产品？](../questions/Q-9587.md) · [在线阅读](https://mianstack.com/question/q-9587)
+- [Q-9592 Agent 项目所说的准确率如何定义和计算？](../questions/Q-9592.md) · [在线阅读](https://mianstack.com/question/q-9592)
+- [Q-9640 LLM Judge 评估工具型 Agent 时，是否需要提供工具返回的 Observation？](../questions/Q-9640.md) · [在线阅读](https://mianstack.com/question/q-9640)
+- [Q-9657 深度研究中的覆盖率、来源质量和边际收益如何定义与计算？](../questions/Q-9657.md) · [在线阅读](https://mianstack.com/question/q-9657)
+- [Q-9730 项目中由谁制定参考答案和评判结果，如何保证评分可信？](../questions/Q-9730.md) · [在线阅读](https://mianstack.com/question/q-9730)
+- [Q-9820 报警算法的准确率、误报率、检出率和重复率怎样定义与计算？](../questions/Q-9820.md) · [在线阅读](https://mianstack.com/question/q-9820)
 
 <a id="topic-4"></a>
 ## 生成质量与幻觉治理
@@ -453,6 +499,11 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6827 语音客服如何平衡表达自然度与语义准确性？](../questions/Q-6827.md) · [在线阅读](https://mianstack.com/question/q-6827)
 - [Q-6833 如何设计大模型输出的幻觉检测系统？](../questions/Q-6833.md) · [在线阅读](https://mianstack.com/question/q-6833)
 - [Q-7041 AI + Draw.io 应用如何验证模型生成的 XML 可用？](../questions/Q-7041.md) · [在线阅读](https://mianstack.com/question/q-7041)
+- [Q-7107 如何重点治理 Codex 在编码任务中的幻觉？](../questions/Q-7107.md) · [在线阅读](https://mianstack.com/question/q-7107)
+- [Q-8354 上线模型被反馈答非所问时，如何定位原因？](../questions/Q-8354.md) · [在线阅读](https://mianstack.com/question/q-8354)
+- [Q-8404 如何证明 Agent 生成的分析报告可信？](../questions/Q-8404.md) · [在线阅读](https://mianstack.com/question/q-8404)
+- [Q-8488 输入信息有歧义或缺失时，如何推导关系并在报告中表达不确定性？](../questions/Q-8488.md) · [在线阅读](https://mianstack.com/question/q-8488)
+- [Q-9611 如何识别并核验 AI 回答中的错误？](../questions/Q-9611.md) · [在线阅读](https://mianstack.com/question/q-9611)
 
 <a id="topic-5"></a>
 ## 安全、权限与人工介入
@@ -475,6 +526,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-0944 如何对 Agent 下单限制交易标的和单笔金额？](../questions/Q-0944.md) · [在线阅读](https://mianstack.com/question/q-0944)
 - [Q-0948 如何防止 Agent 超时重试导致重复下单？](../questions/Q-0948.md) · [在线阅读](https://mianstack.com/question/q-0948)
 - [Q-0949 下单幂等 key 如何生成，为什么不让大模型生成？](../questions/Q-0949.md) · [在线阅读](https://mianstack.com/question/q-0949)
+- [Q-10095 Agent 执行 SQL 时，如何限制只读、查询权限和返回行数？](../questions/Q-10095.md) · [在线阅读](https://mianstack.com/question/q-10095)
 - [Q-1080 设计 AI 判定违规评论并删除的功能，如何定义输入输出、人工介入、边缘情况和兜底？](../questions/Q-1080.md) · [在线阅读](https://mianstack.com/question/q-1080)
 - [Q-1240 Agent 如何隔离不同任务？](../questions/Q-1240.md) · [在线阅读](https://mianstack.com/question/q-1240)
 - [Q-1375 提示词注入根因是什么，防御有哪些局限？](../questions/Q-1375.md) · [在线阅读](https://mianstack.com/question/q-1375)
@@ -579,6 +631,11 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6111 如何检测并阻止未授权的音色克隆？](../questions/Q-6111.md) · [在线阅读](https://mianstack.com/question/q-6111)
 - [Q-6391 多模态模型有哪些伦理与滥用风险，如何结合场景界定责任？](../questions/Q-6391.md) · [在线阅读](https://mianstack.com/question/q-6391)
 - [Q-7017 使用 AI 编程工具时，如何防止公司代码与敏感信息泄露？](../questions/Q-7017.md) · [在线阅读](https://mianstack.com/question/q-7017)
+- [Q-7205 涉及下单、扣款等操作的 Agent 应如何设计安全与执行保障？](../questions/Q-7205.md) · [在线阅读](https://mianstack.com/question/q-7205)
+- [Q-8762 Agent 转交人工时，应提供哪些上下文与辅助信息？](../questions/Q-8762.md) · [在线阅读](https://mianstack.com/question/q-8762)
+- [Q-9276 知识问答助手如何避免暴露内部业务代码，为什么需要这一限制？](../questions/Q-9276.md) · [在线阅读](https://mianstack.com/question/q-9276)
+- [Q-9286 Agent 的校验层放在端侧还是云端，网络超时下状态机如何处理？](../questions/Q-9286.md) · [在线阅读](https://mianstack.com/question/q-9286)
+- [Q-9599 合规红线为什么选择关键词拦截，而不是只用大模型提示词判断？](../questions/Q-9599.md) · [在线阅读](https://mianstack.com/question/q-9599)
 
 <a id="topic-6"></a>
 ## 可观测性、稳定性与故障诊断
@@ -682,6 +739,11 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6889 如何设计模型执行计时插件，并与底层性能分析工具配合？](../questions/Q-6889.md) · [在线阅读](https://mianstack.com/question/q-6889)
 - [Q-7013 相同输入为什么会产生不同的 Agent 执行结果？](../questions/Q-7013.md) · [在线阅读](https://mianstack.com/question/q-7013)
 - [Q-7044 Java 智能体服务如何设计分层异常处理？](../questions/Q-7044.md) · [在线阅读](https://mianstack.com/question/q-7044)
+- [Q-8111 业务方只反馈对话服务“不准、不好用”时，如何调查和改进？](../questions/Q-8111.md) · [在线阅读](https://mianstack.com/question/q-8111)
+- [Q-8963 多证件解析仍有失败时，怎样定位原因并设计兜底？](../questions/Q-8963.md) · [在线阅读](https://mianstack.com/question/q-8963)
+- [Q-9498 Agent 获取不到所需数据时，如何沿调用链排查？](../questions/Q-9498.md) · [在线阅读](https://mianstack.com/question/q-9498)
+- [Q-9588 Agent 执行时间长是否代表异常，如何按任务判断？](../questions/Q-9588.md) · [在线阅读](https://mianstack.com/question/q-9588)
+- [Q-9643 Agent 版本上线后效果变差，如何沿模型、检索、路由和工具定位？](../questions/Q-9643.md) · [在线阅读](https://mianstack.com/question/q-9643)
 
 <a id="topic-7"></a>
 ## 性能、时延与成本
@@ -752,6 +814,14 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6369 LLM 服务中的 Goodput 如何定义和测量？](../questions/Q-6369.md) · [在线阅读](https://mianstack.com/question/q-6369)
 - [Q-6612 如何设计大模型 API 的输入、输出与上下文计费方案？](../questions/Q-6612.md) · [在线阅读](https://mianstack.com/question/q-6612)
 - [Q-6825 Agent 沙箱调度如何与 Kubernetes 等基础设施调度协同？](../questions/Q-6825.md) · [在线阅读](https://mianstack.com/question/q-6825)
+- [Q-8365 图片审核系统处理超大图片、切片和多模态并发请求时，会遇到哪些工程问题？](../questions/Q-8365.md) · [在线阅读](https://mianstack.com/question/q-8365)
+- [Q-8392 模型接口返回的 usage 字段表示什么，如何用于统计 Token 用量？](../questions/Q-8392.md) · [在线阅读](https://mianstack.com/question/q-8392)
+- [Q-8437 为什么 Agent 的 Tool Call 次数减少了，Token 消耗反而增加？](../questions/Q-8437.md) · [在线阅读](https://mianstack.com/question/q-8437)
+- [Q-8722 通过语义识别与预筛选，如何减少模型调用的 Token 成本？](../questions/Q-8722.md) · [在线阅读](https://mianstack.com/question/q-8722)
+- [Q-8801 为什么不同 Coding Agent 的提示缓存命中率会不同？](../questions/Q-8801.md) · [在线阅读](https://mianstack.com/question/q-8801)
+- [Q-9102 调用大模型时 Token 超限应如何处理？](../questions/Q-9102.md) · [在线阅读](https://mianstack.com/question/q-9102)
+- [Q-9574 个人 AI 项目扩展到海量用户时，如何规划容量与系统架构？](../questions/Q-9574.md) · [在线阅读](https://mianstack.com/question/q-9574)
+- [Q-9707 如何量化上下文隔离等 Agent 优化带来的成本收益？](../questions/Q-9707.md) · [在线阅读](https://mianstack.com/question/q-9707)
 
 <a id="topic-8"></a>
 ## 模型服务、部署与交付
@@ -868,6 +938,19 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6881 量化推理运行时如何设计权重表示、算子接口与正确性验证？](../questions/Q-6881.md) · [在线阅读](https://mianstack.com/question/q-6881)
 - [Q-6900 多租户模型服务如何按需加载并快速切换大量 LoRA 适配器？](../questions/Q-6900.md) · [在线阅读](https://mianstack.com/question/q-6900)
 - [Q-7043 Spring AI 服务如何实现预热，预热应验证哪些内容？](../questions/Q-7043.md) · [在线阅读](https://mianstack.com/question/q-7043)
+- [Q-7436 模型从训练框架到边缘设备运行，通常经过哪些部署步骤？](../questions/Q-7436.md) · [在线阅读](https://mianstack.com/question/q-7436)
+- [Q-7481 多卡部署模型时，如何排查精度不一致的问题？](../questions/Q-7481.md) · [在线阅读](https://mianstack.com/question/q-7481)
+- [Q-7597 使用过哪些 AI Infra 工具，各解决什么问题？](../questions/Q-7597.md) · [在线阅读](https://mianstack.com/question/q-7597)
+- [Q-7767 大模型网关如何覆盖全公司调用，绕过内部 SDK 直连模型时怎样治理？](../questions/Q-7767.md) · [在线阅读](https://mianstack.com/question/q-7767)
+- [Q-7768 同一模型支持多种接口协议时，网关如何区分、选择和适配？](../questions/Q-7768.md) · [在线阅读](https://mianstack.com/question/q-7768)
+- [Q-7907 项目或实习使用什么计算加速设备，分别承担哪些工作？](../questions/Q-7907.md) · [在线阅读](https://mianstack.com/question/q-7907)
+- [Q-7957 Agent 项目的底层模型从何获取，如何获得使用权限？](../questions/Q-7957.md) · [在线阅读](https://mianstack.com/question/q-7957)
+- [Q-8092 模型推理服务有哪些弹性扩缩容策略？](../questions/Q-8092.md) · [在线阅读](https://mianstack.com/question/q-8092)
+- [Q-8094 使用过哪些开源推理框架，怎样运行模型？](../questions/Q-8094.md) · [在线阅读](https://mianstack.com/question/q-8094)
+- [Q-8877 VLA 模型部署到边缘端时，如何选择硬件？](../questions/Q-8877.md) · [在线阅读](https://mianstack.com/question/q-8877)
+- [Q-8935 项目的 Agent 平台怎样部署，各服务如何组织？](../questions/Q-8935.md) · [在线阅读](https://mianstack.com/question/q-8935)
+- [Q-9646 模型注意力架构变化后，KV Cache 管理方案如何适配？](../questions/Q-9646.md) · [在线阅读](https://mianstack.com/question/q-9646)
+- [Q-9653 推理框架中的序列切分与分布式 Decode 如何实现？](../questions/Q-9653.md) · [在线阅读](https://mianstack.com/question/q-9653)
 
 <a id="topic-9"></a>
 ## AI Coding 与研发流程
@@ -1056,6 +1139,53 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-7054 什么是 Agentic Engineering，它与 Vibe Coding 有什么区别？](../questions/Q-7054.md) · [在线阅读](https://mianstack.com/question/q-7054)
 - [Q-7055 Deep Thinking 与 Adaptive Thinking 有什么区别，如何用于 AI 编程？](../questions/Q-7055.md) · [在线阅读](https://mianstack.com/question/q-7055)
 - [Q-7056 什么是 Background Agent，它如何改变 AI 编程的工作方式？](../questions/Q-7056.md) · [在线阅读](https://mianstack.com/question/q-7056)
+- [Q-7098 如果优化 Codex，你会从哪些系统机制入手？](../questions/Q-7098.md) · [在线阅读](https://mianstack.com/question/q-7098)
+- [Q-7099 已有多种 Coding Agent 时，为什么仍要自研？](../questions/Q-7099.md) · [在线阅读](https://mianstack.com/question/q-7099)
+- [Q-7103 Coding Agent 如何完成长时间、多步骤的复杂任务？](../questions/Q-7103.md) · [在线阅读](https://mianstack.com/question/q-7103)
+- [Q-7133 Claude Code 中 Hook 与 CLAUDE.md 有什么区别？](../questions/Q-7133.md) · [在线阅读](https://mianstack.com/question/q-7133)
+- [Q-7406 如何看待 AI 生成代码看似正确却可能有误的迷惑性？](../questions/Q-7406.md) · [在线阅读](https://mianstack.com/question/q-7406)
+- [Q-7433 用 AI Coding 构建多实例并发系统时，如何设计任务隔离与协作？](../questions/Q-7433.md) · [在线阅读](https://mianstack.com/question/q-7433)
+- [Q-7434 如何编写首轮提示词，让编码 Agent 先产出可评审的 Spec？](../questions/Q-7434.md) · [在线阅读](https://mianstack.com/question/q-7434)
+- [Q-7478 日常开发中怎样结合 RAG、MCP 与 Skill 使用 AI 工具？](../questions/Q-7478.md) · [在线阅读](https://mianstack.com/question/q-7478)
+- [Q-7698 如何用 AI 调优 SQL，并将调优方法封装成 Skill？](../questions/Q-7698.md) · [在线阅读](https://mianstack.com/question/q-7698)
+- [Q-7717 AI Coding 的需求拆解应先由人完成还是先交给 AI，边界知识如何沉淀？](../questions/Q-7717.md) · [在线阅读](https://mianstack.com/question/q-7717)
+- [Q-7902 日常 AI Coding 中使用哪些模型？](../questions/Q-7902.md) · [在线阅读](https://mianstack.com/question/q-7902)
+- [Q-8127 普通对话式 AI 与 Coding Agent 在研发中有什么区别？](../questions/Q-8127.md) · [在线阅读](https://mianstack.com/question/q-8127)
+- [Q-8146 AI Coding 如何识别历史代码中的隐性业务约束？](../questions/Q-8146.md) · [在线阅读](https://mianstack.com/question/q-8146)
+- [Q-8152 如何比较常用的 Coding Agent 工具？](../questions/Q-8152.md) · [在线阅读](https://mianstack.com/question/q-8152)
+- [Q-8338 AI Coding 工具认可了用户可能错误的纠正，应该如何判断和处理？](../questions/Q-8338.md) · [在线阅读](https://mianstack.com/question/q-8338)
+- [Q-8339 AI 辅助开发中，团队成员承担什么作用，如何判断目标和技术方向是否正确？](../questions/Q-8339.md) · [在线阅读](https://mianstack.com/question/q-8339)
+- [Q-8343 研发流程中采用 AI 旁路设计是什么意思，为什么这样设计？](../questions/Q-8343.md) · [在线阅读](https://mianstack.com/question/q-8343)
+- [Q-8374 如何把现有 AI Coding 工作流改进为更适合 AI 执行的研发流程？](../questions/Q-8374.md) · [在线阅读](https://mianstack.com/question/q-8374)
+- [Q-8381 当前 AI Coding 工具的主要瓶颈是什么，如何设计更好的工具？](../questions/Q-8381.md) · [在线阅读](https://mianstack.com/question/q-8381)
+- [Q-8410 如何设计一站式需求交付平台，并优化端到端交付成本？](../questions/Q-8410.md) · [在线阅读](https://mianstack.com/question/q-8410)
+- [Q-8490 使用 AI 开发时，应先提供自己的实现思路，还是给输入与期望输出让 AI 推导方案？](../questions/Q-8490.md) · [在线阅读](https://mianstack.com/question/q-8490)
+- [Q-8803 如何用 AI 提高软件测试效率，并验证测试是否充分？](../questions/Q-8803.md) · [在线阅读](https://mianstack.com/question/q-8803)
+- [Q-8805 长期使用 Coding Agent 后，如何检查仓库是否遵守 CLAUDE.md 规则并控制技术债？](../questions/Q-8805.md) · [在线阅读](https://mianstack.com/question/q-8805)
+- [Q-8809 Codex 有哪些自主启动、验证与浏览器操作能力，如何用于代码验收？](../questions/Q-8809.md) · [在线阅读](https://mianstack.com/question/q-8809)
+- [Q-8825 AI 编程中，需求分析、实现和评审应怎样分配人的精力？](../questions/Q-8825.md) · [在线阅读](https://mianstack.com/question/q-8825)
+- [Q-8828 AI 评审的方案判断与团队预期不一致时，如何处理？](../questions/Q-8828.md) · [在线阅读](https://mianstack.com/question/q-8828)
+- [Q-8873 团队是否自研过 SDD 或 AI Coding 框架，提供哪些能力？](../questions/Q-8873.md) · [在线阅读](https://mianstack.com/question/q-8873)
+- [Q-8874 团队沉淀了哪些 Rules 或 Skills，怎样用于日常开发？](../questions/Q-8874.md) · [在线阅读](https://mianstack.com/question/q-8874)
+- [Q-8875 团队除本地工具外，是否建设了云端 AI Coding 平台？](../questions/Q-8875.md) · [在线阅读](https://mianstack.com/question/q-8875)
+- [Q-8899 你是否参与改进过团队的 AI 工作流，具体贡献是什么？](../questions/Q-8899.md) · [在线阅读](https://mianstack.com/question/q-8899)
+- [Q-8927 使用 AI 开发时，怎样防止未经验证的生成代码进入主分支？](../questions/Q-8927.md) · [在线阅读](https://mianstack.com/question/q-8927)
+- [Q-8944 你如何看待 AI Coding 的发展及行业竞争？](../questions/Q-8944.md) · [在线阅读](https://mianstack.com/question/q-8944)
+- [Q-8949 AI Coding 团队建设了哪些类型的知识库，各自保存什么内容？](../questions/Q-8949.md) · [在线阅读](https://mianstack.com/question/q-8949)
+- [Q-8950 为什么 AI 编程知识库没有记录现有工程架构、技术选型、数据模型和代码位置？](../questions/Q-8950.md) · [在线阅读](https://mianstack.com/question/q-8950)
+- [Q-9117 AI 编程多次尝试仍无法给出正确结果时，你如何处理？](../questions/Q-9117.md) · [在线阅读](https://mianstack.com/question/q-9117)
+- [Q-9128 如何组织项目文档流程，并让 AI 在各阶段完成相应文档？](../questions/Q-9128.md) · [在线阅读](https://mianstack.com/question/q-9128)
+- [Q-9129 AI 参与形成的技术方案，在人工评审中通常会暴露哪些问题？](../questions/Q-9129.md) · [在线阅读](https://mianstack.com/question/q-9129)
+- [Q-9150 性能测试中如何与 AI 模型协作，怎样设计 Prompt？](../questions/Q-9150.md) · [在线阅读](https://mianstack.com/question/q-9150)
+- [Q-9335 你使用 Codex、Claude 等编程工具时，采用订阅、API 还是其他接入方式？](../questions/Q-9335.md) · [在线阅读](https://mianstack.com/question/q-9335)
+- [Q-9336 实习公司的内部 AI 工具提供哪些额外功能？](../questions/Q-9336.md) · [在线阅读](https://mianstack.com/question/q-9336)
+- [Q-9339 维护十几个或几十个仓库时，如何沉淀并共享项目背景与知识给 Agent？](../questions/Q-9339.md) · [在线阅读](https://mianstack.com/question/q-9339)
+- [Q-9341 端到端测试中哪些工作仍需人工，如何让 Agent 接手更多验证？](../questions/Q-9341.md) · [在线阅读](https://mianstack.com/question/q-9341)
+- [Q-9342 项目中的 AI 研发流程最终以平台、Skill、插件还是其他形态交付？](../questions/Q-9342.md) · [在线阅读](https://mianstack.com/question/q-9342)
+- [Q-9539 使用 Codex 辅助开发时，有哪些有效的实践技巧？](../questions/Q-9539.md) · [在线阅读](https://mianstack.com/question/q-9539)
+- [Q-9600 Codex 与 Cursor 在开发中的使用方式和能力有哪些区别？](../questions/Q-9600.md) · [在线阅读](https://mianstack.com/question/q-9600)
+- [Q-9604 如何比较 Agent 生成代码与人工编写代码的质量？](../questions/Q-9604.md) · [在线阅读](https://mianstack.com/question/q-9604)
+- [Q-9610 承担完全陌生领域的任务时，如何与 AI 协作推进？](../questions/Q-9610.md) · [在线阅读](https://mianstack.com/question/q-9610)
 
 <a id="topic-10"></a>
 ## 产品场景、业务价值与交付边界
@@ -1101,3 +1231,12 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-6309 从判别分类到生成对话与 Agent，研发任务和系统约束有哪些变化？](../questions/Q-6309.md) · [在线阅读](https://mianstack.com/question/q-6309)
 - [Q-6555 PoC 如何验证关键技术假设，并决定是否继续投入？](../questions/Q-6555.md) · [在线阅读](https://mianstack.com/question/q-6555)
 - [Q-6607 智驾产品与互联网产品的需求文档，在约束与验收上有何区别？](../questions/Q-6607.md) · [在线阅读](https://mianstack.com/question/q-6607)
+- [Q-8312 深度学习可以怎样与金融业务结合，有哪些应用建议？](../questions/Q-8312.md) · [在线阅读](https://mianstack.com/question/q-8312)
+- [Q-8425 AI 可以怎样帮助维护工程师开展工作？](../questions/Q-8425.md) · [在线阅读](https://mianstack.com/question/q-8425)
+- [Q-8451 通用聊天产品、Coding Agent 与企业 RAG 工作流平台在产品形态上有什么区别？](../questions/Q-8451.md) · [在线阅读](https://mianstack.com/question/q-8451)
+- [Q-8487 暂不接入大模型时，合同审核系统的基线能完成哪些功能，还有哪些局限？](../questions/Q-8487.md) · [在线阅读](https://mianstack.com/question/q-8487)
+- [Q-9238 LLM 与规则引擎生成 SQL 的双路径结果不一致时，如何校验与处理？](../questions/Q-9238.md) · [在线阅读](https://mianstack.com/question/q-9238)
+- [Q-9262 Agent 应用如何支持文件上传并存储文件？](../questions/Q-9262.md) · [在线阅读](https://mianstack.com/question/q-9262)
+- [Q-9283 大数据领域哪些工作适合由 AI Agent 优化或替代，哪些仍需要人工？](../questions/Q-9283.md) · [在线阅读](https://mianstack.com/question/q-9283)
+- [Q-9523 现有项目中哪些功能适合引入 AI，如何判断价值？](../questions/Q-9523.md) · [在线阅读](https://mianstack.com/question/q-9523)
+- [Q-9540 大模型在测试领域最容易和最难解决的问题分别是什么？](../questions/Q-9540.md) · [在线阅读](https://mianstack.com/question/q-9540)

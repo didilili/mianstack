@@ -6,7 +6,7 @@
 
 数据结构、算法、SQL、工程编码与逻辑推理。
 
-共 446 道题，分为 9 个专题。
+共 501 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -49,6 +49,8 @@
 - [Q-6758 List、Set 与 Sorted Set 的顺序、重复与访问语义有什么区别？](../questions/Q-6758.md) · [在线阅读](https://mianstack.com/question/q-6758)
 - [Q-6761 如何根据访问需求设计 Map 的键和值？](../questions/Q-6761.md) · [在线阅读](https://mianstack.com/question/q-6761)
 - [Q-6774 如何定位整数最低位的 1，并遍历稀疏置位？](../questions/Q-6774.md) · [在线阅读](https://mianstack.com/question/q-6774)
+- [Q-7141 什么是哈希冲突？](../questions/Q-7141.md) · [在线阅读](https://mianstack.com/question/q-7141)
+- [Q-8409 栈和队列有什么区别，各适合什么场景？](../questions/Q-8409.md) · [在线阅读](https://mianstack.com/question/q-8409)
 
 <a id="topic-2"></a>
 ## 数组、字符串与哈希
@@ -162,6 +164,17 @@
 - [Q-6769 计算两个整数的汉明距离。](../questions/Q-6769.md) · [在线阅读](https://mianstack.com/question/q-6769)
 - [Q-6783 不用除法与取余实现整数商和余数。](../questions/Q-6783.md) · [在线阅读](https://mianstack.com/question/q-6783)
 - [Q-6801 判断多个矩形能否无重叠、无空隙地恰好覆盖一个矩形。](../questions/Q-6801.md) · [在线阅读](https://mianstack.com/question/q-6801)
+- [Q-7942 实现字符串反转，并处理空串、长度和边界情况。](../questions/Q-7942.md) · [在线阅读](https://mianstack.com/question/q-7942)
+- [Q-7949 求数组中的最大值。](../questions/Q-7949.md) · [在线阅读](https://mianstack.com/question/q-7949)
+- [Q-8419 输出字符串中所有长度最长的回文子串。](../questions/Q-8419.md) · [在线阅读](https://mianstack.com/question/q-8419)
+- [Q-8694 实现字符串转 long，处理加减符号、0x 前缀与溢出。](../questions/Q-8694.md) · [在线阅读](https://mianstack.com/question/q-8694)
+- [Q-9196 Block 类拼图游戏如何组织棋盘与不规则方块数据？](../questions/Q-9196.md) · [在线阅读](https://mianstack.com/question/q-9196)
+- [Q-9197 如何判断方块能否放在棋盘的指定位置？](../questions/Q-9197.md) · [在线阅读](https://mianstack.com/question/q-9197)
+- [Q-9198 如何检查棋盘是否还存在任意合法的方块放置位置？](../questions/Q-9198.md) · [在线阅读](https://mianstack.com/question/q-9198)
+- [Q-9199 如何实现不规则方块的 0°、90°、180°、270° 旋转？](../questions/Q-9199.md) · [在线阅读](https://mianstack.com/question/q-9199)
+- [Q-9324 将 uint32_t 类型的 IPv4 地址转换为点分十进制字符串。](../questions/Q-9324.md) · [在线阅读](https://mianstack.com/question/q-9324)
+- [Q-9683 将 IP 地址与端口编码为 uint64。](../questions/Q-9683.md) · [在线阅读](https://mianstack.com/question/q-9683)
+- [Q-9703 将数组中的零移到前面，并对其他元素排序。](../questions/Q-9703.md) · [在线阅读](https://mianstack.com/question/q-9703)
 
 <a id="topic-3"></a>
 ## 链表、栈与队列
@@ -210,6 +223,10 @@
 - [Q-6757 实现支持入队、出队和查询最大值的队列。](../questions/Q-6757.md) · [在线阅读](https://mianstack.com/question/q-6757)
 - [Q-6759 实现逆波兰表达式求值。](../questions/Q-6759.md) · [在线阅读](https://mianstack.com/question/q-6759)
 - [Q-6781 实现约瑟夫环的按序消除与最终存活位置计算。](../questions/Q-6781.md) · [在线阅读](https://mianstack.com/question/q-6781)
+- [Q-7762 反转单链表从第 n 到第 m 个节点的区间。](../questions/Q-7762.md) · [在线阅读](https://mianstack.com/question/q-7762)
+- [Q-7916 链表是什么，节点如何组织数据及前后关系？](../questions/Q-7916.md) · [在线阅读](https://mianstack.com/question/q-7916)
+- [Q-8102 删除排序链表中所有重复出现的值对应的节点。](../questions/Q-8102.md) · [在线阅读](https://mianstack.com/question/q-8102)
+- [Q-8359 将链表节点两两交换，并说明空链表和单节点的处理。](../questions/Q-8359.md) · [在线阅读](https://mianstack.com/question/q-8359)
 
 <a id="topic-4"></a>
 ## 树、图与遍历
@@ -226,6 +243,7 @@
 - [Q-0967 实现二叉树的序列化与反序列化。](../questions/Q-0967.md) · [在线阅读](https://mianstack.com/question/q-0967)
 - [Q-0986 带权图含零耗时魔法边，至多使用 k 次且不能连续使用，求最短用时。](../questions/Q-0986.md) · [在线阅读](https://mianstack.com/question/q-0986)
 - [Q-0996 用 BFS 求边权为 1 的图的单源最短路。](../questions/Q-0996.md) · [在线阅读](https://mianstack.com/question/q-0996)
+- [Q-10111 实现精简版 querySelector，仅支持类选择器和后代选择器。](../questions/Q-10111.md) · [在线阅读](https://mianstack.com/question/q-10111)
 - [Q-1390 用 DFS 在二维矩阵中搜索字符串。](../questions/Q-1390.md) · [在线阅读](https://mianstack.com/question/q-1390)
 - [Q-1831 给定 m×n 的 01 矩阵，1 是墙、0 是路，最多破墙 k 次，求左上到右下的最短路径。](../questions/Q-1831.md) · [在线阅读](https://mianstack.com/question/q-1831)
 - [Q-2263 求二叉树的最近公共祖先。](../questions/Q-2263.md) · [在线阅读](https://mianstack.com/question/q-2263)
@@ -279,6 +297,10 @@
 - [Q-6734 三维点集的凸包如何定义与计算？](../questions/Q-6734.md) · [在线阅读](https://mianstack.com/question/q-6734)
 - [Q-6735 统计网格中不同形状的岛屿数量。](../questions/Q-6735.md) · [在线阅读](https://mianstack.com/question/q-6735)
 - [Q-6736 判断无向图或四连通网格中是否存在环。](../questions/Q-6736.md) · [在线阅读](https://mianstack.com/question/q-6736)
+- [Q-7115 给定任务依赖图，输出所有可能的拓扑排序序列。](../questions/Q-7115.md) · [在线阅读](https://mianstack.com/question/q-7115)
+- [Q-8895 哪些二叉树遍历序列可以唯一还原一棵树，条件是什么？](../questions/Q-8895.md) · [在线阅读](https://mianstack.com/question/q-8895)
+- [Q-9701 平衡二叉搜索树如何通过旋转恢复平衡？](../questions/Q-9701.md) · [在线阅读](https://mianstack.com/question/q-9701)
+- [Q-9804 图论的握手定理是什么？](../questions/Q-9804.md) · [在线阅读](https://mianstack.com/question/q-9804)
 
 <a id="topic-5"></a>
 ## 排序、查找与 Top-K
@@ -319,6 +341,13 @@
 - [Q-6779 统计给定数中大于阈值的真分数组合。](../questions/Q-6779.md) · [在线阅读](https://mianstack.com/question/q-6779)
 - [Q-6784 求 1 到 n 中按字典序排列的第 K 个整数。](../questions/Q-6784.md) · [在线阅读](https://mianstack.com/question/q-6784)
 - [Q-6795 实现会议室可预订性判断与最近可用时间查询。](../questions/Q-6795.md) · [在线阅读](https://mianstack.com/question/q-6795)
+- [Q-7458 快速排序与堆排序的实际效率如何比较？](../questions/Q-7458.md) · [在线阅读](https://mianstack.com/question/q-7458)
+- [Q-8761 将一组非负整数重排并拼接成最大的数（LeetCode 179）。](../questions/Q-8761.md) · [在线阅读](https://mianstack.com/question/q-8761)
+- [Q-8862 给定离散二维点集，如何快速统计指定矩形范围内的点数？](../questions/Q-8862.md) · [在线阅读](https://mianstack.com/question/q-8862)
+- [Q-8961 返回数组中最小的 K 个数。](../questions/Q-8961.md) · [在线阅读](https://mianstack.com/question/q-8961)
+- [Q-9509 使用 Java 集合查询学生单科和总分前十名。](../questions/Q-9509.md) · [在线阅读](https://mianstack.com/question/q-9509)
+- [Q-9589 在线性时间内将两个升序数组合并成降序数组。](../questions/Q-9589.md) · [在线阅读](https://mianstack.com/question/q-9589)
+- [Q-9681 给定 IP 地址，查询其所属城市。](../questions/Q-9681.md) · [在线阅读](https://mianstack.com/question/q-9681)
 
 <a id="topic-6"></a>
 ## 动态规划、贪心与回溯
@@ -401,6 +430,16 @@
 - [Q-6787 为连续除法表达式添加括号，使其值最大。](../questions/Q-6787.md) · [在线阅读](https://mianstack.com/question/q-6787)
 - [Q-6798 在禁选集合和总和预算下，从 1 到 n 中最多选多少个整数？](../questions/Q-6798.md) · [在线阅读](https://mianstack.com/question/q-6798)
 - [Q-6802 实现支持问号与星号的通配符匹配。](../questions/Q-6802.md) · [在线阅读](https://mianstack.com/question/q-6802)
+- [Q-7439 如何解决粉刷房屋的最小成本问题？](../questions/Q-7439.md) · [在线阅读](https://mianstack.com/question/q-7439)
+- [Q-8369 将二进制字符串变为单调递增所需的最小翻转次数是多少？](../questions/Q-8369.md) · [在线阅读](https://mianstack.com/question/q-8369)
+- [Q-8406 给定一组单词，找出可以由其他单词组成的最长单词。](../questions/Q-8406.md) · [在线阅读](https://mianstack.com/question/q-8406)
+- [Q-8411 判断数组中是否存在长度为 3 的严格递增子序列。](../questions/Q-8411.md) · [在线阅读](https://mianstack.com/question/q-8411)
+- [Q-8773 求最大连续子数组和，并输出对应的子数组。](../questions/Q-8773.md) · [在线阅读](https://mianstack.com/question/q-8773)
+- [Q-8835 N 级台阶每次走 3、5、7 步，走 7 步后只能走 3 步，求走法数量。](../questions/Q-8835.md) · [在线阅读](https://mianstack.com/question/q-8835)
+- [Q-8853 用递归计算从网格左上角到右下角的路径数量。](../questions/Q-8853.md) · [在线阅读](https://mianstack.com/question/q-8853)
+- [Q-8913 给定数字集合 A 和数 n，组成不大于 n 的最大数。](../questions/Q-8913.md) · [在线阅读](https://mianstack.com/question/q-8913)
+- [Q-8943 按订单优先级合并配送任务，同一优先级内每次送达距骑手当前位置最近的订单。](../questions/Q-8943.md) · [在线阅读](https://mianstack.com/question/q-8943)
+- [Q-9830 计算斐波那契数列。](../questions/Q-9830.md) · [在线阅读](https://mianstack.com/question/q-9830)
 
 <a id="topic-7"></a>
 ## 并发、文件与工程编码
@@ -461,12 +500,26 @@
 - [Q-6896 实现低比特量化 GEMM 的 GPU Kernel。](../questions/Q-6896.md) · [在线阅读](https://mianstack.com/question/q-6896)
 - [Q-6897 实现带模拟模型后端的配置管理模块。](../questions/Q-6897.md) · [在线阅读](https://mianstack.com/question/q-6897)
 - [Q-6901 实现支持模型路由、负载均衡和 KV Cache 感知的大模型 HTTP 网关。](../questions/Q-6901.md) · [在线阅读](https://mianstack.com/question/q-6901)
+- [Q-7457 React useEffect 中如何实现每秒自增的计数器？](../questions/Q-7457.md) · [在线阅读](https://mianstack.com/question/q-7457)
+- [Q-7703 手写 Pairwise Hinge Loss，并解释排序间隔的作用。](../questions/Q-7703.md) · [在线阅读](https://mianstack.com/question/q-7703)
+- [Q-7779 用数组实现支持 O(1) 取最小值的线程安全栈。](../questions/Q-7779.md) · [在线阅读](https://mianstack.com/question/q-7779)
+- [Q-8461 用 CSS 实现左侧固定宽度、右侧自适应的两栏布局。](../questions/Q-8461.md) · [在线阅读](https://mianstack.com/question/q-8461)
+- [Q-8760 仅用 Linux 和 Nginx 基础命令，统计访问日志中出现频率最高的几个 IP。](../questions/Q-8760.md) · [在线阅读](https://mianstack.com/question/q-8760)
+- [Q-9172 用闭包实现一个每次调用返回递增整数的计数函数。](../questions/Q-9172.md) · [在线阅读](https://mianstack.com/question/q-9172)
+- [Q-9173 实现请求重试函数，支持请求参数、最大重试次数和重试间隔。](../questions/Q-9173.md) · [在线阅读](https://mianstack.com/question/q-9173)
+- [Q-9186 手写 Agent Loop 的伪代码。](../questions/Q-9186.md) · [在线阅读](https://mianstack.com/question/q-9186)
+- [Q-9221 用 Python 实现一个带参数的装饰器，并说明调用过程。](../questions/Q-9221.md) · [在线阅读](https://mianstack.com/question/q-9221)
+- [Q-9649 用 CUDA 实现 RMSNorm。](../questions/Q-9649.md) · [在线阅读](https://mianstack.com/question/q-9649)
+- [Q-9650 用 CUDA 实现数值稳定的 Softmax 和 Online Softmax。](../questions/Q-9650.md) · [在线阅读](https://mianstack.com/question/q-9650)
+- [Q-9651 用 CUDA 实现 SwiGLU。](../questions/Q-9651.md) · [在线阅读](https://mianstack.com/question/q-9651)
 
 <a id="topic-8"></a>
 ## SQL 编程题
 
 - [Q-4082 编写 SQL UPDATE 语句修改指定用户的电话号码。](../questions/Q-4082.md) · [在线阅读](https://mianstack.com/question/q-4082)
 - [Q-6793 编写 SQL 查询 Employee 表中第 N 高的薪资。](../questions/Q-6793.md) · [在线阅读](https://mianstack.com/question/q-6793)
+- [Q-8159 给定 orders 和 refunds 表，统计每个城市的总收款、总退款和付款用户数。](../questions/Q-8159.md) · [在线阅读](https://mianstack.com/question/q-8159)
+- [Q-9512 关联班级和学生表，统计每班总人数及男女生人数。](../questions/Q-9512.md) · [在线阅读](https://mianstack.com/question/q-9512)
 
 <a id="topic-9"></a>
 ## 逻辑推理与开放估算
@@ -501,3 +554,5 @@
 - [Q-6782 如何用计算机数值近似圆周率并验证误差？](../questions/Q-6782.md) · [在线阅读](https://mianstack.com/question/q-6782)
 - [Q-6785 实现两个旋转矩形的交并比计算。](../questions/Q-6785.md) · [在线阅读](https://mianstack.com/question/q-6785)
 - [Q-6796 计算各查询点到稠密折线段的最短距离。](../questions/Q-6796.md) · [在线阅读](https://mianstack.com/question/q-6796)
+- [Q-8759 使用等概率 random5 实现等概率 random7。](../questions/Q-8759.md) · [在线阅读](https://mianstack.com/question/q-8759)
+- [Q-9684 用 rand16 在三十万人中均匀抽取一万人，如何实现？](../questions/Q-9684.md) · [在线阅读](https://mianstack.com/question/q-9684)

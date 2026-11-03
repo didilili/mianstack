@@ -6,7 +6,7 @@
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。
 
-共 1,061 道题，分为 8 个专题。
+共 1,145 道题，分为 8 个专题。
 
 ## 页内导航
 
@@ -89,6 +89,10 @@
 - [Q-6099 实现基于核特征和结合律的 Linear Attention。](../questions/Q-6099.md) · [在线阅读](https://mianstack.com/question/q-6099)
 - [Q-6227 从零实现 Transformer Encoder。](../questions/Q-6227.md) · [在线阅读](https://mianstack.com/question/q-6227)
 - [Q-6232 实现 DeepNorm 的残差缩放与归一化结构。](../questions/Q-6232.md) · [在线阅读](https://mianstack.com/question/q-6232)
+- [Q-7192 Pre-Norm 与 Post-Norm 有什么区别？](../questions/Q-7192.md) · [在线阅读](https://mianstack.com/question/q-7192)
+- [Q-7707 Transformer 的计算与空间复杂度如何分析，有哪些优化方向？](../questions/Q-7707.md) · [在线阅读](https://mianstack.com/question/q-7707)
+- [Q-7708 DeepSeek 与 Qwen 采用哪些注意力方案，各有什么特点？](../questions/Q-7708.md) · [在线阅读](https://mianstack.com/question/q-7708)
+- [Q-7709 Transformer 的 FFN 内部结构是什么，有哪些替代设计？](../questions/Q-7709.md) · [在线阅读](https://mianstack.com/question/q-7709)
 
 <a id="topic-2"></a>
 ## 模型架构与表示
@@ -221,6 +225,15 @@
 - [Q-6831 词义消歧如何利用上下文确定词的具体含义？](../questions/Q-6831.md) · [在线阅读](https://mianstack.com/question/q-6831)
 - [Q-6832 fastText 如何学习文本表示并进行分类？](../questions/Q-6832.md) · [在线阅读](https://mianstack.com/question/q-6832)
 - [Q-6839 现场实现你项目中使用的网络结构。](../questions/Q-6839.md) · [在线阅读](https://mianstack.com/question/q-6839)
+- [Q-7193 MoE 与多头注意力在结构和计算分工上有什么区别？](../questions/Q-7193.md) · [在线阅读](https://mianstack.com/question/q-7193)
+- [Q-7194 带 Gate 的 Attention 与 MoE 有什么本质区别？](../questions/Q-7194.md) · [在线阅读](https://mianstack.com/question/q-7194)
+- [Q-7710 深度学习中有哪些常见归一化方法，各有什么作用和适用条件？](../questions/Q-7710.md) · [在线阅读](https://mianstack.com/question/q-7710)
+- [Q-7711 MoE 中路由专家与共享专家分别是什么，为什么同时设置？](../questions/Q-7711.md) · [在线阅读](https://mianstack.com/question/q-7711)
+- [Q-8457 大语言模型的最后一层输出头是什么，输出张量的形状如何确定？](../questions/Q-8457.md) · [在线阅读](https://mianstack.com/question/q-8457)
+- [Q-9139 项目中的模型架构如何设计，为什么这样设计？](../questions/Q-9139.md) · [在线阅读](https://mianstack.com/question/q-9139)
+- [Q-9619 MoE 专家分工与流水线处理在结构和执行上有什么区别？](../questions/Q-9619.md) · [在线阅读](https://mianstack.com/question/q-9619)
+- [Q-9633 神经网络中的 Gate 门控机制如何调节信息流？](../questions/Q-9633.md) · [在线阅读](https://mianstack.com/question/q-9633)
+- [Q-9723 MoE 路由未匹配预期专家时，怎样设计监督或惩罚？](../questions/Q-9723.md) · [在线阅读](https://mianstack.com/question/q-9723)
 
 <a id="topic-3"></a>
 ## Tokenizer 与位置编码
@@ -250,6 +263,9 @@
 - [Q-5664 多模态位置编码如何表达文本、图像和视频的空间与时间位置？](../questions/Q-5664.md) · [在线阅读](https://mianstack.com/question/q-5664)
 - [Q-5901 RoPE 相邻维配对与半区配对的实现有何差异，如何判断等价？](../questions/Q-5901.md) · [在线阅读](https://mianstack.com/question/q-5901)
 - [Q-6254 用基础操作实现一个简单 Tokenizer。](../questions/Q-6254.md) · [在线阅读](https://mianstack.com/question/q-6254)
+- [Q-8765 M-RoPE 相比原生 RoPE 做了哪些改动，有什么优势？](../questions/Q-8765.md) · [在线阅读](https://mianstack.com/question/q-8765)
+- [Q-8766 在使用 M-RoPE 之前，视频的帧与 Patch 通常如何组织 RoPE 位置？](../questions/Q-8766.md) · [在线阅读](https://mianstack.com/question/q-8766)
+- [Q-9623 为代码补全 Agent 设计 Tokenizer 时，需要处理哪些问题？](../questions/Q-9623.md) · [在线阅读](https://mianstack.com/question/q-9623)
 
 <a id="topic-4"></a>
 ## 推理与解码
@@ -282,6 +298,9 @@
 - [Q-6346 什么是 Overthinking，如何识别并控制过度推理？](../questions/Q-6346.md) · [在线阅读](https://mianstack.com/question/q-6346)
 - [Q-6658 DFlash 如何用块扩散草稿模型加速投机解码？](../questions/Q-6658.md) · [在线阅读](https://mianstack.com/question/q-6658)
 - [Q-6829 Token 信息熵能否识别推理关键节点，如何验证？](../questions/Q-6829.md) · [在线阅读](https://mianstack.com/question/q-6829)
+- [Q-7131 大模型从输入文本到生成输出的完整推理流程是什么，核心组件如何协作？](../questions/Q-7131.md) · [在线阅读](https://mianstack.com/question/q-7131)
+- [Q-9269 大模型推理中的 Thinking Mode 如何影响输出过程与资源开销？](../questions/Q-9269.md) · [在线阅读](https://mianstack.com/question/q-9269)
+- [Q-9615 困惑度的含义是什么，语言模型预训练还使用哪些概率类评估指标？](../questions/Q-9615.md) · [在线阅读](https://mianstack.com/question/q-9615)
 
 <a id="topic-5"></a>
 ## 推理优化与模型压缩
@@ -367,6 +386,28 @@
 - [Q-6424 扩散模型如何在去噪步骤间复用特征并控制缓存误差？](../questions/Q-6424.md) · [在线阅读](https://mianstack.com/question/q-6424)
 - [Q-6878 FlashDecoding 如何并行长 KV 序列，与 FlashAttention 有何区别？](../questions/Q-6878.md) · [在线阅读](https://mianstack.com/question/q-6878)
 - [Q-6882 低比特量化 GEMM 如何融合解包、反量化与矩阵乘来提高效率？](../questions/Q-6882.md) · [在线阅读](https://mianstack.com/question/q-6882)
+- [Q-7482 vLLM 从接收请求到逐 Token 生成的推理流程是什么？](../questions/Q-7482.md) · [在线阅读](https://mianstack.com/question/q-7482)
+- [Q-7803 本地部署大模型推理时，显存由哪些部分构成，如何估算？](../questions/Q-7803.md) · [在线阅读](https://mianstack.com/question/q-7803)
+- [Q-7908 用 CUDA 实现 FlashAttention 时，应关注哪些计算和访存优化？](../questions/Q-7908.md) · [在线阅读](https://mianstack.com/question/q-7908)
+- [Q-7910 稀疏矩阵向量乘 SpMV 如何实现，CSR 与 COO 格式怎样影响计算？](../questions/Q-7910.md) · [在线阅读](https://mianstack.com/question/q-7910)
+- [Q-8347 部署小模型时，如何降低推理时延，尤其是 Prefill 阶段的时延？](../questions/Q-8347.md) · [在线阅读](https://mianstack.com/question/q-8347)
+- [Q-8348 新请求的 Prefill 会不会抢占正在 Decode 的请求，如何设计混合调度？](../questions/Q-8348.md) · [在线阅读](https://mianstack.com/question/q-8348)
+- [Q-8350 W8A16 量化模型在 Forward 中怎样完成权重读取和计算？](../questions/Q-8350.md) · [在线阅读](https://mianstack.com/question/q-8350)
+- [Q-8878 模型量化有哪些收益、常用算法和量化对象？](../questions/Q-8878.md) · [在线阅读](https://mianstack.com/question/q-8878)
+- [Q-9294 端侧模型文件大小与运行时内存占用有什么区别，如何核算完整内存开销？](../questions/Q-9294.md) · [在线阅读](https://mianstack.com/question/q-9294)
+- [Q-9295 端侧推理的预处理应放在 CPU 还是硬件加速器上，如何取舍？](../questions/Q-9295.md) · [在线阅读](https://mianstack.com/question/q-9295)
+- [Q-9296 端侧模型推理耗时如何分阶段统计，首次运行与预热后有什么差异？](../questions/Q-9296.md) · [在线阅读](https://mianstack.com/question/q-9296)
+- [Q-9298 模型权重与中间结果的内存由谁分配和释放，如何管理生命周期？](../questions/Q-9298.md) · [在线阅读](https://mianstack.com/question/q-9298)
+- [Q-9300 INT8 量化如何把浮点值映射为整数，scale 与 zero-point 各有什么作用？](../questions/Q-9300.md) · [在线阅读](https://mianstack.com/question/q-9300)
+- [Q-9301 对称与非对称量化、按张量与按通道量化有什么区别？](../questions/Q-9301.md) · [在线阅读](https://mianstack.com/question/q-9301)
+- [Q-9302 训练后量化 PTQ 与量化感知训练 QAT 有什么区别，各有什么代价？](../questions/Q-9302.md) · [在线阅读](https://mianstack.com/question/q-9302)
+- [Q-9303 模型在电脑上正常、部署到板子后结果异常时，如何排查？](../questions/Q-9303.md) · [在线阅读](https://mianstack.com/question/q-9303)
+- [Q-9304 模型推理中如何减少输入、输出及中间数据的搬运？](../questions/Q-9304.md) · [在线阅读](https://mianstack.com/question/q-9304)
+- [Q-9306 多个模型同时运行时，如何安排执行顺序和计算资源？](../questions/Q-9306.md) · [在线阅读](https://mianstack.com/question/q-9306)
+- [Q-9644 实习中做过哪些 Attention 架构或工程优化，如何验证收益？](../questions/Q-9644.md) · [在线阅读](https://mianstack.com/question/q-9644)
+- [Q-9645 模型推理中如何界定长序列，哪些成本会随长度增长？](../questions/Q-9645.md) · [在线阅读](https://mianstack.com/question/q-9645)
+- [Q-9647 MLA 与 SFA 注意力有什么区别？](../questions/Q-9647.md) · [在线阅读](https://mianstack.com/question/q-9647)
+- [Q-9838 怎样优化离线模型推理的整体吞吐？](../questions/Q-9838.md) · [在线阅读](https://mianstack.com/question/q-9838)
 
 <a id="topic-6"></a>
 ## 多模态与生成模型
@@ -686,6 +727,23 @@
 - [Q-6618 自动驾驶算法出现异常行为时，如何定位责任环节并验证改进？](../questions/Q-6618.md) · [在线阅读](https://mianstack.com/question/q-6618)
 - [Q-6835 如何将生物信号接入大语言模型完成目标任务？](../questions/Q-6835.md) · [在线阅读](https://mianstack.com/question/q-6835)
 - [Q-6892 卷积如何通过 im2col 转换为 GEMM，有哪些代价？](../questions/Q-6892.md) · [在线阅读](https://mianstack.com/question/q-6892)
+- [Q-7199 Qwen2.5-VL 的模型结构与主要能力是什么？](../questions/Q-7199.md) · [在线阅读](https://mianstack.com/question/q-7199)
+- [Q-8352 多模态特征融合应如何选择早期融合与晚期融合？](../questions/Q-8352.md) · [在线阅读](https://mianstack.com/question/q-8352)
+- [Q-8768 VLM 定位任务为什么输出点坐标，而不是边界框？](../questions/Q-8768.md) · [在线阅读](https://mianstack.com/question/q-8768)
+- [Q-8769 SAM2 图像分割模型的核心原理是什么？](../questions/Q-8769.md) · [在线阅读](https://mianstack.com/question/q-8769)
+- [Q-8772 主流多模态模型有哪些类型，分别如何组织跨模态输入与输出？](../questions/Q-8772.md) · [在线阅读](https://mianstack.com/question/q-8772)
+- [Q-8797 AI 漫剧怎样保持人物设定与画风一致？](../questions/Q-8797.md) · [在线阅读](https://mianstack.com/question/q-8797)
+- [Q-9143 VLA 的基本架构是什么？](../questions/Q-9143.md) · [在线阅读](https://mianstack.com/question/q-9143)
+- [Q-9144 VLA 中的 Observation 与 Action 如何建模？](../questions/Q-9144.md) · [在线阅读](https://mianstack.com/question/q-9144)
+- [Q-9145 自回归策略与扩散策略有什么区别？](../questions/Q-9145.md) · [在线阅读](https://mianstack.com/question/q-9145)
+- [Q-9146 VLM 与 VLA 有什么区别？](../questions/Q-9146.md) · [在线阅读](https://mianstack.com/question/q-9146)
+- [Q-9267 Qwen2-VL 与 Qwen3.5-VL 对图片和视频输入的编码有何差异？](../questions/Q-9267.md) · [在线阅读](https://mianstack.com/question/q-9267)
+- [Q-9268 多模态模型处理高分辨率图片与长文档有哪些难点，如何压缩并组织文档结构？](../questions/Q-9268.md) · [在线阅读](https://mianstack.com/question/q-9268)
+- [Q-9618 ViT 如何从输入图像得到视觉特征？](../questions/Q-9618.md) · [在线阅读](https://mianstack.com/question/q-9618)
+- [Q-9621 视觉语言模型的 Adapter 有哪些类型，Q-Former 如何工作？](../questions/Q-9621.md) · [在线阅读](https://mianstack.com/question/q-9621)
+- [Q-9622 图像生成模型有哪些主要技术架构，如何比较各自的迭代路线？](../questions/Q-9622.md) · [在线阅读](https://mianstack.com/question/q-9622)
+- [Q-9629 SAM、SAM 2 与 SAM 3 的模型架构和任务能力有什么区别？](../questions/Q-9629.md) · [在线阅读](https://mianstack.com/question/q-9629)
+- [Q-9630 多实例人脸视频跟踪遇到镜头切换时，如何保持身份关联？](../questions/Q-9630.md) · [在线阅读](https://mianstack.com/question/q-9630)
 
 <a id="topic-7"></a>
 ## 机器学习与推荐系统
@@ -1056,6 +1114,23 @@
 - [Q-7000 优惠券核销概率如何建模，优惠力度与投放时间有什么影响？](../questions/Q-7000.md) · [在线阅读](https://mianstack.com/question/q-7000)
 - [Q-7001 静态用户属性与历史行为序列如何共同作为分类模型的输入？](../questions/Q-7001.md) · [在线阅读](https://mianstack.com/question/q-7001)
 - [Q-7002 推荐系统如何平衡探索与利用？](../questions/Q-7002.md) · [在线阅读](https://mianstack.com/question/q-7002)
+- [Q-7197 随机下采样负样本会怎样影响 AUC？](../questions/Q-7197.md) · [在线阅读](https://mianstack.com/question/q-7197)
+- [Q-7600 项目中的个性化推荐算法如何实现，整体流程是什么？](../questions/Q-7600.md) · [在线阅读](https://mianstack.com/question/q-7600)
+- [Q-7700 生成式推荐为什么使用大模型学习 ID 表征，而非传统 ID 向量化？](../questions/Q-7700.md) · [在线阅读](https://mianstack.com/question/q-7700)
+- [Q-7701 SID 表征相比普通商品 ID Embedding 有什么优势，为什么更容易学习？](../questions/Q-7701.md) · [在线阅读](https://mianstack.com/question/q-7701)
+- [Q-7702 MiniOneRec 的推荐模型架构是什么，如何利用 SID 改善推荐？](../questions/Q-7702.md) · [在线阅读](https://mianstack.com/question/q-7702)
+- [Q-7704 RQ-VAE 如何处理离散量化并让梯度传回编码器？](../questions/Q-7704.md) · [在线阅读](https://mianstack.com/question/q-7704)
+- [Q-7705 RQ-VAE 的参数量、码本数量和 SID Token 组合如何设计？](../questions/Q-7705.md) · [在线阅读](https://mianstack.com/question/q-7705)
+- [Q-7706 RQ-VAE 如何生成商品的 SID 表征，编码与解码各承担什么作用？](../questions/Q-7706.md) · [在线阅读](https://mianstack.com/question/q-7706)
+- [Q-8351 生成式排序中，如何将时间衰减引入打分？](../questions/Q-8351.md) · [在线阅读](https://mianstack.com/question/q-8351)
+- [Q-8353 内容理解任务类别很多、标注数据不足时，如何构建和改进模型？](../questions/Q-8353.md) · [在线阅读](https://mianstack.com/question/q-8353)
+- [Q-8355 推荐模型上线后核心指标下降，应从哪些环节定位？](../questions/Q-8355.md) · [在线阅读](https://mianstack.com/question/q-8355)
+- [Q-8356 特征穿越是什么，如何防止使用预测时尚不可获得的信息？](../questions/Q-8356.md) · [在线阅读](https://mianstack.com/question/q-8356)
+- [Q-8864 你对具身机器人方向有哪些了解？](../questions/Q-8864.md) · [在线阅读](https://mianstack.com/question/q-8864)
+- [Q-9159 评论情感分析为什么通常采用监督学习，而不是无监督学习？](../questions/Q-9159.md) · [在线阅读](https://mianstack.com/question/q-9159)
+- [Q-9634 如何分析游戏玩家数量与付费价格曲线的统计分布？](../questions/Q-9634.md) · [在线阅读](https://mianstack.com/question/q-9634)
+- [Q-9698 正弦与余弦函数有什么区别和联系？](../questions/Q-9698.md) · [在线阅读](https://mianstack.com/question/q-9698)
+- [Q-9801 是否在课题中应用过机器学习或深度学习，解决什么问题？](../questions/Q-9801.md) · [在线阅读](https://mianstack.com/question/q-9801)
 
 <a id="topic-8"></a>
 ## 模型选型与能力边界
@@ -1111,3 +1186,12 @@
 - [Q-6605 大语言模型有哪些主要能力优势与使用局限？](../questions/Q-6605.md) · [在线阅读](https://mianstack.com/question/q-6605)
 - [Q-6811 如何依据任务与瓶颈选择大模型优化算法？](../questions/Q-6811.md) · [在线阅读](https://mianstack.com/question/q-6811)
 - [Q-6834 如何判断大语言模型的发展瓶颈、改进方向与能力上限？](../questions/Q-6834.md) · [在线阅读](https://mianstack.com/question/q-6834)
+- [Q-8162 你对人工智能技术有哪些了解？](../questions/Q-8162.md) · [在线阅读](https://mianstack.com/question/q-8162)
+- [Q-8767 垂直业务为什么选择通用 VLM，而不是领域专用模型？](../questions/Q-8767.md) · [在线阅读](https://mianstack.com/question/q-8767)
+- [Q-8808 使用 DeepSeek V3 与 V4 的实际体验有什么区别？](../questions/Q-8808.md) · [在线阅读](https://mianstack.com/question/q-8808)
+- [Q-8811 你如何理解 AIGC 及其应用？](../questions/Q-8811.md) · [在线阅读](https://mianstack.com/question/q-8811)
+- [Q-9217 你了解或使用过哪些 AI 厂商和模型，它们的能力特点是什么？](../questions/Q-9217.md) · [在线阅读](https://mianstack.com/question/q-9217)
+- [Q-9627 项目为什么没有选用当时的 SOTA 模型？](../questions/Q-9627.md) · [在线阅读](https://mianstack.com/question/q-9627)
+- [Q-9628 项目实验中是否尝试过大模型 API，如何比较结果？](../questions/Q-9628.md) · [在线阅读](https://mianstack.com/question/q-9628)
+- [Q-9639 如何判断 Qwen3.5-9B 原生支持哪些工具使用和 Agent 能力？](../questions/Q-9639.md) · [在线阅读](https://mianstack.com/question/q-9639)
+- [Q-9659 已有大模型兜底时，为什么仍要训练或微调小模型？](../questions/Q-9659.md) · [在线阅读](https://mianstack.com/question/q-9659)
