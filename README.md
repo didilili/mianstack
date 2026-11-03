@@ -4,87 +4,42 @@
 
 ### 真面经，好答案。面试之前，先来面栈。
 
-**免费开源的 AI 面试宝藏库，你的下一场面试，从这里开始准备。**
-
-大厂面经、技术题库、项目追问、实战教程、简历与面试攻略——把散落各处的备考资料，装进一个面栈。
+**免费开源的 AI 面试题库，大厂面经、技术题、项目面试，一站备齐。**
 
 <p>
   <a href="INDEX.md"><img alt="6,900+ 道面试题" src="https://img.shields.io/badge/面试题-6%2C900%2B-FF6000?style=flat-square"></a>
-  <a href="indexes/interviews.md"><img alt="680+ 篇真实面经" src="https://img.shields.io/badge/真实面经-680%2B-FF6000?style=flat-square"></a>
   <a href="INDEX.md#current-content"><img alt="600+ 道参考答案" src="https://img.shields.io/badge/参考答案-600%2B-FF6000?style=flat-square"></a>
-  <a href="#knowledge-directions"><img alt="8 个知识方向" src="https://img.shields.io/badge/知识方向-8-2D333B?style=flat-square"></a>
+  <a href="indexes/interviews.md"><img alt="680+ 篇真实面经" src="https://img.shields.io/badge/真实面经-680%2B-FF6000?style=flat-square"></a>
+  <a href="indexes/collections.md"><img alt="350+ 份公开题集" src="https://img.shields.io/badge/公开题集-350%2B-FF6000?style=flat-square"></a>
 </p>
 
-**[🚀 开始备考](https://mianstack.com/must-review/)** · [🏢 看目标公司问什么](https://mianstack.com/company/) · [📚 浏览开源题库](INDEX.md) · [🛠️ 配套实战教程](#project-learning) · [🤝 一起完善面栈](#contributing)
+**[🚀 在线刷题](https://mianstack.com/question/)** · [🔥 面试有料](https://mianstack.com/topics/) · [🏢 查公司面经](https://mianstack.com/company/) · [💼 项目拆解](https://mianstack.com/project/) · [📚 GitHub 题库](INDEX.md)
 
 </div>
 
-覆盖 **Agent、RAG、LLM、模型训练与 AI 工程**，一路延伸到数据库、算法和项目面试。临时突击有重点，长期备考有路线，项目被追问也能提前练。
+准备 **AI Agent、大模型应用开发、RAG 及相关工程岗位**，技术要复习，项目要准备，数据库、网络和算法也不能落下。面栈把这些面试题、参考答案和公开面经集中整理，校招、社招、转岗都能按自己的方向查找。
 
-在 **[mianstack.com](https://mianstack.com/)** 搜题、看面经、读答案、记进度；在 **GitHub** 直接阅读、收藏、参与完善。网站免费使用，本仓库提供题目、来源、全部已有参考答案、数据格式与维护工具。项目档案、题目与来源的对应关系及网站编排由网站单独维护。
+**网站免费使用，无需注册。** 可以按公司查面经、按知识点找题，直接读参考答案；也有整理好的面试专题、项目简历示例、自我介绍和面试反问指南。题目和已有参考答案都在本仓库开源，可直接在 GitHub 阅读。
 
-[![面栈：看真实面经、读面试题和参考答案、按知识方向复习](assets/readme/mianstack-overview.png)](https://mianstack.com/)
+[![面栈：真实面经、面试题与参考答案、按方向复习](assets/readme/mianstack-overview.png)](https://mianstack.com/)
 
-## 🔗 看一道题，走进两场真实面试
+## 🔥 面试要准备什么，这里直接找
 
-比如 **[Workflow 和 Agent 有什么区别？](questions/Q-0140.md)**，面试官是这样问的：
+- **查目标公司问过什么。** 字节、阿里、腾讯、美团、百度等公司的公开面经，按岗位、技术方向、校招社招和面试轮次筛选。能看原帖内容、实际提问，也能点进对应题目读参考答案。**[按公司查面经 →](https://mianstack.com/company/)**
 
-- [恒生电子 · AI 开发工程师](interviews/MJ-NC-2026-0586.md)：“Agent 和 Workflow 的区别，分别适合什么场景？”
-- [阿里巴巴 · AI 应用研发工程师](interviews/MJ-NC-2026-0579.md)：“Workflow和自治Agent的区别是什么？什么场景更适合Workflow”
+- **复习技术题，直接看考点和答案。** Agent、RAG、模型原理、训练、数据库、网络、算法等按方向整理，支持搜索和专题、题型、难度筛选。已有 **600+ 道参考答案**，结合原理解释、方案对比、代码、图解和常见追问展开；列表标明哪些题已有答案。题目页还可以把问题一键带到 Kimi、千问或 ChatGPT 继续问。**[进入题库 →](https://mianstack.com/question/)**
 
-先抓住回答主线：
+- **想集中准备，就看「面试有料」。** 按公司和技术主题整理好的题单，每题可展开参考回答、查看来源。例如 [字节 AI 应用面试](https://mianstack.com/topics/bytedance-ai-development-recurring/)、[RAG 项目面试](https://mianstack.com/topics/rag-retrieval-pipeline/)、[Agent 基础面试](https://mianstack.com/topics/agent-foundations-harness/)，选一份就能开始复习。**[浏览全部专题 →](https://mianstack.com/topics/)**
 
-> **核心区别是下一步由谁决定。** Workflow 由开发者预设主要步骤和转移规则；Agent 在允许的工具和权限范围内，根据目标和执行反馈选择下一步。
+- **考前时间紧，先过「面前必看」。** 网站按八个方向选出 60 道核心题，覆盖技术基础与项目问题。读过的题可以标为「待复习」或「已掌握」，题目、面经和公司都能收藏；下次打开「我的复习」，接着上次看。复习记录保存在当前浏览器。**[面前必看 →](https://mianstack.com/must-review/)** · **[我的复习 →](https://mianstack.com/study/)**
 
-再沿着参考答案继续练：**用了 LangGraph 就是 Agent 吗？单 Agent 和多 Agent 怎么选？固定流程与动态决策能不能组合？**
-
-一道题，把**原始问法、参考答案、延伸追问和配套教程**串起来。在网站里，还能点回对应面经，看看同场面试前后问了什么。
-
-**[在网站体验这道题 →](https://mianstack.com/question/q-0140/)** · [在 GitHub 看完整答案](questions/Q-0140.md)
-
-## ✨ 为什么值得放进你的备考收藏夹
-
-### 🔥 大厂怎么问，来这里看
-
-字节、阿里、腾讯、美团、百度……沿着真实面经，看看目标公司的面试官在关心什么。按公司、岗位、招聘类型和轮次筛选，把复习范围缩到眼前这场面试。
-
-面栈保留牛客、小红书等公开面经中的原始提问、作者与出处，也收录有明确来源的公开题集。同一个知识点怎样换着问、前后怎样追问，都有材料可看。
-
-### 🧠 从核心回答，一路读到深度追问
-
-已有参考答案从直接回答切入，再结合场景解释原理、实现步骤和方案取舍。遇到抽象的机制，还有图解、代码或数值示例帮助理解，顺着参考资料可以继续深挖。
-
-从“我知道这个概念”，练到“我能把它讲清楚”。想先体验一题，可以看看 **[Attention 究竟怎么算](questions/Q-0036.md)**。
-
-### 💼 项目面试，提前开练
-
-项目背景、系统架构、技术选型、个人贡献、难点排查、效果验证——面试官喜欢深挖的地方，提前准备。
-
-结合开源项目与实战教程，练习不同业务和技术栈下的项目回答。比如 **[项目介绍题](questions/Q-0002.md)**，提供经营问数、设备售后知识助手等行业场景示例，分别展开架构、职责和难点。把做项目、理解项目、介绍项目连起来，让简历上的每一行都有内容可讲。
-
-### 📌 临时突击有重点，长期复习有进度
-
-面试快到了，先过「面前必看」；想集中补课，按知识方向、专题、题型和难度筛题；想先练有更多面经记录的题，[网站题库](https://mianstack.com/question/)默认按关联面经数量排序。
-
-收藏想看的题目、面经和公司，把没讲清楚的题标记为「待复习」，掌握后标为「已掌握」。下次打开「我的复习」，接着上次的位置继续。收藏和复习记录保存在当前浏览器。
-
-## 🚀 选一条路线，马上开练
-
-| 你现在的状态           | 直接出发                                                                                                                                                                             |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 面试快到了，想快速突击 | [先过「面前必看」](https://mianstack.com/must-review/)，再练[自我介绍](https://mianstack.com/prepare/self-introduction/)和[面试反问](https://mianstack.com/prepare/ask-interviewer/) |
-| 已经锁定目标公司       | [按公司找面经](https://mianstack.com/company/)，看看同类岗位实际问过什么                                                                                                             |
-| 想系统补课、打磨项目   | 从下面的[八大知识方向](#knowledge-directions)补薄弱项，配合[实战教程与项目](#project-learning)练表达                                                                                 |
-
-继续上次的进度，打开 **[我的复习](https://mianstack.com/study/)**。简历、经历梳理和行为题，去 **[面试准备](https://mianstack.com/prepare/)** 一起搞定。
+- **简历、开场介绍和反问，也有现成参考。** 从经历怎么写、自我介绍怎么组织，到行为题和面试最后该问什么，分别提供写法、结构与示例。**[简历与经历](https://mianstack.com/prepare/resume-and-experience/)** · **[自我介绍](https://mianstack.com/prepare/self-introduction/)** · **[行为面试](https://mianstack.com/prepare/common-and-behavioral/)** · **[面试反问](https://mianstack.com/prepare/ask-interviewer/)**
 
 <a id="knowledge-directions"></a>
 
-## 🧭 八大方向，铺开 AI 面试知识版图
+## 📚 AI 技术、软件基础，八大方向集中复习
 
-从模型原理到工程落地，从技术基础到项目追问，按方向找、按专题练，把备考清单逐个点亮。
-
-| 方向                                           | 重点内容                                                                |
+| 方向                                           | 题库内容                                                                |
 | ---------------------------------------------- | ----------------------------------------------------------------------- |
 | [模型基础与推理](indexes/llm.md)               | Transformer、Attention、解码、KV Cache、多模态与模型选型                |
 | [RAG 与知识系统](indexes/rag.md)               | 文档切分、混合检索、重排、知识更新、GraphRAG、Text-to-SQL 与评测        |
@@ -93,38 +48,49 @@
 | [模型训练与对齐](indexes/training.md)          | 预训练、SFT、LoRA、偏好对齐、强化学习与分布式训练                       |
 | [软件工程基础](indexes/software.md)            | 语言与框架、网络、数据库、缓存、并发与分布式系统                        |
 | [算法与编程题](indexes/coding.md)              | 数据结构、经典算法、SQL、手写代码与逻辑推理                             |
-| [项目与综合面试](indexes/career.md)            | 项目介绍、你负责了什么、为什么这样设计、实习经历、团队协作与反问面试官  |
+| [项目与综合面试](indexes/career.md)            | 项目介绍、架构与选型、个人职责、实习经历、团队协作与面试反问            |
 
-其他入口：[全部题目](INDEX.md) · [真实面经](indexes/interviews.md) · [公开题集](indexes/collections.md) · [简历、自我介绍与面试准备](https://mianstack.com/prepare/)
+还有 **[真实面经](indexes/interviews.md)** 和 **[公开题集](indexes/collections.md)**。题集保留发布者、原题与出处，可以对照不同作者整理的题目查漏补缺。完整收录与答案数量见 **[当前内容](INDEX.md#current-content)**。
 
 <a id="project-learning"></a>
 
-## 🛠️ 跑得起项目，也讲得清项目
+## 💼 项目面试：简历示例、技术选型、个人贡献和难点
 
-配套 **[ai-agents-from-zero · AI 智能体实战教程](https://github.com/didilili/ai-agents-from-zero)**，把 RAG、Agent、LangChain、LangGraph 学起来，把案例和项目跑起来，再回面栈练对应知识点和项目追问。
+网站的 **[项目拆解](https://mianstack.com/project/)** 收录电商问数、深度研搜、RAGFlow、Dify、OpenCode 等开源项目，提供项目介绍、技术栈、源码入口、简历写法和对应面试题。准备把项目写进简历，或者已经在做相关项目，都可以按项目和技术方向查找。
 
-两条实战路线，直接开练：
+项目回答会具体展开架构、方案选择、职责、排查过程和验证方法；部分题目提供不同业务、不同技术栈的场景示例。参考时可以对照自己实际使用的技术与完成的工作。
 
-- **[电商问数](https://github.com/didilili/shopkeeper-agent)**：NL2SQL + LangGraph，从自然语言问题走到数据查询结果，练检索上下文、流程设计、异常处理与业务口径。
-- **[深度研搜](https://github.com/didilili/deepsearch-agents)**：DeepAgents 多智能体实战，练任务拆分、信息检索、工具调用与协作机制。
+需要先补开发基础，配套 **[ai-agents-from-zero · AI 智能体实战教程](https://github.com/didilili/ai-agents-from-zero)** 提供系统教程、案例代码与完整项目源码，覆盖大模型、Prompt、RAG、MCP、LangChain、LangGraph 和多智能体开发。
 
-**为什么这样选、自己负责了什么、效果怎么验证、遇到问题怎么解决。** 让项目经历里的这些问题，都有具体内容可讲。
+两个已完成的实战项目，可以直接跟着做：
 
-## 🧩 开源题库，欢迎玩出新花样
+| 项目         | 做什么                                       | 技术重点                                                 | 教程与源码                                                                                                                                            |
+| ------------ | -------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **电商问数** | 用自然语言查询经营数据，生成并执行 SQL       | NL2SQL、LangGraph、MySQL、Qdrant、Elasticsearch、FastAPI | [教程](https://github.com/didilili/ai-agents-from-zero/blob/main/实战项目-电商问数/0-前言.md) · [源码](https://github.com/didilili/shopkeeper-agent)  |
+| **深度研搜** | 多智能体协作检索资料、查询数据和生成研究报告 | DeepAgents、任务拆分、工具调用、多来源检索               | [教程](https://github.com/didilili/ai-agents-from-zero/blob/main/实战项目-深度研搜/0-前言.md) · [源码](https://github.com/didilili/deepsearch-agents) |
 
-题目、参考答案与面经原文保存在 **Markdown** 中，公开题集的原题与出处保存在 **JSON** 中。直接在 GitHub 阅读，或者用这些数据制作自己的检索、复习工具和阅读网站，都有现成入口。
+<a id="contributing"></a>
 
-使用方式见 **[数据使用说明](USAGE.md)**；最新题量、面经与答案数量见 **[当前内容](INDEX.md#current-content)**。
+## 🤝 一起完善题库
+
+欢迎分享面试新题、补充答案，也欢迎直接指出技术错误。**发个 Issue 就能参与，不用安装项目。**
+
+- **[完善一道题](https://github.com/didilili/mianstack/issues/new?template=question-improvement.yml)**：提供题号或链接，写下问题和建议。
+- **[分享一篇面经](https://github.com/didilili/mianstack/issues/new?template=interview-submission.yml)**：分享自己的面试经历，或提供牛客、小红书等公开原帖链接。
+
+具体方式见 **[贡献指南](CONTRIBUTING.md)**。
 
 <details>
-<summary><strong>展开查看仓库内容与开发入口</strong></summary>
+<summary><strong>数据复用与仓库目录</strong></summary>
+
+题目、参考答案与面经原文使用 Markdown 保存，公开题集的原题与出处使用 JSON 保存。除了直接阅读，也可以用这些内容制作自己的检索、复习工具或阅读网站。读取方式见 **[数据使用说明](USAGE.md)**。
 
 ```text
 mianstack/
 ├── questions/        # 面试题、考点与参考答案
-├── assets/questions/ # 按题号保存的答案配图
+├── assets/questions/ # 答案配图
 ├── interviews/       # 面经出处、公司岗位与原帖内容
-├── collections/      # 公开题集里的题目与出处
+├── collections/      # 公开题集里的原题与出处
 ├── indexes/          # 自动生成的题库目录
 ├── schema/           # 字段与引用规则
 ├── examples/         # 题目与面经文件示例
@@ -135,22 +101,11 @@ mianstack/
 └── publishers.json   # 公开题集发布者
 ```
 
-题号固定，不会重新排序或重复使用。公开题库可以按知识方向独立阅读；题目与原始问法、面经和前后追问的关联，以及题集对应的标准题，在网站中查看。
+题号固定，不会重新排序或重复使用。网站中的项目档案、题目与来源的关联及专题编排由网站单独维护，不包含在本仓库的数据中。
 
 字段与维护方式见[字段说明](schema/README.md)、[维护说明](MAINTAINING.md)和[变更记录](CHANGELOG.md)。
 
 </details>
-
-<a id="contributing"></a>
-
-## 🤝 你遇到的那道追问，也值得被更多人看见
-
-欢迎把你的面试经历、解题思路和纠错建议带来，一起把面栈做得更全、更好用。
-
-- **[完善一道题](https://github.com/didilili/mianstack/issues/new?template=question-improvement.yml)**：指出技术错误，补充解释，分享更清楚的参考答案。
-- **[分享一篇面经](https://github.com/didilili/mianstack/issues/new?template=interview-submission.yml)**：写下自己的面试经历，或提供牛客、小红书等公开面经链接。
-
-**发个 Issue 就能参与。** 维护者会核对来源、整理内容并检查网站展示，具体方式见[贡献指南](CONTRIBUTING.md)。
 
 ## 📄 许可证
 
@@ -160,6 +115,4 @@ mianstack/
 
 ---
 
-**如果你正在准备 AI 面试，先点个 ⭐ Star，把这份宝藏库放进收藏夹。**
-
-免费、开源、持续更新。也欢迎转给那个正在被项目追问“拷打”的朋友——下一场 AI 面试，一起准备。
+**觉得有用，点个 ⭐ Star，面试前回来查。** 也欢迎分享给正在准备 AI 岗位的朋友。
