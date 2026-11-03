@@ -99,11 +99,11 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 
 | 字段                  | 固定中文名称   | 类型     | 约束                                             |
 | --------------------- | -------------- | -------- | ------------------------------------------------ |
-| `company`             | 所属公司       | string   | 当前记录对应的公司或组织                         |
+| `company`             | 所属公司       | string   | 当前记录对应的公司或组织；名称缺失填“公司未注明” |
 | `business`            | 业务方向       | string   | 可选；有内容时填写                               |
 | `department`          | 部门           | string   | 可选；有内容时填写                               |
-| `roleFamily`          | 岗位职能       | string   | 可选；主职能单值，取值见 schema 的 `roleFamily`  |
-| `role`                | 岗位           | string   | 可为空                                           |
+| `roleFamily`          | 岗位分类       | string   | 可选；主职能单值，取值见 schema 的 `roleFamily`  |
+| `role`                | 岗位名称       | string   | 可为空                                           |
 | `roleMethod`          | 岗位判定方式   | enum     | 取值见 schema 的 `roleMethod`                    |
 | `roleConfidence`      | 岗位置信度     | enum     | 可选；取值见 schema 的 `roleConfidence`          |
 | `roleDirections`      | 标准化技术方向 | string[] | 可选；受控多值，取值见 schema 的 `roleDirection` |
@@ -117,9 +117,13 @@ frontmatter 保存来源身份和检索元数据，正文保存当前已收录�
 
 加载器根据 schema 中 `roleMethod` 的分组自动生成 `contexts[].roleInferred`，frontmatter 不重复保存该字段：`原文明示`、`职责支持` 和 `资料不足` 对应 `false`；`面试内容推测`、`标题与索引推断` 和 `职责推断` 对应 `true`，并填写高、中或低置信度。`职责支持` 表示来源正文直接说明了岗位职责，足以规范化岗位名称；`职责推断` 表示仅能根据职责线索推测岗位。`资料不足` 的置信度固定为 `不可判定`。
 
+`roleMethod` 为 `资料不足` 时，`role` 必须为空字符串，并省略 `roleFamily`；有依据的技术方向仍可保留。来源已明确但宽泛的岗位名不属于岗位未知：保留该名称及 `原文明示`，主职能证据不足时只省略 `roleFamily`。
+
 面经的 `publishedAt`、`publicationRegion`、`result`、`statusReason` 及 `contexts[]` 中的可选字段没有内容时直接省略，不写空字符串或空数组。统一加载器补全相应空值，消费端保持稳定结构；推断岗位仍必须填写符合要求的置信度。
 
 `contexts` 是公司、岗位、轮次等组合关系的唯一权威数据。即使只有一条公司与岗位记录，也保留一个 `contexts[]` 项，避免单条与多条记录采用两套结构。供展示与检索使用的顶层摘要只由统一加载器动态生成，不在 Markdown 中重复保存。
+
+公司名称缺失的统一值及兼容别名定义于 schema 的 `$defs.companyName` 元数据；共享识别函数位于 `scripts/lib/company-names.mjs`。归档字段只使用统一值，兼容别名用于检索与旧链接，不表示一家真实公司。城市、业务和已知组织范围保留在对应场景中。
 
 frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 

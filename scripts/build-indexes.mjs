@@ -277,8 +277,15 @@ const interviewLines = [
 for (const [index, [company, items]] of sortedInterviewGroups.entries()) {
   interviewLines.push(`<a id="company-${index + 1}"></a>`, `## ${company}（${items.length}）`, "");
   for (const interview of items) {
+    const role = [
+      ...new Set(
+        interview.contexts
+          .filter((context) => context.role)
+          .map((context) => `${context.role}${context.roleInferred ? "（推测）" : ""}`)
+      )
+    ].join("、");
     const meta = [
-      interview.role,
+      role,
       interview.jobNature,
       interview.recruitment,
       interview.publishedAt?.slice(0, 10)

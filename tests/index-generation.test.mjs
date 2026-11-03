@@ -199,3 +199,48 @@ test("check detects a missing collection reading URL and generation restores it"
     "https://mianstack.com/collection/col-demo"
   );
 });
+
+test("interview index preserves reasonable inferred role labels and omits empty roles", () => {
+  const relativePath = "interviews/MJ-NC-2026-9000.md";
+  const original = read(relativePath);
+  const { data, body } = parseFrontmatter(original, relativePath);
+  const contexts = [
+    { company: "示例公司", role: "前端开发", roleMethod: "原文明示" },
+    {
+      company: "示例公司",
+      role: "Agent 应用开发工程师",
+      roleMethod: "面试内容推测",
+      roleConfidence: "低"
+    },
+    {
+      company: "示例公司",
+      role: "后端开发",
+      roleMethod: "面试内容推测",
+      roleConfidence: "中"
+    },
+    {
+      company: "示例公司",
+      role: "",
+      roleMethod: "资料不足",
+      roleConfidence: "不可判定"
+    }
+  ];
+  try {
+    write(
+      relativePath,
+      `---\n${JSON.stringify({ ...data, title: "多场景面经", contexts })}\n---\n${body}`
+    );
+    const result = generate();
+    assert.equal(result.status, 0, result.stderr);
+    const index = read("indexes/interviews.md");
+    assert.ok(
+      index.includes(" — 前端开发、Agent 应用开发工程师（推测）、后端开发（推测） · 2026-09-24"),
+      index
+    );
+    assert.doesNotMatch(index, /岗位无法判断|资料不足|不可判定/);
+    assert.deepEqual(parseFrontmatter(read(relativePath), relativePath).data.contexts, contexts);
+  } finally {
+    write(relativePath, original);
+    assert.equal(generate().status, 0);
+  }
+});

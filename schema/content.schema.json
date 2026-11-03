@@ -4,6 +4,24 @@
   "title": "面栈内容结构",
   "description": "公开题目、面经、知识分类、题号别名、题集来源与原题共用的机器可读结构规则。",
   "$defs": {
+    "companyName": {
+      "$ref": "#/$defs/nonEmptyString",
+      "title": "公司或组织名称",
+      "x-unknown": {
+        "name": "公司未注明",
+        "aliases": [
+          "未知公司",
+          "未注明公司",
+          "其他公司",
+          "其他",
+          "未注明",
+          "未知",
+          "未透露",
+          "未披露",
+          "不详"
+        ]
+      }
+    },
     "nonEmptyString": {
       "type": "string",
       "minLength": 1,
@@ -108,7 +126,7 @@
       "enum": ["项目语境"]
     },
     "roleFamily": {
-      "title": "岗位职能",
+      "title": "岗位分类",
       "type": "string",
       "enum": [
         "AI 应用与智能体工程",
@@ -436,9 +454,21 @@
       "type": "object",
       "additionalProperties": false,
       "required": ["company", "role", "roleMethod"],
+      "if": {
+        "properties": {
+          "roleMethod": { "const": "资料不足" }
+        },
+        "required": ["roleMethod"]
+      },
+      "then": {
+        "properties": {
+          "role": { "const": "" }
+        },
+        "not": { "required": ["roleFamily"] }
+      },
       "properties": {
         "company": {
-          "$ref": "#/$defs/nonEmptyString",
+          "$ref": "#/$defs/companyName",
           "title": "所属公司"
         },
         "business": {
@@ -451,11 +481,11 @@
         },
         "roleFamily": {
           "$ref": "#/$defs/roleFamily",
-          "title": "岗位职能"
+          "title": "岗位分类"
         },
         "role": {
           "type": "string",
-          "title": "岗位"
+          "title": "岗位名称"
         },
         "roleMethod": {
           "$ref": "#/$defs/roleMethod"
