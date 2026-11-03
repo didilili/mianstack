@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { stripOnlineReadingLink } from "./online-reading.mjs";
+import { isUnknownCompany, unknownCompany } from "./company-names.mjs";
 
 import {
   createContentSchemaValidators,
@@ -58,7 +59,8 @@ function uniqueStrings(values) {
 
 function interviewSummaryFromContexts(contexts) {
   return {
-    company: uniqueStrings(contexts.map((context) => context.company)).join("、") || "公司未注明",
+    company:
+      uniqueStrings(contexts.map((context) => context.company)).join("、") || unknownCompany.name,
     business: uniqueStrings(contexts.map((context) => context.business)).join("；"),
     role: uniqueStrings(contexts.map((context) => context.role)).join("、") || "岗位无法判断",
     roleFamilies: uniqueStrings(contexts.map((context) => context.roleFamily)),
@@ -369,6 +371,10 @@ export function loadContent(inputRoot) {
     for (const [index, context] of contexts.entries()) {
       if (!context || Array.isArray(context) || typeof context !== "object") continue;
       const contextLabel = `${label}: contexts[${index}]`;
+      if (isUnknownCompany(context.company) && context.company !== unknownCompany.name)
+        add(
+          `${contextLabel}.company must use ${unknownCompany.name} when no company name is provided`
+        );
       if (inferredRoleMethods.has(context.roleMethod) && !requiredString(context.roleConfidence))
         add(`${contextLabel}.roleConfidence is required for an inferred role`);
       else if (

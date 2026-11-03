@@ -74,6 +74,36 @@ function markdown(metadata, body = "") {
 
 const currentInterviewBody = "## 原帖正文\n\n> 正文\n";
 
+test("requires the canonical missing-company name without discarding context facts", () => {
+  for (const company of ["未知公司", "未披露", "其他"]) {
+    const root = createFixture();
+    fs.writeFileSync(
+      path.join(root, "interviews/MJ-NC-2026-0001.md"),
+      markdown(
+        interview({ contexts: [{ ...interview().contexts[0], company }] }),
+        currentInterviewBody
+      )
+    );
+    assert.throws(() => loadContent(root), /company must use 公司未注明/);
+  }
+  const root = createFixture();
+  fs.writeFileSync(
+    path.join(root, "interviews/MJ-NC-2026-0001.md"),
+    markdown(
+      interview({
+        contexts: [
+          { ...interview().contexts[0], company: "公司未注明", base: "深圳", business: "教育" }
+        ]
+      }),
+      currentInterviewBody
+    )
+  );
+  const context = loadContent(root).interviews[0].contexts[0];
+  assert.equal(context.company, "公司未注明");
+  assert.equal(context.base, "深圳");
+  assert.equal(context.business, "教育");
+});
+
 test("accepts optional author profiles without requiring them on existing interviews", () => {
   const validators = createContentSchemaValidators(loadContentSchema(repositoryRoot));
   assert.deepEqual(schemaErrors(validators.interview, interview(), "interview"), []);
@@ -686,6 +716,10 @@ test("derives role inference flags from canonical role methods", () => {
   ]) {
     const root = createFixture();
     const context = { ...interview().contexts[0], roleMethod, roleConfidence };
+    if (roleMethod === "资料不足") {
+      context.role = "";
+      delete context.roleFamily;
+    }
     if (roleConfidence === "") delete context.roleConfidence;
     delete context.roleInferred;
     fs.writeFileSync(
@@ -694,6 +728,74 @@ test("derives role inference flags from canonical role methods", () => {
     );
     assert.equal(loadContent(root).interviews[0].contexts[0].roleInferred, expected, roleMethod);
   }
+});
+
+test("distinguishes insufficient role evidence from an explicitly named broad role", () => {
+  const root = createFixture();
+  const context = {
+    company: "示例公司",
+    role: "",
+    roleMethod: "资料不足",
+    roleConfidence: "不可判定",
+    roleDirections: ["AI 应用与 Agent"]
+  };
+  const source = path.join(root, "interviews/MJ-NC-2026-0001.md");
+  fs.writeFileSync(source, markdown(interview({ contexts: [context] }), currentInterviewBody));
+
+  const unknown = loadContent(root).interviews[0].contexts[0];
+  assert.equal(unknown.role, "");
+  assert.equal(unknown.roleFamily, "");
+  assert.equal(unknown.roleInferred, false);
+  assert.deepEqual(unknown.roleDirections, ["AI 应用与 Agent"]);
+
+  const named = { ...context, role: "AI 研发工程师", roleMethod: "原文明示" };
+  delete named.roleConfidence;
+  fs.writeFileSync(source, markdown(interview({ contexts: [named] }), currentInterviewBody));
+  assert.equal(loadContent(root).interviews[0].contexts[0].role, "AI 研发工程师");
+});
+
+test("shared schema rejects nonempty roles when role evidence is insufficient", () => {
+  const root = createFixture();
+  const validators = createContentSchemaValidators(loadContentSchema(root));
+  for (const role of ["未明确岗位", "AI 研发工程师", " \t"]) {
+    const context = {
+      company: "示例公司",
+      role,
+      roleMethod: "资料不足",
+      roleConfidence: "不可判定"
+    };
+    const metadata = interview({ contexts: [context] });
+    assert.ok(
+      schemaErrors(validators.interview, metadata, "interview").some((message) =>
+        message.includes("contexts[0].role ")
+      ),
+      `insufficient evidence must reject role ${JSON.stringify(role)}`
+    );
+    fs.writeFileSync(
+      path.join(root, "interviews/MJ-NC-2026-0001.md"),
+      markdown(metadata, currentInterviewBody)
+    );
+    assert.throws(() => loadContent(root), /contexts\[0\]\.role /);
+  }
+});
+
+test("shared schema rejects a primary function when role evidence is insufficient", () => {
+  const root = createFixture();
+  const validators = createContentSchemaValidators(loadContentSchema(root));
+  const context = {
+    company: "示例公司",
+    role: "",
+    roleFamily: "前端开发",
+    roleMethod: "资料不足",
+    roleConfidence: "不可判定"
+  };
+  const metadata = interview({ contexts: [context] });
+  assert.ok(schemaErrors(validators.interview, metadata, "interview").length > 0);
+  fs.writeFileSync(
+    path.join(root, "interviews/MJ-NC-2026-0001.md"),
+    markdown(metadata, currentInterviewBody)
+  );
+  assert.throws(() => loadContent(root), /contexts\[0\]/);
 });
 
 test("requires a confidence for inferred role methods", () => {
@@ -749,13 +851,14 @@ test("requires insufficient role evidence to use unavailable confidence", () => 
   const root = createFixture();
   const unavailableContext = {
     ...interview().contexts[0],
-    role: "岗位无法判断",
+    role: "",
     roleMethod: "资料不足",
     roleConfidence: ""
   };
+  delete unavailableContext.roleFamily;
   fs.writeFileSync(
     path.join(root, "interviews/MJ-NC-2026-0001.md"),
-    markdown(interview({ contexts: [unavailableContext] }), "正文")
+    markdown(interview({ contexts: [unavailableContext] }), currentInterviewBody)
   );
 
   assert.throws(

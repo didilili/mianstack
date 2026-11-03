@@ -80,6 +80,7 @@ export function createContentSchemaValidators(schema, names = validatorNames) {
   ajv.addKeyword({ keyword: "x-enumLabels", schemaType: "object" });
   ajv.addKeyword({ keyword: "x-countedValues", schemaType: "array" });
   ajv.addKeyword({ keyword: "x-groups", schemaType: "object" });
+  ajv.addKeyword({ keyword: "x-unknown", schemaType: "object" });
   ajv.addSchema(schema);
   return Object.fromEntries(
     names.map((name) => [name, ajv.getSchema(`${schema.$id}#/$defs/${name}`)])
