@@ -125,13 +125,13 @@
 - [Q-0495 你有哪些大模型后训练经验？](../questions/Q-0495.md) · [在线阅读](https://mianstack.com/question/q-0495) · **已有答案**
 - [Q-0498 如何在一个细分场景中微调 Agent？](../questions/Q-0498.md) · [在线阅读](https://mianstack.com/question/q-0498)
 - [Q-0506 不同大模型微调方法如何比较？](../questions/Q-0506.md) · [在线阅读](https://mianstack.com/question/q-0506) · **已有答案**
-- [Q-0513 预训练、后训练到推理的流程是什么？](../questions/Q-0513.md) · [在线阅读](https://mianstack.com/question/q-0513)
+- [Q-0513 预训练、后训练到推理的流程是什么？](../questions/Q-0513.md) · [在线阅读](https://mianstack.com/question/q-0513) · **已有答案**
 - [Q-0517 如何训练模型，使其更精确地提取摘要？](../questions/Q-0517.md) · [在线阅读](https://mianstack.com/question/q-0517)
 - [Q-0637 大模型侧需要做哪些改进以适配 Agent？](../questions/Q-0637.md) · [在线阅读](https://mianstack.com/question/q-0637)
 - [Q-0638 大模型微调的机制是什么？](../questions/Q-0638.md) · [在线阅读](https://mianstack.com/question/q-0638)
 - [Q-0639 是否有从零训练大模型的经历？](../questions/Q-0639.md) · [在线阅读](https://mianstack.com/question/q-0639)
 - [Q-0681 为什么在 SFT 后采用 RL，SFT 遇到了什么问题？](../questions/Q-0681.md) · [在线阅读](https://mianstack.com/question/q-0681) · **已有答案**
-- [Q-0692 是否独立做过模型训练或微调？](../questions/Q-0692.md) · [在线阅读](https://mianstack.com/question/q-0692)
+- [Q-0692 是否独立做过模型训练或微调？](../questions/Q-0692.md) · [在线阅读](https://mianstack.com/question/q-0692) · **已有答案**
 - [Q-0823 如何考虑为每个业务后训练小模型？](../questions/Q-0823.md) · [在线阅读](https://mianstack.com/question/q-0823)
 - [Q-1244 训练一个模型需要哪些步骤和关注点？](../questions/Q-1244.md) · [在线阅读](https://mianstack.com/question/q-1244)
 - [Q-1605 如何根治预训练生僻词向量质量差的问题？](../questions/Q-1605.md) · [在线阅读](https://mianstack.com/question/q-1605)
