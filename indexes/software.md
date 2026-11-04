@@ -6,7 +6,7 @@
 
 语言、框架、前后端、操作系统、网络、存储、并发与分布式系统。
 
-共 2,467 道题，分为 20 个专题。
+共 2,487 道题，分为 20 个专题。
 
 ## 页内导航
 
@@ -42,6 +42,7 @@
 - [Q-0956 Python 字典的底层结构及插入、查找原理是什么？](../questions/Q-0956.md) · [在线阅读](https://mianstack.com/question/q-0956)
 - [Q-0957 Python 字典如何处理哈希冲突？](../questions/Q-0957.md) · [在线阅读](https://mianstack.com/question/q-0957)
 - [Q-0958 Python 字典删除元素的底层过程是什么？](../questions/Q-0958.md) · [在线阅读](https://mianstack.com/question/q-0958)
+- [Q-10160 Python 迭代器是什么，如何通过迭代协议逐项取值？](../questions/Q-10160.md) · [在线阅读](https://mianstack.com/question/q-10160)
 - [Q-1121 Python 多线程和多进程如何实现与调度，是并行还是串行？](../questions/Q-1121.md) · [在线阅读](https://mianstack.com/question/q-1121)
 - [Q-1474 Python int 表示超长整数时会溢出吗？](../questions/Q-1474.md) · [在线阅读](https://mianstack.com/question/q-1474)
 - [Q-1516 用过哪些 Python 库，Pandas 输入是什么？](../questions/Q-1516.md) · [在线阅读](https://mianstack.com/question/q-1516)
@@ -308,6 +309,10 @@
 - [Q-0740 Rust 与其他语言有什么不同，使用特点是什么？](../questions/Q-0740.md) · [在线阅读](https://mianstack.com/question/q-0740)
 - [Q-0747 C 语言全局变量存储在哪里？](../questions/Q-0747.md) · [在线阅读](https://mianstack.com/question/q-0747)
 - [Q-0748 static 关键字有哪些作用？](../questions/Q-0748.md) · [在线阅读](https://mianstack.com/question/q-0748)
+- [Q-10262 Go 服务中的内存索引用什么数据结构？](../questions/Q-10262.md) · [在线阅读](https://mianstack.com/question/q-10262)
+- [Q-10275 SIMD 中如何用无分支写法实现逐元素最大值选择？](../questions/Q-10275.md) · [在线阅读](https://mianstack.com/question/q-10275)
+- [Q-10281 C++ 中有哪些语言机制或编译提示可以帮助编译器优化代码？](../questions/Q-10281.md) · [在线阅读](https://mianstack.com/question/q-10281)
+- [Q-10282 C++ 中 struct 与 class 有何区别，struct 是否可以定义成员函数？](../questions/Q-10282.md) · [在线阅读](https://mianstack.com/question/q-10282)
 - [Q-1098 是否有 Go 开发经验，能否接受切换到 Go 技术栈？](../questions/Q-1098.md) · [在线阅读](https://mianstack.com/question/q-1098)
 - [Q-1448 Goroutine 是什么？](../questions/Q-1448.md) · [在线阅读](https://mianstack.com/question/q-1448)
 - [Q-1449 GMP 中 P 与 M 如何对应，何时解绑？](../questions/Q-1449.md) · [在线阅读](https://mianstack.com/question/q-1449)
@@ -691,6 +696,10 @@
 - [Q-0249 服务器 CPU 持续接近 100% 时如何排查？](../questions/Q-0249.md) · [在线阅读](https://mianstack.com/question/q-0249) · **已有答案**
 - [Q-0582 什么是僵尸进程？](../questions/Q-0582.md) · [在线阅读](https://mianstack.com/question/q-0582)
 - [Q-0979 父子进程共享资源时，写入如何处理？](../questions/Q-0979.md) · [在线阅读](https://mianstack.com/question/q-0979)
+- [Q-10162 线程上下文切换是什么，底层如何保存和恢复执行状态？](../questions/Q-10162.md) · [在线阅读](https://mianstack.com/question/q-10162)
+- [Q-10277 CPU 访问 DDR 数据时，L1、L2 Cache 如何协作处理命中与未命中？](../questions/Q-10277.md) · [在线阅读](https://mianstack.com/question/q-10277)
+- [Q-10278 CPU 如何确定下一条指令地址，指令缓存满时如何填充与替换？](../questions/Q-10278.md) · [在线阅读](https://mianstack.com/question/q-10278)
+- [Q-10280 寄存器读取与内存访问的延迟有何差异，应怎样比较周期与数量级？](../questions/Q-10280.md) · [在线阅读](https://mianstack.com/question/q-10280)
 - [Q-1068 操作系统有哪些功能？](../questions/Q-1068.md) · [在线阅读](https://mianstack.com/question/q-1068)
 - [Q-1069 用户态和内核态分别是什么？](../questions/Q-1069.md) · [在线阅读](https://mianstack.com/question/q-1069)
 - [Q-1070 什么是死锁，如何避免，发生后如何解除或恢复？](../questions/Q-1070.md) · [在线阅读](https://mianstack.com/question/q-1070) · **已有答案**
@@ -1164,6 +1173,7 @@
 - [Q-0980 Read Committed 下两次读取间数据更新后，为什么第二次能看到更新？](../questions/Q-0980.md) · [在线阅读](https://mianstack.com/question/q-0980)
 - [Q-10093 一条 SQL 如何被解析为抽象语法树，AST 在其中起什么作用？](../questions/Q-10093.md) · [在线阅读](https://mianstack.com/question/q-10093)
 - [Q-10096 为 SQL 自动添加 LIMIT 时，如何兼容已有分页？](../questions/Q-10096.md) · [在线阅读](https://mianstack.com/question/q-10096)
+- [Q-10163 MySQL 表为什么建议显式定义主键，不定义时 InnoDB 如何选择聚簇索引？](../questions/Q-10163.md) · [在线阅读](https://mianstack.com/question/q-10163)
 - [Q-1026 是否按业务领域做过库表建模？](../questions/Q-1026.md) · [在线阅读](https://mianstack.com/question/q-1026) · **已有答案**
 - [Q-1084 SQLite 在项目中承担什么职责？](../questions/Q-1084.md) · [在线阅读](https://mianstack.com/question/q-1084)
 - [Q-1143 MySQL 有哪些索引，项目如何设计索引？](../questions/Q-1143.md) · [在线阅读](https://mianstack.com/question/q-1143) · **已有答案**
@@ -1358,6 +1368,8 @@
 - [Q-0856 项目的 Redis 缓存用于哪些业务，如何实现？](../questions/Q-0856.md) · [在线阅读](https://mianstack.com/question/q-0856) · **已有答案**
 - [Q-0952 Redis 用作缓存有哪些优势？](../questions/Q-0952.md) · [在线阅读](https://mianstack.com/question/q-0952) · **已有答案**
 - [Q-0953 Redis 宕机或缓存失效会有什么影响？](../questions/Q-0953.md) · [在线阅读](https://mianstack.com/question/q-0953) · **已有答案**
+- [Q-10115 Redis Cluster 的 Gossip 通信每轮怎样选择对端节点？](../questions/Q-10115.md) · [在线阅读](https://mianstack.com/question/q-10115)
+- [Q-10260 采用 Cache-Aside 后，为什么仍可能持续数分钟读到与数据库不一致的数据？](../questions/Q-10260.md) · [在线阅读](https://mianstack.com/question/q-10260)
 - [Q-1040 BGSAVE fork 后主进程继续写入，如何保持 RDB 的时点快照？](../questions/Q-1040.md) · [在线阅读](https://mianstack.com/question/q-1040)
 - [Q-1041 同一 key 连续执行大量 INCR 时，Redis 如何避免 AOF 文件过大？](../questions/Q-1041.md) · [在线阅读](https://mianstack.com/question/q-1041)
 - [Q-1189 秒杀抢购用户全部写入 Redis Set，用户量大且商家活动很多时如何扩展和优化？](../questions/Q-1189.md) · [在线阅读](https://mianstack.com/question/q-1189)
@@ -1497,6 +1509,8 @@
 - [Q-0946 SSE 如何处理断连并进行心跳保活？](../questions/Q-0946.md) · [在线阅读](https://mianstack.com/question/q-0946) · **已有答案**
 - [Q-0947 客户端断网重连后如何断点续传，避免任务从头执行？](../questions/Q-0947.md) · [在线阅读](https://mianstack.com/question/q-0947) · **已有答案**
 - [Q-0990 设计每秒写入 10 万条、单条 2KB、保存 30 天的高并发延迟消息组件。](../questions/Q-0990.md) · [在线阅读](https://mianstack.com/question/q-0990)
+- [Q-10113 Kafka 与 RocketMQ 的底层消息存储结构有什么区别？](../questions/Q-10113.md) · [在线阅读](https://mianstack.com/question/q-10113)
+- [Q-10114 Kafka 消费者如何根据 Offset 定位 Partition 中的消息？](../questions/Q-10114.md) · [在线阅读](https://mianstack.com/question/q-10114)
 - [Q-1046 在延迟等级固定的 RocketMQ 版本中如何实现任意时长的延迟投递？](../questions/Q-1046.md) · [在线阅读](https://mianstack.com/question/q-1046)
 - [Q-1047 原生消息可靠性方案在什么场景失效，为什么需要入库兜底或手动提交 offset？](../questions/Q-1047.md) · [在线阅读](https://mianstack.com/question/q-1047)
 - [Q-1048 通过哪些指标或异常确认消息确实丢失，而非凭预判添加兜底？](../questions/Q-1048.md) · [在线阅读](https://mianstack.com/question/q-1048)
@@ -1628,6 +1642,7 @@
 - [Q-0875 Redis 分布式锁的原理是什么？](../questions/Q-0875.md) · [在线阅读](https://mianstack.com/question/q-0875) · **已有答案**
 - [Q-0876 锁租期一分钟但任务未完成时，会发生什么？](../questions/Q-0876.md) · [在线阅读](https://mianstack.com/question/q-0876) · **已有答案**
 - [Q-0877 Watchdog 持续续租但任务一直卡住时，其他任务如何获得锁？](../questions/Q-0877.md) · [在线阅读](https://mianstack.com/question/q-0877) · **已有答案**
+- [Q-10261 同一账户的后续变更拿不到 Redis 锁时，如何选择等待、丢弃或重新入队？](../questions/Q-10261.md) · [在线阅读](https://mianstack.com/question/q-10261)
 - [Q-1590 Canal 如何保证一致性，能否保证实时一致？](../questions/Q-1590.md) · [在线阅读](https://mianstack.com/question/q-1590)
 - [Q-1642 合同 PDF 如何存取，文件存储系统怎样设计？](../questions/Q-1642.md) · [在线阅读](https://mianstack.com/question/q-1642)
 - [Q-1643 高可用分布式文件存储如何设计读写、确认和备份，保证极端场景不丢失？](../questions/Q-1643.md) · [在线阅读](https://mianstack.com/question/q-1643)
@@ -2029,6 +2044,8 @@
 - [Q-0304 Allure 测试报告包含哪些内容？](../questions/Q-0304.md) · [在线阅读](https://mianstack.com/question/q-0304)
 - [Q-0457 Java 测试注解。](../questions/Q-0457.md) · [在线阅读](https://mianstack.com/question/q-0457)
 - [Q-0677 如何生成单元测试并保证覆盖完整？](../questions/Q-0677.md) · [在线阅读](https://mianstack.com/question/q-0677) · **已有答案**
+- [Q-10266 双路结果比对时，如何实现浮点、时间戳和无序 JSON 数组的容差比较？](../questions/Q-10266.md) · [在线阅读](https://mianstack.com/question/q-10266)
+- [Q-10283 代码开发到什么阶段即可编写单元测试，需要具备哪些信息？](../questions/Q-10283.md) · [在线阅读](https://mianstack.com/question/q-10283)
 - [Q-1030 测试 case 如何生成，生成后是否需要人工检查？](../questions/Q-1030.md) · [在线阅读](https://mianstack.com/question/q-1030)
 - [Q-1055 如何从团队端到端测试扩展出项目的多层测试框架？](../questions/Q-1055.md) · [在线阅读](https://mianstack.com/question/q-1055)
 - [Q-1093 项目声称核心测试覆盖率 90%，具体口径是什么，实际能否达到？](../questions/Q-1093.md) · [在线阅读](https://mianstack.com/question/q-1093)
@@ -2190,6 +2207,7 @@
 - [Q-0754 重构引入了哪些问题？](../questions/Q-0754.md) · [在线阅读](https://mianstack.com/question/q-0754)
 - [Q-10109 Monorepo 的构建流程如何优化？](../questions/Q-10109.md) · [在线阅读](https://mianstack.com/question/q-10109)
 - [Q-1014 平时是否经常使用 Git？](../questions/Q-1014.md) · [在线阅读](https://mianstack.com/question/q-1014)
+- [Q-10272 项目中的依赖图如何构建与分析？](../questions/Q-10272.md) · [在线阅读](https://mianstack.com/question/q-10272)
 - [Q-1067 项目为什么不用现成开源库？](../questions/Q-1067.md) · [在线阅读](https://mianstack.com/question/q-1067)
 - [Q-1083 Coding Agent 为什么选 Python，而不是 TypeScript 等语言？](../questions/Q-1083.md) · [在线阅读](https://mianstack.com/question/q-1083)
 - [Q-1136 Knife4j 与 Swagger 有何区别，为何使用？](../questions/Q-1136.md) · [在线阅读](https://mianstack.com/question/q-1136)
@@ -2323,6 +2341,8 @@
 - [Q-0404 项目的启动性能优化具体如何实施？](../questions/Q-0404.md) · [在线阅读](https://mianstack.com/question/q-0404)
 - [Q-0467 设计压测方案时需要观察哪些指标？](../questions/Q-0467.md) · [在线阅读](https://mianstack.com/question/q-0467)
 - [Q-0479 系统冷启动时如何注入流量？](../questions/Q-0479.md) · [在线阅读](https://mianstack.com/question/q-0479)
+- [Q-10263 如何估算按账户维护的内存索引规模与内存占用？](../questions/Q-10263.md) · [在线阅读](https://mianstack.com/question/q-10263)
+- [Q-10279 多级循环有哪些代码层和流水线层优化方式，如何判断是否有效？](../questions/Q-10279.md) · [在线阅读](https://mianstack.com/question/q-10279)
 - [Q-1584 项目 QPS 有多高，如何压测和规划节点容量？](../questions/Q-1584.md) · [在线阅读](https://mianstack.com/question/q-1584) · **已有答案**
 - [Q-1762 K6 是做什么的？](../questions/Q-1762.md) · [在线阅读](https://mianstack.com/question/q-1762)
 - [Q-1763 项目压测采用单接口还是完整链路，具体如何执行？](../questions/Q-1763.md) · [在线阅读](https://mianstack.com/question/q-1763)

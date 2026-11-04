@@ -6,7 +6,7 @@
 
 文档处理、检索、重排、知识更新、知识图谱与结构化知识。
 
-共 488 道题，分为 13 个专题。
+共 492 道题，分为 13 个专题。
 
 ## 页内导航
 
@@ -41,6 +41,7 @@
 - [Q-0863 自建知识库与 Vicky 等工具有什么本质区别？](../questions/Q-0863.md) · [在线阅读](https://mianstack.com/question/q-0863)
 - [Q-0974 是否用过 LangChain，是否了解 Neo4j？](../questions/Q-0974.md) · [在线阅读](https://mianstack.com/question/q-0974)
 - [Q-0978 面对多种 Word、PDF、Markdown 文档及 7000 多条问答，如何为智能客服选型并搭建完整链路？](../questions/Q-0978.md) · [在线阅读](https://mianstack.com/question/q-0978)
+- [Q-10116 翻译插件如何利用术语库与专家校对数据改善翻译质量？](../questions/Q-10116.md) · [在线阅读](https://mianstack.com/question/q-10116)
 - [Q-1015 RAG 是自行实现还是采用开源组件？](../questions/Q-1015.md) · [在线阅读](https://mianstack.com/question/q-1015) · **已有答案**
 - [Q-1167 如何设计支撑需求澄清和指标口径对齐的知识库，包括内容、结构和召回？](../questions/Q-1167.md) · [在线阅读](https://mianstack.com/question/q-1167)
 - [Q-1272 RAG 客服问答的核心是什么？](../questions/Q-1272.md) · [在线阅读](https://mianstack.com/question/q-1272)
@@ -283,6 +284,7 @@
 - [Q-0850 同一词在不同语言文化中含义不同时如何处理？](../questions/Q-0850.md) · [在线阅读](https://mianstack.com/question/q-0850)
 - [Q-0972 父子检索如何工作，为什么在 RAG 中使用？](../questions/Q-0972.md) · [在线阅读](https://mianstack.com/question/q-0972) · **已有答案**
 - [Q-0981 查询明确错误码的处理方法时，RAG 应采用什么检索策略？](../questions/Q-0981.md) · [在线阅读](https://mianstack.com/question/q-0981) · **已有答案**
+- [Q-10123 BM25 与 TF-IDF 有什么区别？](../questions/Q-10123.md) · [在线阅读](https://mianstack.com/question/q-10123)
 - [Q-1218 如何检索召回数据库的表和字段？](../questions/Q-1218.md) · [在线阅读](https://mianstack.com/question/q-1218) · **已有答案**
 - [Q-1220 BM25 有哪些局限？](../questions/Q-1220.md) · [在线阅读](https://mianstack.com/question/q-1220)
 - [Q-1280 词法检索匹配不上“苹果”和“apple”时如何处理？](../questions/Q-1280.md) · [在线阅读](https://mianstack.com/question/q-1280)
@@ -391,6 +393,7 @@
 - [Q-0830 是否了解 RAGAS，如何用于 RAG 评测？](../questions/Q-0830.md) · [在线阅读](https://mianstack.com/question/q-0830)
 - [Q-0865 可验证知识库准备采用什么验证方案？](../questions/Q-0865.md) · [在线阅读](https://mianstack.com/question/q-0865)
 - [Q-0879 召回率为 75% 时，剩余 25% 为什么没有召回？](../questions/Q-0879.md) · [在线阅读](https://mianstack.com/question/q-0879) · **已有答案**
+- [Q-10268 回答引用多个知识片段时，如何把整条点踩反馈归因到具体片段？](../questions/Q-10268.md) · [在线阅读](https://mianstack.com/question/q-10268)
 - [Q-1051 如何处理 RAG 用户反馈并建立评测机制，帮助产品决定改进方向？](../questions/Q-1051.md) · [在线阅读](https://mianstack.com/question/q-1051)
 - [Q-1168 怎样判断知识库召回内容正是所需结果？](../questions/Q-1168.md) · [在线阅读](https://mianstack.com/question/q-1168)
 - [Q-1296 GraphRAG 比纯 RAG 提升哪些指标？](../questions/Q-1296.md) · [在线阅读](https://mianstack.com/question/q-1296)
@@ -507,6 +510,7 @@
 - [Q-0579 事件边界如何划分？](../questions/Q-0579.md) · [在线阅读](https://mianstack.com/question/q-0579)
 - [Q-0580 知识图谱本体论是什么？](../questions/Q-0580.md) · [在线阅读](https://mianstack.com/question/q-0580)
 - [Q-0591 知识图谱如何构建与维护，难点是什么？](../questions/Q-0591.md) · [在线阅读](https://mianstack.com/question/q-0591) · **已有答案**
+- [Q-10166 知识图谱建模如何结合领域专家和本体方法？](../questions/Q-10166.md) · [在线阅读](https://mianstack.com/question/q-10166)
 - [Q-1288 知识图谱如何抽取实体和关系？](../questions/Q-1288.md) · [在线阅读](https://mianstack.com/question/q-1288)
 - [Q-1289 文档变更时如何更新实体关系，全量和增量更新如何选？](../questions/Q-1289.md) · [在线阅读](https://mianstack.com/question/q-1289)
 - [Q-1295 图谱抽取如何多轮调优？](../questions/Q-1295.md) · [在线阅读](https://mianstack.com/question/q-1295)

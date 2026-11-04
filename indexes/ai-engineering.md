@@ -6,7 +6,7 @@
 
 Prompt、应用架构、评测、质量、安全、可观测性、性能与交付。
 
-共 1,180 道题，分为 10 个专题。
+共 1,186 道题，分为 10 个专题。
 
 ## 页内导航
 
@@ -219,6 +219,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-0901 如何离线评测 Skill 的效果，并预估上线指标变化？](../questions/Q-0901.md) · [在线阅读](https://mianstack.com/question/q-0901) · **已有答案**
 - [Q-0909 质量对比的考核标准是业务预先约定，还是实施中调整？](../questions/Q-0909.md) · [在线阅读](https://mianstack.com/question/q-0909)
 - [Q-0910 评估用例如何依托测试平台执行？](../questions/Q-0910.md) · [在线阅读](https://mianstack.com/question/q-0910)
+- [Q-10267 Agent 的点赞点踩反馈应针对整条回答还是细分内容，如何定义粒度？](../questions/Q-10267.md) · [在线阅读](https://mianstack.com/question/q-10267)
 - [Q-1056 介绍你参与的团队端到端测试 Skill 的测试工作。](../questions/Q-1056.md) · [在线阅读](https://mianstack.com/question/q-1056)
 - [Q-1065 vLLM 驱动测试的输入、输出及测试流程如何设计？](../questions/Q-1065.md) · [在线阅读](https://mianstack.com/question/q-1065)
 - [Q-1113 AI 测试能力探索包括哪些方向？](../questions/Q-1113.md) · [在线阅读](https://mianstack.com/question/q-1113)
@@ -527,6 +528,9 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-0948 如何防止 Agent 超时重试导致重复下单？](../questions/Q-0948.md) · [在线阅读](https://mianstack.com/question/q-0948)
 - [Q-0949 下单幂等 key 如何生成，为什么不让大模型生成？](../questions/Q-0949.md) · [在线阅读](https://mianstack.com/question/q-0949)
 - [Q-10095 Agent 执行 SQL 时，如何限制只读、查询权限和返回行数？](../questions/Q-10095.md) · [在线阅读](https://mianstack.com/question/q-10095)
+- [Q-10117 大模型翻译应用有哪些安全考量？](../questions/Q-10117.md) · [在线阅读](https://mianstack.com/question/q-10117)
+- [Q-10269 代码补丁审批为什么要绑定目标文件版本，不能只按行号校验？](../questions/Q-10269.md) · [在线阅读](https://mianstack.com/question/q-10269)
+- [Q-10270 人工审批期间 IDE 文件发生变化时，如何自动使旧补丁审批失效？](../questions/Q-10270.md) · [在线阅读](https://mianstack.com/question/q-10270)
 - [Q-1080 设计 AI 判定违规评论并删除的功能，如何定义输入输出、人工介入、边缘情况和兜底？](../questions/Q-1080.md) · [在线阅读](https://mianstack.com/question/q-1080)
 - [Q-1240 Agent 如何隔离不同任务？](../questions/Q-1240.md) · [在线阅读](https://mianstack.com/question/q-1240)
 - [Q-1375 提示词注入根因是什么，防御有哪些局限？](../questions/Q-1375.md) · [在线阅读](https://mianstack.com/question/q-1375)
@@ -655,6 +659,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-0757 节点变更导致下游输出分化时如何排查？](../questions/Q-0757.md) · [在线阅读](https://mianstack.com/question/q-0757)
 - [Q-0993 日志分析的完整流程是什么？](../questions/Q-0993.md) · [在线阅读](https://mianstack.com/question/q-0993)
 - [Q-0994 系统出了问题但日志没有记录时，如何排查？](../questions/Q-0994.md) · [在线阅读](https://mianstack.com/question/q-0994) · **已有答案**
+- [Q-10167 Agent 框架内置的 Trace 插件与独立可观测平台有什么区别？](../questions/Q-10167.md) · [在线阅读](https://mianstack.com/question/q-10167)
 - [Q-1094 Trace 可回放是什么意思，能否指定本地 Trace 重新执行？](../questions/Q-1094.md) · [在线阅读](https://mianstack.com/question/q-1094)
 - [Q-1307 按 LogID 拉日志如何保证完整且足以定位问题？](../questions/Q-1307.md) · [在线阅读](https://mianstack.com/question/q-1307)
 - [Q-1453 了解 OpenTelemetry 吗？](../questions/Q-1453.md) · [在线阅读](https://mianstack.com/question/q-1453)
@@ -1192,6 +1197,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 
 - [Q-0053 Agent 解决了什么业务问题，如何证明实际提效？](../questions/Q-0053.md) · [在线阅读](https://mianstack.com/question/q-0053) · **已有答案**
 - [Q-0760 Agent 无法覆盖哪些需求，如何逐步提升自主覆盖率？](../questions/Q-0760.md) · [在线阅读](https://mianstack.com/question/q-0760)
+- [Q-10118 大模型网关产品如何定位用户需求并吸引用户？](../questions/Q-10118.md) · [在线阅读](https://mianstack.com/question/q-10118)
 - [Q-1017 智能票务或客服系统如何把 AI 与传统业务结合？](../questions/Q-1017.md) · [在线阅读](https://mianstack.com/question/q-1017)
 - [Q-1033 怎样判断平台做得好不好，服务最重要的指标是什么？](../questions/Q-1033.md) · [在线阅读](https://mianstack.com/question/q-1033)
 - [Q-1166 数据开发中哪些环节 AI 不能完成，为什么难以对齐数据口径？](../questions/Q-1166.md) · [在线阅读](https://mianstack.com/question/q-1166)

@@ -6,7 +6,7 @@
 
 数据结构、算法、SQL、工程编码与逻辑推理。
 
-共 501 道题，分为 9 个专题。
+共 503 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -70,6 +70,7 @@
 - [Q-0749 不用加号实现整数加法。](../questions/Q-0749.md) · [在线阅读](https://mianstack.com/question/q-0749)
 - [Q-0969 布隆过滤器在项目中如何使用，判断存在或不存在时业务如何处理？](../questions/Q-0969.md) · [在线阅读](https://mianstack.com/question/q-0969) · **已有答案**
 - [Q-0985 统计数组中下标不同且元素和为 k 倍数的无序对数。](../questions/Q-0985.md) · [在线阅读](https://mianstack.com/question/q-0985)
+- [Q-10164 内存受限时，如何对 20 亿个 QQ 号快速去重？](../questions/Q-10164.md) · [在线阅读](https://mianstack.com/question/q-10164)
 - [Q-1081 求字符串数组最长公共前缀，处理空数组和无公共前缀情况。](../questions/Q-1081.md) · [在线阅读](https://mianstack.com/question/q-1081)
 - [Q-1420 用集合中的数字组成严格小于 N 的最大整数。](../questions/Q-1420.md) · [在线阅读](https://mianstack.com/question/q-1420)
 - [Q-1444 给定数组与行数，按倒 N 形排列输出。](../questions/Q-1444.md) · [在线阅读](https://mianstack.com/question/q-1444)
@@ -447,6 +448,7 @@
 - [Q-0008 实现一个限制最大并发数的任务调度器。](../questions/Q-0008.md) · [在线阅读](https://mianstack.com/question/q-0008) · **已有答案**
 - [Q-0146 实现带超时时间和超时次数限制的 Promise 重试。](../questions/Q-0146.md) · [在线阅读](https://mianstack.com/question/q-0146) · **已有答案**
 - [Q-0645 实现支持 add、cancel、query 的计费引擎；操作顺序到达而时间戳可乱序，尽量降低复杂度。](../questions/Q-0645.md) · [在线阅读](https://mianstack.com/question/q-0645) · **已有答案**
+- [Q-10161 1GB 内存下，如何查找 10GB 文本文件中字符串 ABCDEF 出现的行号？](../questions/Q-10161.md) · [在线阅读](https://mianstack.com/question/q-10161)
 - [Q-1031 实现内存任务调度器：重复待执行 taskID 忽略，按 runAt 升序 poll 到期任务，数量不超过 limit 且不重复返回。](../questions/Q-1031.md) · [在线阅读](https://mianstack.com/question/q-1031) · **已有答案**
 - [Q-1241 实现线程安全的 LRU 缓存。](../questions/Q-1241.md) · [在线阅读](https://mianstack.com/question/q-1241) · **已有答案**
 - [Q-2364 给定最近 T 秒的用户访问日志，按每个用户最近访问时间从近到远返回用户列表。](../questions/Q-2364.md) · [在线阅读](https://mianstack.com/question/q-2364)

@@ -6,7 +6,7 @@
 
 运行循环、规划、上下文、记忆、工具协议、工作流与多 Agent。
 
-共 1,138 道题，分为 12 个专题。
+共 1,140 道题，分为 12 个专题。
 
 ## 页内导航
 
@@ -114,6 +114,7 @@
 - [Q-0903 指定 Agent 产品相对其他产品有哪些优缺点？](../questions/Q-0903.md) · [在线阅读](https://mianstack.com/question/q-0903)
 - [Q-0925 是否做过知识库或 MCP 相关开发？](../questions/Q-0925.md) · [在线阅读](https://mianstack.com/question/q-0925)
 - [Q-1009 是否了解 Deep Research，它是什么？](../questions/Q-1009.md) · [在线阅读](https://mianstack.com/question/q-1009) · **已有答案**
+- [Q-10165 Agent 项目为什么选择 Neo4j，图数据库在查询和工具调用中承担什么职责？](../questions/Q-10165.md) · [在线阅读](https://mianstack.com/question/q-10165)
 - [Q-1372 设计行程规划 Agent。](../questions/Q-1372.md) · [在线阅读](https://mianstack.com/question/q-1372)
 - [Q-1403 是否支持截图上传等多模态场景？](../questions/Q-1403.md) · [在线阅读](https://mianstack.com/question/q-1403)
 - [Q-1434 了解 Agent 在算子调优中的应用吗？](../questions/Q-1434.md) · [在线阅读](https://mianstack.com/question/q-1434)
@@ -826,6 +827,7 @@
 - [Q-0819 动态 Agent 工作流平台如何实现？](../questions/Q-0819.md) · [在线阅读](https://mianstack.com/question/q-0819)
 - [Q-0894 为什么把 Workflow 改成 Skill，两者有何优缺点？](../questions/Q-0894.md) · [在线阅读](https://mianstack.com/question/q-0894) · **已有答案**
 - [Q-0965 Agent 执行中断后，下一次如何继续任务？](../questions/Q-0965.md) · [在线阅读](https://mianstack.com/question/q-0965) · **已有答案**
+- [Q-10264 多人在同一会话中补充 Agent 指令时，如何处理在途任务与新指令？](../questions/Q-10264.md) · [在线阅读](https://mianstack.com/question/q-10264)
 - [Q-1088 恢复 Agent 图运行时需存取哪些状态字段，Trace 存在哪里？](../questions/Q-1088.md) · [在线阅读](https://mianstack.com/question/q-1088)
 - [Q-1089 保存 Trace 或 Checkpoint 时如何保证一致性并避免脏数据和冗余？](../questions/Q-1089.md) · [在线阅读](https://mianstack.com/question/q-1089)
 - [Q-1219 Planner 节点输出哪些参数，格式是什么？](../questions/Q-1219.md) · [在线阅读](https://mianstack.com/question/q-1219)
