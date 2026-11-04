@@ -26,7 +26,7 @@
 ## RAG 与知识系统
 
 - [Q-0047 RAG 从知识入库到在线问答的完整流程是什么？](../questions/Q-0047.md) · [在线阅读](https://mianstack.com/question/q-0047) · **已有答案**
-- [Q-3692 RAG 检索优化有哪些常见策略，如何组合？](../questions/Q-3692.md) · [在线阅读](https://mianstack.com/question/q-3692)
+- [Q-3692 RAG 检索优化有哪些常见策略，如何组合？](../questions/Q-3692.md) · [在线阅读](https://mianstack.com/question/q-3692) · **已有答案**
 - [Q-3721 Query 重构有哪些常见方法，各适合什么场景？](../questions/Q-3721.md) · [在线阅读](https://mianstack.com/question/q-3721)
 - [Q-3722 文档解析在 RAG 中有什么作用，解析错误会带来哪些影响？](../questions/Q-3722.md) · [在线阅读](https://mianstack.com/question/q-3722) · **已有答案**
 - [Q-3970 RAG、传统检索加生成与模型微调有什么区别，分别适合哪些场景？](../questions/Q-3970.md) · [在线阅读](https://mianstack.com/question/q-3970)
@@ -59,14 +59,14 @@
 - [Q-0053 Agent 解决了什么业务问题，如何证明实际提效？](../questions/Q-0053.md) · [在线阅读](https://mianstack.com/question/q-0053) · **已有答案**
 - [Q-0056 如何量化评估 Agent 输出质量或任务成功率？](../questions/Q-0056.md) · [在线阅读](https://mianstack.com/question/q-0056) · **已有答案**
 - [Q-0059 Agent 效果不达预期时，如何分析 Bad Case 并确定优化方向？](../questions/Q-0059.md) · [在线阅读](https://mianstack.com/question/q-0059) · **已有答案**
-- [Q-0143 如何发现、定位并处理大模型 API 调用失败？](../questions/Q-0143.md) · [在线阅读](https://mianstack.com/question/q-0143)
+- [Q-0143 如何发现、定位并处理大模型 API 调用失败？](../questions/Q-0143.md) · [在线阅读](https://mianstack.com/question/q-0143) · **已有答案**
 - [Q-3694 Agent 如何验证工具确实执行成功，避免产生任务完成幻觉？](../questions/Q-3694.md) · [在线阅读](https://mianstack.com/question/q-3694) · **已有答案**
 - [Q-3707 什么是大模型幻觉？](../questions/Q-3707.md) · [在线阅读](https://mianstack.com/question/q-3707)
 - [Q-3708 大模型为什么会产生幻觉？](../questions/Q-3708.md) · [在线阅读](https://mianstack.com/question/q-3708)
 - [Q-3976 如何证明 RAG 系统端到端回答效果变好，而不只是召回指标提升？](../questions/Q-3976.md) · [在线阅读](https://mianstack.com/question/q-3976)
 - [Q-3977 模型服务如何权衡响应速度、回答准确性与调用成本？](../questions/Q-3977.md) · [在线阅读](https://mianstack.com/question/q-3977)
 - [Q-4011 如何理解 AI 技术栈，它通常可以划分为哪些模块？](../questions/Q-4011.md) · [在线阅读](https://mianstack.com/question/q-4011)
-- [Q-4017 Agent 服务故障时如何通过熔断、降级和重试实现高可用？](../questions/Q-4017.md) · [在线阅读](https://mianstack.com/question/q-4017)
+- [Q-4017 Agent 服务故障时如何通过熔断、降级和重试实现高可用？](../questions/Q-4017.md) · [在线阅读](https://mianstack.com/question/q-4017) · **已有答案**
 - [Q-4024 Agent 长任务失败时，如何定位是模型、检索还是工具的问题？](../questions/Q-4024.md) · [在线阅读](https://mianstack.com/question/q-4024)
 
 <a id="category-5"></a>

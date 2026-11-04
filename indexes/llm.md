@@ -1149,8 +1149,8 @@
 - [Q-1021 从大模型切换到小模型是为了响应速度吗，效果如何对比？](../questions/Q-1021.md) · [在线阅读](https://mianstack.com/question/q-1021)
 - [Q-1165 大模型 API 有哪些关键参数，temperature、message list 等作用是什么？](../questions/Q-1165.md) · [在线阅读](https://mianstack.com/question/q-1165)
 - [Q-1227 模型最终输出的具体结果是什么？](../questions/Q-1227.md) · [在线阅读](https://mianstack.com/question/q-1227)
-- [Q-1267 是否亲自部署过大模型？](../questions/Q-1267.md) · [在线阅读](https://mianstack.com/question/q-1267)
-- [Q-1270 项目使用什么大模型或哪类模型？](../questions/Q-1270.md) · [在线阅读](https://mianstack.com/question/q-1270)
+- [Q-1267 是否亲自部署过大模型？](../questions/Q-1267.md) · [在线阅读](https://mianstack.com/question/q-1267) · **已有答案**
+- [Q-1270 项目使用什么大模型或哪类模型？](../questions/Q-1270.md) · [在线阅读](https://mianstack.com/question/q-1270) · **已有答案**
 - [Q-1293 不同模型适合什么场景，如何比较使用效果？](../questions/Q-1293.md) · [在线阅读](https://mianstack.com/question/q-1293) · **已有答案**
 - [Q-1609 动态定价模型 INT8 量化后价格异常，如何归因？](../questions/Q-1609.md) · [在线阅读](https://mianstack.com/question/q-1609)
 - [Q-1747 Level-K 博弈模块如何与之前的模型串联？](../questions/Q-1747.md) · [在线阅读](https://mianstack.com/question/q-1747)

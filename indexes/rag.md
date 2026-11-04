@@ -50,7 +50,7 @@
 - [Q-1404 AI 搜索如何实现？](../questions/Q-1404.md) · [在线阅读](https://mianstack.com/question/q-1404)
 - [Q-1421 RAG 是什么，有什么作用？](../questions/Q-1421.md) · [在线阅读](https://mianstack.com/question/q-1421) · **已有答案**
 - [Q-1686 回答中的引用如何生成和呈现？](../questions/Q-1686.md) · [在线阅读](https://mianstack.com/question/q-1686)
-- [Q-1699 是否做过知识库或 RAG 项目？](../questions/Q-1699.md) · [在线阅读](https://mianstack.com/question/q-1699)
+- [Q-1699 是否做过知识库或 RAG 项目？](../questions/Q-1699.md) · [在线阅读](https://mianstack.com/question/q-1699) · **已有答案**
 - [Q-1785 检索层为什么同时使用向量库和图数据库？](../questions/Q-1785.md) · [在线阅读](https://mianstack.com/question/q-1785)
 - [Q-2327 知识库如何指导 Agent 操作？](../questions/Q-2327.md) · [在线阅读](https://mianstack.com/question/q-2327) · **已有答案**
 - [Q-2830 RAG Token 节省 50% 如何计算，是输入还是输出，做了哪些优化？](../questions/Q-2830.md) · [在线阅读](https://mianstack.com/question/q-2830)
@@ -296,7 +296,7 @@
 - [Q-2115 为什么认为全文检索效率低？](../questions/Q-2115.md) · [在线阅读](https://mianstack.com/question/q-2115)
 - [Q-2125 直接使用向量检索召回会带来什么问题？](../questions/Q-2125.md) · [在线阅读](https://mianstack.com/question/q-2125)
 - [Q-2166 模型上下文很大时，为何使用 RAG，而不直接把原始文档放入上下文？](../questions/Q-2166.md) · [在线阅读](https://mianstack.com/question/q-2166)
-- [Q-2167 不考虑 Token 消耗时，RAG 与让 Agent 用 grep 自行搜索文档或大代码仓库各有什么优劣？](../questions/Q-2167.md) · [在线阅读](https://mianstack.com/question/q-2167)
+- [Q-2167 不考虑 Token 消耗时，RAG 与让 Agent 用 grep 自行搜索文档或大代码仓库各有什么优劣？](../questions/Q-2167.md) · [在线阅读](https://mianstack.com/question/q-2167) · **已有答案**
 - [Q-2300 知识库有几十万文档时如何优化检索？](../questions/Q-2300.md) · [在线阅读](https://mianstack.com/question/q-2300)
 - [Q-2316 Metadata Filter 如何用于知识检索？](../questions/Q-2316.md) · [在线阅读](https://mianstack.com/question/q-2316)
 - [Q-2328 复杂知识库为什么使用 RAG？](../questions/Q-2328.md) · [在线阅读](https://mianstack.com/question/q-2328)
@@ -309,10 +309,10 @@
 - [Q-3258 项目的三级查询处理如何实现？](../questions/Q-3258.md) · [在线阅读](https://mianstack.com/question/q-3258)
 - [Q-3582 如何评估结果并触发补充检索，保证搜到先前遗漏的内容？](../questions/Q-3582.md) · [在线阅读](https://mianstack.com/question/q-3582)
 - [Q-3628 召回检索部分是否由你自行实现？](../questions/Q-3628.md) · [在线阅读](https://mianstack.com/question/q-3628)
-- [Q-3692 RAG 检索优化有哪些常见策略，如何组合？](../questions/Q-3692.md) · [在线阅读](https://mianstack.com/question/q-3692)
+- [Q-3692 RAG 检索优化有哪些常见策略，如何组合？](../questions/Q-3692.md) · [在线阅读](https://mianstack.com/question/q-3692) · **已有答案**
 - [Q-3940 RAG 项目的检索模块实现了哪些功能？](../questions/Q-3940.md) · [在线阅读](https://mianstack.com/question/q-3940)
 - [Q-3999 RAG 如何严格按用户指定的时间范围检索并避免引用越界数据？](../questions/Q-3999.md) · [在线阅读](https://mianstack.com/question/q-3999)
-- [Q-4364 介绍项目中检索召回的完整流程。](../questions/Q-4364.md) · [在线阅读](https://mianstack.com/question/q-4364)
+- [Q-4364 介绍项目中检索召回的完整流程。](../questions/Q-4364.md) · [在线阅读](https://mianstack.com/question/q-4364) · **已有答案**
 - [Q-4480 为什么知识检索系统会组合关键词、单向量、多向量和图检索？](../questions/Q-4480.md) · [在线阅读](https://mianstack.com/question/q-4480)
 - [Q-4554 RAG 召回结果如何兼顾相关性与多样性？](../questions/Q-4554.md) · [在线阅读](https://mianstack.com/question/q-4554)
 - [Q-4690 向量检索如何引入时间衰减，平衡内容相关性与新鲜度？](../questions/Q-4690.md) · [在线阅读](https://mianstack.com/question/q-4690)
