@@ -1,5 +1,5 @@
-name: 批量内容或结构调整
-description: 提议批量导入、分类调整、字段变更或其他影响范围较大的修改
+name: 题集推荐与结构提议
+description: 推荐公开面试题集，或讨论批量收录、分类、编号及字段等调整；单篇内容纠错请选“内容反馈与改进”
 title: "[结构提议] "
 body:
   - type: dropdown
@@ -7,6 +7,7 @@ body:
     attributes:
       label: 变更类型
       options:
+        - 推荐公开面试题集
         - 批量新增或导入内容
         - 调整分类或专题
         - 修改字段或引用关系
@@ -19,24 +20,18 @@ body:
     id: goal
     attributes:
       label: 目标与范围
-      description: 说明要解决的问题、影响范围和预计涉及的内容数量；如有相关 Issue，请附链接。
+      description: 推荐题集时，简述内容方向和推荐理由；提出调整时，说明要解决的问题及涉及的内容或页面，无需先给出完整方案。
     validations:
       required: true
 
   - type: textarea
     id: source
     attributes:
-      label: 数据来源与收录范围
-      description: 请提供原始链接，并说明计划收录的内容和署名方式。
+      label: 来源与收录范围（可选）
+      description: 推荐题集或批量内容时，请提供原始页面或仓库链接、发布者，以及希望收录的部分；无需复制第三方答案或完整正文。
 
   - type: textarea
     id: migration
     attributes:
-      label: 兼容与迁移思路（可选）
-      description: 如果涉及现有内容，可以说明编号、引用、索引和网站展示怎样衔接；暂时不确定也可以一起讨论。
-
-  - type: textarea
-    id: verification
-    attributes:
-      label: 验证思路（可选）
-      description: 如果已有想法，可以说明准备怎样检查结果。
+      label: 兼容与检查思路（可选）
+      description: 如果已有想法，可说明编号、引用和网站展示如何衔接，以及怎样检查结果；推荐题集时可留空。

@@ -1,25 +1,30 @@
-name: 内容反馈
-description: 反馈题目、参考答案、已有面经或关联关系中的问题
+name: 内容反馈与改进
+description: 反馈题目、答案、面经、题集、专题或项目内容的问题，补充题目或改进建议
 title: "[内容反馈] "
 body:
   - type: textarea
     id: context
     attributes:
       label: 相关内容
-      description: 从面栈网站进入时会自动填写，也可以手动填写题目、面经的编号或链接。
+      description: 请提供题号、面经或题集编号、页面链接；建议新增题目时可填写题目和所属方向。从网站反馈入口进入时会自动填写。
+      placeholder: |
+        例如：
+        Q-0001，参考答案中的「……」答法或章节
+        COL-……，第 3 条原题（或原题标题）
+        项目或专题页面链接，「……」章节
     validations:
       required: true
 
   - type: textarea
     id: problem
     attributes:
-      label: 问题说明
-      description: 请说明哪里有问题，可以只指出问题，不必提供修改方案。
+      label: 问题或改进建议
+      description: 可以指出题干、答案、分类、原题关联或页面内容的问题，也可以补充题目或答案。不必提供完整修改方案。
     validations:
       required: true
 
   - type: textarea
     id: suggestion
     attributes:
-      label: 修改建议或参考资料（可选）
-      description: 如果有修改建议、参考资料或原始链接，可以在这里补充。
+      label: 参考资料（可选）
+      description: 涉及技术事实、版本差异或内容出处时，可附官方文档、原帖链接等依据，并指出相关章节或段落。
