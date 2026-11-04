@@ -6,7 +6,7 @@
 
 项目表达、个人贡献、协作、成长、职业选择、行为面与候选人反问。
 
-共 674 道题，分为 9 个专题。
+共 679 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -181,6 +181,7 @@
 - [Q-0376 你如何评价本场面试表现？](../questions/Q-0376.md) · [在线阅读](https://mianstack.com/question/q-0376)
 - [Q-0795 项目当前最大的技术边界是什么，距上线还缺什么？](../questions/Q-0795.md) · [在线阅读](https://mianstack.com/question/q-0795)
 - [Q-0861 两段实习有何不同，你更喜欢哪种工作模式？](../questions/Q-0861.md) · [在线阅读](https://mianstack.com/question/q-0861)
+- [Q-10119 项目中是否通过阅读开源依赖源码定位并解决过故障？](../questions/Q-10119.md) · [在线阅读](https://mianstack.com/question/q-10119)
 - [Q-1034 你提出过哪些需求优化点？](../questions/Q-1034.md) · [在线阅读](https://mianstack.com/question/q-1034)
 - [Q-1035 如果重新回答此前面试中没答好的问题，你会怎么改进？](../questions/Q-1035.md) · [在线阅读](https://mianstack.com/question/q-1035)
 - [Q-1153 解决问题的整体思路是什么？](../questions/Q-1153.md) · [在线阅读](https://mianstack.com/question/q-1153)
@@ -356,6 +357,7 @@
 - [Q-0122 团队人数减少后，工作内容和协作方式发生了什么变化？](../questions/Q-0122.md) · [在线阅读](https://mianstack.com/question/q-0122)
 - [Q-0202 你在开源项目中做过哪些具体贡献？](../questions/Q-0202.md) · [在线阅读](https://mianstack.com/question/q-0202)
 - [Q-0563 是否掌握 Python，如何与开发人员对接？](../questions/Q-0563.md) · [在线阅读](https://mianstack.com/question/q-0563)
+- [Q-10214 提出的 AI 优化方案全部被业务方和技术评审否决后，如何继续推进？](../questions/Q-10214.md) · [在线阅读](https://mianstack.com/question/q-10214)
 - [Q-1027 技术沉淀如何从个人经验成为团队共同资产？](../questions/Q-1027.md) · [在线阅读](https://mianstack.com/question/q-1027)
 - [Q-1063 三到四人共同开发需求时如何协调？](../questions/Q-1063.md) · [在线阅读](https://mianstack.com/question/q-1063)
 - [Q-1099 开源贡献是自主发起还是参与活动，是否参加过 GSoC？](../questions/Q-1099.md) · [在线阅读](https://mianstack.com/question/q-1099)
@@ -427,6 +429,8 @@
 - [Q-0565 项目有什么创新点可以支持论文投稿？](../questions/Q-0565.md) · [在线阅读](https://mianstack.com/question/q-0565)
 - [Q-0753 近期关注了哪些大模型与 Agent 新技术？](../questions/Q-0753.md) · [在线阅读](https://mianstack.com/question/q-0753)
 - [Q-0991 请介绍主动学习 AI 工具或大模型并落地开发的真实经历与效果。](../questions/Q-0991.md) · [在线阅读](https://mianstack.com/question/q-0991) · **已有答案**
+- [Q-10121 你何时开始学习多 Agent 通信与 Harness 架构，经历了哪些阶段？](../questions/Q-10121.md) · [在线阅读](https://mianstack.com/question/q-10121)
+- [Q-10284 你对深度学习了解多少，掌握哪些基础知识或实践？](../questions/Q-10284.md) · [在线阅读](https://mianstack.com/question/q-10284)
 - [Q-1097 后端经验如何用于 AI 或 Agent 开发？](../questions/Q-1097.md) · [在线阅读](https://mianstack.com/question/q-1097)
 - [Q-1186 平时通过哪些渠道学习技术？](../questions/Q-1186.md) · [在线阅读](https://mianstack.com/question/q-1186)
 - [Q-1223 从大模型实习转向智驾决策规划岗位有哪些共同点和可迁移能力？](../questions/Q-1223.md) · [在线阅读](https://mianstack.com/question/q-1223)
@@ -660,6 +664,7 @@
 - [Q-0867 团队落地 AI 产品时如何平衡推理延迟和成本？](../questions/Q-0867.md) · [在线阅读](https://mianstack.com/question/q-0867)
 - [Q-0868 复杂任务超时熔断时，团队采用硬规则还是模型动态降级？](../questions/Q-0868.md) · [在线阅读](https://mianstack.com/question/q-0868)
 - [Q-0869 多模态实时交互会选择 LangGraph 还是轻量流式编排？](../questions/Q-0869.md) · [在线阅读](https://mianstack.com/question/q-0869)
+- [Q-10122 如何询问后续面试轮次及各轮的考查重点？](../questions/Q-10122.md) · [在线阅读](https://mianstack.com/question/q-10122)
 - [Q-1238 如何询问面试结果的反馈周期？](../questions/Q-1238.md) · [在线阅读](https://mianstack.com/question/q-1238) · **已有答案**
 - [Q-1239 如何询问团队日常使用 AI 工具的方式与角色？](../questions/Q-1239.md) · [在线阅读](https://mianstack.com/question/q-1239) · **已有答案**
 - [Q-1310 如何向面试官请教通用 Agent、自建 Agent 和 Skill 编排层的生产选型？](../questions/Q-1310.md) · [在线阅读](https://mianstack.com/question/q-1310)

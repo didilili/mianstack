@@ -6,7 +6,7 @@
 
 训练数据、预训练与微调、偏好对齐、强化学习、训练评测与分布式训练。
 
-共 757 道题，分为 9 个专题。
+共 759 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -547,6 +547,8 @@
 - [Q-0526 轨迹模型训练使用多少计算资源？](../questions/Q-0526.md) · [在线阅读](https://mianstack.com/question/q-0526)
 - [Q-0629 模型训练的显存由哪些部分占用？](../questions/Q-0629.md) · [在线阅读](https://mianstack.com/question/q-0629)
 - [Q-0904 是否做过分布式训练，常见的模型并行方式有哪些？](../questions/Q-0904.md) · [在线阅读](https://mianstack.com/question/q-0904)
+- [Q-10273 SIMD 与 SIMT 的执行模型有什么区别，是否可以组合使用？](../questions/Q-10273.md) · [在线阅读](https://mianstack.com/question/q-10273)
+- [Q-10274 SIMT 线程组因依赖阻塞后切换到就绪线程组，调度开销主要来自哪里？](../questions/Q-10274.md) · [在线阅读](https://mianstack.com/question/q-10274)
 - [Q-1424 SpMV 与 GEMM 有什么计算特性？](../questions/Q-1424.md) · [在线阅读](https://mianstack.com/question/q-1424)
 - [Q-1425 跨 NUMA 导致性能下降如何调优，如何使用 OpenMP？](../questions/Q-1425.md) · [在线阅读](https://mianstack.com/question/q-1425)
 - [Q-1426 矩阵乘分块如何优化性能？](../questions/Q-1426.md) · [在线阅读](https://mianstack.com/question/q-1426)

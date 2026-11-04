@@ -6,7 +6,7 @@
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。
 
-共 1,145 道题，分为 8 个专题。
+共 1,150 道题，分为 8 个专题。
 
 ## 页内导航
 
@@ -749,6 +749,11 @@
 ## 机器学习与推荐系统
 
 - [Q-0252 推荐系统冷启动有哪些处理思路？](../questions/Q-0252.md) · [在线阅读](https://mianstack.com/question/q-0252)
+- [Q-10210 将多层 SID 简化为单层表征会怎样改变模型输入输出，为什么这样设计？](../questions/Q-10210.md) · [在线阅读](https://mianstack.com/question/q-10210)
+- [Q-10211 推荐系统如何组织模型全量与增量更新，以及特征和结果的离线、实时计算？](../questions/Q-10211.md) · [在线阅读](https://mianstack.com/question/q-10211)
+- [Q-10212 介绍长序列召回模型的架构、核心特征与损失函数。](../questions/Q-10212.md) · [在线阅读](https://mianstack.com/question/q-10212)
+- [Q-10213 如何用大模型优化 OneRec 推荐效果，并完成业务验证与迭代闭环？](../questions/Q-10213.md) · [在线阅读](https://mianstack.com/question/q-10213)
+- [Q-10215 广告曝光量、消耗与 ADVV 同时上涨时，如何判断优化效果？](../questions/Q-10215.md) · [在线阅读](https://mianstack.com/question/q-10215)
 - [Q-1598 了解哪些机器学习算法？](../questions/Q-1598.md) · [在线阅读](https://mianstack.com/question/q-1598)
 - [Q-1599 数仓与机器学习结合有哪些潜力场景？](../questions/Q-1599.md) · [在线阅读](https://mianstack.com/question/q-1599)
 - [Q-1746 项目场景中的 Level-K 博弈如何实现？](../questions/Q-1746.md) · [在线阅读](https://mianstack.com/question/q-1746)
