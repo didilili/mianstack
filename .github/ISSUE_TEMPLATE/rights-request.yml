@@ -1,5 +1,5 @@
 name: 署名、展示范围或移除请求
-description: 供原作者或权利人反馈第三方材料的署名与展示问题
+description: 供原作者或权利人反馈题目、答案、面经、题集及网站内容的来源、署名或展示问题
 title: "[权利反馈] "
 body:
   - type: markdown
@@ -9,7 +9,8 @@ body:
   - type: input
     id: location
     attributes:
-      label: 涉及的文件、题号或面经编号
+      label: 相关内容链接或编号
+      description: 可提供面栈页面或 GitHub 文件链接，也可填写题号、面经或题集编号；涉及局部内容时，请指出具体段落或条目。
     validations:
       required: true
 
@@ -17,7 +18,7 @@ body:
     id: original_source
     attributes:
       label: 原始来源链接
-      description: 如果原始页面仍可访问，请提供链接。
+      description: 如果方便，请提供原帖或作者主页链接；原帖已删除或无法访问时可留空。
 
   - type: dropdown
     id: request_type
@@ -36,6 +37,6 @@ body:
     id: request
     attributes:
       label: 具体请求
-      description: 请说明希望如何处理以及必要的背景信息。
+      description: 请说明需要更正的署名或来源、限制展示的范围，或希望移除的内容，并补充必要的背景信息。
     validations:
       required: true
