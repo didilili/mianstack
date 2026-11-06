@@ -216,4 +216,4 @@ frontmatter 之后的 Markdown 正文固定称为“来源正文”。
 
 ## 结构变更
 
-新增字段、修改固定值或中文显示时，只在 `content.schema.json` 定义规则；若变更涉及公开记录之间的引用，再调整 `scripts/lib/content.mjs` 的语义校验。随后更新本说明中的语义解释、相关回归测试和受影响的索引逻辑。Web 不复制 schema 规则。批量导入、分类重构、字段迁移或编号策略变化应先提交[结构提议](https://github.com/didilili/mianstack/issues/new?template=structure-proposal.yml)。
+新增字段、修改固定值或中文显示时，只在 `content.schema.json` 定义规则；若变更涉及公开记录之间的引用，再调整 `scripts/lib/content.mjs` 的语义校验。随后更新本说明中的语义解释、相关回归测试和受影响的索引逻辑。Web 不复制 schema 规则。批量导入、分类重构、字段迁移或编号策略变化应先在 [Issue](https://github.com/didilili/mianstack/issues) 中讨论目标、范围与兼容影响，具体维护方式见[维护说明](../MAINTAINING.md)。

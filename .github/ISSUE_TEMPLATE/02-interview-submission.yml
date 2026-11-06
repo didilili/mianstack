@@ -1,0 +1,25 @@
+name: 分享面试经历
+description: 贴一个公开面经链接，或写下自己的面试经历和问题
+title: "[面经分享] "
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: 面经链接或面试经历
+      description: 已有公开原帖，直接贴链接即可；没有原帖，写下记得的面试问题。时间、轮次、结果等知道的话可以补充，不必每项都填。涉及个人隐私的内容请先隐去。
+      placeholder: |
+        公开原帖链接：
+
+        或者直接写面试经历：
+        公司／岗位：
+        面试问题与追问（尽量保留原问和必要上下文）：
+        1.
+        2.
+    validations:
+      required: true
+
+  - type: textarea
+    id: attribution
+    attributes:
+      label: 署名或来源说明（可选）
+      description: 本人投稿可说明希望使用的署名；推荐他人的面经时，可补充原作者和出处。请区分原文与你补充的回答。

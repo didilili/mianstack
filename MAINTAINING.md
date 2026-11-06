@@ -22,7 +22,7 @@
 
 题目建议和面经投稿通过 Issue 收集。维护者负责核对内容与来源、整理公开文件与索引，并在网站维护对应关系。
 
-大批量导入、分类调整或数据结构变更，可以通过[结构调整表单](https://github.com/didilili/mianstack/issues/new?template=structure-proposal.yml)先交流思路，方便一起确定整理方式。
+大批量导入、分类调整或数据结构变更，先在 [Issue](https://github.com/didilili/mianstack/issues) 中讨论目标、范围，以及对现有编号和引用的影响。维护者可以使用空白 Issue 发起讨论，再确定整理、兼容与检查方案；推荐一份题集不需要填写这些维护信息。
 
 熟悉项目的协作者仍可通过 Pull Request 修改仓库文件。请说明修改了什么、为什么改、内容来源和检查结果；尽量让一次修改只解决一类问题。
 
