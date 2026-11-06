@@ -1,0 +1,32 @@
+name: 内容纠错与补充
+description: 题目或答案有误、面经信息不准确，或想补充新题和答案
+title: "[内容反馈] "
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: 相关页面或题目
+      description: 贴页面链接并指出哪一段；建议新增题目时，直接写题目即可。从网站反馈入口进入时会自动带入当前内容。
+      placeholder: |
+        例如：
+        页面链接，参考答案中的「……」答法或章节
+        题集页面链接，第 3 条原题（或原题标题）
+        项目或专题页面链接，「……」章节
+
+        也可以填写题号或题集编号，如 Q-0001、COL-……。
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 哪里有问题，或想补充什么？
+      description: 可以只指出问题，也可以写下建议补充的题目或答案，不必准备完整修改方案。
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 参考资料（可选）
+      description: 如果有官方文档、原帖或其他参考依据，可以附链接并指出相关段落。

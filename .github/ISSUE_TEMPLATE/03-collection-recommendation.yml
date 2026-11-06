@@ -1,0 +1,17 @@
+name: 推荐面试题集
+description: 发现值得收录的题单、题集或开源题库，推荐给我们
+title: "[题集推荐] "
+body:
+  - type: textarea
+    id: source
+    attributes:
+      label: 题集链接
+      description: 贴原始页面或仓库链接即可，不需要复制第三方答案或完整正文。
+    validations:
+      required: true
+
+  - type: textarea
+    id: goal
+    attributes:
+      label: 推荐理由（可选）
+      description: 比如涉及什么方向、适合谁准备，或哪部分值得收录。不清楚也可以只贴链接。

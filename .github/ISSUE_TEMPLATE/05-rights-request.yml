@@ -1,0 +1,39 @@
+name: 署名或移除请求
+description: 原作者或权利人申请更正署名、调整展示内容或移除内容
+title: "[权利反馈] "
+body:
+  - type: markdown
+    attributes:
+      value: 提供内容链接和希望的处理方式即可，其余信息可选。
+
+  - type: input
+    id: location
+    attributes:
+      label: 相关内容链接
+      description: 贴面栈页面或 GitHub 文件链接，并指出涉及哪一段；没有链接时，也可填写题号、面经或题集编号。
+    validations:
+      required: true
+
+  - type: textarea
+    id: request
+    attributes:
+      label: 希望如何处理？
+      description: 请写明需要更正的署名或来源、希望减少展示的部分，或需要移除的内容。
+    validations:
+      required: true
+
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: 请求类型（可选）
+      options:
+        - 补充或更正署名
+        - 更正来源链接
+        - 限制展示范围
+        - 移除相关内容
+        - 其他权利问题
+  - type: input
+    id: original_source
+    attributes:
+      label: 原帖或作者主页（可选）
+      description: 如果方便，可以补充原帖或作者主页链接；原帖已删除或无法访问时可留空。
