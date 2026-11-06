@@ -17,17 +17,17 @@
 
 </p>
 
-**[🚀 开始刷题](https://mianstack.com/question/)** · [🏢 查目标公司](https://mianstack.com/company/) · [🔥 面经热问榜](https://mianstack.com/#home-ranking-title) · [💼 项目拆解](https://mianstack.com/project/) · [📚 GitHub 题库](INDEX.md)
+[🚀 开始刷题](https://mianstack.com/question/) · [🏢 公司面经](https://mianstack.com/company/) · [🔥 高频热榜](https://mianstack.com/#home-ranking-title) · [💼 项目拆解](https://mianstack.com/project/) · [📝 更新日志](https://mianstack.com/changelog/)
 
-[项目亮点](#features) · [八大知识方向](#knowledge-directions) · [配套教程与源码](#project-learning) · [加入社群](#community) · [一起共创](#contributing) · [贡献者](#contributors)
+[项目亮点](#features) · [知识体系](#knowledge-directions) · [实战教程](#project-learning) · [加入社群](#community) · [参与共创](#contributing)
 
 </div>
 
-**别再到处找了，面试备考的硬货，这一栈给你配齐。** 我花了数月调研、整理、打磨，做出了自己心目中的「顶配题库」。资料收藏了一堆，临到面试还是不知道先看什么——这份题库，就是想帮你把最费时间的准备功课提前做好。
+**别再到处找了，面试备考的硬货，这一栈给你配齐！** 花费数月调研、整理、打磨，做出了自己心目中的「顶配题库」。资料收藏了一堆，临到面试还是不知道先看什么——这份题库，就是想帮你把最费时间的准备功课提前做好。
 
 **面试官爱问什么，咱就重点练什么。** 面栈把真实面经里的提问与考点关联起来，让反复出现的问题有据可查，让备考重点更清楚。从技术基础到 AI 应用，从八股到项目实战，既能考前突击，也能深入学习。下一场面试，知道该练什么，更有底气接住一句「展开讲讲」。
 
-**免费开源，持续更新，内容和体验都奔着顶配去做。** 面试在变，面栈就继续跟上；新面经、新考点、新项目，持续添硬货。目标就一个：**打造「地表最强」程序员面试题库天花板！！**
+📢 **免费开源，持续更新，内容与体验都是顶配。** 面试在变，面栈就继续跟上；新面经、新考点、新项目，持续添硬货。目标就一个：**打造「地表最强」程序员面试题库天花板！！**
 
 <a id="features"></a>
 
