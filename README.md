@@ -9,9 +9,9 @@
 **大厂面经、技术题、项目面试，一栈备齐。打造全网最有价值的程序员面试题库！**
 
 <p>
-  <a href="https://mianstack.com/interview/"><img alt="真实面经数量" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmianstack.com%2Fdata%2Fcontent-stats.json&amp;query=%24.interviews&amp;label=%E7%9C%9F%E5%AE%9E%E9%9D%A2%E7%BB%8F&amp;suffix=%20%E7%AF%87&amp;style=flat-square&amp;color=FF6000&amp;cacheSeconds=3600"></a>
-  <a href="https://mianstack.com/question/?answered=1&amp;hideCareer=0"><img alt="面试题解数量" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmianstack.com%2Fdata%2Fcontent-stats.json&amp;query=%24.answers&amp;label=%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3&amp;suffix=%20%E9%81%93&amp;style=flat-square&amp;color=FF6000&amp;cacheSeconds=3600"></a>
-  <a href="https://mianstack.com/company/?real=1"><img alt="覆盖公司数量" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmianstack.com%2Fdata%2Fcontent-stats.json&amp;query=%24.companies&amp;label=%E8%A6%86%E7%9B%96%E5%85%AC%E5%8F%B8&amp;suffix=%20%E5%AE%B6&amp;style=flat-square&amp;color=FF6000&amp;cacheSeconds=3600"></a>
+  <a href="https://mianstack.com/interview/"><img alt="真实面经数量" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmianstack.com%2Fdata%2Fcontent-stats.json&amp;query=%24.interviews&amp;label=%E7%9C%9F%E5%AE%9E%E9%9D%A2%E7%BB%8F&amp;suffix=%20%E7%AF%87&amp;style=flat-square&amp;color=FF6000&amp;cacheSeconds=3600&amp;v=20261106"></a>
+  <a href="https://mianstack.com/question/?answered=1&amp;hideCareer=0"><img alt="面试题解数量" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmianstack.com%2Fdata%2Fcontent-stats.json&amp;query=%24.answers&amp;label=%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3&amp;suffix=%20%E9%81%93&amp;style=flat-square&amp;color=FF6000&amp;cacheSeconds=3600&amp;v=20261106"></a>
+  <a href="https://mianstack.com/company/?real=1"><img alt="覆盖公司数量" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmianstack.com%2Fdata%2Fcontent-stats.json&amp;query=%24.companies&amp;label=%E8%A6%86%E7%9B%96%E5%85%AC%E5%8F%B8&amp;suffix=%20%E5%AE%B6&amp;style=flat-square&amp;color=FF6000&amp;cacheSeconds=3600&amp;v=20261106"></a>
     <a href="https://github.com/didilili/mianstack/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/didilili/mianstack?style=flat-square&amp;label=Stars&amp;color=FF6000"></a>
       <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-FF6000?style=flat-square"></a>
 
