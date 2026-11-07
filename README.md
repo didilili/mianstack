@@ -128,6 +128,16 @@ AI 编程、Vibe Coding、Agent / RAG 项目、面试经验，都可以来聊；
 
 [查看贡献记录 →](https://github.com/didilili/mianstack/graphs/contributors) · [我也来添硬货 →](#contributing)
 
+## ⭐ Star History
+
+<a href="https://www.star-history.com/?repos=didilili%2Fmianstack&amp;type=date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=didilili/mianstack&amp;type=Date&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=didilili/mianstack&amp;type=Date" />
+    <img alt="面栈 GitHub Star 数量变化趋势" src="https://api.star-history.com/svg?repos=didilili/mianstack&amp;type=Date" />
+  </picture>
+</a>
+
 <details>
 <summary><strong>数据复用与仓库目录</strong></summary>
 
