@@ -6,7 +6,7 @@
 
 语言、框架、前后端、操作系统、网络、存储、并发与分布式系统。
 
-共 2,487 道题，分为 20 个专题。
+共 2,493 道题，分为 20 个专题。
 
 ## 页内导航
 
@@ -313,6 +313,7 @@
 - [Q-10275 SIMD 中如何用无分支写法实现逐元素最大值选择？](../questions/Q-10275.md) · [在线阅读](https://mianstack.com/question/q-10275)
 - [Q-10281 C++ 中有哪些语言机制或编译提示可以帮助编译器优化代码？](../questions/Q-10281.md) · [在线阅读](https://mianstack.com/question/q-10281)
 - [Q-10282 C++ 中 struct 与 class 有何区别，struct 是否可以定义成员函数？](../questions/Q-10282.md) · [在线阅读](https://mianstack.com/question/q-10282)
+- [Q-10382 C++ 的构造函数、析构函数、成员函数和模板函数中，哪些可以声明为虚函数，为什么？](../questions/Q-10382.md) · [在线阅读](https://mianstack.com/question/q-10382)
 - [Q-1098 是否有 Go 开发经验，能否接受切换到 Go 技术栈？](../questions/Q-1098.md) · [在线阅读](https://mianstack.com/question/q-1098)
 - [Q-1448 Goroutine 是什么？](../questions/Q-1448.md) · [在线阅读](https://mianstack.com/question/q-1448)
 - [Q-1449 GMP 中 P 与 M 如何对应，何时解绑？](../questions/Q-1449.md) · [在线阅读](https://mianstack.com/question/q-1449)
@@ -700,6 +701,7 @@
 - [Q-10277 CPU 访问 DDR 数据时，L1、L2 Cache 如何协作处理命中与未命中？](../questions/Q-10277.md) · [在线阅读](https://mianstack.com/question/q-10277)
 - [Q-10278 CPU 如何确定下一条指令地址，指令缓存满时如何填充与替换？](../questions/Q-10278.md) · [在线阅读](https://mianstack.com/question/q-10278)
 - [Q-10280 寄存器读取与内存访问的延迟有何差异，应怎样比较周期与数量级？](../questions/Q-10280.md) · [在线阅读](https://mianstack.com/question/q-10280)
+- [Q-10419 进程是否必须包含线程，如何理解线程是调度的基本单位？](../questions/Q-10419.md) · [在线阅读](https://mianstack.com/question/q-10419)
 - [Q-1068 操作系统有哪些功能？](../questions/Q-1068.md) · [在线阅读](https://mianstack.com/question/q-1068)
 - [Q-1069 用户态和内核态分别是什么？](../questions/Q-1069.md) · [在线阅读](https://mianstack.com/question/q-1069)
 - [Q-1070 什么是死锁，如何避免，发生后如何解除或恢复？](../questions/Q-1070.md) · [在线阅读](https://mianstack.com/question/q-1070) · **已有答案**
@@ -1372,6 +1374,7 @@
 - [Q-10260 采用 Cache-Aside 后，为什么仍可能持续数分钟读到与数据库不一致的数据？](../questions/Q-10260.md) · [在线阅读](https://mianstack.com/question/q-10260)
 - [Q-1040 BGSAVE fork 后主进程继续写入，如何保持 RDB 的时点快照？](../questions/Q-1040.md) · [在线阅读](https://mianstack.com/question/q-1040)
 - [Q-1041 同一 key 连续执行大量 INCR 时，Redis 如何避免 AOF 文件过大？](../questions/Q-1041.md) · [在线阅读](https://mianstack.com/question/q-1041)
+- [Q-10415 逻辑过期配合分布式锁如何防止缓存击穿？](../questions/Q-10415.md) · [在线阅读](https://mianstack.com/question/q-10415)
 - [Q-1189 秒杀抢购用户全部写入 Redis Set，用户量大且商家活动很多时如何扩展和优化？](../questions/Q-1189.md) · [在线阅读](https://mianstack.com/question/q-1189)
 - [Q-1320 Redis 与 MySQL 查询性能量级如何比较？](../questions/Q-1320.md) · [在线阅读](https://mianstack.com/question/q-1320)
 - [Q-1321 Redis 宕机压垮 MySQL 时如何限流熔断降级？](../questions/Q-1321.md) · [在线阅读](https://mianstack.com/question/q-1321)
@@ -1932,6 +1935,7 @@
 - [Q-0999 用户多窗口或多平台登录时，一个窗口退出如何同步退出其他窗口？](../questions/Q-0999.md) · [在线阅读](https://mianstack.com/question/q-0999)
 - [Q-1007 如何限制 OSS 图片的外部访问？](../questions/Q-1007.md) · [在线阅读](https://mianstack.com/question/q-1007)
 - [Q-10112 什么是钓鱼链接，通常如何识别和防范？](../questions/Q-10112.md) · [在线阅读](https://mianstack.com/question/q-10112)
+- [Q-10347 项目中的攻击检测具体如何实现？](../questions/Q-10347.md) · [在线阅读](https://mianstack.com/question/q-10347)
 - [Q-1131 Spring Security 如何实现 RBAC？](../questions/Q-1131.md) · [在线阅读](https://mianstack.com/question/q-1131)
 - [Q-1132 OAuth 的认证授权流程如何实现？](../questions/Q-1132.md) · [在线阅读](https://mianstack.com/question/q-1132)
 - [Q-1133 JWT 如何结合 Redis 实现续签？](../questions/Q-1133.md) · [在线阅读](https://mianstack.com/question/q-1133)
@@ -2047,6 +2051,7 @@
 - [Q-10266 双路结果比对时，如何实现浮点、时间戳和无序 JSON 数组的容差比较？](../questions/Q-10266.md) · [在线阅读](https://mianstack.com/question/q-10266)
 - [Q-10283 代码开发到什么阶段即可编写单元测试，需要具备哪些信息？](../questions/Q-10283.md) · [在线阅读](https://mianstack.com/question/q-10283)
 - [Q-1030 测试 case 如何生成，生成后是否需要人工检查？](../questions/Q-1030.md) · [在线阅读](https://mianstack.com/question/q-1030)
+- [Q-10378 业务验证的成功率如何定义和判定？](../questions/Q-10378.md) · [在线阅读](https://mianstack.com/question/q-10378)
 - [Q-1055 如何从团队端到端测试扩展出项目的多层测试框架？](../questions/Q-1055.md) · [在线阅读](https://mianstack.com/question/q-1055)
 - [Q-1093 项目声称核心测试覆盖率 90%，具体口径是什么，实际能否达到？](../questions/Q-1093.md) · [在线阅读](https://mianstack.com/question/q-1093)
 - [Q-1112 自动化和历史测试 case 如何迭代，执行失败如何反馈到用例更新？](../questions/Q-1112.md) · [在线阅读](https://mianstack.com/question/q-1112)
@@ -2424,6 +2429,7 @@
 - [Q-1002 库存扣减如何实现？](../questions/Q-1002.md) · [在线阅读](https://mianstack.com/question/q-1002)
 - [Q-1018 短链接生成发生哈希冲突时如何处理，还有哪些方案？](../questions/Q-1018.md) · [在线阅读](https://mianstack.com/question/q-1018)
 - [Q-1025 你认为困难的后端逻辑是什么，如何理解并发的难点？](../questions/Q-1025.md) · [在线阅读](https://mianstack.com/question/q-1025)
+- [Q-10416 如何理解单应用多实例部署？](../questions/Q-10416.md) · [在线阅读](https://mianstack.com/question/q-10416)
 - [Q-1044 设计每秒写入一万条订单、超时时间可自定义的自动取消并释放库存系统。](../questions/Q-1044.md) · [在线阅读](https://mianstack.com/question/q-1044)
 - [Q-1045 采用延迟消息取消订单时，如何避免已支付订单被误取消？](../questions/Q-1045.md) · [在线阅读](https://mianstack.com/question/q-1045)
 - [Q-1134 社区帖子功能如何设计？](../questions/Q-1134.md) · [在线阅读](https://mianstack.com/question/q-1134)

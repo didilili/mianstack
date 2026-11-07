@@ -6,7 +6,7 @@
 
 数据结构、算法、SQL、工程编码与逻辑推理。
 
-共 503 道题，分为 9 个专题。
+共 504 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -185,6 +185,7 @@
 - [Q-0429 删除链表中的重复元素。](../questions/Q-0429.md) · [在线阅读](https://mianstack.com/question/q-0429) · **已有答案**
 - [Q-0585 求最长有效括号子串。](../questions/Q-0585.md) · [在线阅读](https://mianstack.com/question/q-0585) · **已有答案**
 - [Q-0750 重排链表。](../questions/Q-0750.md) · [在线阅读](https://mianstack.com/question/q-0750) · **已有答案**
+- [Q-10417 分别反转链表的前半段和后半段，奇数长度时保持中间节点不动。](../questions/Q-10417.md) · [在线阅读](https://mianstack.com/question/q-10417)
 - [Q-1122 判断括号字符串是否有效。](../questions/Q-1122.md) · [在线阅读](https://mianstack.com/question/q-1122)
 - [Q-1192 反转链表。](../questions/Q-1192.md) · [在线阅读](https://mianstack.com/question/q-1192) · **已有答案**
 - [Q-1333 队列和栈有何区别，栈在 Java 中有哪些用途？](../questions/Q-1333.md) · [在线阅读](https://mianstack.com/question/q-1333)

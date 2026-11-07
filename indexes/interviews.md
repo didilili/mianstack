@@ -4,7 +4,7 @@
 
 [返回题库总索引](../INDEX.md) · [在线阅读](https://mianstack.com/interview)
 
-共 947 篇真实面经，按公司分组。选择目标公司，看看同类岗位问过什么、怎样追问，再回到题库准备对应答案。
+共 957 篇真实面经，按公司分组。选择目标公司，看看同类岗位问过什么、怎样追问，再回到题库准备对应答案。
 
 ## 页内导航
 
@@ -16,13 +16,13 @@
 - [百度](#company-3)
 - [快手](#company-4)
 - [公司未注明](#company-5)
-- [美团](#company-6)
-- [腾讯](#company-7)
+- [腾讯](#company-6)
+- [美团](#company-7)
 - [小红书](#company-8)
 - [滴滴](#company-9)
 - [华为](#company-10)
-- [京东](#company-11)
-- [蚂蚁集团](#company-12)
+- [蚂蚁集团](#company-11)
+- [京东](#company-12)
 - [拼多多](#company-13)
 - [去哪儿](#company-14)
 - [深信服](#company-15)
@@ -37,42 +37,42 @@
 - [懂车帝](#company-24)
 - [作业帮](#company-25)
 - [腾讯音乐](#company-26)
-- [小鹏](#company-27)
-- [亚信科技](#company-28)
-- [CVTE](#company-29)
-- [360](#company-30)
-- [多益网络](#company-31)
-- [汇川技术](#company-32)
-- [唯品会](#company-33)
-- [蔚来](#company-34)
-- [携程](#company-35)
+- [蔚来](#company-27)
+- [小鹏](#company-28)
+- [携程](#company-29)
+- [亚信科技](#company-30)
+- [CVTE](#company-31)
+- [360](#company-32)
+- [多益网络](#company-33)
+- [汇川技术](#company-34)
+- [唯品会](#company-35)
 - [中兴](#company-36)
 - [阿里巴巴（淘天）](#company-37)
 - [传音](#company-38)
 - [帆软](#company-39)
 - [高德](#company-40)
-- [荣耀](#company-41)
-- [商汤](#company-42)
-- [水滴](#company-43)
-- [小米](#company-44)
-- [要务科技](#company-45)
-- [知乎](#company-46)
-- [BIGO](#company-47)
-- [MiniMax](#company-48)
-- [Shopee](#company-49)
-- [佰聆数据](#company-50)
-- [哔哩哔哩](#company-51)
-- [电信](#company-52)
-- [东方财富](#company-53)
-- [海底捞](#company-54)
-- [虎牙](#company-55)
-- [经纬恒润](#company-56)
-- [九方智投](#company-57)
-- [联想](#company-58)
-- [蚂蚁国际](#company-59)
-- [米哈游](#company-60)
-- [宁波银行](#company-61)
-- [清微智能](#company-62)
+- [清微智能](#company-41)
+- [荣耀](#company-42)
+- [商汤](#company-43)
+- [水滴](#company-44)
+- [小米](#company-45)
+- [要务科技](#company-46)
+- [知乎](#company-47)
+- [BIGO](#company-48)
+- [MiniMax](#company-49)
+- [Shopee](#company-50)
+- [佰聆数据](#company-51)
+- [哔哩哔哩](#company-52)
+- [电信](#company-53)
+- [东方财富](#company-54)
+- [海底捞](#company-55)
+- [虎牙](#company-56)
+- [经纬恒润](#company-57)
+- [九方智投](#company-58)
+- [联想](#company-59)
+- [蚂蚁国际](#company-60)
+- [米哈游](#company-61)
+- [宁波银行](#company-62)
 - [水滴公司](#company-63)
 - [淘天](#company-64)
 - [腾讯云](#company-65)
@@ -89,214 +89,215 @@
 - [转转](#company-76)
 - [DeepSeek](#company-77)
 - [Moka](#company-78)
-- [3K 游戏、中翔数据](#company-79)
-- [阿里国际](#company-80)
-- [阿里控股](#company-81)
-- [阿里云](#company-82)
-- [爱回收](#company-83)
-- [安恒信息](#company-84)
-- [白龙马云行科技](#company-85)
-- [比孚信息科技](#company-86)
-- [壁仞科技](#company-87)
-- [波克、比亚迪、客路、CVTE、石犀科技](#company-88)
-- [波克城市](#company-89)
-- [不鸣科技](#company-90)
-- [曹操出行](#company-91)
-- [禅游科技](#company-92)
-- [超参数](#company-93)
-- [超聚变](#company-94)
-- [车300](#company-95)
-- [重庆远见](#company-96)
-- [传音控股](#company-97)
-- [大华](#company-98)
-- [袋鼠云](#company-99)
-- [点点互动](#company-100)
-- [钉学科技](#company-101)
-- [鼎捷数智](#company-102)
-- [鼎桥](#company-103)
-- [都学网](#company-104)
-- [多点数智](#company-105)
-- [哆咔互娱](#company-106)
-- [法本信息](#company-107)
-- [法大大](#company-108)
-- [饭团外卖](#company-109)
-- [飞轮数据](#company-110)
-- [分叉智能科技](#company-111)
-- [纷享销客](#company-112)
-- [格物致信](#company-113)
-- [公司未注明、Momenta、字节跳动、柏楚、快手](#company-114)
-- [构序智能](#company-115)
-- [广电数科](#company-116)
-- [广东元海](#company-117)
-- [广州报业](#company-118)
-- [硅心科技](#company-119)
-- [国金证券](#company-120)
-- [哈啰](#company-121)
-- [海康威视](#company-122)
-- [寒武纪](#company-123)
-- [杭州可见信号科技](#company-124)
-- [浩鲸](#company-125)
-- [浩鲸科技](#company-126)
-- [和顺慧康](#company-127)
-- [黑白调](#company-128)
-- [花小小新疆炒米粉](#company-129)
-- [华测](#company-130)
-- [华橙](#company-131)
-- [华勤](#company-132)
-- [华盛通](#company-133)
-- [华顺信安](#company-134)
-- [汇顶科技](#company-135)
-- [货拉拉](#company-136)
-- [吉比特](#company-137)
-- [吉利](#company-138)
-- [极兔](#company-139)
-- [极兔速递](#company-140)
-- [极智嘉](#company-141)
-- [江淮汽车](#company-142)
-- [阶跃星辰](#company-143)
-- [金蝶](#company-144)
-- [金山办公](#company-145)
-- [金山软件](#company-146)
-- [靖安科技](#company-147)
-- [九号公司](#company-148)
-- [九坤创新](#company-149)
-- [巨人网络](#company-150)
-- [凯越集团](#company-151)
-- [康冠科技](#company-152)
-- [科大讯飞、首都在线、宇量晟、四川长虹、度小满、字节跳动、恒生电子、腾娱互动、金蝶、汽车之家](#company-153)
-- [科沃斯](#company-154)
-- [客诺信息技术](#company-155)
-- [快商通](#company-156)
-- [岚图](#company-157)
-- [蓝标传媒](#company-158)
-- [老虎国际](#company-159)
-- [乐堡互娱](#company-160)
-- [乐享元游](#company-161)
-- [雷鸣比特](#company-162)
-- [理想](#company-163)
-- [理想汽车](#company-164)
-- [联宝科技](#company-165)
-- [联影](#company-166)
-- [联友科技](#company-167)
-- [猎豹移动](#company-168)
-- [猎聘](#company-169)
-- [灵犀互娱](#company-170)
-- [零一万物](#company-171)
-- [刘文祥麻辣烫](#company-172)
-- [绿盟科技](#company-173)
-- [美的](#company-174)
-- [美图](#company-175)
-- [萌力无限](#company-176)
-- [名创优品](#company-177)
-- [沐瞳科技](#company-178)
-- [沐曦](#company-179)
-- [南芯](#company-180)
-- [欧达光电](#company-181)
-- [拼多多、荣耀、立元科技、得物、华橙](#company-182)
-- [平安健康保险](#company-183)
-- [平安科技](#company-184)
-- [浦发银行](#company-185)
-- [浦银金科](#company-186)
-- [麒麟软件](#company-187)
-- [启云方](#company-188)
-- [汽车之家](#company-189)
-- [千寻智能](#company-190)
-- [轻舟智航](#company-191)
-- [趣加（FunPlus）](#company-192)
-- [睿联](#company-193)
-- [睿芯](#company-194)
-- [润嵘金属网有限公司](#company-195)
-- [三一树根](#company-196)
-- [上海景行智合安全技术](#company-197)
-- [上海九云数智](#company-198)
-- [上海联蔚数科](#company-199)
-- [上海摩和文化](#company-200)
-- [上海银行、中国银行、中国移动、中国平安](#company-201)
-- [深势科技](#company-202)
-- [深圳璇溟科技有限公司](#company-203)
-- [盛大](#company-204)
-- [顺丰科技](#company-205)
-- [思锐卓远](#company-206)
-- [四维图新](#company-207)
-- [拓竹](#company-208)
-- [钛松科技](#company-209)
-- [腾讯 WXG](#company-210)
-- [腾讯混元](#company-211)
-- [腾讯元宝](#company-212)
-- [同程旅行](#company-213)
-- [万仞](#company-214)
-- [万兴科技](#company-215)
-- [网新软件](#company-216)
-- [网易雷火](#company-217)
-- [微博](#company-218)
-- [微步在线](#company-219)
-- [维他奶](#company-220)
-- [文远知行、MiniMax](#company-221)
-- [小红书、百度](#company-222)
-- [小满科技](#company-223)
-- [小鹏、卓驭、百度、Momenta、华为、美团、零跑汽车、经纬恒润、长安汽车、智驾新程、三一重工](#company-224)
-- [小鹏集团](#company-225)
-- [小鹏汽车](#company-226)
-- [晓多科技](#company-227)
-- [新东方](#company-228)
-- [信锐网科](#company-229)
-- [雪梨教育](#company-230)
-- [亚信安全](#company-231)
-- [阳光电源](#company-232)
-- [药明康德](#company-233)
-- [伊顿电气](#company-234)
-- [易思维](#company-235)
-- [英迈软件](#company-236)
-- [影石创新](#company-237)
-- [用友、太平洋网络](#company-238)
-- [优博讯](#company-239)
-- [有赞](#company-240)
-- [宇视科技](#company-241)
-- [宇树机器人](#company-242)
-- [元气森林](#company-243)
-- [元戎启行](#company-244)
-- [原力灵机](#company-245)
-- [远志](#company-246)
-- [招联](#company-247)
-- [招银](#company-248)
-- [招银科技](#company-249)
-- [招银网络科技](#company-250)
-- [挚文集团](#company-251)
-- [智谱](#company-252)
-- [智书企飞](#company-253)
-- [智元机器人、字节跳动](#company-254)
-- [中国电信](#company-255)
-- [中国工商银行](#company-256)
-- [中国银行](#company-257)
-- [中科创达](#company-258)
-- [中科曙光](#company-259)
-- [中科星图维天信](#company-260)
-- [中兴通讯](#company-261)
-- [中邮消费金融](#company-262)
-- [众安保险](#company-263)
-- [卓望](#company-264)
-- [字节跳动、百度、腾讯、传音控股](#company-265)
-- [字节跳动、腾讯、蚂蚁集团](#company-266)
-- [自变量](#company-267)
-- [Cherry Studio](#company-268)
-- [Coremail](#company-269)
-- [Fanvil](#company-270)
-- [FOSHO](#company-271)
-- [KuCoin](#company-272)
-- [MemTensor](#company-273)
-- [Momenta](#company-274)
-- [Snapmaker](#company-275)
-- [Soul](#company-276)
-- [TCL科技](#company-277)
-- [Teamily AI](#company-278)
-- [TP-Link（普联）](#company-279)
-- [tuitti视界之外](#company-280)
-- [VITURE](#company-281)
+- [Soul](#company-79)
+- [3K 游戏、中翔数据](#company-80)
+- [阿里国际](#company-81)
+- [阿里控股](#company-82)
+- [阿里云](#company-83)
+- [爱回收](#company-84)
+- [安恒信息](#company-85)
+- [白龙马云行科技](#company-86)
+- [比孚信息科技](#company-87)
+- [壁仞科技](#company-88)
+- [波克、比亚迪、客路、CVTE、石犀科技](#company-89)
+- [波克城市](#company-90)
+- [不鸣科技](#company-91)
+- [曹操出行](#company-92)
+- [禅游科技](#company-93)
+- [超参数](#company-94)
+- [超聚变](#company-95)
+- [车300](#company-96)
+- [重庆远见](#company-97)
+- [传音控股](#company-98)
+- [大华](#company-99)
+- [袋鼠云](#company-100)
+- [点点互动](#company-101)
+- [钉学科技](#company-102)
+- [鼎捷数智](#company-103)
+- [鼎桥](#company-104)
+- [都学网](#company-105)
+- [多点数智](#company-106)
+- [哆咔互娱](#company-107)
+- [法本信息](#company-108)
+- [法大大](#company-109)
+- [饭团外卖](#company-110)
+- [飞轮数据](#company-111)
+- [分叉智能科技](#company-112)
+- [纷享销客](#company-113)
+- [格物致信](#company-114)
+- [公司未注明、Momenta、字节跳动、柏楚、快手](#company-115)
+- [构序智能](#company-116)
+- [广电数科](#company-117)
+- [广东元海](#company-118)
+- [广州报业](#company-119)
+- [硅心科技](#company-120)
+- [国金证券](#company-121)
+- [哈啰](#company-122)
+- [海尔](#company-123)
+- [海康威视](#company-124)
+- [寒武纪](#company-125)
+- [杭州可见信号科技](#company-126)
+- [浩鲸](#company-127)
+- [浩鲸科技](#company-128)
+- [和顺慧康](#company-129)
+- [黑白调](#company-130)
+- [花小小新疆炒米粉](#company-131)
+- [华测](#company-132)
+- [华橙](#company-133)
+- [华勤](#company-134)
+- [华盛通](#company-135)
+- [华顺信安](#company-136)
+- [汇顶科技](#company-137)
+- [货拉拉](#company-138)
+- [吉比特](#company-139)
+- [吉利](#company-140)
+- [极兔](#company-141)
+- [极兔速递](#company-142)
+- [极智嘉](#company-143)
+- [江淮汽车](#company-144)
+- [阶跃星辰](#company-145)
+- [金蝶](#company-146)
+- [金山办公](#company-147)
+- [金山软件](#company-148)
+- [靖安科技](#company-149)
+- [九号公司](#company-150)
+- [九坤创新](#company-151)
+- [巨人网络](#company-152)
+- [凯越集团](#company-153)
+- [康冠科技](#company-154)
+- [科大讯飞、首都在线、宇量晟、四川长虹、度小满、字节跳动、恒生电子、腾娱互动、金蝶、汽车之家](#company-155)
+- [科沃斯](#company-156)
+- [客诺信息技术](#company-157)
+- [快商通](#company-158)
+- [岚图](#company-159)
+- [蓝标传媒](#company-160)
+- [老虎国际](#company-161)
+- [乐堡互娱](#company-162)
+- [乐享元游](#company-163)
+- [雷鸣比特](#company-164)
+- [理想](#company-165)
+- [理想汽车](#company-166)
+- [联宝科技](#company-167)
+- [联影](#company-168)
+- [联友科技](#company-169)
+- [猎豹移动](#company-170)
+- [猎聘](#company-171)
+- [灵犀互娱](#company-172)
+- [零一万物](#company-173)
+- [刘文祥麻辣烫](#company-174)
+- [绿盟科技](#company-175)
+- [美的](#company-176)
+- [美图](#company-177)
+- [萌力无限](#company-178)
+- [名创优品](#company-179)
+- [沐瞳科技](#company-180)
+- [沐曦](#company-181)
+- [南芯](#company-182)
+- [欧达光电](#company-183)
+- [拼多多、荣耀、立元科技、得物、华橙](#company-184)
+- [平安健康保险](#company-185)
+- [平安科技](#company-186)
+- [浦发银行](#company-187)
+- [浦银金科](#company-188)
+- [麒麟软件](#company-189)
+- [启云方](#company-190)
+- [汽车之家](#company-191)
+- [千寻智能](#company-192)
+- [轻舟智航](#company-193)
+- [趣加（FunPlus）](#company-194)
+- [睿联](#company-195)
+- [睿芯](#company-196)
+- [润嵘金属网有限公司](#company-197)
+- [三一树根](#company-198)
+- [上海景行智合安全技术](#company-199)
+- [上海九云数智](#company-200)
+- [上海联蔚数科](#company-201)
+- [上海摩和文化](#company-202)
+- [上海银行、中国银行、中国移动、中国平安](#company-203)
+- [深势科技](#company-204)
+- [深圳璇溟科技有限公司](#company-205)
+- [盛大](#company-206)
+- [顺丰科技](#company-207)
+- [思锐卓远](#company-208)
+- [四维图新](#company-209)
+- [拓竹](#company-210)
+- [钛松科技](#company-211)
+- [腾讯 WXG](#company-212)
+- [腾讯混元](#company-213)
+- [腾讯元宝](#company-214)
+- [同程旅行](#company-215)
+- [万仞](#company-216)
+- [万兴科技](#company-217)
+- [网新软件](#company-218)
+- [网易雷火](#company-219)
+- [微博](#company-220)
+- [微步在线](#company-221)
+- [维他奶](#company-222)
+- [文远知行、MiniMax](#company-223)
+- [小红书、百度](#company-224)
+- [小满科技](#company-225)
+- [小鹏、卓驭、百度、Momenta、华为、美团、零跑汽车、经纬恒润、长安汽车、智驾新程、三一重工](#company-226)
+- [小鹏集团](#company-227)
+- [小鹏汽车](#company-228)
+- [晓多科技](#company-229)
+- [新东方](#company-230)
+- [信锐网科](#company-231)
+- [雪梨教育](#company-232)
+- [亚信安全](#company-233)
+- [阳光电源](#company-234)
+- [药明康德](#company-235)
+- [伊顿电气](#company-236)
+- [易思维](#company-237)
+- [英迈软件](#company-238)
+- [影石创新](#company-239)
+- [用友、太平洋网络](#company-240)
+- [优博讯](#company-241)
+- [有赞](#company-242)
+- [宇视科技](#company-243)
+- [宇树机器人](#company-244)
+- [元气森林](#company-245)
+- [元戎启行](#company-246)
+- [原力灵机](#company-247)
+- [远志](#company-248)
+- [招联](#company-249)
+- [招银](#company-250)
+- [招银科技](#company-251)
+- [招银网络科技](#company-252)
+- [挚文集团](#company-253)
+- [智谱](#company-254)
+- [智书企飞](#company-255)
+- [智元机器人、字节跳动](#company-256)
+- [中国电信](#company-257)
+- [中国工商银行](#company-258)
+- [中国银行](#company-259)
+- [中科创达](#company-260)
+- [中科曙光](#company-261)
+- [中科星图维天信](#company-262)
+- [中兴通讯](#company-263)
+- [中邮消费金融](#company-264)
+- [众安保险](#company-265)
+- [卓望](#company-266)
+- [字节跳动、百度、腾讯、传音控股](#company-267)
+- [字节跳动、腾讯、蚂蚁集团](#company-268)
+- [自变量](#company-269)
+- [Cherry Studio](#company-270)
+- [Coremail](#company-271)
+- [Fanvil](#company-272)
+- [FOSHO](#company-273)
+- [KuCoin](#company-274)
+- [MemTensor](#company-275)
+- [Momenta](#company-276)
+- [Snapmaker](#company-277)
+- [TCL科技](#company-278)
+- [Teamily AI](#company-279)
+- [TP-Link（普联）](#company-280)
+- [tuitti视界之外](#company-281)
+- [VITURE](#company-282)
 
 </details>
 
 <a id="company-1"></a>
-## 字节跳动（126）
+## 字节跳动（128）
 
 - [MJ-NC-2026-0002 字节跳动（飞书）｜后端开发工程师（AI / Agent 方向，内容推测）｜二面](../interviews/MJ-NC-2026-0002.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0002) — 后端开发工程师（AI / Agent 方向）（推测） · 2026-07-19
 - [MJ-NC-2026-0004 字节跳动（剪映）｜AI 全栈开发工程师｜一面](../interviews/MJ-NC-2026-0004.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0004) — AI 全栈开发工程师 · 2026-07-18
@@ -420,6 +421,8 @@
 - [MJ-NC-2026-0943 字节抖音前端三面面经 —— 已挂](../interviews/MJ-NC-2026-0943.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0943) — 前端开发 · 2026-10-30
 - [MJ-NC-2026-0944 字节抖音前端二面面经](../interviews/MJ-NC-2026-0944.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0944) — 前端开发 · 2026-10-30
 - [MJ-NC-2026-0949 字节跳动 后端 Agent 一面 面经](../interviews/MJ-NC-2026-0949.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0949) — 后端 Agent · 2026-11-03
+- [MJ-NC-2026-0960 字节跳动 后端 Agent 二面 面经](../interviews/MJ-NC-2026-0960.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0960) — 后端 Agent · 2026-11-04
+- [MJ-NC-2026-0967 字节跳动 中国交易与广告 AI 全栈实习一面面经](../interviews/MJ-NC-2026-0967.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0967) — AI 全栈实习生 · 实习 · 2026-11-07
 - [MJ-XHS-2026-0516 字节春招 26届后端开发Agent一面](../interviews/MJ-XHS-2026-0516.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0516) — 后端开发（Agent 方向） · 实习 · 2026-03-06
 - [MJ-XHS-2026-0518 春招记录| 字节Agent面试都在问什么](../interviews/MJ-XHS-2026-0518.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0518) — Agent · 2026-05-22
 - [MJ-XHS-2026-0520 字节跳动Agent开发一面](../interviews/MJ-XHS-2026-0520.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0520) — Agent 开发 · 实习 · 2026-03-14
@@ -613,7 +616,7 @@
 - [MJ-XHS-2026-0551 快手AI后端日常实习二面](../interviews/MJ-XHS-2026-0551.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0551) — 后端开发 · 实习 · 2026-04-21
 
 <a id="company-5"></a>
-## 公司未注明（33）
+## 公司未注明（34）
 
 - [MJ-NC-2026-0622 成都agent实习面经](../interviews/MJ-NC-2026-0622.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0622) — Agent 实习岗 · 实习 · 2026-02-10
 - [MJ-NC-2026-0623 某中厂Agent开发面经-日常实习](../interviews/MJ-NC-2026-0623.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0623) — Agent 开发 · 实习 · 2026-02-27
@@ -640,6 +643,7 @@
 - [MJ-NC-2026-0868 某某大厂 一二三面 测试开发岗](../interviews/MJ-NC-2026-0868.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0868) — 测试开发岗 · 2026-10-12
 - [MJ-NC-2026-0948 1小时秒杀agent八股  ——RAG与知识库](../interviews/MJ-NC-2026-0948.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0948) — 2026-11-03
 - [MJ-NC-2026-0950 【面经】上海某小厂 Java 后端开发一面](../interviews/MJ-NC-2026-0950.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0950) — Java 后端开发工程师 · 校招 · 2026-11-03
+- [MJ-NC-2026-0959 成都小厂 Agent 实习面经](../interviews/MJ-NC-2026-0959.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0959) — Agent 开发实习生（推测） · 实习 · 2026-11-06
 - [MJ-XHS-2026-0510 面试高频问题系列-AI coding（一）](../interviews/MJ-XHS-2026-0510.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0510) — 2026-06-22
 - [MJ-XHS-2026-0511 面试高频问题系列-AI coding（二）](../interviews/MJ-XHS-2026-0511.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0511) — 2026-06-25
 - [MJ-XHS-2026-0512 Agent面试如何准备项目](../interviews/MJ-XHS-2026-0512.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0512) — Agent 岗位 · 2026-07-02
@@ -650,6 +654,43 @@
 - [MJ-XHS-2026-0536 分享一下我面试Agent岗位时被问到的问题……](../interviews/MJ-XHS-2026-0536.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0536) — Agent 岗位 · 2026-03-25
 
 <a id="company-6"></a>
+## 腾讯（33）
+
+- [MJ-NC-2026-0015 腾讯｜测试开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0015.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0015) — 测试开发工程师 · 实习 · 2026-07-17
+- [MJ-NC-2026-0019 腾讯｜AI 应用开发工程师（内容推测）｜暑期｜三面](../interviews/MJ-NC-2026-0019.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0019) — AI 应用开发工程师（推测） · 2026-07-15
+- [MJ-NC-2026-0030 腾讯｜后端开发工程师｜一面](../interviews/MJ-NC-2026-0030.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0030) — 后端开发工程师 · 2026-07-14
+- [MJ-NC-2026-0067 腾讯｜后端开发工程师｜一面](../interviews/MJ-NC-2026-0067.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0067) — 后端开发工程师 · 2026-03-27
+- [MJ-NC-2026-0069 腾讯｜后端开发工程师（AI 应用）｜实习](../interviews/MJ-NC-2026-0069.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0069) — 后端开发工程师（AI 应用） · 实习 · 2026-04-23
+- [MJ-NC-2026-0082 腾讯（腾讯云）｜AI Agent｜实习](../interviews/MJ-NC-2026-0082.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0082) — AI Agent · 实习 · 2026-03-10
+- [MJ-NC-2026-0236 腾讯（元宝）｜AI 评测工程师（内容安全方向，内容推测）｜日常实习｜一面、二面、三面](../interviews/MJ-NC-2026-0236.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0236) — AI 评测工程师（内容安全方向）（推测） · 实习 · 2026-09-03
+- [MJ-NC-2026-0343 腾讯（微信读书）｜软件开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0343.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0343) — 软件开发工程师 · 2026-08-24
+- [MJ-NC-2026-0360 腾讯｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0360.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0360) — 全栈开发工程师 · 社招 · 2026-08-03
+- [MJ-NC-2026-0364 腾讯｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0364.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0364) — 全栈开发工程师 · 社招 · 2026-08-09
+- [MJ-NC-2026-0383 腾讯｜后端开发工程师｜二面](../interviews/MJ-NC-2026-0383.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0383) — 后端开发工程师 · 2026-07-14
+- [MJ-NC-2026-0408 腾讯（腾讯营销-广告场景-流量主风控）｜风控算法工程师｜实习｜一面](../interviews/MJ-NC-2026-0408.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0408) — 风控算法工程师 · 实习 · 2026-06-08
+- [MJ-NC-2026-0419 腾讯｜后端开发工程师（大数据与 Agent）｜暑期实习｜一面、二面](../interviews/MJ-NC-2026-0419.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0419) — 后端开发工程师（大数据与 Agent） · 实习 · 2026-05-12
+- [MJ-NC-2026-0422 腾讯｜后端开发工程师（AI）｜实习](../interviews/MJ-NC-2026-0422.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0422) — 后端开发工程师（AI） · 实习 · 2026-05-09
+- [MJ-NC-2026-0446 腾讯｜大模型算法工程师｜暑期](../interviews/MJ-NC-2026-0446.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0446) — 大模型算法工程师 · 2026-05-18
+- [MJ-NC-2026-0447 腾讯｜大模型算法工程师｜暑期](../interviews/MJ-NC-2026-0447.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0447) — 大模型算法工程师 · 2026-05-18
+- [MJ-NC-2026-0484 腾讯（企业微信）｜前端开发工程师｜一面](../interviews/MJ-NC-2026-0484.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0484) — 前端开发工程师 · 2026-05-06
+- [MJ-NC-2026-0494 腾讯｜大模型算法工程师｜暑期实习｜一面](../interviews/MJ-NC-2026-0494.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0494) — 大模型算法工程师 · 实习 · 2026-05-05
+- [MJ-NC-2026-0504 腾讯｜后端开发工程师（AI）｜实习｜一面](../interviews/MJ-NC-2026-0504.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0504) — 后端开发工程师（AI） · 实习 · 2026-05-03
+- [MJ-NC-2026-0508 腾讯（金融科技）｜后端开发工程师（AI）｜实习](../interviews/MJ-NC-2026-0508.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0508) — 后端开发工程师（AI） · 实习 · 2026-05-01
+- [MJ-NC-2026-0567 腾讯（营销）｜后端开发工程师｜一面](../interviews/MJ-NC-2026-0567.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0567) — 后端开发工程师 · 2026-09-24
+- [MJ-NC-2026-0599 腾讯｜Agent 开发工程师（内容推测）｜社招｜三面](../interviews/MJ-NC-2026-0599.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0599) — Agent 开发工程师（推测） · 社招 · 2026-09-23
+- [MJ-NC-2026-0600 腾讯｜Agent 开发工程师（内容推测）｜社招｜一面](../interviews/MJ-NC-2026-0600.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0600) — Agent 开发工程师（推测） · 社招 · 2026-09-23
+- [MJ-NC-2026-0691 腾讯WXG-日常一面面经](../interviews/MJ-NC-2026-0691.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0691) — 后端开发工程师 · 实习 · 2026-10-31
+- [MJ-NC-2026-0872 腾讯日常实习csig业务后训练一二面面经](../interviews/MJ-NC-2026-0872.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0872) — 后训练 · 实习 · 2026-10-11
+- [MJ-NC-2026-0881 腾讯WXG暑期实习面经-大模型算法](../interviews/MJ-NC-2026-0881.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0881) — 大模型算法实习生 · 实习 · 2026-10-09
+- [MJ-NC-2026-0899 腾讯多模态算法岗 一二面面经](../interviews/MJ-NC-2026-0899.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0899) — 多模态算法岗 · 2026-10-05
+- [MJ-NC-2026-0904 腾讯 260824 一面面经](../interviews/MJ-NC-2026-0904.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0904) — 安全技术（风控算法方向）Agent 开发 · 2026-10-02
+- [MJ-NC-2026-0906 腾讯大模型算法岗一二面面经](../interviews/MJ-NC-2026-0906.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0906) — 大模型算法岗 · 2026-10-02
+- [MJ-NC-2026-0908 腾讯IEG后台开发日常实习二面/HR面面经（已过等offer中）](../interviews/MJ-NC-2026-0908.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0908) — 后台开发 · 实习 · 2026-10-01
+- [MJ-NC-2026-0918 wxg一面，全方位拷打，已老实](../interviews/MJ-NC-2026-0918.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0918) — 后端开发工程师（推测） · 实习 · 2026-09-28
+- [MJ-NC-2026-0965 腾讯 IEG 后台开发日常实习一面面经](../interviews/MJ-NC-2026-0965.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0965) — 后台开发实习生 · 实习 · 2026-11-05
+- [MJ-XHS-2026-0513 腾讯agent一面凉凉凉经](../interviews/MJ-XHS-2026-0513.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0513) — AI 应用 / Agent 开发（推测） · 实习 · 2026-03-25
+
+<a id="company-7"></a>
 ## 美团（32）
 
 - [MJ-NC-2026-0048 美团｜后端开发工程师（AI）｜实习｜二面](../interviews/MJ-NC-2026-0048.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0048) — 后端开发工程师（AI） · 实习 · 2026-04-01
@@ -684,42 +725,6 @@
 - [MJ-XHS-2026-0533 美团暑期实习后端一面(已oc版)](../interviews/MJ-XHS-2026-0533.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0533) — 后端开发 · 实习 · 2026-05-24
 - [MJ-XHS-2026-0534 美团暑期实习后端二面(含ai coding题拷打)](../interviews/MJ-XHS-2026-0534.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0534) — 后端开发 · 实习 · 2026-05-26
 - [MJ-XHS-2026-0549 美团AI后端开发实习一面凉经](../interviews/MJ-XHS-2026-0549.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0549) — 后端开发 · 实习 · 2026-04-01
-
-<a id="company-7"></a>
-## 腾讯（32）
-
-- [MJ-NC-2026-0015 腾讯｜测试开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0015.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0015) — 测试开发工程师 · 实习 · 2026-07-17
-- [MJ-NC-2026-0019 腾讯｜AI 应用开发工程师（内容推测）｜暑期｜三面](../interviews/MJ-NC-2026-0019.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0019) — AI 应用开发工程师（推测） · 2026-07-15
-- [MJ-NC-2026-0030 腾讯｜后端开发工程师｜一面](../interviews/MJ-NC-2026-0030.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0030) — 后端开发工程师 · 2026-07-14
-- [MJ-NC-2026-0067 腾讯｜后端开发工程师｜一面](../interviews/MJ-NC-2026-0067.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0067) — 后端开发工程师 · 2026-03-27
-- [MJ-NC-2026-0069 腾讯｜后端开发工程师（AI 应用）｜实习](../interviews/MJ-NC-2026-0069.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0069) — 后端开发工程师（AI 应用） · 实习 · 2026-04-23
-- [MJ-NC-2026-0082 腾讯（腾讯云）｜AI Agent｜实习](../interviews/MJ-NC-2026-0082.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0082) — AI Agent · 实习 · 2026-03-10
-- [MJ-NC-2026-0236 腾讯（元宝）｜AI 评测工程师（内容安全方向，内容推测）｜日常实习｜一面、二面、三面](../interviews/MJ-NC-2026-0236.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0236) — AI 评测工程师（内容安全方向）（推测） · 实习 · 2026-09-03
-- [MJ-NC-2026-0343 腾讯（微信读书）｜软件开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0343.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0343) — 软件开发工程师 · 2026-08-24
-- [MJ-NC-2026-0360 腾讯｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0360.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0360) — 全栈开发工程师 · 社招 · 2026-08-03
-- [MJ-NC-2026-0364 腾讯｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0364.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0364) — 全栈开发工程师 · 社招 · 2026-08-09
-- [MJ-NC-2026-0383 腾讯｜后端开发工程师｜二面](../interviews/MJ-NC-2026-0383.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0383) — 后端开发工程师 · 2026-07-14
-- [MJ-NC-2026-0408 腾讯（腾讯营销-广告场景-流量主风控）｜风控算法工程师｜实习｜一面](../interviews/MJ-NC-2026-0408.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0408) — 风控算法工程师 · 实习 · 2026-06-08
-- [MJ-NC-2026-0419 腾讯｜后端开发工程师（大数据与 Agent）｜暑期实习｜一面、二面](../interviews/MJ-NC-2026-0419.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0419) — 后端开发工程师（大数据与 Agent） · 实习 · 2026-05-12
-- [MJ-NC-2026-0422 腾讯｜后端开发工程师（AI）｜实习](../interviews/MJ-NC-2026-0422.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0422) — 后端开发工程师（AI） · 实习 · 2026-05-09
-- [MJ-NC-2026-0446 腾讯｜大模型算法工程师｜暑期](../interviews/MJ-NC-2026-0446.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0446) — 大模型算法工程师 · 2026-05-18
-- [MJ-NC-2026-0447 腾讯｜大模型算法工程师｜暑期](../interviews/MJ-NC-2026-0447.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0447) — 大模型算法工程师 · 2026-05-18
-- [MJ-NC-2026-0484 腾讯（企业微信）｜前端开发工程师｜一面](../interviews/MJ-NC-2026-0484.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0484) — 前端开发工程师 · 2026-05-06
-- [MJ-NC-2026-0494 腾讯｜大模型算法工程师｜暑期实习｜一面](../interviews/MJ-NC-2026-0494.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0494) — 大模型算法工程师 · 实习 · 2026-05-05
-- [MJ-NC-2026-0504 腾讯｜后端开发工程师（AI）｜实习｜一面](../interviews/MJ-NC-2026-0504.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0504) — 后端开发工程师（AI） · 实习 · 2026-05-03
-- [MJ-NC-2026-0508 腾讯（金融科技）｜后端开发工程师（AI）｜实习](../interviews/MJ-NC-2026-0508.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0508) — 后端开发工程师（AI） · 实习 · 2026-05-01
-- [MJ-NC-2026-0567 腾讯（营销）｜后端开发工程师｜一面](../interviews/MJ-NC-2026-0567.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0567) — 后端开发工程师 · 2026-09-24
-- [MJ-NC-2026-0599 腾讯｜Agent 开发工程师（内容推测）｜社招｜三面](../interviews/MJ-NC-2026-0599.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0599) — Agent 开发工程师（推测） · 社招 · 2026-09-23
-- [MJ-NC-2026-0600 腾讯｜Agent 开发工程师（内容推测）｜社招｜一面](../interviews/MJ-NC-2026-0600.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0600) — Agent 开发工程师（推测） · 社招 · 2026-09-23
-- [MJ-NC-2026-0691 腾讯WXG-日常一面面经](../interviews/MJ-NC-2026-0691.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0691) — 后端开发工程师 · 实习 · 2026-10-31
-- [MJ-NC-2026-0872 腾讯日常实习csig业务后训练一二面面经](../interviews/MJ-NC-2026-0872.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0872) — 后训练 · 实习 · 2026-10-11
-- [MJ-NC-2026-0881 腾讯WXG暑期实习面经-大模型算法](../interviews/MJ-NC-2026-0881.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0881) — 大模型算法实习生 · 实习 · 2026-10-09
-- [MJ-NC-2026-0899 腾讯多模态算法岗 一二面面经](../interviews/MJ-NC-2026-0899.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0899) — 多模态算法岗 · 2026-10-05
-- [MJ-NC-2026-0904 腾讯 260824 一面面经](../interviews/MJ-NC-2026-0904.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0904) — 安全技术（风控算法方向）Agent 开发 · 2026-10-02
-- [MJ-NC-2026-0906 腾讯大模型算法岗一二面面经](../interviews/MJ-NC-2026-0906.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0906) — 大模型算法岗 · 2026-10-02
-- [MJ-NC-2026-0908 腾讯IEG后台开发日常实习二面/HR面面经（已过等offer中）](../interviews/MJ-NC-2026-0908.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0908) — 后台开发 · 实习 · 2026-10-01
-- [MJ-NC-2026-0918 wxg一面，全方位拷打，已老实](../interviews/MJ-NC-2026-0918.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0918) — 后端开发工程师（推测） · 实习 · 2026-09-28
-- [MJ-XHS-2026-0513 腾讯agent一面凉凉凉经](../interviews/MJ-XHS-2026-0513.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0513) — AI 应用 / Agent 开发（推测） · 实习 · 2026-03-25
 
 <a id="company-8"></a>
 ## 小红书（22）
@@ -790,6 +795,27 @@
 - [MJ-NC-2026-0931 27秋招 华为 结构与材料工程师-结构 二面面经](../interviews/MJ-NC-2026-0931.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0931) — 结构与材料工程师（结构） · 校招 · 2026-10-18
 
 <a id="company-11"></a>
+## 蚂蚁集团（17）
+
+- [MJ-NC-2026-0052 蚂蚁集团｜AI Agent｜暑期实习｜一面](../interviews/MJ-NC-2026-0052.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0052) — AI Agent · 实习 · 2026-04-16
+- [MJ-NC-2026-0053 蚂蚁集团｜Agent 开发工程师（金融）｜暑期](../interviews/MJ-NC-2026-0053.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0053) — Agent 开发工程师（金融） · 2026-04-10
+- [MJ-NC-2026-0083 蚂蚁集团｜研发效能工程师｜一面](../interviews/MJ-NC-2026-0083.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0083) — 研发效能工程师 · 2026-04-13
+- [MJ-NC-2026-0088 蚂蚁集团｜后端开发工程师（Agent）｜暑期｜一面](../interviews/MJ-NC-2026-0088.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0088) — 后端开发工程师（Agent） · 2026-04-19
+- [MJ-NC-2026-0125 蚂蚁集团｜Agent 开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0125.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0125) — Agent 开发工程师 · 实习 · 2026-05-02
+- [MJ-NC-2026-0228 蚂蚁集团｜笔试｜笔试记录](../interviews/MJ-NC-2026-0228.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0228) — 2026-09-06
+- [MJ-NC-2026-0309 蚂蚁集团｜Agent 开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0309.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0309) — Agent 开发工程师 · 2026-08-28
+- [MJ-NC-2026-0358 蚂蚁集团（财富）｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0358.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0358) — 全栈开发工程师 · 社招 · 2026-08-08
+- [MJ-NC-2026-0415 蚂蚁集团｜Agent 应用开发工程师（内容推测）｜一面](../interviews/MJ-NC-2026-0415.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0415) — Agent 应用开发工程师（推测） · 2026-05-26
+- [MJ-NC-2026-0431 蚂蚁集团｜Agent 应用开发工程师（内容推测）｜暑期｜一面、二面、三面｜求职记录](../interviews/MJ-NC-2026-0431.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0431) — Agent 应用开发工程师（推测） · 2026-05-28
+- [MJ-NC-2026-0477 蚂蚁集团｜Agent｜暑期｜一面](../interviews/MJ-NC-2026-0477.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0477) — Agent · 2026-05-07
+- [MJ-NC-2026-0601 蚂蚁集团｜后端开发｜面经合集 04](../interviews/MJ-NC-2026-0601.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0601) — 后端开发工程师 · 2026-09-23
+- [MJ-NC-2026-0603 蚂蚁集团｜大模型算法｜面经合集 03](../interviews/MJ-NC-2026-0603.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0603) — 大模型算法工程师 · 2026-09-23
+- [MJ-NC-2026-0605 蚂蚁集团｜大模型算法/应用｜面经合集 02](../interviews/MJ-NC-2026-0605.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0605) — 大模型应用与智能体工程师 · 2026-09-23
+- [MJ-NC-2026-0620 蚂蚁集团｜后端开发｜面经合集 03](../interviews/MJ-NC-2026-0620.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0620) — 后端开发 · 2026-09-23
+- [MJ-NC-2026-0744 蚂蚁集团AI Agent 应用面经](../interviews/MJ-NC-2026-0744.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0744) — AI Agent 应用工程师 · 2026-10-22
+- [MJ-NC-2026-0966 蚂蚁集团 Agent 日常实习一面面经](../interviews/MJ-NC-2026-0966.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0966) — Agent · 实习 · 2026-11-06
+
+<a id="company-12"></a>
 ## 京东（16）
 
 - [MJ-NC-2026-0037 京东｜Agent 开发工程师](../interviews/MJ-NC-2026-0037.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0037) — Agent 开发工程师 · 2026-05-07
@@ -808,26 +834,6 @@
 - [MJ-XHS-2026-0545 京东AI Agent实习一面](../interviews/MJ-XHS-2026-0545.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0545) — AI 后端 / Agent 开发 · 实习 · 2026-03-24
 - [MJ-XHS-2026-0546 京东AI Agent实习二面](../interviews/MJ-XHS-2026-0546.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0546) — AI 后端 / Agent 开发 · 实习 · 2026-03-27
 - [MJ-XHS-2026-0547 京东Agent实习二面问题总结](../interviews/MJ-XHS-2026-0547.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0547) — Agent 实习 · 实习 · 2026-03-30
-
-<a id="company-12"></a>
-## 蚂蚁集团（16）
-
-- [MJ-NC-2026-0052 蚂蚁集团｜AI Agent｜暑期实习｜一面](../interviews/MJ-NC-2026-0052.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0052) — AI Agent · 实习 · 2026-04-16
-- [MJ-NC-2026-0053 蚂蚁集团｜Agent 开发工程师（金融）｜暑期](../interviews/MJ-NC-2026-0053.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0053) — Agent 开发工程师（金融） · 2026-04-10
-- [MJ-NC-2026-0083 蚂蚁集团｜研发效能工程师｜一面](../interviews/MJ-NC-2026-0083.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0083) — 研发效能工程师 · 2026-04-13
-- [MJ-NC-2026-0088 蚂蚁集团｜后端开发工程师（Agent）｜暑期｜一面](../interviews/MJ-NC-2026-0088.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0088) — 后端开发工程师（Agent） · 2026-04-19
-- [MJ-NC-2026-0125 蚂蚁集团｜Agent 开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0125.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0125) — Agent 开发工程师 · 实习 · 2026-05-02
-- [MJ-NC-2026-0228 蚂蚁集团｜笔试｜笔试记录](../interviews/MJ-NC-2026-0228.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0228) — 2026-09-06
-- [MJ-NC-2026-0309 蚂蚁集团｜Agent 开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0309.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0309) — Agent 开发工程师 · 2026-08-28
-- [MJ-NC-2026-0358 蚂蚁集团（财富）｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0358.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0358) — 全栈开发工程师 · 社招 · 2026-08-08
-- [MJ-NC-2026-0415 蚂蚁集团｜Agent 应用开发工程师（内容推测）｜一面](../interviews/MJ-NC-2026-0415.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0415) — Agent 应用开发工程师（推测） · 2026-05-26
-- [MJ-NC-2026-0431 蚂蚁集团｜Agent 应用开发工程师（内容推测）｜暑期｜一面、二面、三面｜求职记录](../interviews/MJ-NC-2026-0431.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0431) — Agent 应用开发工程师（推测） · 2026-05-28
-- [MJ-NC-2026-0477 蚂蚁集团｜Agent｜暑期｜一面](../interviews/MJ-NC-2026-0477.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0477) — Agent · 2026-05-07
-- [MJ-NC-2026-0601 蚂蚁集团｜后端开发｜面经合集 04](../interviews/MJ-NC-2026-0601.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0601) — 后端开发工程师 · 2026-09-23
-- [MJ-NC-2026-0603 蚂蚁集团｜大模型算法｜面经合集 03](../interviews/MJ-NC-2026-0603.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0603) — 大模型算法工程师 · 2026-09-23
-- [MJ-NC-2026-0605 蚂蚁集团｜大模型算法/应用｜面经合集 02](../interviews/MJ-NC-2026-0605.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0605) — 大模型应用与智能体工程师 · 2026-09-23
-- [MJ-NC-2026-0620 蚂蚁集团｜后端开发｜面经合集 03](../interviews/MJ-NC-2026-0620.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0620) — 后端开发 · 2026-09-23
-- [MJ-NC-2026-0744 蚂蚁集团AI Agent 应用面经](../interviews/MJ-NC-2026-0744.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0744) — AI Agent 应用工程师 · 2026-10-22
 
 <a id="company-13"></a>
 ## 拼多多（16）
@@ -1004,6 +1010,15 @@
 - [MJ-XHS-2026-0532 已oc 腾讯音乐后端(agent)开发一面面经](../interviews/MJ-XHS-2026-0532.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0532) — 后端开发 · 实习 · 2026-05-21
 
 <a id="company-27"></a>
+## 蔚来（5）
+
+- [MJ-NC-2026-0258 蔚来（座舱）｜座舱大模型算法工程师（后训练 / Agent）｜一面](../interviews/MJ-NC-2026-0258.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0258) — 座舱大模型算法工程师（后训练 / Agent） · 2026-09-01
+- [MJ-NC-2026-0288 蔚来｜Java 开发工程师｜一面](../interviews/MJ-NC-2026-0288.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0288) — Java 开发工程师 · 2026-08-31
+- [MJ-NC-2026-0357 蔚来（Agent）｜大模型｜实习](../interviews/MJ-NC-2026-0357.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0357) — 大模型 · 实习 · 2025-06-12
+- [MJ-NC-2026-0730 NIO蔚来AI智能体应用研发一面面经](../interviews/MJ-NC-2026-0730.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0730) — AI 智能体应用研发 · 2026-10-26
+- [MJ-NC-2026-0963 蔚来 AI Infra 测试工程师一面面经](../interviews/MJ-NC-2026-0963.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0963) — AI Infra 测试工程师 · 2026-11-05
+
+<a id="company-28"></a>
 ## 小鹏（5）
 
 - [MJ-NC-2026-0248 小鹏（智驾）｜智驾 VLA 算法工程师｜秋招 · 正式批｜二面](../interviews/MJ-NC-2026-0248.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0248) — 智驾 VLA 算法工程师 · 2026-09-01
@@ -1012,7 +1027,16 @@
 - [MJ-NC-2026-0380 小鹏（汽车全生命周期业务系统）｜后端开发工程师（AI / Agent 方向，内容推测）｜二面](../interviews/MJ-NC-2026-0380.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0380) — 后端开发工程师（AI / Agent 方向）（推测） · 2026-08-31
 - [MJ-NC-2026-0653 小鹏提前批一面面经，许愿二面](../interviews/MJ-NC-2026-0653.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0653) — AI 岗 · 2026-07-30
 
-<a id="company-28"></a>
+<a id="company-29"></a>
+## 携程（5）
+
+- [MJ-NC-2026-0596 携程｜Agent 开发工程师｜一面](../interviews/MJ-NC-2026-0596.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0596) — Agent 开发工程师 · 2026-09-23
+- [MJ-NC-2026-0659 携程Agent二面 面经](../interviews/MJ-NC-2026-0659.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0659) — Agent · 2026-07-31
+- [MJ-NC-2026-0735 携程大模型算法岗一面面经](../interviews/MJ-NC-2026-0735.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0735) — 大模型算法工程师 · 2026-10-23
+- [MJ-NC-2026-0962 携程 Agent 开发 HR 面经](../interviews/MJ-NC-2026-0962.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0962) — Agent 开发（推测） · 2026-11-04
+- [MJ-XHS-2026-0515 感觉携程面试稍微轻松一点。。](../interviews/MJ-XHS-2026-0515.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0515) — Agent 开发 · 社招 · 2026-04-09
+
+<a id="company-30"></a>
 ## 亚信科技（5）
 
 - [MJ-NC-2026-0031 亚信科技｜Java 开发工程师｜实习](../interviews/MJ-NC-2026-0031.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0031) — Java 开发工程师 · 实习 · 2026-07-11
@@ -1021,7 +1045,7 @@
 - [MJ-NC-2026-0430 亚信科技｜后端开发工程师（AI / Agent 方向，内容推测）｜线上测试](../interviews/MJ-NC-2026-0430.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0430) — 后端开发工程师（AI / Agent 方向）（推测） · 2026-05-29
 - [MJ-NC-2026-0756 武汉亚信科技后端开发面经](../interviews/MJ-NC-2026-0756.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0756) — 后端开发 · 实习 · 2026-10-22
 
-<a id="company-29"></a>
+<a id="company-31"></a>
 ## CVTE（5）
 
 - [MJ-NC-2026-0424 CVTE（智能车载）｜嵌入式软件工程师（智能车载方向，内容推测）｜暑期实习｜机试](../interviews/MJ-NC-2026-0424.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0424) — 嵌入式软件工程师（智能车载方向）（推测） · 实习 · 2026-06-01
@@ -1030,7 +1054,7 @@
 - [MJ-NC-2026-0763 10.24 CVTE 视源股份应用开发工程师 一面](../interviews/MJ-NC-2026-0763.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0763) — 应用开发工程师 · 校招 · 2026-10-25
 - [MJ-NC-2026-0887 CVTE一面凉经](../interviews/MJ-NC-2026-0887.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0887) — 后端开发工程师（推测） · 2026-10-09
 
-<a id="company-30"></a>
+<a id="company-32"></a>
 ## 360（4）
 
 - [MJ-NC-2026-0316 360｜Agent 开发工程师｜社招｜二面](../interviews/MJ-NC-2026-0316.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0316) — Agent 开发工程师 · 社招 · 2026-08-05
@@ -1038,7 +1062,7 @@
 - [MJ-NC-2026-0346 360｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0346.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0346) — 全栈开发工程师 · 社招 · 2026-08-03
 - [MJ-NC-2026-0708 360 全栈工程师 一面 面经](../interviews/MJ-NC-2026-0708.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0708) — 全栈工程师 · 2026-10-30
 
-<a id="company-31"></a>
+<a id="company-33"></a>
 ## 多益网络（4）
 
 - [MJ-NC-2026-0255 多益网络（游戏）｜游戏后端开发工程师｜秋招](../interviews/MJ-NC-2026-0255.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0255) — 游戏后端开发工程师 · 2026-09-01
@@ -1046,7 +1070,7 @@
 - [MJ-NC-2026-0718 多益网络-软件开发-一面面经](../interviews/MJ-NC-2026-0718.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0718) — 软件开发工程师 · 2026-10-31
 - [MJ-NC-2026-0932 多益网络 Timeline](../interviews/MJ-NC-2026-0932.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0932) — 软件开发工程师（推测） · 2026-10-16
 
-<a id="company-32"></a>
+<a id="company-34"></a>
 ## 汇川技术（4）
 
 - [MJ-NC-2026-0169 汇川技术｜AI 全栈开发工程师｜实习｜二面](../interviews/MJ-NC-2026-0169.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0169) — AI 全栈开发工程师 · 实习 · 2026-09-03
@@ -1054,29 +1078,13 @@
 - [MJ-NC-2026-0234 汇川技术｜全栈开发｜秋招｜一面](../interviews/MJ-NC-2026-0234.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0234) — 全栈开发 · 2026-09-04
 - [MJ-NC-2026-0564 汇川技术｜全栈开发工程师｜技术面](../interviews/MJ-NC-2026-0564.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0564) — 全栈开发工程师 · 2026-09-24
 
-<a id="company-33"></a>
+<a id="company-35"></a>
 ## 唯品会（4）
 
 - [MJ-NC-2026-0003 唯品会｜NLP 算法工程师｜实习｜一面](../interviews/MJ-NC-2026-0003.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0003) — NLP 算法工程师 · 实习 · 2026-07-18
 - [MJ-NC-2026-0299 唯品会｜Agent 开发工程师｜社招｜二面](../interviews/MJ-NC-2026-0299.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0299) — Agent 开发工程师 · 社招 · 2026-08-15
 - [MJ-NC-2026-0665 唯品会 agent开发 一面](../interviews/MJ-NC-2026-0665.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0665) — Agent 开发 · 社招 · 2026-08-12
 - [MJ-NC-2026-0683 唯品会大模型算法实习面经](../interviews/MJ-NC-2026-0683.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0683) — 大模型算法实习 · 实习 · 2026-08-05
-
-<a id="company-34"></a>
-## 蔚来（4）
-
-- [MJ-NC-2026-0258 蔚来（座舱）｜座舱大模型算法工程师（后训练 / Agent）｜一面](../interviews/MJ-NC-2026-0258.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0258) — 座舱大模型算法工程师（后训练 / Agent） · 2026-09-01
-- [MJ-NC-2026-0288 蔚来｜Java 开发工程师｜一面](../interviews/MJ-NC-2026-0288.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0288) — Java 开发工程师 · 2026-08-31
-- [MJ-NC-2026-0357 蔚来（Agent）｜大模型｜实习](../interviews/MJ-NC-2026-0357.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0357) — 大模型 · 实习 · 2025-06-12
-- [MJ-NC-2026-0730 NIO蔚来AI智能体应用研发一面面经](../interviews/MJ-NC-2026-0730.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0730) — AI 智能体应用研发 · 2026-10-26
-
-<a id="company-35"></a>
-## 携程（4）
-
-- [MJ-NC-2026-0596 携程｜Agent 开发工程师｜一面](../interviews/MJ-NC-2026-0596.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0596) — Agent 开发工程师 · 2026-09-23
-- [MJ-NC-2026-0659 携程Agent二面 面经](../interviews/MJ-NC-2026-0659.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0659) — Agent · 2026-07-31
-- [MJ-NC-2026-0735 携程大模型算法岗一面面经](../interviews/MJ-NC-2026-0735.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0735) — 大模型算法工程师 · 2026-10-23
-- [MJ-XHS-2026-0515 感觉携程面试稍微轻松一点。。](../interviews/MJ-XHS-2026-0515.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0515) — Agent 开发 · 社招 · 2026-04-09
 
 <a id="company-36"></a>
 ## 中兴（4）
@@ -1115,145 +1123,146 @@
 - [MJ-XHS-2026-0553 高德AI后端日常实习二面](../interviews/MJ-XHS-2026-0553.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0553) — 后端开发 · 实习 · 2026-05-19
 
 <a id="company-41"></a>
+## 清微智能（3）
+
+- [MJ-NC-2026-0750 1022 清微智能一面（高性能）](../interviews/MJ-NC-2026-0750.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0750) — 高性能研发（推测） · 2026-10-22
+- [MJ-NC-2026-0842 10.15 清微智能-Ai测开一面50min](../interviews/MJ-NC-2026-0842.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0842) — AI 测试开发工程师 · 2026-10-15
+- [MJ-NC-2026-0964 清微智能 AI 应用软件开发（偏编译器）一面、二面面经](../interviews/MJ-NC-2026-0964.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0964) — AI 应用软件开发（偏编译器） · 2026-10-28
+
+<a id="company-42"></a>
 ## 荣耀（3）
 
 - [MJ-NC-2026-0093 荣耀｜大模型算法工程师｜实习](../interviews/MJ-NC-2026-0093.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0093) — 大模型算法工程师 · 实习 · 2026-03-28
 - [MJ-NC-2026-0813 27秋招 荣耀 结构工程师 综面面经](../interviews/MJ-NC-2026-0813.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0813) — 结构工程师 · 校招 · 2026-10-19
 - [MJ-NC-2026-0850 荣耀——数据开发工程师面经](../interviews/MJ-NC-2026-0850.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0850) — 数据开发工程师 · 2026-10-14
 
-<a id="company-42"></a>
+<a id="company-43"></a>
 ## 商汤（3）
 
 - [MJ-NC-2026-0001 商汤｜大模型应用算法工程师｜实习｜一面、二面](../interviews/MJ-NC-2026-0001.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0001) — 大模型应用算法工程师 · 实习 · 2026-07-18
 - [MJ-NC-2026-0043 商汤｜Agent 开发工程师](../interviews/MJ-NC-2026-0043.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0043) — Agent 开发工程师 · 2026-03-05
 - [MJ-NC-2026-0222 商汤（桌面机器人）｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0222.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0222) — 全栈开发工程师 · 社招 · 2026-09-08
 
-<a id="company-43"></a>
+<a id="company-44"></a>
 ## 水滴（3）
 
 - [MJ-NC-2026-0216 水滴｜质量保障工程师（AI）｜校招 · 秋招｜一面](../interviews/MJ-NC-2026-0216.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0216) — 质量保障工程师（AI） · 校招 · 2026-09-08
 - [MJ-NC-2026-0806 水滴AI全栈一面面经](../interviews/MJ-NC-2026-0806.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0806) — AI全栈 · 校招 · 2026-10-19
 - [MJ-NC-2026-0814 水滴AI全栈一面凉经](../interviews/MJ-NC-2026-0814.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0814) — AI 全栈工程师 · 校招 · 2026-10-19
 
-<a id="company-44"></a>
+<a id="company-45"></a>
 ## 小米（3）
 
 - [MJ-NC-2026-0042 小米｜视觉多模态算法工程师（Agent）](../interviews/MJ-NC-2026-0042.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0042) — 视觉多模态算法工程师（Agent） · 2026-03-29
 - [MJ-NC-2026-0758 小米C++ 二面 面经](../interviews/MJ-NC-2026-0758.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0758) — C++ · 校招 · 2026-10-22
 - [MJ-NC-2026-0792 小米 C++ 线下一面面经](../interviews/MJ-NC-2026-0792.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0792) — C++ · 校招 · 2026-10-21
 
-<a id="company-45"></a>
+<a id="company-46"></a>
 ## 要务科技（3）
 
 - [MJ-NC-2026-0026 要务科技（机械星球）｜后端开发工程师（AI 应用）｜一面](../interviews/MJ-NC-2026-0026.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0026) — 后端开发工程师（AI 应用） · 2026-07-16
 - [MJ-NC-2026-0123 要务科技｜AI 应用开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0123.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0123) — AI 应用开发工程师 · 实习 · 2026-09-07
 - [MJ-NC-2026-0293 要务科技｜AI 应用开发工程师｜暑期实习｜一面](../interviews/MJ-NC-2026-0293.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0293) — AI 应用开发工程师 · 实习 · 2026-08-27
 
-<a id="company-46"></a>
+<a id="company-47"></a>
 ## 知乎（3）
 
 - [MJ-NC-2026-0235 知乎｜全栈开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0235.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0235) — 全栈开发工程师 · 2026-09-04
 - [MJ-NC-2026-0405 知乎｜后端开发工程师（研发运营）｜实习｜一面](../interviews/MJ-NC-2026-0405.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0405) — 后端开发工程师（研发运营） · 实习 · 2026-06-12
 - [MJ-NC-2026-0687 知乎后端开发实习面经-一轮](../interviews/MJ-NC-2026-0687.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0687) — 后端开发 · 实习 · 2026-08-04
 
-<a id="company-47"></a>
+<a id="company-48"></a>
 ## BIGO（3）
 
 - [MJ-NC-2026-0233 BIGO｜客户端开发工程师｜秋招｜二面](../interviews/MJ-NC-2026-0233.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0233) — 客户端开发工程师 · 2026-09-04
 - [MJ-NC-2026-0277 BIGO｜客户端开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0277.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0277) — 客户端开发工程师 · 2026-08-31
 - [MJ-NC-2026-0611 BIGO｜后台开发工程师（AI 功能相关，内容推测）｜校招 · 秋招｜二面](../interviews/MJ-NC-2026-0611.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0611) — 后台开发工程师（AI 功能相关）（推测） · 校招 · 2026-09-21
 
-<a id="company-48"></a>
+<a id="company-49"></a>
 ## MiniMax（3）
 
 - [MJ-NC-2026-0362 MiniMax｜平台开发工程师｜秋招｜二面](../interviews/MJ-NC-2026-0362.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0362) — 平台开发工程师 · 2026-08-25
 - [MJ-NC-2026-0412 MiniMax（算法训练调度与评测）｜前端开发工程师（AI 训练调度与评测）｜实习｜一面](../interviews/MJ-NC-2026-0412.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0412) — 前端开发工程师（AI 训练调度与评测） · 实习 · 2026-05-28
 - [MJ-NC-2026-0488 MiniMax｜大模型算法工程师](../interviews/MJ-NC-2026-0488.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0488) — 大模型算法工程师 · 2026-05-06
 
-<a id="company-49"></a>
+<a id="company-50"></a>
 ## Shopee（3）
 
 - [MJ-NC-2026-0588 Shopee（虾皮）｜数据开发工程师（AI 与智能问数方向）｜秋招](../interviews/MJ-NC-2026-0588.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0588) — 数据开发工程师（AI 与智能问数方向） · 2026-09-23
 - [MJ-NC-2026-0618 Shopee｜测试开发｜一面](../interviews/MJ-NC-2026-0618.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0618) — 测试开发 · 实习 · 2026-09-23
 - [MJ-NC-2026-0769 shopee虾皮大数据开发工程师一面——重心偏了](../interviews/MJ-NC-2026-0769.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0769) — 大数据开发工程师 · 校招 · 2026-10-17
 
-<a id="company-50"></a>
+<a id="company-51"></a>
 ## 佰聆数据（2）
 
 - [MJ-NC-2026-0025 佰聆数据｜AI 应用开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0025.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0025) — AI 应用开发工程师 · 实习 · 2026-07-15
 - [MJ-NC-2026-0761 佰聆数据 助理AI应用开发工程师](../interviews/MJ-NC-2026-0761.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0761) — 助理AI应用开发工程师 · 实习 · 2026-10-21
 
-<a id="company-51"></a>
+<a id="company-52"></a>
 ## 哔哩哔哩（2）
 
 - [MJ-NC-2026-0829 哔哩哔哩Java后端-交易一面凉经](../interviews/MJ-NC-2026-0829.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0829) — Java 后端开发工程师 · 2026-10-16
 - [MJ-NC-2026-0922 【三年面试五年模拟】2026-08-18_哔哩哔哩_AI Agent开发一面面经全解析（附完整完整）](../interviews/MJ-NC-2026-0922.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0922) — AI Agent 开发 · 2026-09-27
 
-<a id="company-52"></a>
+<a id="company-53"></a>
 ## 电信（2）
 
 - [MJ-NC-2026-0201 电信｜Go 开发工程师｜社招｜二面｜公司待核](../interviews/MJ-NC-2026-0201.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0201) — Go 开发工程师 · 社招 · 2026-09-01
 - [MJ-NC-2026-0285 电信｜Go 开发工程师｜社招｜三面｜公司待核](../interviews/MJ-NC-2026-0285.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0285) — Go 开发工程师 · 社招 · 2026-08-30
 
-<a id="company-53"></a>
+<a id="company-54"></a>
 ## 东方财富（2）
 
 - [MJ-NC-2026-0614 东方财富｜AI 应用开发工程师｜校招 · 秋招｜一面](../interviews/MJ-NC-2026-0614.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0614) — AI 应用开发工程师 · 校招 · 2026-09-24
 - [MJ-NC-2026-0940 东方财富 9.29 一面面经](../interviews/MJ-NC-2026-0940.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0940) — AI 应用开发工程师 · 2026-10-20
 
-<a id="company-54"></a>
+<a id="company-55"></a>
 ## 海底捞（2）
 
 - [MJ-NC-2026-0417 海底捞｜大模型算法工程师（内容推测）](../interviews/MJ-NC-2026-0417.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0417) — 大模型算法工程师（推测） · 2026-05-26
 - [MJ-NC-2026-0870 海底捞AI工程师实习生一面](../interviews/MJ-NC-2026-0870.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0870) — AI工程师实习生 · 实习 · 2026-10-12
 
-<a id="company-55"></a>
+<a id="company-56"></a>
 ## 虎牙（2）
 
 - [MJ-NC-2026-0700 虎牙全栈开发秋招二面](../interviews/MJ-NC-2026-0700.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0700) — 全栈开发 · 2026-10-30
 - [MJ-NC-2026-0703 虎牙全栈开发秋招一面](../interviews/MJ-NC-2026-0703.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0703) — 全栈开发 · 校招 · 2026-10-29
 
-<a id="company-56"></a>
+<a id="company-57"></a>
 ## 经纬恒润（2）
 
 - [MJ-NC-2026-0901 经纬恒润ai应用开发一面面经](../interviews/MJ-NC-2026-0901.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0901) — AI 应用开发 · 2026-10-03
 - [MJ-NC-2026-0935 经纬恒润 | 数据平台面经](../interviews/MJ-NC-2026-0935.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0935) — 数据平台岗位 · 2026-10-22
 
-<a id="company-57"></a>
+<a id="company-58"></a>
 ## 九方智投（2）
 
 - [MJ-NC-2026-0558 九方智投｜Agent 开发工程师｜一面](../interviews/MJ-NC-2026-0558.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0558) — Agent 开发工程师 · 2026-09-24
 - [MJ-NC-2026-0727 九方智投 | 数仓开发工程师面经](../interviews/MJ-NC-2026-0727.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0727) — 数仓开发工程师 · 2026-10-27
 
-<a id="company-58"></a>
+<a id="company-59"></a>
 ## 联想（2）
 
 - [MJ-NC-2026-0096 联想｜AI 产品经理](../interviews/MJ-NC-2026-0096.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0096) — AI 产品经理 · 2025-09-11
 - [MJ-NC-2026-0466 联想（Agent）｜算法工程师（Agent）｜暑期实习](../interviews/MJ-NC-2026-0466.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0466) — 算法工程师（Agent） · 实习 · 2026-05-08
 
-<a id="company-59"></a>
+<a id="company-60"></a>
 ## 蚂蚁国际（2）
 
 - [MJ-XHS-2026-0509 蚂蚁🐜国际agent开发一面凉经](../interviews/MJ-XHS-2026-0509.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0509) — AI 应用 / Agent 开发 · 实习 · 2026-04-30
 - [MJ-XHS-2026-0521 蚂蚁集团AI应用开发一面](../interviews/MJ-XHS-2026-0521.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0521) — AI 应用 / Agent 开发 · 实习 · 2026-03-28
 
-<a id="company-60"></a>
+<a id="company-61"></a>
 ## 米哈游（2）
 
 - [MJ-NC-2026-0012 米哈游｜Agent 开发工程师｜一面](../interviews/MJ-NC-2026-0012.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0012) — Agent 开发工程师 · 2026-07-16
 - [MJ-XHS-2026-0537 米哈游-Agent研发凉经](../interviews/MJ-XHS-2026-0537.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0537) — AI 应用 / Agent 开发（推测） · 2026-03-31
 
-<a id="company-61"></a>
+<a id="company-62"></a>
 ## 宁波银行（2）
 
 - [MJ-NC-2026-0214 宁波银行｜测试工程师（金融科技）｜一面](../interviews/MJ-NC-2026-0214.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0214) — 测试工程师（金融科技） · 2026-09-02
 - [MJ-NC-2026-0355 宁波银行｜校招 · 秋招｜笔试｜笔试记录](../interviews/MJ-NC-2026-0355.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0355) — 校招 · 2026-08-23
-
-<a id="company-62"></a>
-## 清微智能（2）
-
-- [MJ-NC-2026-0750 1022 清微智能一面（高性能）](../interviews/MJ-NC-2026-0750.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0750) — 高性能研发（推测） · 2026-10-22
-- [MJ-NC-2026-0842 10.15 清微智能-Ai测开一面50min](../interviews/MJ-NC-2026-0842.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0842) — AI 测试开发工程师 · 2026-10-15
 
 <a id="company-63"></a>
 ## 水滴公司（2）
@@ -1352,1016 +1361,1022 @@
 - [MJ-NC-2026-0663 moka agent开发 一面](../interviews/MJ-NC-2026-0663.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0663) — Agent 开发 · 社招 · 2026-08-12
 
 <a id="company-79"></a>
+## Soul（2）
+
+- [MJ-NC-2026-0365 Soul｜前端开发工程师（AI Agent 方向，内容推测）｜实习](../interviews/MJ-NC-2026-0365.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0365) — 前端开发工程师（AI Agent 方向）（推测） · 实习 · 2026-03-04
+- [MJ-NC-2026-0958 Soul 推荐架构暑期实习面经](../interviews/MJ-NC-2026-0958.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0958) — 推荐架构实习生 · 实习 · 2026-11-06
+
+<a id="company-80"></a>
 ## 3K 游戏、中翔数据（1）
 
 - [MJ-NC-2026-0633 广州小厂面经](../interviews/MJ-NC-2026-0633.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0633) — AI 应用开发工程师（推测）、软件开发工程师（推测）
 
-<a id="company-80"></a>
+<a id="company-81"></a>
 ## 阿里国际（1）
 
 - [MJ-XHS-2026-0535 阿里国际ai应用开发面经](../interviews/MJ-XHS-2026-0535.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0535) — AI 应用开发 · 2026-05-07
 
-<a id="company-81"></a>
+<a id="company-82"></a>
 ## 阿里控股（1）
 
 - [MJ-XHS-2026-0539 阿里控股一面凉经（已挂）](../interviews/MJ-XHS-2026-0539.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0539) — 数据与算法 · 实习 · 2026-04-07
 
-<a id="company-82"></a>
+<a id="company-83"></a>
 ## 阿里云（1）
 
 - [MJ-NC-2026-0876 阿里云三面 10.10](../interviews/MJ-NC-2026-0876.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0876) — 基础设施开发工程师（推测） · 2026-10-10
 
-<a id="company-83"></a>
+<a id="company-84"></a>
 ## 爱回收（1）
 
 - [MJ-NC-2026-0034 爱回收｜测试开发工程师｜二面](../interviews/MJ-NC-2026-0034.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0034) — 测试开发工程师 · 2026-07-10
 
-<a id="company-84"></a>
+<a id="company-85"></a>
 ## 安恒信息（1）
 
 - [MJ-NC-2026-0844 安恒信息一面｜Python Agent开发实习生](../interviews/MJ-NC-2026-0844.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0844) — Python Agent 开发实习生 · 实习 · 2026-10-15
 
-<a id="company-85"></a>
+<a id="company-86"></a>
 ## 白龙马云行科技（1）
 
 - [MJ-NC-2026-0771 白龙马云行科技一面面经-测开岗](../interviews/MJ-NC-2026-0771.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0771) — 测开岗 · 2026-10-27
 
-<a id="company-86"></a>
+<a id="company-87"></a>
 ## 比孚信息科技（1）
 
 - [MJ-NC-2026-0882 比孚信息科技--一天两面](../interviews/MJ-NC-2026-0882.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0882) — 测试开发 · 2026-10-09
 
-<a id="company-87"></a>
+<a id="company-88"></a>
 ## 壁仞科技（1）
 
 - [MJ-NC-2026-0817 1016 壁仞一面（高性能异构工程师）](../interviews/MJ-NC-2026-0817.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0817) — 高性能异构工程师 · 2026-10-18
 
-<a id="company-88"></a>
+<a id="company-89"></a>
 ## 波克、比亚迪、客路、CVTE、石犀科技（1）
 
 - [MJ-NC-2026-0775 后端/全栈面经第二弹](../interviews/MJ-NC-2026-0775.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0775) — Golang服务器开发工程师、高级软件工程师、后端开发工程师（推测）、应用软件开发工程师、软件开发工程师 · 实习 · 校招 · 2026-10-25
 
-<a id="company-89"></a>
+<a id="company-90"></a>
 ## 波克城市（1）
 
 - [MJ-NC-2026-0866 波克城市 游戏客户端开发工程师（出海休闲小游戏）](../interviews/MJ-NC-2026-0866.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0866) — 游戏客户端开发工程师 · 2026-10-12
 
-<a id="company-90"></a>
+<a id="company-91"></a>
 ## 不鸣科技（1）
 
 - [MJ-NC-2026-0389 不鸣科技｜AI Native 开发｜一面、二面](../interviews/MJ-NC-2026-0389.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0389) — AI Native 开发 · 2026-07-01
 
-<a id="company-91"></a>
+<a id="company-92"></a>
 ## 曹操出行（1）
 
 - [MJ-NC-2026-0749 曹操出行后端实习面经](../interviews/MJ-NC-2026-0749.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0749) — 后端实习 · 实习 · 2026-10-20
 
-<a id="company-92"></a>
+<a id="company-93"></a>
 ## 禅游科技（1）
 
 - [MJ-NC-2026-0018 禅游科技｜全栈开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0018.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0018) — 全栈开发工程师 · 实习 · 2026-07-16
 
-<a id="company-93"></a>
+<a id="company-94"></a>
 ## 超参数（1）
 
 - [MJ-NC-2026-0318 超参数｜Agent 开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0318.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0318) — Agent 开发工程师 · 社招 · 2026-08-09
 
-<a id="company-94"></a>
+<a id="company-95"></a>
 ## 超聚变（1）
 
 - [MJ-NC-2026-0930 超聚变 嵌软 一面面经](../interviews/MJ-NC-2026-0930.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0930) — 嵌入式软件工程师 · 2026-10-20
 
-<a id="company-95"></a>
+<a id="company-96"></a>
 ## 车300（1）
 
 - [MJ-NC-2026-0177 车300｜Java 开发工程师｜实习](../interviews/MJ-NC-2026-0177.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0177) — Java 开发工程师 · 实习 · 2026-09-03
 
-<a id="company-96"></a>
+<a id="company-97"></a>
 ## 重庆远见（1）
 
 - [MJ-NC-2026-0459 重庆远见（智慧政务服务）｜Java 开发工程师｜暑期实习｜公司待核](../interviews/MJ-NC-2026-0459.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0459) — Java 开发工程师 · 实习 · 2026-05-13
 
-<a id="company-97"></a>
+<a id="company-98"></a>
 ## 传音控股（1）
 
 - [MJ-NC-2026-0816 传音控股嵌入式面经](../interviews/MJ-NC-2026-0816.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0816) — C/C++ 开发工程师（驱动） · 2026-10-19
 
-<a id="company-98"></a>
+<a id="company-99"></a>
 ## 大华（1）
 
 - [MJ-NC-2026-0720 浙江大华面经](../interviews/MJ-NC-2026-0720.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0720) — 嵌入式软件开发工程师（推测） · 2026-10-27
 
-<a id="company-99"></a>
+<a id="company-100"></a>
 ## 袋鼠云（1）
 
 - [MJ-NC-2026-0366 袋鼠云（数据中台）｜前端开发工程师｜实习](../interviews/MJ-NC-2026-0366.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0366) — 前端开发工程师 · 实习 · 2026-08-23
 
-<a id="company-100"></a>
+<a id="company-101"></a>
 ## 点点互动（1）
 
 - [MJ-NC-2026-0354 点点互动｜Agent 开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0354.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0354) — Agent 开发工程师 · 2026-08-04
 
-<a id="company-101"></a>
+<a id="company-102"></a>
 ## 钉学科技（1）
 
 - [MJ-NC-2026-0682 8.13钉学科技-FDE实习面试](../interviews/MJ-NC-2026-0682.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0682) — FDE 实习 · 实习 · 2026-08-15
 
-<a id="company-102"></a>
+<a id="company-103"></a>
 ## 鼎捷数智（1）
 
 - [MJ-NC-2026-0314 鼎捷数智｜Agent 开发工程师｜实习](../interviews/MJ-NC-2026-0314.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0314) — Agent 开发工程师 · 实习 · 2026-08-13
 
-<a id="company-103"></a>
+<a id="company-104"></a>
 ## 鼎桥（1）
 
 - [MJ-NC-2026-0711 27双非硕秋招第22家公司｜鼎桥二面-10.23](../interviews/MJ-NC-2026-0711.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0711) — 嵌入式软件开发工程师 · 2026-11-02
 
-<a id="company-104"></a>
+<a id="company-105"></a>
 ## 都学网（1）
 
 - [MJ-NC-2026-0755 北京小厂都学网面经](../interviews/MJ-NC-2026-0755.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0755) — Agent 应用开发工程师（推测） · 实习 · 2026-10-22
 
-<a id="company-105"></a>
+<a id="company-106"></a>
 ## 多点数智（1）
 
 - [MJ-NC-2026-0688 武汉多点数智 FDE AI初面 面经 10.31](../interviews/MJ-NC-2026-0688.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0688) — FDE · 2026-11-02
 
-<a id="company-106"></a>
+<a id="company-107"></a>
 ## 哆咔互娱（1）
 
 - [MJ-NC-2026-0440 哆咔互娱｜Agent 开发工程师｜实习｜一面、二面](../interviews/MJ-NC-2026-0440.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0440) — Agent 开发工程师 · 实习 · 2026-05-20
 
-<a id="company-107"></a>
+<a id="company-108"></a>
 ## 法本信息（1）
 
 - [MJ-NC-2026-0657 面经分享](../interviews/MJ-NC-2026-0657.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0657) — AI Agent 开发 · 2026-07-30
 
-<a id="company-108"></a>
+<a id="company-109"></a>
 ## 法大大（1）
 
 - [MJ-NC-2026-0429 法大大｜Java 开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0429.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0429) — Java 开发工程师 · 实习 · 2026-05-30
 
-<a id="company-109"></a>
+<a id="company-110"></a>
 ## 饭团外卖（1）
 
 - [MJ-NC-2026-0359 饭团外卖｜前端开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0359.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0359) — 前端开发工程师 · 2026-08-14
 
-<a id="company-110"></a>
+<a id="company-111"></a>
 ## 飞轮数据（1）
 
 - [MJ-NC-2026-0194 飞轮数据｜Go 后端开发工程师｜二面](../interviews/MJ-NC-2026-0194.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0194) — Go 后端开发工程师 · 2026-09-02
 
-<a id="company-111"></a>
+<a id="company-112"></a>
 ## 分叉智能科技（1）
 
 - [MJ-NC-2026-0438 分叉智能科技（影刀）｜AI 解决方案架构师｜校招｜二面](../interviews/MJ-NC-2026-0438.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0438) — AI 解决方案架构师 · 校招 · 2026-05-21
 
-<a id="company-112"></a>
+<a id="company-113"></a>
 ## 纷享销客（1）
 
 - [MJ-NC-2026-0745 北京纷享销客面经](../interviews/MJ-NC-2026-0745.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0745) — 后端开发工程师（推测） · 实习 · 2026-10-22
 
-<a id="company-113"></a>
+<a id="company-114"></a>
 ## 格物致信（1）
 
 - [MJ-NC-2026-0131 格物致信｜Agent 应用开发工程师（内容推测）｜一面](../interviews/MJ-NC-2026-0131.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0131) — Agent 应用开发工程师（推测） · 2026-09-07
 
-<a id="company-114"></a>
+<a id="company-115"></a>
 ## 公司未注明、Momenta、字节跳动、柏楚、快手（1）
 
 - [MJ-NC-2026-0713 28届计算机日常实习总结与感悟](../interviews/MJ-NC-2026-0713.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0713) — AI 应用开发实习生、算法实习生、测试开发实习生、后端开发实习生 · 实习 · 2026-10-31
 
-<a id="company-115"></a>
+<a id="company-116"></a>
 ## 构序智能（1）
 
 - [MJ-NC-2026-0198 构序智能（aixcut）｜前端开发工程师｜实习｜创始人面](../interviews/MJ-NC-2026-0198.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0198) — 前端开发工程师 · 实习 · 2026-09-02
 
-<a id="company-116"></a>
+<a id="company-117"></a>
 ## 广电数科（1）
 
 - [MJ-NC-2026-0217 广电数科｜Java 开发工程师｜实习](../interviews/MJ-NC-2026-0217.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0217) — Java 开发工程师 · 实习 · 2026-09-08
 
-<a id="company-117"></a>
+<a id="company-118"></a>
 ## 广东元海（1）
 
 - [MJ-NC-2026-0119 广东元海｜Java 后端开发工程师｜实习｜一面](../interviews/MJ-NC-2026-0119.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0119) — Java 后端开发工程师 · 实习 · 2026-09-08
 
-<a id="company-118"></a>
+<a id="company-119"></a>
 ## 广州报业（1）
 
 - [MJ-NC-2026-0678 广州报业 agent开发 一面](../interviews/MJ-NC-2026-0678.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0678) — Agent 开发 · 社招 · 2026-08-15
 
-<a id="company-119"></a>
+<a id="company-120"></a>
 ## 硅心科技（1）
 
 - [MJ-NC-2026-0024 硅心科技｜智能软件工程师｜实习](../interviews/MJ-NC-2026-0024.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0024) — 智能软件工程师 · 实习 · 2026-07-15
 
-<a id="company-120"></a>
+<a id="company-121"></a>
 ## 国金证券（1）
 
 - [MJ-NC-2026-0027 国金证券（证券公司中后台系统）｜Java 开发工程师｜实习｜HR/业务负责人面、技术面](../interviews/MJ-NC-2026-0027.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0027) — Java 开发工程师 · 实习 · 2026-07-14
 
-<a id="company-121"></a>
+<a id="company-122"></a>
 ## 哈啰（1）
 
 - [MJ-NC-2026-0098 哈啰｜大模型算法工程师（Agent）｜校招｜一面](../interviews/MJ-NC-2026-0098.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0098) — 大模型算法工程师（Agent） · 校招 · 2026-02-06
 
-<a id="company-122"></a>
+<a id="company-123"></a>
+## 海尔（1）
+
+- [MJ-NC-2026-0961 海尔 Agent 系统工程师一面面经](../interviews/MJ-NC-2026-0961.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0961) — Agent 系统工程师 · 2026-11-04
+
+<a id="company-124"></a>
 ## 海康威视（1）
 
 - [MJ-NC-2026-0803 海康威视 9.12 Agent开发 线下一面](../interviews/MJ-NC-2026-0803.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0803) — Agent开发 · 2026-10-20
 
-<a id="company-123"></a>
+<a id="company-125"></a>
 ## 寒武纪（1）
 
 - [MJ-NC-2026-0957 0922 寒武纪二面（高性能计算库开发）](../interviews/MJ-NC-2026-0957.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0957) — 高性能计算库开发 · 2026-11-02
 
-<a id="company-124"></a>
+<a id="company-126"></a>
 ## 杭州可见信号科技（1）
 
 - [MJ-NC-2026-0452 杭州可见信号科技｜AI 应用实习生｜实习](../interviews/MJ-NC-2026-0452.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0452) — AI 应用实习生 · 实习 · 2026-05-17
 
-<a id="company-125"></a>
+<a id="company-127"></a>
 ## 浩鲸（1）
 
 - [MJ-NC-2026-0781 浩鲸秋招一面面经](../interviews/MJ-NC-2026-0781.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0781) — AI应用开发工程师（java方向，国内） · 2026-10-23
 
-<a id="company-126"></a>
+<a id="company-128"></a>
 ## 浩鲸科技（1）
 
 - [MJ-NC-2026-0252 浩鲸科技｜Java 开发工程师｜日常实习｜一面](../interviews/MJ-NC-2026-0252.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0252) — Java 开发工程师 · 实习
 
-<a id="company-127"></a>
+<a id="company-129"></a>
 ## 和顺慧康（1）
 
 - [MJ-NC-2026-0413 和顺慧康（智慧化健康养老产品与服务）｜AI 应用开发工程师｜暑期实习](../interviews/MJ-NC-2026-0413.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0413) — AI 应用开发工程师 · 实习 · 2026-05-27
 
-<a id="company-128"></a>
+<a id="company-130"></a>
 ## 黑白调（1）
 
 - [MJ-NC-2026-0227 黑白调（傲风电竞椅）｜Agent 应用开发工程师（需求与交付方向，内容推测）｜秋招｜HR 面](../interviews/MJ-NC-2026-0227.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0227) — Agent 应用开发工程师（需求与交付方向）（推测） · 2026-09-06
 
-<a id="company-129"></a>
+<a id="company-131"></a>
 ## 花小小新疆炒米粉（1）
 
 - [MJ-NC-2026-0416 花小小新疆炒米粉（餐饮 AI 应用）｜AI 工程师｜社招](../interviews/MJ-NC-2026-0416.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0416) — AI 工程师 · 社招 · 2026-05-26
 
-<a id="company-130"></a>
+<a id="company-132"></a>
 ## 华测（1）
 
 - [MJ-NC-2026-0593 华测｜Java 开发工程师（Agent 相关，内容推测）｜一面](../interviews/MJ-NC-2026-0593.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0593) — Java 开发工程师（Agent 相关）（推测） · 2026-09-23
 
-<a id="company-131"></a>
+<a id="company-133"></a>
 ## 华橙（1）
 
 - [MJ-NC-2026-0598 华橙｜Agent 评测工程师｜二面](../interviews/MJ-NC-2026-0598.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0598) — Agent 评测工程师 · 2026-09-24
 
-<a id="company-132"></a>
+<a id="company-134"></a>
 ## 华勤（1）
 
 - [MJ-NC-2026-0115 华勤｜大模型算法工程师｜秋招｜技术面](../interviews/MJ-NC-2026-0115.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0115) — 大模型算法工程师 · 2026-09-08
 
-<a id="company-133"></a>
+<a id="company-135"></a>
 ## 华盛通（1）
 
 - [MJ-NC-2026-0864 华盛通JAVA实习生面经](../interviews/MJ-NC-2026-0864.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0864) — Java实习生 · 实习 · 2026-10-13
 
-<a id="company-134"></a>
+<a id="company-136"></a>
 ## 华顺信安（1）
 
 - [MJ-NC-2026-0831 华顺信安golang开发实习 VibeCoding笔试+面试](../interviews/MJ-NC-2026-0831.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0831) — Go 开发实习生 · 实习 · 2026-10-16
 
-<a id="company-135"></a>
+<a id="company-137"></a>
 ## 汇顶科技（1）
 
 - [MJ-NC-2026-0369 汇顶科技｜软件开发工程师（IT 系统）｜秋招｜一面](../interviews/MJ-NC-2026-0369.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0369) — 软件开发工程师（IT 系统） · 2026-08-31
 
-<a id="company-136"></a>
+<a id="company-138"></a>
 ## 货拉拉（1）
 
 - [MJ-NC-2026-0210 货拉拉｜AI 应用开发工程师（内容推测）｜秋招｜一面](../interviews/MJ-NC-2026-0210.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0210) — AI 应用开发工程师（推测） · 2026-09-03
 
-<a id="company-137"></a>
+<a id="company-139"></a>
 ## 吉比特（1）
 
 - [MJ-NC-2026-0736 吉比特前端一面](../interviews/MJ-NC-2026-0736.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0736) — 前端开发工程师 · 2026-10-23
 
-<a id="company-138"></a>
+<a id="company-140"></a>
 ## 吉利（1）
 
 - [MJ-NC-2026-0128 吉利（车载软件研发效能平台）｜大数据开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0128.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0128) — 大数据开发工程师 · 2026-09-07
 
-<a id="company-139"></a>
+<a id="company-141"></a>
 ## 极兔（1）
 
 - [MJ-NC-2026-0066 极兔｜大模型｜实习](../interviews/MJ-NC-2026-0066.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0066) — 大模型 · 实习 · 2026-07-08
 
-<a id="company-140"></a>
+<a id="company-142"></a>
 ## 极兔速递（1）
 
 - [MJ-NC-2026-0565 极兔速递｜后端开发工程师｜一面](../interviews/MJ-NC-2026-0565.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0565) — 后端开发工程师 · 2026-09-24
 
-<a id="company-141"></a>
+<a id="company-143"></a>
 ## 极智嘉（1）
 
 - [MJ-NC-2026-0840 极智嘉 10.15](../interviews/MJ-NC-2026-0840.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0840) — 机器人仿真岗位 · 2026-10-15
 
-<a id="company-142"></a>
+<a id="company-144"></a>
 ## 江淮汽车（1）
 
 - [MJ-NC-2026-0724 江淮汽车 智能座舱测试 一面凉经](../interviews/MJ-NC-2026-0724.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0724) — 试验开发岗（智能座舱测试方向） · 2026-10-29
 
-<a id="company-143"></a>
+<a id="company-145"></a>
 ## 阶跃星辰（1）
 
 - [MJ-NC-2026-0206 阶跃星辰｜大模型基础设施工程师（数据管道）｜秋招 · 实习｜一面、二面](../interviews/MJ-NC-2026-0206.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0206) — 大模型基础设施工程师（数据管道） · 实习 · 2026-09-01
 
-<a id="company-144"></a>
+<a id="company-146"></a>
 ## 金蝶（1）
 
 - [MJ-NC-2026-0610 金蝶｜Agent 开发工程师｜校招｜一面](../interviews/MJ-NC-2026-0610.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0610) — Agent 开发工程师 · 校招 · 2026-09-21
 
-<a id="company-145"></a>
+<a id="company-147"></a>
 ## 金山办公（1）
 
 - [MJ-NC-2026-0153 金山办公｜数据分析师｜日常实习｜一面](../interviews/MJ-NC-2026-0153.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0153) — 数据分析师 · 实习 · 2026-09-04
 
-<a id="company-146"></a>
+<a id="company-148"></a>
 ## 金山软件（1）
 
 - [MJ-NC-2026-0154 金山软件｜AI 全栈开发工程师｜一面](../interviews/MJ-NC-2026-0154.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0154) — AI 全栈开发工程师 · 2026-09-04
 
-<a id="company-147"></a>
+<a id="company-149"></a>
 ## 靖安科技（1）
 
 - [MJ-NC-2026-0590 靖安科技｜后端工程师（RAG/Agent 项目，内容推测）｜秋招｜一面](../interviews/MJ-NC-2026-0590.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0590) — 后端工程师（RAG/Agent 项目）（推测） · 2026-09-23
 
-<a id="company-148"></a>
+<a id="company-150"></a>
 ## 九号公司（1）
 
 - [MJ-NC-2026-0352 九号公司｜Agent 开发工程师｜秋招 · 实习｜一面](../interviews/MJ-NC-2026-0352.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0352) — Agent 开发工程师 · 实习 · 2026-08-27
 
-<a id="company-149"></a>
+<a id="company-151"></a>
 ## 九坤创新（1）
 
 - [MJ-NC-2026-0074 九坤创新｜Agent｜寒假 · 实习｜求职记录](../interviews/MJ-NC-2026-0074.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0074) — Agent · 实习 · 2026-01-23
 
-<a id="company-150"></a>
+<a id="company-152"></a>
 ## 巨人网络（1）
 
 - [MJ-NC-2026-0715 巨人网络-商业化策划秋招面经](../interviews/MJ-NC-2026-0715.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0715) — 商业化策划 · 校招 · 2026-10-28
 
-<a id="company-151"></a>
+<a id="company-153"></a>
 ## 凯越集团（1）
 
 - [MJ-NC-2026-0635 ai面经](../interviews/MJ-NC-2026-0635.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0635) — AI 应用开发工程师
 
-<a id="company-152"></a>
+<a id="company-154"></a>
 ## 康冠科技（1）
 
 - [MJ-NC-2026-0705 康冠科技｜Android 应用开发岗面经10.28](../interviews/MJ-NC-2026-0705.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0705) — Android 应用开发 · 校招 · 2026-10-28
 
-<a id="company-153"></a>
+<a id="company-155"></a>
 ## 科大讯飞、首都在线、宇量晟、四川长虹、度小满、字节跳动、恒生电子、腾娱互动、金蝶、汽车之家（1）
 
 - [MJ-NC-2026-0905 bg211本软件工程三段开发实习，秋招进度](../interviews/MJ-NC-2026-0905.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0905) — Java 开发、后端开发、AI 全栈开发、全栈开发、后台开发、AI 安全开发、后端开发工程师（推测） · 2026-10-02
 
-<a id="company-154"></a>
+<a id="company-156"></a>
 ## 科沃斯（1）
 
 - [MJ-NC-2026-0594 科沃斯｜助理开发工程实习生（AI 助手项目，内容推测）｜实习](../interviews/MJ-NC-2026-0594.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0594) — 助理开发工程实习生（AI 助手项目）（推测） · 实习 · 2026-09-23
 
-<a id="company-155"></a>
+<a id="company-157"></a>
 ## 客诺信息技术（1）
 
 - [MJ-NC-2026-0895 客诺信息技术](../interviews/MJ-NC-2026-0895.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0895) — 后端开发工程师（推测） · 2026-10-07
 
-<a id="company-156"></a>
+<a id="company-158"></a>
 ## 快商通（1）
 
 - [MJ-NC-2026-0913 快商通一面凉经 丨 大模型Agent全栈 9.30](../interviews/MJ-NC-2026-0913.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0913) — 大模型 Agent 全栈 · 2026-09-30
 
-<a id="company-157"></a>
+<a id="company-159"></a>
 ## 岚图（1）
 
 - [MJ-NC-2026-0118 岚图｜数据分析师｜秋招｜技术面、HR面](../interviews/MJ-NC-2026-0118.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0118) — 数据分析师 · 2026-09-08
 
-<a id="company-158"></a>
+<a id="company-160"></a>
 ## 蓝标传媒（1）
 
 - [MJ-NC-2026-0099 蓝标传媒｜AI 产品经理](../interviews/MJ-NC-2026-0099.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0099) — AI 产品经理 · 2024-07-25
 
-<a id="company-159"></a>
+<a id="company-161"></a>
 ## 老虎国际（1）
 
 - [MJ-NC-2026-0926 老虎国际后端实习一二面面经](../interviews/MJ-NC-2026-0926.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0926) — 后端开发 · 实习 · 2026-09-25
 
-<a id="company-160"></a>
+<a id="company-162"></a>
 ## 乐堡互娱（1）
 
 - [MJ-NC-2026-0860 乐堡AI应用开发岗四面面经，面试官非常nice！](../interviews/MJ-NC-2026-0860.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0860) — AI应用开发岗 · 校招 · 2026-10-13
 
-<a id="company-161"></a>
+<a id="company-163"></a>
 ## 乐享元游（1）
 
 - [MJ-NC-2026-0790 乐享元游—面经](../interviews/MJ-NC-2026-0790.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0790) — 数据开发 · 2026-10-21
 
-<a id="company-162"></a>
+<a id="company-164"></a>
 ## 雷鸣比特（1）
 
 - [MJ-NC-2026-0396 雷鸣比特｜前端开发工程师｜实习｜电话面、视频面、CTO 面](../interviews/MJ-NC-2026-0396.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0396) — 前端开发工程师 · 实习 · 2026-06-24
 
-<a id="company-163"></a>
+<a id="company-165"></a>
 ## 理想（1）
 
 - [MJ-NC-2026-0076 理想｜AI 解决方案岗（职能类）｜一面、二面](../interviews/MJ-NC-2026-0076.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0076) — AI 解决方案岗（职能类） · 2026-07-07
 
-<a id="company-164"></a>
+<a id="company-166"></a>
 ## 理想汽车（1）
 
 - [MJ-NC-2026-0886 (秋招) 10.09 - 理想汽车 - IT全栈交付培养生 - 一面面经](../interviews/MJ-NC-2026-0886.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0886) — IT全栈交付培养生 · 2026-10-09
 
-<a id="company-165"></a>
+<a id="company-167"></a>
 ## 联宝科技（1）
 
 - [MJ-NC-2026-0859 联宝科技秋招AI应用开发AI面面经](../interviews/MJ-NC-2026-0859.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0859) — AI应用开发 · 2026-10-13
 
-<a id="company-166"></a>
+<a id="company-168"></a>
 ## 联影（1）
 
 - [MJ-NC-2026-0038 联影｜Agent 开发工程师｜一面](../interviews/MJ-NC-2026-0038.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0038) — Agent 开发工程师 · 2026-07-08
 
-<a id="company-167"></a>
+<a id="company-169"></a>
 ## 联友科技（1）
 
 - [MJ-NC-2026-0874 联友科技——数据开发面经](../interviews/MJ-NC-2026-0874.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0874) — 数据开发 · 2026-10-10
 
-<a id="company-168"></a>
+<a id="company-170"></a>
 ## 猎豹移动（1）
 
 - [MJ-NC-2026-0460 猎豹移动｜全栈开发工程师（Agent）](../interviews/MJ-NC-2026-0460.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0460) — 全栈开发工程师（Agent） · 2026-05-13
 
-<a id="company-169"></a>
+<a id="company-171"></a>
 ## 猎聘（1）
 
 - [MJ-NC-2026-0841 猎聘面经](../interviews/MJ-NC-2026-0841.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0841) — AI 应用开发工程师（推测） · 2026-10-15
 
-<a id="company-170"></a>
+<a id="company-172"></a>
 ## 灵犀互娱（1）
 
 - [MJ-NC-2026-0575 灵犀互娱｜AI 应用开发工程师｜校招 · 秋招](../interviews/MJ-NC-2026-0575.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0575) — AI 应用开发工程师 · 校招 · 2026-09-24
 
-<a id="company-171"></a>
+<a id="company-173"></a>
 ## 零一万物（1）
 
 - [MJ-NC-2026-0794 零一万物 知识图谱算法实习生一面](../interviews/MJ-NC-2026-0794.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0794) — 知识图谱算法实习生 · 实习 · 2026-10-21
 
-<a id="company-172"></a>
+<a id="company-174"></a>
 ## 刘文祥麻辣烫（1）
 
 - [MJ-NC-2026-0381 刘文祥麻辣烫｜Agent 开发工程师｜提前批｜一面｜真实性待核](../interviews/MJ-NC-2026-0381.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0381) — Agent 开发工程师 · 2026-07-16
 
-<a id="company-173"></a>
+<a id="company-175"></a>
 ## 绿盟科技（1）
 
 - [MJ-NC-2026-0621 绿盟科技｜Agent 开发｜秋招一面](../interviews/MJ-NC-2026-0621.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0621) — Agent 开发 · 2026-09-21
 
-<a id="company-174"></a>
+<a id="company-176"></a>
 ## 美的（1）
 
 - [MJ-NC-2026-0915 美的秋招](../interviews/MJ-NC-2026-0915.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0915) — 后端开发工程师（推测） · 2026-09-29
 
-<a id="company-175"></a>
+<a id="company-177"></a>
 ## 美图（1）
 
 - [MJ-NC-2026-0433 美图｜大模型算法工程师｜一面、二面、三面、四面｜公司待核](../interviews/MJ-NC-2026-0433.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0433) — 大模型算法工程师 · 2026-05-24
 
-<a id="company-176"></a>
+<a id="company-178"></a>
 ## 萌力无限（1）
 
 - [MJ-NC-2026-0743 萌力无限——ai应用一面](../interviews/MJ-NC-2026-0743.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0743) — AI 应用开发工程师 · 2026-10-23
 
-<a id="company-177"></a>
+<a id="company-179"></a>
 ## 名创优品（1）
 
 - [MJ-NC-2026-0334 名创优品｜Agent 开发工程师｜秋招 · 实习｜一面](../interviews/MJ-NC-2026-0334.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0334) — Agent 开发工程师 · 实习 · 2026-08-26
 
-<a id="company-178"></a>
+<a id="company-180"></a>
 ## 沐瞳科技（1）
 
 - [MJ-NC-2026-0213 沐瞳科技｜数据仓库开发工程师（AI）｜校招 · 秋招｜一面](../interviews/MJ-NC-2026-0213.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0213) — 数据仓库开发工程师（AI） · 校招 · 2026-09-03
 
-<a id="company-179"></a>
+<a id="company-181"></a>
 ## 沐曦（1）
 
 - [MJ-NC-2026-0191 沐曦｜AI 工程师（推理与算子优化）｜秋招｜一面、二面](../interviews/MJ-NC-2026-0191.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0191) — AI 工程师（推理与算子优化） · 2026-09-02
 
-<a id="company-180"></a>
+<a id="company-182"></a>
 ## 南芯（1）
 
 - [MJ-NC-2026-0475 南芯｜大模型算法工程师｜实习｜一面｜公司待核](../interviews/MJ-NC-2026-0475.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0475) — 大模型算法工程师 · 实习 · 2026-05-07
 
-<a id="company-181"></a>
+<a id="company-183"></a>
 ## 欧达光电（1）
 
 - [MJ-NC-2026-0747 宁波欧达光电信息管培生面经](../interviews/MJ-NC-2026-0747.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0747) — 信息管培生 · 2026-10-22
 
-<a id="company-182"></a>
+<a id="company-184"></a>
 ## 拼多多、荣耀、立元科技、得物、华橙（1）
 
 - [MJ-NC-2026-0810 最近一个月面试总结](../interviews/MJ-NC-2026-0810.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0810) — 服务端开发工程师、Java 后端开发工程师（推测）、Java 开发工程师、Agent 开发工程师 · 2026-10-19
 
-<a id="company-183"></a>
+<a id="company-185"></a>
 ## 平安健康保险（1）
 
 - [MJ-NC-2026-0363 平安健康保险（金融保险）｜AI 应用开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0363.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0363) — AI 应用开发工程师 · 2026-08-26
 
-<a id="company-184"></a>
+<a id="company-186"></a>
 ## 平安科技（1）
 
 - [MJ-NC-2026-0837 平安科技2026届补录一面26.10.15](../interviews/MJ-NC-2026-0837.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0837) — 后端开发工程师（推测） · 校招 · 2026-10-15
 
-<a id="company-185"></a>
+<a id="company-187"></a>
 ## 浦发银行（1）
 
 - [MJ-NC-2026-0350 浦发银行｜AI 开发｜社招｜一面](../interviews/MJ-NC-2026-0350.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0350) — AI 开发 · 社招 · 2026-08-07
 
-<a id="company-186"></a>
+<a id="company-188"></a>
 ## 浦银金科（1）
 
 - [MJ-NC-2026-0370 浦银金科｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0370.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0370) — 全栈开发工程师 · 社招 · 2026-08-12
 
-<a id="company-187"></a>
+<a id="company-189"></a>
 ## 麒麟软件（1）
 
 - [MJ-NC-2026-0740 麒麟软件 后端研发工程师 一面面经 10.23](../interviews/MJ-NC-2026-0740.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0740) — 后端研发工程师 · 2026-10-23
 
-<a id="company-188"></a>
+<a id="company-190"></a>
 ## 启云方（1）
 
 - [MJ-NC-2026-0693 启云方 ai应用开发 一面面经 10.30](../interviews/MJ-NC-2026-0693.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0693) — AI 应用开发工程师 · 2026-10-30
 
-<a id="company-189"></a>
+<a id="company-191"></a>
 ## 汽车之家（1）
 
 - [MJ-NC-2026-0768 汽车之家 Java 后端二面面经｜27届校招 10.22](../interviews/MJ-NC-2026-0768.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0768) — Java 后端 · 校招 · 2026-10-22
 
-<a id="company-190"></a>
+<a id="company-192"></a>
 ## 千寻智能（1）
 
 - [MJ-NC-2026-0353 千寻智能｜平台开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0353.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0353) — 平台开发工程师 · 社招 · 2026-08-08
 
-<a id="company-191"></a>
+<a id="company-193"></a>
 ## 轻舟智航（1）
 
 - [MJ-NC-2026-0330 轻舟智航（自动驾驶 AI 排障工具链）｜Agent 开发工程师（自动驾驶工具链）｜实习｜一面、二面](../interviews/MJ-NC-2026-0330.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0330) — Agent 开发工程师（自动驾驶工具链） · 实习 · 2025-12-25
 
-<a id="company-192"></a>
+<a id="company-194"></a>
 ## 趣加（FunPlus）（1）
 
 - [MJ-NC-2026-0777 FPX游戏客户端开发一面面经](../interviews/MJ-NC-2026-0777.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0777) — 游戏客户端开发 · 2026-10-23
 
-<a id="company-193"></a>
+<a id="company-195"></a>
 ## 睿联（1）
 
 - [MJ-NC-2026-0923 睿联 秋招面经](../interviews/MJ-NC-2026-0923.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0923) — 前端岗 · 校招 · 2026-09-26
 
-<a id="company-194"></a>
+<a id="company-196"></a>
 ## 睿芯（1）
 
 - [MJ-NC-2026-0884 1009 苏州睿芯一面（算子开发）](../interviews/MJ-NC-2026-0884.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0884) — 算子开发工程师 · 2026-10-09
 
-<a id="company-195"></a>
+<a id="company-197"></a>
 ## 润嵘金属网有限公司（1）
 
 - [MJ-NC-2026-0163 润嵘金属网有限公司（跨境电商）｜AI 开发工程师｜一面](../interviews/MJ-NC-2026-0163.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0163) — AI 开发工程师 · 2026-09-04
 
-<a id="company-196"></a>
+<a id="company-198"></a>
 ## 三一树根（1）
 
 - [MJ-NC-2026-0808 10.13三一树根机器人强化学习算法面经](../interviews/MJ-NC-2026-0808.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0808) — 机器人强化学习算法 · 实习 · 2026-10-19
 
-<a id="company-197"></a>
+<a id="company-199"></a>
 ## 上海景行智合安全技术（1）
 
 - [MJ-NC-2026-0409 上海景行智合安全技术｜Java 开发工程师｜实习｜一面、二面](../interviews/MJ-NC-2026-0409.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0409) — Java 开发工程师 · 实习 · 2026-06-08
 
-<a id="company-198"></a>
+<a id="company-200"></a>
 ## 上海九云数智（1）
 
 - [MJ-NC-2026-0135 上海九云数智｜大模型应用开发工程师（RAG 方向，内容推测）](../interviews/MJ-NC-2026-0135.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0135) — 大模型应用开发工程师（RAG 方向）（推测） · 2026-09-07
 
-<a id="company-199"></a>
+<a id="company-201"></a>
 ## 上海联蔚数科（1）
 
 - [MJ-NC-2026-0613 上海联蔚数科｜AI 工程实习生（Agent 方向）｜实习](../interviews/MJ-NC-2026-0613.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0613) — AI 工程实习生（Agent 方向） · 实习 · 2026-09-21
 
-<a id="company-200"></a>
+<a id="company-202"></a>
 ## 上海摩和文化（1）
 
 - [MJ-NC-2026-0160 上海摩和文化｜前端开发工程师（AI 业务方向，内容推测）｜一面](../interviews/MJ-NC-2026-0160.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0160) — 前端开发工程师（AI 业务方向）（推测） · 2026-09-04
 
-<a id="company-201"></a>
+<a id="company-203"></a>
 ## 上海银行、中国银行、中国移动、中国平安（1）
 
 - [MJ-NC-2026-0815 银行信息科技笔试题](../interviews/MJ-NC-2026-0815.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0815) — 信息科技岗（推测）、软件开发工程师（推测） · 2026-10-19
 
-<a id="company-202"></a>
+<a id="company-204"></a>
 ## 深势科技（1）
 
 - [MJ-NC-2026-0393 深势科技｜后端开发工程师（AI / Agent 方向，内容推测）｜二面](../interviews/MJ-NC-2026-0393.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0393) — 后端开发工程师（AI / Agent 方向）（推测） · 2026-06-26
 
-<a id="company-203"></a>
+<a id="company-205"></a>
 ## 深圳璇溟科技有限公司（1）
 
 - [MJ-NC-2026-0267 深圳璇溟科技有限公司｜Agent 开发工程师｜实习](../interviews/MJ-NC-2026-0267.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0267) — Agent 开发工程师 · 实习 · 2026-08-23
 
-<a id="company-204"></a>
+<a id="company-206"></a>
 ## 盛大（1）
 
 - [MJ-NC-2026-0410 盛大前端三轮面经](../interviews/MJ-NC-2026-0410.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0410) — 全栈开发工程师（Agent） · 2026-06-08
 
-<a id="company-205"></a>
+<a id="company-207"></a>
 ## 顺丰科技（1）
 
 - [MJ-NC-2026-0811 顺丰科技27届AI开发工程师 一面面经](../interviews/MJ-NC-2026-0811.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0811) — AI 开发工程师 · 校招 · 2026-10-19
 
-<a id="company-206"></a>
+<a id="company-208"></a>
 ## 思锐卓远（1）
 
 - [MJ-NC-2026-0719 思锐卓远面经-后端开发](../interviews/MJ-NC-2026-0719.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0719) — 后端开发实习生 · 实习 · 2026-10-28
 
-<a id="company-207"></a>
+<a id="company-209"></a>
 ## 四维图新（1）
 
 - [MJ-NC-2026-0087 四维图新｜后端开发工程师（AI / Agent 方向，内容推测）](../interviews/MJ-NC-2026-0087.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0087) — 后端开发工程师（AI / Agent 方向）（推测） · 2026-03-06
 
-<a id="company-208"></a>
+<a id="company-210"></a>
 ## 拓竹（1）
 
 - [MJ-NC-2026-0728 拓竹一面](../interviews/MJ-NC-2026-0728.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0728) — 安全工程师（推测） · 2026-10-27
 
-<a id="company-209"></a>
+<a id="company-211"></a>
 ## 钛松科技（1）
 
 - [MJ-NC-2026-0753 上海钛松科技面经](../interviews/MJ-NC-2026-0753.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0753) — 后端开发工程师（推测） · 2026-10-22
 
-<a id="company-210"></a>
+<a id="company-212"></a>
 ## 腾讯 WXG（1）
 
 - [MJ-XHS-2026-0527 5.7 wxg社招面委会面经 agent方向](../interviews/MJ-XHS-2026-0527.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0527) — Agent · 社招 · 2026-05-07
 
-<a id="company-211"></a>
+<a id="company-213"></a>
 ## 腾讯混元（1）
 
 - [MJ-XHS-2026-0522 腾讯混元后台开发一面](../interviews/MJ-XHS-2026-0522.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0522) — 后台开发 · 实习 · 2026-03-31
 
-<a id="company-212"></a>
+<a id="company-214"></a>
 ## 腾讯元宝（1）
 
 - [MJ-XHS-2026-0531 腾讯 元宝 社招 agent架构全流程面经](../interviews/MJ-XHS-2026-0531.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0531) — AI 应用 / Agent 开发（推测） · 社招 · 2026-07-03
 
-<a id="company-213"></a>
+<a id="company-215"></a>
 ## 同程旅行（1）
 
 - [MJ-XHS-2026-0543 同程旅行暑期大模型算法一面面经](../interviews/MJ-XHS-2026-0543.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0543) — 大模型算法工程师 · 实习 · 校招 · 2026-05-29
 
-<a id="company-214"></a>
+<a id="company-216"></a>
 ## 万仞（1）
 
 - [MJ-NC-2026-0231 万仞｜全栈开发工程师｜实习｜二面](../interviews/MJ-NC-2026-0231.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0231) — 全栈开发工程师 · 实习 · 2026-09-05
 
-<a id="company-215"></a>
+<a id="company-217"></a>
 ## 万兴科技（1）
 
 - [MJ-NC-2026-0184 万兴科技｜Android 客户端开发工程师（AI 方向，内容推测）｜实习｜一面](../interviews/MJ-NC-2026-0184.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0184) — Android 客户端开发工程师（AI 方向）（推测） · 实习 · 2026-09-03
 
-<a id="company-216"></a>
+<a id="company-218"></a>
 ## 网新软件（1）
 
 - [MJ-NC-2026-0081 网新软件｜后端开发工程师（内容推测）｜一面、二面](../interviews/MJ-NC-2026-0081.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0081) — 后端开发工程师（推测） · 2026-04-14
 
-<a id="company-217"></a>
+<a id="company-219"></a>
 ## 网易雷火（1）
 
 - [MJ-NC-2026-0788 网易雷火 一轮a面](../interviews/MJ-NC-2026-0788.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0788) — 游戏服务端相关岗位（推测） · 2026-10-21
 
-<a id="company-218"></a>
+<a id="company-220"></a>
 ## 微博（1）
 
 - [MJ-NC-2026-0337 微博（微博 AI 搜索）｜Agent 应用开发工程师（内容推测）｜社招｜一面](../interviews/MJ-NC-2026-0337.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0337) — Agent 应用开发工程师（推测） · 社招 · 2026-08-13
 
-<a id="company-219"></a>
+<a id="company-221"></a>
 ## 微步在线（1）
 
 - [MJ-NC-2026-0168 微步在线（网络安全）｜Java 开发工程师｜秋招｜一面](../interviews/MJ-NC-2026-0168.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0168) — Java 开发工程师 · 2026-09-03
 
-<a id="company-220"></a>
+<a id="company-222"></a>
 ## 维他奶（1）
 
 - [MJ-NC-2026-0132 维他奶｜Java 开发工程师](../interviews/MJ-NC-2026-0132.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0132) — Java 开发工程师 · 2026-09-07
 
-<a id="company-221"></a>
+<a id="company-223"></a>
 ## 文远知行、MiniMax（1）
 
 - [MJ-NC-2026-0770 文远知行算法一面和MiniMax大模型后训练岗面经：考点与准备思路全记录!](../interviews/MJ-NC-2026-0770.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0770) — 算法工程岗、大模型算法岗（后训练/SFT/RL方向） · 2026-10-27
 
-<a id="company-222"></a>
+<a id="company-224"></a>
 ## 小红书、百度（1）
 
 - [MJ-NC-2026-0305 小红书、百度｜多岗位／方向（含内容推测）｜面经合集](../interviews/MJ-NC-2026-0305.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0305) — Agent 开发工程师、Agent 应用开发工程师（推测） · 实习 · 2026-08-24
 
-<a id="company-223"></a>
+<a id="company-225"></a>
 ## 小满科技（1）
 
 - [MJ-NC-2026-0676 小满科技 agent开发 一面](../interviews/MJ-NC-2026-0676.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0676) — Agent 开发 · 社招 · 2026-08-15
 
-<a id="company-224"></a>
+<a id="company-226"></a>
 ## 小鹏、卓驭、百度、Momenta、华为、美团、零跑汽车、经纬恒润、长安汽车、智驾新程、三一重工（1）
 
 - [MJ-NC-2026-0862 27双9智驾算法 | 秋招中场小结与投递记录](../interviews/MJ-NC-2026-0862.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0862) — VLA算法工程师、数据算法与测评、端到端决策规划控制算法工程师、自动驾驶感知模型算法工程师、端到端大模型算法工程师（Mstar）、AI模型工程师、自动驾驶算法工程师、决策规划算法工程师、自动驾驶端到端算法工程师、算法模型开发、规控算法工程师（行车决策规划方向）、智能驾驶与规划控制算法工程师 · 校招 · 2026-10-13
 
-<a id="company-225"></a>
+<a id="company-227"></a>
 ## 小鹏集团（1）
 
 - [MJ-NC-2026-0697 27届校招面经：小鹏集团 - 深度学习平台研发工程师（含Coding）](../interviews/MJ-NC-2026-0697.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0697) — 深度学习平台研发工程师 · 校招 · 2026-10-30
 
-<a id="company-226"></a>
+<a id="company-228"></a>
 ## 小鹏汽车（1）
 
 - [MJ-NC-2026-0822 小鹏嵌入式测试培训生一面](../interviews/MJ-NC-2026-0822.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0822) — 嵌入式测试培训生 · 2026-10-17
 
-<a id="company-227"></a>
+<a id="company-229"></a>
 ## 晓多科技（1）
 
 - [MJ-NC-2026-0662 Golang社招 · 二面、hr面、产品面 · 成都晓多科技Agent开发岗](../interviews/MJ-NC-2026-0662.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0662) — Golang Agent 开发 · 社招 · 2026-08-12
 
-<a id="company-228"></a>
+<a id="company-230"></a>
 ## 新东方（1）
 
 - [MJ-NC-2026-0702 新东方Java开发工程师（AI Agent方向）一面](../interviews/MJ-NC-2026-0702.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0702) — Java开发工程师（AI Agent方向） · 校招 · 2026-10-29
 
-<a id="company-229"></a>
+<a id="company-231"></a>
 ## 信锐网科（1）
 
 - [MJ-NC-2026-0883 信锐网科秋招 软件开发](../interviews/MJ-NC-2026-0883.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0883) — 软件开发 · 2026-10-09
 
-<a id="company-230"></a>
+<a id="company-232"></a>
 ## 雪梨教育（1）
 
 - [MJ-NC-2026-0156 雪梨教育｜AI 产品经理](../interviews/MJ-NC-2026-0156.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0156) — AI 产品经理 · 2026-09-04
 
-<a id="company-231"></a>
+<a id="company-233"></a>
 ## 亚信安全（1）
 
 - [MJ-NC-2026-0251 亚信安全｜Agent 开发工程师（AI Native 工具）｜秋招｜一面](../interviews/MJ-NC-2026-0251.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0251) — Agent 开发工程师（AI Native 工具） · 2026-09-01
 
-<a id="company-232"></a>
+<a id="company-234"></a>
 ## 阳光电源（1）
 
 - [MJ-NC-2026-0036 阳光电源｜Agent 岗｜社招｜一面](../interviews/MJ-NC-2026-0036.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0036) — Agent 岗 · 社招 · 2026-07-08
 
-<a id="company-233"></a>
+<a id="company-235"></a>
 ## 药明康德（1）
 
 - [MJ-NC-2026-0597 药明康德｜AI 数据｜二面](../interviews/MJ-NC-2026-0597.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0597) — AI 数据 · 2026-09-23
 
-<a id="company-234"></a>
+<a id="company-236"></a>
 ## 伊顿电气（1）
 
 - [MJ-NC-2026-0898 求面经](../interviews/MJ-NC-2026-0898.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0898) — 嵌入式 · 2026-10-06
 
-<a id="company-235"></a>
+<a id="company-237"></a>
 ## 易思维（1）
 
 - [MJ-NC-2026-0933 社招 易思维算法测试一面面经](../interviews/MJ-NC-2026-0933.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0933) — 算法测试工程师 · 社招 · 2026-10-13
 
-<a id="company-236"></a>
+<a id="company-238"></a>
 ## 英迈软件（1）
 
 - [MJ-NC-2026-0279 英迈软件｜后端开发工程师（内容推测）](../interviews/MJ-NC-2026-0279.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0279) — 后端开发工程师（推测） · 2026-09-01
 
-<a id="company-237"></a>
+<a id="company-239"></a>
 ## 影石创新（1）
 
 - [MJ-NC-2026-0666 影石创新AI Agent一面凉经😭](../interviews/MJ-NC-2026-0666.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0666) — AI Agent · 实习 · 2026-08-12
 
-<a id="company-238"></a>
+<a id="company-240"></a>
 ## 用友、太平洋网络（1）
 
 - [MJ-NC-2026-0456 用友、太平洋网络｜多岗位／方向（含内容推测）｜面经合集](../interviews/MJ-NC-2026-0456.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0456) — 软件开发工程师（客户化开发）、后端开发工程师（推测） · 实习 · 2026-05-15
 
-<a id="company-239"></a>
+<a id="company-241"></a>
 ## 优博讯（1）
 
 - [MJ-NC-2026-0821 优博讯软件开发面经](../interviews/MJ-NC-2026-0821.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0821) — 软件开发工程师 · 2026-10-17
 
-<a id="company-240"></a>
+<a id="company-242"></a>
 ## 有赞（1）
 
 - [MJ-NC-2026-0432 有赞（CRM 系统与连接器）｜后端开发工程师（AI / Agent 方向，内容推测）](../interviews/MJ-NC-2026-0432.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0432) — 后端开发工程师（AI / Agent 方向）（推测） · 2026-05-25
 
-<a id="company-241"></a>
+<a id="company-243"></a>
 ## 宇视科技（1）
 
 - [MJ-NC-2026-0766 10.24宇视科技笔试面经](../interviews/MJ-NC-2026-0766.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0766) — 测试岗 · 2026-10-24
 
-<a id="company-242"></a>
+<a id="company-244"></a>
 ## 宇树机器人（1）
 
 - [MJ-NC-2026-0880 27宇树机器人软开面经](../interviews/MJ-NC-2026-0880.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0880) — 嵌入式AI岗 · 2026-10-10
 
-<a id="company-243"></a>
+<a id="company-245"></a>
 ## 元气森林（1）
 
 - [MJ-XHS-2026-0542 元气森林-AI效率先锋电话面面经](../interviews/MJ-XHS-2026-0542.md) · [在线阅读](https://mianstack.com/interview/mj-xhs-2026-0542) — AI 效率先锋 · 实习 · 2026-04-29
 
-<a id="company-244"></a>
+<a id="company-246"></a>
 ## 元戎启行（1）
 
 - [MJ-NC-2026-0224 元戎启行｜后端开发工程师｜秋招｜三面](../interviews/MJ-NC-2026-0224.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0224) — 后端开发工程师 · 2026-09-07
 
-<a id="company-245"></a>
+<a id="company-247"></a>
 ## 原力灵机（1）
 
 - [MJ-NC-2026-0857 原力灵机具身智能算法工程师面经（已进三面，记录一下）](../interviews/MJ-NC-2026-0857.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0857) — 大模型算法岗 · 2026-10-13
 
-<a id="company-246"></a>
+<a id="company-248"></a>
 ## 远志（1）
 
 - [MJ-NC-2026-0368 远志（云平台商业化）｜全栈开发工程师｜社招｜一面｜公司待核](../interviews/MJ-NC-2026-0368.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0368) — 全栈开发工程师 · 社招 · 2026-08-05
 
-<a id="company-247"></a>
+<a id="company-249"></a>
 ## 招联（1）
 
 - [MJ-NC-2026-0377 招联｜AI 应用开发工程师｜一面](../interviews/MJ-NC-2026-0377.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0377) — AI 应用开发工程师 · 2025-10-21
 
-<a id="company-248"></a>
+<a id="company-250"></a>
 ## 招银（1）
 
 - [MJ-NC-2026-0317 招银｜后端开发工程师（AI / Agent 方向，内容推测）｜二面｜公司待核](../interviews/MJ-NC-2026-0317.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0317) — 后端开发工程师（AI / Agent 方向）（推测） · 2026-07-09
 
-<a id="company-249"></a>
+<a id="company-251"></a>
 ## 招银科技（1）
 
 - [MJ-NC-2026-0085 招银科技｜后端开发工程师（AI / Agent 方向，内容推测）｜社招](../interviews/MJ-NC-2026-0085.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0085) — 后端开发工程师（AI / Agent 方向）（推测） · 社招 · 2026-07-02
 
-<a id="company-250"></a>
+<a id="company-252"></a>
 ## 招银网络科技（1）
 
 - [MJ-NC-2026-0892 招银网络科技运维研发线上二面](../interviews/MJ-NC-2026-0892.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0892) — 网络运维 · 2026-10-08
 
-<a id="company-251"></a>
+<a id="company-253"></a>
 ## 挚文集团（1）
 
 - [MJ-NC-2026-0373 挚文集团｜前端开发工程师｜秋招｜笔试｜笔试记录](../interviews/MJ-NC-2026-0373.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0373) — 前端开发工程师 · 2026-08-25
 
-<a id="company-252"></a>
+<a id="company-254"></a>
 ## 智谱（1）
 
 - [MJ-NC-2026-0094 智谱（面向国央企的 Agent 应用）｜Agent｜一面、二面](../interviews/MJ-NC-2026-0094.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0094) — Agent · 2024-04-10
 
-<a id="company-253"></a>
+<a id="company-255"></a>
 ## 智书企飞（1）
 
 - [MJ-NC-2026-0911 智书企飞测开 面经](../interviews/MJ-NC-2026-0911.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0911) — AI 测试开发工程师 · 2026-09-30
 
-<a id="company-254"></a>
+<a id="company-256"></a>
 ## 智元机器人、字节跳动（1）
 
 - [MJ-NC-2026-0917 秋招总结&面经分享](../interviews/MJ-NC-2026-0917.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0917) — 平台开发工程师、后端开发工程师（推测） · 2026-09-29
 
-<a id="company-255"></a>
+<a id="company-257"></a>
 ## 中国电信（1）
 
 - [MJ-NC-2026-0878 中国电信深圳智能云网工程师10月面经](../interviews/MJ-NC-2026-0878.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0878) — 智能云网工程师 · 2026-10-10
 
-<a id="company-256"></a>
+<a id="company-258"></a>
 ## 中国工商银行（1）
 
 - [MJ-NC-2026-0945 【面试真题拆盒解析】工行软开典型真题汇总(2023届)](../interviews/MJ-NC-2026-0945.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0945) — 大数据及机器学习算法岗、前端开发 · 2026-10-28
 
-<a id="company-257"></a>
+<a id="company-259"></a>
 ## 中国银行（1）
 
 - [MJ-NC-2026-0773 【面试真题拆盒解析】中国银行总行管培典型面试真题汇总(2024届)](../interviews/MJ-NC-2026-0773.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0773) — 总行管培、总行信息科技管培、总行信息科技岗、总行管培信科 · 校招 · 2026-10-26
 
-<a id="company-258"></a>
+<a id="company-260"></a>
 ## 中科创达（1）
 
 - [MJ-NC-2026-0143 中科创达｜后端开发工程师（AI / RAG 方向，内容推测）](../interviews/MJ-NC-2026-0143.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0143) — 后端开发工程师（AI / RAG 方向）（推测） · 2026-09-05
 
-<a id="company-259"></a>
+<a id="company-261"></a>
 ## 中科曙光（1）
 
 - [MJ-NC-2026-0891 中科曙光 AI Agent 一面](../interviews/MJ-NC-2026-0891.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0891) — AI Agent · 2026-10-09
 
-<a id="company-260"></a>
+<a id="company-262"></a>
 ## 中科星图维天信（1）
 
 - [MJ-NC-2026-0757 中科星图维天信后端开发面经](../interviews/MJ-NC-2026-0757.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0757) — 后端开发 · 实习 · 2026-10-22
 
-<a id="company-261"></a>
+<a id="company-263"></a>
 ## 中兴通讯（1）
 
 - [MJ-NC-2026-0591 中兴通讯｜AI 算法工程师｜校招 · 秋招｜一面](../interviews/MJ-NC-2026-0591.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0591) — AI 算法工程师 · 校招 · 2026-09-23
 
-<a id="company-262"></a>
+<a id="company-264"></a>
 ## 中邮消费金融（1）
 
 - [MJ-NC-2026-0787 中邮消费金融面经](../interviews/MJ-NC-2026-0787.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0787) — 数据开发 · 2026-10-22
 
-<a id="company-263"></a>
+<a id="company-265"></a>
 ## 众安保险（1）
 
 - [MJ-NC-2026-0845 上岸笔记之众安保险AIGC全栈开发岗面经](../interviews/MJ-NC-2026-0845.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0845) — AIGC 全栈开发工程师 · 全职 · 校招 · 2026-10-14
 
-<a id="company-264"></a>
+<a id="company-266"></a>
 ## 卓望（1）
 
 - [MJ-NC-2026-0888 卓望——全栈开发技术面面经](../interviews/MJ-NC-2026-0888.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0888) — 全栈开发岗 · 校招 · 2026-10-09
 
-<a id="company-265"></a>
+<a id="company-267"></a>
 ## 字节跳动、百度、腾讯、传音控股（1）
 
 - [MJ-NC-2026-0919 失败的9月和失败的我](../interviews/MJ-NC-2026-0919.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0919) — 测试开发实习生、开发测试工程师实习生、软件开发（测试开发方向）、后台开发、AI 测试开发实习生 · 实习 · 2026-09-27
 
-<a id="company-266"></a>
+<a id="company-268"></a>
 ## 字节跳动、腾讯、蚂蚁集团（1）
 
 - [MJ-NC-2026-0071 字节跳动、腾讯、蚂蚁集团｜多岗位／方向｜面经合集](../interviews/MJ-NC-2026-0071.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0071) — 后端开发工程师（Agent）、后端开发工程师（云架构）、智能体与大模型应用 · 实习 · 2026-07-07
 
-<a id="company-267"></a>
+<a id="company-269"></a>
 ## 自变量（1）
 
 - [MJ-NC-2026-0312 自变量｜Agent 平台开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0312.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0312) — Agent 平台开发工程师 · 社招 · 2026-08-05
 
-<a id="company-268"></a>
+<a id="company-270"></a>
 ## Cherry Studio（1）
 
 - [MJ-NC-2026-0852 cherry studio后端开发实习生面经](../interviews/MJ-NC-2026-0852.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0852) — 后端开发实习生 · 实习 · 2026-10-13
 
-<a id="company-269"></a>
+<a id="company-271"></a>
 ## Coremail（1）
 
 - [MJ-NC-2026-0619 Coremail｜校招面试](../interviews/MJ-NC-2026-0619.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0619) — 校招 · 2026-09-22
 
-<a id="company-270"></a>
+<a id="company-272"></a>
 ## Fanvil（1）
 
 - [MJ-NC-2026-0207 Fanvil｜测试开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0207.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0207) — 测试开发工程师 · 社招 · 2026-09-04
 
-<a id="company-271"></a>
+<a id="company-273"></a>
 ## FOSHO（1）
 
 - [MJ-NC-2026-0637 某小厂AI应用开发/Agent开发 - 二面](../interviews/MJ-NC-2026-0637.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0637) — AI 应用开发 · 实习 · 2026-07-20
 
-<a id="company-272"></a>
+<a id="company-274"></a>
 ## KuCoin（1）
 
 - [MJ-NC-2026-0051 KuCoin｜平台产品经理](../interviews/MJ-NC-2026-0051.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0051) — 平台产品经理 · 2026-07-08
 
-<a id="company-273"></a>
+<a id="company-275"></a>
 ## MemTensor（1）
 
 - [MJ-NC-2026-0223 MemTensor｜全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0223.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0223) — 全栈开发工程师 · 社招 · 2026-09-08
 
-<a id="company-274"></a>
+<a id="company-276"></a>
 ## Momenta（1）
 
 - [MJ-NC-2026-0254 Momenta｜Agent 应用开发工程师（内容推测）｜秋招｜一面](../interviews/MJ-NC-2026-0254.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0254) — Agent 应用开发工程师（推测） · 2026-09-01
 
-<a id="company-275"></a>
+<a id="company-277"></a>
 ## Snapmaker（1）
 
 - [MJ-NC-2026-0335 Snapmaker｜Web 全栈开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0335.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0335) — Web 全栈开发工程师 · 社招 · 2026-08-05
 
-<a id="company-276"></a>
-## Soul（1）
-
-- [MJ-NC-2026-0365 Soul｜前端开发工程师（AI Agent 方向，内容推测）｜实习](../interviews/MJ-NC-2026-0365.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0365) — 前端开发工程师（AI Agent 方向）（推测） · 实习 · 2026-03-04
-
-<a id="company-277"></a>
+<a id="company-278"></a>
 ## TCL科技（1）
 
 - [MJ-NC-2026-0080 TCL科技｜Java 开发工程师｜实习](../interviews/MJ-NC-2026-0080.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0080) — Java 开发工程师 · 实习 · 2026-04-24
 
-<a id="company-278"></a>
+<a id="company-279"></a>
 ## Teamily AI（1）
 
 - [MJ-NC-2026-0291 Teamily AI（多Agent协作平台）｜测试开发工程师（Agent 评测）｜实习](../interviews/MJ-NC-2026-0291.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0291) — 测试开发工程师（Agent 评测） · 实习 · 2026-08-27
 
-<a id="company-279"></a>
+<a id="company-280"></a>
 ## TP-Link（普联）（1）
 
 - [MJ-NC-2026-0461 TP-Link（普联）｜前端开发工程师（跨端）｜实习｜一面、终面](../interviews/MJ-NC-2026-0461.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0461) — 前端开发工程师（跨端） · 实习 · 2026-05-12
 
-<a id="company-280"></a>
+<a id="company-281"></a>
 ## tuitti视界之外（1）
 
 - [MJ-NC-2026-0151 tuitti视界之外（多人多 Agent 跨设备协同平台）｜Agent 平台开发工程师（内容推测）｜实习｜一面](../interviews/MJ-NC-2026-0151.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0151) — Agent 平台开发工程师（推测） · 实习
 
-<a id="company-281"></a>
+<a id="company-282"></a>
 ## VITURE（1）
 
 - [MJ-NC-2026-0170 VITURE｜Agent 平台开发工程师｜社招｜一面](../interviews/MJ-NC-2026-0170.md) · [在线阅读](https://mianstack.com/interview/mj-nc-2026-0170) — Agent 平台开发工程师 · 社招 · 2026-09-03

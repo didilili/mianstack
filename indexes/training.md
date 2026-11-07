@@ -6,7 +6,7 @@
 
 训练数据、预训练与微调、偏好对齐、强化学习、训练评测与分布式训练。
 
-共 759 道题，分为 9 个专题。
+共 762 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -549,6 +549,7 @@
 - [Q-0904 是否做过分布式训练，常见的模型并行方式有哪些？](../questions/Q-0904.md) · [在线阅读](https://mianstack.com/question/q-0904)
 - [Q-10273 SIMD 与 SIMT 的执行模型有什么区别，是否可以组合使用？](../questions/Q-10273.md) · [在线阅读](https://mianstack.com/question/q-10273)
 - [Q-10274 SIMT 线程组因依赖阻塞后切换到就绪线程组，调度开销主要来自哪里？](../questions/Q-10274.md) · [在线阅读](https://mianstack.com/question/q-10274)
+- [Q-10381 CUDA 中为什么常为一个 Block 配置 128 或 256 个线程，应如何选择线程数？](../questions/Q-10381.md) · [在线阅读](https://mianstack.com/question/q-10381)
 - [Q-1424 SpMV 与 GEMM 有什么计算特性？](../questions/Q-1424.md) · [在线阅读](https://mianstack.com/question/q-1424)
 - [Q-1425 跨 NUMA 导致性能下降如何调优，如何使用 OpenMP？](../questions/Q-1425.md) · [在线阅读](https://mianstack.com/question/q-1425)
 - [Q-1426 矩阵乘分块如何优化性能？](../questions/Q-1426.md) · [在线阅读](https://mianstack.com/question/q-1426)
@@ -673,6 +674,8 @@
 - [Q-0509 如何处理梯度消失与梯度爆炸？](../questions/Q-0509.md) · [在线阅读](https://mianstack.com/question/q-0509) · **已有答案**
 - [Q-0626 如何理解模型训练中的过拟合和欠拟合？](../questions/Q-0626.md) · [在线阅读](https://mianstack.com/question/q-0626)
 - [Q-0735 RL 训练中通常观察哪些参数和指标？](../questions/Q-0735.md) · [在线阅读](https://mianstack.com/question/q-0735)
+- [Q-10376 模型的输入 Shape 应如何定义，各维度对应什么含义？](../questions/Q-10376.md) · [在线阅读](https://mianstack.com/question/q-10376)
+- [Q-10380 MLIR 是什么，在机器学习编译中承担什么作用？](../questions/Q-10380.md) · [在线阅读](https://mianstack.com/question/q-10380)
 - [Q-1245 梯度如何计算，计算中可能遇到哪些问题？](../questions/Q-1245.md) · [在线阅读](https://mianstack.com/question/q-1245)
 - [Q-1285 强化学习平台如何管理资源？](../questions/Q-1285.md) · [在线阅读](https://mianstack.com/question/q-1285)
 - [Q-1607 预训练如何选择 warmup、余弦退火及动态学习率调度？](../questions/Q-1607.md) · [在线阅读](https://mianstack.com/question/q-1607)
