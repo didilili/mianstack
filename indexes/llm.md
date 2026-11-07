@@ -6,7 +6,7 @@
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。
 
-共 1,150 道题，分为 8 个专题。
+共 1,155 道题，分为 8 个专题。
 
 ## 页内导航
 
@@ -105,6 +105,9 @@
 - [Q-0613 大模型的输入与输出如何表示？](../questions/Q-0613.md) · [在线阅读](https://mianstack.com/question/q-0613)
 - [Q-0682 ChatGLM 与 LLaMA 有什么区别？](../questions/Q-0682.md) · [在线阅读](https://mianstack.com/question/q-0682)
 - [Q-0728 手写一个卷积神经网络。](../questions/Q-0728.md) · [在线阅读](https://mianstack.com/question/q-0728)
+- [Q-10345 项目使用的是 Transformer 架构，还是直接使用已有模型？](../questions/Q-10345.md) · [在线阅读](https://mianstack.com/question/q-10345)
+- [Q-10346 项目中使用的 Transformer 与大模型有什么区别？](../questions/Q-10346.md) · [在线阅读](https://mianstack.com/question/q-10346)
+- [Q-10375 LSTM 相比普通 RNN 做了哪些改进，为什么选择 LSTM？](../questions/Q-10375.md) · [在线阅读](https://mianstack.com/question/q-10375)
 - [Q-1243 DeepSeek V3 背后的模型架构是什么？](../questions/Q-1243.md) · [在线阅读](https://mianstack.com/question/q-1243)
 - [Q-1526 大模型底层实现原理是什么？](../questions/Q-1526.md) · [在线阅读](https://mianstack.com/question/q-1526)
 - [Q-1612 GPT 系列采用什么模型架构？](../questions/Q-1612.md) · [在线阅读](https://mianstack.com/question/q-1612)
@@ -416,6 +419,7 @@
 - [Q-0536 你了解哪些多模态大模型及其原理？](../questions/Q-0536.md) · [在线阅读](https://mianstack.com/question/q-0536)
 - [Q-0777 视频帧是否作为图片文件直接输入多模态模型？](../questions/Q-0777.md) · [在线阅读](https://mianstack.com/question/q-0777)
 - [Q-0787 长视频为什么不能一次全部交给大模型？](../questions/Q-0787.md) · [在线阅读](https://mianstack.com/question/q-0787)
+- [Q-10379 三维重建项目的实现流程是什么，关键难点有哪些？](../questions/Q-10379.md) · [在线阅读](https://mianstack.com/question/q-10379)
 - [Q-1427 TTS 如何实现？](../questions/Q-1427.md) · [在线阅读](https://mianstack.com/question/q-1427)
 - [Q-1845 如何看待自动驾驶从一段式、两段式向 VLA、VLM 的技术演进？](../questions/Q-1845.md) · [在线阅读](https://mianstack.com/question/q-1845)
 - [Q-1846 训练时图像分辨率不同，应该如何处理？](../questions/Q-1846.md) · [在线阅读](https://mianstack.com/question/q-1846)
@@ -754,6 +758,7 @@
 - [Q-10212 介绍长序列召回模型的架构、核心特征与损失函数。](../questions/Q-10212.md) · [在线阅读](https://mianstack.com/question/q-10212)
 - [Q-10213 如何用大模型优化 OneRec 推荐效果，并完成业务验证与迭代闭环？](../questions/Q-10213.md) · [在线阅读](https://mianstack.com/question/q-10213)
 - [Q-10215 广告曝光量、消耗与 ADVV 同时上涨时，如何判断优化效果？](../questions/Q-10215.md) · [在线阅读](https://mianstack.com/question/q-10215)
+- [Q-10315 项目中的聚类功能如何实现？](../questions/Q-10315.md) · [在线阅读](https://mianstack.com/question/q-10315)
 - [Q-1598 了解哪些机器学习算法？](../questions/Q-1598.md) · [在线阅读](https://mianstack.com/question/q-1598)
 - [Q-1599 数仓与机器学习结合有哪些潜力场景？](../questions/Q-1599.md) · [在线阅读](https://mianstack.com/question/q-1599)
 - [Q-1746 项目场景中的 Level-K 博弈如何实现？](../questions/Q-1746.md) · [在线阅读](https://mianstack.com/question/q-1746)

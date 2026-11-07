@@ -6,7 +6,7 @@
 
 项目表达、个人贡献、协作、成长、职业选择、行为面与候选人反问。
 
-共 679 道题，分为 9 个专题。
+共 684 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -226,6 +226,10 @@
 - [Q-0779 你认为 Claude Code 哪些功能做得好？](../questions/Q-0779.md) · [在线阅读](https://mianstack.com/question/q-0779)
 - [Q-0781 你如何开通或充值 ChatGPT Plus？](../questions/Q-0781.md) · [在线阅读](https://mianstack.com/question/q-0781)
 - [Q-1024 如何理解全栈，前端、后端和端上各有什么职责与难点？](../questions/Q-1024.md) · [在线阅读](https://mianstack.com/question/q-1024)
+- [Q-10348 你了解自己项目的哪些竞品？](../questions/Q-10348.md) · [在线阅读](https://mianstack.com/question/q-10348)
+- [Q-10349 垂域 Agent 能力被新模型或开源能力覆盖时，如何看待原有工作的价值？](../questions/Q-10349.md) · [在线阅读](https://mianstack.com/question/q-10349)
+- [Q-10420 AI 时代面试还有必要考查算法题吗，为什么？](../questions/Q-10420.md) · [在线阅读](https://mianstack.com/question/q-10420)
+- [Q-10421 如何在面试中考查候选人使用 AI 工具的能力？](../questions/Q-10421.md) · [在线阅读](https://mianstack.com/question/q-10421)
 - [Q-1550 AI 如何改变测试工作？](../questions/Q-1550.md) · [在线阅读](https://mianstack.com/question/q-1550)
 - [Q-1865 业务团队为什么还需要建设基础设施？](../questions/Q-1865.md) · [在线阅读](https://mianstack.com/question/q-1865)
 - [Q-2002 如何看待新一轮 AI 技术革命及未来发展？](../questions/Q-2002.md) · [在线阅读](https://mianstack.com/question/q-2002)
@@ -431,6 +435,7 @@
 - [Q-0991 请介绍主动学习 AI 工具或大模型并落地开发的真实经历与效果。](../questions/Q-0991.md) · [在线阅读](https://mianstack.com/question/q-0991) · **已有答案**
 - [Q-10121 你何时开始学习多 Agent 通信与 Harness 架构，经历了哪些阶段？](../questions/Q-10121.md) · [在线阅读](https://mianstack.com/question/q-10121)
 - [Q-10284 你对深度学习了解多少，掌握哪些基础知识或实践？](../questions/Q-10284.md) · [在线阅读](https://mianstack.com/question/q-10284)
+- [Q-10350 Agent 技术快速迭代时，如何持续学习并避免重复造轮子？](../questions/Q-10350.md) · [在线阅读](https://mianstack.com/question/q-10350)
 - [Q-1097 后端经验如何用于 AI 或 Agent 开发？](../questions/Q-1097.md) · [在线阅读](https://mianstack.com/question/q-1097)
 - [Q-1186 平时通过哪些渠道学习技术？](../questions/Q-1186.md) · [在线阅读](https://mianstack.com/question/q-1186)
 - [Q-1223 从大模型实习转向智驾决策规划岗位有哪些共同点和可迁移能力？](../questions/Q-1223.md) · [在线阅读](https://mianstack.com/question/q-1223)

@@ -6,7 +6,7 @@
 
 文档处理、检索、重排、知识更新、知识图谱与结构化知识。
 
-共 492 道题，分为 13 个专题。
+共 493 道题，分为 13 个专题。
 
 ## 页内导航
 
@@ -43,6 +43,7 @@
 - [Q-0978 面对多种 Word、PDF、Markdown 文档及 7000 多条问答，如何为智能客服选型并搭建完整链路？](../questions/Q-0978.md) · [在线阅读](https://mianstack.com/question/q-0978)
 - [Q-10116 翻译插件如何利用术语库与专家校对数据改善翻译质量？](../questions/Q-10116.md) · [在线阅读](https://mianstack.com/question/q-10116)
 - [Q-1015 RAG 是自行实现还是采用开源组件？](../questions/Q-1015.md) · [在线阅读](https://mianstack.com/question/q-1015) · **已有答案**
+- [Q-10316 项目为什么不直接把检索结果作为上下文交给模型？](../questions/Q-10316.md) · [在线阅读](https://mianstack.com/question/q-10316)
 - [Q-1167 如何设计支撑需求澄清和指标口径对齐的知识库，包括内容、结构和召回？](../questions/Q-1167.md) · [在线阅读](https://mianstack.com/question/q-1167)
 - [Q-1272 RAG 客服问答的核心是什么？](../questions/Q-1272.md) · [在线阅读](https://mianstack.com/question/q-1272)
 - [Q-1367 召回内容回填后如何校验提示词规范？](../questions/Q-1367.md) · [在线阅读](https://mianstack.com/question/q-1367)

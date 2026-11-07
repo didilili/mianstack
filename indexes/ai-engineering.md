@@ -6,7 +6,7 @@
 
 Prompt、应用架构、评测、质量、安全、可观测性、性能与交付。
 
-共 1,186 道题，分为 10 个专题。
+共 1,193 道题，分为 10 个专题。
 
 ## 页内导航
 
@@ -220,6 +220,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-0909 质量对比的考核标准是业务预先约定，还是实施中调整？](../questions/Q-0909.md) · [在线阅读](https://mianstack.com/question/q-0909)
 - [Q-0910 评估用例如何依托测试平台执行？](../questions/Q-0910.md) · [在线阅读](https://mianstack.com/question/q-0910)
 - [Q-10267 Agent 的点赞点踩反馈应针对整条回答还是细分内容，如何定义粒度？](../questions/Q-10267.md) · [在线阅读](https://mianstack.com/question/q-10267)
+- [Q-10425 如何在一夜内完成 Harness 在 5000 个任务上的效果评测？](../questions/Q-10425.md) · [在线阅读](https://mianstack.com/question/q-10425)
 - [Q-1056 介绍你参与的团队端到端测试 Skill 的测试工作。](../questions/Q-1056.md) · [在线阅读](https://mianstack.com/question/q-1056)
 - [Q-1065 vLLM 驱动测试的输入、输出及测试流程如何设计？](../questions/Q-1065.md) · [在线阅读](https://mianstack.com/question/q-1065)
 - [Q-1113 AI 测试能力探索包括哪些方向？](../questions/Q-1113.md) · [在线阅读](https://mianstack.com/question/q-1113)
@@ -660,6 +661,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-0993 日志分析的完整流程是什么？](../questions/Q-0993.md) · [在线阅读](https://mianstack.com/question/q-0993)
 - [Q-0994 系统出了问题但日志没有记录时，如何排查？](../questions/Q-0994.md) · [在线阅读](https://mianstack.com/question/q-0994) · **已有答案**
 - [Q-10167 Agent 框架内置的 Trace 插件与独立可观测平台有什么区别？](../questions/Q-10167.md) · [在线阅读](https://mianstack.com/question/q-10167)
+- [Q-10377 同一模型在不同硬件上对相同输入的表现有差异，如何判断是否为 Bug 并排查？](../questions/Q-10377.md) · [在线阅读](https://mianstack.com/question/q-10377)
 - [Q-1094 Trace 可回放是什么意思，能否指定本地 Trace 重新执行？](../questions/Q-1094.md) · [在线阅读](https://mianstack.com/question/q-1094)
 - [Q-1307 按 LogID 拉日志如何保证完整且足以定位问题？](../questions/Q-1307.md) · [在线阅读](https://mianstack.com/question/q-1307)
 - [Q-1453 了解 OpenTelemetry 吗？](../questions/Q-1453.md) · [在线阅读](https://mianstack.com/question/q-1453)
@@ -841,6 +843,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-0611 为什么选择 vLLM，与其他推理方案相比如何？](../questions/Q-0611.md) · [在线阅读](https://mianstack.com/question/q-0611)
 - [Q-0742 原子切换版本时如何防止请求丢失和旧版本响应问题？](../questions/Q-0742.md) · [在线阅读](https://mianstack.com/question/q-0742)
 - [Q-0759 如何控制 Agent 自动上线的线上风险？](../questions/Q-0759.md) · [在线阅读](https://mianstack.com/question/q-0759)
+- [Q-10426 Agent 沙箱部署在本地还是远端，应如何取舍？](../questions/Q-10426.md) · [在线阅读](https://mianstack.com/question/q-10426)
 - [Q-1447 AI 模型在实际生产中的困难有哪些？](../questions/Q-1447.md) · [在线阅读](https://mianstack.com/question/q-1447)
 - [Q-1866 Agent 声称需求已完成且可以发布时，如何确认它做对了？](../questions/Q-1866.md) · [在线阅读](https://mianstack.com/question/q-1866) · **已有答案**
 - [Q-1867 灰度发布时，Agent 如何识别异常？](../questions/Q-1867.md) · [在线阅读](https://mianstack.com/question/q-1867)
@@ -992,6 +995,9 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-0912 内部大模型平台是自研的吗，归哪个部门负责？](../questions/Q-0912.md) · [在线阅读](https://mianstack.com/question/q-0912)
 - [Q-0913 内部大模型平台与外部同类平台的使用体验有什么区别？](../questions/Q-0913.md) · [在线阅读](https://mianstack.com/question/q-0913)
 - [Q-0933 平时如何组织 AI Coding 工作流？](../questions/Q-0933.md) · [在线阅读](https://mianstack.com/question/q-0933) · **已有答案**
+- [Q-10285 代码生成平台的端到端实现流程是怎样的？](../questions/Q-10285.md) · [在线阅读](https://mianstack.com/question/q-10285)
+- [Q-10287 用户对前端 UI 的需求模糊时，如何迭代生成结果使其符合预期？](../questions/Q-10287.md) · [在线阅读](https://mianstack.com/question/q-10287)
+- [Q-10418 使用 AI Coding 实现按用户和接口统计的单位时间访问限流，超限时返回失败。](../questions/Q-10418.md) · [在线阅读](https://mianstack.com/question/q-10418)
 - [Q-1049 为何选择该 Coding Agent，选型考虑了什么？](../questions/Q-1049.md) · [在线阅读](https://mianstack.com/question/q-1049) · **已有答案**
 - [Q-1064 智能体平台的用户画像和用户使用路径是什么？](../questions/Q-1064.md) · [在线阅读](https://mianstack.com/question/q-1064)
 - [Q-1096 使用模型遇到哪些痛点，如何处理防御性编程等问题？](../questions/Q-1096.md) · [在线阅读](https://mianstack.com/question/q-1096)
@@ -1199,6 +1205,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-0760 Agent 无法覆盖哪些需求，如何逐步提升自主覆盖率？](../questions/Q-0760.md) · [在线阅读](https://mianstack.com/question/q-0760)
 - [Q-10118 大模型网关产品如何定位用户需求并吸引用户？](../questions/Q-10118.md) · [在线阅读](https://mianstack.com/question/q-10118)
 - [Q-1017 智能票务或客服系统如何把 AI 与传统业务结合？](../questions/Q-1017.md) · [在线阅读](https://mianstack.com/question/q-1017)
+- [Q-10286 代码生成平台为什么只生成前端，如何评估扩展到后端的边界？](../questions/Q-10286.md) · [在线阅读](https://mianstack.com/question/q-10286)
 - [Q-1033 怎样判断平台做得好不好，服务最重要的指标是什么？](../questions/Q-1033.md) · [在线阅读](https://mianstack.com/question/q-1033)
 - [Q-1166 数据开发中哪些环节 AI 不能完成，为什么难以对齐数据口径？](../questions/Q-1166.md) · [在线阅读](https://mianstack.com/question/q-1166)
 - [Q-1178 实训助手解决什么问题，如何和用户交互？](../questions/Q-1178.md) · [在线阅读](https://mianstack.com/question/q-1178)
