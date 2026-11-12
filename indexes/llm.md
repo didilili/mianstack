@@ -6,7 +6,7 @@
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。
 
-共 1,155 道题，分为 8 个专题。
+共 1,191 道题，分为 8 个专题。
 
 ## 页内导航
 
@@ -28,6 +28,7 @@
 - [Q-0575 手写 Multi-Head Attention。](../questions/Q-0575.md) · [在线阅读](https://mianstack.com/question/q-0575) · **已有答案**
 - [Q-0625 Transformer 的整体原理是什么？](../questions/Q-0625.md) · [在线阅读](https://mianstack.com/question/q-0625) · **已有答案**
 - [Q-0666 Transformer 有哪些优劣势，与其他架构相比如何？](../questions/Q-0666.md) · [在线阅读](https://mianstack.com/question/q-0666) · **已有答案**
+- [Q-10726 GLM 与 GPT 的架构设计有哪些差异，各有什么取舍？](../questions/Q-10726.md) · [在线阅读](https://mianstack.com/question/q-10726)
 - [Q-1748 Cross-Attention 中 Q、K、V 分别来自哪里？](../questions/Q-1748.md) · [在线阅读](https://mianstack.com/question/q-1748)
 - [Q-2467 交叉注意力如何工作？](../questions/Q-2467.md) · [在线阅读](https://mianstack.com/question/q-2467)
 - [Q-2781 多头注意力机制如何工作？](../questions/Q-2781.md) · [在线阅读](https://mianstack.com/question/q-2781)
@@ -108,6 +109,8 @@
 - [Q-10345 项目使用的是 Transformer 架构，还是直接使用已有模型？](../questions/Q-10345.md) · [在线阅读](https://mianstack.com/question/q-10345)
 - [Q-10346 项目中使用的 Transformer 与大模型有什么区别？](../questions/Q-10346.md) · [在线阅读](https://mianstack.com/question/q-10346)
 - [Q-10375 LSTM 相比普通 RNN 做了哪些改进，为什么选择 LSTM？](../questions/Q-10375.md) · [在线阅读](https://mianstack.com/question/q-10375)
+- [Q-10504 大模型为什么能够理解语义，并将用户问题与相关内容匹配？](../questions/Q-10504.md) · [在线阅读](https://mianstack.com/question/q-10504)
+- [Q-10601 人工智能、机器学习、深度学习、大语言模型和计算机视觉是什么关系？](../questions/Q-10601.md) · [在线阅读](https://mianstack.com/question/q-10601)
 - [Q-1243 DeepSeek V3 背后的模型架构是什么？](../questions/Q-1243.md) · [在线阅读](https://mianstack.com/question/q-1243)
 - [Q-1526 大模型底层实现原理是什么？](../questions/Q-1526.md) · [在线阅读](https://mianstack.com/question/q-1526)
 - [Q-1612 GPT 系列采用什么模型架构？](../questions/Q-1612.md) · [在线阅读](https://mianstack.com/question/q-1612)
@@ -273,6 +276,7 @@
 <a id="topic-4"></a>
 ## 推理与解码
 
+- [Q-10826 自回归语言模型为何训练可并行，生成时通常逐 Token 执行？](../questions/Q-10826.md) · [在线阅读](https://mianstack.com/question/q-10826)
 - [Q-2279 为什么 Temperature 为 0 时模型输出仍可能有差异？](../questions/Q-2279.md) · [在线阅读](https://mianstack.com/question/q-2279)
 - [Q-2757 Temperature、Top-k 和 Top-p 怎样影响模型采样？](../questions/Q-2757.md) · [在线阅读](https://mianstack.com/question/q-2757) · **已有答案**
 - [Q-2917 投机解码的原理是什么？](../questions/Q-2917.md) · [在线阅读](https://mianstack.com/question/q-2917)
@@ -318,6 +322,15 @@
 - [Q-0616 如何解决模型像复读机一样重复生成的问题？](../questions/Q-0616.md) · [在线阅读](https://mianstack.com/question/q-0616) · **已有答案**
 - [Q-0641 主流模型的上下文长度分别是多少？](../questions/Q-0641.md) · [在线阅读](https://mianstack.com/question/q-0641) · **已有答案**
 - [Q-0982 因果模型中第 40 个 token 的 KV Cache 缺失或失效后，应从哪里重新计算？](../questions/Q-0982.md) · [在线阅读](https://mianstack.com/question/q-0982) · **已有答案**
+- [Q-10455 大模型请求跨实例迁移时，如何处理 KV Cache 与生成状态？](../questions/Q-10455.md) · [在线阅读](https://mianstack.com/question/q-10455)
+- [Q-10564 张量并行规模增大时，为什么推理速度不一定提升？](../questions/Q-10564.md) · [在线阅读](https://mianstack.com/question/q-10564)
+- [Q-10566 如何判断张量并行推理已经进入通信瓶颈？](../questions/Q-10566.md) · [在线阅读](https://mianstack.com/question/q-10566)
+- [Q-10727 权重量化与 KV Cache 量化的精度风险有什么不同？](../questions/Q-10727.md) · [在线阅读](https://mianstack.com/question/q-10727)
+- [Q-10729 共享 Prefix Cache 后，如何通过写时复制隔离不同请求的后续生成？](../questions/Q-10729.md) · [在线阅读](https://mianstack.com/question/q-10729)
+- [Q-10748 推理服务如何结合 Cache Score 与 Load Score 设计 Cache-aware 路由？](../questions/Q-10748.md) · [在线阅读](https://mianstack.com/question/q-10748)
+- [Q-10749 跨实例 KV Cache 如何共享，与 Dynamo 调度方案有哪些取舍？](../questions/Q-10749.md) · [在线阅读](https://mianstack.com/question/q-10749)
+- [Q-10750 如何搭建 TILE Cache 系统仿真，并据此选择并行配置和 Prefill/Decode 配比？](../questions/Q-10750.md) · [在线阅读](https://mianstack.com/question/q-10750)
+- [Q-11447 不同版本的 FlashAttention 分别优化了哪些瓶颈，如何与硬件机制对应？](../questions/Q-11447.md) · [在线阅读](https://mianstack.com/question/q-11447)
 - [Q-1665 上下文压缩后 KV Cache 是否失效？](../questions/Q-1665.md) · [在线阅读](https://mianstack.com/question/q-1665) · **已有答案**
 - [Q-2153 大模型如何逐步生成 Token？](../questions/Q-2153.md) · [在线阅读](https://mianstack.com/question/q-2153)
 - [Q-2176 模型的 Prompt Cache 如何工作？](../questions/Q-2176.md) · [在线阅读](https://mianstack.com/question/q-2176)
@@ -420,6 +433,10 @@
 - [Q-0777 视频帧是否作为图片文件直接输入多模态模型？](../questions/Q-0777.md) · [在线阅读](https://mianstack.com/question/q-0777)
 - [Q-0787 长视频为什么不能一次全部交给大模型？](../questions/Q-0787.md) · [在线阅读](https://mianstack.com/question/q-0787)
 - [Q-10379 三维重建项目的实现流程是什么，关键难点有哪些？](../questions/Q-10379.md) · [在线阅读](https://mianstack.com/question/q-10379)
+- [Q-10521 你了解哪些图像识别与多模态大模型技术，具有哪些实践经验？](../questions/Q-10521.md) · [在线阅读](https://mianstack.com/question/q-10521)
+- [Q-10574 商品图片中的文字、Logo、水印和二维码如何分别处理？](../questions/Q-10574.md) · [在线阅读](https://mianstack.com/question/q-10574)
+- [Q-10990 图片 Embedding 会编码哪些信息，如何验证其对检索任务的适用性？](../questions/Q-10990.md) · [在线阅读](https://mianstack.com/question/q-10990)
+- [Q-11326 视觉语言模型的基本架构是什么，图像信息如何接入语言模型？](../questions/Q-11326.md) · [在线阅读](https://mianstack.com/question/q-11326)
 - [Q-1427 TTS 如何实现？](../questions/Q-1427.md) · [在线阅读](https://mianstack.com/question/q-1427)
 - [Q-1845 如何看待自动驾驶从一段式、两段式向 VLA、VLM 的技术演进？](../questions/Q-1845.md) · [在线阅读](https://mianstack.com/question/q-1845)
 - [Q-1846 训练时图像分辨率不同，应该如何处理？](../questions/Q-1846.md) · [在线阅读](https://mianstack.com/question/q-1846)
@@ -759,6 +776,25 @@
 - [Q-10213 如何用大模型优化 OneRec 推荐效果，并完成业务验证与迭代闭环？](../questions/Q-10213.md) · [在线阅读](https://mianstack.com/question/q-10213)
 - [Q-10215 广告曝光量、消耗与 ADVV 同时上涨时，如何判断优化效果？](../questions/Q-10215.md) · [在线阅读](https://mianstack.com/question/q-10215)
 - [Q-10315 项目中的聚类功能如何实现？](../questions/Q-10315.md) · [在线阅读](https://mianstack.com/question/q-10315)
+- [Q-10518 安全帽检测算法把普通帽子误识别为安全帽，如何分析并改进？](../questions/Q-10518.md) · [在线阅读](https://mianstack.com/question/q-10518)
+- [Q-10841 推荐模型中的用户行为序列如何选择长度和截断策略？](../questions/Q-10841.md) · [在线阅读](https://mianstack.com/question/q-10841)
+- [Q-10842 推荐系统如何构造训练样本，曝光未点击应怎样标记？](../questions/Q-10842.md) · [在线阅读](https://mianstack.com/question/q-10842)
+- [Q-10843 推荐系统的统计特征如何选择统计窗口，并避免时间穿越？](../questions/Q-10843.md) · [在线阅读](https://mianstack.com/question/q-10843)
+- [Q-10844 推荐系统如何保证训练和服务特征一致，实时特征怎样回填？](../questions/Q-10844.md) · [在线阅读](https://mianstack.com/question/q-10844)
+- [Q-10845 实时特征从计算到服务的链路如何设计，延迟期间怎样兜底？](../questions/Q-10845.md) · [在线阅读](https://mianstack.com/question/q-10845)
+- [Q-10847 推荐训练中的 IPW 权重怎样估计，如何检查偏差和方差？](../questions/Q-10847.md) · [在线阅读](https://mianstack.com/question/q-10847)
+- [Q-10848 DIN 的兴趣激活与一般 Target Attention 如何比较？](../questions/Q-10848.md) · [在线阅读](https://mianstack.com/question/q-10848)
+- [Q-10849 推荐模型如何处理长用户行为序列，并控制显存和计算开销？](../questions/Q-10849.md) · [在线阅读](https://mianstack.com/question/q-10849)
+- [Q-10850 推荐模型从训练到上线有哪些步骤，如何定位发布瓶颈？](../questions/Q-10850.md) · [在线阅读](https://mianstack.com/question/q-10850)
+- [Q-10851 将推荐模型扩大十倍时，如何评估并改造在线服务？](../questions/Q-10851.md) · [在线阅读](https://mianstack.com/question/q-10851)
+- [Q-10852 推荐模型迭代如何平衡离线指标和线上业务收益？](../questions/Q-10852.md) · [在线阅读](https://mianstack.com/question/q-10852)
+- [Q-10853 A/B 实验主指标上涨但使用时长下降时，如何判断是否上线？](../questions/Q-10853.md) · [在线阅读](https://mianstack.com/question/q-10853)
+- [Q-11103 有了用户画像后，如何生成和排序推荐内容？](../questions/Q-11103.md) · [在线阅读](https://mianstack.com/question/q-11103)
+- [Q-11104 推荐系统如何将采纳、点踩等用户反馈回流到后续推荐？](../questions/Q-11104.md) · [在线阅读](https://mianstack.com/question/q-11104)
+- [Q-11136 ASR 清洗模型预测替换操作后，替换词由哪个模块生成？](../questions/Q-11136.md) · [在线阅读](https://mianstack.com/question/q-11136)
+- [Q-11137 ASR 清洗只支持保留、删除和替换时，如何处理漏识别内容？](../questions/Q-11137.md) · [在线阅读](https://mianstack.com/question/q-11137)
+- [Q-11139 多标签意图识别中，FastText、TextCNN 与 TinyBERT 如何组合或分工？](../questions/Q-11139.md) · [在线阅读](https://mianstack.com/question/q-11139)
+- [Q-11140 为什么 TinyBERT 在不同意图标签上的表现会有差异？](../questions/Q-11140.md) · [在线阅读](https://mianstack.com/question/q-11140)
 - [Q-1598 了解哪些机器学习算法？](../questions/Q-1598.md) · [在线阅读](https://mianstack.com/question/q-1598)
 - [Q-1599 数仓与机器学习结合有哪些潜力场景？](../questions/Q-1599.md) · [在线阅读](https://mianstack.com/question/q-1599)
 - [Q-1746 项目场景中的 Level-K 博弈如何实现？](../questions/Q-1746.md) · [在线阅读](https://mianstack.com/question/q-1746)

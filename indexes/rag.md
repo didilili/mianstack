@@ -6,7 +6,7 @@
 
 文档处理、检索、重排、知识更新、知识图谱与结构化知识。
 
-共 493 道题，分为 13 个专题。
+共 547 道题，分为 13 个专题。
 
 ## 页内导航
 
@@ -44,6 +44,11 @@
 - [Q-10116 翻译插件如何利用术语库与专家校对数据改善翻译质量？](../questions/Q-10116.md) · [在线阅读](https://mianstack.com/question/q-10116)
 - [Q-1015 RAG 是自行实现还是采用开源组件？](../questions/Q-1015.md) · [在线阅读](https://mianstack.com/question/q-1015) · **已有答案**
 - [Q-10316 项目为什么不直接把检索结果作为上下文交给模型？](../questions/Q-10316.md) · [在线阅读](https://mianstack.com/question/q-10316)
+- [Q-10661 项目中的 RAG 引擎使用什么语言和库实现？](../questions/Q-10661.md) · [在线阅读](https://mianstack.com/question/q-10661)
+- [Q-11080 RAG 知识库需要存储哪些数据，以什么格式组织？](../questions/Q-11080.md) · [在线阅读](https://mianstack.com/question/q-11080)
+- [Q-11561 知识库如何识别不同文档之间的关联信息？](../questions/Q-11561.md) · [在线阅读](https://mianstack.com/question/q-11561)
+- [Q-11579 RAG 接入和检索长文档时，有哪些处理方案？](../questions/Q-11579.md) · [在线阅读](https://mianstack.com/question/q-11579)
+- [Q-11661 机器翻译为什么需要检索历史译文和术语库，而不直接让大模型生成？](../questions/Q-11661.md) · [在线阅读](https://mianstack.com/question/q-11661)
 - [Q-1167 如何设计支撑需求澄清和指标口径对齐的知识库，包括内容、结构和召回？](../questions/Q-1167.md) · [在线阅读](https://mianstack.com/question/q-1167)
 - [Q-1272 RAG 客服问答的核心是什么？](../questions/Q-1272.md) · [在线阅读](https://mianstack.com/question/q-1272)
 - [Q-1367 召回内容回填后如何校验提示词规范？](../questions/Q-1367.md) · [在线阅读](https://mianstack.com/question/q-1367)
@@ -114,6 +119,9 @@
 - [Q-0828 格式混杂、结构不规范的输入文档如何控制质量？](../questions/Q-0828.md) · [在线阅读](https://mianstack.com/question/q-0828)
 - [Q-0864 知识库是否由 Spec 文档归纳生成，如何生成？](../questions/Q-0864.md) · [在线阅读](https://mianstack.com/question/q-0864)
 - [Q-1052 为何预清洗用户反馈，具体怎样清洗？](../questions/Q-1052.md) · [在线阅读](https://mianstack.com/question/q-1052)
+- [Q-10576 OCR 结果输入大模型前需要经过哪些处理？](../questions/Q-10576.md) · [在线阅读](https://mianstack.com/question/q-10576)
+- [Q-11243 Agent 知识库支持哪些文档类型，如何处理不同格式？](../questions/Q-11243.md) · [在线阅读](https://mianstack.com/question/q-11243)
+- [Q-11432 如何将飞书文档接入 RAG 知识库？](../questions/Q-11432.md) · [在线阅读](https://mianstack.com/question/q-11432)
 - [Q-1711 运维知识库中约 5000 份文档主要是什么类型？](../questions/Q-1711.md) · [在线阅读](https://mianstack.com/question/q-1711)
 - [Q-1917 介绍项目外网爬虫、数据清洗到模型喂数的完整流程。](../questions/Q-1917.md) · [在线阅读](https://mianstack.com/question/q-1917)
 - [Q-1993 项目用什么技术构建知识库和索引？](../questions/Q-1993.md) · [在线阅读](https://mianstack.com/question/q-1993)
@@ -147,6 +155,8 @@
 - [Q-0026 动态重叠窗口切片相比固定长度切片解决了什么问题？](../questions/Q-0026.md) · [在线阅读](https://mianstack.com/question/q-0026)
 - [Q-0171 RAG 文档有哪些切分策略，如何确定块大小？](../questions/Q-0171.md) · [在线阅读](https://mianstack.com/question/q-0171) · **已有答案**
 - [Q-0186 如何评估分块效果并进行优化？](../questions/Q-0186.md) · [在线阅读](https://mianstack.com/question/q-0186) · **已有答案**
+- [Q-11573 如何通过横向实验验证 RAG 分块策略的效果？](../questions/Q-11573.md) · [在线阅读](https://mianstack.com/question/q-11573)
+- [Q-11578 RAG 分块的重叠长度应怎样设置和验证？](../questions/Q-11578.md) · [在线阅读](https://mianstack.com/question/q-11578)
 - [Q-1308 飞书文档、表格和图片如何切分？](../questions/Q-1308.md) · [在线阅读](https://mianstack.com/question/q-1308) · **已有答案**
 - [Q-1309 两个表格有逻辑关联时如何切分并保留关系？](../questions/Q-1309.md) · [在线阅读](https://mianstack.com/question/q-1309)
 - [Q-1690 递归字符切分如何执行，仍超长度怎么办，有何替代策略？](../questions/Q-1690.md) · [在线阅读](https://mianstack.com/question/q-1690)
@@ -182,6 +192,7 @@
 - [Q-0486 为什么不自行训练 Embedding 模型？](../questions/Q-0486.md) · [在线阅读](https://mianstack.com/question/q-0486)
 - [Q-0586 Embedding 的本质是什么，各维度参数有什么含义？](../questions/Q-0586.md) · [在线阅读](https://mianstack.com/question/q-0586) · **已有答案**
 - [Q-0602 为什么不采用轻量级大模型 Reranker？](../questions/Q-0602.md) · [在线阅读](https://mianstack.com/question/q-0602)
+- [Q-10825 余弦相似度与内积有什么区别，何时得到相同排序？](../questions/Q-10825.md) · [在线阅读](https://mianstack.com/question/q-10825)
 - [Q-1713 Embedding 模型的原理是什么，如何训练？](../questions/Q-1713.md) · [在线阅读](https://mianstack.com/question/q-1713)
 - [Q-2498 RAG Embedding 模型不准确时如何优化？](../questions/Q-2498.md) · [在线阅读](https://mianstack.com/question/q-2498)
 - [Q-2918 文档向量化的具体流程是什么？](../questions/Q-2918.md) · [在线阅读](https://mianstack.com/question/q-2918)
@@ -214,6 +225,13 @@
 - [Q-0651 DiskANN 如何工作？](../questions/Q-0651.md) · [在线阅读](https://mianstack.com/question/q-0651)
 - [Q-0711 HNSW 有哪些局限，是否可能漏召回？](../questions/Q-0711.md) · [在线阅读](https://mianstack.com/question/q-0711)
 - [Q-0712 只调整 HNSW 或 ANN 检索本身，如何缓解正确结果未进入候选集？](../questions/Q-0712.md) · [在线阅读](https://mianstack.com/question/q-0712)
+- [Q-10863 项目中的 Milvus 使用云服务还是自行部署，如何运行？](../questions/Q-10863.md) · [在线阅读](https://mianstack.com/question/q-10863)
+- [Q-10867 Milvus 的元数据过滤能做哪些查询，何时需要其他数据库？](../questions/Q-10867.md) · [在线阅读](https://mianstack.com/question/q-10867)
+- [Q-10992 自行实现向量存储检索与采用开源向量数据库有什么取舍？](../questions/Q-10992.md) · [在线阅读](https://mianstack.com/question/q-10992)
+- [Q-11095 只有几条或几十条数据时，是否需要使用向量检索？](../questions/Q-11095.md) · [在线阅读](https://mianstack.com/question/q-11095)
+- [Q-11167 向量检索库在项目中承担什么功能，如何组织存储和搜索？](../questions/Q-11167.md) · [在线阅读](https://mianstack.com/question/q-11167)
+- [Q-11431 RAG 知识存储与普通 MySQL 存储有哪些区别？](../questions/Q-11431.md) · [在线阅读](https://mianstack.com/question/q-11431)
+- [Q-11454 项目中的向量检索采用什么算法，怎样完成召回？](../questions/Q-11454.md) · [在线阅读](https://mianstack.com/question/q-11454)
 - [Q-1291 图数据库和向量数据库各适合什么场景？](../questions/Q-1291.md) · [在线阅读](https://mianstack.com/question/q-1291)
 - [Q-1541 Embedding 如何入库？](../questions/Q-1541.md) · [在线阅读](https://mianstack.com/question/q-1541)
 - [Q-2083 Qdrant 与 PGVector 有何区别，项目为什么这样选型？](../questions/Q-2083.md) · [在线阅读](https://mianstack.com/question/q-2083)
@@ -254,6 +272,7 @@
 - [Q-0713 Query Rewrite 解决什么问题，在 RAG 哪个位置执行？](../questions/Q-0713.md) · [在线阅读](https://mianstack.com/question/q-0713) · **已有答案**
 - [Q-0714 检索时同时使用原始与改写 Query，还是只使用改写 Query？](../questions/Q-0714.md) · [在线阅读](https://mianstack.com/question/q-0714)
 - [Q-0715 除查询改写与 HyDE 外，还有哪些提高召回的方法？](../questions/Q-0715.md) · [在线阅读](https://mianstack.com/question/q-0715) · **已有答案**
+- [Q-10988 用 BERT 处理文本后，如何选择关键词并过滤无关词？](../questions/Q-10988.md) · [在线阅读](https://mianstack.com/question/q-10988)
 - [Q-1179 同一句话在不同上下文中诉求不同，如何扩写查询并精准召回？](../questions/Q-1179.md) · [在线阅读](https://mianstack.com/question/q-1179)
 - [Q-1180 学生说“这道题我不会”时，如何结合多轮对话结构化扩写 query，并组织入库？](../questions/Q-1180.md) · [在线阅读](https://mianstack.com/question/q-1180)
 - [Q-1181 电商客服中用户说“太贵了”，如何结构化扩写诉求以精准召回？](../questions/Q-1181.md) · [在线阅读](https://mianstack.com/question/q-1181)
@@ -286,6 +305,9 @@
 - [Q-0972 父子检索如何工作，为什么在 RAG 中使用？](../questions/Q-0972.md) · [在线阅读](https://mianstack.com/question/q-0972) · **已有答案**
 - [Q-0981 查询明确错误码的处理方法时，RAG 应采用什么检索策略？](../questions/Q-0981.md) · [在线阅读](https://mianstack.com/question/q-0981) · **已有答案**
 - [Q-10123 BM25 与 TF-IDF 有什么区别？](../questions/Q-10123.md) · [在线阅读](https://mianstack.com/question/q-10123)
+- [Q-11238 向量检索的相似度阈值如何设置和验证？](../questions/Q-11238.md) · [在线阅读](https://mianstack.com/question/q-11238)
+- [Q-11434 RAG 中的关键词匹配如何实现，怎样选择分词器或多模式匹配算法？](../questions/Q-11434.md) · [在线阅读](https://mianstack.com/question/q-11434)
+- [Q-11576 项目中的双层向量检索如何设计，各层负责什么？](../questions/Q-11576.md) · [在线阅读](https://mianstack.com/question/q-11576)
 - [Q-1218 如何检索召回数据库的表和字段？](../questions/Q-1218.md) · [在线阅读](https://mianstack.com/question/q-1218) · **已有答案**
 - [Q-1220 BM25 有哪些局限？](../questions/Q-1220.md) · [在线阅读](https://mianstack.com/question/q-1220)
 - [Q-1280 词法检索匹配不上“苹果”和“apple”时如何处理？](../questions/Q-1280.md) · [在线阅读](https://mianstack.com/question/q-1280)
@@ -348,6 +370,14 @@
 - [Q-0719 能否用结构、训练数据不同的向量模型 B 替代 Reranker，对模型 A 的候选重排？](../questions/Q-0719.md) · [在线阅读](https://mianstack.com/question/q-0719)
 - [Q-0973 RAG 中的 Top-K 与 rerank 分别是什么？](../questions/Q-0973.md) · [在线阅读](https://mianstack.com/question/q-0973)
 - [Q-1022 项目的 rerank 使用什么模型？](../questions/Q-1022.md) · [在线阅读](https://mianstack.com/question/q-1022)
+- [Q-10657 双路召回中如何设计降级，具体停用哪一路和哪些结果？](../questions/Q-10657.md) · [在线阅读](https://mianstack.com/question/q-10657)
+- [Q-10658 什么是双路召回，两条召回通道怎样分工？](../questions/Q-10658.md) · [在线阅读](https://mianstack.com/question/q-10658)
+- [Q-10862 项目中的向量检索和 BM25 分别使用哪些库，如何接入？](../questions/Q-10862.md) · [在线阅读](https://mianstack.com/question/q-10862)
+- [Q-10864 实现关键词检索时，如何比较 MongoDB 与 Elasticsearch？](../questions/Q-10864.md) · [在线阅读](https://mianstack.com/question/q-10864)
+- [Q-10879 RAG 召回候选是否越多越好，怎样确定召回与重排数量？](../questions/Q-10879.md) · [在线阅读](https://mianstack.com/question/q-10879)
+- [Q-11265 你是否调整过项目中的 Rerank，具体怎样验证改动？](../questions/Q-11265.md) · [在线阅读](https://mianstack.com/question/q-11265)
+- [Q-11450 RAG 项目使用了什么重排模型，如何验证选择效果？](../questions/Q-11450.md) · [在线阅读](https://mianstack.com/question/q-11450)
+- [Q-11457 RAG 项目中的重排权重如何确定并验证效果？](../questions/Q-11457.md) · [在线阅读](https://mianstack.com/question/q-11457)
 - [Q-1441 RRF 如何融合向量检索与 ES 结果？](../questions/Q-1441.md) · [在线阅读](https://mianstack.com/question/q-1441) · **已有答案**
 - [Q-1442 如何优化 rerank 并确认有效？](../questions/Q-1442.md) · [在线阅读](https://mianstack.com/question/q-1442)
 - [Q-1654 多路召回融合时固定权重与模型打分有何优缺点？](../questions/Q-1654.md) · [在线阅读](https://mianstack.com/question/q-1654)
@@ -396,6 +426,9 @@
 - [Q-0879 召回率为 75% 时，剩余 25% 为什么没有召回？](../questions/Q-0879.md) · [在线阅读](https://mianstack.com/question/q-0879) · **已有答案**
 - [Q-10268 回答引用多个知识片段时，如何把整条点踩反馈归因到具体片段？](../questions/Q-10268.md) · [在线阅读](https://mianstack.com/question/q-10268)
 - [Q-1051 如何处理 RAG 用户反馈并建立评测机制，帮助产品决定改进方向？](../questions/Q-1051.md) · [在线阅读](https://mianstack.com/question/q-1051)
+- [Q-10880 正确证据已进入最终上下文但答案仍然错误时，如何定位？](../questions/Q-10880.md) · [在线阅读](https://mianstack.com/question/q-10880)
+- [Q-10969 如何识别并减少知识库中的跨模块误召回？](../questions/Q-10969.md) · [在线阅读](https://mianstack.com/question/q-10969)
+- [Q-11225 知识库更新后仍返回旧答案，如何定位切分、索引、缓存和检索问题？](../questions/Q-11225.md) · [在线阅读](https://mianstack.com/question/q-11225)
 - [Q-1168 怎样判断知识库召回内容正是所需结果？](../questions/Q-1168.md) · [在线阅读](https://mianstack.com/question/q-1168)
 - [Q-1296 GraphRAG 比纯 RAG 提升哪些指标？](../questions/Q-1296.md) · [在线阅读](https://mianstack.com/question/q-1296)
 - [Q-1370 RAG 通过哪些手段减少幻觉？](../questions/Q-1370.md) · [在线阅读](https://mianstack.com/question/q-1370) · **已有答案**
@@ -446,7 +479,12 @@
 
 - [Q-0540 RAG 如何动态且不停服地更新知识库？](../questions/Q-0540.md) · [在线阅读](https://mianstack.com/question/q-0540) · **已有答案**
 - [Q-0825 如何按用户、团队和组织控制知识库文档读取权限？](../questions/Q-0825.md) · [在线阅读](https://mianstack.com/question/q-0825) · **已有答案**
+- [Q-10713 NPC 的剧情检索如何避免召回玩家尚未解锁的内容？](../questions/Q-10713.md) · [在线阅读](https://mianstack.com/question/q-10713)
 - [Q-1115 知识库和知识图谱如何完善与更新，何时更新？](../questions/Q-1115.md) · [在线阅读](https://mianstack.com/question/q-1115)
+- [Q-11244 企业知识库中有过期和相似文档时，如何避免召回错误版本或重复内容？](../questions/Q-11244.md) · [在线阅读](https://mianstack.com/question/q-11244)
+- [Q-11332 知识库文档的多个版本如何管理并供查询使用？](../questions/Q-11332.md) · [在线阅读](https://mianstack.com/question/q-11332)
+- [Q-11575 向量检索如何实现用户或租户隔离？](../questions/Q-11575.md) · [在线阅读](https://mianstack.com/question/q-11575)
+- [Q-11663 知识库增量更新为什么使用 Git PR 记录，而不只依赖文件修改时间？](../questions/Q-11663.md) · [在线阅读](https://mianstack.com/question/q-11663)
 - [Q-1347 向量库文档更新删除时如何管理版本？](../questions/Q-1347.md) · [在线阅读](https://mianstack.com/question/q-1347)
 - [Q-1712 知识库原始数据中是否存在冲突或矛盾？](../questions/Q-1712.md) · [在线阅读](https://mianstack.com/question/q-1712)
 - [Q-1780 知识库为何按 KB、Document、Revision、Snapshot、Artifact、Deployment 分层建模？](../questions/Q-1780.md) · [在线阅读](https://mianstack.com/question/q-1780)
@@ -490,6 +528,10 @@
 - [Q-0776 视频没有语音时如何处理，检索效果是否下降？](../questions/Q-0776.md) · [在线阅读](https://mianstack.com/question/q-0776)
 - [Q-0789 ASR 和 OCR 如何选型？](../questions/Q-0789.md) · [在线阅读](https://mianstack.com/question/q-0789)
 - [Q-0846 如何将 PDF 转写从 31 分钟优化到 2.5 分钟？](../questions/Q-0846.md) · [在线阅读](https://mianstack.com/question/q-0846)
+- [Q-10866 图片、视频等非文本内容如何通过 BM25 检索？](../questions/Q-10866.md) · [在线阅读](https://mianstack.com/question/q-10866)
+- [Q-11010 图片检索 Agent 如何实现图片存储、索引与查询？](../questions/Q-11010.md) · [在线阅读](https://mianstack.com/question/q-11010)
+- [Q-11081 将图片转化为文本通常有哪些方法？](../questions/Q-11081.md) · [在线阅读](https://mianstack.com/question/q-11081)
+- [Q-11214 如何处理视频内容，使 Agent 能依据视频回答问题？](../questions/Q-11214.md) · [在线阅读](https://mianstack.com/question/q-11214)
 - [Q-1681 PDF 语料如何解析？](../questions/Q-1681.md) · [在线阅读](https://mianstack.com/question/q-1681)
 - [Q-1682 表格为什么转换成 HTML？](../questions/Q-1682.md) · [在线阅读](https://mianstack.com/question/q-1682)
 - [Q-2884 图文检索和语义库如何构建？](../questions/Q-2884.md) · [在线阅读](https://mianstack.com/question/q-2884) · **已有答案**
@@ -499,7 +541,7 @@
 - [Q-5680 文档截图表示检索与 OCR 文本检索有何区别，如何验证布局信息的作用？](../questions/Q-5680.md) · [在线阅读](https://mianstack.com/question/q-5680)
 - [Q-6178 OCR 图表解析应如何保留表格关系、坐标轴与数据系列的结构？](../questions/Q-6178.md) · [在线阅读](https://mianstack.com/question/q-6178)
 - [Q-6180 OCR 识别的 LaTeX 公式为何在 Markdown 中显示异常，如何定位处理？](../questions/Q-6180.md) · [在线阅读](https://mianstack.com/question/q-6180)
-- [Q-7487 如何构建支持图片和视频的多模态 RAG？](../questions/Q-7487.md) · [在线阅读](https://mianstack.com/question/q-7487)
+- [Q-7487 如何构建支持图像、视频和音频的多模态 RAG？](../questions/Q-7487.md) · [在线阅读](https://mianstack.com/question/q-7487)
 - [Q-8442 文档中的手写体和印刷体分别如何识别与处理？](../questions/Q-8442.md) · [在线阅读](https://mianstack.com/question/q-8442)
 - [Q-9729 RAG 中文档图片和表格如何解析并保留结构？](../questions/Q-9729.md) · [在线阅读](https://mianstack.com/question/q-9729)
 
@@ -512,6 +554,16 @@
 - [Q-0580 知识图谱本体论是什么？](../questions/Q-0580.md) · [在线阅读](https://mianstack.com/question/q-0580)
 - [Q-0591 知识图谱如何构建与维护，难点是什么？](../questions/Q-0591.md) · [在线阅读](https://mianstack.com/question/q-0591) · **已有答案**
 - [Q-10166 知识图谱建模如何结合领域专家和本体方法？](../questions/Q-10166.md) · [在线阅读](https://mianstack.com/question/q-10166)
+- [Q-10461 跨系统领域建模时，如何处理同名异义与异名同义？](../questions/Q-10461.md) · [在线阅读](https://mianstack.com/question/q-10461)
+- [Q-10474 本体化与普通 RAG 有什么区别，完整文档加检索能否替代本体建模？](../questions/Q-10474.md) · [在线阅读](https://mianstack.com/question/q-10474)
+- [Q-10475 本体建模应该覆盖哪些核心能力，如何控制建设与维护成本？](../questions/Q-10475.md) · [在线阅读](https://mianstack.com/question/q-10475)
+- [Q-10490 如何校验本体抽取结果并衡量本体模型质量？](../questions/Q-10490.md) · [在线阅读](https://mianstack.com/question/q-10490)
+- [Q-10495 本体建模在业务系统与 Agent 应用中承担什么作用？](../questions/Q-10495.md) · [在线阅读](https://mianstack.com/question/q-10495)
+- [Q-10497 本体模型如何分层，并用 OWL 定义语义与约束？](../questions/Q-10497.md) · [在线阅读](https://mianstack.com/question/q-10497)
+- [Q-10500 跨领域本体建模中，哪些语义应该统一，哪些差异应保留？](../questions/Q-10500.md) · [在线阅读](https://mianstack.com/question/q-10500)
+- [Q-11098 如何评估 Agent 项目引入知识图谱的适用性和使用成本？](../questions/Q-11098.md) · [在线阅读](https://mianstack.com/question/q-11098)
+- [Q-11099 如何把大模型的自然语言请求转换为确定的知识图谱查询？](../questions/Q-11099.md) · [在线阅读](https://mianstack.com/question/q-11099)
+- [Q-11100 知识图谱检索准确率不足时，如何比较知识清洗和模型训练方案？](../questions/Q-11100.md) · [在线阅读](https://mianstack.com/question/q-11100)
 - [Q-1288 知识图谱如何抽取实体和关系？](../questions/Q-1288.md) · [在线阅读](https://mianstack.com/question/q-1288)
 - [Q-1289 文档变更时如何更新实体关系，全量和增量更新如何选？](../questions/Q-1289.md) · [在线阅读](https://mianstack.com/question/q-1289)
 - [Q-1295 图谱抽取如何多轮调优？](../questions/Q-1295.md) · [在线阅读](https://mianstack.com/question/q-1295)
@@ -559,6 +611,8 @@
 <a id="topic-13"></a>
 ## 结构化知识与 Text-to-SQL
 
+- [Q-10979 Text-to-SQL 遇到仅靠 SQL 无法完成的复杂计算时，如何设计处理链路？](../questions/Q-10979.md) · [在线阅读](https://mianstack.com/question/q-10979)
+- [Q-11003 Text-to-SQL 涉及多表时，如何保证关联表和关联条件选择正确？](../questions/Q-11003.md) · [在线阅读](https://mianstack.com/question/q-11003)
 - [Q-1920 介绍项目的召回、重排和 SQL 生成链路。](../questions/Q-1920.md) · [在线阅读](https://mianstack.com/question/q-1920) · **已有答案**
 - [Q-1921 SQL 双层校验、超时和置信度兜底策略如何实现？](../questions/Q-1921.md) · [在线阅读](https://mianstack.com/question/q-1921)
 - [Q-2470 NL2SQL 生成 SQL 时怎样处理角色权限？](../questions/Q-2470.md) · [在线阅读](https://mianstack.com/question/q-2470) · **已有答案**

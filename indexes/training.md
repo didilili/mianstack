@@ -6,7 +6,7 @@
 
 训练数据、预训练与微调、偏好对齐、强化学习、训练评测与分布式训练。
 
-共 762 道题，分为 9 个专题。
+共 812 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -40,6 +40,12 @@
 - [Q-0732 冷启动使用了多少数据，分布如何？](../questions/Q-0732.md) · [在线阅读](https://mianstack.com/question/q-0732)
 - [Q-0763 什么是高质量数据？](../questions/Q-0763.md) · [在线阅读](https://mianstack.com/question/q-0763)
 - [Q-0764 后训练数据有哪些形态？](../questions/Q-0764.md) · [在线阅读](https://mianstack.com/question/q-0764)
+- [Q-10480 用于后训练的 Agent 执行轨迹如何清洗与筛选？](../questions/Q-10480.md) · [在线阅读](https://mianstack.com/question/q-10480)
+- [Q-10519 发现一批数据将普通帽子错标为安全帽时，如何处理并推动修正？](../questions/Q-10519.md) · [在线阅读](https://mianstack.com/question/q-10519)
+- [Q-10588 商品审核申诉回流的数据如何重新标注，由谁复核？](../questions/Q-10588.md) · [在线阅读](https://mianstack.com/question/q-10588)
+- [Q-10680 如何为领域 Embedding 微调构造训练数据？](../questions/Q-10680.md) · [在线阅读](https://mianstack.com/question/q-10680)
+- [Q-10836 自动构造和筛选训练数据的迭代流程，与 AutoML 有什么区别？](../questions/Q-10836.md) · [在线阅读](https://mianstack.com/question/q-10836)
+- [Q-11135 ASR 清洗中如何设计保留、删除和替换标签，并构造训练样本？](../questions/Q-11135.md) · [在线阅读](https://mianstack.com/question/q-11135)
 - [Q-1525 模型训练文本如何去重？](../questions/Q-1525.md) · [在线阅读](https://mianstack.com/question/q-1525)
 - [Q-1529 网页采集清洗数仓到训练的管道如何设计？](../questions/Q-1529.md) · [在线阅读](https://mianstack.com/question/q-1529)
 - [Q-1829 实习中的训练数据后处理和评审具体如何做？](../questions/Q-1829.md) · [在线阅读](https://mianstack.com/question/q-1829)
@@ -133,6 +139,12 @@
 - [Q-0681 为什么在 SFT 后采用 RL，SFT 遇到了什么问题？](../questions/Q-0681.md) · [在线阅读](https://mianstack.com/question/q-0681) · **已有答案**
 - [Q-0692 是否独立做过模型训练或微调？](../questions/Q-0692.md) · [在线阅读](https://mianstack.com/question/q-0692) · **已有答案**
 - [Q-0823 如何考虑为每个业务后训练小模型？](../questions/Q-0823.md) · [在线阅读](https://mianstack.com/question/q-0823)
+- [Q-10829 业务知识内化与普通微调有什么异同？](../questions/Q-10829.md) · [在线阅读](https://mianstack.com/question/q-10829)
+- [Q-10830 训练时如何区分知识注入与输出格式学习，怎样验证模型学到了什么？](../questions/Q-10830.md) · [在线阅读](https://mianstack.com/question/q-10830)
+- [Q-10831 参数化知识更新期间如何提供新事实，并与 RAG 配合？](../questions/Q-10831.md) · [在线阅读](https://mianstack.com/question/q-10831)
+- [Q-10832 继续训练更新事实时，如何处理新旧知识冲突与遗忘？](../questions/Q-10832.md) · [在线阅读](https://mianstack.com/question/q-10832)
+- [Q-10972 大模型训练退火阶段如何调整数据配比？](../questions/Q-10972.md) · [在线阅读](https://mianstack.com/question/q-10972)
+- [Q-10973 多轮对话 SFT 的 Loss Mask 漏设会造成什么问题？](../questions/Q-10973.md) · [在线阅读](https://mianstack.com/question/q-10973)
 - [Q-1244 训练一个模型需要哪些步骤和关注点？](../questions/Q-1244.md) · [在线阅读](https://mianstack.com/question/q-1244)
 - [Q-1605 如何根治预训练生僻词向量质量差的问题？](../questions/Q-1605.md) · [在线阅读](https://mianstack.com/question/q-1605)
 - [Q-1729 项目微调具体更新模型的哪些部分？](../questions/Q-1729.md) · [在线阅读](https://mianstack.com/question/q-1729)
@@ -264,6 +276,8 @@
 - [Q-0605 DPOP 的全称是什么？](../questions/Q-0605.md) · [在线阅读](https://mianstack.com/question/q-0605)
 - [Q-0737 DPO 是否需要额外加入 KL 约束？](../questions/Q-0737.md) · [在线阅读](https://mianstack.com/question/q-0737)
 - [Q-0896 DPO 的算法原理是什么？](../questions/Q-0896.md) · [在线阅读](https://mianstack.com/question/q-0896) · **已有答案**
+- [Q-10482 构造 Agent 轨迹偏好对时，如何权衡成功、工具成本与失败恢复价值？](../questions/Q-10482.md) · [在线阅读](https://mianstack.com/question/q-10482)
+- [Q-10570 DPO 训练后模型输出明显变长，如何排查和处理？](../questions/Q-10570.md) · [在线阅读](https://mianstack.com/question/q-10570)
 - [Q-2706 如何构建 chosen/rejected 偏好对，模型答案优于标注答案时如何处理？](../questions/Q-2706.md) · [在线阅读](https://mianstack.com/question/q-2706)
 - [Q-2899 DPO 训练有哪些需要注意的事项？](../questions/Q-2899.md) · [在线阅读](https://mianstack.com/question/q-2899)
 - [Q-3051 DPO 为什么不需要在线采样，训练数据采用什么格式？](../questions/Q-3051.md) · [在线阅读](https://mianstack.com/question/q-3051)
@@ -316,6 +330,17 @@
 - [Q-0635 Agentic RL 是什么？](../questions/Q-0635.md) · [在线阅读](https://mianstack.com/question/q-0635)
 - [Q-0679 强化学习训练中的 Reference Model 起什么作用？](../questions/Q-0679.md) · [在线阅读](https://mianstack.com/question/q-0679) · **已有答案**
 - [Q-0736 什么是 Reward Hacking，如何识别、定位并治理？](../questions/Q-0736.md) · [在线阅读](https://mianstack.com/question/q-0736) · **已有答案**
+- [Q-10728 RLHF 中的奖励模型过拟合会有哪些表现，如何发现和缓解？](../questions/Q-10728.md) · [在线阅读](https://mianstack.com/question/q-10728)
+- [Q-10975 GRPO 的组大小如何选择，增大或减小会带来什么影响？](../questions/Q-10975.md) · [在线阅读](https://mianstack.com/question/q-10975)
+- [Q-10976 缺少完整监督轨迹时，Agent 训练可以从哪里获得学习信号？](../questions/Q-10976.md) · [在线阅读](https://mianstack.com/question/q-10976)
+- [Q-10977 业务规则应写入 Prompt 还是训练 Reward，分别有什么影响？](../questions/Q-10977.md) · [在线阅读](https://mianstack.com/question/q-10977)
+- [Q-11323 PPO、DPO、GRPO 与 OPD 在目标、数据和训练过程上有什么区别？](../questions/Q-11323.md) · [在线阅读](https://mianstack.com/question/q-11323)
+- [Q-11381 GRPO 训练中为什么会出现回复变长，如何设计长度惩罚？](../questions/Q-11381.md) · [在线阅读](https://mianstack.com/question/q-11381)
+- [Q-11382 强化学习采样温度如何影响探索、多样性和奖励噪声？](../questions/Q-11382.md) · [在线阅读](https://mianstack.com/question/q-11382)
+- [Q-11384 没有标准答案的业务数据，如何构造可靠的强化学习奖励？](../questions/Q-11384.md) · [在线阅读](https://mianstack.com/question/q-11384)
+- [Q-11386 GRPO 训练遇到超长回复时如何截断，并处理对应奖励？](../questions/Q-11386.md) · [在线阅读](https://mianstack.com/question/q-11386)
+- [Q-11391 GRPO 的 KL 惩罚放在 Reward 或 Loss 中有什么区别，系数如何选择？](../questions/Q-11391.md) · [在线阅读](https://mianstack.com/question/q-11391)
+- [Q-11402 SFT 后应直接进入强化学习，还是先用拒绝采样进行冷启动？](../questions/Q-11402.md) · [在线阅读](https://mianstack.com/question/q-11402)
 - [Q-1226 采用 SFT 和 GRPO 后相对原模型改了什么，数据层面有哪些问题和修改？](../questions/Q-1226.md) · [在线阅读](https://mianstack.com/question/q-1226)
 - [Q-1229 不同项目为什么分别选择 PPO 和 DDPG？](../questions/Q-1229.md) · [在线阅读](https://mianstack.com/question/q-1229)
 - [Q-1230 DDPG 项目的 reward 如何设计？](../questions/Q-1230.md) · [在线阅读](https://mianstack.com/question/q-1230)
@@ -496,6 +521,9 @@
 ## Verifier 与训练评测
 
 - [Q-0278 工业故障诊断项目如何排除测试污染与 Judge 偏差，证明训练策略收益？](../questions/Q-0278.md) · [在线阅读](https://mianstack.com/question/q-0278)
+- [Q-10623 如何设计实验，评估联邦学习投毒攻击的效果？](../questions/Q-10623.md) · [在线阅读](https://mianstack.com/question/q-10623)
+- [Q-10978 线上 Reward 分布与离线不同，如何检测并定位原因？](../questions/Q-10978.md) · [在线阅读](https://mianstack.com/question/q-10978)
+- [Q-11383 模型评测中如何选择 Pass@1 与 Pass@k，并确定 k？](../questions/Q-11383.md) · [在线阅读](https://mianstack.com/question/q-11383)
 - [Q-2699 如何评估微调或训练后模型的效果？](../questions/Q-2699.md) · [在线阅读](https://mianstack.com/question/q-2699)
 - [Q-2796 论文方法能否泛化到垂直领域？](../questions/Q-2796.md) · [在线阅读](https://mianstack.com/question/q-2796)
 - [Q-3007 Agent 后训练中的 Verifier 如何设计？](../questions/Q-3007.md) · [在线阅读](https://mianstack.com/question/q-3007)
@@ -550,6 +578,18 @@
 - [Q-10273 SIMD 与 SIMT 的执行模型有什么区别，是否可以组合使用？](../questions/Q-10273.md) · [在线阅读](https://mianstack.com/question/q-10273)
 - [Q-10274 SIMT 线程组因依赖阻塞后切换到就绪线程组，调度开销主要来自哪里？](../questions/Q-10274.md) · [在线阅读](https://mianstack.com/question/q-10274)
 - [Q-10381 CUDA 中为什么常为一个 Block 配置 128 或 256 个线程，应如何选择线程数？](../questions/Q-10381.md) · [在线阅读](https://mianstack.com/question/q-10381)
+- [Q-10530 MoE 有哪些负载均衡方法，分别解决什么问题？](../questions/Q-10530.md) · [在线阅读](https://mianstack.com/question/q-10530)
+- [Q-10563 线性层、Attention 和 FFN 如何实施张量并行，列并行与行并行怎样组合？](../questions/Q-10563.md) · [在线阅读](https://mianstack.com/question/q-10563)
+- [Q-10567 推理服务中的数据并行与训练阶段的数据并行有什么区别？](../questions/Q-10567.md) · [在线阅读](https://mianstack.com/question/q-10567)
+- [Q-10568 流水线并行中的 Micro-Batch 是什么？](../questions/Q-10568.md) · [在线阅读](https://mianstack.com/question/q-10568)
+- [Q-10569 你是否动手实现过流水线并行？](../questions/Q-10569.md) · [在线阅读](https://mianstack.com/question/q-10569)
+- [Q-10746 Ampere、Hopper 与 Blackwell 的指令、内存和低精度计算能力有哪些差异？](../questions/Q-10746.md) · [在线阅读](https://mianstack.com/question/q-10746)
+- [Q-10747 Hopper 的 WGMMA 与 Blackwell 的 UMMA 在发射、执行和张量存储上有何差异？](../questions/Q-10747.md) · [在线阅读](https://mianstack.com/question/q-10747)
+- [Q-10751 W4A4 稀疏推理 Kernel 如何设计量化、WMMA 计算与 Bitmap 索引？](../questions/Q-10751.md) · [在线阅读](https://mianstack.com/question/q-10751)
+- [Q-10752 稀疏推理 Kernel 中如何选择 Key 拆分、双缓冲和流水线分块参数？](../questions/Q-10752.md) · [在线阅读](https://mianstack.com/question/q-10752)
+- [Q-11390 从 7B 扩展到 32B 时，如何定位强化学习流水线最先遇到的瓶颈？](../questions/Q-11390.md) · [在线阅读](https://mianstack.com/question/q-11390)
+- [Q-11446 如何测量单个算子在完整训练或推理链路中的耗时占比？](../questions/Q-11446.md) · [在线阅读](https://mianstack.com/question/q-11446)
+- [Q-11452 训练项目使用什么硬件，你有哪些多卡与多节点实践？](../questions/Q-11452.md) · [在线阅读](https://mianstack.com/question/q-11452)
 - [Q-1424 SpMV 与 GEMM 有什么计算特性？](../questions/Q-1424.md) · [在线阅读](https://mianstack.com/question/q-1424)
 - [Q-1425 跨 NUMA 导致性能下降如何调优，如何使用 OpenMP？](../questions/Q-1425.md) · [在线阅读](https://mianstack.com/question/q-1425)
 - [Q-1426 矩阵乘分块如何优化性能？](../questions/Q-1426.md) · [在线阅读](https://mianstack.com/question/q-1426)
@@ -613,7 +653,7 @@
 - [Q-5770 x86 与 ARM 在深度学习部署中有哪些差异？](../questions/Q-5770.md) · [在线阅读](https://mianstack.com/question/q-5770)
 - [Q-5771 XPU、MLU 与 MUSA 分别指什么，比较时如何区分硬件与软件层？](../questions/Q-5771.md) · [在线阅读](https://mianstack.com/question/q-5771)
 - [Q-5774 分布式计算通信后端如何组织进程与集合通信？](../questions/Q-5774.md) · [在线阅读](https://mianstack.com/question/q-5774)
-- [Q-5775 All-Gather 与 Reduce-Scatter 如何改变各进程的张量分布？](../questions/Q-5775.md) · [在线阅读](https://mianstack.com/question/q-5775)
+- [Q-5775 All-Reduce、All-Gather 与 Reduce-Scatter 如何改变各进程的张量分布？](../questions/Q-5775.md) · [在线阅读](https://mianstack.com/question/q-5775)
 - [Q-5776 如何使用 NCCL Tests 检查多 GPU 通信性能？](../questions/Q-5776.md) · [在线阅读](https://mianstack.com/question/q-5776)
 - [Q-5777 RDMA、RoCE 与 InfiniBand 是什么关系？](../questions/Q-5777.md) · [在线阅读](https://mianstack.com/question/q-5777)
 - [Q-5896 使用 Triton 实现逐元素向量加法算子。](../questions/Q-5896.md) · [在线阅读](https://mianstack.com/question/q-5896)
@@ -676,6 +716,16 @@
 - [Q-0735 RL 训练中通常观察哪些参数和指标？](../questions/Q-0735.md) · [在线阅读](https://mianstack.com/question/q-0735)
 - [Q-10376 模型的输入 Shape 应如何定义，各维度对应什么含义？](../questions/Q-10376.md) · [在线阅读](https://mianstack.com/question/q-10376)
 - [Q-10380 MLIR 是什么，在机器学习编译中承担什么作用？](../questions/Q-10380.md) · [在线阅读](https://mianstack.com/question/q-10380)
+- [Q-10531 如何对模型训练或推理任务进行性能 Profiling？](../questions/Q-10531.md) · [在线阅读](https://mianstack.com/question/q-10531)
+- [Q-10571 大模型训练为什么设置退火阶段，它有什么作用？](../questions/Q-10571.md) · [在线阅读](https://mianstack.com/question/q-10571)
+- [Q-10635 项目采用什么微调方法和训练框架，是否使用 LoRA？](../questions/Q-10635.md) · [在线阅读](https://mianstack.com/question/q-10635)
+- [Q-10837 Rollout 阶段 GPU 利用率低时，如何区分等待与计算并改进批调度？](../questions/Q-10837.md) · [在线阅读](https://mianstack.com/question/q-10837)
+- [Q-11002 预训练 Loss 突然出现尖刺时，如何定位原因？](../questions/Q-11002.md) · [在线阅读](https://mianstack.com/question/q-11002)
+- [Q-11385 强化学习 Rollout 与训练之间如何同步权重并控制策略陈旧？](../questions/Q-11385.md) · [在线阅读](https://mianstack.com/question/q-11385)
+- [Q-11387 强化学习多轮迭代应继承上一轮模型还是重新从 SFT 开始？](../questions/Q-11387.md) · [在线阅读](https://mianstack.com/question/q-11387)
+- [Q-11388 强化学习迭代几轮后效果下降，应如何排查？](../questions/Q-11388.md) · [在线阅读](https://mianstack.com/question/q-11388)
+- [Q-11401 强化学习项目中 Rollout 与参数更新分别耗时多少，如何测量？](../questions/Q-11401.md) · [在线阅读](https://mianstack.com/question/q-11401)
+- [Q-11448 RL 链路卡死时，如何通过 CUDA Graph、TP 与确定性设置缩小问题范围？](../questions/Q-11448.md) · [在线阅读](https://mianstack.com/question/q-11448)
 - [Q-1245 梯度如何计算，计算中可能遇到哪些问题？](../questions/Q-1245.md) · [在线阅读](https://mianstack.com/question/q-1245)
 - [Q-1285 强化学习平台如何管理资源？](../questions/Q-1285.md) · [在线阅读](https://mianstack.com/question/q-1285)
 - [Q-1607 预训练如何选择 warmup、余弦退火及动态学习率调度？](../questions/Q-1607.md) · [在线阅读](https://mianstack.com/question/q-1607)
