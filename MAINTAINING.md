@@ -6,9 +6,9 @@
 
 ## 单一事实来源
 
-- `questions/`、`interviews/`、`collections/`、`categories.json`、`aliases.json` 和 `publishers.json` 是公开内容的事实来源。
+- `questions/`、`interviews/`、`collections/`、`categories.json`、`aliases.json` 和 `publishers.json` 是本仓库公开内容的事实来源。`interviews/` 持续维护公开面经。
 - `assets/questions/Q-题号/` 保存答案配图原件，随对应题目一起维护；需要保留的可编辑图源也放在对应题号目录。题目用 `../assets/questions/Q-题号/文件名` 相对引用，保证在仓库中直接阅读也能显示。网站从这些文件生成展示资源，不另行维护图片副本。
-- `schema/content.schema.json` 是公开字段结构、固定值、固定中文显示和分组元数据的唯一规则来源。网站维护自己的关联结构，并复用公共 ID 与字段定义。
+- `schema/content.schema.json` 是公共字段结构、固定值、固定中文显示和分组元数据的唯一规则来源。面经复用本仓库的 Schema 与语义校验，网站维护自己的关联结构，并复用公共 ID 与字段定义。
 - `INDEX.md` 与 `indexes/*.md` 是生成结果，不能手工维护。
 - 问题、面经 Markdown 顶部的“在面栈阅读”入口由 `npm run build:indexes` 根据 ID 和标题生成。统一内容加载器会排除这段导航，返回的 `body` 只包含正文；入口变化不代表答案或原帖内容更新。
 - 题集的可选 `readingUrl` 由 `npm run build:indexes` 和 commit hook 根据 ID 补齐，无需手填；`--check` 与 CI 会检查是否缺失或过期，`sourceUrl` 保留第三方原题集链接。
@@ -57,7 +57,7 @@ git diff --check
 
 ## 新增面经和题目
 
-新增内容直接写入当前仓库：
+本仓库的新增公开内容按以下位置维护。
 
 - 新面经新增一个 `interviews/MJ-*.md`，其原帖链接、作者、来源状态与正文在本仓库维护；
 - 牛客面经使用 `MJ-NC-*` 编号，小红书面经使用 `MJ-XHS-*` 编号；
@@ -66,6 +66,8 @@ git diff --check
 - 新增或调整内容后重新生成并检查索引。
 
 公开面经保留原始问法与上下文，公开题集保留原题、出处、审核状态及必要的题意缺口说明。关系映射、题族和题集分段编排由网站单独维护；本库的校验与索引生成不依赖这些私有数据，也不负责重算关联来源数量。
+
+面经编号的平台前缀表示来源平台，同一年跨来源的面经 ID 保持唯一。
 
 ## 来源内容
 

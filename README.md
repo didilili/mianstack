@@ -141,13 +141,13 @@ AI 编程、Vibe Coding、Agent / RAG 项目、面试经验，都可以来聊；
 <details>
 <summary><strong>数据复用与仓库目录</strong></summary>
 
-题目、参考答案与面经原文使用 Markdown 保存，公开题集的原题与出处使用 JSON 保存。除了直接阅读，也可以用这些内容制作自己的检索、复习工具或阅读网站。读取方式见 **[数据使用说明](USAGE.md)**。
+题目、参考答案与公开面经原文使用 Markdown 保存，公开题集的原题与出处使用 JSON 保存。除了直接阅读，也可以用本仓库的公开内容制作自己的检索、复习工具或阅读网站。读取方式见 **[数据使用说明](USAGE.md)**。
 
 ```text
 mianstack/
 ├── questions/        # 面试题、考点与参考答案
 ├── assets/questions/ # 答案配图
-├── interviews/       # 面经出处、公司岗位与原帖内容
+├── interviews/       # 公开面经出处、公司岗位与原帖内容
 ├── collections/      # 公开题集里的原题与出处
 ├── indexes/          # 自动生成的题库目录
 ├── schema/           # 字段与引用规则

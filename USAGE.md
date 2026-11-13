@@ -26,12 +26,12 @@ console.log(content.questionById.get('Q-0140').title);
 JS
 ```
 
-`loadContent(root)` 接受内容仓库根目录，返回经过字段和跨文件引用校验的数据；不写文件。无效内容会抛出错误，并指出文件、字段或引用。首次 `npm ci` 会安装本仓库的 Git hook，后续加载数据不需要运行 hook。
+`loadContent(root)` 接受内容仓库根目录，默认返回本仓库经过字段和跨文件引用校验的公开数据；不写文件。无效内容会抛出错误，并指出文件、字段或引用。首次 `npm ci` 会安装本仓库的 Git hook，后续加载数据不需要运行 hook。
 
 主要返回值：
 
 - `questions`：标准题目，包含元数据、Markdown `body` 和文件名。
-- `interviews`：面经，包含 `contexts[]`、来源信息、原帖正文及自动整理的公司、岗位等摘要。
+- `interviews`：本仓库的公开面经，包含 `contexts[]`、来源信息、原帖正文及自动整理的公司、岗位等摘要。
 - `collections`、`publishers`：公开题集原题、阅读说明、来源与发布者。
 - `categories`、`aliases`：知识分类与停用题号的兼容指向。
 - `questionById`、`interviewById`、`categoryById`、`publisherById`：按 ID 查找的 `Map`。
@@ -45,7 +45,7 @@ JS
 
 ## 关联与在线阅读
 
-公开库保留题目、全部已有参考答案、面经原文、题集原题和各自出处。面经与标准题的对应、追问链、题族、题间关系及题集匹配与分段编排由网站维护，可通过文件中的“在面栈阅读”入口查看。
+公开库保留题目、全部已有参考答案、公开面经原文、题集原题和各自出处。面经复用本仓库的 Schema 和语义校验规则，编号中的平台前缀仅表示来源平台。面经与标准题的对应、追问链、题族、题间关系及题集匹配与分段编排由网站维护，可通过文件中的“在面栈阅读”入口查看。
 
 `loadContent()` 不返回 `relationships`、`occurrences`、`unresolved` 或 `families`，题目没有 `relations`，题集条目没有 `matches` 或 `presentation`。这些字段不属于本库当前公开数据；缺少它们不表示题目没有来源，也不能据此将来源数记作零。
 
@@ -54,7 +54,7 @@ JS
 ## 统计口径
 
 - **标准题数**：`questions.length`，包含标准题与候选人反问，类型分组见公开 Schema。
-- **面经篇数**：`interviews.length`。每篇保留原帖链接、作者和已收录的正文，可能包含单场面试、多轮合集或笔试记录。
+- **公开面经篇数**：默认加载结果中的 `interviews.length`，网站总量以在线页面显示为准。每篇保留原帖链接、作者和已收录的正文，可能包含单场面试、多轮合集或笔试记录。
 - **题集与原题数**：分别使用 `collections.length` 和各题集的 `items.length`；原题审核状态、题意缺口说明与第三方出处保持原有含义。
 - **公开答案数**：按 Schema 中 `answerStatus` 的 `answered` 分组统计。项目题与技术机制题的已有答案都在本库维护；网站直接读取，不保存正文副本。
 
