@@ -217,6 +217,175 @@ function createFixture() {
   return root;
 }
 
+test("merges additional interview directories with identical normalization and filename order", () => {
+  const root = createFixture();
+  const firstDirectory = temporaryDirectory("mianstack-extra-interviews-");
+  const secondDirectory = temporaryDirectory("mianstack-extra-interviews-");
+  const inferredContext = {
+    ...interview().contexts[0],
+    roleMethod: "面试内容推测",
+    roleConfidence: "高",
+    business: "研发工具",
+    base: "北京"
+  };
+  const secondId = "MJ-NC-2026-0002";
+  const thirdId = "MJ-XHS-2026-0003";
+  fs.writeFileSync(
+    path.join(root, `interviews/${secondId}.md`),
+    markdown(interview({ id: secondId, contexts: [inferredContext] }), currentInterviewBody)
+  );
+  fs.writeFileSync(
+    path.join(root, `interviews/${thirdId}.md`),
+    markdown(interview({ id: thirdId }), currentInterviewBody)
+  );
+  const publicContent = loadContent(root);
+  assert.deepEqual(loadContent(root, {}), publicContent);
+  fs.renameSync(
+    path.join(root, `interviews/${secondId}.md`),
+    path.join(firstDirectory, `${secondId}.md`)
+  );
+  fs.renameSync(
+    path.join(root, "interviews/MJ-NC-2026-0001.md"),
+    path.join(secondDirectory, "MJ-NC-2026-0001.md")
+  );
+  fs.writeFileSync(path.join(firstDirectory, "README.md"), "# 面经\n");
+
+  assert.deepEqual(
+    loadContent(root).interviews.map((item) => item.id),
+    [thirdId]
+  );
+  const combined = loadContent(root, {
+    additionalInterviewDirectories: [firstDirectory, secondDirectory]
+  });
+  assert.deepEqual(combined, publicContent);
+  assert.equal(combined.interviewById.get(secondId).business, "研发工具");
+  assert.equal(combined.interviewById.get(secondId).contexts[0].roleInferred, true);
+
+  fs.renameSync(
+    path.join(root, `interviews/${thirdId}.md`),
+    path.join(firstDirectory, `${thirdId}.md`)
+  );
+  assert.deepEqual(
+    loadContent(root, { additionalInterviewDirectories: [firstDirectory, secondDirectory] }),
+    publicContent
+  );
+});
+
+test("rejects duplicate interview IDs across public and additional directories", () => {
+  const root = createFixture();
+  const directory = temporaryDirectory("mianstack-extra-interviews-");
+  const sourcePath = path.join(directory, "MJ-NC-2026-0001.md");
+  fs.writeFileSync(sourcePath, markdown(interview(), currentInterviewBody));
+
+  assert.throws(
+    () => loadContent(root, { additionalInterviewDirectories: [directory] }),
+    (error) => {
+      assert.match(error.message, /duplicate interview id: MJ-NC-2026-0001/);
+      assert.ok(error.message.includes(sourcePath));
+      return true;
+    }
+  );
+});
+
+test("rejects duplicate interview IDs between additional directories", () => {
+  const root = createFixture();
+  const directories = [
+    temporaryDirectory("mianstack-extra-interviews-"),
+    temporaryDirectory("mianstack-extra-interviews-")
+  ];
+  const id = "MJ-NC-2026-0002";
+  for (const directory of directories)
+    fs.writeFileSync(
+      path.join(directory, `${id}.md`),
+      markdown(interview({ id }), currentInterviewBody)
+    );
+
+  assert.throws(
+    () => loadContent(root, { additionalInterviewDirectories: directories }),
+    /duplicate interview id: MJ-NC-2026-0002/
+  );
+});
+
+test("rejects cross-source same-year serial collisions across interview directories", () => {
+  const root = createFixture();
+  const directory = temporaryDirectory("mianstack-extra-interviews-");
+  const id = "MJ-XHS-2026-0001";
+  const sourcePath = path.join(directory, `${id}.md`);
+  fs.writeFileSync(sourcePath, markdown(interview({ id }), currentInterviewBody));
+
+  assert.throws(
+    () => loadContent(root, { additionalInterviewDirectories: [directory] }),
+    (error) => {
+      assert.match(
+        error.message,
+        /duplicate interview serial 2026-0001: MJ-NC-2026-0001 and MJ-XHS-2026-0001/
+      );
+      assert.ok(error.message.includes(sourcePath));
+      return true;
+    }
+  );
+});
+
+test("applies shared interview validation to additional files with their actual paths", () => {
+  const id = "MJ-NC-2026-0002";
+  const metadata = interview({ id });
+  for (const [contents, diagnostic] of [
+    ["# 没有 frontmatter\n", "missing JSON frontmatter"],
+    ["---\n{invalid}\n---\n", "invalid JSON frontmatter"],
+    [markdown(null, currentInterviewBody), "record must be object"],
+    [markdown({ ...metadata, author: " " }, currentInterviewBody), "author must not be blank"],
+    [
+      markdown({ ...metadata, id: "MJ-NC-2026-0003" }, currentInterviewBody),
+      "filename must match id"
+    ],
+    [
+      markdown({ ...metadata, company: "示例公司" }, currentInterviewBody),
+      "derived interview summary field company must not be stored"
+    ],
+    [markdown(metadata), "body is required"],
+    [markdown(metadata, "> 缺少来源章节\n"), "body must contain exactly one ## 原帖正文 section"],
+    [
+      markdown({ ...metadata, contexts: [null] }, currentInterviewBody),
+      "contexts[0] must be object"
+    ],
+    [
+      markdown(
+        { ...metadata, contexts: [{ ...metadata.contexts[0], company: "未知公司" }] },
+        currentInterviewBody
+      ),
+      "company must use 公司未注明"
+    ]
+  ]) {
+    const root = createFixture();
+    const directory = temporaryDirectory("mianstack-extra-interviews-");
+    const sourcePath = path.join(directory, `${id}.md`);
+    fs.writeFileSync(sourcePath, contents);
+    assert.throws(
+      () => loadContent(root, { additionalInterviewDirectories: [directory] }),
+      (error) => {
+        assert.ok(error.message.includes(diagnostic), error.message);
+        assert.ok(error.message.includes(sourcePath), error.message);
+        return true;
+      }
+    );
+  }
+});
+
+test("reports unexpected filenames in additional interview directories", () => {
+  const root = createFixture();
+  const directory = temporaryDirectory("mianstack-extra-interviews-");
+  fs.writeFileSync(path.join(directory, "extra.txt"), "unexpected file\n");
+
+  assert.throws(
+    () => loadContent(root, { additionalInterviewDirectories: [directory] }),
+    (error) => {
+      assert.match(error.message, /invalid interview filename: extra.txt/);
+      assert.ok(error.message.includes(directory));
+      return true;
+    }
+  );
+});
+
 test("parses JSON frontmatter with LF and CRLF line endings", () => {
   const lf = markdown(question());
   const crlf = lf.replaceAll("\n", "\r\n");

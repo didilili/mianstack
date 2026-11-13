@@ -96,7 +96,7 @@ function readJsonObject(root, relativePath) {
 
 function dataFiles(root, directory, pattern, label) {
   const entries = fs
-    .readdirSync(path.join(root, directory), { withFileTypes: true })
+    .readdirSync(path.resolve(root, directory), { withFileTypes: true })
     .filter(
       (entry) => entry.name !== ".DS_Store" && !(entry.isFile() && entry.name === "README.md")
     )
@@ -104,7 +104,9 @@ function dataFiles(root, directory, pattern, label) {
   const errors = [];
   for (const entry of entries) {
     if (!entry.isFile() || !pattern.test(entry.name))
-      errors.push(`invalid ${label} filename: ${entry.name}`);
+      errors.push(
+        `${path.isAbsolute(directory) ? `${directory}: ` : ""}invalid ${label} filename: ${entry.name}`
+      );
   }
   return {
     files: entries.filter((entry) => entry.isFile()).map((entry) => entry.name),
@@ -141,10 +143,17 @@ export function resolveGeneratedPath(root, relativePath) {
   return target;
 }
 
-export function loadContent(inputRoot) {
+export function loadContent(inputRoot, { additionalInterviewDirectories = [] } = {}) {
   const root = path.resolve(inputRoot);
   const errors = [];
   const add = (message) => errors.push(message);
+  const interviewSourcePaths = new WeakMap();
+  const interviewSourceSuffix = (...interviews) => {
+    const paths = interviews
+      .map((interview) => interviewSourcePaths.get(interview))
+      .filter(Boolean);
+    return paths.length ? ` (${paths.join(", ")})` : "";
+  };
   for (const [relativePath, websitePath] of websiteContentPaths)
     if (fs.lstatSync(path.join(root, relativePath), { throwIfNoEntry: false }))
       add(`${relativePath}: private website content must be stored in ${websitePath}`);
@@ -160,28 +169,45 @@ export function loadContent(inputRoot) {
     const result = new Map();
     for (const item of items) {
       if (!item || typeof item !== "object" || !requiredString(item.id)) continue;
-      if (result.has(item.id)) add(`duplicate ${label} id: ${item.id}`);
+      if (result.has(item.id))
+        add(`duplicate ${label} id: ${item.id}${interviewSourceSuffix(result.get(item.id), item)}`);
       result.set(item.id, item);
     }
     return result;
   };
 
   const questionEntries = dataFiles(root, "questions", /\.md$/, "question");
-  const interviewEntries = dataFiles(root, "interviews", /\.md$/, "interview");
+  const interviewEntries = ["interviews", ...additionalInterviewDirectories].map((directory) => ({
+    directory,
+    ...dataFiles(root, directory, /\.md$/, "interview")
+  }));
   const collectionEntries = dataFiles(root, "collections", /\.json$/, "collection");
-  errors.push(...questionEntries.errors, ...interviewEntries.errors, ...collectionEntries.errors);
+  errors.push(
+    ...questionEntries.errors,
+    ...interviewEntries.flatMap((entry) => entry.errors),
+    ...collectionEntries.errors
+  );
 
   const readMarkdown = (directory, filenames, schemaName) =>
     filenames
       .filter((filename) => filename.endsWith(".md"))
       .map((filename) => {
-        const relativePath = `${directory}/${filename}`;
+        const relativePath = path.isAbsolute(directory)
+          ? path.join(directory, filename)
+          : `${directory}/${filename}`;
         const parsed = parseFrontmatter(
-          fs.readFileSync(path.join(root, relativePath), "utf8"),
+          fs.readFileSync(path.resolve(root, relativePath), "utf8"),
           relativePath
         );
         validateSchema(schemaName, parsed.data, relativePath);
-        if (!isRecord(parsed.data)) return { body: parsed.body, filename };
+        const record = {
+          ...(isRecord(parsed.data) ? parsed.data : {}),
+          body: parsed.body,
+          filename
+        };
+        if (schemaName === "interview" && path.isAbsolute(directory))
+          interviewSourcePaths.set(record, relativePath);
+        if (!isRecord(parsed.data)) return record;
         const expectedId = path.basename(filename, ".md");
         if (parsed.data.id !== expectedId)
           add(`${relativePath}: filename must match id ${parsed.data.id}`);
@@ -189,7 +215,7 @@ export function loadContent(inputRoot) {
           for (const key of interviewSummaryFields)
             if (key in parsed.data)
               add(`${relativePath}: derived interview summary field ${key} must not be stored`);
-        return { ...parsed.data, body: parsed.body, filename };
+        return record;
       });
 
   const questions = readMarkdown("questions", questionEntries.files, "question").map(
@@ -201,8 +227,10 @@ export function loadContent(inputRoot) {
       ...question
     })
   );
-  const interviews = readMarkdown("interviews", interviewEntries.files, "interview").map(
-    (interview) => {
+  const interviews = interviewEntries
+    .flatMap(({ directory, files }) => readMarkdown(directory, files, "interview"))
+    .sort((first, second) => first.filename.localeCompare(second.filename))
+    .map((interview) => {
       if (!Array.isArray(interview.contexts) || !interview.contexts.every(isRecord))
         return interview;
       const contexts = interview.contexts.map((context) => ({
@@ -221,7 +249,7 @@ export function loadContent(inputRoot) {
         ...context,
         roleInferred: inferredRoleMethods.has(context.roleMethod)
       }));
-      return {
+      const normalized = {
         publishedAt: "",
         lastCheckedAt: "",
         publicationRegion: "",
@@ -231,8 +259,9 @@ export function loadContent(inputRoot) {
         contexts,
         ...interviewSummaryFromContexts(contexts)
       };
-    }
-  );
+      interviewSourcePaths.set(normalized, interviewSourcePaths.get(interview));
+      return normalized;
+    });
   const categories = readJsonArray(root, "categories.json");
   const aliases = readJsonArray(root, "aliases.json");
   const publishers = readJsonArray(root, "publishers.json");
@@ -276,10 +305,12 @@ export function loadContent(inputRoot) {
     if (!serialMatch) continue;
     const [, year, serial] = serialMatch;
     const serialKey = `${year}-${serial}`;
-    const previousId = interviewSerials.get(serialKey);
-    if (previousId)
-      add(`duplicate interview serial ${serialKey}: ${previousId} and ${interview.id}`);
-    else interviewSerials.set(serialKey, interview.id);
+    const previous = interviewSerials.get(serialKey);
+    if (previous)
+      add(
+        `duplicate interview serial ${serialKey}: ${previous.id} and ${interview.id}${interviewSourceSuffix(previous, interview)}`
+      );
+    else interviewSerials.set(serialKey, interview);
   }
 
   for (const category of categories) {
@@ -299,7 +330,7 @@ export function loadContent(inputRoot) {
   }
 
   for (const interview of interviews) {
-    const label = `interview ${interview.id}`;
+    const label = `interview ${interview.id}${interviewSourceSuffix(interview)}`;
     if (!requiredString(interview.body)) add(`${label}: body is required`);
     if (requiredString(interview.body)) {
       if (
