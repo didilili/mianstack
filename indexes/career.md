@@ -6,7 +6,7 @@
 
 项目表达、个人贡献、协作、成长、职业选择、行为面与候选人反问。
 
-共 1,260 道题，分为 9 个专题。
+共 1,288 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -69,6 +69,11 @@
 - [Q-18676 是否参加过学科竞赛，怎样考虑参赛与其他学习实践的投入？](../questions/Q-18676.md) · [在线阅读](https://mianstack.com/question/q-18676)
 - [Q-18677 你最喜欢哪门大学课程，在其中取得过什么成果？](../questions/Q-18677.md) · [在线阅读](https://mianstack.com/question/q-18677)
 - [Q-1871 目前是否在职、工作地点和职级是什么，何时晋升？](../questions/Q-1871.md) · [在线阅读](https://mianstack.com/question/q-1871)
+- [Q-18965 请介绍本科就读院校与专业背景。](../questions/Q-18965.md) · [在线阅读](https://mianstack.com/question/q-18965)
+- [Q-18970 实习期间的工作内容怎样变化，你如何进入新的业务？](../questions/Q-18970.md) · [在线阅读](https://mianstack.com/question/q-18970)
+- [Q-18983 是否学习过软件工程、软件测试与软件项目管理课程？](../questions/Q-18983.md) · [在线阅读](https://mianstack.com/question/q-18983)
+- [Q-19007 目前工作或实习的城市在哪里？](../questions/Q-19007.md) · [在线阅读](https://mianstack.com/question/q-19007)
+- [Q-19024 目前的学业、在职或实习状态如何？](../questions/Q-19024.md) · [在线阅读](https://mianstack.com/question/q-19024)
 - [Q-1969 为什么选择两年制专业硕士而没有选择学术硕士？](../questions/Q-1969.md) · [在线阅读](https://mianstack.com/question/q-1969)
 - [Q-2046 你有哪些软件成果或专利？](../questions/Q-2046.md) · [在线阅读](https://mianstack.com/question/q-2046)
 - [Q-2080 本科与研究生专业不同，是什么原因？](../questions/Q-2080.md) · [在线阅读](https://mianstack.com/question/q-2080)
@@ -203,6 +208,9 @@
 - [Q-18396 你实际做过哪些大模型训练或推理工作，参与了哪些环节？](../questions/Q-18396.md) · [在线阅读](https://mianstack.com/question/q-18396)
 - [Q-18560 项目中提交给 AI 的问题或任务来自哪里，怎样形成模型输入？](../questions/Q-18560.md) · [在线阅读](https://mianstack.com/question/q-18560)
 - [Q-18650 你参与过哪些高并发或高负载的实际系统，负责什么工作？](../questions/Q-18650.md) · [在线阅读](https://mianstack.com/question/q-18650)
+- [Q-19032 你接触过哪些三维或 CAD 相关内容？](../questions/Q-19032.md) · [在线阅读](https://mianstack.com/question/q-19032)
+- [Q-19110 项目是否有可以现场访问或演示的运行版本？](../questions/Q-19110.md) · [在线阅读](https://mianstack.com/question/q-19110)
+- [Q-19148 你做过哪些大模型工程层或模型层优化，怎样区分实际贡献？](../questions/Q-19148.md) · [在线阅读](https://mianstack.com/question/q-19148)
 - [Q-1925 你的项目解决了什么业务问题？](../questions/Q-1925.md) · [在线阅读](https://mianstack.com/question/q-1925)
 - [Q-1943 项目是如何完成的，是否完全从零开发或基于开源项目？](../questions/Q-1943.md) · [在线阅读](https://mianstack.com/question/q-1943) · **已有答案**
 - [Q-1996 用户可以查询哪些信息，最常提出哪些问题？](../questions/Q-1996.md) · [在线阅读](https://mianstack.com/question/q-1996)
@@ -290,6 +298,7 @@
 - [Q-18419 实习中怎样主动发现有价值的问题并推动改进？](../questions/Q-18419.md) · [在线阅读](https://mianstack.com/question/q-18419)
 - [Q-1842 新架构改造过程中哪部分最困难？](../questions/Q-1842.md) · [在线阅读](https://mianstack.com/question/q-1842)
 - [Q-1844 继续推进当前业务还有哪些问题要解决，下一步行动是什么？](../questions/Q-1844.md) · [在线阅读](https://mianstack.com/question/q-1844)
+- [Q-18967 哪一项实习工作最令你满意，为什么？](../questions/Q-18967.md) · [在线阅读](https://mianstack.com/question/q-18967)
 - [Q-1942 你的项目与成熟产品相比有哪些差距？](../questions/Q-1942.md) · [在线阅读](https://mianstack.com/question/q-1942)
 - [Q-2656 实现 MyRPC Demo 学到哪些新知识，对后续开发有何帮助？](../questions/Q-2656.md) · [在线阅读](https://mianstack.com/question/q-2656)
 - [Q-2783 学习或工作中最有成就的事情是什么？](../questions/Q-2783.md) · [在线阅读](https://mianstack.com/question/q-2783)
@@ -416,6 +425,8 @@
 - [Q-18867 拿到需求发现部分技术上不可实现时，怎样处理？](../questions/Q-18867.md) · [在线阅读](https://mianstack.com/question/q-18867)
 - [Q-18868 你怎样看待 AI 在目标部门业务中的应用？](../questions/Q-18868.md) · [在线阅读](https://mianstack.com/question/q-18868)
 - [Q-18900 工作中哪些重复流程适合改造成智能体，怎样判断价值？](../questions/Q-18900.md) · [在线阅读](https://mianstack.com/question/q-18900)
+- [Q-18971 企业实习后，你对大模型进入真实业务有哪些认识？](../questions/Q-18971.md) · [在线阅读](https://mianstack.com/question/q-18971)
+- [Q-19028 AI Native 研发流程会怎样改变团队分工和组织结构？](../questions/Q-19028.md) · [在线阅读](https://mianstack.com/question/q-19028)
 - [Q-2002 如何看待新一轮 AI 技术革命及未来发展？](../questions/Q-2002.md) · [在线阅读](https://mianstack.com/question/q-2002)
 - [Q-2159 传统后端与 Agent 开发哪个难度更高，为什么？](../questions/Q-2159.md) · [在线阅读](https://mianstack.com/question/q-2159)
 - [Q-2161 如何判断哪些需求值得做、哪些不值得做？](../questions/Q-2161.md) · [在线阅读](https://mianstack.com/question/q-2161)
@@ -643,6 +654,9 @@
 - [Q-18750 组织架构调整、招聘等团队变化会怎样影响工作，你如何应对？](../questions/Q-18750.md) · [在线阅读](https://mianstack.com/question/q-18750)
 - [Q-18844 让你带三人团队开发 Agent 产品，会怎样分工与协作？](../questions/Q-18844.md) · [在线阅读](https://mianstack.com/question/q-18844)
 - [Q-18899 有什么实际经历能够证明你的客户沟通能力？](../questions/Q-18899.md) · [在线阅读](https://mianstack.com/question/q-18899)
+- [Q-18968 个人利益或目标与集体目标冲突时，你怎样处理？](../questions/Q-18968.md) · [在线阅读](https://mianstack.com/question/q-18968)
+- [Q-19068 导师的经验判断与项目事实不符时，你会怎样沟通？](../questions/Q-19068.md) · [在线阅读](https://mianstack.com/question/q-19068)
+- [Q-19161 前端升级方案被后端拒绝时，怎样用验证与协调继续推动？](../questions/Q-19161.md) · [在线阅读](https://mianstack.com/question/q-19161)
 - [Q-2393 如何与用户沟通需求与问题？](../questions/Q-2393.md) · [在线阅读](https://mianstack.com/question/q-2393)
 - [Q-2482 平时如何沟通需求，遇到困难怎样解决？](../questions/Q-2482.md) · [在线阅读](https://mianstack.com/question/q-2482)
 - [Q-2587 团队的规模和组织形式是什么？](../questions/Q-2587.md) · [在线阅读](https://mianstack.com/question/q-2587)
@@ -826,7 +840,9 @@
 - [Q-18923 与周围同学相比，你怎样评价自己的实践能力？](../questions/Q-18923.md) · [在线阅读](https://mianstack.com/question/q-18923)
 - [Q-18925 为什么自学多个技术方向，怎样确定学习范围并持续推进？](../questions/Q-18925.md) · [在线阅读](https://mianstack.com/question/q-18925)
 - [Q-18926 平时怎样练习算法，目前掌握到什么程度？](../questions/Q-18926.md) · [在线阅读](https://mianstack.com/question/q-18926)
+- [Q-18972 一边实习一边做个人项目时，你怎样分配时间？](../questions/Q-18972.md) · [在线阅读](https://mianstack.com/question/q-18972)
 - [Q-1905 平时使用哪些 AI 工具？](../questions/Q-1905.md) · [在线阅读](https://mianstack.com/question/q-1905)
+- [Q-19171 个人博客的搭建时间与最早文章时间不同，怎样解释内容迁移和写作经历？](../questions/Q-19171.md) · [在线阅读](https://mianstack.com/question/q-19171)
 - [Q-2098 你的全栈开发更侧重哪些方面？](../questions/Q-2098.md) · [在线阅读](https://mianstack.com/question/q-2098)
 - [Q-2104 从服务端转全栈最大的困难是什么？](../questions/Q-2104.md) · [在线阅读](https://mianstack.com/question/q-2104)
 - [Q-2110 最近在学习哪一项技术？](../questions/Q-2110.md) · [在线阅读](https://mianstack.com/question/q-2110)
@@ -1042,6 +1058,11 @@
 - [Q-18922 你周围同学的职业选择如何，对自己的选择有什么影响？](../questions/Q-18922.md) · [在线阅读](https://mianstack.com/question/q-18922)
 - [Q-18924 编程过程中你最喜欢或享受什么，为什么？](../questions/Q-18924.md) · [在线阅读](https://mianstack.com/question/q-18924)
 - [Q-18943 你怎样看待前端开发的发展方向，准备怎样积累能力？](../questions/Q-18943.md) · [在线阅读](https://mianstack.com/question/q-18943)
+- [Q-18973 已有实习留用意向后，为什么仍在寻找外部机会？](../questions/Q-18973.md) · [在线阅读](https://mianstack.com/question/q-18973)
+- [Q-19048 在 AI 影响岗位边界的背景下，你怎样选择职业方向？](../questions/Q-19048.md) · [在线阅读](https://mianstack.com/question/q-19048)
+- [Q-19049 项目经历主要在其他领域，为什么选择游戏开发？](../questions/Q-19049.md) · [在线阅读](https://mianstack.com/question/q-19049)
+- [Q-19051 已有后端开发经验时，为什么转向客户端开发？](../questions/Q-19051.md) · [在线阅读](https://mianstack.com/question/q-19051)
+- [Q-19052 当前处于第几轮面试，前轮考查的岗位方向是否一致？](../questions/Q-19052.md) · [在线阅读](https://mianstack.com/question/q-19052)
 - [Q-1963 你目前在哪里实习？](../questions/Q-1963.md) · [在线阅读](https://mianstack.com/question/q-1963)
 - [Q-2017 为什么申请本岗位，目前还有哪些 Offer 或求职选项？](../questions/Q-2017.md) · [在线阅读](https://mianstack.com/question/q-2017)
 - [Q-2256 研究方向与求职方向不同，为什么转向 Agent 开发？](../questions/Q-2256.md) · [在线阅读](https://mianstack.com/question/q-2256)
@@ -1256,6 +1277,13 @@
 - [Q-18869 岗位对实习周期和每周出勤有什么要求？](../questions/Q-18869.md) · [在线阅读](https://mianstack.com/question/q-18869)
 - [Q-18878 团队怎样看待前端未来的发展方向，对岗位有哪些期待？](../questions/Q-18878.md) · [在线阅读](https://mianstack.com/question/q-18878)
 - [Q-18906 团队目前由哪些角色组成，各自承担什么工作？](../questions/Q-18906.md) · [在线阅读](https://mianstack.com/question/q-18906)
+- [Q-18981 使用 AI 并行推进多个项目时，团队怎样分配注意力与主次？](../questions/Q-18981.md) · [在线阅读](https://mianstack.com/question/q-18981)
+- [Q-18999 这个岗位所属团队与前一轮面试是否相同？](../questions/Q-18999.md) · [在线阅读](https://mianstack.com/question/q-18999)
+- [Q-19000 团队内部 AI 主要用于哪些业务或开发环节？](../questions/Q-19000.md) · [在线阅读](https://mianstack.com/question/q-19000)
+- [Q-19001 团队的数据岗位侧重处理治理，还是从零建设完整数据平台？](../questions/Q-19001.md) · [在线阅读](https://mianstack.com/question/q-19001)
+- [Q-19080 如何向面试官请教计算机行业未来的发展方向？](../questions/Q-19080.md) · [在线阅读](https://mianstack.com/question/q-19080)
+- [Q-19081 如何向面试官请教读研与职业发展的选择建议？](../questions/Q-19081.md) · [在线阅读](https://mianstack.com/question/q-19081)
+- [Q-19087 团队会在哪些音视频能力上自研或做深度定制？](../questions/Q-19087.md) · [在线阅读](https://mianstack.com/question/q-19087)
 - [Q-1997 如何向面试官请教 AI 应用开发能力的提升建议？](../questions/Q-1997.md) · [在线阅读](https://mianstack.com/question/q-1997)
 - [Q-2038 这个岗位最看重候选人的哪些能力？](../questions/Q-2038.md) · [在线阅读](https://mianstack.com/question/q-2038) · **已有答案**
 - [Q-2066 为什么自己获得面试机会，而背景相同且实习更多的同学简历被筛掉？](../questions/Q-2066.md) · [在线阅读](https://mianstack.com/question/q-2066)

@@ -6,7 +6,7 @@
 
 文档处理、检索、重排、知识更新、知识图谱与结构化知识。
 
-共 734 道题，分为 13 个专题。
+共 741 道题，分为 13 个专题。
 
 ## 页内导航
 
@@ -86,6 +86,7 @@
 - [Q-18585 规则下发可能影响算法准确度时，怎样设计使用 RAG 的方案并控制风险？](../questions/Q-18585.md) · [在线阅读](https://mianstack.com/question/q-18585)
 - [Q-18835 用户提出简单问题时，Agent 是否需要检索知识库，怎样决定？](../questions/Q-18835.md) · [在线阅读](https://mianstack.com/question/q-18835)
 - [Q-18862 从条件概率分布角度，怎样解释 RAG 对幻觉的影响？](../questions/Q-18862.md) · [在线阅读](https://mianstack.com/question/q-18862)
+- [Q-19072 RAG 召回结果的上下文窗口长度如何设置，超长内容怎样处理？](../questions/Q-19072.md) · [在线阅读](https://mianstack.com/question/q-19072)
 - [Q-2327 知识库如何指导 Agent 操作？](../questions/Q-2327.md) · [在线阅读](https://mianstack.com/question/q-2327) · **已有答案**
 - [Q-2830 RAG Token 节省 50% 如何计算，是输入还是输出，做了哪些优化？](../questions/Q-2830.md) · [在线阅读](https://mianstack.com/question/q-2830)
 - [Q-2963 通用模型可能训练过罕见病资料时，为什么仍需建立 RAG？](../questions/Q-2963.md) · [在线阅读](https://mianstack.com/question/q-2963)
@@ -441,6 +442,7 @@
 - [Q-18739 多级或多轮召回是否必须完整执行，怎样设计提前终止条件？](../questions/Q-18739.md) · [在线阅读](https://mianstack.com/question/q-18739)
 - [Q-18767 定向检索与全库兜底为什么采用不同 Top-K，怎样验证配置？](../questions/Q-18767.md) · [在线阅读](https://mianstack.com/question/q-18767)
 - [Q-18768 向量相似但业务含义相反的文本怎样正确检索？](../questions/Q-18768.md) · [在线阅读](https://mianstack.com/question/q-18768)
+- [Q-19073 RAG 中怎样关联章节并补全召回片段的上下文？](../questions/Q-19073.md) · [在线阅读](https://mianstack.com/question/q-19073)
 - [Q-2115 为什么认为全文检索效率低？](../questions/Q-2115.md) · [在线阅读](https://mianstack.com/question/q-2115)
 - [Q-2125 直接使用向量检索召回会带来什么问题？](../questions/Q-2125.md) · [在线阅读](https://mianstack.com/question/q-2125)
 - [Q-2166 模型上下文很大时，为何使用 RAG，而不直接把原始文档放入上下文？](../questions/Q-2166.md) · [在线阅读](https://mianstack.com/question/q-2166)
@@ -754,6 +756,10 @@
 - [Q-1786 图谱查询为什么最多扩展三跳而不是四跳，是否有数据集测试依据？](../questions/Q-1786.md) · [在线阅读](https://mianstack.com/question/q-1786)
 - [Q-1793 数据原本已结构化，为何还要建图谱，API 网关聚合查询能否替代？](../questions/Q-1793.md) · [在线阅读](https://mianstack.com/question/q-1793)
 - [Q-17951 RAG 项目为什么没有采用知识图谱，何时值得引入？](../questions/Q-17951.md) · [在线阅读](https://mianstack.com/question/q-17951)
+- [Q-19162 Ontology 平台怎样管理业务本体与 Action 的元数据？](../questions/Q-19162.md) · [在线阅读](https://mianstack.com/question/q-19162)
+- [Q-19163 本体与 Action 注册后，前端或 Agent 怎样发现和消费这些信息？](../questions/Q-19163.md) · [在线阅读](https://mianstack.com/question/q-19163)
+- [Q-19166 Ontology 是较早的概念，为什么在大模型与 Agent 背景下重新受到关注？](../questions/Q-19166.md) · [在线阅读](https://mianstack.com/question/q-19166)
+- [Q-19174 Ontology 平台怎样建设，关键模块如何协作？](../questions/Q-19174.md) · [在线阅读](https://mianstack.com/question/q-19174)
 - [Q-1990 项目知识图谱中有哪些实体和关系？](../questions/Q-1990.md) · [在线阅读](https://mianstack.com/question/q-1990)
 - [Q-1991 用户问题进入系统后，如何拆解 Query 并识别相关实体？](../questions/Q-1991.md) · [在线阅读](https://mianstack.com/question/q-1991)
 - [Q-1992 系统采用的探索式查询方法是否类似蒙特卡洛树搜索？](../questions/Q-1992.md) · [在线阅读](https://mianstack.com/question/q-1992)
@@ -800,6 +806,7 @@
 - [Q-17946 Text-to-SQL 如何处理业务黑话与语义相近的表述？](../questions/Q-17946.md) · [在线阅读](https://mianstack.com/question/q-17946)
 - [Q-17947 智能问数除了 Text-to-SQL，还可以采用哪些方法，本体能起什么作用？](../questions/Q-17947.md) · [在线阅读](https://mianstack.com/question/q-17947)
 - [Q-18531 数据库检索与 RAG 怎样区分，项目为什么选用当前方案？](../questions/Q-18531.md) · [在线阅读](https://mianstack.com/question/q-18531)
+- [Q-18994 如何发现并纠正自然语言转 SQL 中不符合业务语义的结果？](../questions/Q-18994.md) · [在线阅读](https://mianstack.com/question/q-18994)
 - [Q-1920 介绍项目的召回、重排和 SQL 生成链路。](../questions/Q-1920.md) · [在线阅读](https://mianstack.com/question/q-1920) · **已有答案**
 - [Q-1921 SQL 双层校验、超时和置信度兜底策略如何实现？](../questions/Q-1921.md) · [在线阅读](https://mianstack.com/question/q-1921)
 - [Q-2470 NL2SQL 生成 SQL 时怎样处理角色权限？](../questions/Q-2470.md) · [在线阅读](https://mianstack.com/question/q-2470) · **已有答案**

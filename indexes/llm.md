@@ -6,7 +6,7 @@
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。
 
-共 1,526 道题，分为 8 个专题。
+共 1,535 道题，分为 8 个专题。
 
 ## 页内导航
 
@@ -468,6 +468,8 @@
 - [Q-18519 怎样判断一个视觉模型能否部署到指定边缘 NPU 设备？](../questions/Q-18519.md) · [在线阅读](https://mianstack.com/question/q-18519)
 - [Q-18692 模型推理服务怎样权衡首 Token 延迟与吞吐量？](../questions/Q-18692.md) · [在线阅读](https://mianstack.com/question/q-18692)
 - [Q-18786 板端模型推理慢时，怎样区分算力与内存带宽瓶颈并减少搬运？](../questions/Q-18786.md) · [在线阅读](https://mianstack.com/question/q-18786)
+- [Q-19055 你在项目中怎样使用 vLLM，做过哪些落地或优化实践？](../questions/Q-19055.md) · [在线阅读](https://mianstack.com/question/q-19055)
+- [Q-19111 大模型推理中怎样裁剪词表，规则与效果如何验证？](../questions/Q-19111.md) · [在线阅读](https://mianstack.com/question/q-19111)
 - [Q-2153 大模型如何逐步生成 Token？](../questions/Q-2153.md) · [在线阅读](https://mianstack.com/question/q-2153)
 - [Q-2176 模型的 Prompt Cache 如何工作？](../questions/Q-2176.md) · [在线阅读](https://mianstack.com/question/q-2176)
 - [Q-2465 Lost in the Middle 现象是什么原理？](../questions/Q-2465.md) · [在线阅读](https://mianstack.com/question/q-2465)
@@ -641,6 +643,8 @@
 - [Q-18790 FLUX 生成模型的整体架构、模块和运行逻辑是什么？](../questions/Q-18790.md) · [在线阅读](https://mianstack.com/question/q-18790)
 - [Q-18791 FLUX 与 Wan 系列模型的结构、训练范式和建模逻辑有什么区别？](../questions/Q-18791.md) · [在线阅读](https://mianstack.com/question/q-18791)
 - [Q-18792 FLUX 中的文本条件怎样嵌入并融合到生成网络？](../questions/Q-18792.md) · [在线阅读](https://mianstack.com/question/q-18792)
+- [Q-19093 现有项目扩展到多模态时，需要改变哪些输入输出与处理环节？](../questions/Q-19093.md) · [在线阅读](https://mianstack.com/question/q-19093)
+- [Q-19175 你接触过哪些多模态大模型调优工作，具体怎样实施？](../questions/Q-19175.md) · [在线阅读](https://mianstack.com/question/q-19175)
 - [Q-2143 多模态 Agent 中视觉编码器的信息如何与语言模型连接和融合？](../questions/Q-2143.md) · [在线阅读](https://mianstack.com/question/q-2143)
 - [Q-2356 如何实现关键帧场景检测？](../questions/Q-2356.md) · [在线阅读](https://mianstack.com/question/q-2356)
 - [Q-2793 是否阅读过 Qwen2.5-VL 技术报告，理解哪些内容？](../questions/Q-2793.md) · [在线阅读](https://mianstack.com/question/q-2793)
@@ -1119,6 +1123,11 @@
 - [Q-18464 SVM 与深度视觉模型在多分类或多模态任务上有什么取舍？](../questions/Q-18464.md) · [在线阅读](https://mianstack.com/question/q-18464)
 - [Q-18536 怎样把含义相近的用户评论归组，并总结主要反馈的 Top 问题类型？](../questions/Q-18536.md) · [在线阅读](https://mianstack.com/question/q-18536)
 - [Q-18756 不同业务混排时，新商品可以采用哪些优化策略？](../questions/Q-18756.md) · [在线阅读](https://mianstack.com/question/q-18756)
+- [Q-19097 搜索中的意图识别结果怎样进入后续链路，是否作为模型特征？](../questions/Q-19097.md) · [在线阅读](https://mianstack.com/question/q-19097)
+- [Q-19099 为什么用大模型识别搜索意图，输入输出、基线与评估指标如何设计？](../questions/Q-19099.md) · [在线阅读](https://mianstack.com/question/q-19099)
+- [Q-19100 生成商品 SID 时如何选择 Embedding 模型，选型依据是什么？](../questions/Q-19100.md) · [在线阅读](https://mianstack.com/question/q-19100)
+- [Q-19101 RQ-KMeans 与普通 K-Means 有什么区别，K 和码本规模怎样选择及评估？](../questions/Q-19101.md) · [在线阅读](https://mianstack.com/question/q-19101)
+- [Q-19102 生成式推荐模型的输入输出、训练样本和用户历史序列怎样组织？](../questions/Q-19102.md) · [在线阅读](https://mianstack.com/question/q-19102)
 - [Q-2679 K-Means 等聚类方法如何工作，能否保证全局最优？](../questions/Q-2679.md) · [在线阅读](https://mianstack.com/question/q-2679)
 - [Q-2722 如何识别广告作弊用户和流量主，选择难以伪造的特征？](../questions/Q-2722.md) · [在线阅读](https://mianstack.com/question/q-2722)
 - [Q-2723 如何用位置、WiFi 和关联信息建立广告作弊团伙模型？](../questions/Q-2723.md) · [在线阅读](https://mianstack.com/question/q-2723)

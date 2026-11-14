@@ -6,7 +6,7 @@
 
 数据结构、算法、SQL、工程编码与逻辑推理。
 
-共 808 道题，分为 9 个专题。
+共 810 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -468,6 +468,7 @@
 - [Q-18670 两个有序数组规模很大时，怎样控制合并的时间、内存与线程安全？](../questions/Q-18670.md) · [在线阅读](https://mianstack.com/question/q-18670)
 - [Q-18680 任选一种排序算法完成实现，并说明其复杂度。](../questions/Q-18680.md) · [在线阅读](https://mianstack.com/question/q-18680)
 - [Q-18942 根据各班学生成绩生成名次，同分并列且后续名次留空。](../questions/Q-18942.md) · [在线阅读](https://mianstack.com/question/q-18942)
+- [Q-18961 快速排序遇到大量重复元素时为何可能退化，如何分析与改进？](../questions/Q-18961.md) · [在线阅读](https://mianstack.com/question/q-18961)
 - [Q-2674 实现二分查找。](../questions/Q-2674.md) · [在线阅读](https://mianstack.com/question/q-2674)
 - [Q-2710 求数组中的第 k 大元素。](../questions/Q-2710.md) · [在线阅读](https://mianstack.com/question/q-2710)
 - [Q-2910 在二维有序矩阵中查找指定值。](../questions/Q-2910.md) · [在线阅读](https://mianstack.com/question/q-2910)
@@ -716,6 +717,7 @@
 - [Q-18855 实现支持初始化、记录分片、查询缺失及判断可合并的分片上传管理器。](../questions/Q-18855.md) · [在线阅读](https://mianstack.com/question/q-18855)
 - [Q-18902 找出文件中出现频率最高的 K 个字符串，并分析哈希方案的不足与优化。](../questions/Q-18902.md) · [在线阅读](https://mianstack.com/question/q-18902)
 - [Q-18939 怎样让异步任务按顺序逐个执行，并处理结果和失败？](../questions/Q-18939.md) · [在线阅读](https://mianstack.com/question/q-18939)
+- [Q-19003 实现采用 Best Fit、支持相邻空闲块合并的单线程内存分配器。](../questions/Q-19003.md) · [在线阅读](https://mianstack.com/question/q-19003)
 - [Q-2364 给定最近 T 秒的用户访问日志，按每个用户最近访问时间从近到远返回用户列表。](../questions/Q-2364.md) · [在线阅读](https://mianstack.com/question/q-2364)
 - [Q-3164 100 个请求最多并发 6 个，如何实现并保证结果顺序？](../questions/Q-3164.md) · [在线阅读](https://mianstack.com/question/q-3164)
 - [Q-3165 实现 Promise.all 的原生逻辑。](../questions/Q-3165.md) · [在线阅读](https://mianstack.com/question/q-3165)

@@ -6,7 +6,7 @@
 
 训练数据、预训练与微调、偏好对齐、强化学习、训练评测与分布式训练。
 
-共 1,114 道题，分为 9 个专题。
+共 1,120 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -97,6 +97,7 @@
 - [Q-18731 完整的人工操作轨迹能够为大模型后训练带来哪些增益？](../questions/Q-18731.md) · [在线阅读](https://mianstack.com/question/q-18731)
 - [Q-18753 怎样针对长尾样本对齐大语言模型？](../questions/Q-18753.md) · [在线阅读](https://mianstack.com/question/q-18753)
 - [Q-18911 智能音量调节项目怎样采集音频数据，并设计覆盖场景？](../questions/Q-18911.md) · [在线阅读](https://mianstack.com/question/q-18911)
+- [Q-19112 搜索意图识别的标注、采样及正负比例怎样设计，如何匹配线上分布？](../questions/Q-19112.md) · [在线阅读](https://mianstack.com/question/q-19112)
 - [Q-2019 统一管线构造和用户数据回流在方法论上有什么差异？](../questions/Q-2019.md) · [在线阅读](https://mianstack.com/question/q-2019)
 - [Q-2681 训练数据的配比应如何确定？](../questions/Q-2681.md) · [在线阅读](https://mianstack.com/question/q-2681)
 - [Q-2687 RL 训练数据如何构建，能否直接复用 SFT 数据？](../questions/Q-2687.md) · [在线阅读](https://mianstack.com/question/q-2687)
@@ -863,6 +864,11 @@
 - [Q-18697 Megatron 的张量、流水线和序列并行怎样配置？](../questions/Q-18697.md) · [在线阅读](https://mianstack.com/question/q-18697)
 - [Q-18698 数据并行、模型并行与流水线并行有何区别？](../questions/Q-18698.md) · [在线阅读](https://mianstack.com/question/q-18698)
 - [Q-1895 简历中的分布式训练或推理具体指什么？](../questions/Q-1895.md) · [在线阅读](https://mianstack.com/question/q-1895)
+- [Q-19144 CUDA 计算优化依赖哪些原理，为什么相同计算需要适配不同硬件？](../questions/Q-19144.md) · [在线阅读](https://mianstack.com/question/q-19144)
+- [Q-19145 所有算子都适合放到 GPU 上运行吗，怎样判断？](../questions/Q-19145.md) · [在线阅读](https://mianstack.com/question/q-19145)
+- [Q-19146 优化 GPU 算子时通常从哪些方面入手？](../questions/Q-19146.md) · [在线阅读](https://mianstack.com/question/q-19146)
+- [Q-19147 算子 Auto-tuning 如何自动搜索和选择优化实现？](../questions/Q-19147.md) · [在线阅读](https://mianstack.com/question/q-19147)
+- [Q-19172 算子融合有哪些常见模式与适用场景？](../questions/Q-19172.md) · [在线阅读](https://mianstack.com/question/q-19172)
 - [Q-2491 4B 模型推理时的显存占用是多少，如何估算？](../questions/Q-2491.md) · [在线阅读](https://mianstack.com/question/q-2491)
 - [Q-2678 如何估算并优化 7B 模型 GRPO 训练的显存开销？](../questions/Q-2678.md) · [在线阅读](https://mianstack.com/question/q-2678)
 - [Q-2837 显存受限时如何选择模型训练方案？](../questions/Q-2837.md) · [在线阅读](https://mianstack.com/question/q-2837)
