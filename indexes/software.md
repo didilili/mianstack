@@ -6,7 +6,7 @@
 
 语言、框架、前后端、操作系统、网络、存储、并发与分布式系统。
 
-共 4,561 道题，分为 20 个专题。
+共 4,590 道题，分为 20 个专题。
 
 ## 页内导航
 
@@ -340,6 +340,9 @@
 - [Q-18956 Java 的并发执行模型怎样组织线程、任务与共享状态？](../questions/Q-18956.md) · [在线阅读](https://mianstack.com/question/q-18956)
 - [Q-1904 介绍 Java 的集合体系。](../questions/Q-1904.md) · [在线阅读](https://mianstack.com/question/q-1904)
 - [Q-19113 Java 常用集合中哪些是线程安全的，哪些不是？](../questions/Q-19113.md) · [在线阅读](https://mianstack.com/question/q-19113)
+- [Q-19672 使用 Spring 状态机与自行实现状态机相比，有哪些优势和代价？](../questions/Q-19672.md) · [在线阅读](https://mianstack.com/question/q-19672)
+- [Q-19756 RocketMQ 与 LLM 相关工作负载对 GC 的压力有什么不同？](../questions/Q-19756.md) · [在线阅读](https://mianstack.com/question/q-19756)
+- [Q-19758 MyBatis 应用如何适配主从数据源并实现读写路由？](../questions/Q-19758.md) · [在线阅读](https://mianstack.com/question/q-19758)
 - [Q-2361 JVM 垃圾回收过程和核心机制是什么？](../questions/Q-2361.md) · [在线阅读](https://mianstack.com/question/q-2361) · **已有答案**
 - [Q-2428 BeanFactory 与 ApplicationContext 有什么区别？](../questions/Q-2428.md) · [在线阅读](https://mianstack.com/question/q-2428)
 - [Q-2429 ApplicationContext 与 BeanFactory 的接口继承关系是什么，还继承哪些接口？](../questions/Q-2429.md) · [在线阅读](https://mianstack.com/question/q-2429)
@@ -2073,6 +2076,9 @@
 - [Q-18834 使用 Protobuf 时有哪些常见问题和兼容性风险？](../questions/Q-18834.md) · [在线阅读](https://mianstack.com/question/q-18834)
 - [Q-18836 CDN 与反向代理有什么区别？](../questions/Q-18836.md) · [在线阅读](https://mianstack.com/question/q-18836)
 - [Q-18892 Nginx 反向代理怎样配置，响应慢或 502 时怎样排查？](../questions/Q-18892.md) · [在线阅读](https://mianstack.com/question/q-18892)
+- [Q-19326 MTU 是什么，怎样影响 IP 报文和数据传输？](../questions/Q-19326.md) · [在线阅读](https://mianstack.com/question/q-19326)
+- [Q-19329 TCP 两端同时关闭连接时，客户端和服务端会同时进入 TIME_WAIT 吗？](../questions/Q-19329.md) · [在线阅读](https://mianstack.com/question/q-19329)
+- [Q-19651 Protobuf 与 HTTP/2 有什么区别，分别解决什么问题？](../questions/Q-19651.md) · [在线阅读](https://mianstack.com/question/q-19651)
 - [Q-2139 TCP 如何保证可靠传输，发生丢包时如何处理？](../questions/Q-2139.md) · [在线阅读](https://mianstack.com/question/q-2139) · **已有答案**
 - [Q-2158 访问下游 TCP 服务连接超时时，如何完整排查？](../questions/Q-2158.md) · [在线阅读](https://mianstack.com/question/q-2158)
 - [Q-2434 是否做过 NIO 开发，Reactor 模式如何工作？](../questions/Q-2434.md) · [在线阅读](https://mianstack.com/question/q-2434)
@@ -2370,6 +2376,10 @@
 - [Q-19006 在 Hive 中如何落地超大表 Join 优化，降低数据倾斜与 I/O 开销？](../questions/Q-19006.md) · [在线阅读](https://mianstack.com/question/q-19006)
 - [Q-19071 Elasticsearch 的写入和持久化机制是什么？](../questions/Q-19071.md) · [在线阅读](https://mianstack.com/question/q-19071)
 - [Q-19107 你实际做过哪些 MySQL 参数调优，如何验证效果？](../questions/Q-19107.md) · [在线阅读](https://mianstack.com/question/q-19107)
+- [Q-19183 MySQL 查询优化器怎样选择执行计划？](../questions/Q-19183.md) · [在线阅读](https://mianstack.com/question/q-19183)
+- [Q-19338 图库怎样实现动态分表，如何选择分表键并说明采用原因？](../questions/Q-19338.md) · [在线阅读](https://mianstack.com/question/q-19338)
+- [Q-19664 数据库查询优化中的 RBO 与 CBO 有什么区别？](../questions/Q-19664.md) · [在线阅读](https://mianstack.com/question/q-19664)
+- [Q-19665 MySQL 的存储与索引是否都采用 B+ 树，怎样区分？](../questions/Q-19665.md) · [在线阅读](https://mianstack.com/question/q-19665)
 - [Q-2003 你了解哪些数据库索引？](../questions/Q-2003.md) · [在线阅读](https://mianstack.com/question/q-2003) · **已有答案**
 - [Q-2211 设计点赞功能时，需要哪些数据表和字段？](../questions/Q-2211.md) · [在线阅读](https://mianstack.com/question/q-2211)
 - [Q-2215 点赞关系表如何选择分表字段，为什么按直播 ID 分表？](../questions/Q-2215.md) · [在线阅读](https://mianstack.com/question/q-2215)
@@ -2636,6 +2646,11 @@
 - [Q-1948 Redis 定期清理过期 Key 时，如何避免阻塞或锁影响正常请求？](../questions/Q-1948.md) · [在线阅读](https://mianstack.com/question/q-1948)
 - [Q-1949 缓存重建期间如何保证系统可用？](../questions/Q-1949.md) · [在线阅读](https://mianstack.com/question/q-1949)
 - [Q-1950 项目中的 Redis Key 如何设计和组装？](../questions/Q-1950.md) · [在线阅读](https://mianstack.com/question/q-1950)
+- [Q-19500 Redis Cluster 的读请求怎样路由，何时读取主节点或副本？](../questions/Q-19500.md) · [在线阅读](https://mianstack.com/question/q-19500)
+- [Q-19514 Redis 为什么能保证单条命令执行的原子性？](../questions/Q-19514.md) · [在线阅读](https://mianstack.com/question/q-19514)
+- [Q-19655 将本地缓存迁移到 Redis 后，会对 JVM 产生哪些影响？](../questions/Q-19655.md) · [在线阅读](https://mianstack.com/question/q-19655)
+- [Q-19754 布隆过滤器有哪些实现方案，如何根据业务需求选型？](../questions/Q-19754.md) · [在线阅读](https://mianstack.com/question/q-19754)
+- [Q-19844 项目中的 Redis Proxy 如何实现？](../questions/Q-19844.md) · [在线阅读](https://mianstack.com/question/q-19844)
 - [Q-2009 缓存更新策略有哪些？](../questions/Q-2009.md) · [在线阅读](https://mianstack.com/question/q-2009)
 - [Q-2084 用 Redis 作消息队列时，如何处理宕机导致的消息丢失？](../questions/Q-2084.md) · [在线阅读](https://mianstack.com/question/q-2084) · **已有答案**
 - [Q-2085 Redis 如何处理单点故障与主从故障转移？](../questions/Q-2085.md) · [在线阅读](https://mianstack.com/question/q-2085) · **已有答案**
@@ -2847,6 +2862,7 @@
 - [Q-1954 Kafka Broker 如何通过持久化和副本保证数据安全？](../questions/Q-1954.md) · [在线阅读](https://mianstack.com/question/q-1954)
 - [Q-1955 Kafka 消费者如何防止消息丢失？](../questions/Q-1955.md) · [在线阅读](https://mianstack.com/question/q-1955)
 - [Q-1956 为何关闭自动提交 Offset，任务执行与手动提交应是什么顺序？](../questions/Q-1956.md) · [在线阅读](https://mianstack.com/question/q-1956)
+- [Q-19841 项目为什么使用 Redis 做消息通知，采用什么通知机制？](../questions/Q-19841.md) · [在线阅读](https://mianstack.com/question/q-19841)
 - [Q-2027 其他用户进入后怎样看到弹幕，消息链路如何实现？](../questions/Q-2027.md) · [在线阅读](https://mianstack.com/question/q-2027)
 - [Q-2028 WebSocket 如何工作？](../questions/Q-2028.md) · [在线阅读](https://mianstack.com/question/q-2028)
 - [Q-2031 消息未消费成功时如何处理？](../questions/Q-2031.md) · [在线阅读](https://mianstack.com/question/q-2031)
@@ -3059,7 +3075,11 @@
 - [Q-19167 怎样设计每秒约一万次提交、支持取消的延迟任务模块？](../questions/Q-19167.md) · [在线阅读](https://mianstack.com/question/q-19167)
 - [Q-19168 延迟任务的取消接口怎样实现，如何处理与执行同时发生的情况？](../questions/Q-19168.md) · [在线阅读](https://mianstack.com/question/q-19168)
 - [Q-19170 延迟任务系统是否需要外部数据库持久化，应从哪些维度判断？](../questions/Q-19170.md) · [在线阅读](https://mianstack.com/question/q-19170)
+- [Q-19340 用户断开连接后，怎样释放协同编辑中由其持有的锁？](../questions/Q-19340.md) · [在线阅读](https://mianstack.com/question/q-19340)
+- [Q-19501 Nacos 注册中心的服务实例信息怎样保存，哪些信息需要持久化？](../questions/Q-19501.md) · [在线阅读](https://mianstack.com/question/q-19501)
+- [Q-19671 哈希路由有哪些局限和工程风险？](../questions/Q-19671.md) · [在线阅读](https://mianstack.com/question/q-19671)
 - [Q-1968 实现从阿里云 SLS 到 MySQL 的动态写入系统，并考虑异常情况。](../questions/Q-1968.md) · [在线阅读](https://mianstack.com/question/q-1968)
+- [Q-19751 雪花算法的机器位容量不足时，如何扩展并维持 ID 唯一？](../questions/Q-19751.md) · [在线阅读](https://mianstack.com/question/q-19751)
 - [Q-2094 Redis 与数据库库存不一致时如何巡检补偿，并控制高流量下的性能影响？](../questions/Q-2094.md) · [在线阅读](https://mianstack.com/question/q-2094)
 - [Q-2202 一致性哈希如何实现？](../questions/Q-2202.md) · [在线阅读](https://mianstack.com/question/q-2202)
 - [Q-2212 点赞关系表与直播点赞数量同时更新，其中一个失败怎么办？](../questions/Q-2212.md) · [在线阅读](https://mianstack.com/question/q-2212)
@@ -3520,6 +3540,8 @@
 - [Q-18928 微信小程序与公众号的登录授权流程怎样实现？](../questions/Q-18928.md) · [在线阅读](https://mianstack.com/question/q-18928)
 - [Q-19156 HTML 字符串怎样清洗和转义，二者分别适用于什么场景？](../questions/Q-19156.md) · [在线阅读](https://mianstack.com/question/q-19156)
 - [Q-1924 设计一个游戏联盟多角色权限系统。](../questions/Q-1924.md) · [在线阅读](https://mianstack.com/question/q-1924)
+- [Q-19343 项目中的 Redis 数据是否需要加密，怎样设计？](../questions/Q-19343.md) · [在线阅读](https://mianstack.com/question/q-19343)
+- [Q-19502 应用怎样绑定外部平台账号，并同步账号注销或授权失效状态？](../questions/Q-19502.md) · [在线阅读](https://mianstack.com/question/q-19502)
 - [Q-1964 一台 Intel SGX 机器如何向多租户提供约 1GB 数据的计算服务？](../questions/Q-1964.md) · [在线阅读](https://mianstack.com/question/q-1964)
 - [Q-1965 EPC 仅有 512MB 时，如何保证大数据不断切入切出 EPC 的安全性？](../questions/Q-1965.md) · [在线阅读](https://mianstack.com/question/q-1965)
 - [Q-1966 SGX 场景下数据量和 PV 增至四倍但吞吐不升，可能有哪些瓶颈？](../questions/Q-1966.md) · [在线阅读](https://mianstack.com/question/q-1966)
@@ -3934,6 +3956,7 @@
 - [Q-18660 单例模式可能通过哪些方式被破坏，怎样防范？](../questions/Q-18660.md) · [在线阅读](https://mianstack.com/question/q-18660)
 - [Q-18944 哪些业务场景适合使用单例模式？](../questions/Q-18944.md) · [在线阅读](https://mianstack.com/question/q-18944)
 - [Q-19155 项目中怎样实现 Schema 校验并处理不符合约束的数据？](../questions/Q-19155.md) · [在线阅读](https://mianstack.com/question/q-19155)
+- [Q-19330 没有成员变量的类实例是否占用内存，为什么？](../questions/Q-19330.md) · [在线阅读](https://mianstack.com/question/q-19330)
 - [Q-2025 实现发布订阅模式。](../questions/Q-2025.md) · [在线阅读](https://mianstack.com/question/q-2025)
 - [Q-2879 装饰器设计模式是什么？](../questions/Q-2879.md) · [在线阅读](https://mianstack.com/question/q-2879)
 - [Q-3040 责任链模式如何通过代码实现？](../questions/Q-3040.md) · [在线阅读](https://mianstack.com/question/q-3040)
@@ -4050,6 +4073,7 @@
 - [Q-19041 Monorepo 中基础包升级后，依赖包是否需要升级，怎样制定策略？](../questions/Q-19041.md) · [在线阅读](https://mianstack.com/question/q-19041)
 - [Q-19042 组件库发布流水线怎样通过标签或变更记录决定发包范围与时机？](../questions/Q-19042.md) · [在线阅读](https://mianstack.com/question/q-19042)
 - [Q-1979 是否把所有业务代码放在同一仓库，再用目录区分业务？](../questions/Q-1979.md) · [在线阅读](https://mianstack.com/question/q-1979)
+- [Q-19849 项目完成后为什么还需要单独生成交付总结文档？](../questions/Q-19849.md) · [在线阅读](https://mianstack.com/question/q-19849)
 - [Q-2026 项目为什么选择这些技术，是为了学习还是有其他考量？](../questions/Q-2026.md) · [在线阅读](https://mianstack.com/question/q-2026) · **已有答案**
 - [Q-2127 使用过哪些中间件？](../questions/Q-2127.md) · [在线阅读](https://mianstack.com/question/q-2127)
 - [Q-2258 重构前业务接入和维护具体有哪些困难？](../questions/Q-2258.md) · [在线阅读](https://mianstack.com/question/q-2258)
@@ -4159,6 +4183,7 @@
 - [Q-18735 请求到达服务器后，怎样进入 Docker 容器中的 MySQL 服务？](../questions/Q-18735.md) · [在线阅读](https://mianstack.com/question/q-18735)
 - [Q-18895 Kubernetes 拉取或解压镜像最后一层很慢时，怎样定位？](../questions/Q-18895.md) · [在线阅读](https://mianstack.com/question/q-18895)
 - [Q-18896 SRE 与传统运维在目标、工作方式和职责上有什么区别？](../questions/Q-18896.md) · [在线阅读](https://mianstack.com/question/q-18896)
+- [Q-19666 是否使用过对象存储，主要怎样接入和使用？](../questions/Q-19666.md) · [在线阅读](https://mianstack.com/question/q-19666)
 - [Q-2128 是否用 Docker 进行过打包和部署？](../questions/Q-2128.md) · [在线阅读](https://mianstack.com/question/q-2128)
 - [Q-2156 程序在 Docker 容器和宿主机直接运行有什么区别？](../questions/Q-2156.md) · [在线阅读](https://mianstack.com/question/q-2156)
 - [Q-2163 不走完整 CI/CD 流程时如何保证安全上线？](../questions/Q-2163.md) · [在线阅读](https://mianstack.com/question/q-2163)
@@ -4294,6 +4319,8 @@
 - [Q-19158 怎样量化细粒度状态订阅带来的额外开销？](../questions/Q-19158.md) · [在线阅读](https://mianstack.com/question/q-19158)
 - [Q-19159 怎样设计实验寻找合适的状态订阅粒度，可以使用二分搜索吗？](../questions/Q-19159.md) · [在线阅读](https://mianstack.com/question/q-19159)
 - [Q-19169 高 QPS 延迟任务怎样确定轮询频率与每批拉取数量？](../questions/Q-19169.md) · [在线阅读](https://mianstack.com/question/q-19169)
+- [Q-19668 你为服务可靠性和稳定性做过哪些实际工作？](../questions/Q-19668.md) · [在线阅读](https://mianstack.com/question/q-19668)
+- [Q-19757 怎样设计数据库和缓存的监控工具，使业务人员能及时发现线上问题？](../questions/Q-19757.md) · [在线阅读](https://mianstack.com/question/q-19757)
 - [Q-2137 Agent 如何支撑高并发，长连接如何复用？](../questions/Q-2137.md) · [在线阅读](https://mianstack.com/question/q-2137)
 - [Q-2220 项目后续如何规划并发控制？](../questions/Q-2220.md) · [在线阅读](https://mianstack.com/question/q-2220)
 - [Q-2284 限流、熔断、降级分别解决什么问题，有何区别？](../questions/Q-2284.md) · [在线阅读](https://mianstack.com/question/q-2284)
@@ -4543,6 +4570,8 @@
 - [Q-19050 如何设计同时考虑玩家段位与等待时间的游戏匹配机制？](../questions/Q-19050.md) · [在线阅读](https://mianstack.com/question/q-19050)
 - [Q-1910 发票信息由用户手填，还是通过图片识别提取？](../questions/Q-1910.md) · [在线阅读](https://mianstack.com/question/q-1910)
 - [Q-1923 如何设计有保底的游戏抽奖系统，并在高并发下防超卖、处理库存异常及通过 MQ 和定时任务兜底？](../questions/Q-1923.md) · [在线阅读](https://mianstack.com/question/q-1923)
+- [Q-19667 对象存储与 HDFS 各适合什么场景，怎样选择？](../questions/Q-19667.md) · [在线阅读](https://mianstack.com/question/q-19667)
+- [Q-19752 短码采用 Base62 还是十六进制编码，如何比较和选择？](../questions/Q-19752.md) · [在线阅读](https://mianstack.com/question/q-19752)
 - [Q-2004 实时热点榜单如何支撑高并发，数据结构和数据库怎样选择？](../questions/Q-2004.md) · [在线阅读](https://mianstack.com/question/q-2004)
 - [Q-2032 如何排查 OOM？](../questions/Q-2032.md) · [在线阅读](https://mianstack.com/question/q-2032)
 - [Q-2037 如何设计支持添加和删除订阅的消息订阅系统，会遇到哪些问题？](../questions/Q-2037.md) · [在线阅读](https://mianstack.com/question/q-2037)

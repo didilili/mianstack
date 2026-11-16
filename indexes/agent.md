@@ -6,7 +6,7 @@
 
 运行循环、规划、上下文、记忆、工具协议、工作流与多 Agent。
 
-共 1,660 道题，分为 12 个专题。
+共 1,672 道题，分为 12 个专题。
 
 ## 页内导航
 
@@ -274,6 +274,9 @@
 - [Q-1893 项目中的 Agent 用于什么场景，如何实现？](../questions/Q-1893.md) · [在线阅读](https://mianstack.com/question/q-1893)
 - [Q-1914 如果让你设计一个 Agent，你会怎样设计？](../questions/Q-1914.md) · [在线阅读](https://mianstack.com/question/q-1914) · **已有答案**
 - [Q-1915 工业 Agent 与普通 Agent 有何区别，工业场景对稳定性和准确率有哪些要求？](../questions/Q-1915.md) · [在线阅读](https://mianstack.com/question/q-1915)
+- [Q-19197 项目中的 Agent 是否曾自主发现你未察觉的问题，怎样确认发现有效？](../questions/Q-19197.md) · [在线阅读](https://mianstack.com/question/q-19197)
+- [Q-19323 最多调用 12 次工具且希望 60 秒内返回，怎样设计排障 Agent？](../questions/Q-19323.md) · [在线阅读](https://mianstack.com/question/q-19323)
+- [Q-19331 新闻交易 Agent 怎样组织从新闻采集、分析到交易执行的完整管线？](../questions/Q-19331.md) · [在线阅读](https://mianstack.com/question/q-19331)
 - [Q-1975 系统是否预先维护故障处理方案，再按可能性逐个尝试？](../questions/Q-1975.md) · [在线阅读](https://mianstack.com/question/q-1975)
 - [Q-1977 Agent 如何在大型代码库中定位业务、模块和相关代码？](../questions/Q-1977.md) · [在线阅读](https://mianstack.com/question/q-1977) · **已有答案**
 - [Q-1978 如何为代码目录和文件生成 Description，有哪些内容约束和粒度？](../questions/Q-1978.md) · [在线阅读](https://mianstack.com/question/q-1978)
@@ -913,6 +916,7 @@
 - [Q-18818 MCP 报表数据量大时，怎样设计分页、游标查询与结果降级？](../questions/Q-18818.md) · [在线阅读](https://mianstack.com/question/q-18818)
 - [Q-1909 工具如何分类？](../questions/Q-1909.md) · [在线阅读](https://mianstack.com/question/q-1909)
 - [Q-1913 如果跳过的超时工具是自己提供的工具，会有什么影响？](../questions/Q-1913.md) · [在线阅读](https://mianstack.com/question/q-1913)
+- [Q-19335 MCP 与 Function Calling 的工具 Schema 何时发送给模型，每轮对话都需要发送吗？](../questions/Q-19335.md) · [在线阅读](https://mianstack.com/question/q-19335)
 - [Q-2089 Agent 异步并发工具调用时，如何匹配乱序请求与响应？](../questions/Q-2089.md) · [在线阅读](https://mianstack.com/question/q-2089)
 - [Q-2090 并行工具结果什么时候需要排序，什么时候不需要，踩过哪些坑？](../questions/Q-2090.md) · [在线阅读](https://mianstack.com/question/q-2090)
 - [Q-2091 批量并行调用时如何确认任务全部返回，单工具超时不响应怎样容错？](../questions/Q-2091.md) · [在线阅读](https://mianstack.com/question/q-2091)
@@ -1129,6 +1133,8 @@
 - [Q-18653 现有 Skill 无法完成任务时，Agent 应怎样处理能力缺口？](../questions/Q-18653.md) · [在线阅读](https://mianstack.com/question/q-18653)
 - [Q-19062 造数 Skill 如何约束模型动作与参数，减少数据生成中的幻觉？](../questions/Q-19062.md) · [在线阅读](https://mianstack.com/question/q-19062)
 - [Q-19160 Skill 与具体业务场景怎样解耦，改造时需要明确哪些接口？](../questions/Q-19160.md) · [在线阅读](https://mianstack.com/question/q-19160)
+- [Q-19299 先做领域建模再开放能力，与 CLI 加 Skill 的路线有什么优缺点？](../questions/Q-19299.md) · [在线阅读](https://mianstack.com/question/q-19299)
+- [Q-19653 OpenClaw 的 Skills 与 Claude Code 的 Skills 有什么区别？](../questions/Q-19653.md) · [在线阅读](https://mianstack.com/question/q-19653)
 - [Q-2095 Skills 与 Rules 有什么区别？](../questions/Q-2095.md) · [在线阅读](https://mianstack.com/question/q-2095)
 - [Q-2152 Agent 调用 Skill 工具的完整流程是什么？](../questions/Q-2152.md) · [在线阅读](https://mianstack.com/question/q-2152) · **已有答案**
 - [Q-2241 为什么采用 Skills 而不直接加进 Prompt？](../questions/Q-2241.md) · [在线阅读](https://mianstack.com/question/q-2241)
@@ -1249,6 +1255,8 @@
 - [Q-18745 Agent 工作流是否必须等待调用结果才能继续，如何划分同步和异步依赖？](../questions/Q-18745.md) · [在线阅读](https://mianstack.com/question/q-18745)
 - [Q-1888 如何让 Agent 执行固定工作流？](../questions/Q-1888.md) · [在线阅读](https://mianstack.com/question/q-1888)
 - [Q-19104 你使用 Agent 自主编排过哪些完整任务流程？](../questions/Q-19104.md) · [在线阅读](https://mianstack.com/question/q-19104)
+- [Q-19294 智能总结工作流基于什么平台，如何组织入口与意图路由？](../questions/Q-19294.md) · [在线阅读](https://mianstack.com/question/q-19294)
+- [Q-19508 工作流引擎应抽象哪些基础数据模型，它们怎样关联定义与执行实例？](../questions/Q-19508.md) · [在线阅读](https://mianstack.com/question/q-19508)
 - [Q-1999 Agent Runtime 的重试层有哪些实现细节？](../questions/Q-1999.md) · [在线阅读](https://mianstack.com/question/q-1999)
 - [Q-2132 Agent 状态机如何管理？](../questions/Q-2132.md) · [在线阅读](https://mianstack.com/question/q-2132)
 - [Q-2140 项目为什么选单 Agent、多 Agent 或 Workflow，和其他方案相比有何优势？](../questions/Q-2140.md) · [在线阅读](https://mianstack.com/question/q-2140) · **已有答案**
@@ -1388,6 +1396,8 @@
 - [Q-18995 SQL 生成与审核 Agent 的协作应在什么条件下触发，怎样控制成本？](../questions/Q-18995.md) · [在线阅读](https://mianstack.com/question/q-18995)
 - [Q-1918 LangGraph 和 DAG 相比传统链式执行有哪些优势，如何用于异常重试和问题溯源？](../questions/Q-1918.md) · [在线阅读](https://mianstack.com/question/q-1918)
 - [Q-1919 LangGraph 有哪些优缺点，从快速 Demo 到生产需要怎样改造？](../questions/Q-1919.md) · [在线阅读](https://mianstack.com/question/q-1919)
+- [Q-19332 采用多 Agent 的原因是什么，与早期相比有何变化？](../questions/Q-19332.md) · [在线阅读](https://mianstack.com/question/q-19332)
+- [Q-19333 Claude Code、Codex、OpenClaw 与 Hermes Agent 的多 Agent 协作机制有哪些差异？](../questions/Q-19333.md) · [在线阅读](https://mianstack.com/question/q-19333)
 - [Q-2034 多 Agent 之间如何通信？](../questions/Q-2034.md) · [在线阅读](https://mianstack.com/question/q-2034) · **已有答案**
 - [Q-2073 每个人在本地使用时，什么运行环境串联和调度多个 Agent？](../questions/Q-2073.md) · [在线阅读](https://mianstack.com/question/q-2073)
 - [Q-2074 多 Agent 交互采用串行还是主 Agent 调度子 Agent，如何选择？](../questions/Q-2074.md) · [在线阅读](https://mianstack.com/question/q-2074)
@@ -1575,6 +1585,8 @@
 - [Q-18976 你用过哪些 Agent Harness，选择一个说明运行原理。](../questions/Q-18976.md) · [在线阅读](https://mianstack.com/question/q-18976)
 - [Q-19056 你使用 LangGraph 开发过哪些功能，具体如何实现？](../questions/Q-19056.md) · [在线阅读](https://mianstack.com/question/q-19056)
 - [Q-19070 Eino ADK 与 Graph 分别怎样组织 Agent 和工作流，有什么区别？](../questions/Q-19070.md) · [在线阅读](https://mianstack.com/question/q-19070)
+- [Q-19182 今年的 Agent 技术相比此前发生了哪些变化，有哪些新的框架设计？](../questions/Q-19182.md) · [在线阅读](https://mianstack.com/question/q-19182)
+- [Q-19654 OpenClaw 为什么会消耗较多 Token？](../questions/Q-19654.md) · [在线阅读](https://mianstack.com/question/q-19654)
 - [Q-1998 出现新工具或框架时，如何判断旧方案是否仍有必要？](../questions/Q-1998.md) · [在线阅读](https://mianstack.com/question/q-1998)
 - [Q-2023 项目的 Agent Infra 具体如何实现？](../questions/Q-2023.md) · [在线阅读](https://mianstack.com/question/q-2023)
 - [Q-2029 Agent 项目使用了什么框架？](../questions/Q-2029.md) · [在线阅读](https://mianstack.com/question/q-2029) · **已有答案**

@@ -6,7 +6,7 @@
 
 文档处理、检索、重排、知识更新、知识图谱与结构化知识。
 
-共 741 道题，分为 13 个专题。
+共 750 道题，分为 13 个专题。
 
 ## 页内导航
 
@@ -169,6 +169,7 @@
 - [Q-18616 解析非结构化文档出现乱码或编码异常时，怎样定位和处理？](../questions/Q-18616.md) · [在线阅读](https://mianstack.com/question/q-18616)
 - [Q-18711 大量格式不同的简历怎样结构化处理并建立可检索知识库？](../questions/Q-18711.md) · [在线阅读](https://mianstack.com/question/q-18711)
 - [Q-1917 介绍项目外网爬虫、数据清洗到模型喂数的完整流程。](../questions/Q-1917.md) · [在线阅读](https://mianstack.com/question/q-1917)
+- [Q-19656 论文解析后的表格被切成两半，如何定位这些片段并修复？](../questions/Q-19656.md) · [在线阅读](https://mianstack.com/question/q-19656)
 - [Q-1993 项目用什么技术构建知识库和索引？](../questions/Q-1993.md) · [在线阅读](https://mianstack.com/question/q-1993)
 - [Q-2116 如何从值班聊天记录中识别和提取 QA？](../questions/Q-2116.md) · [在线阅读](https://mianstack.com/question/q-2116)
 - [Q-2117 如何过滤聊天记录中的无效内容？](../questions/Q-2117.md) · [在线阅读](https://mianstack.com/question/q-2117)
@@ -517,6 +518,7 @@
 - [Q-17966 Bi-Encoder 与 Cross-Encoder 如何工作，计算复杂度和适用场景有什么区别？](../questions/Q-17966.md) · [在线阅读](https://mianstack.com/question/q-17966)
 - [Q-18089 Rerank 在项目中怎样实现，候选与排序结果如何衔接？](../questions/Q-18089.md) · [在线阅读](https://mianstack.com/question/q-18089)
 - [Q-18691 怎样评估 Rerank 带来的质量收益，并权衡额外耗时？](../questions/Q-18691.md) · [在线阅读](https://mianstack.com/question/q-18691)
+- [Q-19334 融合知识图谱、向量等多路检索结果时，怎样重排缺少直接语义相关性的图检索结果？](../questions/Q-19334.md) · [在线阅读](https://mianstack.com/question/q-19334)
 - [Q-2862 搜索引擎权重有什么作用，如何计算？](../questions/Q-2862.md) · [在线阅读](https://mianstack.com/question/q-2862)
 - [Q-2889 为什么选择 RRF，而不采用简单加权？](../questions/Q-2889.md) · [在线阅读](https://mianstack.com/question/q-2889) · **已有答案**
 - [Q-2891 Reranker 与 Embedding 模型在原理上有什么区别？](../questions/Q-2891.md) · [在线阅读](https://mianstack.com/question/q-2891)
@@ -592,6 +594,7 @@
 - [Q-18883 RAG 评测指标怎样判断好坏，如何建立可比较的基准？](../questions/Q-18883.md) · [在线阅读](https://mianstack.com/question/q-18883)
 - [Q-1890 检索准确率如何评价，有什么体系、标准和测试数据？](../questions/Q-1890.md) · [在线阅读](https://mianstack.com/question/q-1890)
 - [Q-1891 RAG 系统回答不正确时，如何排查？](../questions/Q-1891.md) · [在线阅读](https://mianstack.com/question/q-1891) · **已有答案**
+- [Q-19657 GraphRAG 项目如何选择和使用评测工具？](../questions/Q-19657.md) · [在线阅读](https://mianstack.com/question/q-19657)
 - [Q-2168 RAG 从文档到答案的哪些步骤构成挑战并影响最终效果？](../questions/Q-2168.md) · [在线阅读](https://mianstack.com/question/q-2168)
 - [Q-2270 如何提高知识库检索召回的准确性与上下文匹配能力？](../questions/Q-2270.md) · [在线阅读](https://mianstack.com/question/q-2270) · **已有答案**
 - [Q-2315 RAG 如何控制召回噪声？](../questions/Q-2315.md) · [在线阅读](https://mianstack.com/question/q-2315)
@@ -760,6 +763,12 @@
 - [Q-19163 本体与 Action 注册后，前端或 Agent 怎样发现和消费这些信息？](../questions/Q-19163.md) · [在线阅读](https://mianstack.com/question/q-19163)
 - [Q-19166 Ontology 是较早的概念，为什么在大模型与 Agent 背景下重新受到关注？](../questions/Q-19166.md) · [在线阅读](https://mianstack.com/question/q-19166)
 - [Q-19174 Ontology 平台怎样建设，关键模块如何协作？](../questions/Q-19174.md) · [在线阅读](https://mianstack.com/question/q-19174)
+- [Q-19296 业务本体与 Action 怎样定义，并连接到底层能力？](../questions/Q-19296.md) · [在线阅读](https://mianstack.com/question/q-19296)
+- [Q-19297 业务概念怎样统一，为什么不能直接将数据库表映射为本体？](../questions/Q-19297.md) · [在线阅读](https://mianstack.com/question/q-19297)
+- [Q-19298 领域 Action 的粒度怎样确定？](../questions/Q-19298.md) · [在线阅读](https://mianstack.com/question/q-19298)
+- [Q-19658 用大模型抽取长文本中的实体和关系时，如何控制上下文过长导致的幻觉？](../questions/Q-19658.md) · [在线阅读](https://mianstack.com/question/q-19658)
+- [Q-19659 知识图谱的三元组由人工定义还是由 AI 生成，如何利用领域映射规范？](../questions/Q-19659.md) · [在线阅读](https://mianstack.com/question/q-19659)
+- [Q-19660 GraphRAG 的 Community Summary 如何设计与生成？](../questions/Q-19660.md) · [在线阅读](https://mianstack.com/question/q-19660)
 - [Q-1990 项目知识图谱中有哪些实体和关系？](../questions/Q-1990.md) · [在线阅读](https://mianstack.com/question/q-1990)
 - [Q-1991 用户问题进入系统后，如何拆解 Query 并识别相关实体？](../questions/Q-1991.md) · [在线阅读](https://mianstack.com/question/q-1991)
 - [Q-1992 系统采用的探索式查询方法是否类似蒙特卡洛树搜索？](../questions/Q-1992.md) · [在线阅读](https://mianstack.com/question/q-1992)

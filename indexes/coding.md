@@ -6,7 +6,7 @@
 
 数据结构、算法、SQL、工程编码与逻辑推理。
 
-共 810 道题，分为 9 个专题。
+共 823 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -156,6 +156,7 @@
 - [Q-18668 怎样判断一个数组是否有序？](../questions/Q-18668.md) · [在线阅读](https://mianstack.com/question/q-18668)
 - [Q-1872 合并两个区间。](../questions/Q-1872.md) · [在线阅读](https://mianstack.com/question/q-1872)
 - [Q-18816 求多个数组的交集。](../questions/Q-18816.md) · [在线阅读](https://mianstack.com/question/q-18816)
+- [Q-19504 实现按句子边界切分文本的函数，使每块不超过给定最大长度。](../questions/Q-19504.md) · [在线阅读](https://mianstack.com/question/q-19504)
 - [Q-1967 按嵌套重复规则解码字符串，例如 3\[ab2\[c\]\]。](../questions/Q-1967.md) · [在线阅读](https://mianstack.com/question/q-1967)
 - [Q-2096 为包含小数的输入添加千位分隔符。](../questions/Q-2096.md) · [在线阅读](https://mianstack.com/question/q-2096)
 - [Q-2285 给定 n 个会议起止时间，判断一个人能否全部参加。](../questions/Q-2285.md) · [在线阅读](https://mianstack.com/question/q-2285)
@@ -373,6 +374,8 @@
 - [Q-18744 写出 HNSW 向量近似检索的核心伪代码。](../questions/Q-18744.md) · [在线阅读](https://mianstack.com/question/q-18744)
 - [Q-18806 判断一棵二叉树是否为高度平衡二叉树。](../questions/Q-18806.md) · [在线阅读](https://mianstack.com/question/q-18806)
 - [Q-18941 实现树形结构与带父节点标识的扁平列表之间的转换。](../questions/Q-18941.md) · [在线阅读](https://mianstack.com/question/q-18941)
+- [Q-19324 AVL 树怎样保持平衡，适合什么场景，有哪些代价？](../questions/Q-19324.md) · [在线阅读](https://mianstack.com/question/q-19324)
+- [Q-19843 将多叉树转换为二叉树。](../questions/Q-19843.md) · [在线阅读](https://mianstack.com/question/q-19843)
 - [Q-2263 求二叉树的最近公共祖先。](../questions/Q-2263.md) · [在线阅读](https://mianstack.com/question/q-2263)
 - [Q-2390 实现二叉树前序遍历。](../questions/Q-2390.md) · [在线阅读](https://mianstack.com/question/q-2390)
 - [Q-2440 说明接雨水 II 的解题思路。](../questions/Q-2440.md) · [在线阅读](https://mianstack.com/question/q-2440)
@@ -559,6 +562,8 @@
 - [Q-18274 把一个整数拆成 k 个数之和，如何使乘积最大？](../questions/Q-18274.md) · [在线阅读](https://mianstack.com/question/q-18274)
 - [Q-18370 求从网格左上角到右下角的最小路径和（LeetCode 64）。](../questions/Q-18370.md) · [在线阅读](https://mianstack.com/question/q-18370)
 - [Q-18488 统计包含 ab 子序列的子序列数量，并对指定模数取模。](../questions/Q-18488.md) · [在线阅读](https://mianstack.com/question/q-18488)
+- [Q-19195 求两个互不重叠子数组的最大和。](../questions/Q-19195.md) · [在线阅读](https://mianstack.com/question/q-19195)
+- [Q-19750 在矩阵中从左上走到右下，只能向右或向下，求路径元素和的最大值。](../questions/Q-19750.md) · [在线阅读](https://mianstack.com/question/q-19750)
 - [Q-2334 求集合的所有子集。](../questions/Q-2334.md) · [在线阅读](https://mianstack.com/question/q-2334)
 - [Q-3166 求回文串最少分割次数。](../questions/Q-3166.md) · [在线阅读](https://mianstack.com/question/q-3166)
 - [Q-3433 解决爬楼梯问题。](../questions/Q-3433.md) · [在线阅读](https://mianstack.com/question/q-3433)
@@ -718,6 +723,11 @@
 - [Q-18902 找出文件中出现频率最高的 K 个字符串，并分析哈希方案的不足与优化。](../questions/Q-18902.md) · [在线阅读](https://mianstack.com/question/q-18902)
 - [Q-18939 怎样让异步任务按顺序逐个执行，并处理结果和失败？](../questions/Q-18939.md) · [在线阅读](https://mianstack.com/question/q-18939)
 - [Q-19003 实现采用 Best Fit、支持相邻空闲块合并的单线程内存分配器。](../questions/Q-19003.md) · [在线阅读](https://mianstack.com/question/q-19003)
+- [Q-19650 用 Go 实现线程安全的 Map。](../questions/Q-19650.md) · [在线阅读](https://mianstack.com/question/q-19650)
+- [Q-19652 使用 AI 编程工具实现一个网关服务，并说明解题思路。](../questions/Q-19652.md) · [在线阅读](https://mianstack.com/question/q-19652)
+- [Q-19661 使用 AI IDE 编写工具，从文本抽取关键实体，并将 entity、relationship、claim 输出为标准 JSON。](../questions/Q-19661.md) · [在线阅读](https://mianstack.com/question/q-19661)
+- [Q-19669 实现支持 get、put、删除的二级缓存，并处理缓存击穿与穿透。](../questions/Q-19669.md) · [在线阅读](https://mianstack.com/question/q-19669)
+- [Q-19670 手写包含文档切分、BM25 与向量召回及重排的 RAG 链路。](../questions/Q-19670.md) · [在线阅读](https://mianstack.com/question/q-19670)
 - [Q-2364 给定最近 T 秒的用户访问日志，按每个用户最近访问时间从近到远返回用户列表。](../questions/Q-2364.md) · [在线阅读](https://mianstack.com/question/q-2364)
 - [Q-3164 100 个请求最多并发 6 个，如何实现并保证结果顺序？](../questions/Q-3164.md) · [在线阅读](https://mianstack.com/question/q-3164)
 - [Q-3165 实现 Promise.all 的原生逻辑。](../questions/Q-3165.md) · [在线阅读](https://mianstack.com/question/q-3165)
@@ -803,6 +813,7 @@
 - [Q-18349 用 SQL 按月份统计销售额总和，并按月份降序返回。](../questions/Q-18349.md) · [在线阅读](https://mianstack.com/question/q-18349)
 - [Q-18428 关联学生表与成绩表，查询所有课程分数都大于 80 分的学生姓名。](../questions/Q-18428.md) · [在线阅读](https://mianstack.com/question/q-18428)
 - [Q-18574 使用 SQL 查找平均工资最高部门的管理者信息。](../questions/Q-18574.md) · [在线阅读](https://mianstack.com/question/q-18574)
+- [Q-19325 编写 SQL，返回每个产品的总销售量。](../questions/Q-19325.md) · [在线阅读](https://mianstack.com/question/q-19325)
 - [Q-4082 编写 SQL UPDATE 语句修改指定用户的电话号码。](../questions/Q-4082.md) · [在线阅读](https://mianstack.com/question/q-4082)
 - [Q-6793 编写 SQL 查询 Employee 表中第 N 高的薪资。](../questions/Q-6793.md) · [在线阅读](https://mianstack.com/question/q-6793)
 - [Q-8159 给定 orders 和 refunds 表，统计每个城市的总收款、总退款和付款用户数。](../questions/Q-8159.md) · [在线阅读](https://mianstack.com/question/q-8159)
@@ -836,6 +847,8 @@
 - [Q-16783 怎样把正态分布随机变量转换为均匀分布随机变量？](../questions/Q-16783.md) · [在线阅读](https://mianstack.com/question/q-16783)
 - [Q-16885 按重量比较不同面额纸币的总金额，应怎样推算？](../questions/Q-16885.md) · [在线阅读](https://mianstack.com/question/q-16885)
 - [Q-17904 共有 s 个孩子，8 人有哥哥、7 人有弟弟、5 人有姐姐，求有妹妹的人数。](../questions/Q-17904.md) · [在线阅读](https://mianstack.com/question/q-17904)
+- [Q-19328 m×n 的单位网格中，一共有多少个正方形？](../questions/Q-19328.md) · [在线阅读](https://mianstack.com/question/q-19328)
+- [Q-19753 固定长度的短链接标识能容纳多少个不同短码？](../questions/Q-19753.md) · [在线阅读](https://mianstack.com/question/q-19753)
 - [Q-3018 如何用不均匀硬币设计公平游戏？](../questions/Q-3018.md) · [在线阅读](https://mianstack.com/question/q-3018)
 - [Q-3966 时钟在 3:15 时，时针与分针的夹角是多少度？](../questions/Q-3966.md) · [在线阅读](https://mianstack.com/question/q-3966)
 - [Q-6137 在单位圆盘内均匀随机取点，到圆心距离的期望如何计算？](../questions/Q-6137.md) · [在线阅读](https://mianstack.com/question/q-6137)

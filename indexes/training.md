@@ -6,7 +6,7 @@
 
 训练数据、预训练与微调、偏好对齐、强化学习、训练评测与分布式训练。
 
-共 1,120 道题，分为 9 个专题。
+共 1,124 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -98,6 +98,7 @@
 - [Q-18753 怎样针对长尾样本对齐大语言模型？](../questions/Q-18753.md) · [在线阅读](https://mianstack.com/question/q-18753)
 - [Q-18911 智能音量调节项目怎样采集音频数据，并设计覆盖场景？](../questions/Q-18911.md) · [在线阅读](https://mianstack.com/question/q-18911)
 - [Q-19112 搜索意图识别的标注、采样及正负比例怎样设计，如何匹配线上分布？](../questions/Q-19112.md) · [在线阅读](https://mianstack.com/question/q-19112)
+- [Q-19842 MiniMind 项目的训练数据来自哪里，预训练数据如何组织，为什么这样设计？](../questions/Q-19842.md) · [在线阅读](https://mianstack.com/question/q-19842)
 - [Q-2019 统一管线构造和用户数据回流在方法论上有什么差异？](../questions/Q-2019.md) · [在线阅读](https://mianstack.com/question/q-2019)
 - [Q-2681 训练数据的配比应如何确定？](../questions/Q-2681.md) · [在线阅读](https://mianstack.com/question/q-2681)
 - [Q-2687 RL 训练数据如何构建，能否直接复用 SFT 数据？](../questions/Q-2687.md) · [在线阅读](https://mianstack.com/question/q-2687)
@@ -869,6 +870,7 @@
 - [Q-19146 优化 GPU 算子时通常从哪些方面入手？](../questions/Q-19146.md) · [在线阅读](https://mianstack.com/question/q-19146)
 - [Q-19147 算子 Auto-tuning 如何自动搜索和选择优化实现？](../questions/Q-19147.md) · [在线阅读](https://mianstack.com/question/q-19147)
 - [Q-19172 算子融合有哪些常见模式与适用场景？](../questions/Q-19172.md) · [在线阅读](https://mianstack.com/question/q-19172)
+- [Q-19512 项目微调训练实际占用多少显存，怎样测量并说明配置？](../questions/Q-19512.md) · [在线阅读](https://mianstack.com/question/q-19512)
 - [Q-2491 4B 模型推理时的显存占用是多少，如何估算？](../questions/Q-2491.md) · [在线阅读](https://mianstack.com/question/q-2491)
 - [Q-2678 如何估算并优化 7B 模型 GRPO 训练的显存开销？](../questions/Q-2678.md) · [在线阅读](https://mianstack.com/question/q-2678)
 - [Q-2837 显存受限时如何选择模型训练方案？](../questions/Q-2837.md) · [在线阅读](https://mianstack.com/question/q-2837)
@@ -1038,6 +1040,8 @@
 - [Q-18729 强化学习训练初期学不动时，怎样排查和处理？](../questions/Q-18729.md) · [在线阅读](https://mianstack.com/question/q-18729)
 - [Q-18831 项目模型微调实际用了哪些设备、多少卡和多长时间？](../questions/Q-18831.md) · [在线阅读](https://mianstack.com/question/q-18831)
 - [Q-18848 GRPO 训练后期收益衰减明显时，怎样定位并优化？](../questions/Q-18848.md) · [在线阅读](https://mianstack.com/question/q-18848)
+- [Q-19846 为什么 nvidia-smi 与 PyTorch 显示的显存占用不同？](../questions/Q-19846.md) · [在线阅读](https://mianstack.com/question/q-19846)
+- [Q-19847 模型运行中为什么会产生显存碎片？](../questions/Q-19847.md) · [在线阅读](https://mianstack.com/question/q-19847)
 - [Q-2018 模型效果不好时，如何判断问题来自预训练、后训练还是数据？](../questions/Q-2018.md) · [在线阅读](https://mianstack.com/question/q-2018)
 - [Q-2683 微调时如何判断并缓解过拟合？](../questions/Q-2683.md) · [在线阅读](https://mianstack.com/question/q-2683)
 - [Q-2684 SFT 常用的损失函数是什么，如何选择和计算？](../questions/Q-2684.md) · [在线阅读](https://mianstack.com/question/q-2684)

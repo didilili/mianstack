@@ -6,7 +6,7 @@
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。
 
-共 1,535 道题，分为 8 个专题。
+共 1,547 道题，分为 8 个专题。
 
 ## 页内导航
 
@@ -645,6 +645,7 @@
 - [Q-18792 FLUX 中的文本条件怎样嵌入并融合到生成网络？](../questions/Q-18792.md) · [在线阅读](https://mianstack.com/question/q-18792)
 - [Q-19093 现有项目扩展到多模态时，需要改变哪些输入输出与处理环节？](../questions/Q-19093.md) · [在线阅读](https://mianstack.com/question/q-19093)
 - [Q-19175 你接触过哪些多模态大模型调优工作，具体怎样实施？](../questions/Q-19175.md) · [在线阅读](https://mianstack.com/question/q-19175)
+- [Q-19848 你了解哪些国内外视频生成模型，它们的能力和限制有什么区别？](../questions/Q-19848.md) · [在线阅读](https://mianstack.com/question/q-19848)
 - [Q-2143 多模态 Agent 中视觉编码器的信息如何与语言模型连接和融合？](../questions/Q-2143.md) · [在线阅读](https://mianstack.com/question/q-2143)
 - [Q-2356 如何实现关键帧场景检测？](../questions/Q-2356.md) · [在线阅读](https://mianstack.com/question/q-2356)
 - [Q-2793 是否阅读过 Qwen2.5-VL 技术报告，理解哪些内容？](../questions/Q-2793.md) · [在线阅读](https://mianstack.com/question/q-2793)
@@ -1128,6 +1129,17 @@
 - [Q-19100 生成商品 SID 时如何选择 Embedding 模型，选型依据是什么？](../questions/Q-19100.md) · [在线阅读](https://mianstack.com/question/q-19100)
 - [Q-19101 RQ-KMeans 与普通 K-Means 有什么区别，K 和码本规模怎样选择及评估？](../questions/Q-19101.md) · [在线阅读](https://mianstack.com/question/q-19101)
 - [Q-19102 生成式推荐模型的输入输出、训练样本和用户历史序列怎样组织？](../questions/Q-19102.md) · [在线阅读](https://mianstack.com/question/q-19102)
+- [Q-19186 生成式推荐的语义 ID 参数采用均值初始化后，训练时是否继续更新？](../questions/Q-19186.md) · [在线阅读](https://mianstack.com/question/q-19186)
+- [Q-19187 推荐项目中离线全量推理的统计口径怎样定义？](../questions/Q-19187.md) · [在线阅读](https://mianstack.com/question/q-19187)
+- [Q-19188 推荐系统中各路召回是否相互独立，怎样分析候选重叠和相互影响？](../questions/Q-19188.md) · [在线阅读](https://mianstack.com/question/q-19188)
+- [Q-19189 怎样验证推荐系统单路召回的核心增益，线上基线是否包含所有召回链路？](../questions/Q-19189.md) · [在线阅读](https://mianstack.com/question/q-19189)
+- [Q-19190 推荐策略为什么只覆盖长序列用户，怎样权衡全量覆盖的资源与效果？](../questions/Q-19190.md) · [在线阅读](https://mianstack.com/question/q-19190)
+- [Q-19191 把短序列用户纳入推荐训练后，如何判断是否损害长序列用户效果？](../questions/Q-19191.md) · [在线阅读](https://mianstack.com/question/q-19191)
+- [Q-19192 一条离线推荐召回策略能否改为实时召回，需要验证哪些条件？](../questions/Q-19192.md) · [在线阅读](https://mianstack.com/question/q-19192)
+- [Q-19193 序列召回模型采用什么损失函数，怎样判断它是否适合召回任务？](../questions/Q-19193.md) · [在线阅读](https://mianstack.com/question/q-19193)
+- [Q-19194 能否直接把 Top-100 命中率作为召回模型的训练损失，为什么？](../questions/Q-19194.md) · [在线阅读](https://mianstack.com/question/q-19194)
+- [Q-19196 只允许修改损失函数时，怎样重新设计目标以提升整体召回效果？](../questions/Q-19196.md) · [在线阅读](https://mianstack.com/question/q-19196)
+- [Q-19198 离线推理回流的用户数据怎样处理并用于迭代优化？](../questions/Q-19198.md) · [在线阅读](https://mianstack.com/question/q-19198)
 - [Q-2679 K-Means 等聚类方法如何工作，能否保证全局最优？](../questions/Q-2679.md) · [在线阅读](https://mianstack.com/question/q-2679)
 - [Q-2722 如何识别广告作弊用户和流量主，选择难以伪造的特征？](../questions/Q-2722.md) · [在线阅读](https://mianstack.com/question/q-2722)
 - [Q-2723 如何用位置、WiFi 和关联信息建立广告作弊团伙模型？](../questions/Q-2723.md) · [在线阅读](https://mianstack.com/question/q-2723)
