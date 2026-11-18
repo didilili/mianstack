@@ -6,7 +6,7 @@
 
 数据结构、算法、SQL、工程编码与逻辑推理。
 
-共 823 道题，分为 9 个专题。
+共 825 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -288,6 +288,7 @@
 - [Q-18381 一群人围成一圈报数，数到指定位置者淘汰，如何求最后留下的编号？](../questions/Q-18381.md) · [在线阅读](https://mianstack.com/question/q-18381)
 - [Q-18623 单链表按高位在前表示整数，怎样将这个整数乘以二？](../questions/Q-18623.md) · [在线阅读](https://mianstack.com/question/q-18623)
 - [Q-18860 用栈反复将连续 m 个相同数字替换为它们的和，输出最终数组。](../questions/Q-18860.md) · [在线阅读](https://mianstack.com/question/q-18860)
+- [Q-20040 实现支持负数、加减乘除与括号的表达式计算器。](../questions/Q-20040.md) · [在线阅读](https://mianstack.com/question/q-20040)
 - [Q-2005 用两个栈实现一个队列。](../questions/Q-2005.md) · [在线阅读](https://mianstack.com/question/q-2005) · **已有答案**
 - [Q-2079 栈的底层如何实现？](../questions/Q-2079.md) · [在线阅读](https://mianstack.com/question/q-2079)
 - [Q-2097 实现支持 O(1) 取最小值的栈。](../questions/Q-2097.md) · [在线阅读](https://mianstack.com/question/q-2097)
@@ -728,6 +729,7 @@
 - [Q-19661 使用 AI IDE 编写工具，从文本抽取关键实体，并将 entity、relationship、claim 输出为标准 JSON。](../questions/Q-19661.md) · [在线阅读](https://mianstack.com/question/q-19661)
 - [Q-19669 实现支持 get、put、删除的二级缓存，并处理缓存击穿与穿透。](../questions/Q-19669.md) · [在线阅读](https://mianstack.com/question/q-19669)
 - [Q-19670 手写包含文档切分、BM25 与向量召回及重排的 RAG 链路。](../questions/Q-19670.md) · [在线阅读](https://mianstack.com/question/q-19670)
+- [Q-19902 实现 Agent 的工具调用核心模块。](../questions/Q-19902.md) · [在线阅读](https://mianstack.com/question/q-19902)
 - [Q-2364 给定最近 T 秒的用户访问日志，按每个用户最近访问时间从近到远返回用户列表。](../questions/Q-2364.md) · [在线阅读](https://mianstack.com/question/q-2364)
 - [Q-3164 100 个请求最多并发 6 个，如何实现并保证结果顺序？](../questions/Q-3164.md) · [在线阅读](https://mianstack.com/question/q-3164)
 - [Q-3165 实现 Promise.all 的原生逻辑。](../questions/Q-3165.md) · [在线阅读](https://mianstack.com/question/q-3165)

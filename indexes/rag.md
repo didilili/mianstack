@@ -6,7 +6,7 @@
 
 文档处理、检索、重排、知识更新、知识图谱与结构化知识。
 
-共 750 道题，分为 13 个专题。
+共 752 道题，分为 13 个专题。
 
 ## 页内导航
 
@@ -87,6 +87,7 @@
 - [Q-18835 用户提出简单问题时，Agent 是否需要检索知识库，怎样决定？](../questions/Q-18835.md) · [在线阅读](https://mianstack.com/question/q-18835)
 - [Q-18862 从条件概率分布角度，怎样解释 RAG 对幻觉的影响？](../questions/Q-18862.md) · [在线阅读](https://mianstack.com/question/q-18862)
 - [Q-19072 RAG 召回结果的上下文窗口长度如何设置，超长内容怎样处理？](../questions/Q-19072.md) · [在线阅读](https://mianstack.com/question/q-19072)
+- [Q-20201 单次请求传入长文档时，怎样与已有知识库交叉论证并控制 Token 开销？](../questions/Q-20201.md) · [在线阅读](https://mianstack.com/question/q-20201)
 - [Q-2327 知识库如何指导 Agent 操作？](../questions/Q-2327.md) · [在线阅读](https://mianstack.com/question/q-2327) · **已有答案**
 - [Q-2830 RAG Token 节省 50% 如何计算，是输入还是输出，做了哪些优化？](../questions/Q-2830.md) · [在线阅读](https://mianstack.com/question/q-2830)
 - [Q-2963 通用模型可能训练过罕见病资料时，为什么仍需建立 RAG？](../questions/Q-2963.md) · [在线阅读](https://mianstack.com/question/q-2963)
@@ -386,6 +387,7 @@
 - [Q-18041 用户指定书籍章节和行号时，RAG 应怎样构造查询并定位原文？](../questions/Q-18041.md) · [在线阅读](https://mianstack.com/question/q-18041)
 - [Q-18453 RAG 中如何把复杂问题拆成多个子查询，各自负责什么证据？](../questions/Q-18453.md) · [在线阅读](https://mianstack.com/question/q-18453)
 - [Q-18454 查询改写与子问题拆分应合并一次模型调用，还是分步执行？](../questions/Q-18454.md) · [在线阅读](https://mianstack.com/question/q-18454)
+- [Q-20262 搜索语义适配应放在上游 Query Rewrite，还是搜索系统自身，怎样判断？](../questions/Q-20262.md) · [在线阅读](https://mianstack.com/question/q-20262)
 - [Q-2170 三五字短 Query 如何与一两百字 Chunk 比较向量，相比长 Query 的召回有何差异？](../questions/Q-2170.md) · [在线阅读](https://mianstack.com/question/q-2170)
 - [Q-2171 除了压缩，还会对长 Query 做哪些处理？](../questions/Q-2171.md) · [在线阅读](https://mianstack.com/question/q-2171)
 - [Q-3721 Query 重构有哪些常见方法，各适合什么场景？](../questions/Q-3721.md) · [在线阅读](https://mianstack.com/question/q-3721)

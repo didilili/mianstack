@@ -6,7 +6,7 @@
 
 训练数据、预训练与微调、偏好对齐、强化学习、训练评测与分布式训练。
 
-共 1,124 道题，分为 9 个专题。
+共 1,128 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -497,6 +497,9 @@
 - [Q-18863 怎样判断 Agent 需要强化学习优化，还是通过 Prompt 调整即可？](../questions/Q-18863.md) · [在线阅读](https://mianstack.com/question/q-18863)
 - [Q-18865 强化学习任务怎样设计动作空间，并应对空间过大造成的探索困难？](../questions/Q-18865.md) · [在线阅读](https://mianstack.com/question/q-18865)
 - [Q-1896 项目为什么选择 GRPO 而不选择 DPO？](../questions/Q-1896.md) · [在线阅读](https://mianstack.com/question/q-1896)
+- [Q-20256 不同维度的奖励为什么可以相加，组合前应检查哪些条件？](../questions/Q-20256.md) · [在线阅读](https://mianstack.com/question/q-20256)
+- [Q-20258 多个奖励分数接近时，怎样判断哪个奖励维度在发挥作用？](../questions/Q-20258.md) · [在线阅读](https://mianstack.com/question/q-20258)
+- [Q-20259 多维奖励是否需要解耦，应该怎样设计并验证？](../questions/Q-20259.md) · [在线阅读](https://mianstack.com/question/q-20259)
 - [Q-2144 SFT、强化学习和 Agentic CFT 分别解决什么问题？](../questions/Q-2144.md) · [在线阅读](https://mianstack.com/question/q-2144)
 - [Q-2468 GRPO 的 Loss 如何计算？](../questions/Q-2468.md) · [在线阅读](https://mianstack.com/question/q-2468)
 - [Q-2469 Deep Research 如何与强化学习结合？](../questions/Q-2469.md) · [在线阅读](https://mianstack.com/question/q-2469)
@@ -1042,6 +1045,7 @@
 - [Q-18848 GRPO 训练后期收益衰减明显时，怎样定位并优化？](../questions/Q-18848.md) · [在线阅读](https://mianstack.com/question/q-18848)
 - [Q-19846 为什么 nvidia-smi 与 PyTorch 显示的显存占用不同？](../questions/Q-19846.md) · [在线阅读](https://mianstack.com/question/q-19846)
 - [Q-19847 模型运行中为什么会产生显存碎片？](../questions/Q-19847.md) · [在线阅读](https://mianstack.com/question/q-19847)
+- [Q-20052 多机大模型训练被慢 GPU 节点拖累时，如何定位并设计硬件监控采集？](../questions/Q-20052.md) · [在线阅读](https://mianstack.com/question/q-20052)
 - [Q-2018 模型效果不好时，如何判断问题来自预训练、后训练还是数据？](../questions/Q-2018.md) · [在线阅读](https://mianstack.com/question/q-2018)
 - [Q-2683 微调时如何判断并缓解过拟合？](../questions/Q-2683.md) · [在线阅读](https://mianstack.com/question/q-2683)
 - [Q-2684 SFT 常用的损失函数是什么，如何选择和计算？](../questions/Q-2684.md) · [在线阅读](https://mianstack.com/question/q-2684)

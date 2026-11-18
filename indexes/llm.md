@@ -6,7 +6,7 @@
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。
 
-共 1,547 道题，分为 8 个专题。
+共 1,549 道题，分为 8 个专题。
 
 ## 页内导航
 
@@ -470,6 +470,7 @@
 - [Q-18786 板端模型推理慢时，怎样区分算力与内存带宽瓶颈并减少搬运？](../questions/Q-18786.md) · [在线阅读](https://mianstack.com/question/q-18786)
 - [Q-19055 你在项目中怎样使用 vLLM，做过哪些落地或优化实践？](../questions/Q-19055.md) · [在线阅读](https://mianstack.com/question/q-19055)
 - [Q-19111 大模型推理中怎样裁剪词表，规则与效果如何验证？](../questions/Q-19111.md) · [在线阅读](https://mianstack.com/question/q-19111)
+- [Q-19973 项目所用芯片的算力是多少，是否集成 NPU？](../questions/Q-19973.md) · [在线阅读](https://mianstack.com/question/q-19973)
 - [Q-2153 大模型如何逐步生成 Token？](../questions/Q-2153.md) · [在线阅读](https://mianstack.com/question/q-2153)
 - [Q-2176 模型的 Prompt Cache 如何工作？](../questions/Q-2176.md) · [在线阅读](https://mianstack.com/question/q-2176)
 - [Q-2465 Lost in the Middle 现象是什么原理？](../questions/Q-2465.md) · [在线阅读](https://mianstack.com/question/q-2465)
@@ -1140,6 +1141,7 @@
 - [Q-19194 能否直接把 Top-100 命中率作为召回模型的训练损失，为什么？](../questions/Q-19194.md) · [在线阅读](https://mianstack.com/question/q-19194)
 - [Q-19196 只允许修改损失函数时，怎样重新设计目标以提升整体召回效果？](../questions/Q-19196.md) · [在线阅读](https://mianstack.com/question/q-19196)
 - [Q-19198 离线推理回流的用户数据怎样处理并用于迭代优化？](../questions/Q-19198.md) · [在线阅读](https://mianstack.com/question/q-19198)
+- [Q-20261 最终目标是 GMV 而非检索有效率时，应该怎样重新设计搜索项目？](../questions/Q-20261.md) · [在线阅读](https://mianstack.com/question/q-20261)
 - [Q-2679 K-Means 等聚类方法如何工作，能否保证全局最优？](../questions/Q-2679.md) · [在线阅读](https://mianstack.com/question/q-2679)
 - [Q-2722 如何识别广告作弊用户和流量主，选择难以伪造的特征？](../questions/Q-2722.md) · [在线阅读](https://mianstack.com/question/q-2722)
 - [Q-2723 如何用位置、WiFi 和关联信息建立广告作弊团伙模型？](../questions/Q-2723.md) · [在线阅读](https://mianstack.com/question/q-2723)

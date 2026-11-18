@@ -6,7 +6,7 @@
 
 项目表达、个人贡献、协作、成长、职业选择、行为面与候选人反问。
 
-共 1,306 道题，分为 9 个专题。
+共 1,330 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -219,6 +219,8 @@
 - [Q-1943 项目是如何完成的，是否完全从零开发或基于开源项目？](../questions/Q-1943.md) · [在线阅读](https://mianstack.com/question/q-1943) · **已有答案**
 - [Q-19509 项目最终以什么形式交付，怎样接入使用方并完成交接？](../questions/Q-19509.md) · [在线阅读](https://mianstack.com/question/q-19509)
 - [Q-1996 用户可以查询哪些信息，最常提出哪些问题？](../questions/Q-1996.md) · [在线阅读](https://mianstack.com/question/q-1996)
+- [Q-19972 给定一个前后端一起实现的功能，你预计需要多长时间？](../questions/Q-19972.md) · [在线阅读](https://mianstack.com/question/q-19972)
+- [Q-20222 项目中的积分计算规则由业务人员提供，还是由你设计？](../questions/Q-20222.md) · [在线阅读](https://mianstack.com/question/q-20222)
 - [Q-2099 之前在哪些公司实习过？](../questions/Q-2099.md) · [在线阅读](https://mianstack.com/question/q-2099)
 - [Q-2210 这段实习何时开始，为什么简历只记录约三个月？](../questions/Q-2210.md) · [在线阅读](https://mianstack.com/question/q-2210)
 - [Q-2229 为什么在同一段实习中经历了两个部门？](../questions/Q-2229.md) · [在线阅读](https://mianstack.com/question/q-2229)
@@ -306,6 +308,7 @@
 - [Q-18967 哪一项实习工作最令你满意，为什么？](../questions/Q-18967.md) · [在线阅读](https://mianstack.com/question/q-18967)
 - [Q-19292 模型已有较成熟的提取能力，智能总结项目的工程复杂性在哪里？](../questions/Q-19292.md) · [在线阅读](https://mianstack.com/question/q-19292)
 - [Q-1942 你的项目与成熟产品相比有哪些差距？](../questions/Q-1942.md) · [在线阅读](https://mianstack.com/question/q-1942)
+- [Q-19978 智能总结项目针对哪些细分业务场景做过优化？](../questions/Q-19978.md) · [在线阅读](https://mianstack.com/question/q-19978)
 - [Q-2656 实现 MyRPC Demo 学到哪些新知识，对后续开发有何帮助？](../questions/Q-2656.md) · [在线阅读](https://mianstack.com/question/q-2656)
 - [Q-2783 学习或工作中最有成就的事情是什么？](../questions/Q-2783.md) · [在线阅读](https://mianstack.com/question/q-2783)
 - [Q-3062 近两年遇到最大的困难是什么？](../questions/Q-3062.md) · [在线阅读](https://mianstack.com/question/q-3062)
@@ -435,7 +438,18 @@
 - [Q-19028 AI Native 研发流程会怎样改变团队分工和组织结构？](../questions/Q-19028.md) · [在线阅读](https://mianstack.com/question/q-19028)
 - [Q-19280 请介绍实习体系中的 AI 产品、模块与升级规划。](../questions/Q-19280.md) · [在线阅读](https://mianstack.com/question/q-19280)
 - [Q-19503 购物贷与现金贷在资金用途和业务流程上有什么区别？](../questions/Q-19503.md) · [在线阅读](https://mianstack.com/question/q-19503)
+- [Q-19907 在 AI 时代，你怎样理解 DevOps 的价值与变化？](../questions/Q-19907.md) · [在线阅读](https://mianstack.com/question/q-19907)
 - [Q-2002 如何看待新一轮 AI 技术革命及未来发展？](../questions/Q-2002.md) · [在线阅读](https://mianstack.com/question/q-2002)
+- [Q-20061 你怎样理解 AI 应用开发工程师的职责？](../questions/Q-20061.md) · [在线阅读](https://mianstack.com/question/q-20061)
+- [Q-20070 AI 参与研发后，代码应该主要面向人还是 AI 阅读？](../questions/Q-20070.md) · [在线阅读](https://mianstack.com/question/q-20070)
+- [Q-20196 为什么 AI 可能更容易改变 PC Web 前端开发，而不是后端开发？](../questions/Q-20196.md) · [在线阅读](https://mianstack.com/question/q-20196)
+- [Q-20273 怎样判断客户需求可以通过配置实现，还是需要进入开发需求流程？](../questions/Q-20273.md) · [在线阅读](https://mianstack.com/question/q-20273)
+- [Q-20302 广告投放从准备到复盘通常经过哪些步骤？](../questions/Q-20302.md) · [在线阅读](https://mianstack.com/question/q-20302)
+- [Q-20303 海外与国内产品的广告投放有哪些差异？](../questions/Q-20303.md) · [在线阅读](https://mianstack.com/question/q-20303)
+- [Q-20304 负责素材或达人采购时，怎样确定预算并分层分配？](../questions/Q-20304.md) · [在线阅读](https://mianstack.com/question/q-20304)
+- [Q-20305 拿到广告素材后，怎样决定初始投放预算？](../questions/Q-20305.md) · [在线阅读](https://mianstack.com/question/q-20305)
+- [Q-20307 你怎样筛选合作达人，主要考虑哪些维度？](../questions/Q-20307.md) · [在线阅读](https://mianstack.com/question/q-20307)
+- [Q-20308 拿到投放素材后，你通常怎样处理并推进使用？](../questions/Q-20308.md) · [在线阅读](https://mianstack.com/question/q-20308)
 - [Q-2159 传统后端与 Agent 开发哪个难度更高，为什么？](../questions/Q-2159.md) · [在线阅读](https://mianstack.com/question/q-2159)
 - [Q-2161 如何判断哪些需求值得做、哪些不值得做？](../questions/Q-2161.md) · [在线阅读](https://mianstack.com/question/q-2161)
 - [Q-2396 如何看待 FDE 的职责？](../questions/Q-2396.md) · [在线阅读](https://mianstack.com/question/q-2396)
@@ -564,6 +578,8 @@
 - [Q-1876 实习中的数据中台是什么量级？](../questions/Q-1876.md) · [在线阅读](https://mianstack.com/question/q-1876)
 - [Q-19281 你发布的开源工具有多少关注度和 Star？](../questions/Q-19281.md) · [在线阅读](https://mianstack.com/question/q-19281)
 - [Q-19290 项目报告的纠正前数据来自旧方案，还是自己的初版测试？](../questions/Q-19290.md) · [在线阅读](https://mianstack.com/question/q-19290)
+- [Q-20058 项目在设计阶段明确了哪些性能指标要求？](../questions/Q-20058.md) · [在线阅读](https://mianstack.com/question/q-20058)
+- [Q-20325 项目是否收集过用户评价，主要反馈是什么？](../questions/Q-20325.md) · [在线阅读](https://mianstack.com/question/q-20325)
 - [Q-2305 项目面向哪些用户，QPS 等指标是多少？](../questions/Q-2305.md) · [在线阅读](https://mianstack.com/question/q-2305)
 - [Q-2412 你如何优化项目产出？](../questions/Q-2412.md) · [在线阅读](https://mianstack.com/question/q-2412)
 - [Q-2991 能否现场投屏展示项目实际效果？](../questions/Q-2991.md) · [在线阅读](https://mianstack.com/question/q-2991)
@@ -668,6 +684,8 @@
 - [Q-19068 导师的经验判断与项目事实不符时，你会怎样沟通？](../questions/Q-19068.md) · [在线阅读](https://mianstack.com/question/q-19068)
 - [Q-19161 前端升级方案被后端拒绝时，怎样用验证与协调继续推动？](../questions/Q-19161.md) · [在线阅读](https://mianstack.com/question/q-19161)
 - [Q-19510 怎样向非技术听众解释自己的技术工作及其价值？](../questions/Q-19510.md) · [在线阅读](https://mianstack.com/question/q-19510)
+- [Q-20068 Code Review 竞品评测和开源选型应该由谁负责，研发应参与到什么程度？](../questions/Q-20068.md) · [在线阅读](https://mianstack.com/question/q-20068)
+- [Q-20306 采购合作中你怎样议价，如何判断谈判结果是否合适？](../questions/Q-20306.md) · [在线阅读](https://mianstack.com/question/q-20306)
 - [Q-2393 如何与用户沟通需求与问题？](../questions/Q-2393.md) · [在线阅读](https://mianstack.com/question/q-2393)
 - [Q-2482 平时如何沟通需求，遇到困难怎样解决？](../questions/Q-2482.md) · [在线阅读](https://mianstack.com/question/q-2482)
 - [Q-2587 团队的规模和组织形式是什么？](../questions/Q-2587.md) · [在线阅读](https://mianstack.com/question/q-2587)
@@ -856,6 +874,8 @@
 - [Q-19171 个人博客的搭建时间与最早文章时间不同，怎样解释内容迁移和写作经历？](../questions/Q-19171.md) · [在线阅读](https://mianstack.com/question/q-19171)
 - [Q-19283 你是否帮助非研发同学学习 AI，做过哪些分享？](../questions/Q-19283.md) · [在线阅读](https://mianstack.com/question/q-19283)
 - [Q-19302 你什么时候开始做技术博客，为什么选择做这个项目？](../questions/Q-19302.md) · [在线阅读](https://mianstack.com/question/q-19302)
+- [Q-20255 新人进入工作岗位后应该怎样成长？](../questions/Q-20255.md) · [在线阅读](https://mianstack.com/question/q-20255)
+- [Q-20270 平时查技术资料时，主要阅读中文文档还是英文文档？](../questions/Q-20270.md) · [在线阅读](https://mianstack.com/question/q-20270)
 - [Q-2098 你的全栈开发更侧重哪些方面？](../questions/Q-2098.md) · [在线阅读](https://mianstack.com/question/q-2098)
 - [Q-2104 从服务端转全栈最大的困难是什么？](../questions/Q-2104.md) · [在线阅读](https://mianstack.com/question/q-2104)
 - [Q-2110 最近在学习哪一项技术？](../questions/Q-2110.md) · [在线阅读](https://mianstack.com/question/q-2110)
@@ -1083,6 +1103,8 @@
 - [Q-19311 全职岗位先实习三个月、通过后再签三方，这样的流程能接受吗？](../questions/Q-19311.md) · [在线阅读](https://mianstack.com/question/q-19311)
 - [Q-1963 你目前在哪里实习？](../questions/Q-1963.md) · [在线阅读](https://mianstack.com/question/q-1963)
 - [Q-2017 为什么申请本岗位，目前还有哪些 Offer 或求职选项？](../questions/Q-2017.md) · [在线阅读](https://mianstack.com/question/q-2017)
+- [Q-20230 你能否到公司线下实习？](../questions/Q-20230.md) · [在线阅读](https://mianstack.com/question/q-20230)
+- [Q-20301 主要负责国内广告投放、兼顾少量海外投放，你能接受吗？](../questions/Q-20301.md) · [在线阅读](https://mianstack.com/question/q-20301)
 - [Q-2256 研究方向与求职方向不同，为什么转向 Agent 开发？](../questions/Q-2256.md) · [在线阅读](https://mianstack.com/question/q-2256)
 - [Q-2297 从互联网大厂跳槽后，是否会不习惯新的工作环境？](../questions/Q-2297.md) · [在线阅读](https://mianstack.com/question/q-2297)
 - [Q-2314 通勤情况如何？](../questions/Q-2314.md) · [在线阅读](https://mianstack.com/question/q-2314)
@@ -1303,6 +1325,8 @@
 - [Q-19081 如何向面试官请教读研与职业发展的选择建议？](../questions/Q-19081.md) · [在线阅读](https://mianstack.com/question/q-19081)
 - [Q-19087 团队会在哪些音视频能力上自研或做深度定制？](../questions/Q-19087.md) · [在线阅读](https://mianstack.com/question/q-19087)
 - [Q-1997 如何向面试官请教 AI 应用开发能力的提升建议？](../questions/Q-1997.md) · [在线阅读](https://mianstack.com/question/q-1997)
+- [Q-20140 团队如何看待 Mem0 这类记忆方案？](../questions/Q-20140.md) · [在线阅读](https://mianstack.com/question/q-20140)
+- [Q-20206 你怎样看待目前前端岗位的招聘行情？](../questions/Q-20206.md) · [在线阅读](https://mianstack.com/question/q-20206)
 - [Q-2038 这个岗位最看重候选人的哪些能力？](../questions/Q-2038.md) · [在线阅读](https://mianstack.com/question/q-2038) · **已有答案**
 - [Q-2066 为什么自己获得面试机会，而背景相同且实习更多的同学简历被筛掉？](../questions/Q-2066.md) · [在线阅读](https://mianstack.com/question/q-2066)
 - [Q-2109 面对同类多 Agent 协作平台，公司产品的优势是什么？](../questions/Q-2109.md) · [在线阅读](https://mianstack.com/question/q-2109)

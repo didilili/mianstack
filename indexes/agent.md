@@ -6,7 +6,7 @@
 
 运行循环、规划、上下文、记忆、工具协议、工作流与多 Agent。
 
-共 1,672 道题，分为 12 个专题。
+共 1,680 道题，分为 12 个专题。
 
 ## 页内导航
 
@@ -286,6 +286,8 @@
 - [Q-2000 如何建设新一代 AI 原生平台？](../questions/Q-2000.md) · [在线阅读](https://mianstack.com/question/q-2000)
 - [Q-2001 你对运筹学 Agent 有哪些了解？](../questions/Q-2001.md) · [在线阅读](https://mianstack.com/question/q-2001)
 - [Q-2016 Agent 自进化如何实现，有哪些技术细节？](../questions/Q-2016.md) · [在线阅读](https://mianstack.com/question/q-2016) · **已有答案**
+- [Q-20228 业务 Agent 在哪些场景使用沙箱，哪些代码或任务会放入其中执行？](../questions/Q-20228.md) · [在线阅读](https://mianstack.com/question/q-20228)
+- [Q-20253 怎样用 AI Agent 采集游戏全量信息，并识别到英雄、技能与伤害等细粒度字段？](../questions/Q-20253.md) · [在线阅读](https://mianstack.com/question/q-20253)
 - [Q-2070 你对 OpenCode 有哪些了解？](../questions/Q-2070.md) · [在线阅读](https://mianstack.com/question/q-2070)
 - [Q-2078 设计一个每天定时查天气的 Agent 框架。](../questions/Q-2078.md) · [在线阅读](https://mianstack.com/question/q-2078)
 - [Q-2134 Claude Code 与 OpenCode 最大的区别是什么？](../questions/Q-2134.md) · [在线阅读](https://mianstack.com/question/q-2134)
@@ -476,6 +478,7 @@
 - [Q-18266 Agent 重规划需要什么上限，连续规划失败后怎样处理？](../questions/Q-18266.md) · [在线阅读](https://mianstack.com/question/q-18266)
 - [Q-18501 故障诊断 Agent 怎样确定排查方向，并在早期检索走偏时纠正？](../questions/Q-18501.md) · [在线阅读](https://mianstack.com/question/q-18501)
 - [Q-18804 Agent 执行路径反复或重复尝试时，怎样定位并减少路径震荡？](../questions/Q-18804.md) · [在线阅读](https://mianstack.com/question/q-18804)
+- [Q-19979 如何识别岗位并将任务路由到不同的业务场景？](../questions/Q-19979.md) · [在线阅读](https://mianstack.com/question/q-19979)
 - [Q-2039 Goal 在长程任务推进中如何防止 Agent 行为漂移？](../questions/Q-2039.md) · [在线阅读](https://mianstack.com/question/q-2039) · **已有答案**
 - [Q-2050 项目中的 Agent 执行模式如何路由？](../questions/Q-2050.md) · [在线阅读](https://mianstack.com/question/q-2050)
 - [Q-2082 每个 Agent 是独立进程，还是共享同一片内存？](../questions/Q-2082.md) · [在线阅读](https://mianstack.com/question/q-2082)
@@ -747,6 +750,7 @@
 - [Q-18842 长期记忆越来越多导致检索不准确时，怎样优化？](../questions/Q-18842.md) · [在线阅读](https://mianstack.com/question/q-18842)
 - [Q-1887 Claude Code 如何管理记忆？](../questions/Q-1887.md) · [在线阅读](https://mianstack.com/question/q-1887)
 - [Q-1907 如何对记忆进行分类、索引和召回？](../questions/Q-1907.md) · [在线阅读](https://mianstack.com/question/q-1907) · **已有答案**
+- [Q-19912 现场调研成熟 Agent 产品的记忆机制，并说明实现依据。](../questions/Q-19912.md) · [在线阅读](https://mianstack.com/question/q-19912)
 - [Q-2007 Agent Memory 是什么？](../questions/Q-2007.md) · [在线阅读](https://mianstack.com/question/q-2007) · **已有答案**
 - [Q-2255 用户偏好如何处理和存储，为什么异步处理？](../questions/Q-2255.md) · [在线阅读](https://mianstack.com/question/q-2255)
 - [Q-2275 为什么用 Markdown 管理记忆，相比 RAG 有哪些考量？](../questions/Q-2275.md) · [在线阅读](https://mianstack.com/question/q-2275)
@@ -917,6 +921,7 @@
 - [Q-1909 工具如何分类？](../questions/Q-1909.md) · [在线阅读](https://mianstack.com/question/q-1909)
 - [Q-1913 如果跳过的超时工具是自己提供的工具，会有什么影响？](../questions/Q-1913.md) · [在线阅读](https://mianstack.com/question/q-1913)
 - [Q-19335 MCP 与 Function Calling 的工具 Schema 何时发送给模型，每轮对话都需要发送吗？](../questions/Q-19335.md) · [在线阅读](https://mianstack.com/question/q-19335)
+- [Q-20271 项目中的命令由你手动执行，还是接入 AI 或 Agent 执行？](../questions/Q-20271.md) · [在线阅读](https://mianstack.com/question/q-20271)
 - [Q-2089 Agent 异步并发工具调用时，如何匹配乱序请求与响应？](../questions/Q-2089.md) · [在线阅读](https://mianstack.com/question/q-2089)
 - [Q-2090 并行工具结果什么时候需要排序，什么时候不需要，踩过哪些坑？](../questions/Q-2090.md) · [在线阅读](https://mianstack.com/question/q-2090)
 - [Q-2091 批量并行调用时如何确认任务全部返回，单工具超时不响应怎样容错？](../questions/Q-2091.md) · [在线阅读](https://mianstack.com/question/q-2091)
@@ -1257,7 +1262,9 @@
 - [Q-19104 你使用 Agent 自主编排过哪些完整任务流程？](../questions/Q-19104.md) · [在线阅读](https://mianstack.com/question/q-19104)
 - [Q-19294 智能总结工作流基于什么平台，如何组织入口与意图路由？](../questions/Q-19294.md) · [在线阅读](https://mianstack.com/question/q-19294)
 - [Q-19508 工作流引擎应抽象哪些基础数据模型，它们怎样关联定义与执行实例？](../questions/Q-19508.md) · [在线阅读](https://mianstack.com/question/q-19508)
+- [Q-19904 Agent 运行时 State 与 Redis 中用于恢复的状态怎样同步？](../questions/Q-19904.md) · [在线阅读](https://mianstack.com/question/q-19904)
 - [Q-1999 Agent Runtime 的重试层有哪些实现细节？](../questions/Q-1999.md) · [在线阅读](https://mianstack.com/question/q-1999)
+- [Q-20227 为什么 Agent 会反复犯同样的错误，怎样减少重复出错？](../questions/Q-20227.md) · [在线阅读](https://mianstack.com/question/q-20227)
 - [Q-2132 Agent 状态机如何管理？](../questions/Q-2132.md) · [在线阅读](https://mianstack.com/question/q-2132)
 - [Q-2140 项目为什么选单 Agent、多 Agent 或 Workflow，和其他方案相比有何优势？](../questions/Q-2140.md) · [在线阅读](https://mianstack.com/question/q-2140) · **已有答案**
 - [Q-2182 SessionMessage 保存哪些内容，是否需要持久化？](../questions/Q-2182.md) · [在线阅读](https://mianstack.com/question/q-2182)
@@ -1398,6 +1405,7 @@
 - [Q-1919 LangGraph 有哪些优缺点，从快速 Demo 到生产需要怎样改造？](../questions/Q-1919.md) · [在线阅读](https://mianstack.com/question/q-1919)
 - [Q-19332 采用多 Agent 的原因是什么，与早期相比有何变化？](../questions/Q-19332.md) · [在线阅读](https://mianstack.com/question/q-19332)
 - [Q-19333 Claude Code、Codex、OpenClaw 与 Hermes Agent 的多 Agent 协作机制有哪些差异？](../questions/Q-19333.md) · [在线阅读](https://mianstack.com/question/q-19333)
+- [Q-19905 你是否使用过 Sub-Agent？](../questions/Q-19905.md) · [在线阅读](https://mianstack.com/question/q-19905)
 - [Q-2034 多 Agent 之间如何通信？](../questions/Q-2034.md) · [在线阅读](https://mianstack.com/question/q-2034) · **已有答案**
 - [Q-2073 每个人在本地使用时，什么运行环境串联和调度多个 Agent？](../questions/Q-2073.md) · [在线阅读](https://mianstack.com/question/q-2073)
 - [Q-2074 多 Agent 交互采用串行还是主 Agent 调度子 Agent，如何选择？](../questions/Q-2074.md) · [在线阅读](https://mianstack.com/question/q-2074)
