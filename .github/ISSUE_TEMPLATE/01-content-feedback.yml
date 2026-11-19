@@ -1,7 +1,12 @@
 name: 内容纠错与补充
-description: 题目或答案有误、面经信息不准确，或想补充新题和答案
+description: 题目、答案或面经信息有误，或想补充内容。
 title: "[内容反馈] "
 body:
+  - type: markdown
+    attributes:
+      value: |
+        指出一处问题，或补充你熟悉的内容即可。
+
   - type: textarea
     id: context
     attributes:
@@ -21,7 +26,7 @@ body:
     id: problem
     attributes:
       label: 哪里有问题，或想补充什么？
-      description: 可以只指出问题，也可以写下建议补充的题目或答案，不必准备完整修改方案。
+      description: 可以只指出问题，也可以写下建议补充的题目或答案。
     validations:
       required: true
 

@@ -1,37 +1,35 @@
-name: 反馈网站问题
-description: 搜索、筛选、收藏、复习或页面显示出现问题
-title: "[网站问题] "
+name: 网站问题与建议
+description: 使用遇到了问题，或希望某项功能更方便。
+title: "[网站反馈] "
 body:
-  - type: textarea
-    id: page
+  - type: markdown
     attributes:
-      label: 出问题的页面链接
-      description: 请复制出问题时地址栏里的完整链接，搜索词和筛选条件请一起保留。
-    validations:
-      required: true
+      value: |
+        搜索、筛选、收藏、复习、页面显示等使用问题，以及功能建议，都可以在这里提出。不必先判断是不是 Bug。
+        题目、答案或面经内容有误，请使用[内容纠错与补充](https://github.com/didilili/mianstack/issues/new?template=01-content-feedback.yml)。
 
   - type: textarea
     id: problem
     attributes:
-      label: 发生了什么问题？
-      description: 请说说你做了什么、原本希望怎样，以及实际发生了什么。
-      placeholder: |
-        我做了什么：
-
-        原本希望：
-
-        实际发生：
+      label: 遇到了什么问题，或有什么建议？
+      description: 说明操作过程、实际结果，或你希望改进的地方。
     validations:
       required: true
+
+  - type: textarea
+    id: page
+    attributes:
+      label: 相关页面（可选）
+      description: 贴相关页面链接；搜索或筛选问题请保留当时的条件。
 
   - type: textarea
     id: environment
     attributes:
       label: 设备和浏览器（可选）
-      description: 比如“iPhone + Safari”或“电脑 + Chrome”。收藏或复习问题也可说明刷新后记录是否还在、是否换过浏览器或清理过网站数据。
+      description: 例如 iPhone + Safari、Windows + Chrome。
 
   - type: textarea
     id: details
     attributes:
-      label: 补充信息（可选）
-      description: 可以补充截图或页面上的提示文字。
+      label: 截图或其他补充（可选）
+      description: 附上截图或页面提示文字。

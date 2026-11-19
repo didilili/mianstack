@@ -110,18 +110,17 @@ AI 编程、Vibe Coding、Agent / RAG 项目、面试经验，都可以来聊；
 
 ## 🤝 一起共创，把下一道好题补进来
 
-欢迎分享自己的面试经历、补充参考答案，或指出技术与来源中的错误。**发个 Issue 就能参与，不用安装项目。**
+欢迎分享自己的面试经历、补充参考答案，或指出技术与来源中的错误。**发个 Issue 就能参与~**
 
-- **[内容纠错与补充](https://github.com/didilili/mianstack/issues/new?template=01-content-feedback.yml)**：题目或答案有误、面经信息不准确，或想补充新题和答案。
-- **[分享面试经历](https://github.com/didilili/mianstack/issues/new?template=02-interview-submission.yml)**：贴一个公开面经链接，或写下自己的面试经历和问题。
-- **[推荐面试题集](https://github.com/didilili/mianstack/issues/new?template=03-collection-recommendation.yml)**：发现值得收录的题单、题集或开源题库，贴个原始链接就能推荐。
-- **[反馈网站问题](https://github.com/didilili/mianstack/issues/new?template=04-website-problem.yml)**：搜索、筛选、收藏、复习或页面显示出现问题。
+- **[内容纠错与补充](https://github.com/didilili/mianstack/issues/new?template=01-content-feedback.yml)**：题目、答案或面经信息有误，或想补充内容。
+- **[分享面经或题集](https://github.com/didilili/mianstack/issues/new?template=02-interview-submission.yml)**：贴一个值得收录的链接，或写下自己的面试经历。
+- **[网站问题与建议](https://github.com/didilili/mianstack/issues/new?template=04-website-problem.yml)**：使用遇到了问题，或希望某项功能更方便。
 
 具体方式见 **[贡献指南](CONTRIBUTING.md)**。
 
 <a id="contributors"></a>
 
-## 💛 贡献者，这一栈有你更强
+## 💛 共创者，这一栈有你更强
 
 感谢每一位分享面经、完善答案、纠正错误和改进体验的朋友。**让我们携手共创，共创全网最有价值的面试题库。**
 

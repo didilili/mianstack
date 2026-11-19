@@ -1,18 +1,22 @@
-name: 分享面试经历
-description: 贴一个公开面经链接，或写下自己的面试经历和问题
-title: "[面经分享] "
+name: 分享面经或题集
+description: 贴一个值得收录的链接，或写下自己的面试经历。
+title: "[内容分享] "
 body:
+  - type: markdown
+    attributes:
+      value: |
+        面经、题单、题集或开源题库都欢迎。已有公开原帖，贴链接即可，不必再抄正文；没有链接，也可以直接写自己的面试经历。
+
   - type: textarea
     id: details
     attributes:
-      label: 面经链接或面试经历
-      description: 已有公开原帖，直接贴链接即可；没有原帖，写下记得的面试问题。时间、轮次、结果等知道的话可以补充，不必每项都填。涉及个人隐私的内容请先隐去。
+      label: 链接或内容
+      description: 贴原始链接，或写下面试问题。公司、岗位、时间、轮次等信息可一起补充。
       placeholder: |
-        公开原帖链接：
-
+        面经、题集或仓库链接：
         或者直接写面试经历：
         公司／岗位：
-        面试问题与追问（尽量保留原问和必要上下文）：
+        面试问题与追问：
         1.
         2.
     validations:
@@ -22,4 +26,4 @@ body:
     id: attribution
     attributes:
       label: 署名或来源说明（可选）
-      description: 本人投稿可说明希望使用的署名；推荐他人的面经时，可补充原作者和出处。请区分原文与你补充的回答。
+      description: 本人投稿可说明希望使用的站内署名；推荐他人的内容时，请补充原作者和出处。
