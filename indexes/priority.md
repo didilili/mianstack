@@ -61,8 +61,8 @@
 - [Q-0059 Agent 效果不达预期时，如何分析 Bad Case 并确定优化方向？](../questions/Q-0059.md) · [在线阅读](https://mianstack.com/question/q-0059) · **已有答案**
 - [Q-0143 如何发现、定位并处理大模型 API 调用失败？](../questions/Q-0143.md) · [在线阅读](https://mianstack.com/question/q-0143) · **已有答案**
 - [Q-3694 Agent 如何验证工具确实执行成功，避免产生任务完成幻觉？](../questions/Q-3694.md) · [在线阅读](https://mianstack.com/question/q-3694) · **已有答案**
-- [Q-3707 什么是大模型幻觉？](../questions/Q-3707.md) · [在线阅读](https://mianstack.com/question/q-3707)
-- [Q-3708 大模型为什么会产生幻觉？](../questions/Q-3708.md) · [在线阅读](https://mianstack.com/question/q-3708)
+- [Q-3707 什么是大模型幻觉？](../questions/Q-3707.md) · [在线阅读](https://mianstack.com/question/q-3707) · **已有答案**
+- [Q-3708 大模型为什么会产生幻觉？](../questions/Q-3708.md) · [在线阅读](https://mianstack.com/question/q-3708) · **已有答案**
 - [Q-3976 如何证明 RAG 系统端到端回答效果变好，而不只是召回指标提升？](../questions/Q-3976.md) · [在线阅读](https://mianstack.com/question/q-3976)
 - [Q-3977 模型服务如何权衡响应速度、回答准确性与调用成本？](../questions/Q-3977.md) · [在线阅读](https://mianstack.com/question/q-3977)
 - [Q-4011 如何理解 AI 技术栈，它通常可以划分为哪些模块？](../questions/Q-4011.md) · [在线阅读](https://mianstack.com/question/q-4011)

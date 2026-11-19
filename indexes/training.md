@@ -165,7 +165,7 @@
 - [Q-6841 训练数据为什么需要 Shuffle，什么时候应保留顺序？](../questions/Q-6841.md) · [在线阅读](https://mianstack.com/question/q-6841)
 - [Q-6843 数据采样如何选择均匀、分层和加权等策略？](../questions/Q-6843.md) · [在线阅读](https://mianstack.com/question/q-6843)
 - [Q-7699 MiniOneRec 项目使用多大规模的数据集，数据如何构建？](../questions/Q-7699.md) · [在线阅读](https://mianstack.com/question/q-7699)
-- [Q-7713 如何清洗大模型训练数据并构建训练数据集？](../questions/Q-7713.md) · [在线阅读](https://mianstack.com/question/q-7713)
+- [Q-7713 如何清洗大模型训练数据并构建训练数据集？](../questions/Q-7713.md) · [在线阅读](https://mianstack.com/question/q-7713) · **已有答案**
 - [Q-7947 CoT 推理训练数据集如何构建，怎样结合人工与自动生成？](../questions/Q-7947.md) · [在线阅读](https://mianstack.com/question/q-7947)
 - [Q-8770 算法自动生成的训练数据，如何评估质量？](../questions/Q-8770.md) · [在线阅读](https://mianstack.com/question/q-8770)
 - [Q-8816 项目中的数据集用途和格式是什么，是训练数据还是评判器输入？](../questions/Q-8816.md) · [在线阅读](https://mianstack.com/question/q-8816)
@@ -510,7 +510,7 @@
 - [Q-2686 字段提取任务的奖励函数应如何设计？](../questions/Q-2686.md) · [在线阅读](https://mianstack.com/question/q-2686)
 - [Q-2688 RL 训练初期奖励先降后升时，如何解释和排查？](../questions/Q-2688.md) · [在线阅读](https://mianstack.com/question/q-2688)
 - [Q-2689 强化学习如何选择有效难度的样本并提升复杂任务探索？](../questions/Q-2689.md) · [在线阅读](https://mianstack.com/question/q-2689)
-- [Q-2697 SFT、DPO、PPO 与 GRPO 的目标、机制和适用条件如何比较？](../questions/Q-2697.md) · [在线阅读](https://mianstack.com/question/q-2697)
+- [Q-2697 SFT、DPO、PPO 与 GRPO 的目标、机制和适用条件如何比较？](../questions/Q-2697.md) · [在线阅读](https://mianstack.com/question/q-2697) · **已有答案**
 - [Q-2701 PPO 的 Value Model 或 Critic 起什么作用？](../questions/Q-2701.md) · [在线阅读](https://mianstack.com/question/q-2701)
 - [Q-2702 GRPO 如何估计组内优势？](../questions/Q-2702.md) · [在线阅读](https://mianstack.com/question/q-2702)
 - [Q-2703 轨迹级奖励与 Token 级优化之间如何分配贡献？](../questions/Q-2703.md) · [在线阅读](https://mianstack.com/question/q-2703)
@@ -555,7 +555,7 @@
 - [Q-3547 DPO 与 GRPO 的原理、优缺点和适用场景有何差异？](../questions/Q-3547.md) · [在线阅读](https://mianstack.com/question/q-3547)
 - [Q-3548 如何从算法机制解释 GRPO 的探索能力和训练稳定性？](../questions/Q-3548.md) · [在线阅读](https://mianstack.com/question/q-3548)
 - [Q-3654 强化学习任务的奖励函数如何设计？](../questions/Q-3654.md) · [在线阅读](https://mianstack.com/question/q-3654) · **已有答案**
-- [Q-3661 GSPO 的核心机制是什么，与 GRPO 有什么关系？](../questions/Q-3661.md) · [在线阅读](https://mianstack.com/question/q-3661)
+- [Q-3661 GSPO 的核心机制是什么，与 GRPO 有什么关系？](../questions/Q-3661.md) · [在线阅读](https://mianstack.com/question/q-3661) · **已有答案**
 - [Q-3717 DeepSeek R1 的训练过程有哪些关键步骤？](../questions/Q-3717.md) · [在线阅读](https://mianstack.com/question/q-3717)
 - [Q-3832 团队当前如何在强化学习与 SFT 之间选择和分工？](../questions/Q-3832.md) · [在线阅读](https://mianstack.com/question/q-3832)
 - [Q-4169 GAE 优势函数如何计算，关键参数有什么作用？](../questions/Q-4169.md) · [在线阅读](https://mianstack.com/question/q-4169)
@@ -733,7 +733,7 @@
 
 - [Q-0030 DCU 与 GPU 有什么区别？](../questions/Q-0030.md) · [在线阅读](https://mianstack.com/question/q-0030) · **已有答案**
 - [Q-0031 SIMT 有什么特点，遇到分支会发生什么？](../questions/Q-0031.md) · [在线阅读](https://mianstack.com/question/q-0031)
-- [Q-0032 GPU 的存储层次和计算单元如何组织？](../questions/Q-0032.md) · [在线阅读](https://mianstack.com/question/q-0032)
+- [Q-0032 GPU 的存储层次和计算单元如何组织？](../questions/Q-0032.md) · [在线阅读](https://mianstack.com/question/q-0032) · **已有答案**
 - [Q-0033 DCU 如何把数据传入寄存器，并在芯片上共享？](../questions/Q-0033.md) · [在线阅读](https://mianstack.com/question/q-0033)
 - [Q-0034 大矩阵 GEMM 在 DCU 上如何切分与实现？](../questions/Q-0034.md) · [在线阅读](https://mianstack.com/question/q-0034)
 - [Q-0035 大模型计算中的流水线并行和张量并行如何工作？](../questions/Q-0035.md) · [在线阅读](https://mianstack.com/question/q-0035)

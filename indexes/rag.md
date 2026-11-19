@@ -242,7 +242,7 @@
 - [Q-5535 如何组织文档结构与元数据，提高检索和引用质量？](../questions/Q-5535.md) · [在线阅读](https://mianstack.com/question/q-5535)
 - [Q-7085 RAG 文档如何自动生成并校验元数据标注？](../questions/Q-7085.md) · [在线阅读](https://mianstack.com/question/q-7085)
 - [Q-7086 Spring AI 的 KeywordMetadataEnricher 如何提取并补充关键词元数据？](../questions/Q-7086.md) · [在线阅读](https://mianstack.com/question/q-7086)
-- [Q-7906 RAG 文档切分时，如何避免破坏段落、表格等原有结构？](../questions/Q-7906.md) · [在线阅读](https://mianstack.com/question/q-7906)
+- [Q-7906 RAG 文档切分时，如何避免破坏段落、表格等原有结构？](../questions/Q-7906.md) · [在线阅读](https://mianstack.com/question/q-7906) · **已有答案**
 - [Q-8925 中文文档切分时，应怎样处理长度、标点与中英文混排？](../questions/Q-8925.md) · [在线阅读](https://mianstack.com/question/q-8925)
 - [Q-9578 文档为什么按标题切分，怎样保留章节结构与上下文？](../questions/Q-9578.md) · [在线阅读](https://mianstack.com/question/q-9578)
 
@@ -262,7 +262,7 @@
 - [Q-16184 多模态 Embedding 计算相似度时，如何平衡文本语义与图像特征的权重？](../questions/Q-16184.md) · [在线阅读](https://mianstack.com/question/q-16184)
 - [Q-16339 专业术语出现语义偏移时，如何用 Embedding 微调或 Adapter 改善检索？](../questions/Q-16339.md) · [在线阅读](https://mianstack.com/question/q-16339)
 - [Q-16506 Embedding 的 768、1024 等向量维度有什么差异，为什么选择某个维度？](../questions/Q-16506.md) · [在线阅读](https://mianstack.com/question/q-16506)
-- [Q-1713 Embedding 模型的原理是什么，如何训练？](../questions/Q-1713.md) · [在线阅读](https://mianstack.com/question/q-1713)
+- [Q-1713 Embedding 模型的原理是什么，如何训练？](../questions/Q-1713.md) · [在线阅读](https://mianstack.com/question/q-1713) · **已有答案**
 - [Q-17965 向量检索是什么，如何向初学者解释其基本流程？](../questions/Q-17965.md) · [在线阅读](https://mianstack.com/question/q-17965)
 - [Q-18087 RAG 为什么将问题向量化前置，如何区分单请求复用与全局缓存？](../questions/Q-18087.md) · [在线阅读](https://mianstack.com/question/q-18087)
 - [Q-18230 检索打分为什么使用余弦相似度，而不直接使用生成模型的 Logits？](../questions/Q-18230.md) · [在线阅读](https://mianstack.com/question/q-18230)
@@ -348,7 +348,7 @@
 - [Q-3550 线上高并发、低延迟场景下如何选择向量数据库？](../questions/Q-3550.md) · [在线阅读](https://mianstack.com/question/q-3550)
 - [Q-3584 项目为什么选择 pgvector 而非其他向量库？](../questions/Q-3584.md) · [在线阅读](https://mianstack.com/question/q-3584)
 - [Q-3617 IVF_FLAT 与 HNSW 有什么区别，各适用哪些场景？](../questions/Q-3617.md) · [在线阅读](https://mianstack.com/question/q-3617)
-- [Q-3727 常见的向量索引算法有哪些，如何选择？](../questions/Q-3727.md) · [在线阅读](https://mianstack.com/question/q-3727)
+- [Q-3727 常见的向量索引算法有哪些，如何选择？](../questions/Q-3727.md) · [在线阅读](https://mianstack.com/question/q-3727) · **已有答案**
 - [Q-3743 为什么需要向量数据库？与传统数据库有何区别？](../questions/Q-3743.md) · [在线阅读](https://mianstack.com/question/q-3743)
 - [Q-4073 语义检索为什么选择向量数据库，而不直接使用 Elasticsearch？](../questions/Q-4073.md) · [在线阅读](https://mianstack.com/question/q-4073)
 - [Q-4468 为什么近似最近邻检索可以接受非完全精确的结果？](../questions/Q-4468.md) · [在线阅读](https://mianstack.com/question/q-4468)
@@ -621,7 +621,7 @@
 - [Q-4475 为什么 RAG 优化前应先建立失败样本集？](../questions/Q-4475.md) · [在线阅读](https://mianstack.com/question/q-4475)
 - [Q-4483 MRR、NDCG、Recall@K、Context Precision 和 Faithfulness 分别衡量什么？](../questions/Q-4483.md) · [在线阅读](https://mianstack.com/question/q-4483)
 - [Q-4552 RAG 检索器质量不足会怎样影响生成结果？](../questions/Q-4552.md) · [在线阅读](https://mianstack.com/question/q-4552)
-- [Q-4563 Precision、Recall、MRR、MAP 与 NDCG 有何区别，RAG 评测时如何选用？](../questions/Q-4563.md) · [在线阅读](https://mianstack.com/question/q-4563)
+- [Q-4563 Precision、Recall、MRR、MAP 与 NDCG 有何区别，RAG 评测时如何选用？](../questions/Q-4563.md) · [在线阅读](https://mianstack.com/question/q-4563) · **已有答案**
 - [Q-4571 如何评估并提高 RAG 生成结果的 Faithfulness？](../questions/Q-4571.md) · [在线阅读](https://mianstack.com/question/q-4571)
 - [Q-4573 Response Relevancy 如何衡量回答切题程度，与 Context Relevancy 有何区别？](../questions/Q-4573.md) · [在线阅读](https://mianstack.com/question/q-4573)
 - [Q-4574 Faithfulness 与 Response Relevancy 有什么区别，为什么需要联合评估？](../questions/Q-4574.md) · [在线阅读](https://mianstack.com/question/q-4574)
@@ -662,7 +662,7 @@
 - [Q-18743 公共知识库与用户私有知识库怎样隔离，避免跨库召回污染？](../questions/Q-18743.md) · [在线阅读](https://mianstack.com/question/q-18743)
 - [Q-1911 两个知识库构建任务同时到达发布节点时怎么办？](../questions/Q-1911.md) · [在线阅读](https://mianstack.com/question/q-1911)
 - [Q-1912 一个知识库构建任务失败后，其他并发构建任务如何处理？](../questions/Q-1912.md) · [在线阅读](https://mianstack.com/question/q-1912)
-- [Q-2142 知识库持续更新时，怎样更新向量索引、处理缓存失效并避免召回旧文档？](../questions/Q-2142.md) · [在线阅读](https://mianstack.com/question/q-2142)
+- [Q-2142 知识库持续更新时，怎样更新向量索引、处理缓存失效并避免召回旧文档？](../questions/Q-2142.md) · [在线阅读](https://mianstack.com/question/q-2142) · **已有答案**
 - [Q-2951 RAG 如何同时处理用户权限隔离与文档时效？](../questions/Q-2951.md) · [在线阅读](https://mianstack.com/question/q-2951)
 - [Q-3403 文档局部更新时，如何通过增量索引避免全量重新向量化？](../questions/Q-3403.md) · [在线阅读](https://mianstack.com/question/q-3403)
 - [Q-3747 如何处理知识库中的冲突信息（同一问题有多个矛盾来源）？](../questions/Q-3747.md) · [在线阅读](https://mianstack.com/question/q-3747)
@@ -724,7 +724,7 @@
 - [Q-6180 OCR 识别的 LaTeX 公式为何在 Markdown 中显示异常，如何定位处理？](../questions/Q-6180.md) · [在线阅读](https://mianstack.com/question/q-6180)
 - [Q-7487 如何构建支持图像、视频和音频的多模态 RAG？](../questions/Q-7487.md) · [在线阅读](https://mianstack.com/question/q-7487)
 - [Q-8442 文档中的手写体和印刷体分别如何识别与处理？](../questions/Q-8442.md) · [在线阅读](https://mianstack.com/question/q-8442)
-- [Q-9729 RAG 中文档图片和表格如何解析并保留结构？](../questions/Q-9729.md) · [在线阅读](https://mianstack.com/question/q-9729)
+- [Q-9729 RAG 中文档图片和表格如何解析并保留结构？](../questions/Q-9729.md) · [在线阅读](https://mianstack.com/question/q-9729) · **已有答案**
 
 <a id="topic-12"></a>
 ## 知识图谱与 GraphRAG

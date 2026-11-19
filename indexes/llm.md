@@ -48,7 +48,7 @@
 - [Q-18699 怎样推导 LayerNorm 对梯度消失的影响？](../questions/Q-18699.md) · [在线阅读](https://mianstack.com/question/q-18699)
 - [Q-18733 Self-Attention 的空间复杂度怎样推导？](../questions/Q-18733.md) · [在线阅读](https://mianstack.com/question/q-18733)
 - [Q-2467 交叉注意力如何工作？](../questions/Q-2467.md) · [在线阅读](https://mianstack.com/question/q-2467)
-- [Q-2781 多头注意力机制如何工作？](../questions/Q-2781.md) · [在线阅读](https://mianstack.com/question/q-2781)
+- [Q-2781 多头注意力机制如何工作？](../questions/Q-2781.md) · [在线阅读](https://mianstack.com/question/q-2781) · **已有答案**
 - [Q-2898 多轮 Agent 对话中 Attention 有哪些局限？](../questions/Q-2898.md) · [在线阅读](https://mianstack.com/question/q-2898)
 - [Q-2964 Transformer Decoder 的结构和机制是什么？](../questions/Q-2964.md) · [在线阅读](https://mianstack.com/question/q-2964)
 - [Q-2965 为什么使用多头注意力而不换成单头？](../questions/Q-2965.md) · [在线阅读](https://mianstack.com/question/q-2965)
@@ -77,7 +77,7 @@
 - [Q-4737 手写 Self-Attention。](../questions/Q-4737.md) · [在线阅读](https://mianstack.com/question/q-4737)
 - [Q-4758 手写支持掩码和 KV Cache 的 Multi-Query Attention。](../questions/Q-4758.md) · [在线阅读](https://mianstack.com/question/q-4758)
 - [Q-4760 用 PyTorch 实现 Transformer 的逐位置 FFN。](../questions/Q-4760.md) · [在线阅读](https://mianstack.com/question/q-4760)
-- [Q-4801 Encoder-only、Decoder-only 与 Encoder-Decoder 架构有什么区别？](../questions/Q-4801.md) · [在线阅读](https://mianstack.com/question/q-4801)
+- [Q-4801 Encoder-only、Decoder-only 与 Encoder-Decoder 架构有什么区别？](../questions/Q-4801.md) · [在线阅读](https://mianstack.com/question/q-4801) · **已有答案**
 - [Q-4805 滑动窗口注意力如何工作，有哪些计算与信息保留边界？](../questions/Q-4805.md) · [在线阅读](https://mianstack.com/question/q-4805)
 - [Q-4806 什么是 Attention Sink，它如何影响流式长序列推理？](../questions/Q-4806.md) · [在线阅读](https://mianstack.com/question/q-4806)
 - [Q-4845 手写 Grouped-Query Attention（GQA）。](../questions/Q-4845.md) · [在线阅读](https://mianstack.com/question/q-4845)
@@ -139,7 +139,7 @@
 - [Q-14322 Qwen2 的模型架构和训练方式有哪些特点？](../questions/Q-14322.md) · [在线阅读](https://mianstack.com/question/q-14322)
 - [Q-14648 Qwen3 怎样支持思考与非思考模式切换，还有哪些主要改进？](../questions/Q-14648.md) · [在线阅读](https://mianstack.com/question/q-14648)
 - [Q-14668 除了 Transformer，你还了解哪些神经网络架构？](../questions/Q-14668.md) · [在线阅读](https://mianstack.com/question/q-14668)
-- [Q-1526 大模型底层实现原理是什么？](../questions/Q-1526.md) · [在线阅读](https://mianstack.com/question/q-1526)
+- [Q-1526 大模型底层实现原理是什么？](../questions/Q-1526.md) · [在线阅读](https://mianstack.com/question/q-1526) · **已有答案**
 - [Q-15812 BatchNorm 与 LayerNorm 的原理和适用场景有什么区别？](../questions/Q-15812.md) · [在线阅读](https://mianstack.com/question/q-15812)
 - [Q-15813 深度学习中有哪些常见激活函数，各有什么特点？](../questions/Q-15813.md) · [在线阅读](https://mianstack.com/question/q-15813)
 - [Q-15814 ReLU 的公式、用途和常见问题是什么？](../questions/Q-15814.md) · [在线阅读](https://mianstack.com/question/q-15814)
@@ -295,7 +295,7 @@
 
 - [Q-0287 Token 与字符有什么区别？](../questions/Q-0287.md) · [在线阅读](https://mianstack.com/question/q-0287)
 - [Q-0508 位置编码的原理。](../questions/Q-0508.md) · [在线阅读](https://mianstack.com/question/q-0508) · **已有答案**
-- [Q-0512 大模型常见位置编码有哪些，各有什么优缺点？](../questions/Q-0512.md) · [在线阅读](https://mianstack.com/question/q-0512)
+- [Q-0512 大模型常见位置编码有哪些，各有什么优缺点？](../questions/Q-0512.md) · [在线阅读](https://mianstack.com/question/q-0512) · **已有答案**
 - [Q-11936 如何将大模型的上下文长度从 32K 扩展到 128K？](../questions/Q-11936.md) · [在线阅读](https://mianstack.com/question/q-11936)
 - [Q-13892 Qwen-VL 后续版本对 M-RoPE 做了哪些改进？](../questions/Q-13892.md) · [在线阅读](https://mianstack.com/question/q-13892)
 - [Q-15832 手写多头注意力时，RoPE 应该加在什么位置？](../questions/Q-15832.md) · [在线阅读](https://mianstack.com/question/q-15832)
@@ -480,7 +480,7 @@
 - [Q-2836 模型量化为什么能够发挥作用？](../questions/Q-2836.md) · [在线阅读](https://mianstack.com/question/q-2836)
 - [Q-3533 了解哪些大模型推理框架？](../questions/Q-3533.md) · [在线阅读](https://mianstack.com/question/q-3533)
 - [Q-3534 SGLang 与 vLLM 的机制有何不同，如何比较推理延迟？](../questions/Q-3534.md) · [在线阅读](https://mianstack.com/question/q-3534)
-- [Q-3618 vLLM 的 PagedAttention 如何工作？](../questions/Q-3618.md) · [在线阅读](https://mianstack.com/question/q-3618)
+- [Q-3618 vLLM 的 PagedAttention 如何工作？](../questions/Q-3618.md) · [在线阅读](https://mianstack.com/question/q-3618) · **已有答案**
 - [Q-3649 如何降低多头注意力的计算开销？](../questions/Q-3649.md) · [在线阅读](https://mianstack.com/question/q-3649)
 - [Q-3713 KV Cache 为什么容易造成显存利用率低？](../questions/Q-3713.md) · [在线阅读](https://mianstack.com/question/q-3713)
 - [Q-4108 如何提高大模型 Prefix/KV Cache 的命中率？](../questions/Q-4108.md) · [在线阅读](https://mianstack.com/question/q-4108)
@@ -498,12 +498,12 @@
 - [Q-4617 现代 GPU 上的大模型推理流水线有哪些主要性能瓶颈？](../questions/Q-4617.md) · [在线阅读](https://mianstack.com/question/q-4617)
 - [Q-4684 vLLM 通过哪些机制提高大模型推理效率？](../questions/Q-4684.md) · [在线阅读](https://mianstack.com/question/q-4684)
 - [Q-4685 模型量化后理解能力下降，应如何定位并补偿精度损失？](../questions/Q-4685.md) · [在线阅读](https://mianstack.com/question/q-4685)
-- [Q-4716 什么是 Prefill 与 Decode 分离，为什么要分离部署？](../questions/Q-4716.md) · [在线阅读](https://mianstack.com/question/q-4716)
+- [Q-4716 什么是 Prefill 与 Decode 分离，为什么要分离部署？](../questions/Q-4716.md) · [在线阅读](https://mianstack.com/question/q-4716) · **已有答案**
 - [Q-4717 大模型解码速度为什么经常受显存带宽限制？](../questions/Q-4717.md) · [在线阅读](https://mianstack.com/question/q-4717)
 - [Q-4751 用 Python 和 PyTorch 实现自回归生成的 KV Cache。](../questions/Q-4751.md) · [在线阅读](https://mianstack.com/question/q-4751)
 - [Q-4763 用分块与在线 Softmax 实现简化版 FlashAttention 前向计算。](../questions/Q-4763.md) · [在线阅读](https://mianstack.com/question/q-4763)
 - [Q-4796 大语言模型的上下文窗口为什么有限？](../questions/Q-4796.md) · [在线阅读](https://mianstack.com/question/q-4796)
-- [Q-4802 如何估算 KV Cache 显存，并分析批大小和上下文长度的限制？](../questions/Q-4802.md) · [在线阅读](https://mianstack.com/question/q-4802)
+- [Q-4802 如何估算 KV Cache 显存，并分析批大小和上下文长度的限制？](../questions/Q-4802.md) · [在线阅读](https://mianstack.com/question/q-4802) · **已有答案**
 - [Q-4885 流水线并行推理时，如何减少设备空闲并提高利用率？](../questions/Q-4885.md) · [在线阅读](https://mianstack.com/question/q-4885)
 - [Q-4891 大模型推理时显存持续增加或请求结束后仍被占用，如何解释和排查？](../questions/Q-4891.md) · [在线阅读](https://mianstack.com/question/q-4891)
 - [Q-4892 大模型在 CPU 与 GPU 上的推理速度有何差异，取决于哪些条件？](../questions/Q-4892.md) · [在线阅读](https://mianstack.com/question/q-4892)
@@ -1230,7 +1230,7 @@
 - [Q-5337 如何用 HMM 建模和训练中文分词？](../questions/Q-5337.md) · [在线阅读](https://mianstack.com/question/q-5337)
 - [Q-5338 Prophet 如何分解和预测时间序列，有哪些适用条件？](../questions/Q-5338.md) · [在线阅读](https://mianstack.com/question/q-5338)
 - [Q-5341 如何区分驻点、局部与全局极值和鞍点，并用导数判别？](../questions/Q-5341.md) · [在线阅读](https://mianstack.com/question/q-5341)
-- [Q-5342 分类模型应如何选择和解释 Accuracy、Precision、Recall、F1、ROC 与 AUC？](../questions/Q-5342.md) · [在线阅读](https://mianstack.com/question/q-5342)
+- [Q-5342 分类模型应如何选择和解释 Accuracy、Precision、Recall、F1、ROC 与 AUC？](../questions/Q-5342.md) · [在线阅读](https://mianstack.com/question/q-5342) · **已有答案**
 - [Q-5343 线性回归如何表示、拟合和解释变量关系？](../questions/Q-5343.md) · [在线阅读](https://mianstack.com/question/q-5343)
 - [Q-5344 如何判断和证明正则项的凸性？](../questions/Q-5344.md) · [在线阅读](https://mianstack.com/question/q-5344)
 - [Q-5345 Lasso 与 Elastic Net 的目标是什么，如何用坐标下降求解？](../questions/Q-5345.md) · [在线阅读](https://mianstack.com/question/q-5345)
@@ -1548,7 +1548,7 @@
 - [Q-15850 模型参数量会怎样影响语言模型的能力、推理成本和使用方式？](../questions/Q-15850.md) · [在线阅读](https://mianstack.com/question/q-15850)
 - [Q-1609 动态定价模型 INT8 量化后价格异常，如何归因？](../questions/Q-1609.md) · [在线阅读](https://mianstack.com/question/q-1609)
 - [Q-16249 你如何理解 AI？](../questions/Q-16249.md) · [在线阅读](https://mianstack.com/question/q-16249)
-- [Q-16519 项目中使用哪些大模型，怎样权衡能力、成本和接入条件？](../questions/Q-16519.md) · [在线阅读](https://mianstack.com/question/q-16519)
+- [Q-16519 项目中使用哪些大模型，怎样权衡能力、成本和接入条件？](../questions/Q-16519.md) · [在线阅读](https://mianstack.com/question/q-16519) · **已有答案**
 - [Q-16887 机器学习中的 SOTA 是什么意思，比较模型时需要注意什么？](../questions/Q-16887.md) · [在线阅读](https://mianstack.com/question/q-16887)
 - [Q-1747 Level-K 博弈模块如何与之前的模型串联？](../questions/Q-1747.md) · [在线阅读](https://mianstack.com/question/q-1747)
 - [Q-18417 垂直任务应直接调用大模型还是训练小模型，怎样权衡数据、成本和效果？](../questions/Q-18417.md) · [在线阅读](https://mianstack.com/question/q-18417)
