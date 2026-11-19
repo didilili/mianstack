@@ -6,7 +6,7 @@
 
 数据结构、算法、SQL、工程编码与逻辑推理。
 
-共 825 道题，分为 9 个专题。
+共 826 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -377,6 +377,7 @@
 - [Q-18941 实现树形结构与带父节点标识的扁平列表之间的转换。](../questions/Q-18941.md) · [在线阅读](https://mianstack.com/question/q-18941)
 - [Q-19324 AVL 树怎样保持平衡，适合什么场景，有哪些代价？](../questions/Q-19324.md) · [在线阅读](https://mianstack.com/question/q-19324)
 - [Q-19843 将多叉树转换为二叉树。](../questions/Q-19843.md) · [在线阅读](https://mianstack.com/question/q-19843)
+- [Q-20452 给定课程依赖关系，输出所有无法完成的课程节点。](../questions/Q-20452.md) · [在线阅读](https://mianstack.com/question/q-20452)
 - [Q-2263 求二叉树的最近公共祖先。](../questions/Q-2263.md) · [在线阅读](https://mianstack.com/question/q-2263)
 - [Q-2390 实现二叉树前序遍历。](../questions/Q-2390.md) · [在线阅读](https://mianstack.com/question/q-2390)
 - [Q-2440 说明接雨水 II 的解题思路。](../questions/Q-2440.md) · [在线阅读](https://mianstack.com/question/q-2440)

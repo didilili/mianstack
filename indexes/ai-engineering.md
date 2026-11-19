@@ -6,7 +6,7 @@
 
 Prompt、应用架构、评测、质量、安全、可观测性、性能与交付。
 
-共 1,984 道题，分为 10 个专题。
+共 1,987 道题，分为 10 个专题。
 
 ## 页内导航
 
@@ -539,6 +539,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-20326 Code Review Agent 的效果与同类产品相比处于什么水平？](../questions/Q-20326.md) · [在线阅读](https://mianstack.com/question/q-20326)
 - [Q-2035 如何为 Agent 项目设计测试？](../questions/Q-2035.md) · [在线阅读](https://mianstack.com/question/q-2035) · **已有答案**
 - [Q-2054 能否用 AI 做自动化安全测试，实际落地会遇到什么问题？](../questions/Q-2054.md) · [在线阅读](https://mianstack.com/question/q-2054)
+- [Q-20558 项目中是否使用过 LLM-as-a-Judge？](../questions/Q-20558.md) · [在线阅读](https://mianstack.com/question/q-20558)
 - [Q-2087 如何同时保证 Agent 结果多样性与评估结果的稳定准确？](../questions/Q-2087.md) · [在线阅读](https://mianstack.com/question/q-2087)
 - [Q-2108 同一任务使用两套 Harness 结果差异大时如何定位责任模块，若都不好又如何改进？](../questions/Q-2108.md) · [在线阅读](https://mianstack.com/question/q-2108)
 - [Q-2113 项目评价结果使用什么模型？](../questions/Q-2113.md) · [在线阅读](https://mianstack.com/question/q-2113)
@@ -1634,6 +1635,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-2041 在 AI 时代是否还需要手写代码、理解底层知识？](../questions/Q-2041.md) · [在线阅读](https://mianstack.com/question/q-2041)
 - [Q-2048 如何理解 SDD，以及规格驱动的开发流程？](../questions/Q-2048.md) · [在线阅读](https://mianstack.com/question/q-2048) · **已有答案**
 - [Q-2055 通义千问在医药单据业务中承担哪些工作？](../questions/Q-2055.md) · [在线阅读](https://mianstack.com/question/q-2055)
+- [Q-20553 怎样借助 AI 完成 Windows 软件到 Linux 的版本迁移？](../questions/Q-20553.md) · [在线阅读](https://mianstack.com/question/q-20553)
 - [Q-2077 AI 怎样参与完整研发流程，沉淀了哪些方案？](../questions/Q-2077.md) · [在线阅读](https://mianstack.com/question/q-2077) · **已有答案**
 - [Q-2100 介绍 AI 研发提效与效能体系。](../questions/Q-2100.md) · [在线阅读](https://mianstack.com/question/q-2100) · **已有答案**
 - [Q-2105 给你一个 Agent 和体验不好的客户端或页面，如何完成体验改进？](../questions/Q-2105.md) · [在线阅读](https://mianstack.com/question/q-2105)
@@ -2006,6 +2008,7 @@ Prompt、应用架构、评测、质量、安全、可观测性、性能与交�
 - [Q-20060 智能总结项目输出哪些内容，不同总结之间有什么区别？](../questions/Q-20060.md) · [在线阅读](https://mianstack.com/question/q-20060)
 - [Q-2015 Agent 平台侧展示方案是如何确定的？](../questions/Q-2015.md) · [在线阅读](https://mianstack.com/question/q-2015)
 - [Q-2043 项目功能通用模型或扣子也能实现，你的 Agent 有什么优势？](../questions/Q-2043.md) · [在线阅读](https://mianstack.com/question/q-2043)
+- [Q-20520 AI 可以应用于银行的哪些业务领域？](../questions/Q-20520.md) · [在线阅读](https://mianstack.com/question/q-20520)
 - [Q-2119 值班问答中模型回答是否需要先经过人工处理？](../questions/Q-2119.md) · [在线阅读](https://mianstack.com/question/q-2119)
 - [Q-2162 一个新系统如何让其他人开始使用？](../questions/Q-2162.md) · [在线阅读](https://mianstack.com/question/q-2162)
 - [Q-2409 Agent 平台有哪些竞品？](../questions/Q-2409.md) · [在线阅读](https://mianstack.com/question/q-2409)

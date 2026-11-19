@@ -6,7 +6,7 @@
 
 项目表达、个人贡献、协作、成长、职业选择、行为面与候选人反问。
 
-共 1,330 道题，分为 9 个专题。
+共 1,334 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -686,6 +686,7 @@
 - [Q-19510 怎样向非技术听众解释自己的技术工作及其价值？](../questions/Q-19510.md) · [在线阅读](https://mianstack.com/question/q-19510)
 - [Q-20068 Code Review 竞品评测和开源选型应该由谁负责，研发应参与到什么程度？](../questions/Q-20068.md) · [在线阅读](https://mianstack.com/question/q-20068)
 - [Q-20306 采购合作中你怎样议价，如何判断谈判结果是否合适？](../questions/Q-20306.md) · [在线阅读](https://mianstack.com/question/q-20306)
+- [Q-20555 刚培训完的新员工要带新人团队在两个月内交付项目，自身技术和业务储备不足时怎么办？](../questions/Q-20555.md) · [在线阅读](https://mianstack.com/question/q-20555)
 - [Q-2393 如何与用户沟通需求与问题？](../questions/Q-2393.md) · [在线阅读](https://mianstack.com/question/q-2393)
 - [Q-2482 平时如何沟通需求，遇到困难怎样解决？](../questions/Q-2482.md) · [在线阅读](https://mianstack.com/question/q-2482)
 - [Q-2587 团队的规模和组织形式是什么？](../questions/Q-2587.md) · [在线阅读](https://mianstack.com/question/q-2587)
@@ -876,6 +877,8 @@
 - [Q-19302 你什么时候开始做技术博客，为什么选择做这个项目？](../questions/Q-19302.md) · [在线阅读](https://mianstack.com/question/q-19302)
 - [Q-20255 新人进入工作岗位后应该怎样成长？](../questions/Q-20255.md) · [在线阅读](https://mianstack.com/question/q-20255)
 - [Q-20270 平时查技术资料时，主要阅读中文文档还是英文文档？](../questions/Q-20270.md) · [在线阅读](https://mianstack.com/question/q-20270)
+- [Q-20554 工作一两年与读研做项目，分别带来了哪些不同收获？](../questions/Q-20554.md) · [在线阅读](https://mianstack.com/question/q-20554)
+- [Q-20601 使用 AI 辅助开发时，你对 CSS 基础的掌握程度如何？](../questions/Q-20601.md) · [在线阅读](https://mianstack.com/question/q-20601)
 - [Q-2098 你的全栈开发更侧重哪些方面？](../questions/Q-2098.md) · [在线阅读](https://mianstack.com/question/q-2098)
 - [Q-2104 从服务端转全栈最大的困难是什么？](../questions/Q-2104.md) · [在线阅读](https://mianstack.com/question/q-2104)
 - [Q-2110 最近在学习哪一项技术？](../questions/Q-2110.md) · [在线阅读](https://mianstack.com/question/q-2110)
@@ -1105,6 +1108,7 @@
 - [Q-2017 为什么申请本岗位，目前还有哪些 Offer 或求职选项？](../questions/Q-2017.md) · [在线阅读](https://mianstack.com/question/q-2017)
 - [Q-20230 你能否到公司线下实习？](../questions/Q-20230.md) · [在线阅读](https://mianstack.com/question/q-20230)
 - [Q-20301 主要负责国内广告投放、兼顾少量海外投放，你能接受吗？](../questions/Q-20301.md) · [在线阅读](https://mianstack.com/question/q-20301)
+- [Q-20503 机试摄像头意外关闭一段时间时，怎样向面试官说明情况？](../questions/Q-20503.md) · [在线阅读](https://mianstack.com/question/q-20503)
 - [Q-2256 研究方向与求职方向不同，为什么转向 Agent 开发？](../questions/Q-2256.md) · [在线阅读](https://mianstack.com/question/q-2256)
 - [Q-2297 从互联网大厂跳槽后，是否会不习惯新的工作环境？](../questions/Q-2297.md) · [在线阅读](https://mianstack.com/question/q-2297)
 - [Q-2314 通勤情况如何？](../questions/Q-2314.md) · [在线阅读](https://mianstack.com/question/q-2314)

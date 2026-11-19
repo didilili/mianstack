@@ -6,7 +6,7 @@
 
 语言、框架、前后端、操作系统、网络、存储、并发与分布式系统。
 
-共 4,644 道题，分为 20 个专题。
+共 4,665 道题，分为 20 个专题。
 
 ## 页内导航
 
@@ -344,6 +344,7 @@
 - [Q-19672 使用 Spring 状态机与自行实现状态机相比，有哪些优势和代价？](../questions/Q-19672.md) · [在线阅读](https://mianstack.com/question/q-19672)
 - [Q-19756 RocketMQ 与 LLM 相关工作负载对 GC 的压力有什么不同？](../questions/Q-19756.md) · [在线阅读](https://mianstack.com/question/q-19756)
 - [Q-19758 MyBatis 应用如何适配主从数据源并实现读写路由？](../questions/Q-19758.md) · [在线阅读](https://mianstack.com/question/q-19758)
+- [Q-20522 Java 的 BufferedReader 和 Scanner 有什么区别？](../questions/Q-20522.md) · [在线阅读](https://mianstack.com/question/q-20522)
 - [Q-2361 JVM 垃圾回收过程和核心机制是什么？](../questions/Q-2361.md) · [在线阅读](https://mianstack.com/question/q-2361) · **已有答案**
 - [Q-2428 BeanFactory 与 ApplicationContext 有什么区别？](../questions/Q-2428.md) · [在线阅读](https://mianstack.com/question/q-2428)
 - [Q-2429 ApplicationContext 与 BeanFactory 的接口继承关系是什么，还继承哪些接口？](../questions/Q-2429.md) · [在线阅读](https://mianstack.com/question/q-2429)
@@ -611,6 +612,10 @@
 - [Q-18958 Go 有哪些常用锁，如何使用其 API 保护共享状态？](../questions/Q-18958.md) · [在线阅读](https://mianstack.com/question/q-18958)
 - [Q-19002 你是否遇到过内存泄漏？](../questions/Q-19002.md) · [在线阅读](https://mianstack.com/question/q-19002)
 - [Q-19030 C 语言除了驱动开发，还常用于哪些场景？](../questions/Q-19030.md) · [在线阅读](https://mianstack.com/question/q-19030)
+- [Q-20500 GCC 是什么？](../questions/Q-20500.md) · [在线阅读](https://mianstack.com/question/q-20500)
+- [Q-20501 除了 GCC，还了解哪些编译工具？](../questions/Q-20501.md) · [在线阅读](https://mianstack.com/question/q-20501)
+- [Q-20504 你了解 C++ STL 的哪些基本内容？](../questions/Q-20504.md) · [在线阅读](https://mianstack.com/question/q-20504)
+- [Q-20550 C++ 标准异常不足以表达业务错误时，怎样定义自定义异常并选择基类？](../questions/Q-20550.md) · [在线阅读](https://mianstack.com/question/q-20550)
 - [Q-2332 Go 定时器如何实现？](../questions/Q-2332.md) · [在线阅读](https://mianstack.com/question/q-2332)
 - [Q-2458 Go 的 GMP 调度模型与协程如何工作？](../questions/Q-2458.md) · [在线阅读](https://mianstack.com/question/q-2458) · **已有答案**
 - [Q-2461 是否使用过 C++ 原子计数？](../questions/Q-2461.md) · [在线阅读](https://mianstack.com/question/q-2461)
@@ -1088,6 +1093,13 @@
 - [Q-20205 实现从 URL 的多个查询参数中动态读取指定参数值的函数。](../questions/Q-20205.md) · [在线阅读](https://mianstack.com/question/q-20205)
 - [Q-2024 如何从零搭建一个前端项目？](../questions/Q-2024.md) · [在线阅读](https://mianstack.com/question/q-2024)
 - [Q-2033 如何搭建一个前后端系统？](../questions/Q-2033.md) · [在线阅读](https://mianstack.com/question/q-2033)
+- [Q-20602 CSS 的层叠性是什么，冲突的样式声明怎样确定最终结果？](../questions/Q-20602.md) · [在线阅读](https://mianstack.com/question/q-20602)
+- [Q-20603 父盒子宽 320px，怎样一行放置三个宽 100px 的子元素，并让子元素间距为 10px，且不使用 flex gap？](../questions/Q-20603.md) · [在线阅读](https://mianstack.com/question/q-20603)
+- [Q-20604 实现主题切换时，为什么选择 CSS 变量而不选择 Less 或 Sass？](../questions/Q-20604.md) · [在线阅读](https://mianstack.com/question/q-20604)
+- [Q-20606 多端埋点链路中的 UBC Adapter 抽象了哪些职责，怎样支撑新旧链路双写？](../questions/Q-20606.md) · [在线阅读](https://mianstack.com/question/q-20606)
+- [Q-20607 埋点迁移中的新旧链路双写机制怎样工作？](../questions/Q-20607.md) · [在线阅读](https://mianstack.com/question/q-20607)
+- [Q-20608 新埋点链路未上报时，旧链路是否仍独立上报，怎样保证这一行为？](../questions/Q-20608.md) · [在线阅读](https://mianstack.com/question/q-20608)
+- [Q-20610 React useState 的内部实现原理是什么？](../questions/Q-20610.md) · [在线阅读](https://mianstack.com/question/q-20610)
 - [Q-2106 Vue 数据双向绑定和页面响应更新的底层原理是什么？](../questions/Q-2106.md) · [在线阅读](https://mianstack.com/question/q-2106)
 - [Q-2107 Vue 与 React 有什么区别？](../questions/Q-2107.md) · [在线阅读](https://mianstack.com/question/q-2107)
 - [Q-2326 前端开发者编写后端时应注意哪些问题？](../questions/Q-2326.md) · [在线阅读](https://mianstack.com/question/q-2326)
@@ -1586,7 +1598,9 @@
 - [Q-20208 使用什么命令检查到服务端口的 TCP 连通性？](../questions/Q-20208.md) · [在线阅读](https://mianstack.com/question/q-20208)
 - [Q-20210 怎样在命令行查看一个文件的行数？](../questions/Q-20210.md) · [在线阅读](https://mianstack.com/question/q-20210)
 - [Q-20251 线程间通信与进程间通信有什么区别？](../questions/Q-20251.md) · [在线阅读](https://mianstack.com/question/q-20251)
+- [Q-20450 使用 POSIX 线程开发时，怎样管理线程的生命周期？](../questions/Q-20450.md) · [在线阅读](https://mianstack.com/question/q-20450)
 - [Q-2047 Linux 系统有哪些分类？](../questions/Q-2047.md) · [在线阅读](https://mianstack.com/question/q-2047)
+- [Q-20552 Windows 软件迁移到 Linux、ARM 及国产化环境时，需要处理哪些研发差异？](../questions/Q-20552.md) · [在线阅读](https://mianstack.com/question/q-20552)
 - [Q-2138 内存溢出与内存泄漏有什么区别，如何解决？](../questions/Q-2138.md) · [在线阅读](https://mianstack.com/question/q-2138)
 - [Q-2155 查看机器 CPU 和进程状态常用哪些命令？](../questions/Q-2155.md) · [在线阅读](https://mianstack.com/question/q-2155)
 - [Q-2380 键盘输入字符到应用读取之间发生了什么？](../questions/Q-2380.md) · [在线阅读](https://mianstack.com/question/q-2380)
@@ -2099,6 +2113,7 @@
 - [Q-19901 后端服务与 MySQL 通过什么方式通信？](../questions/Q-19901.md) · [在线阅读](https://mianstack.com/question/q-19901)
 - [Q-20190 父页面与 iframe 子页面中的 window 是同一个对象吗？](../questions/Q-20190.md) · [在线阅读](https://mianstack.com/question/q-20190)
 - [Q-20191 iframe 子页面能否访问父页面的 window，受什么条件限制？](../questions/Q-20191.md) · [在线阅读](https://mianstack.com/question/q-20191)
+- [Q-20605 实习项目中的 FOUC 首屏闪屏由什么引起，怎样修复？](../questions/Q-20605.md) · [在线阅读](https://mianstack.com/question/q-20605)
 - [Q-2139 TCP 如何保证可靠传输，发生丢包时如何处理？](../questions/Q-2139.md) · [在线阅读](https://mianstack.com/question/q-2139) · **已有答案**
 - [Q-2158 访问下游 TCP 服务连接超时时，如何完整排查？](../questions/Q-2158.md) · [在线阅读](https://mianstack.com/question/q-2158)
 - [Q-2434 是否做过 NIO 开发，Reactor 模式如何工作？](../questions/Q-2434.md) · [在线阅读](https://mianstack.com/question/q-2434)
@@ -2674,6 +2689,7 @@
 - [Q-19754 布隆过滤器有哪些实现方案，如何根据业务需求选型？](../questions/Q-19754.md) · [在线阅读](https://mianstack.com/question/q-19754)
 - [Q-19844 项目中的 Redis Proxy 如何实现？](../questions/Q-19844.md) · [在线阅读](https://mianstack.com/question/q-19844)
 - [Q-2009 缓存更新策略有哪些？](../questions/Q-2009.md) · [在线阅读](https://mianstack.com/question/q-2009)
+- [Q-20453 你了解 Redis 的哪些底层实现机制？](../questions/Q-20453.md) · [在线阅读](https://mianstack.com/question/q-20453)
 - [Q-2084 用 Redis 作消息队列时，如何处理宕机导致的消息丢失？](../questions/Q-2084.md) · [在线阅读](https://mianstack.com/question/q-2084) · **已有答案**
 - [Q-2085 Redis 如何处理单点故障与主从故障转移？](../questions/Q-2085.md) · [在线阅读](https://mianstack.com/question/q-2085) · **已有答案**
 - [Q-2086 主节点宕机、从节点升主时，原缓存数据如何迁移？](../questions/Q-2086.md) · [在线阅读](https://mianstack.com/question/q-2086)
@@ -3354,6 +3370,8 @@
 - [Q-1962 几十 GB 文件在禁用 Redis、Kafka 等中间件时，如何分块解析、去重并输出，避免一次性加载到 JVM？](../questions/Q-1962.md) · [在线阅读](https://mianstack.com/question/q-1962)
 - [Q-20199 埋点迁移时，新旧事件的数据结构不同，怎样转换并保持口径一致？](../questions/Q-20199.md) · [在线阅读](https://mianstack.com/question/q-20199)
 - [Q-2049 项目中 MongoDB 与 Redis 如何分层？](../questions/Q-2049.md) · [在线阅读](https://mianstack.com/question/q-2049)
+- [Q-20609 新旧埋点双写期间，数据分析使用哪套数据，怎样区分新旧事件？](../questions/Q-20609.md) · [在线阅读](https://mianstack.com/question/q-20609)
+- [Q-20611 新旧埋点双写期间，怎样发现数据遗漏并进行补救？](../questions/Q-20611.md) · [在线阅读](https://mianstack.com/question/q-20611)
 - [Q-2303 4GB 内存的电脑如何读取 10GB 日志，Python 迭代器如何用于此场景？](../questions/Q-2303.md) · [在线阅读](https://mianstack.com/question/q-2303)
 - [Q-2573 是否接触过大数据开发，做过哪些项目？](../questions/Q-2573.md) · [在线阅读](https://mianstack.com/question/q-2573)
 - [Q-2630 如何识别文本字数？](../questions/Q-2630.md) · [在线阅读](https://mianstack.com/question/q-2630)
@@ -3578,6 +3596,7 @@
 - [Q-2051 为什么开发 SQL 注入防护模块，你负责的第三层逻辑是什么？](../questions/Q-2051.md) · [在线阅读](https://mianstack.com/question/q-2051)
 - [Q-2052 SQL 注入防护的黑名单样本从哪里获得？](../questions/Q-2052.md) · [在线阅读](https://mianstack.com/question/q-2052)
 - [Q-2053 如何验证 SQL 注入防护有效？](../questions/Q-2053.md) · [在线阅读](https://mianstack.com/question/q-2053)
+- [Q-20551 TLS 与 SSH 的信任模型有什么区别？](../questions/Q-20551.md) · [在线阅读](https://mianstack.com/question/q-20551)
 - [Q-2122 项目是否实现了登录功能？](../questions/Q-2122.md) · [在线阅读](https://mianstack.com/question/q-2122)
 - [Q-2123 项目鉴权如何实现，怎样利用 AOP 或拦截器？](../questions/Q-2123.md) · [在线阅读](https://mianstack.com/question/q-2123)
 - [Q-2558 如何防止 XSS 攻击？](../questions/Q-2558.md) · [在线阅读](https://mianstack.com/question/q-2558)
@@ -3989,6 +4008,7 @@
 - [Q-19330 没有成员变量的类实例是否占用内存，为什么？](../questions/Q-19330.md) · [在线阅读](https://mianstack.com/question/q-19330)
 - [Q-20069 团队成员代码风格不同会造成什么问题，怎样评价和统一？](../questions/Q-20069.md) · [在线阅读](https://mianstack.com/question/q-20069)
 - [Q-2025 实现发布订阅模式。](../questions/Q-2025.md) · [在线阅读](https://mianstack.com/question/q-2025)
+- [Q-20502 面向对象有哪些设计原则？](../questions/Q-20502.md) · [在线阅读](https://mianstack.com/question/q-20502)
 - [Q-2879 装饰器设计模式是什么？](../questions/Q-2879.md) · [在线阅读](https://mianstack.com/question/q-2879)
 - [Q-3040 责任链模式如何通过代码实现？](../questions/Q-3040.md) · [在线阅读](https://mianstack.com/question/q-3040)
 - [Q-3155 如何选择面向对象还是函数式编程？](../questions/Q-3155.md) · [在线阅读](https://mianstack.com/question/q-3155)
@@ -4233,6 +4253,7 @@
 - [Q-20272 项目当时的运行环境能够访问公网吗？](../questions/Q-20272.md) · [在线阅读](https://mianstack.com/question/q-20272)
 - [Q-20274 容器场景是否需要 Kubernetes 编排，如何与云虚拟机方案比较？](../questions/Q-20274.md) · [在线阅读](https://mianstack.com/question/q-20274)
 - [Q-20321 PRE、PROD 等部署环境与 Git 分支是什么关系？](../questions/Q-20321.md) · [在线阅读](https://mianstack.com/question/q-20321)
+- [Q-20451 你编写的在线升级脚本怎样工作，核心流程和实现逻辑是什么？](../questions/Q-20451.md) · [在线阅读](https://mianstack.com/question/q-20451)
 - [Q-2128 是否用 Docker 进行过打包和部署？](../questions/Q-2128.md) · [在线阅读](https://mianstack.com/question/q-2128)
 - [Q-2156 程序在 Docker 容器和宿主机直接运行有什么区别？](../questions/Q-2156.md) · [在线阅读](https://mianstack.com/question/q-2156)
 - [Q-2163 不走完整 CI/CD 流程时如何保证安全上线？](../questions/Q-2163.md) · [在线阅读](https://mianstack.com/question/q-2163)

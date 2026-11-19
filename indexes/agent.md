@@ -6,7 +6,7 @@
 
 运行循环、规划、上下文、记忆、工具协议、工作流与多 Agent。
 
-共 1,680 道题，分为 12 个专题。
+共 1,682 道题，分为 12 个专题。
 
 ## 页内导航
 
@@ -1019,6 +1019,7 @@
 - [Q-18363 MCP Session 与 Agent 对话 Session 有什么区别，如何关联？](../questions/Q-18363.md) · [在线阅读](https://mianstack.com/question/q-18363)
 - [Q-18817 怎样将报表接口封装为 MCP 工具，组织参数、鉴权和结果返回？](../questions/Q-18817.md) · [在线阅读](https://mianstack.com/question/q-18817)
 - [Q-19090 MCP Server 怎样主动向 Client 发送消息？](../questions/Q-19090.md) · [在线阅读](https://mianstack.com/question/q-19090)
+- [Q-20400 Skill、CLI 与 MCP 如何在同一条工具接入工作流中配合？](../questions/Q-20400.md) · [在线阅读](https://mianstack.com/question/q-20400)
 - [Q-2426 Agent 交互消息分哪些类型？](../questions/Q-2426.md) · [在线阅读](https://mianstack.com/question/q-2426)
 - [Q-2519 是否考虑过 Streamable 方案？](../questions/Q-2519.md) · [在线阅读](https://mianstack.com/question/q-2519)
 - [Q-2529 Agent 协议还可以提供哪些能力？](../questions/Q-2529.md) · [在线阅读](https://mianstack.com/question/q-2529)
@@ -1407,6 +1408,7 @@
 - [Q-19333 Claude Code、Codex、OpenClaw 与 Hermes Agent 的多 Agent 协作机制有哪些差异？](../questions/Q-19333.md) · [在线阅读](https://mianstack.com/question/q-19333)
 - [Q-19905 你是否使用过 Sub-Agent？](../questions/Q-19905.md) · [在线阅读](https://mianstack.com/question/q-19905)
 - [Q-2034 多 Agent 之间如何通信？](../questions/Q-2034.md) · [在线阅读](https://mianstack.com/question/q-2034) · **已有答案**
+- [Q-20454 多 Agent 项目中，各个 Agent 实际会被调用多少次？](../questions/Q-20454.md) · [在线阅读](https://mianstack.com/question/q-20454)
 - [Q-2073 每个人在本地使用时，什么运行环境串联和调度多个 Agent？](../questions/Q-2073.md) · [在线阅读](https://mianstack.com/question/q-2073)
 - [Q-2074 多 Agent 交互采用串行还是主 Agent 调度子 Agent，如何选择？](../questions/Q-2074.md) · [在线阅读](https://mianstack.com/question/q-2074)
 - [Q-2075 你对 Agent Team 有哪些了解？](../questions/Q-2075.md) · [在线阅读](https://mianstack.com/question/q-2075)

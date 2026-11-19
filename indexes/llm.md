@@ -6,7 +6,7 @@
 
 大模型与机器学习的结构、表示、推理、解码、多模态、推荐及能力边界。
 
-共 1,549 道题，分为 8 个专题。
+共 1,551 道题，分为 8 个专题。
 
 ## 页内导航
 
@@ -305,6 +305,7 @@
 - [Q-16527 相对位置编码通常注入 Attention 的哪个位置，怎样影响注意力分数？](../questions/Q-16527.md) · [在线阅读](https://mianstack.com/question/q-16527)
 - [Q-18169 中文与英文的 Token 计数有什么差异，怎样可靠计算？](../questions/Q-18169.md) · [在线阅读](https://mianstack.com/question/q-18169)
 - [Q-18291 低资源翻译为什么采用字节流表示，而不使用传统 Token 或 BPE？](../questions/Q-18291.md) · [在线阅读](https://mianstack.com/question/q-18291)
+- [Q-20600 大语言模型中的 Token 是什么？](../questions/Q-20600.md) · [在线阅读](https://mianstack.com/question/q-20600)
 - [Q-3650 RoPE 是什么，解决什么问题？](../questions/Q-3650.md) · [在线阅读](https://mianstack.com/question/q-3650) · **已有答案**
 - [Q-3685 Tokenizer 的原理是什么，如何影响大模型训练与推理？](../questions/Q-3685.md) · [在线阅读](https://mianstack.com/question/q-3685)
 - [Q-4585 为什么大模型常采用子词分词，而非完整单词级分词？](../questions/Q-4585.md) · [在线阅读](https://mianstack.com/question/q-4585)
@@ -347,6 +348,7 @@
 - [Q-16584 思考模型与非思考模型的输出和执行行为有什么区别？](../questions/Q-16584.md) · [在线阅读](https://mianstack.com/question/q-16584)
 - [Q-18043 更大的上下文窗口有哪些收益和成本，是否一定提升效果？](../questions/Q-18043.md) · [在线阅读](https://mianstack.com/question/q-18043)
 - [Q-18588 部分模型接口不暴露 Temperature 时，怎样理解采样控制与模型训练之间的关系？](../questions/Q-18588.md) · [在线阅读](https://mianstack.com/question/q-18588)
+- [Q-20557 实现 Beam Search。](../questions/Q-20557.md) · [在线阅读](https://mianstack.com/question/q-20557)
 - [Q-2279 为什么 Temperature 为 0 时模型输出仍可能有差异？](../questions/Q-2279.md) · [在线阅读](https://mianstack.com/question/q-2279)
 - [Q-2757 Temperature、Top-k 和 Top-p 怎样影响模型采样？](../questions/Q-2757.md) · [在线阅读](https://mianstack.com/question/q-2757) · **已有答案**
 - [Q-2917 投机解码的原理是什么？](../questions/Q-2917.md) · [在线阅读](https://mianstack.com/question/q-2917)

@@ -6,7 +6,7 @@
 
 训练数据、预训练与微调、偏好对齐、强化学习、训练评测与分布式训练。
 
-共 1,128 道题，分为 9 个专题。
+共 1,129 道题，分为 9 个专题。
 
 ## 页内导航
 
@@ -1047,6 +1047,7 @@
 - [Q-19847 模型运行中为什么会产生显存碎片？](../questions/Q-19847.md) · [在线阅读](https://mianstack.com/question/q-19847)
 - [Q-20052 多机大模型训练被慢 GPU 节点拖累时，如何定位并设计硬件监控采集？](../questions/Q-20052.md) · [在线阅读](https://mianstack.com/question/q-20052)
 - [Q-2018 模型效果不好时，如何判断问题来自预训练、后训练还是数据？](../questions/Q-2018.md) · [在线阅读](https://mianstack.com/question/q-2018)
+- [Q-20556 项目采用哪些损失函数和优化方式，对应公式怎样表达？](../questions/Q-20556.md) · [在线阅读](https://mianstack.com/question/q-20556)
 - [Q-2683 微调时如何判断并缓解过拟合？](../questions/Q-2683.md) · [在线阅读](https://mianstack.com/question/q-2683)
 - [Q-2684 SFT 常用的损失函数是什么，如何选择和计算？](../questions/Q-2684.md) · [在线阅读](https://mianstack.com/question/q-2684)
 - [Q-2705 训练时如何选择关键超参数并判断其影响？](../questions/Q-2705.md) · [在线阅读](https://mianstack.com/question/q-2705)
